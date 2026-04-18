@@ -268,10 +268,30 @@ body {
 }
 
 .hero-links {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-areas:
+        "email scholar"
+        "orcid github";
     align-items: center;
     justify-content: center;
     gap: 16px;
+}
+
+.hero-link-email {
+    grid-area: email;
+}
+
+.hero-link-scholar {
+    grid-area: scholar;
+}
+
+.hero-link-github {
+    grid-area: github;
+}
+
+.hero-link-orcid {
+    grid-area: orcid;
 }
 
 .others-empty {
