@@ -3,7 +3,6 @@ const DATA_URL = '../data/journal_updates.json';
 const listElement = document.querySelector('#journal-updates-list');
 const statusElement = document.querySelector('#journal-updates-status');
 const updatedAtElement = document.querySelector('#tracked-updated-at');
-const startDateElement = document.querySelector('#tracked-start-date');
 const journalNamesElement = document.querySelector('#tracked-journal-names');
 const articleSummaryElement = document.querySelector('#tracked-article-summary');
 
@@ -90,7 +89,7 @@ function renderArticles(payload) {
     const oldestArticle = articles[articles.length - 1];
     articleSummaryElement.textContent = `${articles.length} articles, ${formatDateLabel(oldestArticle.published_date)} to ${formatDateLabel(newestArticle.published_date)}.`;
 
-    statusElement.textContent = `${articles.length} articles loaded from the last year.`;
+    statusElement.textContent = '';
 
     listElement.innerHTML = articles
         .map((article) => `
@@ -117,14 +116,13 @@ async function loadJournalUpdates() {
         const payload = await response.json();
 
         updatedAtElement.textContent = formatUpdatedAt(payload.generated_at);
-        startDateElement.textContent = payload.range_start || '2026-03-01';
         journalNamesElement.textContent = (payload.journals || [])
             .map((journal) => journal.short_name || journal.name)
             .join(', ');
 
         renderArticles(payload);
     } catch (error) {
-        statusElement.textContent = 'Unable to load journal updates right now.';
+        statusElement.textContent = '';
         listElement.innerHTML = '';
         updatedAtElement.textContent = 'Unavailable';
         journalNamesElement.textContent = 'Unavailable';

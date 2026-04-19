@@ -472,6 +472,10 @@ body {
     font: inherit;
 }
 
+.journal-label {
+    font-weight: 700;
+}
+
 .journal-entry {
     border: none;
     border-radius: 0;
@@ -529,7 +533,7 @@ body {
 }
 
 .journal-status {
-    padding-top: 16px;
+    display: none;
 }
 
 .journal-list-section {
