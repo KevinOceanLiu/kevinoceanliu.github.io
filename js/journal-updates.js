@@ -35,17 +35,35 @@ function formatUpdatedAt(value) {
     });
 }
 
+function isWithinLastYear(value) {
+    if (!value) {
+        return false;
+    }
+
+    const parsed = new Date(value);
+    if (Number.isNaN(parsed.getTime())) {
+        return false;
+    }
+
+    const cutoff = new Date();
+    cutoff.setFullYear(cutoff.getFullYear() - 1);
+    cutoff.setHours(0, 0, 0, 0);
+
+    return parsed >= cutoff;
+}
+
 function renderArticles(payload) {
-    const articles = Array.isArray(payload.articles) ? payload.articles : [];
+    const articles = (Array.isArray(payload.articles) ? payload.articles : [])
+        .filter((article) => isWithinLastYear(article.published_date));
     const journals = Array.isArray(payload.journals) ? payload.journals : [];
 
     if (!articles.length) {
-        statusElement.textContent = 'No journal updates are available right now.';
+        statusElement.textContent = 'No journal updates from the last year are available right now.';
         listElement.innerHTML = '';
         return;
     }
 
-    statusElement.textContent = `${articles.length} articles loaded.`;
+    statusElement.textContent = `${articles.length} articles loaded from the last year.`;
 
     listElement.innerHTML = journals
         .map((journal) => {
