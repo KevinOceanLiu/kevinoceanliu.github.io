@@ -301,9 +301,9 @@ body {
 
 .others-page,
 .journal-page {
-    max-width: 1180px;
+    max-width: 1200px;
     margin: 0 auto;
-    padding: 24px 12px 72px;
+    padding: 24px var(--spacing-md) 72px;
 }
 
 .others-page-compact {
@@ -437,12 +437,17 @@ body {
 .others-card-compact {
     grid-template-columns: 380px minmax(0, 1fr);
     align-items: center;
-    max-width: 920px;
+    width: 100%;
+    max-width: none;
 }
 
 .others-card-compact .others-card-image-wrap {
     border: none;
     border-radius: 18px;
+}
+
+.others-card-compact p {
+    max-width: none;
 }
 
 .journal-simple-header {
@@ -454,11 +459,10 @@ body {
 
 .journal-simple-header p,
 .journal-status,
-.journal-group-title,
 .journal-entry p,
-.journal-entry summary,
 .journal-entry a,
-.journal-empty-line {
+.journal-tag,
+.journal-tag-value {
     font-size: 16px;
     line-height: 1.7;
     color: #000;
@@ -468,40 +472,50 @@ body {
     font: inherit;
 }
 
-.journal-group {
-    padding: 18px 0 22px;
-    border-bottom: 1px solid var(--border-color);
-    margin-top: 18px;
-}
-
-.journal-group:first-child {
-    margin-top: 0;
-    border-top: 1px solid var(--border-color);
-}
-
-.journal-group-title {
-    font-weight: 400;
-    margin-bottom: 14px;
-}
-
 .journal-entry {
     border: none;
     border-radius: 0;
-    padding: 10px 0;
+    padding: 16px 0;
     background: transparent;
     box-shadow: none;
+    border-top: 1px solid #d9d9d9;
 }
 
-.journal-entry + .journal-entry {
-    border-top: 1px solid #f0f0f0;
+.journal-entry:last-child {
+    border-bottom: 1px solid #d9d9d9;
 }
 
 .journal-entry p {
     margin: 0;
 }
 
-.journal-entry p + p {
-    margin-top: 2px;
+.journal-entry-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.journal-tag,
+.journal-tag-value {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    border-radius: 999px;
+    border: 1px solid var(--border-color);
+    background: #f7f7f7;
+}
+
+.journal-tag {
+    color: #666;
+}
+
+.journal-tag-value {
+    background: #fff;
+}
+
+.journal-entry-title-line {
+    margin-top: 0;
 }
 
 .journal-entry a {
@@ -512,18 +526,6 @@ body {
 
 .journal-entry a:hover {
     color: rgb(58, 88, 160);
-}
-
-.journal-entry-details {
-    margin-top: 6px;
-    border-top: none;
-    padding-top: 0;
-}
-
-.journal-entry-details summary {
-    cursor: pointer;
-    font-weight: 600;
-    list-style: none;
 }
 
 .journal-status {
@@ -538,10 +540,6 @@ body {
     margin-top: 8px;
     display: grid;
     gap: 0;
-}
-
-.journal-empty-line {
-    padding: 8px 0;
 }
 
 .home-page {

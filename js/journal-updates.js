@@ -54,8 +54,12 @@ function isWithinLastYear(value) {
 
 function renderArticles(payload) {
     const articles = (Array.isArray(payload.articles) ? payload.articles : [])
-        .filter((article) => isWithinLastYear(article.published_date));
-    const journals = Array.isArray(payload.journals) ? payload.journals : [];
+        .filter((article) => isWithinLastYear(article.published_date))
+        .sort((left, right) => {
+            const leftDate = new Date(left.published_date || 0).getTime();
+            const rightDate = new Date(right.published_date || 0).getTime();
+            return rightDate - leftDate;
+        });
 
     if (!articles.length) {
         statusElement.textContent = 'No journal updates from the last year are available right now.';
@@ -65,40 +69,20 @@ function renderArticles(payload) {
 
     statusElement.textContent = `${articles.length} articles loaded from the last year.`;
 
-    listElement.innerHTML = journals
-        .map((journal) => {
-            const journalArticles = articles.filter((article) => article.journal_id === journal.id);
-            const articleMarkup = journalArticles.length
-                ? journalArticles.map((article) => {
-                    const keywords = Array.isArray(article.keywords) && article.keywords.length
-                        ? escapeHtml(article.keywords.join(', '))
-                        : 'No keywords available.';
-                    const abstract = article.abstract
-                        ? escapeHtml(article.abstract)
-                        : 'Abstract not available from the current metadata sources.';
-
-                    return `
-                        <article class="journal-entry">
-                            <p>${escapeHtml(article.published_date_display || article.published_date || 'Unknown date')}</p>
-                            <p><a href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a></p>
-                            <details class="journal-entry-details">
-                                <summary>Abstract / Keywords / Link</summary>
-                                <p>${abstract}</p>
-                                <p>Keywords: ${keywords}</p>
-                                <p><a href="${escapeHtml(article.doi_url || article.link)}" target="_blank" rel="noreferrer">Link</a></p>
-                            </details>
-                        </article>
-                    `;
-                }).join('')
-                : '<p class="journal-empty-line">No articles available currently.</p>';
-
-            return `
-                <section class="journal-group">
-                    <p class="journal-group-title">${escapeHtml(journal.short_name || journal.name)}</p>
-                    ${articleMarkup}
-                </section>
-            `;
-        })
+    listElement.innerHTML = articles
+        .map((article) => `
+            <article class="journal-entry">
+                <div class="journal-entry-tags">
+                    <span class="journal-tag">Journal</span>
+                    <span class="journal-tag-value">${escapeHtml(article.journal_short_name || article.journal_name || 'Unknown journal')}</span>
+                    <span class="journal-tag">Date</span>
+                    <span class="journal-tag-value">${escapeHtml(article.published_date_display || article.published_date || 'Unknown date')}</span>
+                </div>
+                <p class="journal-entry-title-line">
+                    <a href="${escapeHtml(article.link)}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a>
+                </p>
+            </article>
+        `)
         .join('');
 }
 
