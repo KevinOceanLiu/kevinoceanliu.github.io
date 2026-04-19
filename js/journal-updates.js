@@ -5,6 +5,7 @@ const statusElement = document.querySelector('#journal-updates-status');
 const updatedAtElement = document.querySelector('#tracked-updated-at');
 const startDateElement = document.querySelector('#tracked-start-date');
 const journalNamesElement = document.querySelector('#tracked-journal-names');
+const articleSummaryElement = document.querySelector('#tracked-article-summary');
 
 function escapeHtml(value) {
     return String(value)
@@ -32,6 +33,23 @@ function formatUpdatedAt(value) {
         hour: '2-digit',
         minute: '2-digit',
         timeZoneName: 'short'
+    });
+}
+
+function formatDateLabel(value) {
+    if (!value) {
+        return 'Unavailable';
+    }
+
+    const parsed = new Date(value);
+    if (Number.isNaN(parsed.getTime())) {
+        return value;
+    }
+
+    return parsed.toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric'
     });
 }
 
@@ -63,9 +81,14 @@ function renderArticles(payload) {
 
     if (!articles.length) {
         statusElement.textContent = 'No journal updates from the last year are available right now.';
+        articleSummaryElement.textContent = 'No articles available in the current one-year window.';
         listElement.innerHTML = '';
         return;
     }
+
+    const newestArticle = articles[0];
+    const oldestArticle = articles[articles.length - 1];
+    articleSummaryElement.textContent = `${articles.length} articles, ${formatDateLabel(oldestArticle.published_date)} to ${formatDateLabel(newestArticle.published_date)}.`;
 
     statusElement.textContent = `${articles.length} articles loaded from the last year.`;
 
@@ -107,6 +130,7 @@ async function loadJournalUpdates() {
         listElement.innerHTML = '';
         updatedAtElement.textContent = 'Unavailable';
         journalNamesElement.textContent = 'Unavailable';
+        articleSummaryElement.textContent = 'Unavailable';
         console.error(error);
     }
 }
