@@ -50,12 +50,6 @@ JOURNALS = [
         "short_name": "Annals AAG",
         "issns": ["2469-4460", "2469-4452"],
     },
-    {
-        "id": "tgrs",
-        "name": "IEEE Transactions on Geoscience and Remote Sensing",
-        "short_name": "IEEE TGRS",
-        "issns": ["1558-0644", "0196-2892"],
-    },
 ]
 
 
