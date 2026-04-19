@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://kevinoceanliu.github.io/pages/journal-updates.html">
+    <meta property="og:url" content="https://kevinoceanliu.github.io/pages/journal-updates.html">
+    <title>GeoPulse Journal Updates - Liu Haiyang</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">Liu Haiyang</div>
+            <ul class="nav-menu">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="about.html" class="active">Others</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="journal-page">
+        <section class="journal-simple-header">
+            <p>Updated: <span id="tracked-updated-at">Loading...</span></p>
+            <p>Tracked journals: <span id="tracked-journal-names">Loading...</span></p>
+            <p>Coverage starts: <span id="tracked-start-date">2026-03-01</span></p>
+        </section>
+
+        <section class="journal-list-section">
+            <div id="journal-updates-status" class="journal-status">Loading journal updates...</div>
+            <div id="journal-updates-list" class="journal-list" aria-live="polite"></div>
+        </section>
+    </main>
+
+    <script src="../js/script.js"></script>
+    <script src="../js/journal-updates.js"></script>
+</body>
+</html>
