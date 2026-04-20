@@ -448,12 +448,16 @@ body {
     padding-bottom: 18px;
     padding: 14px 18px 18px;
     display: grid;
-    gap: 8px;
+    gap: 10px;
     background: #f7f6f3;
     border-radius: 14px;
 }
 
 .journal-simple-header > p {
+    margin: 0;
+}
+
+.journal-meta-row {
     margin: 0;
 }
 
@@ -476,25 +480,25 @@ body {
     font-weight: 700;
 }
 
-.journal-filters {
-    display: grid;
-    gap: 12px;
-    padding-top: 4px;
-}
-
-.journal-filter-group {
-    display: grid;
-    gap: 8px;
+.journal-meta-row-filters {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    column-gap: 8px;
+    row-gap: 8px;
 }
 
 .journal-filter-heading {
     margin: 0;
+    flex: 0 0 auto;
 }
 
 .journal-filter-options {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
+    flex: 1 1 520px;
+    min-width: 0;
 }
 
 .journal-filter-button {
@@ -510,55 +514,60 @@ body {
     transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
 }
 
-.journal-filter-button:hover {
-    transform: translateY(-1px);
-    border-color: #b9c2d8;
-}
-
-.journal-filter-button.is-active {
-    color: #000;
-    border-color: #cdd5ea;
-    background: #edf2ff;
-}
-
-.journal-filter-button.is-active.journal-tag-rse {
+.journal-filter-button.journal-tag-rse {
     background: #dbeafe;
     border-color: #bfdbfe;
 }
 
-.journal-filter-button.is-active.journal-tag-isprs-jprs {
+.journal-filter-button.journal-tag-isprs-jprs {
     background: #dff7e2;
     border-color: #c7edcd;
 }
 
-.journal-filter-button.is-active.journal-tag-ijgis {
+.journal-filter-button.journal-tag-ijgis {
     background: #fce7f3;
     border-color: #fbcfe8;
 }
 
-.journal-filter-button.is-active.journal-tag-annals-aag {
+.journal-filter-button.journal-tag-annals-aag {
     background: #fef3c7;
     border-color: #fde68a;
 }
 
-.journal-filter-button.is-active.journal-tag-one-earth {
+.journal-filter-button.journal-tag-one-earth {
     background: #fde7d8;
     border-color: #f7d2bb;
 }
 
-.journal-filter-button.is-active.journal-tag-nature-sustainability {
+.journal-filter-button.journal-tag-nature-sustainability {
     background: #e0f2fe;
     border-color: #bae6fd;
 }
 
-.journal-filter-button.is-active.journal-tag-nature-geoscience {
+.journal-filter-button.journal-tag-nature-geoscience {
     background: #ede9fe;
     border-color: #ddd6fe;
 }
 
-.journal-filter-button.is-active.journal-tag-nature-climate-change {
+.journal-filter-button.journal-tag-nature-climate-change {
     background: #dcfce7;
     border-color: #bbf7d0;
+}
+
+.journal-filter-button:hover {
+    transform: translateY(-1px);
+    border-color: #aab6d8;
+}
+
+.journal-filter-button.is-active {
+    color: #000;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.07);
+}
+
+.journal-filter-button:not(.is-active) {
+    background: #fff;
+    border-color: var(--border-color);
+    color: #6b7280;
 }
 
 .journal-entry {

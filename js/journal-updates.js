@@ -5,6 +5,5 @@ initJournalFeedPage({
     updatedAtSelector: '#tracked-updated-at',
     journalNamesSelector: '#tracked-journal-names',
     articleSummarySelector: '#tracked-article-summary',
-    journalFiltersSelector: '#journal-filter-buttons',
-    rangeFiltersSelector: '#time-range-buttons'
+    journalFiltersSelector: '#journal-filter-buttons'
 });

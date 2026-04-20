@@ -8,8 +8,7 @@ function initJournalFeedPage(config) {
         updatedAtSelector,
         journalNamesSelector,
         articleSummarySelector,
-        journalFiltersSelector,
-        rangeFiltersSelector
+        journalFiltersSelector
     } = config;
 
     const listElement = document.querySelector(listSelector);
@@ -18,72 +17,11 @@ function initJournalFeedPage(config) {
     const journalNamesElement = document.querySelector(journalNamesSelector);
     const articleSummaryElement = document.querySelector(articleSummarySelector);
     const journalFiltersElement = document.querySelector(journalFiltersSelector);
-    const rangeFiltersElement = document.querySelector(rangeFiltersSelector);
 
     const state = {
         payload: null,
-        selectedJournalIds: new Set(),
-        selectedRangeId: 'auto'
+        selectedJournalIds: new Set()
     };
-
-    const rangePresets = [
-        {
-            id: 'auto',
-            label: 'Auto',
-            getRange: () => {
-                const end = new Date();
-                const start = new Date(end);
-                start.setFullYear(start.getFullYear() - 1);
-                start.setHours(0, 0, 0, 0);
-                return {
-                    start: JOURNAL_FEED_FIXED_START > start ? new Date(JOURNAL_FEED_FIXED_START) : start,
-                    end
-                };
-            }
-        },
-        {
-            id: 'since-20260101',
-            label: 'Since 2026-01-01',
-            getRange: () => ({
-                start: new Date(JOURNAL_FEED_FIXED_START),
-                end: new Date()
-            })
-        },
-        {
-            id: '30d',
-            label: '30D',
-            getRange: () => buildRecentRange(30)
-        },
-        {
-            id: '90d',
-            label: '90D',
-            getRange: () => buildRecentRange(90)
-        },
-        {
-            id: '180d',
-            label: '180D',
-            getRange: () => buildRecentRange(180)
-        },
-        {
-            id: '1y',
-            label: '1Y',
-            getRange: () => {
-                const end = new Date();
-                const start = new Date(end);
-                start.setFullYear(start.getFullYear() - 1);
-                start.setHours(0, 0, 0, 0);
-                return { start, end };
-            }
-        }
-    ];
-
-    function buildRecentRange(days) {
-        const end = new Date();
-        const start = new Date(end);
-        start.setDate(start.getDate() - days);
-        start.setHours(0, 0, 0, 0);
-        return { start, end };
-    }
 
     function escapeHtml(value) {
         return String(value)
@@ -144,9 +82,15 @@ function initJournalFeedPage(config) {
         });
     }
 
-    function getActiveRange() {
-        const preset = rangePresets.find((item) => item.id === state.selectedRangeId) || rangePresets[0];
-        return preset.getRange();
+    function getDefaultRange() {
+        const end = new Date();
+        const start = new Date(end);
+        start.setFullYear(start.getFullYear() - 1);
+        start.setHours(0, 0, 0, 0);
+        return {
+            start: JOURNAL_FEED_FIXED_START > start ? new Date(JOURNAL_FEED_FIXED_START) : start,
+            end
+        };
     }
 
     function isArticleVisible(article, range) {
@@ -163,20 +107,11 @@ function initJournalFeedPage(config) {
     }
 
     function renderJournalFilters(journals) {
-        const hasAllSelected = journals.length > 0 && state.selectedJournalIds.size === journals.length;
-
-        journalFiltersElement.innerHTML = [
-            `<button type="button" class="journal-filter-button ${hasAllSelected ? 'is-active' : ''}" data-filter-kind="journal" data-journal-id="__all__">All journals</button>`,
-            ...journals.map((journal) => {
+        journalFiltersElement.innerHTML = journals
+            .map((journal) => {
                 const isActive = state.selectedJournalIds.has(journal.id);
-                return `<button type="button" class="journal-filter-button ${isActive ? `is-active journal-tag-${escapeHtml(journal.id)}` : ''}" data-filter-kind="journal" data-journal-id="${escapeHtml(journal.id)}">${escapeHtml(journal.short_name || journal.name || journal.id)}</button>`;
+                return `<button type="button" class="journal-filter-button journal-tag-${escapeHtml(journal.id)} ${isActive ? 'is-active' : ''}" data-filter-kind="journal" data-journal-id="${escapeHtml(journal.id)}" aria-pressed="${isActive ? 'true' : 'false'}">${escapeHtml(journal.short_name || journal.name || journal.id)}</button>`;
             })
-        ].join('');
-    }
-
-    function renderRangeFilters() {
-        rangeFiltersElement.innerHTML = rangePresets
-            .map((preset) => `<button type="button" class="journal-filter-button ${preset.id === state.selectedRangeId ? 'is-active' : ''}" data-filter-kind="range" data-range-id="${escapeHtml(preset.id)}">${escapeHtml(preset.label)}</button>`)
             .join('');
     }
 
@@ -194,7 +129,7 @@ function initJournalFeedPage(config) {
             return;
         }
 
-        const range = getActiveRange();
+        const range = getDefaultRange();
         const articles = (Array.isArray(state.payload.articles) ? state.payload.articles : [])
             .filter((article) => isArticleVisible(article, range))
             .sort((left, right) => {
@@ -235,7 +170,6 @@ function initJournalFeedPage(config) {
     function renderFiltersAndArticles() {
         const journals = state.payload && Array.isArray(state.payload.journals) ? state.payload.journals : [];
         renderJournalFilters(journals);
-        renderRangeFilters();
         renderArticles();
     }
 
@@ -249,9 +183,7 @@ function initJournalFeedPage(config) {
             const journals = Array.isArray(state.payload.journals) ? state.payload.journals : [];
             const journalId = button.dataset.journalId;
 
-            if (journalId === '__all__') {
-                state.selectedJournalIds = new Set(journals.map((journal) => journal.id));
-            } else if (journalId) {
+            if (journalId) {
                 const nextSelected = new Set(state.selectedJournalIds);
                 if (nextSelected.has(journalId)) {
                     nextSelected.delete(journalId);
@@ -261,18 +193,6 @@ function initJournalFeedPage(config) {
                 state.selectedJournalIds = nextSelected;
             }
 
-            renderFiltersAndArticles();
-        });
-    }
-
-    if (rangeFiltersElement) {
-        rangeFiltersElement.addEventListener('click', (event) => {
-            const button = event.target.closest('[data-filter-kind="range"]');
-            if (!button) {
-                return;
-            }
-
-            state.selectedRangeId = button.dataset.rangeId || 'auto';
             renderFiltersAndArticles();
         });
     }
