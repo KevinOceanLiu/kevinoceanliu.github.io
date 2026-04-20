@@ -91,7 +91,7 @@ function renderArticles(payload) {
         .map((article) => `
             <article class="journal-entry">
                 <div class="journal-entry-tags">
-                    <span class="journal-tag-value">${escapeHtml(article.journal_short_name || article.journal_name || 'Unknown journal')}</span>
+                    <span class="journal-tag-value journal-tag-${escapeHtml(article.journal_id || 'unknown')}">${escapeHtml(article.journal_short_name || article.journal_name || 'Unknown journal')}</span>
                     <span class="journal-tag-value">${escapeHtml(article.published_date_display || article.published_date || 'Unknown date')}</span>
                 </div>
                 <p class="journal-entry-title-line">
