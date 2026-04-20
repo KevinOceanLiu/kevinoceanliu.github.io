@@ -453,6 +453,10 @@ body {
     border-radius: 14px;
 }
 
+.journal-simple-header > p {
+    margin: 0;
+}
+
 .journal-simple-header p,
 .journal-status,
 .journal-entry p,
@@ -470,6 +474,91 @@ body {
 
 .journal-label {
     font-weight: 700;
+}
+
+.journal-filters {
+    display: grid;
+    gap: 12px;
+    padding-top: 4px;
+}
+
+.journal-filter-group {
+    display: grid;
+    gap: 8px;
+}
+
+.journal-filter-heading {
+    margin: 0;
+}
+
+.journal-filter-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.journal-filter-button {
+    appearance: none;
+    border: 1px solid var(--border-color);
+    border-radius: 999px;
+    background: #fff;
+    color: #555;
+    padding: 4px 10px;
+    font: inherit;
+    line-height: 1.7;
+    cursor: pointer;
+    transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
+}
+
+.journal-filter-button:hover {
+    transform: translateY(-1px);
+    border-color: #b9c2d8;
+}
+
+.journal-filter-button.is-active {
+    color: #000;
+    border-color: #cdd5ea;
+    background: #edf2ff;
+}
+
+.journal-filter-button.is-active.journal-tag-rse {
+    background: #dbeafe;
+    border-color: #bfdbfe;
+}
+
+.journal-filter-button.is-active.journal-tag-isprs-jprs {
+    background: #dff7e2;
+    border-color: #c7edcd;
+}
+
+.journal-filter-button.is-active.journal-tag-ijgis {
+    background: #fce7f3;
+    border-color: #fbcfe8;
+}
+
+.journal-filter-button.is-active.journal-tag-annals-aag {
+    background: #fef3c7;
+    border-color: #fde68a;
+}
+
+.journal-filter-button.is-active.journal-tag-one-earth {
+    background: #fde7d8;
+    border-color: #f7d2bb;
+}
+
+.journal-filter-button.is-active.journal-tag-nature-sustainability {
+    background: #e0f2fe;
+    border-color: #bae6fd;
+}
+
+.journal-filter-button.is-active.journal-tag-nature-geoscience {
+    background: #ede9fe;
+    border-color: #ddd6fe;
+}
+
+.journal-filter-button.is-active.journal-tag-nature-climate-change {
+    background: #dcfce7;
+    border-color: #bbf7d0;
 }
 
 .journal-entry {
@@ -1315,6 +1404,10 @@ body {
 
     .journal-entry {
         padding: 16px;
+    }
+
+    .journal-filter-options {
+        gap: 6px;
     }
 
 }

@@ -29,14 +29,26 @@
             <p><strong class="journal-label">Updated:</strong> <span id="tracked-updated-at">Loading...</span></p>
             <p><strong class="journal-label">Tracked journals:</strong> <span id="tracked-journal-names">Loading...</span></p>
             <p><strong class="journal-label">Current display:</strong> <span id="tracked-article-summary">Loading...</span></p>
+            <div class="journal-filters" aria-label="Journal display filters">
+                <div class="journal-filter-group">
+                    <p class="journal-filter-heading"><strong class="journal-label">Journals:</strong></p>
+                    <div id="journal-filter-buttons" class="journal-filter-options"></div>
+                </div>
+                <div class="journal-filter-group">
+                    <p class="journal-filter-heading"><strong class="journal-label">Time range:</strong></p>
+                    <div id="time-range-buttons" class="journal-filter-options"></div>
+                </div>
+            </div>
         </section>
 
         <section class="journal-list-section">
+            <div id="earthfront-updates-status" class="journal-status">Loading journal updates...</div>
             <div id="earthfront-updates-list" class="journal-list" aria-live="polite"></div>
         </section>
     </main>
 
     <script src="../js/script.js"></script>
+    <script src="../js/journal-feed.js"></script>
     <script src="../js/earthfront-updates.js"></script>
 </body>
 </html>
