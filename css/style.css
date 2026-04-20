@@ -447,8 +447,11 @@ body {
 .journal-simple-header {
     border-bottom: 1px solid var(--border-color);
     padding-bottom: 18px;
+    padding: 14px 18px 18px;
     display: grid;
     gap: 8px;
+    background: #f7f6f3;
+    border-radius: 14px;
 }
 
 .journal-simple-header p,
