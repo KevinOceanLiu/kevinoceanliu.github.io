@@ -372,7 +372,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     gap: 18px;
-    align-items: flex-start;
+    align-items: stretch;
     justify-content: flex-start;
 }
 
@@ -390,6 +390,7 @@ body {
     overflow: hidden;
     transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
     max-width: 460px;
+    height: 100%;
 }
 
 .others-card:hover {
@@ -403,7 +404,8 @@ body {
     overflow: hidden;
     border: none;
     background: #fff;
-    height: 132px;
+    flex: 0 0 150px;
+    height: 150px;
 }
 
 .others-card-image {
@@ -419,8 +421,8 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     gap: 6px;
-    padding: 12px 14px 14px;
-    min-height: 132px;
+    padding: 16px 16px 18px;
+    min-height: 196px;
     flex: 1 1 auto;
     background: #f7f6f3;
 }
@@ -433,7 +435,7 @@ body {
 
 .others-card p {
     font-size: 12px;
-    line-height: 1.5;
+    line-height: 1.45;
     max-width: none;
     color: #4b5563;
 }
@@ -441,7 +443,7 @@ body {
 .others-card-compact {
     width: 260px;
     max-width: 260px;
-    height: 276px;
+    min-height: 346px;
 }
 
 .journal-simple-header {
@@ -1405,10 +1407,17 @@ body {
     .others-card-compact {
         width: 220px;
         max-width: 220px;
+        min-height: 336px;
     }
 
     .others-card-image-wrap {
-        height: 108px;
+        flex-basis: 120px;
+        height: 120px;
+    }
+
+    .others-card-copy {
+        min-height: 216px;
+        padding: 14px 14px 16px;
     }
 
     .journal-entry {
