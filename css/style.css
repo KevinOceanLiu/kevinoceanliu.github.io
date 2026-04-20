@@ -514,46 +514,6 @@ body {
     transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
 }
 
-.journal-filter-button.journal-tag-rse {
-    background: #dbeafe;
-    border-color: #bfdbfe;
-}
-
-.journal-filter-button.journal-tag-isprs-jprs {
-    background: #dff7e2;
-    border-color: #c7edcd;
-}
-
-.journal-filter-button.journal-tag-ijgis {
-    background: #fce7f3;
-    border-color: #fbcfe8;
-}
-
-.journal-filter-button.journal-tag-annals-aag {
-    background: #fef3c7;
-    border-color: #fde68a;
-}
-
-.journal-filter-button.journal-tag-one-earth {
-    background: #fde7d8;
-    border-color: #f7d2bb;
-}
-
-.journal-filter-button.journal-tag-nature-sustainability {
-    background: #e0f2fe;
-    border-color: #bae6fd;
-}
-
-.journal-filter-button.journal-tag-nature-geoscience {
-    background: #ede9fe;
-    border-color: #ddd6fe;
-}
-
-.journal-filter-button.journal-tag-nature-climate-change {
-    background: #dcfce7;
-    border-color: #bbf7d0;
-}
-
 .journal-filter-button:hover {
     transform: translateY(-1px);
     border-color: #aab6d8;
@@ -562,6 +522,46 @@ body {
 .journal-filter-button.is-active {
     color: #000;
     box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.07);
+}
+
+.journal-filter-button.is-active.journal-tag-rse {
+    background: #dbeafe;
+    border-color: #bfdbfe;
+}
+
+.journal-filter-button.is-active.journal-tag-isprs-jprs {
+    background: #dff7e2;
+    border-color: #c7edcd;
+}
+
+.journal-filter-button.is-active.journal-tag-ijgis {
+    background: #fce7f3;
+    border-color: #fbcfe8;
+}
+
+.journal-filter-button.is-active.journal-tag-annals-aag {
+    background: #fef3c7;
+    border-color: #fde68a;
+}
+
+.journal-filter-button.is-active.journal-tag-one-earth {
+    background: #fde7d8;
+    border-color: #f7d2bb;
+}
+
+.journal-filter-button.is-active.journal-tag-nature-sustainability {
+    background: #e0f2fe;
+    border-color: #bae6fd;
+}
+
+.journal-filter-button.is-active.journal-tag-nature-geoscience {
+    background: #ede9fe;
+    border-color: #ddd6fe;
+}
+
+.journal-filter-button.is-active.journal-tag-nature-climate-change {
+    background: #dcfce7;
+    border-color: #bbf7d0;
 }
 
 .journal-filter-button:not(.is-active) {

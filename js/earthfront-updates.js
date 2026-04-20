@@ -5,5 +5,11 @@ initJournalFeedPage({
     updatedAtSelector: '#tracked-updated-at',
     journalNamesSelector: '#tracked-journal-names',
     articleSummarySelector: '#tracked-article-summary',
-    journalFiltersSelector: '#journal-filter-buttons'
+    journalFiltersSelector: '#journal-filter-buttons',
+    fallbackJournals: [
+        { id: 'one-earth', short_name: 'One Earth' },
+        { id: 'nature-sustainability', short_name: 'Nature Sustainability' },
+        { id: 'nature-geoscience', short_name: 'Nature Geoscience' },
+        { id: 'nature-climate-change', short_name: 'Nature Climate Change' }
+    ]
 });

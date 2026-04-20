@@ -8,7 +8,8 @@ function initJournalFeedPage(config) {
         updatedAtSelector,
         journalNamesSelector,
         articleSummarySelector,
-        journalFiltersSelector
+        journalFiltersSelector,
+        fallbackJournals
     } = config;
 
     const listElement = document.querySelector(listSelector);
@@ -168,7 +169,9 @@ function initJournalFeedPage(config) {
     }
 
     function renderFiltersAndArticles() {
-        const journals = state.payload && Array.isArray(state.payload.journals) ? state.payload.journals : [];
+        const journals = state.payload && Array.isArray(state.payload.journals) && state.payload.journals.length
+            ? state.payload.journals
+            : fallbackJournals;
         renderJournalFilters(journals);
         renderArticles();
     }
@@ -217,6 +220,7 @@ function initJournalFeedPage(config) {
 
             renderFiltersAndArticles();
         } catch (error) {
+            renderFiltersAndArticles();
             setStatus('');
             listElement.innerHTML = '';
             updatedAtElement.textContent = 'Unavailable';
