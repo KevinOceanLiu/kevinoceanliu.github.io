@@ -16,7 +16,7 @@ from urllib.request import Request, urlopen
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = REPO_ROOT / "data" / "journal_updates.json"
-RANGE_START = "2026-03-01"
+RANGE_START = "2026-01-01"
 CROSSREF_API = "https://api.crossref.org/journals/{issn}/works"
 USER_AGENT = os.environ.get(
     "JOURNAL_UPDATES_USER_AGENT",
