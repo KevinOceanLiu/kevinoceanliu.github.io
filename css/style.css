@@ -566,6 +566,36 @@ body {
     border-color: #bbf7d0;
 }
 
+.journal-filter-button.is-active.journal-tag-journal-of-ecology {
+    background: #dff4e4;
+    border-color: #bfe3c7;
+}
+
+.journal-filter-button.is-active.journal-tag-journal-of-applied-ecology {
+    background: #e7efe2;
+    border-color: #cad8c2;
+}
+
+.journal-filter-button.is-active.journal-tag-nature-ecology-evolution {
+    background: #e5f1df;
+    border-color: #c9ddbf;
+}
+
+.journal-filter-button.is-active.journal-tag-ecology-letters {
+    background: #eef2d9;
+    border-color: #d9e1b2;
+}
+
+.journal-filter-button.is-active.journal-tag-global-change-biology {
+    background: #f7e4c8;
+    border-color: #ebcf9d;
+}
+
+.journal-filter-button.is-active.journal-tag-american-naturalist {
+    background: #eadfd2;
+    border-color: #d6c3ac;
+}
+
 .journal-filter-button:not(.is-active) {
     background: #fff;
     border-color: var(--border-color);
@@ -659,6 +689,36 @@ body {
 .journal-tag-value.journal-tag-nature-climate-change {
     background: #dcfce7;
     border-color: #bbf7d0;
+}
+
+.journal-tag-value.journal-tag-journal-of-ecology {
+    background: #dff4e4;
+    border-color: #bfe3c7;
+}
+
+.journal-tag-value.journal-tag-journal-of-applied-ecology {
+    background: #e7efe2;
+    border-color: #cad8c2;
+}
+
+.journal-tag-value.journal-tag-nature-ecology-evolution {
+    background: #e5f1df;
+    border-color: #c9ddbf;
+}
+
+.journal-tag-value.journal-tag-ecology-letters {
+    background: #eef2d9;
+    border-color: #d9e1b2;
+}
+
+.journal-tag-value.journal-tag-global-change-biology {
+    background: #f7e4c8;
+    border-color: #ebcf9d;
+}
+
+.journal-tag-value.journal-tag-american-naturalist {
+    background: #eadfd2;
+    border-color: #d6c3ac;
 }
 
 .journal-entry-title-line {
