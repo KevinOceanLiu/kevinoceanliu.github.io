@@ -33,10 +33,10 @@ JOURNALS = [
         "issns": ["2590-3322"],
     },
     {
-        "id": "pnas",
-        "name": "Proceedings of the National Academy of Sciences",
-        "short_name": "PNAS",
-        "issns": ["1091-6490", "0027-8424"],
+        "id": "nature-sustainability",
+        "name": "Nature Sustainability",
+        "short_name": "Nature Sustainability",
+        "issns": ["2398-9629"],
     },
     {
         "id": "nature-geoscience",
