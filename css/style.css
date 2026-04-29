@@ -628,6 +628,31 @@ body {
     border-color: #d6c3ac;
 }
 
+.journal-filter-button.is-active.journal-tag-nature-cities {
+    background: #ffe4e6;
+    border-color: #fecdd3;
+}
+
+.journal-filter-button.is-active.journal-tag-computers-environment-urban-systems {
+    background: #dbeafe;
+    border-color: #bfdbfe;
+}
+
+.journal-filter-button.is-active.journal-tag-landscape-urban-planning {
+    background: #dcfce7;
+    border-color: #bbf7d0;
+}
+
+.journal-filter-button.is-active.journal-tag-cities {
+    background: #ede9fe;
+    border-color: #ddd6fe;
+}
+
+.journal-filter-button.is-active.journal-tag-urban-studies {
+    background: #ffedd5;
+    border-color: #fed7aa;
+}
+
 .journal-filter-button:not(.is-active) {
     background: #fff;
     border-color: var(--border-color);
@@ -751,6 +776,31 @@ body {
 .journal-tag-value.journal-tag-american-naturalist {
     background: #eadfd2;
     border-color: #d6c3ac;
+}
+
+.journal-tag-value.journal-tag-nature-cities {
+    background: #ffe4e6;
+    border-color: #fecdd3;
+}
+
+.journal-tag-value.journal-tag-computers-environment-urban-systems {
+    background: #dbeafe;
+    border-color: #bfdbfe;
+}
+
+.journal-tag-value.journal-tag-landscape-urban-planning {
+    background: #dcfce7;
+    border-color: #bbf7d0;
+}
+
+.journal-tag-value.journal-tag-cities {
+    background: #ede9fe;
+    border-color: #ddd6fe;
+}
+
+.journal-tag-value.journal-tag-urban-studies {
+    background: #ffedd5;
+    border-color: #fed7aa;
 }
 
 .journal-entry-title-line {

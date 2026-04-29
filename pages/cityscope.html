@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://kevinoceanliu.github.io/pages/cityscope.html">
+    <meta property="og:url" content="https://kevinoceanliu.github.io/pages/cityscope.html">
+    <title>CityScope Updates - Liu Haiyang</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">Liu Haiyang</div>
+            <ul class="nav-menu">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="about.html" class="active">Others</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="journal-page">
+        <section class="journal-simple-header">
+            <p><strong class="journal-label">Updated:</strong> <span id="tracked-updated-at">Loading...</span></p>
+            <p><strong class="journal-label">Tracked journals:</strong> <span id="tracked-journal-names">Loading...</span></p>
+            <p><strong class="journal-label">Current display:</strong> <span id="tracked-article-summary">Loading...</span></p>
+            <div class="journal-meta-row journal-meta-row-filters" aria-label="Journal display filters">
+                <p class="journal-filter-heading"><strong class="journal-label">Select journals to display:</strong></p>
+                <div id="journal-filter-buttons" class="journal-filter-options">
+                    <button type="button" class="journal-filter-button journal-tag-nature-cities is-active" data-filter-kind="journal" data-journal-id="nature-cities" aria-pressed="true">Nature Cities</button>
+                    <button type="button" class="journal-filter-button journal-tag-computers-environment-urban-systems is-active" data-filter-kind="journal" data-journal-id="computers-environment-urban-systems" aria-pressed="true">Computers, Environment and Urban Systems</button>
+                    <button type="button" class="journal-filter-button journal-tag-landscape-urban-planning is-active" data-filter-kind="journal" data-journal-id="landscape-urban-planning" aria-pressed="true">Landscape and Urban Planning</button>
+                    <button type="button" class="journal-filter-button journal-tag-cities is-active" data-filter-kind="journal" data-journal-id="cities" aria-pressed="true">Cities</button>
+                    <button type="button" class="journal-filter-button journal-tag-urban-studies is-active" data-filter-kind="journal" data-journal-id="urban-studies" aria-pressed="true">Urban Studies</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="journal-list-section">
+            <div id="cityscope-updates-status" class="journal-status">Loading journal updates...</div>
+            <div id="cityscope-updates-list" class="journal-list" aria-live="polite"></div>
+        </section>
+    </main>
+
+    <script src="../js/script.js"></script>
+    <script src="../js/journal-feed.js"></script>
+    <script src="../js/cityscope-updates.js"></script>
+</body>
+</html>
