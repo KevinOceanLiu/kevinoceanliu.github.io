@@ -78,6 +78,32 @@ if (emailLink) {
     });
 }
 
+// ====================
+// Citation Count
+// ====================
+
+const citationCount = document.querySelector('#citation-count');
+
+if (citationCount) {
+    fetch('data/citations.json', { cache: 'no-store' })
+        .then((response) => {
+            if (!response.ok) {
+                throw new Error(`Failed to load citations: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then((data) => {
+            const citations = Number(data.citations);
+            citationCount.textContent = Number.isFinite(citations)
+                ? citations.toLocaleString('en-US')
+                : 'N/A';
+        })
+        .catch((error) => {
+            citationCount.textContent = 'N/A';
+            console.error(error);
+        });
+}
+
 // ==================== 
 // Subscribe Form
 // ====================
