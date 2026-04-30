@@ -333,6 +333,13 @@ body {
     color: #000;
 }
 
+.others-section-description {
+    margin-top: 6px;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #4b5563;
+}
+
 .others-intro,
 .journal-hero {
     border-bottom: 1px solid var(--border-color);
