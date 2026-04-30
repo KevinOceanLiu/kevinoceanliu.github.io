@@ -946,6 +946,7 @@ body {
 .citation-button {
     display: inline-flex;
     align-items: center;
+    align-self: center;
     gap: 6px;
     padding: 4px 10px;
     border: 1px solid var(--border-color);
@@ -958,11 +959,6 @@ body {
     text-decoration: none;
     white-space: nowrap;
     box-shadow: var(--shadow-sm);
-}
-
-.citation-button:hover {
-    border-color: rgba(82, 115, 197, 0.28);
-    box-shadow: var(--shadow-md);
 }
 
 .citation-button-count {
