@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T11:57:48.791979+00:00",
+  "generated_at": "2026-04-30T01:34:18.414490+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,23 +31,6 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105666",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105666",
-      "title": "Greenness may increase ozone-related mortality risk via BVOC emissions: A WRF-CMAQ modeling and population-based study",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000903",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1038/s44284-026-00426-y",
       "doi_url": "https://doi.org/10.1038/s44284-026-00426-y",
       "title": "Tracking delivery emissions to decarbonize urban couriers",
@@ -64,8 +47,12 @@
       "link": "https://www.nature.com/articles/s44284-026-00426-y",
       "abstract": "The rapid expansion of urban logistics networks brings a substantial, yet hidden, environmental cost to our cities. Leveraging smartphone delivery logs from couriers, new research now quantifies the fine-grained greenhouse-gas footprints of last-mile delivery processes, which enables the exploration of actionable strategies for sustainable urban logistics.",
       "keywords": [
-        "Environmental impact",
-        "Information systems and information technology"
+        "Tracking (education)",
+        "Sustainability",
+        "Tracking system",
+        "Key (lock)",
+        "Cloud computing",
+        "Delivery system"
       ]
     },
     {
@@ -85,9 +72,35 @@
       "link": "https://www.nature.com/articles/s44284-026-00423-1",
       "abstract": "Rapid growth in e-commerce has intensified last-mile logistics, increasing pressures on urban sustainability due to rising delivery-related greenhouse gas emissions. However, effective mitigation has been limited by the absence of nationwide, fine-grained measurements of last-mile emissions. Here, using 14 billion orders and location data from 1.9 million couriers, we estimate last-mile delivery emissions across 365 Chinese cities. We find that order growth does not translate proportionally into emissions: an 83.5% increase in orders from 2023 to 2024 resulted in only 31.3% additional emissions. While larger cities produce higher total emissions, smaller cities show per-order emissions up to four times greater, driven primarily by lower delivery efficiency shaped by urban density. Mitigation simulations suggest that emissions could be reduced by up to 84.2%. These findings advance understanding of how e-commerce interacts with urban systems and reveal actionable pathways toward more efficient and sustainable urban logistics. While e-commerce greatly enhances convenience for urban consumers, it also contributes to rising last-mile delivery emissions. By estimating emissions across 365 Chinese cities, this study identifies pronounced city-level differences in emission intensity and reveals substantial opportunities for mitigation.",
       "keywords": [
-        "Environmental social sciences",
-        "Science",
-        "technology and society"
+        "Greenhouse gas",
+        "Sustainability",
+        "Order (exchange)",
+        "Megacity",
+        "Urban sustainability",
+        "Sustainable development"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105666",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105666",
+      "title": "Greenness may increase ozone-related mortality risk via BVOC emissions: A WRF-CMAQ modeling and population-based study",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-04-28",
+      "published_date_display": "2026-04-28",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000903",
+      "abstract": "",
+      "keywords": [
+        "Risk assessment",
+        "Generalized additive model",
+        "Human health",
+        "Air pollution",
+        "Health risk"
       ]
     },
     {
@@ -1729,7 +1742,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000885",
-      "abstract": "",
+      "abstract": "In this article, we ask how the different tools and practices used in participatory and collaborative processes could support multi-actor collaboration in integrated landscape approaches (ILAs). First, we conducted a scoping review to identify and synthesize literature on participatory and collaborative approaches related to forest, water, land and landscapes. Secondly, we analysed 130 articles to understand how and by which means these approaches engaged different actors in multi-actor collaborations. Our findings identified a wealth of different tools and practices available to support participatory and collaborative approaches, such as participatory mapping and modelling, games and visualizations, scenario development, and knowledge co-creation. Further, our scoping review identifies 30 articles about processes with core elements of collaborative governance, namely, principled engagement, shared motivation, and capacity of joint action. We argue that externally directed processes with short-term funding do not ensure multi-actor collaboration and a commitment towards ILAs. Both collaborative governance and ILAs demand administrative openness, cross-sectoral collaboration and recognize feedback loops to ensure evolving collaboration.",
       "keywords": [
         "Citizen journalism",
         "Participatory GIS",

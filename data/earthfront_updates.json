@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T05:40:59.738547+00:00",
+  "generated_at": "2026-04-30T01:33:23.850818+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,448 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41561-026-01971-w",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01971-w",
+      "title": "Climate benefits of lake nutrient management in China",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-04-28",
+      "published_date_display": "2026-04-28",
+      "published_parts": [
+        2026,
+        4,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01971-w",
+      "abstract": "",
+      "keywords": [
+        "Eutrophication",
+        "Greenhouse gas",
+        "Nutrient",
+        "Nutrient management",
+        "Climate change",
+        "Global warming",
+        "Trophic level"
+      ]
+    },
+    {
+      "doi": "10.1038/s41558-026-02624-x",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02624-x",
+      "title": "Artificial intelligence to support cross-disciplinary climate change research",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-04-28",
+      "published_date_display": "2026-04-28",
+      "published_parts": [
+        2026,
+        4,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02624-x",
+      "abstract": "",
+      "keywords": [
+        "Climate change",
+        "Foundation (evidence)",
+        "Political economy of climate change",
+        "Climate science",
+        "Climate policy"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-026-01803-0",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01803-0",
+      "title": "Positive tipping points for nature",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-04-27",
+      "published_date_display": "2026-04-27",
+      "published_parts": [
+        2026,
+        4,
+        27
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01803-0",
+      "abstract": "",
+      "keywords": [
+        "Tipping point (physics)",
+        "Leverage (statistics)",
+        "Sustainability",
+        "Key (lock)",
+        "Climate change",
+        "Sustainable development"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-026-01818-7",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01818-7",
+      "title": "Methane leakage thresholds for net climate benefits of wastewater biogas recovery",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-04-27",
+      "published_date_display": "2026-04-27",
+      "published_parts": [
+        2026,
+        4,
+        27
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01818-7",
+      "abstract": "Biogas recovery is crucial for decarbonizing water resource recovery facilities (WRRFs), offering renewable energy production alongside waste treatment. However, methane (CH4) leakage during digestion and biogas handling can largely compromise their climate benefits, yet this risk remains uncharacterized. Here we present a US national-scale assessment of CH4 leakage thresholds beyond which WRRF biogas systems lose net climate benefits. By compiling measured leakage data from over 50 facilities and all available literature, we found the leakage rate ranged from 0.4% to 65%, and a large fraction of current systems exceeds the net-zero emission threshold, indicating substantial climate risk. The regional- and technology-specific scenario and sensitivity analyses show that net-zero thresholds range from 2% to 10% of biogas produced, depending on heat recovery, grid emissions intensity and biogas utilization pathways. Grid decarbonization further shifts these tolerances, making renewable natural gas systems more viable than combined heat and power in future low-carbon energy contexts. The analysis offers a quantitative roadmap showing how targeted leak detection and repair can transform most facilities from climate liabilities into assets, delivering both climate and economic gains and underscoring the urgent need for binding methane monitoring and mitigation policies to realize the net-zero potential of wastewater biogas. Biogas recovery enables renewable energy production alongside waste treatment, but the climate benefits are compromised by methane leakage. Here the authors systematically assessed how to manage methane leakage for sustaining net climate benefits of wastewater biogas recovery.",
+      "keywords": [
+        "Biogas",
+        "Renewable energy",
+        "Methane",
+        "Climate change",
+        "Greenhouse gas",
+        "Wastewater",
+        "Renewable natural gas",
+        "Leakage (economics)"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-026-01805-y",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01805-y",
+      "title": "Methane leakage can erase the climate benefits of wastewater biogas recovery",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-04-27",
+      "published_date_display": "2026-04-27",
+      "published_parts": [
+        2026,
+        4,
+        27
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01805-y",
+      "abstract": "Wastewater utilities use anaerobic digestion and biogas utilization to reduce energy costs and emissions, but methane leakage can undermine both the climate benefits and project economics of these systems, especially as power grids decarbonize. Safeguarding climate integrity will require performance-based methane policies that pair robust monitoring with enforceable leakage thresholds and targeted leak detection and repair.",
+      "keywords": [
+        "Biogas",
+        "Leakage (economics)",
+        "Methane",
+        "Anaerobic digestion",
+        "Safeguarding",
+        "Wastewater",
+        "Leak detection",
+        "Renewable energy"
+      ]
+    },
+    {
+      "doi": "10.1038/s41561-026-01969-4",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01969-4",
+      "title": "Human footprint on estuarine tidal hydrodynamics",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-04-24",
+      "published_date_display": "2026-04-24",
+      "published_parts": [
+        2026,
+        4,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01969-4",
+      "abstract": "Abstract Natural estuarine morphology exerts strong control over tidal propagation. Human activities, such as dredging and land reclamation, modify the natural geometry, altering tidal dynamics and the ecosystems linked to them. Here we analyse changes in tidal dynamics, specifically the amplitude and propagation of tides, over decadal to centennial timescales, using archival maps, hydrographic surveys, tide gauge records and modern records from 25 estuaries worldwide, spanning the coast to their landward boundaries. Over the past two centuries, local interventions have typically amplified tidal ranges, accelerated tidal propagation and shifted tidal duration asymmetry. The most pronounced changes occurred far inland, often more than 100 km from the coast. Land reclamation and channel deepening are the most widespread and impactful interventions, affecting nearly all systems studied. The magnitude and inland location of maximum changes point to local human activities as the dominant drivers, exceeding the influence of long-term processes such as sea-level rise and natural subsidence and demonstrating that anthropogenic modifications have historically had the larger influence on estuarine water levels. Recognizing this human footprint opens opportunities for targeted local management strategies to reverse past changes, reduce flood risk and build resilience to climate change.",
+      "keywords": [
+        "Dredging",
+        "Hydrography",
+        "Estuary",
+        "Tide gauge",
+        "Footprint",
+        "Tidal irrigation",
+        "Flood myth",
+        "Land reclamation",
+        "Natural (archaeology)",
+        "Ecosystem"
+      ]
+    },
+    {
+      "doi": "10.1038/s41558-026-02619-8",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02619-8",
+      "title": "Large coastal cities are losing sea–land breeze",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-04-24",
+      "published_date_display": "2026-04-24",
+      "published_parts": [
+        2026,
+        4,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02619-8",
+      "abstract": "",
+      "keywords": [
+        "Climate change",
+        "Global warming",
+        "Natural (archaeology)",
+        "Sea surface temperature",
+        "Effects of global warming on oceans",
+        "Climate system"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-026-01823-w",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01823-w",
+      "title": "Scalable all-in-one electrochromic glazing for full-spectrum solar radiation management",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-04-23",
+      "published_date_display": "2026-04-23",
+      "published_parts": [
+        2026,
+        4,
+        23
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01823-w",
+      "abstract": "",
+      "keywords": [
+        "Glazing",
+        "Electrochromism",
+        "Fabrication",
+        "Transmittance",
+        "Modulation (music)",
+        "Photovoltaics",
+        "Photovoltaic system"
+      ]
+    },
+    {
+      "doi": "10.1038/s41561-026-01983-6",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01983-6",
+      "title": "Publisher Correction: Increasing river sediment concentration and flux across the pan-Arctic",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-04-23",
+      "published_date_display": "2026-04-23",
+      "published_parts": [
+        2026,
+        4,
+        23
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01983-6",
+      "abstract": "",
+      "keywords": [
+        "Flux (metallurgy)",
+        "Sediment",
+        "Hydrology (agriculture)",
+        "Carbon flux"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-026-01812-z",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01812-z",
+      "title": "Filament-catalyst lightbulb reactor for efficient methane conversion",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-04-22",
+      "published_date_display": "2026-04-22",
+      "published_parts": [
+        2026,
+        4,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01812-z",
+      "abstract": "",
+      "keywords": [
+        "Methane",
+        "Process (computing)",
+        "Methanation",
+        "Work (physics)",
+        "Combustion"
+      ]
+    },
+    {
+      "doi": "10.1038/s41561-026-01956-9",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01956-9",
+      "title": "Mining mine wastes for sustainable value creation",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-04-22",
+      "published_date_display": "2026-04-22",
+      "published_parts": [
+        2026,
+        4,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01956-9",
+      "abstract": "",
+      "keywords": [
+        "Hazardous waste",
+        "Value creation",
+        "Value (mathematics)",
+        "Sustainable development",
+        "Mining industry",
+        "Sustainable Value"
+      ]
+    },
+    {
+      "doi": "10.1038/s41558-026-02615-y",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02615-y",
+      "title": "Promising climate progress from net-zero ambitions to the Paris Agreement goal",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-04-22",
+      "published_date_display": "2026-04-22",
+      "published_parts": [
+        2026,
+        4,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02615-y",
+      "abstract": "Climate targets require strong commitments from countries to be achieved. Using a multi-model analysis, we show that current net-zero pledges bring the world closer to a well-below 2 °C pathway, but an emission gap remains. Increasing ambition will be crucial: expanding the global coverage of net-zero pledges and speeding up action increases consistency with the Paris Agreement (1.5–2.0 °C range in model mean). However, reaching the 1.5 °C goal without overshoot seems increasingly unlikely. While net-zero pledges help reduce carbon-intensive energy sources, domestic policies aligned with strong climate commitments are needed to reduce the reliance on fossil fuels and increase renewable energy capacity. Our scenarios show that emission reductions are driven by gains in energy efficiency, a strong phase-down of coal use and the electrification of sectors such as transport and heavy industry. It is important to assess the gap between national climate ambitions and the goal of limiting global temperature increase. This multi-model analysis shows that if net-zero pledges are implemented, meeting the 2 °C target is feasible, while increasing ambition and international cooperation is crucial.",
+      "keywords": [
+        "Electrification",
+        "Overshoot (microwave communication)",
+        "Climate change",
+        "Limiting",
+        "Renewable energy",
+        "Climate policy",
+        "Global warming",
+        "Global climate",
+        "Consistency (knowledge bases)"
+      ]
+    },
+    {
+      "doi": "10.1038/s41561-026-01964-9",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01964-9",
+      "title": "Observing the Southern Ocean carbon cycle from the skies",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-04-21",
+      "published_date_display": "2026-04-21",
+      "published_parts": [
+        2026,
+        4,
+        21
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01964-9",
+      "abstract": "",
+      "keywords": [
+        "Carbon cycle",
+        "Carbon sink",
+        "Atmosphere (unit)",
+        "Carbon flux",
+        "Carbon fibers",
+        "Sink (geography)",
+        "Climate change",
+        "Global warming"
+      ]
+    },
+    {
+      "doi": "10.1038/s41561-026-01944-z",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01944-z",
+      "title": "Atmospheric oxygen constraints on Southern Ocean productivity and drivers of carbon uptake",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-04-21",
+      "published_date_display": "2026-04-21",
+      "published_parts": [
+        2026,
+        4,
+        21
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01944-z",
+      "abstract": "Ocean net primary production fixes dissolved carbon into organic matter while producing O2, driving the biological carbon pump that contributes to ocean CO2 uptake. The Southern Ocean plays a critical role in carbon export, yet its productivity estimates remain highly uncertain due to limited observations. Here we constrain Southern Ocean (south of ~44° S) net primary production by linking Coupled Model Intercomparison Project Phase 6 (CMIP6)-modelled productivity to modelled air–sea O2 fluxes and applying O2 flux estimates derived from airborne O2/N2 observations. We find an annual net primary production of 6.5 ± 1.36 PgC yr−1, substantially higher than most CMIP6 model and satellite-based estimates, but consistent with Argo oxygen-based estimates. We show that CMIP6 models with underestimated productivity exhibit weak summer CO2 uptake, with some also showing excessive summer temperature-driven outgassing. Together, these models produce incorrect seasonal CO2 flux cycles with summer outgassing, whereas observation-based estimates indicate summer uptake. These errors may stem from inadequate model representation of ocean vertical mixing, which affects nutrient supply, stratification and heat redistribution. Our productivity estimates provide quantitative benchmarks that, combined with constraints from airborne CO2 observations and surface ocean pCO2 and temperature observations, reduce uncertainty in estimates of model-projected end-of-century Southern Ocean CO2 uptake by 53%. Atmospheric oxygen sampling provides improved estimates of Southern Ocean net primary productivity, revealing that many Earth system models underestimate productivity in ways that bias both present-day and future projections of air–sea CO2 exchange.",
+      "keywords": [
+        "Primary production",
+        "Productivity",
+        "Carbon cycle",
+        "Coupled model intercomparison project",
+        "Flux (metallurgy)",
+        "Stratification (seeds)",
+        "Argo",
+        "Atmosphere (unit)",
+        "Sea surface temperature"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-026-01802-1",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01802-1",
+      "title": "Turning the tide of climate solutions to save tidal flats",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-04-20",
+      "published_date_display": "2026-04-20",
+      "published_parts": [
+        2026,
+        4,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01802-1",
+      "abstract": "",
+      "keywords": [
+        "Renewable energy",
+        "Biodiversity",
+        "Afforestation",
+        "Climate change",
+        "Tidal flat",
+        "Carbon sink",
+        "Mangrove"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-026-01817-8",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01817-8",
+      "title": "Decades of increased emissions from forest-fuelled BECCS",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-04-20",
+      "published_date_display": "2026-04-20",
+      "published_parts": [
+        2026,
+        4,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01817-8",
+      "abstract": "",
+      "keywords": [
+        "Bio-energy with carbon capture and storage",
+        "Bioenergy",
+        "Electricity",
+        "Greenhouse gas",
+        "Carbon capture and storage (timeline)",
+        "Subsidy",
+        "Negative carbon dioxide emission",
+        "Climate change mitigation",
+        "Natural gas"
+      ]
+    },
+    {
+      "doi": "10.1038/s41558-026-02636-7",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02636-7",
+      "title": "Publisher Correction: Neglecting land–atmosphere feedbacks overestimates climate-driven increases in evapotranspiration",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-04-20",
+      "published_date_display": "2026-04-20",
+      "published_parts": [
+        2026,
+        4,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02636-7",
+      "abstract": "",
+      "keywords": [
+        "Evapotranspiration",
+        "Correlation coefficient",
+        "Scale (ratio)",
+        "Negative correlation",
+        "Climate change"
+      ]
+    },
     {
       "doi": "10.1038/s41893-026-01813-y",
       "doi_url": "https://doi.org/10.1038/s41893-026-01813-y",
@@ -1168,6 +1610,30 @@
         "Work (physics)",
         "Context (archaeology)",
         "Sustainability"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101684",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101684",
+      "title": "Global interventions show synergistic but uneven positive impacts on climate and biodiversity",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-04-01",
+      "published_date_display": "2026-04-01",
+      "published_parts": [
+        2026,
+        4
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000850",
+      "abstract": "peer reviewed",
+      "keywords": [
+        "Biodiversity",
+        "Climate change",
+        "Psychological intervention",
+        "Sustainability",
+        "Work (physics)",
+        "Production (economics)"
       ]
     },
     {
