@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T01:31:35.920071+00:00",
+  "generated_at": "2026-05-01T22:05:14.775445+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,23 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115437",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115437",
+      "title": "High-resolution dynamic surface water mapping in the Hindu Kush Himalaya region by integrating SDGSAT-1 and Sentinel-2 observations",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002075",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.rse.2026.115442",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115442",
@@ -11870,33 +11887,6 @@
         "Reflectivity",
         "Thematic Mapper",
         "Radiometer"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115174",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115174",
-      "title": "Retrieval of global surface phytoplankton community structure using a minimal set of predictors",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-13",
-      "published_date_display": "2025-12-13",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005784",
-      "abstract": "",
-      "keywords": [
-        "Phytoplankton",
-        "Biogeochemical cycle",
-        "Multilayer perceptron",
-        "Chlorophyll a",
-        "Ocean color",
-        "Sea surface temperature",
-        "Community structure",
-        "Colored dissolved organic matter",
-        "Salinity"
       ]
     },
     {
