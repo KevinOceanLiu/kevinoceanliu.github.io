@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T22:05:14.775445+00:00",
+  "generated_at": "2026-05-02T21:58:14.095739+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,21 +26,44 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/s0034-4257(26)00220-8",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00220-8",
+      "title": "Editorial Board",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002208",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.rse.2026.115437",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115437",
       "title": "High-resolution dynamic surface water mapping in the Hindu Kush Himalaya region by integrating SDGSAT-1 and Sentinel-2 observations",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002075",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Surface water",
+        "Surface (topology)",
+        "Thematic Mapper",
+        "Ocean surface topography",
+        "Radiometry"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115442",
@@ -10408,29 +10431,6 @@
         "Tropics",
         "Carbon cycle",
         "Empirical modelling"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115232",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115232",
-      "title": "A transformer-based multi-task deep learning model for urban livability evaluation by fusing remote sensing and textual geospatial data",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000027",
-      "abstract": "",
-      "keywords": [
-        "Geospatial analysis",
-        "Deep learning",
-        "Geomatics",
-        "Remote sensing application",
-        "Convolutional neural network"
       ]
     },
     {
