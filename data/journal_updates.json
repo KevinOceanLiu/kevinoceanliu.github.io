@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T21:58:14.095739+00:00",
+  "generated_at": "2026-05-03T22:00:04.683480+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,19 +26,19 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/s0034-4257(26)00220-8",
-      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00220-8",
-      "title": "Editorial Board",
+      "doi": "10.1016/j.rse.2026.115427",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115427",
+      "title": "Leaf angle adjustment improves apparent covariation between fluorescence and photochemical quantum yields across leaves",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
       "published_parts": [
         2026,
-        7
+        8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002208",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001975",
       "abstract": "",
       "keywords": []
     },
@@ -63,6 +63,89 @@
         "Thematic Mapper",
         "Ocean surface topography",
         "Radiometry"
+      ]
+    },
+    {
+      "doi": "10.1016/s0034-4257(26)00220-8",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00220-8",
+      "title": "Editorial Board",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002208",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2654480",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2654480",
+      "title": "Space–Time Prism and Accessibility in Multistate Supernetwork of Multimodal Multiactivity Trip Chains",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
+      "published_parts": [
+        2026,
+        4,
+        29
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654480",
+      "abstract": "",
+      "keywords": [
+        "Prism",
+        "Field (mathematics)",
+        "Multimodality",
+        "Context (archaeology)"
+      ]
+    },
+    {
+      "doi": "10.1080/24694452.2026.2654479",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2654479",
+      "title": "How Geospatial Effects Can Affect Predictive Learning: A Novel Predictability Framework Consisting of Geographic Entropy and Knowledge Graph",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
+      "published_parts": [
+        2026,
+        4,
+        29
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654479",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2654491",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2654491",
+      "title": "Geographically Weighted Canonical Correlation Analysis: Local Spatial Associations between Two Sets of Variables",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
+      "published_parts": [
+        2026,
+        4,
+        29
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654491",
+      "abstract": "",
+      "keywords": [
+        "Canonical correlation",
+        "Correlation",
+        "Geographically Weighted Regression",
+        "Variable (mathematics)",
+        "Spatial correlation",
+        "Spatial analysis"
       ]
     },
     {
@@ -7227,29 +7310,6 @@
         "Merge (version control)",
         "Satellite",
         "Merge algorithm"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115297",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115297",
-      "title": "Corrigendum to “Comprehensive global fire radiative power evaluation by minimizing detection bias with intercomparison and extended triple collocation analysis” [Remote Sensing of Environment 333 (2026) 115136]",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-10",
-      "published_date_display": "2026-02-10",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000672",
-      "abstract": "",
-      "keywords": [
-        "Collocation (remote sensing)",
-        "Radiative transfer",
-        "Power (physics)",
-        "Black-body radiation",
-        "Radiant heat"
       ]
     },
     {
