@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T23:26:22.859130+00:00",
+  "generated_at": "2026-05-03T23:27:12.368621+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -262,7 +262,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70388",
       "abstract": "Abstract Understanding how forest vegetation structure shapes acoustic environments is essential for linking biodiversity patterns with ecosystem complexity. However, few studies have systematically examined how fine‐scale three‐dimensional (3D) vegetation features influence soundscape dynamics across diel cycles. Here, we investigated how vegetation structure is associated with acoustic variation over time. We integrated light detection and ranging‐derived 3D vegetation metrics with passive acoustic monitoring across 52 plots in Northeast China Tiger and Leopard National Park. Through a combination of acoustic indices and frequency‐specific power spectral density (PSD) analysis, we examined the associations between six vegetation variables and soundscape characteristics across four diel phases: dawn, day, dusk and night. Canopy structure (e.g. canopy height, crown volume) was most strongly associated with soundscape characteristics during the day and dusk, while understorey openness showed a closer relationship with nocturnal acoustic patterns. Among the acoustic metrics, the Acoustic Evenness Index was especially responsive to vegetation structure variables. PSD results further revealed frequency‐specific vocal stratification, suggesting that different acoustic groups may align their signalling activity with distinct structural layers, a pattern consistent with the ecological niche partitioning hypothesis. Synthesis and applications . Forest soundscapes reflect the composition and activity of local biological communities, both of which are closely linked to vegetation structure. Our findings demonstrate that fine‐scale vegetation heterogeneity is a key correlate of diel soundscape variation, highlighting structural complexity as a key ecological mediator between habitat structure and species behaviour—even in moderately diverse temperate systems. Incorporating 3D structural information into acoustic monitoring provides a robust framework for tracking biodiversity and ecosystem functioning, offering a scalable approach for forest conservation and management.",
-      "keywords": []
+      "keywords": [
+        "Soundscape",
+        "Vegetation (pathology)",
+        "Diel vertical migration",
+        "Understory",
+        "Habitat",
+        "Biodiversity",
+        "Acoustic space",
+        "Canopy"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70392",
@@ -280,7 +289,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70392",
       "abstract": "Abstract Invasive plants alter soil abiotic and biotic properties, generating persistent soil legacies that limit native plant recovery and reshape community composition. However, how management interventions interact with these legacy effects on native plant communities remains poorly understood, hindering targeted restoration strategies. We used Solidago canadensis as the target invader and established five field soil‐conditioning treatments: non‐invasion ( Solidago ‐absent), invasion ( Solidago ‐present) and three management methods (cutting, herbicide or burning). Soils were analysed for nutrient and fungal diversity and then used in a greenhouse experiment to test the responses of native plant communities composed of grasses and forbs. Solidago canadensis invasion reduced soil total carbon, total nitrogen, total phosphorus, nitrate nitrogen and available phosphorus, but increased fungal pathogen and arbuscular mycorrhizal fungus richness, resulting in lower native community biomass and higher biomass ratio of grasses to forbs. Cutting had negligible effects, whereas herbicide and burning partially restored nutrients and mitigated negative legacy effects on community biomass, albeit often at the cost of reduced community evenness. Nitrate nitrogen and pathogen richness were key drivers of soil legacy effects on native plant communities: higher nitrate nitrogen promoted native community biomass, whereas higher pathogen richness reduced native community biomass and evenness and increased the biomass ratio of grasses to forbs. Management effects, particularly those from herbicide, depended on their ability to increase nitrate nitrogen and reduce pathogen accumulation, with herbicide showing the strongest productivity recovery but some trade‐offs in community composition. Synthesis and applications . Our findings reveal that soil legacy effects created by invasive plants constrain native community restoration by depleting nutrients and increasing pathogen pressure, with management interventions producing method‐specific effects on these outcomes. Effective restoration requires addressing both nutrient depletion and pathogen accumulation through technology such as nutrient amendments, organic inputs, soil inoculation or targeted pathogen suppression, which can complement conventional approaches such as herbicide application or burning by alleviating belowground constraints.",
-      "keywords": []
+      "keywords": [
+        "Native plant",
+        "Species richness",
+        "Biomass (ecology)",
+        "Species evenness",
+        "Plant community",
+        "Introduced species",
+        "Restoration ecology",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70391",
@@ -298,7 +316,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70391",
       "abstract": "Abstract Thresholds to distinguish between good and degraded ecosystem status are required to assess and manage the condition of marine systems under international conventions (e.g. Marine Strategy Framework Directive, MSFD), but many frameworks do not yet have such thresholds and consistent, transparent and robust methodologies to fill this gap are currently lacking. Here we estimated thresholds for good status, as the proportion of state that must remain relative to a minimally impacted reference condition (scale 0–1; reference condition mean = 1), using two different methods (range of natural variation [RNV], which quantifies the natural variability of the ecological state in time series of reference conditions, and statistically detectable change [SDC], an alternate approach, which uses the lower confidence interval for the same monitoring data). These methods were applied to 92 pre‐existing minimally impacted time series of biomass, density and abundance indicators from seagrass, plankton lifeforms, benthic invertebrates and tropical reef fish. The RNV method estimated a range of average good‐state thresholds between 0.40 and 0.85 depending on indicator species group with the majority between 0.58 and 0.78. The SDC method estimated higher thresholds (0.65–0.94) with the majority ranging between 0.82 and 0.90. We found that environmental characteristics and species life history traits can be used to predict thresholds for five of the indicator species groups (e.g. benthic invertebrate longevity predicted thresholds). Synthesis and applications. The framework outlined here presents a transparent, robust, scalable and pressure‐independent approach to estimate the probability of an ecosystem component being in good status for a range of marine systems. This straightforward and easily understood approach can be used to estimate thresholds for good status where they are missing for ecological condition assessments under legislation (e.g. Good Environmental Status under the MSFD) and make progress towards achieving international biodiversity objectives. In practical terms, this enables managers to take defensible decisions on whether action is needed to manage human activities and improve ecosystem health.",
-      "keywords": []
+      "keywords": [
+        "Benthic zone",
+        "Ecosystem",
+        "Invertebrate",
+        "Abundance (ecology)",
+        "Range (aeronautics)",
+        "Plankton",
+        "Relative species abundance",
+        "Marine ecosystem"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70382",
@@ -334,7 +361,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70383",
       "abstract": "Abstract Understanding population dynamics is critical for informed wildlife management decisions. However, the data required to estimate demographic parameters can be costly for agencies to acquire and issues with model scalability often hinder efforts to gain insights into broad‐scale population dynamics. In this study, we develop two Bayesian integrated population models (IPMs) to estimate demographic parameters for wild turkey populations ( Meleagris gallopavo silvestris ) in Pennsylvania—a valuable game species for which understanding trends in abundance is essential for determining sustainable harvest limits. The first model, termed the Research IPM (R‐IPM), uses data from a short‐term, high‐intensity project, incorporating telemetry data, band recoveries and harvest information from specific Wildlife Management Units (WMUs). The second model, the Operational IPM (O‐IPM), operates at a broader regional scale using routinely collected statewide data, with informed priors derived from the R‐IPM posteriors. This approach allows us to estimate population parameters beyond the spatial and temporal boundaries of our intensive data collection. Both the R‐IPM and O‐IPMs produced biologically reasonable estimates that align with previous research. The O‐IPM achieved precision comparable with the R‐IPM despite using less intensive data collection procedures, particularly when informed by priors from the R‐IPM. Our comparison with a version of the O‐IPM, using vague as opposed to informed priors, demonstrated that incorporating prior information substantially improved parameter precision, especially for juvenile females where data were limited. Synthesis and application . Our O‐IPM presents an efficient and practical approach for estimating wildlife population demographics, particularly in situations where data collection is limited. This study demonstrates how information from intensive, localized research can be leveraged to inform broader‐scale management through strategic use of prior information. Our findings emphasize the importance of balancing model complexity with the scale of management interest. Achieving this balance enables wildlife managers to obtain reliable population estimates and make cost‐effective management decisions across larger spatial extents than would be possible with intensive data collection alone.",
-      "keywords": []
+      "keywords": [
+        "Population",
+        "Wildlife",
+        "Population model",
+        "Scalability",
+        "Prior probability",
+        "Scale (ratio)",
+        "Wildlife management",
+        "Abundance (ecology)",
+        "Bayesian probability"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70311",
