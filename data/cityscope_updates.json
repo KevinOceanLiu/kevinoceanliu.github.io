@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T23:03:46.204207+00:00",
+  "generated_at": "2026-05-03T23:04:04.695467+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -30,6 +30,23 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.landurbplan.2026.105687",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105687",
+      "title": "Urban agriculture as an interface for policy–practice integration: a landscape-informed, multi-layer framework across Havana, New York city and Chongming Island",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001118",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s44284-026-00426-y",
       "doi_url": "https://doi.org/10.1038/s44284-026-00426-y",
