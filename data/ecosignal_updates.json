@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T23:27:12.368621+00:00",
+  "generated_at": "2026-05-04T23:34:10.909984+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -245,6 +245,132 @@
         "Look-ahead",
         "Adaptation (eye)"
       ]
+    },
+    {
+      "doi": "10.1038/s41559-026-03070-w",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03070-w",
+      "title": "Timing matters for plants and their herbivores",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05-01",
+      "published_parts": [
+        2026,
+        5,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03070-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03071-9",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03071-9",
+      "title": "Satellite data show trees delay budburst across landscapes to escape herbivores",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05-01",
+      "published_parts": [
+        2026,
+        5,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03071-9",
+      "abstract": "Abstract In recent years, budburst, the timing of leaf emergence, has advanced less than expected despite continued spring warming, suggesting counteracting ecological forces. One of these forces might be increased and earlier herbivory on young leaves under climate warming. Here using 5 years of satellite radar data from 27,500 pixels (10 ×10 m 2 ) across 60 temperate oak forest sites under experimental manipulation of insect herbivore loads in Central Europe, we show that prior-year leaf herbivory delayed budburst by 3 days, cancelling the phenological advance observed during a decade of warming. This delay reduced subsequent herbivory by 55%, exceeding the effects of parasitoids or pathogens, and persisted even during pest outbreaks. Across landscapes, the delay was strongest where it probably provided the highest benefit, that is, where a given amount of delay most effectively reduced following herbivory, which suggests an adaptive tree defence. Ultimately, trees may be trapped between responding to two opposing consequences of global change: warming selects for earlier budburst, whereas herbivory selects for delay. Our results underscore the need to consider not only climate, but also plant–herbivore interactions and adaptive evolution to predict tree responses to a changing world.",
+      "keywords": [
+        "Herbivore",
+        "Phenology",
+        "Tree (set theory)",
+        "Temperate forest",
+        "Temperate climate",
+        "Climate change",
+        "Global warming"
+      ]
+    },
+    {
+      "doi": "10.1038/s41559-026-03036-y",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03036-y",
+      "title": "Reverse genetics of sexual antagonism",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05-01",
+      "published_parts": [
+        2026,
+        5,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03036-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03079-1",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03079-1",
+      "title": "Heatwave legacy",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05-01",
+      "published_parts": [
+        2026,
+        5,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03079-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03065-7",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03065-7",
+      "title": "Analysis of the impact of gene evolution on reproductive effects reveals prevalent sexual and germline–soma conflicts",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05-01",
+      "published_parts": [
+        2026,
+        5,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03065-7",
+      "abstract": "Functional innovation is conventionally viewed as a consequence of natural selection for environmental adaptation. However, impacts of other evolutionary forces, including genetic conflicts, have not been explored through direct manipulations of individual genes when assessing overall genetic basis of fitness. Here we conducted a comprehensive RNA interference screen targeting 125 young and old genes in somatic and germline tissues of male and female Drosophila melanogaster, plus CRISPR knockouts of some genes. We analysed sex-specific adult fitness effects, fertility phenotypes of central importance in evolution, in a total of 732,710 adult offspring scored from over 15,000 repeated knockdown crosses and controls. Bayesian statistical analysis of the fitness data revealed that 62.6% of the young and old genes that underwent somatic knockdowns reveal remarkable intralocus sexual conflict with the vast majority being male advantageous and female detrimental, as knockdowns are male detrimental and female beneficial. Germline knockdowns detected a majority of genes with adaptive sexual concordance and over a quarter of genes under sexual antagonism mostly female advantageous and male detrimental. We also detected 36.7% of young genes that have strong effects in both germline and soma exhibit tissue conflicts within sex although female effects are stronger. These analyses of sex-specific distributions of fitness effects reveal a prevalent role for antagonistic selection between sexes and tissues, while finding no association between chromosomal locations and sexually antagonistic genes, nor with sex-biased expression and gene age.",
+      "keywords": [
+        "Germline",
+        "Gene",
+        "Somatic cell",
+        "Gene knockdown",
+        "Phenotype",
+        "Offspring",
+        "RNA interference",
+        "Transcriptome",
+        "Heritability"
+      ]
+    },
+    {
+      "doi": "10.1086/740812",
+      "doi_url": "https://doi.org/10.1086/740812",
+      "title": "Traffic Reduction during COVID-19 Lockdowns Benefited Species Already Tolerant of Noise Pollution: An Acoustic Analysis",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
+      "published_parts": [
+        2026,
+        4,
+        29
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/740812",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1111/1365-2664.70388",
@@ -13261,7 +13387,7 @@
         9
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/740828",
-      "abstract": "Intraspecific trait variability (ITV) is an important aspect of community ecology, but we still have a poor understanding of what drives the magnitude of relationships between ITV and ecological dynamics. In order to guide ecologists interested in unravelling the ecological implications of ITV, we asked whether relationships’ magnitudes differ (i) between intraspecific levels (among-vs. within- populations), (ii) among ecological responses spanning levels of biological organization (from individual performances to ecosystem functioning), and (iii) among trait categories (morphology, physiology and behavior). We performed a meta-analysis synthesizing a thousand effect sizes from nearly two-hundred studies, encompassing relationships between traits measured among individuals or populations of animals and a broad range of ecological responses. The average effect size was |r| = 0.24 [0.20 – 0.27] (95% confidence intervals). Within populations, relationships’ magnitudes were higher for ecological performance (foraging, diet), community and ecosystem responses than for fitness (reproduction). Relationships were 28% stronger for physiological and behavioral traits than for morphological traits. Our meta-analysis confirms the central aspect of ITV within populations of animals to drive ecological dynamics, and emphasizes physiological and behavioral traits to enhance the integration between the individual component of diversity and processes at community and ecosystem-levels.",
+      "abstract": "International audience",
       "keywords": [
         "Intraspecific competition",
         "Trait",
@@ -13886,24 +14012,6 @@
         "Genus",
         "Set (abstract data type)"
       ]
-    },
-    {
-      "doi": "10.1086/740812",
-      "doi_url": "https://doi.org/10.1086/740812",
-      "title": "Traffic reduction during Covid-19 lockdowns benefited species already tolerant of noise pollution: an acoustic analysis",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-02-05",
-      "published_date_display": "2026-02-05",
-      "published_parts": [
-        2026,
-        2,
-        5
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/740812",
-      "abstract": "",
-      "keywords": []
     },
     {
       "doi": "10.1086/740811",
@@ -18020,9 +18128,9 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70687",
-      "doi_url": "https://doi.org/10.1111/gcb.70687",
-      "title": "Heat but Not Cold Tolerance Is Phylogenetically Constrained in Greenlandic Terrestrial Arthropods Under Future Global Warming",
+      "doi": "10.1111/gcb.70677",
+      "doi_url": "https://doi.org/10.1111/gcb.70677",
+      "title": "Traits That Predict Survival of Songbirds in a Drying World",
       "journal_id": "global-change-biology",
       "journal_name": "Global Change Biology",
       "journal_short_name": "Global Change Biology",
@@ -18033,17 +18141,16 @@
         1,
         8
       ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70687",
-      "abstract": "ABSTRACT The Arctic is currently warming at up to four times the global average. Likewise, climate variability within and across seasons is predicted to markedly increase in the future. This may challenge organisms in these pristine environments, making it critically important to understand their thermal biology and evolutionary potential. For Arctic ectotherms in particular, thermal tolerance limits and responses to climate change are mostly unknown. Knowledge on this is urgently needed to enable prediction of climate change impacts on future distributions of biodiversity in these rapidly changing environments. Here, we provide data on upper and lower thermal limits of 93 Greenlandic species of insects, arachnids, and collembolans caught and tested in the field and identified using barcode sequencing. This represents ~8% of described terrestrial Greenlandic arthropod species. We found pronounced differences in heat and cold tolerance among species and a strong phylogenetic signal for both heat tolerance and thermal scope (difference between upper and lower thermal limits). We argue that this indicates a limited capacity for coping with increasing and more variable future temperatures through evolutionary adaptation. Further, we modelled future increases in microhabitat temperatures in our sampling area. We found that > 25% of the investigated species may periodically experience stressful high temperatures in the future. These results suggest that climate change will likely result in substantial changes in distributions and abundances of terrestrial arthropods in Southern Greenland.",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70677",
+      "abstract": "Water limits life on earth. And, in our increasingly drier world, this poses yet another challenge for terrestrial species, including our own. Species that live in arid environments have a suite of traits to allow them to source and retain the little available water to allow them to survive, grow and reproduce (Williams and Tieleman 2005). Those that have not evolved in arid settings have just three options: adapt, move or perish. But even the adapters have limits to their tolerance, set by their “aridity niche” (Petit et al. 2025). This is an immediate challenge because a failure to curb greenhouse gas emissions would see, among other changes, a further 3% of humid environments transformed into drylands by the end of the 21st century (Vicente-Serrano et al. 2024). Such expansion of arid landscapes opens up the question of which species are most vulnerable to this alteration; answering this question may offer important insights into conservation action in a changing world. In their recent work Petit et al. (2025) draw attention to the response of passerine birds to increasingly arid conditions by focusing on species traits and investigating current and projected extinction risks. Passerines, or songbirds, are the most diverse order of birds with over circa 6000 species distributed across the entire world. Their global distribution, well documented trait composition (Tobias et al. 2022) and range of sensitivity to aridity make them an excellent model system for studying the ecological consequences of a more arid world for animal life. The authors relied on two aspects of the niche of each passerine species: its breadth and its position. The former speaks to species adaptability (or tolerance) for variation in aridity; the latter captures the preference of an organism for a specific climatic envelope. They predicted that passerines with a narrow aridity niche that prefer humid conditions would face a higher extinction risk, which is an intuitive hypothesis capturing both the breadth and position. But more than this, the authors predicted an interaction of these factors with a suite of specific traits such as body mass, clutch size, and migratory tendency. To test these questions, the authors built generalized linear mixed models which accounted for phylogenetic relatedness. The Bayesian framework allowed the study to capture the uncertainty around predictors and interaction effects. Recently published work, including that of Tobias et al. (2022) contains a range of ecological and morphological data at the species level that gave the study a reliable source of predictor variables to draw on. The results of their analyses did indeed reveal increased extinction risk in species that prefer humid habitats. Further, they found that species that have a narrower niche breadth with respect to aridity are also more likely to go extinct. Moreover, the effect of niche position came out as a stronger predictor of extinction risk than breadth. In some ways, the interactions were even more interesting. For example, habitat breadth, measured as the number of habitats occupied by a species, interacted with a species' aridity score. What this means is that birds that occupy a restricted range of habitats are more likely to go extinct if they are also inhabiting humid conditions. Similarly, small clutch sizes, short generation lengths, omnivorous diets, and migratory tendencies all interacted with aridity to increase the probability of future extinction. By taking two perspectives on extinction, i.e., current and future extinction risk, their analysis allows the identification of species that are not currently threatened but are highly likely to become so in the future. Furthermore, taking a trait level approach allows this to be applied to all species, whether we have good information on their ecology, distribution, and threats or not. Some of the results of their study are counterintuitive and require further investigation such as omnivory and short generation times coming out as risk factors when typically they're traits seen as buffers to change (Chichorro et al. 2019). With the varied diets of omnivores usually providing more options and the well-known extinction of megafauna with long generation times (Johnson 2002). A natural next step beyond adding more passerine species as they become available would be to explore whether the results of Petit et al. (2025) with respect to passerines map to non-passerines (excluding seabirds that operate in a different ecological realm), or other vertebrate taxa in response to aridity. Certainly for birds the trait databases (Tobias et al. 2022) and up-to-date distributional maps (Lumbierres et al. 2022) are available to do so in the same framework as was carried out here. In particular, it could be useful to tease out body mass effects because non-passerines contain species that weigh orders of magnitude in excess of the largest passerine. Bats could also prove useful as a phylogenetically distinct volant comparison group owing to their broadly similar body mass range to passerines, their trait diversity, and widespread distribution. Indeed, some comparative work has already been done with respect to their trait variation along aridity gradients across the globe (Conenna et al. 2021). From a methodological perspective, future work could make more use of the Bayesian framework and incorporate previous information into the priors (McElreath 2018), rather than the flat, non-informative priors used here. Finally, we agree that by identifying the specific traits that render species prone to extinction we can predict larger scale impacts on the habitats that contain them. For example, how does a system respond to a loss of omnivorous songbirds rather than the loss of a particular species? Considering the many species for which we don't even have the most basic ecological information, let alone a complete picture of the threats that they are facing, this traits approach will prove hugely beneficial in taking conservation action. Indeed, conservation has an opportunity cost and, as such, any approach that allows a more targeted approach to the triage of biodiversity loss will be hugely valuable. The authors declare no conflicts of interest. This article is a Invited Commentary on Petit et al., https://doi.org/10.1111/gcb.70278. Data sharing not applicable to this article as no datasets were generated or analysed for the current article.",
       "keywords": [
-        "Ectotherm",
-        "Climate change",
-        "Global warming",
-        "Biodiversity",
-        "Arctic",
-        "Global change",
+        "Arid",
+        "Extinction (optical mineralogy)",
+        "Passerine",
+        "Range (aeronautics)",
         "Ecosystem",
-        "Environmental change"
+        "Trait",
+        "Climate change"
       ]
     },
     {
