@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T22:00:04.683480+00:00",
+  "generated_at": "2026-05-04T22:14:36.542522+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115427",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115427",
-      "title": "Leaf angle adjustment improves apparent covariation between fluorescence and photochemical quantum yields across leaves",
+      "doi": "10.1016/j.rse.2026.115456",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115456",
+      "title": "Tracing changes in subsurface water storage through a novel satellite-based time-series of far-red solar-induced fluorescence quantum efficiency",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,246 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001975",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002269",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115453",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115453",
+      "title": "Hyperspectral constraints reduce bias in ECOSTRESS evapotranspiration and drought indicators",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002233",
+      "abstract": "Droughts in Africa's drylands threaten regional food security and global agricultural markets. Early-warning systems increasingly rely on Earth Observation (EO), yet precipitation-based indicators often fail to detect emerging vegetation water stress. With new low-Earth-orbit missions, evapotranspiration (ET), which represents actual land-surface water flux, and ET-derived metrics such as the Evaporative Stress Index (ESI) have become essential. ECOSTRESS provides ∼70 m sub-daily land surface temperature observations for ET estimation via the Priestley–Taylor Jet Propulsion Laboratory (PT-JPL) model. However, PT-JPL often exhibits positive ET bias in drylands, increasing the risk of drought omission errors. We evaluated whether hyperspectral vegetation indices (HVIs) can reduce these biases using multi-year field spectrometry, eddy covariance fluxes, and EnMAP/PRISMA imagery in a Kenyan dryland experiment. On the independent validation subset, the standard PT-JPL overestimated ET by 21.8% (mean observed latent heat = 4.86 MJ m−2 d−1). Incorporating HVIs reduced bias to 3.5% when constraining soil evaporation and to −6.4% when applied to both canopy and soil components, while also improving other goodness-of-fit metrics. Bias reduction occurred through two mechanisms: (i) alleviating NDVI saturation, which strengthened canopy constraints under wetter conditions, and (ii) reformulating the soil-moisture constraint using hyperspectral reflectance, thereby limiting soil-evaporation inflation under humid and transitional conditions. These improvements were consistent across hydrological periods and sensor platforms. The findings demonstrate that narrowband spectral information enhances ET partitioning and directly support upcoming narrowband–thermal missions (e.g., CHIME, Landsat Next, LSTM, S2NG, SBG) by improving ET-based drought early-warning in moisture-limited environments.",
+      "keywords": [
+        "Evapotranspiration",
+        "Hyperspectral imaging",
+        "Vegetation (pathology)",
+        "Eddy covariance",
+        "Biosphere",
+        "Hydrometeorology",
+        "Canopy",
+        "Arid"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115454",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115454",
+      "title": "From PS-InSAR observations to building-level risk: A data-driven framework for urban structural resilience",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002245",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115446",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115446",
+      "title": "Derivation and evaluation of Landsat-derived annual aboveground biomass maps for Arctic and Boreal North America, 1984-2022",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002166",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115441",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115441",
+      "title": "A hybrid geometric optical-radiative transfer model for characterizing thermal infrared anisotropy over sloping terrain",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002117",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.044",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.044",
+      "title": "Ocean color remote sensing: From 2D legacy to the 3D, AI-driven future",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002170",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.039",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.039",
+      "title": "Make more pixels usable: A data-driven framework for customizable cloud and shadow processing in satellite imagery",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002121",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.046",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.046",
+      "title": "EuroMineNet: A multitemporal Sentinel-2 benchmark for spatiotemporal mining footprint analysis in the European Union (2015–2024)",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600225X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.009",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.009",
+      "title": "ECRformer: An efficient cloud removal Transformer with semantic-decoupled learning for multimodal satellite imagery",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001814",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.040",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.040",
+      "title": "APCoTTA: Continual Test-Time Adaptation for semantic segmentation of airborne LiDAR point clouds",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002133",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.030",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.030",
+      "title": "2D3D-SPMatch: cross-modal geometric consistency based on spatial perception for detector-free image and point cloud matching",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002029",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0924-2716(26)00221-2",
+      "doi_url": "https://doi.org/10.1016/s0924-2716(26)00221-2",
+      "title": "Editorial Board",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002212",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2654481",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2654481",
+      "title": "Spatial Context as a Time-Invariant Confounder: A Fixed-Effects Extension of MGWR",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
+      "published_parts": [
+        2026,
+        4,
+        30
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654481",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115427",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115427",
+      "title": "Leaf angle adjustment improves apparent covariation between fluorescence and photochemical quantum yields across leaves",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001975",
+      "abstract": "",
+      "keywords": [
+        "Fluorescence",
+        "Quantum yield",
+        "Quantum efficiency",
+        "Quantum",
+        "Irradiance"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115437",
@@ -83,6 +320,24 @@
       "keywords": []
     },
     {
+      "doi": "10.1080/13658816.2026.2660985",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2660985",
+      "title": "USGT: an unsupervised spatial graph transformer for detecting spatial communities in human mobility data",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
+      "published_parts": [
+        2026,
+        4,
+        29
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2660985",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1080/24694452.2026.2654480",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2654480",
       "title": "Space–Time Prism and Accessibility in Multistate Supernetwork of Multimodal Multiactivity Trip Chains",
@@ -121,7 +376,14 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654479",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Geospatial analysis",
+        "Predictability",
+        "Entropy (arrow of time)",
+        "Knowledge graph",
+        "Graph",
+        "Affect (linguistics)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2654491",
@@ -7291,28 +7553,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115298",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115298",
-      "title": "Corrigendum to “Constrained negentropy optimisation (CoNE-opt): Using independent components to merge satellite data products [Remote Sensing of Environment, 334 (2026) 115170]",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-10",
-      "published_date_display": "2026-02-10",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000684",
-      "abstract": "",
-      "keywords": [
-        "Negentropy",
-        "Merge (version control)",
-        "Satellite",
-        "Merge algorithm"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.009",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.009",
       "title": "EAV-DETR: Efficient Arbitrary-View oriented object detection with probabilistic guarantees for UAV imagery",
@@ -10267,32 +10507,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.003",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.003",
-      "title": "City-Facade: A city-level large-scale point cloud building facade dataset for semantic & instance segmentation",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000031",
-      "abstract": "With the growing demand for high-quality 3D urban scene understanding in applications such as building information modeling (BIM) and digital twins, large-scale and well-annotated 3D datasets have become essential for advancing scientific research and algorithm development. However, existing building facade datasets are predominantly image-based, suffering from drawbacks such as a lack of spatial information and sensitivity to lighting and weather conditions. Moreover, publicly available large-scale labeled datasets of building point clouds still remain scarce and have a relatively small coverage area. To this end, we introduce a city-level building facade point cloud dataset named City-Facade for semantic-level and instance-level segmentation. Firstly, the paper conducts a comprehensive review and analysis of existing urban & building point cloud datasets and point cloud segmentation algorithms. Secondly, we present a large-scale building facade dataset with approximately 200 millions of labeled 3D point clouds (over 60 km roads) belonging to urban scenarios, realized to facilitate the development and evaluation of semantic and instance level algorithms in the urban understanding. Finally, baseline experiments for semantic and instance segmentation are conducted to encourage further research. The proposed dataset is accessible at https://github.com/gorgeouseping/City-Facade , comprising the dataset and segmentation baselines for better comparison and presentation of strengths and weaknesses of different methods. Additionally, the data will undergo continuous improvement and updates based on feedback from the community.",
-      "keywords": [
-        "Facade",
-        "Point cloud",
-        "Segmentation",
-        "3D city models",
-        "Cloud computing",
-        "Point (geometry)",
-        "Semantics (computer science)",
-        "Baseline (sea)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2599843",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2599843",
       "title": "Revisiting the Impact of the Built Environment on Noise Exposure: From Static Spaces to Individually Tracked Mobility",
@@ -10614,55 +10828,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.025",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.025",
-      "title": "A spectral index using generic global endmembers from Landsat multispectral data for mapping urban areas",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162500509X",
-      "abstract": "",
-      "keywords": [
-        "Endmember",
-        "Multispectral image",
-        "Land cover",
-        "Normalized Difference Vegetation Index",
-        "Radiance",
-        "Pixel",
-        "Spectral signature",
-        "Multispectral pattern recognition"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115210",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115210",
-      "title": "Soil spectral simulation and soil parameter retrieval with an optimized four-flux MLG radiative transfer model",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-07",
-      "published_date_display": "2026-01-07",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006145",
-      "abstract": "",
-      "keywords": [
-        "Radiative transfer",
-        "Atmospheric radiative transfer codes",
-        "Soil water",
-        "Radiometry",
-        "Simulation modeling"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.010",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.010",
       "title": "Progressive uncertainty-guided network for binary segmentation in high-resolution remote sensing imagery",
@@ -10738,60 +10903,6 @@
         "Groundwater",
         "Resource (disambiguation)",
         "GNSS applications"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115222",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115222",
-      "title": "A radiometrically and spatially consistent super-resolution framework for Sentinel-2",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-06",
-      "published_date_display": "2026-01-06",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006261",
-      "abstract": "Deep learning-based super-resolution (SR) models offer a promising approach to enhancing the effective spatial resolution of optical satellite images. However, existing SR implementations have shown that, while these models can reconstruct fine-scale details, they often introduce undesirable artifacts, such as nonexistent local structures, reflectance distortions, and geometric misalignment. To mitigate these issues, fully synthetic data approaches have been explored for training, as they provide complete control over the degradation process and allow precise supervision and ground-truth availability. However, challenges in domain transfer have limited their effectiveness when applied to real satellite images. In this work, we propose SEN2SR , a new deep learning framework trained to super-resolve Sentinel-2 images while preserving spectral and spatial alignment consistency. Our approach harmonizes synthetic training data to match the spectral and spatial characteristics of Sentinel-2, ensuring realistic and artifact-free enhancements. SEN2SR generates 2.5-meter resolution images for Sentinel-2, upsampling the 10-meter RGB and NIR bands and the 20-meter Red Edge and SWIR bands. To ensure that SR models focus exclusively on enhancing spatial resolution, we introduce a low-frequency hard constraint layer at the final stage of SR networks that always enforces spectral consistency by preserving the original low-frequency content. We evaluate a range of deep learning architectures, including Convolutional Neural Networks, Mamba, and Swin Transformers, within a comprehensive assessment framework that integrates Explainable AI (xAI) techniques. Quantitatively, our framework achieves superior PSNR while maintaining near-zero reflectance deviation and spatial misalignment, outperforming state-of-the-art SR frameworks. Moreover, we demonstrate maintained radiometric fidelity in downstream tasks that demand high-fidelity spectral information and reveal a significant correlation between model performance and pixel-level model activation. Qualitative results show that SR networks effectively handle diverse land cover scenarios without introducing spurious high-frequency details in out-of-distribution cases. Overall, this research underscores the potential of SR techniques in Earth observation, paving the way for more precise monitoring of the Earth’s surface. Models, code, and examples are publicly available at https://github.com/ESAOpenSR/SEN2SR .",
-      "keywords": [
-        "Upsampling",
-        "RGB color model",
-        "Focus (optics)",
-        "Convolutional neural network",
-        "Deep learning",
-        "Image resolution",
-        "Spatial analysis",
-        "Consistency (knowledge bases)",
-        "Earth observation",
-        "Hyperspectral imaging"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.026",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.026",
-      "title": "Advancing table beet root yield estimation via unmanned aerial systems (UAS) multi-modal sensing",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-06",
-      "published_date_display": "2026-01-06",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625005106",
-      "abstract": "Unmanned aerial systems (UAS) offer significant potential to improve agricultural practices due to their multi-modal payload capacity, ease of deployment, and lower cost. However, there is a need to expand UAS capabilities by including root crops, offering robust, growth-stage-independent models, and providing a comprehensive assessment of various imaging systems, i.e., identifying application-specific sensing modalities. This study aims to tackle those challenges by presenting a unified Gaussian Process Regression (GPR) model for predicting end-of-season table beet (a subterranean root crop) yield using UAS-derived spectral and structural features, combined with meteorological data, while remaining robust to flight and harvest timing. Field trials were conducted at Cornell AgriTech in Geneva, NY during the 2021 and 2022 growing seasons. UAS flights captured five-band (475, 560, 668, 717, and 840 nm) multispectral imagery, hyperspectral imagery (400–1000 nm), and light detection and ranging (LiDAR) data at multiple times throughout the season. Our model achieved R 2 test = 0.81 and MAPE test = 15.7 % using only multispectral imagery, while the hyperspectral + LiDAR model attained R 2 test = 0.79 and MAPE test = 17.4 %, which is comparable to recent root yield modeling studies using UAS data. Shapely analysis was performed to gain further insight into model behavior. This analysis revealed canopy volume information to contain high relative importance, as compared to other features, for table beet root yield estimation. Our study demonstrated that UAS-based imaging, combined with a unified machine learning model, can effectively predict root crop yield, providing a scalable and transferable approach for precision agriculture.",
-      "keywords": [
-        "Multispectral image",
-        "Hyperspectral imaging",
-        "Precision agriculture",
-        "Lidar",
-        "Canopy",
-        "Table (database)",
-        "Payload (computing)",
-        "Multispectral pattern recognition"
       ]
     },
     {
@@ -11343,61 +11454,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.024",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.024",
-      "title": "Roof-aware indoor BIM reconstruction from LiDAR via graph-attention for residential buildings",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-29",
-      "published_date_display": "2025-12-29",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625005088",
-      "abstract": "",
-      "keywords": [
-        "Lidar",
-        "Floor plan",
-        "Roof",
-        "Pipeline (software)",
-        "Plan (archaeology)",
-        "Parametric statistics",
-        "Digital surface",
-        "Point cloud",
-        "Building information modeling",
-        "Parametric surface"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.010",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.010",
-      "title": "Improvement of the consistency among long-term global land surface phenology products derived from AVHRR, MODIS, and VIIRS observations",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-28",
-      "published_date_display": "2025-12-28",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004940",
-      "abstract": "",
-      "keywords": [
-        "Visible Infrared Imaging Radiometer Suite",
-        "Moderate-resolution imaging spectroradiometer",
-        "Normalized Difference Vegetation Index",
-        "Radiometer",
-        "Spectroradiometer",
-        "Vegetation (pathology)",
-        "Enhanced vegetation index",
-        "Advanced very-high-resolution radiometer",
-        "Radiometry"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115218",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115218",
       "title": "Gap-free GNSS-R wind field reconstruction: A neural mapping scheme and initial validation",
@@ -11604,33 +11660,6 @@
         "Attenuation coefficient",
         "Analytical Chemistry (journal)",
         "Absorptance"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115188",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115188",
-      "title": "An integrated atmospheric-topographic correction framework for land surface reflectance estimation using a spatial-spectral Attention U-Net model",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-24",
-      "published_date_display": "2025-12-24",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005929",
-      "abstract": "Surface reflectance, a fundamental parameter for deriving high-level satellite products, is typically obtained through atmospheric correction. However, in rugged terrains, topographic effects substantially distort surface reflectance estimates. Many post-topographic correction methods for surface reflectance were proposed and applied to mitigate topographic effects. However, the coupled atmospheric and topographic influences in radiative transfer processes cause significant errors when these corrections are performed separately. For example, we observed over 50 % of pixels in the official Landsat 8 surface reflectance data across a complex terrain exhibited physically implausible negative values, predominantly in shadowed areas. Moreover, traditional pixel-by-pixel methods failed to leverage valuable spatial information for estimation. To address these limitations, we developed an integrated atmospheric and topographic correction framework, Unet-TopoFlat, leveraging a spatial-spectral Attention U-Net algorithm and a novel pseudo-topographic synthetic strategy. The pseudo-topographic synthetic strategy generated sufficient and robust topographically incorporated TOA radiance samples across different terrains, surfaces, and atmospheric conditions, using surface reflectance over flat terrains based on radiative transfer models, atmospheric parameters, random forest regression, and a mountainous radiative transfer parameterization scheme. Using Landsat 8 data as a proxy for evaluation, the Unet-TopoFlat was trained on 47,398 samples (256 × 256 pixels), leveraging multiple datasets. The Unet-TopoFlat model effectively captured the spatial and spectral relationships between TOA radiance and surface reflectance, achieving a relative root mean square error (rRMSE) of 4.5 %–6.2 % across 20,314 samples spanning different terrain, temporal, and spectral bands. Compared to the baseline Unet-FLAT model, which lacked topographic consideration and exhibited substantial uncertainties, Unet-TopoFlat effectively reduced topographic effects, lowering negative reflectance ratios from 55.5 % to 2.8 % while accurately recovering surface information and preserving spectral information. Moreover, the leaf area index (LAI) and snow cover mapping using our estimated surface reflectance were superior to those using official products, and deviations reached up to 2.4 for LAI and 8 % for snow cover mapping at the regional scale. Our proposed framework is not sensor-specific and can be potentially applied to multiple optical remotely sensed data. • A coupled atmospheric-topographic correction scheme for accurate estimation of surface reflectance. • A novel pseudo-topographic synthetic strategy was proposed to generate simulated samples in complex terrains. • Leveraging a spatial-spectral Attention U-Net algorithm integrated with extensive radiative transfer simulations. • Effectively prevented saturation, excessively low, and negative values in the Landsat surface reflectance product. • The developed framework is flexible and can be potentially applied to various satellite data.",
-      "keywords": [
-        "Radiance",
-        "Atmospheric correction",
-        "Terrain",
-        "Radiative transfer",
-        "Atmospheric radiative transfer codes",
-        "Reflectivity",
-        "Leverage (statistics)",
-        "Mean squared error",
-        "Bidirectional reflectance distribution function"
       ]
     },
     {
@@ -12029,61 +12058,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115171",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115171",
-      "title": "Began+: Leveraging bi-temporal SAR-optical data fusion to reconstruct clear-sky satellite imagery under large cloud cover",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-11",
-      "published_date_display": "2025-12-11",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005759",
-      "abstract": "",
-      "keywords": [
-        "Deep learning",
-        "Cloud computing",
-        "Synthetic aperture radar",
-        "Radiance",
-        "Block (permutation group theory)",
-        "Satellite imagery",
-        "Sensor fusion",
-        "Satellite",
-        "Hyperspectral imaging",
-        "Image fusion"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.11.035",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.035",
-      "title": "Urban–rural gradients in cooling efficiency trends of tree covers across global cities",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-10",
-      "published_date_display": "2025-12-10",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004745",
-      "abstract": "",
-      "keywords": [
-        "Urban heat island",
-        "Urbanization",
-        "Arid",
-        "Urban climate",
-        "Climate change",
-        "Land cover",
-        "Greening",
-        "Global warming",
-        "Climate zones"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2025.12.003",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.003",
       "title": "PACE (Plankton, Aerosol, Cloud, ocean Ecosystem): Preliminary analysis of the consistency of remote sensing reflectance product over aquatic systems",
@@ -12414,33 +12388,6 @@
         "Transfer of learning",
         "Snow",
         "Task (project management)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.11.018",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.018",
-      "title": "3D building reconstruction from monocular remote sensing imagery via diffusion models and geometric priors",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-05",
-      "published_date_display": "2025-12-05",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004563",
-      "abstract": "",
-      "keywords": [
-        "Monocular",
-        "Segmentation",
-        "Offset (computer science)",
-        "Facade",
-        "Scalability",
-        "Feature extraction",
-        "3D reconstruction",
-        "Matching (statistics)",
-        "Image segmentation"
       ]
     },
     {
