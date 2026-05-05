@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T22:14:36.542522+00:00",
+  "generated_at": "2026-05-05T22:12:40.501048+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115456",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115456",
-      "title": "Tracing changes in subsurface water storage through a novel satellite-based time-series of far-red solar-induced fluorescence quantum efficiency",
+      "doi": "10.1016/j.rse.2026.115462",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115462",
+      "title": "FOR-age: Benchmarking individual tree age estimation using 3D deep learning on dense laser scanning data",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,240 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002269",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002324",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115458",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115458",
+      "title": "Evaluating deep learning model for multispectral feature mapping of fecal coliform contamination in major rivers of South Korea",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002282",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115460",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115460",
+      "title": "Development and validation of physically constrained machine learning for improving remote sensing-based evapotranspiration estimation",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002300",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115459",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115459",
+      "title": "Assessment of EnMAP data quality through global product validation activities",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002294",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115416",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115416",
+      "title": "Advancing the earliest identifiable timing of cotton fields by the unique mechanized plastic-mulching practices in Xinjiang",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001860",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115436",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115436",
+      "title": "A synthetic data generation framework for deep learning-based LiDAR forest structure analysis",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002063",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.051",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.051",
+      "title": "Fine-grained ship classification of remote sensing images based on class discrepancy learning network",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002327",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.045",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.045",
+      "title": "Region-aware fusion for non-overlapping hyperspectral and multispectral remote sensing images",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002248",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.042",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.042",
+      "title": "Cooperative LoRA with frequency priors for SAM2-Based multimodal remote sensing semantic segmentation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002157",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115443",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115443",
+      "title": "Improved vegetation optical depth retrievals based on LAI climatology and dynamic surface roughness",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-04",
+      "published_date_display": "2026-05-04",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002130",
+      "abstract": "",
+      "keywords": [
+        "Vegetation (pathology)",
+        "Surface roughness",
+        "Surface finish",
+        "Surface (topology)",
+        "Radiometry"
+      ]
+    },
+    {
+      "doi": "10.1080/13658816.2026.2662374",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2662374",
+      "title": "A geographically neural network weighted regression with spatial autoregressive model: model design, estimation, and variable selection",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-05-04",
+      "published_date_display": "2026-05-04",
+      "published_parts": [
+        2026,
+        5,
+        4
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2662374",
+      "abstract": "",
+      "keywords": [
+        "Feature selection",
+        "Artificial neural network",
+        "Autoregressive model",
+        "Selection (genetic algorithm)",
+        "Variable (mathematics)",
+        "Regression analysis",
+        "Regression"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115454",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115454",
+      "title": "From PS-InSAR observations to building-level risk: A data-driven framework for urban structural resilience",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002245",
+      "abstract": "",
+      "keywords": [
+        "Resilience (materials science)",
+        "Urban resilience",
+        "Vulnerability (computing)",
+        "Urbanization",
+        "Psychological resilience"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115456",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115456",
+      "title": "Tracing changes in subsurface water storage through a novel satellite-based time-series of far-red solar-induced fluorescence quantum efficiency",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002269",
+      "abstract": "",
+      "keywords": [
+        "Subsurface flow",
+        "Fluorescence",
+        "Tracing",
+        "Quantum efficiency",
+        "Groundwater"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115453",
@@ -49,8 +280,8 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08-01",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
       "published_parts": [
         2026,
         8
@@ -69,55 +300,27 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115454",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115454",
-      "title": "From PS-InSAR observations to building-level risk: A data-driven framework for urban structural resilience",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002245",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.rse.2026.115446",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115446",
       "title": "Derivation and evaluation of Landsat-derived annual aboveground biomass maps for Arctic and Boreal North America, 1984-2022",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002166",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115441",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115441",
-      "title": "A hybrid geometric optical-radiative transfer model for characterizing thermal infrared anisotropy over sloping terrain",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002117",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Arctic",
+        "Boreal",
+        "Biomass (ecology)",
+        "Taiga",
+        "The arctic"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.044",
@@ -126,15 +329,19 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002170",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ocean color",
+        "Earth observation satellite",
+        "Satellite"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.039",
@@ -143,15 +350,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002121",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Pixel",
+        "Satellite imagery",
+        "Shadow (psychology)",
+        "Cloud computing",
+        "Satellite",
+        "Image processing"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.046",
@@ -160,13 +374,35 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600225X",
+      "abstract": "",
+      "keywords": [
+        "European union",
+        "Footprint",
+        "Benchmark (surveying)",
+        "European commission"
+      ]
+    },
+    {
+      "doi": "10.1016/s0924-2716(26)00221-2",
+      "doi_url": "https://doi.org/10.1016/s0924-2716(26)00221-2",
+      "title": "Editorial Board",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002212",
       "abstract": "",
       "keywords": []
     },
@@ -177,32 +413,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001814",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.04.040",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.040",
-      "title": "APCoTTA: Continual Test-Time Adaptation for semantic segmentation of airborne LiDAR point clouds",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002133",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Satellite imagery",
+        "Cloud computing",
+        "Transformer",
+        "Satellite image",
+        "Satellite",
+        "Aerial imagery"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.030",
@@ -211,32 +437,24 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002029",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/s0924-2716(26)00221-2",
-      "doi_url": "https://doi.org/10.1016/s0924-2716(26)00221-2",
-      "title": "Editorial Board",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002212",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Point cloud",
+        "Matching (statistics)",
+        "Consistency (knowledge bases)",
+        "Image (mathematics)",
+        "Point (geometry)",
+        "Cloud computing",
+        "Image matching",
+        "Pattern recognition (psychology)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2654481",
@@ -254,7 +472,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654481",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Extension (predicate logic)",
+        "Context (archaeology)",
+        "Spatial contextual awareness",
+        "Perspective (graphical)",
+        "Spatial analysis"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115427",
@@ -320,6 +544,30 @@
       "keywords": []
     },
     {
+      "doi": "10.1016/j.rse.2026.115441",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115441",
+      "title": "A hybrid geometric optical-radiative transfer model for characterizing thermal infrared anisotropy over sloping terrain",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-04-29",
+      "published_date_display": "2026-04-29",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002117",
+      "abstract": "",
+      "keywords": [
+        "Terrain",
+        "Anisotropy",
+        "Thermal infrared",
+        "Thermal",
+        "Infrared",
+        "Heat transfer"
+      ]
+    },
+    {
       "doi": "10.1080/13658816.2026.2660985",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2660985",
       "title": "USGT: an unsupervised spatial graph transformer for detecting spatial communities in human mobility data",
@@ -335,7 +583,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2660985",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Graph",
+        "Pattern recognition (psychology)",
+        "Spatial analysis",
+        "Transformer",
+        "Anomaly detection"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2654480",
@@ -7703,31 +7957,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115296",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115296",
-      "title": "Guiding VI selection for phenology monitoring: Differential sensitivity of vegetation indices to temporal dynamics in canopy leaf area and pigment",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-07",
-      "published_date_display": "2026-02-07",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000660",
-      "abstract": "",
-      "keywords": [
-        "Phenology",
-        "Canopy",
-        "Selection (genetic algorithm)",
-        "Sensitivity (control systems)",
-        "Vegetation (pathology)",
-        "Leaf area index",
-        "Vegetation Index"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115291",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115291",
       "title": "Advancing airborne pollen mapping with integrated ground and satellite observations",
@@ -8080,31 +8309,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115273",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115273",
-      "title": "Seismic implications of creeping and coupled segments along the Philippine fault in Leyte from GNSS and InSAR data",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-04",
-      "published_date_display": "2026-02-04",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600043X",
-      "abstract": "",
-      "keywords": [
-        "Interferometric synthetic aperture radar",
-        "Geodetic datum",
-        "GNSS applications",
-        "Fault (geology)",
-        "Slip (aerodynamics)",
-        "Asperity (geotechnical engineering)",
-        "Fault model"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115278",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115278",
       "title": "Scattering-feature-driven change matrix for crop growth monitoring based on the co-polar complex coherence",
@@ -8448,32 +8652,6 @@
         "Repeatability",
         "Control theory (sociology)",
         "Satellite"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115271",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115271",
-      "title": "Improved prediction of winter wheat yield at regional scale with limited ground samples by unmanned aerial vehicle and satellite synergy",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-31",
-      "published_date_display": "2026-01-31",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000416",
-      "abstract": "",
-      "keywords": [
-        "Satellite",
-        "Yield (engineering)",
-        "Sampling (signal processing)",
-        "Scale (ratio)",
-        "Satellite imagery",
-        "Vegetation (pathology)",
-        "Winter wheat",
-        "Spatial variability"
       ]
     },
     {
@@ -10881,31 +11059,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115226",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115226",
-      "title": "Mapping wide-area land subsidence from groundwater use in the North China plain by machine learning-based InSAR adjustment",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-06",
-      "published_date_display": "2026-01-06",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006303",
-      "abstract": "",
-      "keywords": [
-        "Interferometric synthetic aperture radar",
-        "Levelling",
-        "Subsidence",
-        "Synthetic aperture radar",
-        "Groundwater",
-        "Resource (disambiguation)",
-        "GNSS applications"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2596694",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2596694",
       "title": "Space for Alienation: Seriality (or Being Alone Together) in the Swimming Hall",
@@ -11325,32 +11478,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115207",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115207",
-      "title": "Assessment and intercomparison of 23 global satellite and model-based soil moisture products using cosmic ray neutron sensing observations over Europe",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-30",
-      "published_date_display": "2025-12-30",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572500611X",
-      "abstract": "Comprehensive evaluation of satellite and model-based soil moisture (SM) products is essential for their further development and application. With the advent of Cosmic Ray Neutron Sensing (CRNS), which has an observation radius of 130–240 m, the spatial representativeness mismatch between these grid-based SM products and ground single-point observations during the evaluation process can be feasibly relieved. In this study, we systematically evaluated 23 gridded SM products, including single-sensor satellite, multi-sensor merged, and model-based products, using 68 CRNS measurement sites across the Europe. Our evaluation revealed that the SMAP-INRAE-BORDEAUX (SMAP-IB) SM retrievals showed the superior consistency with CRNS measurements among all analyzed products, demonstrating both high correlation ( R = 0.80) and low unbiased root mean square error (ubRMSE = 0.050 m 3 /m 3 ). The CCI/C3S combined active-passive SM products ranked second in performance ( R > 0.75, ubRMSE <0.060 m 3 /m 3 ). In the bias analysis, 17 products had negative bias (−0.003 m 3 /m 3 to −0.190 m 3 /m 3 ) against CRNS measurements, while AMSR2-LPRM at C1 and C2 bands and CCI/C3S at active and passive products had positive bias (0.011 m 3 /m 3 to 0.161 m 3 /m 3 ). It was also found that the capabilities of all SM products retrievals degraded in terms of R and ubRMSE with increasing vegetation density, topographic complexity and soil wetness. Most products showed the lowest ubRMSE and highest R values in cropland compared to other land cover types. Our study emphasizes the substantial potential of cosmic field-scale SM observations for the validation of satellite- and model-based SM products, and our findings have the potential to advance algorithm refinement, product improvement, and hydrometeorological applications. • Performance of 23 satellites/models-based soil moisture products was assessed over Europe. • Evaluation was based on Cosmic Ray Neutron Sensing (CRNS) measurement data. • SMAP-IB and CCI-combined followed the temporal dynamics of CRNS soil moisture best. • Lower performance with dense vegetation, higher soil wetness and topographic complexity. • Most soil moisture products underestimate CRNS measurements.",
-      "keywords": [
-        "Satellite",
-        "Water content",
-        "Vegetation (pathology)",
-        "Moisture",
-        "Land cover",
-        "Neutron",
-        "Precipitation",
-        "Root mean square"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2025.12.014",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.014",
       "title": "RSMT: Robust stereo matching training with geometric correction, clean pixel selection and loss weighting",
@@ -11530,32 +11657,6 @@
         "Bayesian probability",
         "Sample size determination",
         "Robustness (evolution)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115219",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115219",
-      "title": "A global intercomparison of SWOT and traditional nadir radar altimetry for monitoring river water surface elevation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-26",
-      "published_date_display": "2025-12-26",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006236",
-      "abstract": "",
-      "keywords": [
-        "Elevation (ballistics)",
-        "SWOT analysis",
-        "Altimeter",
-        "Ocean surface topography",
-        "Satellite",
-        "Synthetic aperture radar",
-        "Radar",
-        "Interferometric synthetic aperture radar"
       ]
     },
     {
@@ -11928,32 +12029,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115185",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115185",
-      "title": "Hyperspectral OCI/PACE observations of the Atlantic Sargassum",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-15",
-      "published_date_display": "2025-12-15",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005899",
-      "abstract": "Since the first appearance of the annually recurrent Great Atlantic Sargassum Belt (GASB) in 2011, satellite remote sensing has been used as a primary technique to monitor and track the pelagic Sargassum fluitans/natans in the Atlantic Ocean. The Ocean Color Instrument (OCI) on the Plankton, Aerosol, Cloud, ocean Ecosystem (PACE, 2024–present) mission is a first-ever operational hyperspectral sensor designed to measure the surface ocean's biological and biogeochemical properties at global scale on a near-daily basis, which is expected to provide improved performance over traditional multi-band polar-orbiting ocean color sensors. Here, we evaluate the capacity of OCI in detecting and quantifying the Atlantic Sargassum , referenced against heritage multi-band satellite sensors such as the Moderate Resolution Imaging Spectroradiometer (MODIS on Aqua) and Visible Infrared Imaging Radiometer Suite (VIIRS on NOAA-20). Our research involved development of a shared deep-learning Sargassum detection algorithm, fine-tuned for each sensor. As such, we found that OCI not only provided 47% more valid observations (# of valid pixels) than MODIS in the central west Atlantic for the study period of May–August 2024, but from the common valid pixels OCI also detected 51% more Sargassum -containing pixels. While the former is mostly due to the OCI's ability to avoid sun glint, the latter appears to be due to band binning and fewer artifacts around clouds. Using VIIRS as a bridge, it is further found that such a difference between OCI and MODIS is not due to the reported MODIS sensor degradation after 2023, but is inherent to sensor and measurement characteristics. On the other hand, VIIRS also showed more valid observations and detected more Sargassum pixels than MODIS, attributed to the larger swath and a finer spatial resolution, respectively. For these reasons, both OCI and VIIRS detected substantially more Sargassum than MODIS at daily, weekly, and monthly scales, although the spatial distributions and temporal changes of Sargassum revealed by the three sensors are similar. Finally, because of the hyperspectral capability, OCI is the only sensor that can spectrally discriminate Sargassum pixels without ambiguity. Such improved performance will make OCI a unique sensor to map both macroalgae mats and microalgae scums at global scale in both near real-time and retrospective analyses.",
-      "keywords": [
-        "Sargassum",
-        "Hyperspectral imaging",
-        "Satellite",
-        "Moderate-resolution imaging spectroradiometer",
-        "Pelagic zone",
-        "Radiometer",
-        "Spectroradiometer",
-        "Sea surface temperature"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115158",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115158",
       "title": "A review of forward modelling and retrieval approaches for forest soil moisture and vegetation optical depth using L-band radiometry",
@@ -12078,34 +12153,6 @@
         "Product (mathematics)",
         "Pace",
         "Aquatic ecosystem"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.11.033",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.033",
-      "title": "High-spatial-resolution gross primary production estimation from Sentinel-2 reflectance using hybrid Gaussian processes modeling",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-10",
-      "published_date_display": "2025-12-10",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004721",
-      "abstract": "High-spatial-resolution gross primary production (GPP) estimation is critical for local carbon monitoring, especially in heterogeneous landscapes where global products lack spatial detail. We present a hybrid modeling framework that estimates GPP using Sentinel-2 (S2) reflectance and Bayesian Gaussian Process Regression (GPR), chosen for its robustness with limited data and its ability to quantify uncertainty. GPR models were trained using SCOPE (Soil Canopy Observation of Photosynthesis and Energy fluxes) radiative transfer model (RTM) simulations and optimized via active learning (AL) across 10 plant functional types (PFTs). These lightweight, PFT-specific S2-GPR models were implemented in Google Earth Engine (GEE) to enable scalable, reproducible, and accessible GPP estimation and mapping. S2-GPR models predictive performances were evaluated using data from 67 eddy covariance flux towers across Europe. Data from 2017–2020 were used for training and training database optimization, while 2021–2024 data served as independent validation. Strong predictive performance was achieved in wetlands (R=0.84, NRMSE=12.6%), savannas (R=0.81, NRMSE=12.2%), and deciduous broadleaf forests (R=0.81, NRMSE=14.3%). Moderate accuracy was observed for croplands, shrublands, grasslands, and mixed forests (R=0.67–0.77), with lower accuracy in evergreen broadleaf (R=0.07) and needleleaf forests (R=0.33). Compared to MODIS GPP (MOD17A2H V6.1), the S2-GPR models showed consistently lower bias and comparable or improved accuracy in most PFTs, except evergreen forests. Additional validation against AmeriFlux sites in North America demonstrated that the models retain predictive power beyond the ICOS network, though ecosystem-specific and regional differences can influence accuracy. The inclusion of coarse-resolution meteorological variables (temperature, radiation, vapor pressure deficit, air pressure) was evaluated but generally did not improve predictive performance and introduced additional uncertainty, highlighting that in this study S2 spectral information alone provides the dominant signal for high-resolution GPP estimation. These findings underscore the value of integrating SCOPE modeling and AL-optimized GPR for accurate, local-scale GPP mapping using cloud-based S2 data, complementing coarse-resolution global products.",
-      "keywords": [
-        "Primary production",
-        "Random forest",
-        "Kriging",
-        "Eddy covariance",
-        "Evergreen",
-        "Gaussian process",
-        "Evapotranspiration",
-        "Atmospheric radiative transfer codes",
-        "Robustness (evolution)",
-        "Geostatistics"
       ]
     },
     {
@@ -12418,33 +12465,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.11.028",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.028",
-      "title": "Cross-satellite hierarchical multimodal denoising for hyperspectral imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-04",
-      "published_date_display": "2025-12-04",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004691",
-      "abstract": "",
-      "keywords": [
-        "Noise reduction",
-        "Hyperspectral imaging",
-        "Multispectral image",
-        "Satellite",
-        "Orthogonality",
-        "Pattern recognition (psychology)",
-        "Generalization",
-        "Tensor (intrinsic definition)",
-        "Constraint (computer-aided design)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115156",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115156",
       "title": "Leveraging additional VIIRS information to improve wildfire tracking in the western US",
@@ -12465,31 +12485,6 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.11.012",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.012",
-      "title": "UrbanMMCL: Urban region representations via multi-modal and multi-graph self-supervised contrastive learning",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-03",
-      "published_date_display": "2025-12-03",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004514",
-      "abstract": "",
-      "keywords": [
-        "Feature learning",
-        "Representation (politics)",
-        "Population",
-        "Embedding",
-        "Modalities",
-        "Graph",
-        "Contrastive analysis"
       ]
     },
     {
@@ -12570,6 +12565,32 @@
         "China",
         "Spatial ecology",
         "Spatial analysis"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.040",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.040",
+      "title": "APCoTTA: Continual Test-Time Adaptation for semantic segmentation of airborne LiDAR point clouds",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2025-05-15",
+      "published_date_display": "2025-05-15",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002133",
+      "abstract": "",
+      "keywords": [
+        "Point cloud",
+        "Lidar",
+        "Adaptation (eye)",
+        "Segmentation",
+        "Consistency (knowledge bases)",
+        "Cloud computing",
+        "Regularization (linguistics)",
+        "Key (lock)"
       ]
     },
     {
