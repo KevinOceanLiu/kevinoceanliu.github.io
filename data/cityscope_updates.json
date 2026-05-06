@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T23:12:49.169776+00:00",
+  "generated_at": "2026-05-06T23:07:21.747264+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,62 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105688",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105688",
-      "title": "Trait-basis and environmental drivers of urban biotic homogenization: a temporal analysis in a subtropical megacity",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
+      "doi": "10.1016/j.compenvurbsys.2026.102449",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102449",
+      "title": "Towards fully automated city operations: Integrating agentic AI with urban digital twins",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
       "published_date": "2026-09-01",
       "published_date_display": "2026-09",
       "published_parts": [
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600112X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000517",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261442366",
+      "doi_url": "https://doi.org/10.1177/00420980261442366",
+      "title": "Balancing scaling and autonomy: Municipal modes of engaging with grassroots initiatives",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
+      "published_parts": [
+        2026,
+        5,
+        6
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261442366",
+      "abstract": "In cities across the world, grassroots groups organise around alternative forms of provisioning, for example in the form of energy cooperatives, food-sharing networks and repair cafes. Many local governments recognise the potential of grassroots initiatives to spearhead and provide civic engagement for sustainability transitions. In this article, we explore how municipalities relate to grassroots initiatives (GIs) in the fields of food, mobility and repair. We also examine how these relationships affect both the scaling of grassroots-initiated practices and the autonomy of GIs. The analysis is based on empirical studies in Berlin and Gothenburg. Our analysis identifies six different municipal modes of engaging with GIs: (1) tolerating – letting unauthorised grassroots practices continue, (2) authorising – granting formal permission to GIs, (3) coordinating – inviting or making GIs visible on public platforms, (4) adjusting bureaucracie s – facilitating the operation and expansion of grassroots-initiated practices, (5) partnering – using public procurement of GI services and (6) municipal replication of grassroots-initiated practices. Our contribution lies in the identification of different municipal modes of relating to GIs and how these modes shape the scaling of grassroots-initiated practices on the one hand, and the autonomy of GIs on the other. We furthermore highlight the emerging municipal replication mode, which implies rethinking the very idea of what municipal infrastructure should encompass. Learning from GIs, municipal responsibilities may include not only the infrastructures for transport, energy, water and recycling but also infrastructure for repairing, reusing and sharing.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105688",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105688",
+      "title": "Trait-basis and environmental drivers of urban biotic homogenization: a temporal analysis in a subtropical megacity",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-05-05",
+      "published_date_display": "2026-05-05",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600112X",
+      "abstract": "",
+      "keywords": [
+        "Megacity",
+        "Subtropics",
+        "Urbanization",
+        "Urban heat island",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105686",
@@ -54,15 +95,21 @@
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-05",
+      "published_date_display": "2026-05-05",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001106",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Psychological intervention",
+        "Travel time",
+        "Travel behavior",
+        "Time travel",
+        "Tourism"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107109",
@@ -71,15 +118,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-05",
+      "published_date_display": "2026-05-05",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003410",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Unpacking",
+        "Work (physics)",
+        "Qualitative research"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107132",
@@ -88,15 +139,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-05",
+      "published_date_display": "2026-05-05",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003641",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Road transport",
+        "Road traffic",
+        "Projection (relational algebra)"
+      ]
     },
     {
       "doi": "10.1177/00420980261443182",
