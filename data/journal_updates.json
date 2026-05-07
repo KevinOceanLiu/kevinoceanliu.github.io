@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T22:09:05.044880+00:00",
+  "generated_at": "2026-05-07T22:15:33.921278+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115461",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115461",
-      "title": "Near-real-time mapping for causal agents of forest disturbances in China using harmonized Landsat and Sentinel-2 dataset",
+      "doi": "10.1016/j.rse.2026.115465",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115465",
+      "title": "Leveraging multidecadal satellite time series to estimate grassland age on national scale",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,123 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002312",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600235X",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.047",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.047",
+      "title": "Uncertainty quantification framework for aerial and UAV photogrammetry through error propagation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002285",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.002",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.002",
+      "title": "Spatially explicit estimation of high-resolution irrigation water use across China using earth observation data and deep learning",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600242X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.001",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.001",
+      "title": "Annual wetland changes across China (2016–2024) from multisource temporal data and knowledge-driven machine learning approach",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002431",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.057",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.057",
+      "title": "Annual irrigated cropland mapping reveals uneven expansion and rising water demand in Africa from 2000 to 2021",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002388",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115461",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115461",
+      "title": "Near-real-time mapping for causal agents of forest disturbances in China using harmonized Landsat and Sentinel-2 dataset",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002312",
+      "abstract": "",
+      "keywords": [
+        "China",
+        "Thematic Mapper",
+        "Satellite imagery",
+        "Normalized Difference Vegetation Index",
+        "Satellite"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115444",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115444",
+      "title": "Canopy spectra modeling based on spectral invariant theory and the adding method: The multilayer CANOP model",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002142",
+      "abstract": "",
+      "keywords": [
+        "Spectral line",
+        "Invariant (physics)",
+        "Canopy",
+        "Spectral analysis",
+        "Spectral shape analysis"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.043",
@@ -49,32 +163,46 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002169",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Point cloud",
+        "Cloud computing",
+        "Point (geometry)",
+        "Visualization",
+        "Computation"
+      ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.042",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.042",
-      "title": "Cooperative LoRA with frequency priors for SAM2-Based multimodal remote sensing semantic segmentation",
+      "doi": "10.1016/j.isprsjprs.2026.04.052",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.052",
+      "title": "Hyperspectral object tracking with dimensionality reduction and spatial–spectral–temporal modeling",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
       "published_parts": [
         2026,
-        7
+        8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002157",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002352",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Dimensionality reduction",
+        "Hyperspectral imaging",
+        "Object (grammar)",
+        "Pattern recognition (psychology)",
+        "Tracking (education)",
+        "Reduction (mathematics)",
+        "Object detection"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115462",
@@ -249,6 +377,29 @@
         "Feature (linguistics)",
         "Image fusion",
         "Remote sensing application"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.042",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.042",
+      "title": "Cooperative LoRA with frequency priors for SAM2-Based multimodal remote sensing semantic segmentation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-03",
+      "published_date_display": "2026-05-03",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002157",
+      "abstract": "",
+      "keywords": [
+        "Segmentation",
+        "Prior probability",
+        "Remote sensing application",
+        "Image segmentation",
+        "Pattern recognition (psychology)"
       ]
     },
     {
@@ -454,6 +605,32 @@
         "Cloud computing",
         "Satellite",
         "Image processing"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.041",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.041",
+      "title": "Hyperspectral image classification via efficient global spectral supertoken clustering",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-04-30",
+      "published_date_display": "2026-04-30",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002145",
+      "abstract": "Hyperspectral image classification demands spatially coherent predictions and precise boundary delineation. Yet prevailing superpixel-based methods face an inherent contradiction: clustering aggregates similar pixels into regions, but the subsequent classifier operates pixel-wise, undermining regional consistency. Consequently, existing approaches do not guarantee region-level, boundary-aligned classification. To address this limitation, we propose the Dual-stage Spectrum-Constrained Clustering-based Classifier (DSCC), an end-to-end framework that explicitly decouples clustering from classification by first grouping spectral similar and spatially proximate pixels into spectral supertokens and then performing token-level prediction. At its core, DSCC computes an image-level multi-criteria feature distance between pixels and centers, followed by a locality-aware assignment regularization, enabling the generation of boundary-preserving spectral supertokens. A density-isolation based center selection further yields representative, well-separated centers, reducing redundancy and improving robustness to scale variation. To accommodate mixed land-cover compositions within each token, we introduce a soft-label scheme that encodes class proportions and improves robustness for mixed-class tokens. DSCC attains a CF1 of 0.728 at 197.75 FPS on the WHU-OHS dataset, offering a superior accuracy-efficiency trade-off compared with state-of-the-art methods. Extensive experiments further validate the effectiveness and generality of the proposed dual-stage paradigm for hyperspectral image classification. The source code is available at https://github.com/laprf/DSCC.",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Pixel",
+        "Pattern recognition (psychology)",
+        "Cluster analysis",
+        "Classifier (UML)",
+        "Robustness (evolution)",
+        "Redundancy (engineering)",
+        "Contextual image classification"
       ]
     },
     {
@@ -10369,33 +10546,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.001",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.001",
-      "title": "Crowd detection using Very-Fine-Resolution satellite imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-13",
-      "published_date_display": "2026-01-13",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000018",
-      "abstract": "",
-      "keywords": [
-        "Satellite imagery",
-        "Upsampling",
-        "Generalizability theory",
-        "Benchmark (surveying)",
-        "Convolutional neural network",
-        "Context (archaeology)",
-        "Aerial imagery",
-        "Satellite",
-        "Deep learning"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2025.2611984",
       "doi_url": "https://doi.org/10.1080/13658816.2025.2611984",
       "title": "Quantification and reduction of spatially induced uncertainty in spatial optimization via deep reinforcement learning",
@@ -10419,33 +10569,6 @@
         "Noise reduction",
         "Minification",
         "Noise (video)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.009",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.009",
-      "title": "Change tensor: Estimating complex topographic changes from point clouds using Riemann manifold surfaces",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-12",
-      "published_date_display": "2026-01-12",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000092",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Rigid transformation",
-        "Translation (biology)",
-        "Coordinate system",
-        "Surface (topology)",
-        "Manifold (fluid mechanics)",
-        "Robustness (evolution)",
-        "Point (geometry)",
-        "Geometric flow"
       ]
     },
     {
@@ -10700,33 +10823,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115206",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115206",
-      "title": "Enhancing cloud detection across multiple satellite sensors using a combined Swin Transformer and UPerNet deep learning model",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006108",
-      "abstract": "",
-      "keywords": [
-        "Cloud computing",
-        "Deep learning",
-        "Convolutional neural network",
-        "Pixel",
-        "Satellite",
-        "Satellite imagery",
-        "Adaptability",
-        "Image resolution",
-        "Feature learning"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115234",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115234",
       "title": "AgriFM: A multi-source temporal remote sensing foundation model for Agriculture mapping",
@@ -10749,33 +10845,6 @@
         "Earth observation",
         "Agricultural land",
         "Land use"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.004",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.004",
-      "title": "Mamba-CNN hybrid Multi-scale ship detection Network driven by a Dual-perception feature of Doppler and Scattering",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000043",
-      "abstract": "",
-      "keywords": [
-        "Feature (linguistics)",
-        "Clutter",
-        "Context (archaeology)",
-        "Pattern recognition (psychology)",
-        "Doppler effect",
-        "Feature extraction",
-        "Pointwise",
-        "Convolutional neural network",
-        "Feature learning"
       ]
     },
     {
@@ -11153,30 +11222,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115223",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115223",
-      "title": "Large-scale tree-level mapping of forest structure including species type with remote sensing data and ground measurements",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-05",
-      "published_date_display": "2026-01-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006273",
-      "abstract": "Remote-sensing based tree maps can be used to calculate various diversity indices, but the detection probability of trees depends on size and species. We propose a novel approach combining individual tree detection (ITD) with resampling corrections (+R) which aims to simultaneously correct the size, species, and spatial distribution of trees using scalable algorithms. Using airborne laser scanning, optical data, and ground measurements, we demonstrate the compatibility of ITD+R with two different types of forests and ITD algorithms, as well as its scalability to areas exceeding 3000 km 2 . The tree maps were evaluated using plot-level variables and benchmarked against area-based k nearest neighbors ( k -NN). The ITD+R improved ITD results for most studied metrics, with the Shannon index being an exception, and even outperformed k -NN in predicting dominant height in managed stands, though k -NN still outperformed for stem density and volume. The ITD+R approach was shown to be adaptable to various diversity indices which it has not been specifically trained on, with 254 m 2 plot-level predictions correlating at r =0.42–0.91. While ITD trees could be classified with OA=82.0%–86.6% to pine, spruce, and deciduous, further research is needed to account for rare tree species, as low prevalence results in a large number of false detections which cannot be sufficiently addressed with classification alone. • Structurally representative maps were created using RS data and ground truth. • Species, DBH, height, volume, and location were predicted for each tree. • Height, DBH, and volume distributions by species were accurately reproduced. • The created maps can be reliably used to calculate biodiversity proxies.",
-      "keywords": [
-        "Resampling",
-        "Lidar",
-        "Tree (set theory)",
-        "Forest structure",
-        "Probability distribution",
-        "Tree structure"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115228",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115228",
       "title": "Hyperspectral BRDF based on UAV measurements can characterize optical properties of flat desert surfaces: A comprehensive comparison with laboratory and satellite data",
@@ -11300,34 +11345,6 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.008",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.008",
-      "title": "Uncovering spatial process heterogeneity from graph-based deep spatial regression",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-05",
-      "published_date_display": "2026-01-05",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004927",
-      "abstract": "One can never specify the true statistical form of a complex spatial process. Model misspecification, such as linearity and additivity, will lead to fundamentally flawed interpretations in the estimated coefficients, particularly in empirical geographic studies involving a large number of observations and complex data generation processes. Motivated to learn representative patterns of spatial process heterogeneity, we propose a deep explainable spatial regression (XSR) framework based on graph convolutional neural networks (GCN), which bypasses the conventional parametric statistical assumptions in spatial regression modeling and can generate deep spatially varying coefficients that depict the heterogeneity structure of spatial processes. We introduce an analytical framework to (1) perform deep spatial regression modeling in multivariate cross-sectional scenarios, (2) reconstruct spatial heterogeneity patterns from the learned deep coefficients, and (3) explain the effectiveness of heterogeneity through a simple diagnostic test. Experiments on Greater Boston house prices modeling demonstrate better fitting performance over spatial regression baselines. The spatial patterns of deep local coefficients consistently exhibit stronger explanatory power than those derived from geographically weighted regression, indicating a better representation of the true spatial process heterogeneity uncovered by graph-based deep spatial regression.",
-      "keywords": [
-        "Regression",
-        "Spatial analysis",
-        "Spatial heterogeneity",
-        "Parametric statistics",
-        "Regression analysis",
-        "Multivariate statistics",
-        "Spatial ecology",
-        "Deep learning",
-        "Spatial variability",
-        "Spatial dependence"
       ]
     },
     {
@@ -11829,33 +11846,6 @@
         "Hydrology (agriculture)",
         "Photosynthesis",
         "Soil water"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.11.021",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.021",
-      "title": "Automated TLS multi-scan registration in forest environments: A novel solution based on hash table",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-20",
-      "published_date_display": "2025-12-20",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004605",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Hash function",
-        "Hash table",
-        "Transformation (genetics)",
-        "Table (database)",
-        "Translation (biology)",
-        "Key (lock)",
-        "Coordinate system",
-        "Rotation (mathematics)"
       ]
     },
     {
@@ -12526,32 +12516,6 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.11.030",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.030",
-      "title": "CityVLM: Towards sustainable urban development via multi-view coordinated vision–language model",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-03",
-      "published_date_display": "2025-12-03",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004678",
-      "abstract": "",
-      "keywords": [
-        "Geospatial analysis",
-        "Sustainability",
-        "Urban planning",
-        "Sustainable development",
-        "Domain (mathematical analysis)",
-        "Bridge (graph theory)",
-        "Component (thermodynamics)",
-        "Semantics (computer science)"
       ]
     },
     {
