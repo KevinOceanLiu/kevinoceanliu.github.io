@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T22:31:55.690823+00:00",
+  "generated_at": "2026-05-07T22:43:31.521753+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-01977-4",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01977-4",
+      "title": "Deep crustal relamination drives post-collisional magmatism",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        5,
+        7
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01977-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01829-4",
       "doi_url": "https://doi.org/10.1038/s41893-026-01829-4",
       "title": "Water scarcity and infrastructure risk of amplified seasonal sediment transport",
@@ -41,7 +59,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01829-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Surface runoff",
+        "Sediment",
+        "Climate change",
+        "Seasonality",
+        "Hydrology (agriculture)",
+        "Water resources",
+        "Water scarcity",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01827-6",
@@ -59,7 +86,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01827-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Triboelectric effect",
+        "Air purification",
+        "Air filter",
+        "Particulates",
+        "Electrostatic induction",
+        "Adsorption",
+        "Air purifier",
+        "Filter (signal processing)",
+        "Filtration (mathematics)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01809-8",
@@ -77,7 +114,13 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01809-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Sustainability",
+        "Government (linguistics)",
+        "Legislation",
+        "Context (archaeology)",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02626-9",
@@ -95,7 +138,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02626-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Adaptation (eye)",
+        "Perspective (graphical)",
+        "Climate change adaptation",
+        "Economic Justice",
+        "Impact assessment",
+        "Risk assessment",
+        "Adaptive capacity"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01976-5",
@@ -234,12 +286,36 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-05-01",
-      "published_date_display": "2026-05",
+      "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001028",
+      "abstract": "",
+      "keywords": [
+        "Sustainability",
+        "Electric vehicle",
+        "Battery (electricity)",
+        "Battery electric vehicle",
+        "Production (economics)",
+        "Extended producer responsibility"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101703",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101703",
+      "title": "Photosynthetic optimum temperature plays a minor role in the increase of terrestrial carbon uptake from 2000 to 2019",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001041",
       "abstract": "",
       "keywords": []
     },
