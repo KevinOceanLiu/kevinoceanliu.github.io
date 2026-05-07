@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T23:07:21.747264+00:00",
+  "generated_at": "2026-05-07T23:12:07.039747+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,20 +31,75 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102449",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102449",
-      "title": "Towards fully automated city operations: Integrating agentic AI with urban digital twins",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "doi": "10.1177/00420980261442756",
+      "doi_url": "https://doi.org/10.1177/00420980261442756",
+      "title": "Relational city actorness in global migration governance: A comparative analysis of Dallas and San Diego",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
       "published_parts": [
         2026,
-        9
+        5,
+        7
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000517",
-      "abstract": "",
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261442756",
+      "abstract": "This article examines the—to date, relatively sparsely researched—role of US cities as international actors in migration governance by employing a comparative study of San Diego and Dallas from 2017 to 2024. Situated within a national context marked by fluctuant and highly partisan federal and state level migration policies, this study explores how Dallas and San Diego create agency and establish actorness within a policy venue traditionally viewed as the domain of the nation state. To do so, this article takes an interdisciplinary approach, drawing on literature from urban studies, international relations, and migration studies to theorize city actorness as a dynamic relational construct. Despite divergent state-level—restraining versus permissive—political contexts and local characteristics, both cities actively engage in migration governance, from local to global levels. Following a three-level analysis—local, transnational, and global—findings demonstrate that both San Diego and Dallas have adopted institutional infrastructure, citizen engagement, narrative framing, legal and symbolic contestation of federal/state level migration policy, national and transnational network engagement, and mayoral leadership as key strategies through which they engage in global migration governance. Moreover, the case study highlights how San Diego’s and Dallas’s geographic, economic and political embeddedness shape the cities’ strategies to navigate and influence existing migration governance structures and agenda-setting despite lacking formal international legal status. The cases also reveal that city engagement is driven not only by practical governance concerns but also by commitments to international norms and standards.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261442405",
+      "doi_url": "https://doi.org/10.1177/00420980261442405",
+      "title": "Reading the walls: Visual governmentality and public response in Tianjin subway murals",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        5,
+        7
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261442405",
+      "abstract": "In rapidly expanding urban transit systems, subway murals are increasingly mobilized as visual governance, staging city narratives and shaping how commuter space is felt and read. Drawing on 59 semi-structured interviews across all 26 mural-equipped Tianjin Metro stations (29 murals), this study develops a perception–preference–needs framework linking eight visual elements—shape, color, symbol, contrast, material, light, form, and space—to articulated cultural, aesthetic, functional, and emotional needs. The findings show that murals with locally legible imagery, coherent composition, and durable, well-crafted materials were more often described as supporting place attachment, visual comfort, and spatial intelligibility. By contrast, works perceived as hard to read at a glance, historically or ideologically distant, or visually intense in high-flow zones were more frequently associated with fatigue, distancing, and disengagement, especially when competing with wayfinding under time pressure. These patterns portray metro murals as negotiated texts in everyday travel, revealing both the reach and limits of visual governance. The article offers a mid-range analytic tool for evaluating transit murals and argues for low-friction, user-informed processes—such as feedback loops and legibility testing—to improve fit with diverse commuter readings.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261443112",
+      "doi_url": "https://doi.org/10.1177/00420980261443112",
+      "title": "Making environmental criminology smarter – A framework for directly measuring routine activities using passively collected geolocation data",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        5,
+        7
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261443112",
+      "abstract": "We propose novel methods for analysing spatio-temporal tracking data collected via smartphones with the purpose of exploring the extent to which foundational, but as yet untested, assumptions within environmental criminology are observed in real-world behaviour. We provide systematic and replicable methods for identifying and quantifying nodes, trips, visits, paths and activity spaces – key elements of human mobility which underpin the vast majority of theoretical and empirical crime and place-based research. Our approach is illustrated through analyses of data captured from a sample of 16–24 year olds living in urban Australia. Implications for theoretical testing, refinement and extension are discussed.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261443199",
+      "doi_url": "https://doi.org/10.1177/00420980261443199",
+      "title": "Age-friendliness of a provincial city: Results from the validation of the AFCCQ for use in a New Zealand context",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        5,
+        7
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261443199",
+      "abstract": "The global ageing phenomenon poses significant challenges for urban and community planning, leading to the World Health Organization’s (WHO) Age-friendly Cities and Communities (AFCC) initiative to support older adults in ageing well within their homes and neighbourhoods. In Aotearoa New Zealand, the AFCC framework has been integrated into national policy; however, locally validated tools for assessing the age-friendliness of local communities are not available. This study aimed to validate the Age-friendly Cities and Communities Questionnaire for New Zealand (AFCCQ-NZ) and to evaluate age-friendliness in Napier City, where 21.1% of residents are aged 65 years or older. A two-phase design was employed. Phase 1 established face and content validity through consultation with policy experts and older adults to ensure cultural and linguistic relevance. Phase 2 involved psychometric validation using confirmatory factor analysis, resulting in a 23-item instrument encompassing the eight WHO AFCC domains plus an additional domain on perceived financial wellbeing. The AFCCQ-NZ demonstrated excellent model fit and internal consistency. Survey data from 354 older adults indicated moderate to high satisfaction with age-friendly features, with housing rated most positively and transportation, community support, health services and financial situation rated lowest. Cluster analysis identified five distinct resident typologies, revealing heterogeneity in older adults’ experiences. The AFCCQ-NZ offers a robust tool for assessing age-friendliness and informing local planning. The findings underscore the importance of the authentic and genuine engagement and inclusion of older adults in the age-friendly planning, implementation and evaluation process.",
       "keywords": []
     },
     {
@@ -63,7 +118,15 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261442366",
       "abstract": "In cities across the world, grassroots groups organise around alternative forms of provisioning, for example in the form of energy cooperatives, food-sharing networks and repair cafes. Many local governments recognise the potential of grassroots initiatives to spearhead and provide civic engagement for sustainability transitions. In this article, we explore how municipalities relate to grassroots initiatives (GIs) in the fields of food, mobility and repair. We also examine how these relationships affect both the scaling of grassroots-initiated practices and the autonomy of GIs. The analysis is based on empirical studies in Berlin and Gothenburg. Our analysis identifies six different municipal modes of engaging with GIs: (1) tolerating – letting unauthorised grassroots practices continue, (2) authorising – granting formal permission to GIs, (3) coordinating – inviting or making GIs visible on public platforms, (4) adjusting bureaucracie s – facilitating the operation and expansion of grassroots-initiated practices, (5) partnering – using public procurement of GI services and (6) municipal replication of grassroots-initiated practices. Our contribution lies in the identification of different municipal modes of relating to GIs and how these modes shape the scaling of grassroots-initiated practices on the one hand, and the autonomy of GIs on the other. We furthermore highlight the emerging municipal replication mode, which implies rethinking the very idea of what municipal infrastructure should encompass. Learning from GIs, municipal responsibilities may include not only the infrastructures for transport, energy, water and recycling but also infrastructure for repairing, reusing and sharing.",
-      "keywords": []
+      "keywords": [
+        "Grassroots",
+        "Autonomy",
+        "Sustainability",
+        "Procurement",
+        "Best practice",
+        "Municipal services",
+        "Public participation"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105688",
@@ -102,7 +165,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001106",
-      "abstract": "",
+      "abstract": "• Developed a immersive, scalable survey using GSV Time-Machine for street preferences. • The tool enables temporal analysis using real panoramic images. • The tool follows the GSV Terms of Use being replicable for other applications. • Parents and non-experts show a higher preference for car-oriented interventions. • Support for active modes grows with experience; less impact seen for bus interventions. Urban spaces are changing in response to the current paradigm shift in mobility planning, which is moving away from car-oriented planning, prioritizing public transport and active modes. The decision-making process is shifting from a solely expert-led and politician-driven model to one that integrates citizens’ preferences and expectations, acknowledging the importance of a better understanding of public attitudes toward street design reconfigurations. Current research relies on resource-intensive and time-consuming experiments, rarely considering the element of change. Consequently, the main contribution of this work is the development of a visual stated preference survey methodology designed to evaluate individuals’ preferences regarding street interventions by comparing conditions before and after their implementation. The approach uses Google Street View’s ‘Time Machine’ feature to represent real-world changes, embedding iframe-based visualizations that enable pairwise comparisons between pre- and post-intervention scenarios. The visual stated preference survey was designed to capture preferences in different street interventions types focusing on prioritizing car, bus or active modes among diverse population groups. This framework not only ensures compliance with Google’s usage policies and is reproducible but also provides respondents with an immersive 360-degree environment that allow a more complete visualization of the transformations on the street. Although the survey was disseminated world-wide, respondents primarily resided in Portugal (53.2%) and had an urban planning background (54.8%). The methodological contribution is reproducible, scalable, and can be deployed across diverse geographic contexts, helping to mitigate current sampling limitations in future applications. Although the results are not generalizable to all contexts, car-oriented interventions had the lowest preference rate, and parents and nonexperts showed comparatively higher support for these interventions. These group effects were not observed in active-modes-oriented interventions, which had a near-unanimous preference for the ”after” scenarios. Bus-oriented interventions received a more moderate level of support. In particular, suburban residents consistently preferred all types of transitions. Results highlight the importance of inclusive consultation and tailored communication strategies to address the difference in perceptions of specific groups.",
       "keywords": [
         "Psychological intervention",
         "Travel time",
@@ -125,7 +188,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003410",
-      "abstract": "",
+      "abstract": "Nearly one-third of eligible residents in the United States do not have a driver's license. An even larger share of the population likely lives without driving for various reasons, including disability, aging, financial constraints, or anxiety related to driving. Given the substantial size of this population, their perspectives and needs should be more fully integrated into transportation planning and policy. This study explores how these nondrivers meet their mobility needs and the travel barriers they encounter, drawing on in-depth interviews with 163 nondriving residents (with greater representation of people with disabilities) and a follow-up Transportation Security Index (TSI) survey with 67 nondrivers in Washington State. The interviews revealed that public transit and walking or rolling were the predominant means of transportation among nondrivers. The most frequently reported barriers included a lack of reliable transit services and inadequate pedestrian infrastructure. The TSI survey results highlighted both the prevalence and severity of transportation insecurity within this group, calling for greater attention to this issue. Overall, framing nondrivers as a collective and distinct population group provides a more inclusive and representative basis for advocating policy changes and infrastructure investments that improve the mobility of those living without driving. • Nondrivers are a distinct and diverse population needing focused policy attention. • Transportation insecurity is both prevalent and severe for nondrivers. • Public transit and walking or rolling are the most common modes for nondrivers. • Key barriers include unreliable transit service and inadequate pedestrian infrastructure. • Expanding transit access and pedestrian networks can improve nondrivers' mobility.",
       "keywords": [
         "Unpacking",
         "Work (physics)",
@@ -146,7 +209,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003641",
-      "abstract": "",
+      "abstract": "The transportation sector is crucial for modern economies but also a significant source of greenhouse gas (GHG) emissions and air pollutants, especially in urban areas. This study explores the environmental impact of road transport in Budapest, forecasting warm-vehicle emissions for 2020, 2030, and 2050. We analyze future emissions across vehicle technologies and fuel types using advanced emission modeling tools, including HBEFA and COPERT, within the PTV VISUM software framework. Our research (i) assesses how future changes in vehicle technology, emission standards, and traffic demand influence GHG and air pollutant emissions, (ii) analyzes the spatiotemporal patterns of emissions in urban versus rural zones, (iii) evaluates the extent to which projected emissions align with EU climate targets for 2030 and 2050. The analysis excludes heavy-duty trucks and includes only hot exhaust emissions, without cold-start or evaporative components. Results indicate significant reductions in emissions. By 2050, CO 2 -equivalent emissions will decline from 7 million tons annually in 2020 to 4.24 million tons, primarily due to fleet electrification and improved vehicle efficiency. Exhaust pollutants such as NOₓ, CO, and PM 2.5 are expected to decrease by over 90%, enhancing urban air quality. However, non-exhaust emissions from tire and brake wear show minimal reductions, necessitating further policy measures. Spatial analysis shows that urban areas currently have higher emissions than rural zones. By 2050, targeted interventions, including electrification and infrastructure improvements, are expected to reduce these disparities. This research supports evidence-based transportation policies aligned with EU climate goals and provides an analysis framework adaptable to similar urban areas for sustainable transport. • Integrated HBEFA, COPERT, and VISUM for urban emission forecasting • Projected Budapest Road emissions for 2020–2050 scenarios • CO₂-equivalent emissions decline from 7.0 to 4.24 Mt. by 2050 • Exhaust pollutants fall by >90%, but non-exhaust persists • Urban–rural emission gaps narrow under electrification",
       "keywords": [
         "Road transport",
         "Road traffic",
@@ -281,7 +344,18 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261428339",
       "abstract": "This special issue emerges from the Urban Studies journal’s Critical and Conceptual Advances in Urban Studies initiative and features the development and application of a transport-as-a-social-construct framework. The collection of articles demonstrates the framework’s conceptual breadth as well as its empirical relevance across diverse geographic contexts and transport modes. We begin by outlining three conceptual articles that establish key theoretical foundations for a social constructivist understanding of urban transport, highlighting how social, cultural, and political forces both shape and are shaped by urban transport systems. We then introduce nine empirical articles organized around four interrelated thematic areas: the social construction of transport systems, the social benefits and burdens of transport, social interaction and cultural production in transport spaces, and the social and cultural determinants and experiences of travel. Beyond these thematic areas, we identify three overarching and recurring analytical threads: contestation and conflict, contingency and interdependency, and people and performativity. Our analysis highlights the generative potential of contestation and conflict in opening alternative futures for urban mobility, the context-sensitivity of transport meanings and effects, and the importance of attending to situated actors and embodied experiences in advancing a social constructivist perspective. Finally, the conclusion summarizes the breadth of theoretical and empirical contributions and asserts their significance to both scholarship and intervention.",
-      "keywords": []
+      "keywords": [
+        "Situated",
+        "Scholarship",
+        "Relevance (law)",
+        "Social constructivism",
+        "Sociocultural evolution",
+        "Empirical research",
+        "Politics",
+        "Futures contract",
+        "Conceptual framework",
+        "Urban studies"
+      ]
     },
     {
       "doi": "10.1177/00420980261442372",
@@ -13955,6 +14029,33 @@
         "Mental health",
         "Systematic review",
         "Data extraction"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102449",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102449",
+      "title": "Towards fully automated city operations: Integrating agentic AI with urban digital twins",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000517",
+      "abstract": "",
+      "keywords": [
+        "Orchestration",
+        "Transformative learning",
+        "Workflow",
+        "Context (archaeology)",
+        "Construct (python library)",
+        "Responsible Research and Innovation",
+        "Key (lock)",
+        "Smart city",
+        "Software"
       ]
     },
     {
