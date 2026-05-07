@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T23:34:54.690310+00:00",
+  "generated_at": "2026-05-07T23:34:02.446812+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03049-7",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03049-7",
+      "title": "Unobserved confounders cannot explain over-crediting in avoided deforestation carbon projects",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        5,
+        7
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03049-7",
+      "abstract": "Abstract In ecology and conservation, a growing number of studies seek to draw causal inference using quasi-experimental designs. Despite the risk of omitted variable bias from such designs, the degree to which results are sensitive to unobserved confounders is seldom assessed. Here, to demonstrate the value of such sensitivity analyses, we use the controversy surrounding whether projects aimed at reducing emissions from deforestation and forest degradation (REDD+) overestimated their effectiveness (resulting in too many credits being sold). Verifiers of REDD+ credits have argued that independent quasi-experimental analyses of REDD+ projects are flawed because they omit site-specific drivers of deforestation. If these drivers also affect where REDD+ projects are established (that is, projects target areas facing threat), omitting them will tend to underestimate the deforestation that projects avoided. We revisit a global sample of 44 REDD+ projects and show that while some projects reduced deforestation, over-crediting was rife. Crucially, we explore the sensitivity of these results to unobserved confounders and demonstrate that unobserved local drivers of both deforestation and REDD+ locations are unlikely to fully account for reported over-crediting. Assessing sensitivity to unobserved confounders remains uncommon in ecology and conservation but should become standard practice where causal conclusions are based on controlling for confounders.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03078-2",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03078-2",
+      "title": "A stress test for unobserved confounders",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        5,
+        7
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03078-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70342",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70342",
+      "title": "RETRACTION: Dual Drivers of Plant Invasions: Enemy Release and Enhanced Mutualisms",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        5,
+        7
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70342",
+      "abstract": "RETRACTION: L. Wang, W. Li, J. Ding, and E. Siemann, “Dual Drivers of Plant Invasions: Enemy Release and Enhanced Mutualisms,” Journal of Ecology 113, no. 8 (2025): 1997–2012. https://doi.org/10.1111/1365‐2745.70059 . The above article, published online on 29 April 2025 in Wiley Online Library ( wileyonlinelibrary.com ), has been retracted by agreement between the journal Executive Editor, Yvonne Buckley; the British Ecological Society; and John Wiley & Sons Ltd. The retraction has been agreed due to concerns raised by third parties. Specifically, irregularities were identified in the dataset underlying the article with respect to the root morphology measurements, characterized by an unusual occurrence of identical or near‐identical values. The authors acknowledged that unintentional errors must have occurred during the assembly of individual WinRHIZO outputs into the consolidated dataset. They further stated that the original WinRHIZO output related to the root morphology data is no longer available due to hard drive failure and that, as a result, they are unable to retrospectively assign the correct values to individual plants to accurately correct the consolidated dataset. Accordingly, the absence of the original data prevents correction of the errors. Furthermore, the necessary corrections to the published article were deemed too extensive. On this basis, the article has been retracted. The authors have unanimously agreed to the decision to retract the article, while maintaining that, in their view, the identified issues are unlikely to have affected the main results and conclusions of the study. They have been invited to undertake new experimental work to submit a corrected version of the article for consideration for publication in the journal.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70390",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70390",
+      "title": "Integrated assessment of grassland restoration methods across Germany: Direct harvesting and regional seed mixtures are most successful for vegetation outcomes",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        5,
+        7
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70390",
+      "abstract": "Abstract Restoring species‐rich grasslands is one of the key tools to bend the biodiversity curve. However, so far there have been few landscape‐scale assessments of restoration methods as applied by practitioners across many sites, soil conditions, and regions. To improve the effectiveness of grassland restoration, broad‐scale standardised assessments are needed that incorporate both positive and negative references, and evaluate total plant diversity as well as characteristic grassland species. The study assessed vascular plant diversity in 121 restored grasslands that cover different restoration methods, land‐use legacies, restoration ages, and soil moisture levels across three regions in Germany. The results are compared with 33 positive (species‐rich) and 33 negative (degraded) reference sites. We analysed diversity indices (total and characteristic plant species richness, total and characteristic Hill–Shannon diversity), the Favourable Conservation Status index (FCS i ), and the forb‐graminoid ratio to assess the drivers and effects of restoration. Restoration improved the diversity of vascular plant species compared with negative reference sites, and some restored grasslands reached the diversity and FCS i levels of positive references. Active (re)introduction of species, such as direct harvesting methods and regional seed mixtures, was most successful in enhancing plant species diversity towards the target communities, while cultivar seed mixtures and management adaptation were less effective. Neither the previous land use nor the restoration age significantly affected the restoration outcome in terms of species richness and species composition. Synthesis and applications . Direct harvesting and regional seed mixtures are the most effective methods to restore biodiverse and characteristic grassland plant communities. They outperform other methods regardless of land‐use history and restoration age. This has positive implications for restoration of temperate grasslands in Central Europe, since land‐use history is not a significant driver of restoration success, allowing the effective restoration on ex‐arable land as well as on degraded grassland sites. Further studies should investigate the effects of combining direct harvesting and regional seed mixture sowing.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03077-3",
       "doi_url": "https://doi.org/10.1038/s41559-026-03077-3",
       "title": "Hidden biodiversity costs of a deep-sea mining moratorium",
@@ -51,7 +123,12 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03077-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Biodiversity conservation",
+        "Extraction (chemistry)",
+        "Marine biodiversity"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03068-4",
@@ -69,7 +146,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03068-4",
       "abstract": "Abstract Increasing global demand for nickel, an essential metal in low-carbon technologies and stainless steel, is driving a surge in mining in strongholds of tropical biodiversity. We use a global mine-by-mine supply scenario model to quantify the trade-off between meeting future nickel demand for decarbonization and conserving areas critical for achieving biodiversity and climate targets. Nickel laterites—near-surface deposits often found beneath tropical forests—account for 78 to 83% of modelled supply between 2025 and 2050. Over this timeframe, half of mined nickel threatens the top 10% of global land areas most critical for conserving biodiversity and storing carbon, but avoiding mining in these areas increases the risk of supply shortfalls. In addition, 53 to 60% of future supply comes from coastal mines, which threaten the top 10% of global priority areas for conserving marine biodiversity. While deep-sea resource development remains controversial, we show that a moratorium may increase reliance on nickel sourced from high-priority areas for conserving terrestrial and coastal marine biodiversity. Securing ecologically responsible nickel supply requires integrating terrestrial and marine conservation priorities to inform sourcing and mine development decisions, alongside efforts to mitigate unavoidable impacts, increase resource exploration and reduce long-term demand.",
-      "keywords": []
+      "keywords": [
+        "Tropics",
+        "Resource (disambiguation)",
+        "Biodiversity",
+        "Global warming",
+        "Supply and demand",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03048-8",
@@ -87,7 +171,17 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03048-8",
       "abstract": "Abstract Larger animal groups are widely understood to require more space and expend more energy to mitigate the foraging costs of within-group competition. Yet between-group interactions and shifting resource distributions can obscure links between group size and behaviour, making responses to demographic change difficult to predict. Here, using 33 years of observational data from 12 neighbouring white-faced capuchin ( Cebus imitator ) groups in Costa Rica, combined with remotely sensed environmental data, we show that within- and between-group competition jointly shape space use, with their relative importance shifting with seasonal and interannual climate cycles. Larger groups compensated for reduced per capita foraging efficiency by expanding into less-exploited areas over longer timescales rather than increasing daily travel. Notably, this expansion disproportionately encroached on smaller neighbouring groups. In the dry season, resource confinement to riparian zones increased intergroup encounters and reduced overlap, with larger groups occupying the highest-quality areas. Climatic extremes linked to El Niño and La Niña exacerbated within-group foraging costs for large groups, whereas intermediate anomalies relaxed these constraints and amplified the benefits of between-group competitive ability. Our findings show that environmental variation shifts the trade-offs of within- and between-group competition, shaping how group-living animals adjust to changing social and ecological conditions.",
-      "keywords": []
+      "keywords": [
+        "Foraging",
+        "Competition (biology)",
+        "Per capita",
+        "Resource (disambiguation)",
+        "Niche",
+        "Riparian zone",
+        "Climate change",
+        "Resource use",
+        "Optimal foraging theory"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03063-9",
@@ -105,6 +199,31 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03063-9",
       "abstract": "",
+      "keywords": [
+        "Competition (biology)",
+        "Offset (computer science)",
+        "Group (periodic table)",
+        "Climate change",
+        "Primate",
+        "Group structure"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70336",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70336",
+      "title": "The Red Queen unveils the sexual and mating strategies of flowers",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
+      "published_parts": [
+        2026,
+        5,
+        6
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70336",
+      "abstract": "Abstract The Red Queen Hypothesis states that sex evolved as an adaptation of hosts against their parasites, allowing them to produce offspring protected by rare combinations of defence genes. It has been hypothesized that plant species under higher pressure by short‐lived natural enemies should invest more heavily in outcrossing. Here, we test the interspecific prediction that plant species associated with a higher species richness of insect herbivores—used as a proxy for a higher, more diverse and consistent herbivory pressure over geographic space and evolutionary time—should exhibit sexual and mating traits leading to outcrossing. We predict that plant species associated with a richer insect fauna will have a higher probability to be auto‐incompatible, dichogamous, heterostylous, dimorphic, dioecious and allogamous. Furthermore, they are predicted to exhibit a higher pollen–ovule ratio, to be more dependent on pollinators or wind for cross‐fertilization, and to rely mostly on sexually generated seeds for reproduction rather than on asexual reproduction. In order to perform such comparative tests, we assembled published insect–plant interaction records and information on key reproductive floral traits linked to the inbreeding–outcrossing gradient for 1884 native angiosperm species from Germany. The analyses were performed with generalized linear models and phylogenetic models using species richness of insect herbivores as the single explanatory variable, but also with plant geographic range size and plant height as covariates. We showed that plant species consumed by a higher species richness of insect herbivores have a higher probability to be auto‐incompatible, dichogamous, dimorphic, dioecious and allogamous. In addition, they had a higher pollen–ovule ratio, were more dependent on pollinators or wind for cross‐fertilization, and relied mostly on sexually generated seeds for reproduction rather than also use asexual reproduction. Model fitting improved considerably after taking into consideration the phylogenetic structure of the data and the results remained relatively consistent after controlling for geographic range size and plant height. Synthesis . Although the conventional wisdom is that floral traits of plants evolved in concert with their mutualistic pollinators, here we showed that several key sexual and mating traits of plants, which modulate their outcrossing strategy, evolved in response to the pressure exerted by their antagonistic insect herbivores. The Red Queen Hypothesis emerges as a unifying theory which helps to explain the sexual diversity of angiosperms, with consequences for genetic and phylogenetic diversity, animal–plant network structures, and plant‐based ecosystem services.",
       "keywords": []
     },
     {
@@ -123,7 +242,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70328",
       "abstract": "Abstract The seed rain, that is, the flux of seeds landing on a given location, is a fundamental ecological process driving community assembly and forest regeneration. Because seed rain studies usually focus on a particular site, the influence of landscape features—such as deforestation and fragmentation—on seed dispersal remains poorly understood at the broad scale. We investigated how patch size, forest cover, number of patches, precipitation and latitude influence seed rain parameters (proportion of zoochorous species, seed density, species richness and within‐site spatial turnover) spanning a latitudinal gradient from 7° S to 29° S in a highly fragmented global biodiversity hotspot: the Brazilian Atlantic Forest. This is the first study to synthesize seed rain patterns across such a large extent. We compiled a database from 1905 seed traps in 52 study patches. Over 1.3 million seeds were sampled and 1029 taxa were identified to at least the family level. Total precipitation and forest cover were the most important predictors for the proportion of zoochorous species. Seed density increased with the number of patches (fragmentation) for both zoochorous and non‐zoochorous species. Species richness and turnover were strongly predicted by forest cover; therefore, increasing with habitat amount, especially in sites with higher precipitation levels. Synthesis . Along with precipitation, forest cover emerges as a fundamental driver of alpha and beta diversity in the seed rain. This highlights the role of habitat amount at the landscape level over patch‐level features, like patch size, for seed dispersal. However, increased seed density can be related to higher dispersal rates in forest borders. Understanding these drivers of seed rain can help predict forest regeneration trajectories that shape the future configuration of fragmented landscapes.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Deforestation (computer science)",
+        "Seed dispersal",
+        "Habitat",
+        "Precipitation",
+        "Biodiversity",
+        "Rainforest",
+        "Biological dispersal",
+        "Forest cover",
+        "Species diversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70404",
@@ -141,6 +271,52 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70404",
       "abstract": "Abstract Climate change‐driven disturbances are producing shifts in forest composition and productivity, which may reduce biodiversity as well as threaten the economic security and safety of nearby communities. Adaptive management is a potential solution for maintaining forest resources. We examine the effectiveness of adaptive management in boreal forests of Alaska, where the climate is warming rapidly and fire activity is increasing dramatically. We interviewed stakeholders and managers of the Tanana Valley State Forest (TVSF) of Alaska to elicit probable adaptive management actions. We then implemented these management strategies in an ecological process model to quantify the impacts of climate change and adaptive forest management on future availability of natural resources and ecosystem services. We found climate change may drive substantial decreases in both carbon sequestration (up to 28%) and high‐value timber (up to 43%) as well as shifts in wildlife habitat. At the landscape scale, low‐intensity management in every scenario currently under consideration may be insufficient to moderate climate impacts. However, specific fuel treatments could reduce the risk of intense fire at the local level for up to 22 years and may be targeted to protect valuable resources. Synthesis and applications . Our years‐long collaboration contributed to a robust scientific basis for the next TVSF management plan, which is currently under development. More broadly, our findings demonstrate the adaptive capacity of communities in sparsely managed climate vulnerable forests is likely insufficient to offset declines in desired ecosystem services. Community protection depends on effective climate change mitigation to reduce risks of fire and drought stress‐induced tree mortality.",
+      "keywords": [
+        "Adaptive management",
+        "Climate change",
+        "Ecosystem management",
+        "Forest management",
+        "Biodiversity",
+        "Ecosystem services",
+        "Silviculture",
+        "Ecosystem",
+        "Forest ecology"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70370",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70370",
+      "title": "Identification of camera trap images by artificial intelligence and human experts produces similar multi‐species occupancy models",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
+      "published_parts": [
+        2026,
+        5,
+        6
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70370",
+      "abstract": "Abstract The use of camera traps in ecology and conservation has expanded rapidly, but the time spent to accurately identify species in camera trap images remains a fundamental challenge that limits project scope and impact. Although artificial intelligence (AI) is often used to speed up image processing, a human review step is still standard practice to arrive at final species identifications. A potentially transformative next step is thus to remove humans entirely from the analysis chain and still produce accurate statistical models for subsequent inference across a wide diversity of species and regions. Here, we compare the output of Bayesian multi‐species occupancy models derived from a complete AI workflow (no human review of images) with a general species classifier (SpeciesNet) to those from an expert (human) workflow, using large‐scale camera datasets from three study areas and two distinct and diverse mid‐large mammal assemblages. We apply several pre‐ and post‐processing steps to the AI workflow to improve model agreement. We perform a comprehensive model comparison, assessing agreement in identified species–environment relationships and rates of occupancy and detection, and similarity of spatial projections of occupancy. We found that for most species of mammal, AI based models were remarkably similar to expert‐based models, with some variability based on post‐processing decisions. This agreement was robust, holding across multiple metrics of comparison (e.g. parameter estimates, precision, occupancy and detection rates), multiple study sites and at species and community levels. Similarity in model output occurred even in the presence of misclassification errors, suggesting our approach was resilient to some level of false negatives and positives. Substantial divergence in model output and subsequent inference, while rare, was most prevalent for rarely detected species. Synthesis and applications . The use of a global AI classifier to identify species and reproducible pre‐ and post‐processing decisions makes our approach broadly applicable and particularly beneficial for national and international monitoring programs that collect large amounts of photo data on threatened, at risk, or management sensitive species and wildlife communities. A fully automated workflow will allow such programs to progress more rapidly from photo collection to analysis, inference and decision‐making. Read the free Plain Language Summary for this article on the journal's blog .",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70406",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70406",
+      "title": "From species lists to interactions: Network structure, not richness, guides seed dispersal management in human‐modified islands",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
+      "published_parts": [
+        2026,
+        5,
+        6
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70406",
+      "abstract": "Abstract Seed dispersal by animals supports plant regeneration and ecosystem resilience, yet conservation success is still commonly evaluated using species richness rather than the organisation of ecological interactions. This is particularly problematic in human‐modified ecosystems, where management interventions can increase diversity without restoring historical interaction structures or functional stability. We compared seed dispersal networks on two climatically and biogeographically similar oceanic islands in the Seychelles archipelago with contrasting management trajectories: one strictly protected and under historically oriented management, aimed at limiting introductions and maintaining historically informed community structure, and one anthropogenically diversified through long‐term human occupation and species introductions. Using a multi‐metric ecological network approach integrating modularity‐based roles, centrality indices and motif analyses, we quantified how plants and dispersers contribute to network structure under each management context. Anthropogenic diversification increased interaction diversity and the number of dispersal events but resulted in a less cohesive network dominated by peripheral species and a narrow set of structurally central dispersers. In contrast, the historically oriented management island exhibited lower interaction diversity but greater network cohesion, with strong redundancy in plant‐level dispersal pathways. Shared species occupied different structural roles across islands, indicating strong context dependence in their contribution to seed dispersal networks. Motif analyses revealed contrasting interaction niche structures across management contexts. In the anthropogenically diversified island, dispersal relied on a small set of generalist dispersers, suggesting potential vulnerability to their loss. In the historically oriented management island, dispersal was spread across more species, indicating greater redundancy. These differences imply distinct but predictable vulnerabilities arising from alternative management pathways. Synthesis and applications. Our findings show that management strategies can create fundamentally different seed dispersal regimes, even under similar environmental conditions. Anthropogenic diversification reshapes network organisation into distinct structural configurations, rather than consistently enhancing overall cohesion. Incorporating interaction structure into conservation planning can help prioritise key dispersers and plants, anticipate hidden vulnerabilities, and guide management actions that better sustain seed dispersal processes in human‐modified island ecosystems. Read the free Plain Language Summary for this article on the journal's blog .",
       "keywords": []
     },
     {
@@ -159,6 +335,33 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70397",
       "abstract": "Abstract Ecological interactions are a crucial component of biodiversity, and their loss can disrupt ecosystem functions. Therefore, restoring these interactions is essential for effective ecological restoration. Although positive interactions between plants (i.e. plant facilitation) have gained attention in restoration ecology, most research has concentrated on population and community outcomes, with limited focus on the restoration of plant–plant interactions. We used Markov network models to evaluate pairwise and higher‐order plant interactions in gypsum shrublands in southern Spain and compared them with interactions in adjacent areas restored after mining activities. Restoration efforts, involving seed‐based and seedling‐based approaches from 13 years ago, were assessed to determine whether positive (facilitation) and negative (competition) interactions had been restored within each community. Given the stressful conditions of gypsum soils, we hypothesize that facilitation is the main force shaping the interactions in both reference and restored areas. Positive interactions between the most abundant species dominated over negative ones in both natural and restored areas. In both the seed‐based and the seedling‐based restorations, about half of the observed pairwise interactions in the natural area were restored with the same sign. Generally, facilitation interactions that were not restored became neutral, but rarely turned negative. Synthesis and applications . These case studies suggest that both seed‐based and seedling‐based approaches can restore pairwise species interactions to a similar extent. The seedling‐based method, although more expensive, provides immediate visual impact by directly introducing canopy‐forming species into the system. In contrast, the seed‐based approach, which is more cost‐effective, can establish highly dense plant communities, enhancing soil protection, though it may also lead to increased emergent competition through third‐order interactions.",
+      "keywords": [
+        "Pairwise comparison",
+        "Ecosystem",
+        "Facilitation",
+        "Restoration ecology",
+        "Gypsum",
+        "Natural (archaeology)",
+        "Population",
+        "Plant community"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70402",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70402",
+      "title": "Acclimatisation duration, not just release type, drives post‐release settlement in a large‐scale carnivore reintroduction programme",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
+      "published_parts": [
+        2026,
+        5,
+        6
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70402",
+      "abstract": "Abstract Although animal reintroductions are a cornerstone of conservation practice, the effectiveness of distinct release strategies remains debated. Soft‐release, involving pre‐release acclimatisation in enclosures, is often assumed to improve outcomes over hard‐release, but evidence is inconsistent. We propose that variation in acclimatisation duration, rather than release type alone, may explain these discrepancies. Using GPS telemetry data from the extensive Iberian lynx ( Lynx pardinus ) reintroduction programme—spanning multiple sites across its distribution range and individuals of varying ages, sexes and origins—we evaluated how acclimatisation period length and release strategy influence post‐release movement and settlement. We found that prolonged acclimatisation significantly reduced long exploratory movements and increased the probability of settling within the targeted area, while release type alone had no significant effect. This demonstrates that time spent in the enclosure, rather than the use of soft‐release per se, drives early‐stage reintroduction effectiveness. The greatest benefits were achieved after approximately 6 weeks of acclimatisation, marking the point at which settlement probability exceeded 50% for all groups. Beyond this threshold, additional time in the enclosure provided diminishing returns, offering a practical benchmark for future releases. Synthesis and applications . Our study highlights that when acclimatisation periods are too short, the substantial economic and logistical investment in soft‐release protocols may fail to deliver the expected conservation gains. Therefore, defining evidence‐based acclimatisation periods that are long enough to promote settlement, yet compatible with logistical constraints, may provide valuable guidance for reintroduction planning. More broadly, our findings identify acclimatisation duration as a promising factor to evaluate in other carnivore reintroduction programmes, which may likewise benefit from incorporating such assessments into their planning and design.",
       "keywords": []
     },
     {
@@ -177,7 +380,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70906",
       "abstract": "ABSTRACT Soil organic carbon (SOC) sequestration is vital for food security and climate mitigation. However, its long‐term response to fertilisation remains unclear. Using the 180‐year Broadbalk Experiment (the world's longest‐running fertilisation trial; Rothamsted, UK), combined with 14 C labelling and metagenomics, we identified fundamentally distinct mechanisms of SOC accumulation: a microbially mediated dual pathway under organic fertilisation versus a resource‐limited pathway under inorganic fertilisation. Sustained organic inputs matched inorganic fertilisers in maintaining crop yields while increasing total SOC by 160% (relative to a no‐fertilisation control), far exceeding the 26% gain under inorganic fertilisation. Mechanistically, the continuous supply of labile organic matter provided an energetic surplus, allowing copiotrophic microbial communities with high carbon use efficiency to reduce investment in energy‐intensive enzyme synthesis. This metabolic efficiency facilitated a dual‐pathway expansion, elevating dynamic particulate organic carbon (POC) from 1.4 to 7.5 g kg −1 , while microbial assimilation and necromass accumulation concurrently increased mineral‐associated organic carbon (MAOC) from 6.8 to 21.5 g kg −1 . Conversely, inorganic fertilisation induced an oligotrophic ‘mining’ strategy, in which microorganisms upregulated the degradation of complex organic matter under carbon‐limited conditions, restricting sustained SOC accumulation primarily to the MAOC pool. A global meta‐analysis of field experiments (0–120 years) corroborated these temporal trajectories across diverse soil types, showing that SOC under organic fertilisation increases in a time‐dependent manner, reaching a 77% gain after 80 years (three‐fold greater than under inorganic inputs). Overall, organic fertilisation enhances total SOC via POC and MAOC accumulation, whereas inorganic fertilisation mainly increases MAOC. Long‐term SOC persistence depends not only on carbon inputs, but also on microbial community traits and necromass dynamics, suggesting that aligning nutrient inputs with these biological mechanisms is critical for sustainable carbon sequestration.",
-      "keywords": []
+      "keywords": [
+        "Soil carbon",
+        "Microbial population biology",
+        "Soil organic matter",
+        "Organic matter",
+        "Nutrient",
+        "Carbon fibers",
+        "Total organic carbon",
+        "Carbon cycle",
+        "Fertilisation"
+      ]
     },
     {
       "doi": "10.1111/gcb.70902",
@@ -195,7 +408,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70902",
       "abstract": "ABSTRACT Intensifying droughts and heatwaves are increasing hydraulic constraints on European beech ( Fagus sylvatica L.) and driving recent tree vitality losses at its warmer and drier range margins. Network‐wide growth models predict widespread beech growth declines under future warming, yet these models rarely account for intraspecific demographic variability, potentially underestimating the adaptive capacity of natural beech forests. We leveraged a network of 530 plots and ~11,000 trees from primary beech forests covering a broad environmental gradient in central and southeastern Europe to assess how demographic variability in growth dynamics modulates forest productivity. We explored demographic differences in temporal and spatial variation in radial growth patterns and growth sensitivity to climate warming. Previous summer maximum temperatures and climatic water balance were the dominant climatic constraints of radial growth in xeric regions, whereas growth in mesic regions was more closely associated with current spring and summer conditions. Large trees exhibited stronger sensitivity to prior‐summer heat stress, while small trees had stronger associations with spring and summer moisture availability. Severe summer droughts caused pronounced multi‐year growth legacies across the demographic strata only in xeric regions. Long‐term growth trend analysis revealed substantial regional heterogeneity, with growth declines in mid‐sized and large trees contrasted by gains in small and mid‐sized young (mesic regions) and old trees (xeric regions). Recent growth declines were linked to rising summer temperatures and declining water balance across the forest strata. Overall, productivity losses outweighed gains across the study network under climate warming. Stand structural complexity and demographic variability in growth dynamics were key drivers of ecosystem productivity, but their positive effects diminished under severe climatic stress. Our findings highlight the critical role of demographic and structural heterogeneity in shaping beech growth dynamics under climate warming, and caution against inferring future ecosystem productivity trajectories without explicitly accounting for demographic variability.",
-      "keywords": []
+      "keywords": [
+        "Beech",
+        "Deserts and xeric shrublands",
+        "Fagus sylvatica",
+        "Climate change",
+        "Forest dynamics",
+        "Range (aeronautics)",
+        "Precipitation",
+        "Intraspecific competition",
+        "Forest ecology"
+      ]
     },
     {
       "doi": "10.1086/742104",
@@ -396,7 +619,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70398",
       "abstract": "Abstract Arid and semi‐arid ecosystems, especially oceanic islands, face increasing degradation that limits plant establishment and challenges restoration. Although arbuscular mycorrhizal fungi (AMF) can enhance plant performance, their effects depend on plant functional traits and inoculum history, and it remains unclear how inocula from contrasting environments shape species‐specific growth and resource‐use efficiency. Understanding these interactions is essential for improving the effectiveness of AMF‐based restoration strategies in drylands. This study hypothesises that (i) plant species with a ‘do‐it‐yourself’ strategy (i.e. relying on their own roots rather than fungal partners for resource acquisition) are less dependent on the temporal variation of the mycorrhizal inoculum, and (ii) inocula shaped by different selection pressures (agricultural vs. natural environments) exert contrasting effects on plant growth and resource‐use efficiency. We grew six plant species with two contrasting inocula (one from an agricultural system and one from a natural arid environment) and a sterilised control. To evaluate the effect of temporal variations on early mycorrhizal colonisation and plant growth responses, a subset of plants was harvested at 3 and 10 months. After 10 months, we quantified a comprehensive set of morphological and physiological traits to assess growth and resource‐use efficiency. Agricultural inoculum increased photosynthetic activity but did not enhance biomass production. In contrast, inoculum from arid natural environments was associated with higher mycorrhizal dependency, improved resource‐use efficiency and increased biomass production. Synthesis and applications. Root traits and the environmental history of AMF communities jointly determine symbiotic outcomes. Our findings provide an evidence‐based framework for selecting AMF inocula according to restoration goals in drylands, highlighting the importance of environmental history when developing microbiome‐based interventions.",
-      "keywords": []
+      "keywords": [
+        "Arid",
+        "Biomass (ecology)",
+        "Mycorrhizal fungi",
+        "Colonisation",
+        "Arbuscular mycorrhizal fungi",
+        "Symbiosis",
+        "Arbuscular mycorrhizal",
+        "Nutrient",
+        "Photosynthesis",
+        "Mycorrhiza"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70368",
@@ -414,7 +648,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70368",
       "abstract": "Abstract Human population growth has long driven biodiversity loss. Yet, some places are now experiencing depopulation, which can facilitate the recovery of large mammals. These species—both herbivores and carnivores—not only play important ecological roles but can also come into conflict with humans. Here, we draw a clear link between rural depopulation and large mammal recovery in Europe and Japan. We discuss the social and ecological consequences of recovery, including how recovery has led to conflict, like crop damage, attacks on livestock, attacks on people, vehicle collisions and disease spread. We then discuss how to minimize these conflicts in the context of rural depopulation through non‐lethal approaches, managed hunting and understanding the human dimensions. Large mammal recovery presents new hunting and ecotourism opportunities, which could economically benefit rural communities. There are also ecosystem services stemming from recovery (e.g. trophic regulation via predation and herbivory), although there is more to learn about community‐level effects and how to best track recovery. Other factors can influence large mammal recovery, including climate change, human immigration and the agricultural economy, complicating our ability to predict where recovery might occur in the future. Synthesis and applications . Depopulation and large mammal recovery will likely occur in more regions in the coming years. Countries and institutions can maximize the benefits and reduce potential conflict by (1) tracking recovery; (2) treating recovery as a natural experiment; (3) investing in non‐lethal conflict mitigation; (4) incentivizing hunting; and (5) embracing the benefits of recovery. We should anticipate a need for adaptive management of recovering species: protect them as they recover but be prepared to suppress their populations if they become overabundant. Read the free Plain Language Summary for this article on the journal's blog .",
-      "keywords": []
+      "keywords": [
+        "Human–wildlife conflict",
+        "Trophic cascade",
+        "Context (archaeology)",
+        "Population",
+        "Ecosystem services",
+        "Mammal",
+        "Predation",
+        "Herbivore",
+        "Biodiversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70360",
@@ -516,7 +760,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70394",
       "abstract": "ABSTRACT Genome size is a key genomic trait underpinning evolutionary potential and ecological adaptation in pathogens, yet its biogeographic patterns remain poorly understood. From New Zealand data, we quantify the influence of host traits versus environmental factors on biogeographic patterns of genome size in pathogenic fungi, and test whether these predictors differ between native and alien pathogens. Host plants were the strongest predictors of genome size, with effects particularly pronounced in Basidiomycota and biotrophic fungi. Within co‐origin host–pathogen pairs (native–native; alien–alien), conservative host traits were associated with smaller pathogen genomes overall, but with larger genomes in Basidiomycota. Host effects were stronger in native pathogens, while environmental filtering diverged, with climate dominating in native pathogens and terrain‐related factors in alien pathogens. Native pathogens exhibited pronounced geographic genomic differentiation, whereas alien pathogens showed spatial homogenization. These results reveal a hierarchical framework that enhances predictions of disease dynamics under global environmental change.",
-      "keywords": []
+      "keywords": [
+        "Host (biology)",
+        "Adaptation (eye)",
+        "Genome",
+        "Macroecology",
+        "Trait",
+        "Evolutionary ecology",
+        "Evolutionary dynamics",
+        "Human evolutionary genetics",
+        "Ecological genetics"
+      ]
     },
     {
       "doi": "10.1111/ele.70387",
@@ -534,7 +788,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70387",
       "abstract": "ABSTRACT The communities of unicellular microbes (bacteria, protists and yeasts) that underpin ecosystems are changing. In warmer conditions, protists tend to shrink, but the consequences of these changes in size are unclear. We show preliminary evidence that warming‐mediated declines in cell size observed in protists also apply to bacteria and yeasts. Predicting the consequences of these warming‐mediated size declines requires that the relationships between cell size and key functional traits are well‐characterised. We show that the critical relationship between unicellular size and energy use—that is, metabolic scaling—has been systematically mis‐estimated in the past. Projections of the effects of warming on unicellular respiration change from superlinear to sublinear once the metabolic scaling relationship is updated, with worrying consequences for the biological carbon pump and other ecosystem services. Other size‐function scaling relationships (e.g., photosynthesis) are likely to have been similarly mis‐estimated. Next, we show that theory on the relationships between size, temperature and demography is more ambivalent than previously recognised, leaving uncertainty as to how warming will alter the dynamics of unicellular populations. Finally, we identify pathways for improving our capacity to predict future changes in unicellular size, and decrease the uncertainty surrounding the consequences of these changes.",
-      "keywords": []
+      "keywords": [
+        "Ecosystem",
+        "Climate change",
+        "Cell size",
+        "Global warming",
+        "Ectotherm",
+        "Predation",
+        "Respiration",
+        "Evolutionary ecology"
+      ]
     },
     {
       "doi": "10.1086/740828",
