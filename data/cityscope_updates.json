@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T23:12:07.039747+00:00",
+  "generated_at": "2026-05-08T23:11:02.054538+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,6 +31,32 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.landurbplan.2026.105673",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105673",
+      "title": "Children’s playgrounds as potential habitats for urban pollinators: Floral abundance matters",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-05-08",
+      "published_date_display": "2026-05-08",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000976",
+      "abstract": "• Children’s playgrounds support less pollinators compared to neighbouring green areas. • Pollinators in playgrounds are strongly associated to local floral abundance. • Best children’s playgrounds hosted more individuals and species than control sites. • Bees were abundant in early summer, while bumblebees and butterflies in late summer. • Honeybee abundance was negatively associated with solitary bee abundance in early summer. Urbanisation is a key driver of pollinator declines, yet the ecological potential of unconventional urban habitats remains poorly understood. Among these, children’s playgrounds are ubiquitous but virtually unstudied urban green spaces. We conducted the first systematic assessment of playgrounds as pollinator habitats in Prague, Czech Republic, by comparing pollinator communities in playgrounds and paired control sites (parks and urban lawns). In a two-year study, we sampled honeybees and wild bees (excluding bumblebees) at 82 sites and bumblebees and butterflies in more than 60 sites in early and late summer using standardised netting and visual transects. Simultaneously, we assessed local habitat characteristics (vegetation, floral abundance, bare ground, shade, and impervious surfaces) and surrounding landscape composition. Across taxa, playgrounds supported significantly fewer species and individuals than nearby green spaces, a pattern consistent across years and seasons. However, floral abundance was the most important predictor of species richness and abundance, with stronger effects in playgrounds, where even small floral increases yielded disproportionately high pollinator gains. In contrast, other local variables and landscape composition showed little or no influence. Moreover, we detected negative associations between honeybee and wild bee abundance in the early season within control sites, indicating potential competition for floral resources with this group but not with other pollinators. These findings demonstrate that playgrounds are currently suboptimal habitats but hold substantial potential, as some playgrounds in our dataset outperformed neighbouring control sites. Enhancing floral resources alone could rapidly increase their ecological value and transform them into contributors to urban biodiversity.",
+      "keywords": [
+        "Pollinator",
+        "Abundance (ecology)",
+        "Habitat",
+        "Species richness",
+        "Netting",
+        "Relative species abundance",
+        "Butterfly",
+        "Urban ecology"
+      ]
+    },
+    {
       "doi": "10.1177/00420980261442756",
       "doi_url": "https://doi.org/10.1177/00420980261442756",
       "title": "Relational city actorness in global migration governance: A comparative analysis of Dallas and San Diego",
@@ -46,7 +72,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261442756",
       "abstract": "This article examines the—to date, relatively sparsely researched—role of US cities as international actors in migration governance by employing a comparative study of San Diego and Dallas from 2017 to 2024. Situated within a national context marked by fluctuant and highly partisan federal and state level migration policies, this study explores how Dallas and San Diego create agency and establish actorness within a policy venue traditionally viewed as the domain of the nation state. To do so, this article takes an interdisciplinary approach, drawing on literature from urban studies, international relations, and migration studies to theorize city actorness as a dynamic relational construct. Despite divergent state-level—restraining versus permissive—political contexts and local characteristics, both cities actively engage in migration governance, from local to global levels. Following a three-level analysis—local, transnational, and global—findings demonstrate that both San Diego and Dallas have adopted institutional infrastructure, citizen engagement, narrative framing, legal and symbolic contestation of federal/state level migration policy, national and transnational network engagement, and mayoral leadership as key strategies through which they engage in global migration governance. Moreover, the case study highlights how San Diego’s and Dallas’s geographic, economic and political embeddedness shape the cities’ strategies to navigate and influence existing migration governance structures and agenda-setting despite lacking formal international legal status. The cases also reveal that city engagement is driven not only by practical governance concerns but also by commitments to international norms and standards.",
-      "keywords": []
+      "keywords": [
+        "Embeddedness",
+        "Corporate governance",
+        "Context (archaeology)",
+        "Agency (philosophy)",
+        "Global city",
+        "Situated",
+        "Politics",
+        "Narrative"
+      ]
     },
     {
       "doi": "10.1177/00420980261442405",
@@ -64,7 +99,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261442405",
       "abstract": "In rapidly expanding urban transit systems, subway murals are increasingly mobilized as visual governance, staging city narratives and shaping how commuter space is felt and read. Drawing on 59 semi-structured interviews across all 26 mural-equipped Tianjin Metro stations (29 murals), this study develops a perception–preference–needs framework linking eight visual elements—shape, color, symbol, contrast, material, light, form, and space—to articulated cultural, aesthetic, functional, and emotional needs. The findings show that murals with locally legible imagery, coherent composition, and durable, well-crafted materials were more often described as supporting place attachment, visual comfort, and spatial intelligibility. By contrast, works perceived as hard to read at a glance, historically or ideologically distant, or visually intense in high-flow zones were more frequently associated with fatigue, distancing, and disengagement, especially when competing with wayfinding under time pressure. These patterns portray metro murals as negotiated texts in everyday travel, revealing both the reach and limits of visual governance. The article offers a mid-range analytic tool for evaluating transit murals and argues for low-friction, user-informed processes—such as feedback loops and legibility testing—to improve fit with diverse commuter readings.",
-      "keywords": []
+      "keywords": [
+        "Legibility",
+        "Reading (process)",
+        "Governmentality",
+        "Narrative",
+        "Public space",
+        "Visual culture",
+        "Space (punctuation)",
+        "Ideology"
+      ]
     },
     {
       "doi": "10.1177/00420980261443112",
@@ -82,7 +126,14 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261443112",
       "abstract": "We propose novel methods for analysing spatio-temporal tracking data collected via smartphones with the purpose of exploring the extent to which foundational, but as yet untested, assumptions within environmental criminology are observed in real-world behaviour. We provide systematic and replicable methods for identifying and quantifying nodes, trips, visits, paths and activity spaces – key elements of human mobility which underpin the vast majority of theoretical and empirical crime and place-based research. Our approach is illustrated through analyses of data captured from a sample of 16–24 year olds living in urban Australia. Implications for theoretical testing, refinement and extension are discussed.",
-      "keywords": []
+      "keywords": [
+        "Geolocation",
+        "Key (lock)",
+        "Sample (material)",
+        "Tracking (education)",
+        "Crime analysis",
+        "Empirical research"
+      ]
     },
     {
       "doi": "10.1177/00420980261443199",
@@ -100,7 +151,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261443199",
       "abstract": "The global ageing phenomenon poses significant challenges for urban and community planning, leading to the World Health Organization’s (WHO) Age-friendly Cities and Communities (AFCC) initiative to support older adults in ageing well within their homes and neighbourhoods. In Aotearoa New Zealand, the AFCC framework has been integrated into national policy; however, locally validated tools for assessing the age-friendliness of local communities are not available. This study aimed to validate the Age-friendly Cities and Communities Questionnaire for New Zealand (AFCCQ-NZ) and to evaluate age-friendliness in Napier City, where 21.1% of residents are aged 65 years or older. A two-phase design was employed. Phase 1 established face and content validity through consultation with policy experts and older adults to ensure cultural and linguistic relevance. Phase 2 involved psychometric validation using confirmatory factor analysis, resulting in a 23-item instrument encompassing the eight WHO AFCC domains plus an additional domain on perceived financial wellbeing. The AFCCQ-NZ demonstrated excellent model fit and internal consistency. Survey data from 354 older adults indicated moderate to high satisfaction with age-friendly features, with housing rated most positively and transportation, community support, health services and financial situation rated lowest. Cluster analysis identified five distinct resident typologies, revealing heterogeneity in older adults’ experiences. The AFCCQ-NZ offers a robust tool for assessing age-friendliness and informing local planning. The findings underscore the importance of the authentic and genuine engagement and inclusion of older adults in the age-friendly planning, implementation and evaluation process.",
-      "keywords": []
+      "keywords": [
+        "Aotearoa",
+        "Context (archaeology)",
+        "Confirmatory factor analysis",
+        "Inclusion (mineral)",
+        "Face validity",
+        "Older people",
+        "Domain (mathematical analysis)",
+        "Survey data collection"
+      ]
     },
     {
       "doi": "10.1177/00420980261442366",
