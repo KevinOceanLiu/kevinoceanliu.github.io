@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T22:15:33.921278+00:00",
+  "generated_at": "2026-05-08T22:11:03.519283+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115465",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115465",
-      "title": "Leveraging multidecadal satellite time series to estimate grassland age on national scale",
+      "doi": "10.1016/s0034-4257(26)00244-0",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00244-0",
+      "title": "Editorial Board",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,26 +38,90 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600235X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002440",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.047",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.047",
-      "title": "Uncertainty quantification framework for aerial and UAV photogrammetry through error propagation",
+      "doi": "10.1016/j.rse.2026.115468",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115468",
+      "title": "Chlorophyll-based canopy photosynthesis model: Development and global synergy analysis",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002385",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.037",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.037",
+      "title": "HaloGS: Loose coupling of compact geometry and Gaussian Splats for 3D scenes",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002108",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.038",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.038",
+      "title": "Linking hyperspectral remote sensing and tree hydraulic functioning for pre-emergence detection of bark beetle infestations",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-08",
+      "published_date_display": "2026-05-08",
       "published_parts": [
         2026,
         7
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002285",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600211X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hyperspectral imaging",
+        "Bark beetle",
+        "Mountain pine beetle",
+        "Tree (set theory)",
+        "Bark (sound)",
+        "Random forest"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115465",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115465",
+      "title": "Leveraging multidecadal satellite time series to estimate grassland age on national scale",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600235X",
+      "abstract": "",
+      "keywords": [
+        "Scale (ratio)",
+        "Series (stratigraphy)",
+        "Satellite",
+        "Time series",
+        "Grassland"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.002",
@@ -66,15 +130,51 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600242X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Evapotranspiration",
+        "Water resources",
+        "Irrigation",
+        "Surface water",
+        "Water balance",
+        "Water quality",
+        "Water use",
+        "Soil water",
+        "Satellite imagery"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.041",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.041",
+      "title": "Hyperspectral image classification via efficient global spectral supertoken clustering",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002145",
+      "abstract": "",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Pixel",
+        "Pattern recognition (psychology)",
+        "Cluster analysis",
+        "Classifier (UML)",
+        "Robustness (evolution)",
+        "Redundancy (engineering)",
+        "Contextual image classification"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.001",
@@ -83,15 +183,24 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002431",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Wetland",
+        "Marsh",
+        "Swamp",
+        "China",
+        "Resource (disambiguation)",
+        "Gradient boosting",
+        "Climate change",
+        "Boosting (machine learning)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.057",
@@ -100,15 +209,50 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002388",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Moderate-resolution imaging spectroradiometer",
+        "Irrigation",
+        "Normalized Difference Vegetation Index",
+        "Vegetation (pathology)",
+        "Land cover",
+        "Food security",
+        "Agriculture",
+        "Enhanced vegetation index",
+        "Thematic map",
+        "Index (typography)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.058",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.058",
+      "title": "A multi-task Transformer for integrated in-season rapeseed mapping and flowering retrieval using Sentinel-1 and Sentinel-2 data",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600239X",
+      "abstract": "",
+      "keywords": [
+        "Representativeness heuristic",
+        "Rapeseed",
+        "Phenology",
+        "Weighting",
+        "Adaptability",
+        "Time series"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115461",
@@ -147,7 +291,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002142",
-      "abstract": "",
+      "abstract": "Canopy radiative transfer models (RTMs) are essential tools for characterizing the complex interactions between solar radiation and vegetation canopies. Vegetation canopies exhibit pronounced vertical heterogeneity in terms of their biophysical and optical properties at different growth stages, significantly influencing canopy reflectance. Existing multilayer canopy RTMs predominantly use the 4-stream theory and the adding method to calculate multiple scattering. In these models, the eigenvector decomposition method is used to solve the differential equations and derive the layer scattering matrices, which are then used to calculate multiple scattering. However, for a vertically heterogeneous canopy, deriving analytical solutions to the layer scattering matrices is difficult since each canopy layer exhibits distinct scattering characteristics. The aim of this study is to develop a new multilayer canopy RTM, CANOP, based on the spectral invariant theory and the adding method. The new model employed spectral invariants, instead of intractable layer scattering matrices, to link the scattering properties at the leaf and canopy levels and derive the adding operators for multilayer canopy. The spectral invariants enable a realistic and anisotropic representation of the top and bottom reflectances, as well as the upward and downward transmittances of multilayer canopy. The CANOP model was compared with the multilayer 4-stream and discrete anisotropic radiative transfer (DART) models, and the field-measured paddy rice vertical profile data. The CANOP model performs better than the 4-stream model in simulating multilayer canopy reflectance. It also shows good agreement with the measured layered paddy rice data, achieving high R 2 (0.99), low RMSE (0.038) and bias (0.019) values. CANOP provides an accurate and efficient approach for multilayer canopy spectral modeling and can be used for multilayer canopy reflectance modeling and inversion of vegetation biophysical and biochemical parameters. • CANOP first applies spectral invariant theory for novel multilayer canopy modeling. • Rice canopy is used for a preliminary validation of CANOP. • CANOP is efficient and accurate for multilayer canopy spectra modeling. • CANOP can be used for parameter inversion and integrated with land surface models.",
       "keywords": [
         "Spectral line",
         "Invariant (physics)",
@@ -605,32 +749,6 @@
         "Cloud computing",
         "Satellite",
         "Image processing"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.04.041",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.041",
-      "title": "Hyperspectral image classification via efficient global spectral supertoken clustering",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-30",
-      "published_date_display": "2026-04-30",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002145",
-      "abstract": "Hyperspectral image classification demands spatially coherent predictions and precise boundary delineation. Yet prevailing superpixel-based methods face an inherent contradiction: clustering aggregates similar pixels into regions, but the subsequent classifier operates pixel-wise, undermining regional consistency. Consequently, existing approaches do not guarantee region-level, boundary-aligned classification. To address this limitation, we propose the Dual-stage Spectrum-Constrained Clustering-based Classifier (DSCC), an end-to-end framework that explicitly decouples clustering from classification by first grouping spectral similar and spatially proximate pixels into spectral supertokens and then performing token-level prediction. At its core, DSCC computes an image-level multi-criteria feature distance between pixels and centers, followed by a locality-aware assignment regularization, enabling the generation of boundary-preserving spectral supertokens. A density-isolation based center selection further yields representative, well-separated centers, reducing redundancy and improving robustness to scale variation. To accommodate mixed land-cover compositions within each token, we introduce a soft-label scheme that encodes class proportions and improves robustness for mixed-class tokens. DSCC attains a CF1 of 0.728 at 197.75 FPS on the WHU-OHS dataset, offering a superior accuracy-efficiency trade-off compared with state-of-the-art methods. Extensive experiments further validate the effectiveness and generality of the proposed dual-stage paradigm for hyperspectral image classification. The source code is available at https://github.com/laprf/DSCC.",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Pixel",
-        "Pattern recognition (psychology)",
-        "Cluster analysis",
-        "Classifier (UML)",
-        "Robustness (evolution)",
-        "Redundancy (engineering)",
-        "Contextual image classification"
       ]
     },
     {
@@ -8674,29 +8792,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115270",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115270",
-      "title": "Windthrow mapping in boreal forests using a spatio-temporal deep learning approach and Sentinel-2 imagery",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-03",
-      "published_date_display": "2026-02-03",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000404",
-      "abstract": "",
-      "keywords": [
-        "Taiga",
-        "Windthrow",
-        "Deep learning",
-        "Satellite imagery",
-        "Boreal"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115275",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115275",
       "title": "Robust sequential pixel offset tracking (RS-POT): A novel monitoring approach for landslides with long-term large deformations",
@@ -10722,32 +10817,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.018",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.018",
-      "title": "Spatial–spectral fusion under highly dynamic ocean conditions based on optical water classification",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-10",
-      "published_date_display": "2026-01-10",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625005027",
-      "abstract": "",
-      "keywords": [
-        "Multispectral image",
-        "Fusion",
-        "Image resolution",
-        "Image fusion",
-        "Residual",
-        "Sensor fusion",
-        "Frame (networking)",
-        "Inversion (geology)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.011",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.011",
       "title": "SmartQSM: a novel quantitative structure model using sparse-convolution-based point cloud contraction for reconstruction and analysis of individual tree architecture",
@@ -11562,58 +11631,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.014",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.014",
-      "title": "RSMT: Robust stereo matching training with geometric correction, clean pixel selection and loss weighting",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-30",
-      "published_date_display": "2025-12-30",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004964",
-      "abstract": "",
-      "keywords": [
-        "Weighting",
-        "Matching (statistics)",
-        "Pixel",
-        "Task (project management)",
-        "Pattern recognition (psychology)",
-        "Image (mathematics)",
-        "Selection (genetic algorithm)",
-        "Training (meteorology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.017",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.017",
-      "title": "Phase gradient rate constrained minimum cost flow: A robust unwrapping method for landslides with large deformation gradients",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-30",
-      "published_date_display": "2025-12-30",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625005015",
-      "abstract": "",
-      "keywords": [
-        "Interferometric synthetic aperture radar",
-        "Deformation (meteorology)",
-        "Deformation monitoring",
-        "Phase unwrapping",
-        "Weighting",
-        "Synthetic aperture radar",
-        "Pixel",
-        "Interferometry"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115211",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115211",
       "title": "Leaf fall witnessed by night-time light: A first attempt to detect urban leaf fall dates using satellite nighttime light data",
@@ -11768,33 +11785,6 @@
         "Computational intelligence",
         "Intelligence analysis",
         "Service (business)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115205",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115205",
-      "title": "Self-supervised representation learning for cloud detection using Sentinel-2 images",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-25",
-      "published_date_display": "2025-12-25",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006091",
-      "abstract": "The unavoidable presence of clouds and their shadows in optical satellite imagery hinders the true spectral response of the Earth’s underlying surface. Accurate cloud and cloud shadow detection is therefore a crucial preprocessing step for optical satellite images and any downstream analysis. Various methods have been developed to address this critical task and can be broadly categorized into physical rule-based methods and learning based methods. In recent years, machine learning based methods, particularly deep learning frameworks, have proven to outperform physical rule-based models. However, these approaches are mostly fully supervised and require a large amount of pixel-level annotations whose acquisition is costly and time consuming. In this work, we propose to address cloud and cloud shadow detection in optical satellite images using self-supervised representation learning, a machine learning paradigm that focuses on extracting relevant representations from unlabeled data, which can then be used as an effective starting point to fine-tune models with few labeled data in a supervised fashion. These approaches have been shown to perform competitively with fully supervised methods without the requirement of large annotation datasets. Specifically, we assessed two self-supervised representation learning methods that use different philosophies about self-supervision: Momentum Contrast (MoCo), based on contrastive learning and DeepCluster, based on clustering. Using two publicly available Sentinel-2 cloud datasets, namely WHUS2–CD+ and CloudSEN12, we show that MoCo and DeepCluster, trained with only 25 % of the annotated data, can perform better than physical rule-based methods such as FMask and Sen2Cor, weakly supervised methods and even several fully supervised methods. These results highlight the strong applicability of self-supervised representation learning methods to the task of cloud and cloud shadow detection with self-supervised pretraining leading to fine-tuned models that outperform industry standards and achieve near state-of-the-art performance with a fraction of the data. • Two self-supervised approaches are leveraged for cloud and cloud shadow detection. • MoCo and DeepCluster outperformed industry standards such as FMask and Sen2Cor with few labels. • Reliable performance was obtained for both methods using 25 % of annotations in the training sets. • MoCo and DeepCluster handle clouds better than cloud shadows.",
-      "keywords": [
-        "Cloud computing",
-        "Preprocessor",
-        "Point cloud",
-        "Deep learning",
-        "Supervised learning",
-        "Feature learning",
-        "Representation (politics)",
-        "Shadow (psychology)",
-        "Data pre-processing"
       ]
     },
     {
@@ -12570,6 +12560,33 @@
         "China",
         "Spatial ecology",
         "Spatial analysis"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.047",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.047",
+      "title": "Uncertainty quantification framework for aerial and UAV photogrammetry through error propagation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2025-07-17",
+      "published_date_display": "2025-07-17",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002285",
+      "abstract": "Uncertainty quantification of the photogrammetry process is essential for providing per-point accuracy credentials of the point clouds. Unlike airborne LiDAR, whose accuracy generally remains consistent with objects with varying geometric complexity, the accuracy of photogrammetric point clouds is rather object/scene-dependent, as it relies on algorithm-derived measurements. Generally, errors of the photogrammetric point clouds propagate through a two-step process: Structure-from-Motion (SfM) with Bundle adjustment (BA), followed by Multi-view Stereo (MVS). While uncertainty estimation in the SfM stage has been well studied using the first-order statistics of the reprojection error function, that in the MVS stage remains largely unsolved and non-standardized, primarily due to its non-differentiable and multi-modal nature (i.e., from pixel values to geometry). In this paper, we present an uncertainty quantification framework closing this gap by associating an error covariance matrix per point accounting for this two-step photogrammetry process. Specifically, to estimate the uncertainty in the MVS stage, we propose a novel, self-calibrating method by taking reliable n-view points (n ≥ 6) per-view to regress the disparity uncertainty using highly relevant cues (such as matching cost values) from the MVS stage. Compared to existing approaches, our method uses self-contained, reliable 3D points extracted directly from the MVS process, with the benefit of being self-supervised and naturally adhering to error propagation path of the photogrammetry process, thereby providing a robust and certifiable uncertainty quantification across diverse scenes. We evaluate the framework using a variety of publicly available airborne and UAV imagery datasets. Results demonstrate that our method outperforms existing approaches by achieving high bounding rates without overestimating uncertainty. More information, including test cases and sample datasets, can be found at: https://github.com/GDAOSU/UncertaintyQuantification .",
+      "keywords": [
+        "Photogrammetry",
+        "Bundle adjustment",
+        "Propagation of uncertainty",
+        "Point cloud",
+        "Reprojection error",
+        "Measurement uncertainty",
+        "Process (computing)",
+        "Bounding overwatch",
+        "Footprint"
       ]
     },
     {
