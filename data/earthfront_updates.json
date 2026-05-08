@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T22:43:31.521753+00:00",
+  "generated_at": "2026-05-08T22:38:13.420082+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01977-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Magmatism",
+        "Crust",
+        "Mantle (geology)",
+        "Continental crust",
+        "Crustal recycling",
+        "Geodynamics"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01829-4",
@@ -310,12 +317,36 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-05-01",
-      "published_date_display": "2026-05",
+      "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001041",
+      "abstract": "",
+      "keywords": [
+        "Photosynthesis",
+        "Carbon fibers",
+        "Terrestrial ecosystem",
+        "Carbon cycle",
+        "Carbon dioxide",
+        "Atmosphere (unit)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101702",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101702",
+      "title": "Global patterns of functional-diversity erosion risk in terrestrial vertebrates",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600103X",
       "abstract": "",
       "keywords": []
     },
