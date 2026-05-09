@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T23:37:49.188856+00:00",
+  "generated_at": "2026-05-09T23:30:21.142526+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/1365-2745.70341",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70341",
+      "title": "Mowing, not phosphorus addition, mitigates negative effects of nitrogen enrichment on legumes: Evidence from a 17‐year successional grassland",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-09",
+      "published_date_display": "2026-05-09",
+      "published_parts": [
+        2026,
+        5,
+        9
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70341",
+      "abstract": "Abstract Legumes can influence soil nitrogen (N) availability through biological N fixation, playing a critical role in determining the temporal trajectory of ecological succession. Management practices and nutrient enrichment alter soil nutrient availability and potentially affect legumes growth. However, how these factors regulate the temporal dynamics of legumes during ecological succession remains poorly understood. We examined the temporal patterns of legumes and their potential biotic and abiotic drivers in response to mowing and nutrient addition (i.e. N, phosphorus [P], and combined N and P [NP]) using data from a 17‐year field experiment (2005–2021) in a secondary‐successional temperate steppe. In the unmown plots, N and NP addition significantly reduced both legume cover and richness over the 17‐year period, while P addition alone had no significant overall effect. The negative impacts of N addition on legumes intensified linearly over time, primarily driven by the progressive increases in competition from expanding perennial rhizomatous grasses. Notably, P addition failed to mitigate the temporal declines in legume cover and richness under N addition. This was likely due to the persistence of multiple suppressive mechanisms under long‐term NP addition, including enhanced competitive dominance of perennial rhizomatous grasses, elevated soil N availability and intensified soil acidification. In contrast, mowing alleviated the negative effects of N or NP addition by increasing soil temperature, reducing competitive pressure from dominant grasses and facilitating forb species coexistence. These processes collectively created more favourable conditions for legume persistence. Synthesis . Our findings suggest that long‐term legume dynamics in successional grasslands are shaped by both nutrient availability and management practices. Integrating balanced nutrient strategies with biomass removal can help legumes' persistence under ongoing global change.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2745.70318",
       "doi_url": "https://doi.org/10.1111/1365-2745.70318",
       "title": "Wide variation in hydraulic safety margins across and within southern Amazon forests",
@@ -51,7 +69,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70318",
       "abstract": "Abstract Trees of southern Amazonian forests face an increase in the duration and intensity of soil and atmospheric drought, which impose a higher risk of hydraulic failure in the water transport system, decreasing the water supply to foliage and increasing the risk of dehydration and death. However, it is not well understood how key hydraulic‐related traits vary among southern Amazonian forests and whether Amazonian trees adjust them to be more drought tolerant along a gradient of increasing aridity. We measured leaf water potential (Ψ leaf ) in the dry season, xylem water potential associated with 50% (Ψ 50 ) and 88% embolism formation, hydraulic safety margin (HSM 50 ) and wood density (WD) in four forests at the southern edge of the Amazon. We compared our results with measurements from the literature for 10 additional forests distributed across the Amazon and subjected to different maximum cumulative water deficit (MCWD), a climate index for drought severity. For some analyses, species sampled within each forest were weighted by basal area to obtain community‐weighted means (CWMs). Southern edge forests had high resistance to hydraulic failure, with more negative Ψ 50 than other Amazonian forests. HSM 50 across species correlated positively with predawn Ψ leaf , suggesting that shallower rooting species in these forests face greater risk of hydraulic failure. Across all sites considered (southern and wider Amazon), HSM 50_CWM did not correlate with MCWD, despite a more negative Ψ 50_CWM with increasing MCWD. However, forests at the driest range of MCWD showed greater variability in hydraulic failure risk and contained more species potentially operating beyond their hydraulic limits. Synthesis . Although southern Amazonian forest species have undergone selection for high hydraulic resistance, they are not equally safe to hydraulic failure, highlighting the importance of site‐ and species‐dependent factors. On a broader scale across the Amazon, tree communities in drier sites maintain HSM 50_CWM similar to those in wetter sites. This may be the result of species turnover towards taxa with more negative Ψ 50 or shifts in water use strategies, such as tight stomatal regulation, deeper rooting or seasonal leaf shedding.",
-      "keywords": []
+      "keywords": [
+        "Amazonian",
+        "Amazon rainforest",
+        "Basal area",
+        "Liana",
+        "Xylem",
+        "Rainforest",
+        "Hydrology (agriculture)",
+        "Tropics",
+        "Biomass (ecology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70330",
@@ -69,7 +97,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70330",
       "abstract": "Abstract Dryland forests face multiple climate change‐related threats, including more frequent droughts and shifts in the seasonality of precipitation. While dryland tree species tend to have adaptations for adult persistence during drought, recruitment is often episodic, occurring only in years with favourable conditions. As conditions become more arid, with fewer favourable periods for seedling establishment, variation in the presence of drought‐adapted phenotypes among populations may determine recruitment potential and lead to different outcomes. We used a 4‐year common garden experiment to evaluate seedling survival and growth in response to varying precipitation timing and amount for 23 populations of Pinus monophylla , a tree species occurring in semiarid forests of south‐western United States. Previous research on P. monophylla showed that intraspecific phenotypic variation in maternal trees persists in seedling offspring, yet fitness implications are unknown. We sowed seeds at the dry edge of the species' climatic distribution and used experimental watering treatments to simulate four seasonal precipitation regimes: ambient control (drought), spring supplemental watering, summer supplemental watering and spring + summer supplemental watering. We used a randomized block design, sowing seeds under the canopy of the native shrub Artemisia tridentata to meet known shade requirements for seedling establishment. Seed source climate was associated with differences in recruitment. Seedlings sourced from more arid climates had higher survival and above‐ground growth than seedlings from wetter climates under all simulated precipitation regimes. Climate transfer distance relationships were consistent with local adaptations to mean annual temperature and spring water availability, and supplemental summer water increased seedling survival. We found large differences in seedling establishment between sowing years, highlighting the importance of episodic recruitment under favourable conditions. Nurse shrub canopy cover was also a strong predictor of survival in the first 2 years of establishment. Synthesis . Our results show that intraspecific phenotypic variation mediates the effect of seasonal drought on dryland tree recruitment, suggesting that different populations may respond uniquely to changes in climate. The effects of precipitation may be contingent on shifts in seasonal timing and amount, and P. monophylla seedling survival may decline with increasing temperatures or decreased summer water availability.",
-      "keywords": []
+      "keywords": [
+        "Seedling",
+        "Precipitation",
+        "Arid",
+        "Shrub",
+        "Sowing",
+        "Canopy",
+        "Rangeland",
+        "Semi-arid climate",
+        "Range (aeronautics)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70411",
@@ -87,7 +125,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70411",
       "abstract": "Abstract Beneficial microbial inoculation is a widely adopted strategy in agriculture for disease suppression and ecosystem service enhancement. However, the invasion and establishment of exogenous strains in soil are often uncertain. Microbial invasions are known to fundamentally alter ecosystem functioning, yet their persistent legacy effects remain inadequately characterized and could pose unintended risks to soil health. Using four taxonomically distinct bacterial inoculants with disease‐suppressive traits, we conducted a longitudinal experiment to trace invasion‐induced community restructuring from the invasion phase through an extended legacy period following invader extinction. Our results, through several bacterial invasions under controlled conditions with varying treatments, reveal a consistent and pronounced ‘Matthew effect’ across all four inoculants, whereby invasion reinforces the dominance of abundant taxa while suppressing rare ones, leading to persistent community polarization and functional trade‐offs. This reorganization enhanced resource acquisition and nutrient cycling but reduced stress tolerance and ecosystem resilience. Mechanistically, invasion legacy accelerates the replacement of slow‐growing with fast‐growing taxa, shifting assembly from deterministic to stochastic processes. This ‘Matthew effect’ was modulated by carbon sources: labile carbon (glucose) intensified polarization, while recalcitrant carbon in organic fertilizer buffered the shift, preserving rare taxa and functional diversity. A supporting analysis of published invasion studies corroborates these patterns, indicating broader ecological relevance. Our findings provide a unifying framework for understanding how transient microbial invasions generate lasting ecological imbalances, cascading from community structure to ecosystem multifunctionality. Importantly, we show that organic amendments, particularly those containing recalcitrant carbon, can mitigate the ‘Matthew effect’ by alleviating resource competition and preserving rare taxa, offering a practical strategy to sustain soil health in bioaugmentation practices.",
-      "keywords": []
+      "keywords": [
+        "Ecosystem",
+        "Dominance (genetics)",
+        "Microcosm",
+        "Invasive species",
+        "Microbiome",
+        "Ecosystem services",
+        "Biodiversity",
+        "Introduced species",
+        "Nutrient cycle"
+      ]
     },
     {
       "doi": "10.1111/gcb.70888",
@@ -105,7 +153,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70888",
       "abstract": "ABSTRACT Rapid global acceleration in the construction of physical barriers along international borders has greatly influenced biodiversity and animal movement. Physical barriers can fragment landscapes, hinder access to essential resources, impact long‐distance migrations, and inhibit dispersal and gene flow. The effects of physical barriers on animal movement and landscape connectivity can be exacerbated in dryland environments where access to water is a limiting factor. In recent decades, the construction of border barrier infrastructure has accelerated along the international boundary between the United States and Mexico. Here, we used a landscape connectivity model to investigate the effects of barriers on wildlife access to the river in the Lower Rio Grande Valley. We used a modified omnidirectional connectivity model to compare access to the river for three large, terrestrial mammal species across three border barrier scenarios: (1) a landscape without border barriers; (2) a landscape with the existing barrier system; and (3) a potential future landscape with a continuous barrier system. The existing barrier system includes many discrete sections of barrier within tracts of the Lower Rio Grande Valley National Wildlife Refuge or on lands associated with the region's flood control system. Our results indicate that the existing border barriers can impede connectivity and wildlife access to the river in some areas, while some existing gaps between border barrier sections can serve as conduits for wildlife movement and river access. Our future scenario results show how a potential continuous border barrier system could further impede wildlife access to the river. We discuss management and landscape conservation options for enhancing wildlife access to water and riverine habitats. Collectively, our results illustrate the potential effects of border barriers on wildlife movement and access to water, providing information that can be used to better anticipate and lessen the ecological impacts of transboundary barriers.",
-      "keywords": []
+      "keywords": [
+        "Wildlife",
+        "Landscape connectivity",
+        "Biological dispersal",
+        "Biodiversity",
+        "Wildlife conservation",
+        "Wildlife management",
+        "Boundary (topology)",
+        "Wildlife corridor",
+        "Terrain"
+      ]
     },
     {
       "doi": "10.1111/gcb.70904",
@@ -123,7 +181,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70904",
       "abstract": "ABSTRACT There is a common misconception among ocean scientists and policy makers that mesopelagic (200–1000 m) food webs are an unexploited “final frontier” of living marine resources. It is true that there are currently no substantial fisheries for the small‐bodied fish species that are typically caught in the nets used in research studies. However, midwater ecosystems contain a rich biodiversity of larger fishes, including mesopredators, that largely evade scientific sampling and are absent from biogeochemical and socio‐economic models of the open ocean. Drawing on studies from around the world and decades of detailed catch data from a longline fishery, we demonstrate that this “dark web” of mid‐trophic fish species has already been exploited by industrial‐scale fisheries in plain sight for decades. The ongoing effects of these activities on a suite of critical ecosystem services, from regulating the oceanic carbon cycle to sustaining food webs, remain unquantified and largely ignored by ocean scientists and policy makers. From a policy perspective, we recommend leveraging the Biodiversity Beyond National Jurisdiction agreement and promoting cooperation among Regional Fisheries Management Organizations to standardize data collection and strengthen environmental impact assessments under the United Nations Convention on the Law of the Sea, which could facilitate sustainable use of mesopelagic resources while balancing food security and carbon storage in a changing climate.",
-      "keywords": []
+      "keywords": [
+        "Fishing",
+        "Ecosystem-based management",
+        "Convention on Biological Diversity",
+        "Mesopelagic zone",
+        "Biodiversity",
+        "Ecosystem",
+        "Fisheries management",
+        "Marine protected area",
+        "Marine conservation"
+      ]
     },
     {
       "doi": "10.1111/gcb.70901",
@@ -141,6 +209,34 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70901",
       "abstract": "ABSTRACT Recent decades have witnessed a concurrent increase in global vegetation greenness and soil dryness, with the latter manifested through intensified soil droughts and declining soil moisture trends. Despite previous insight into the damage of soil dryness on vegetation, whether and to what extent vegetation greening has in turn exacerbated soil dryness remains virtually unknown. This limits our ability to anticipate water resource crises and adapt to climate change. Here we evaluated the effects of vegetation greenness on soil drought (ESD) and soil moisture trend (EST) from 1982 to 2020. Results indicated that ESD and EST were negative in 71% and 59% of vegetated places, respectively, mainly manifested as exacerbated soil drought and accelerated soil drying trend induced by vegetation greening. Across the aridity gradient, both effects peaked in the semi‐arid or dry sub‐humid zone before diminishing toward the humid zone. And vegetation exerted stronger ESD and EST than both effects of precipitation and temperature in 19% and 44% of vegetated places, respectively. Notably, negative ESD and EST significantly intensified over time, driven primarily by increasing transpiration dominance in evapotranspiration partitioning. Yet, some Earth system models poorly simulated these effects of vegetation on soil dryness and even distorted their temporal evolution. These findings highlight the urgent need for sustainable ecological management to mitigate hydrological risk associated with global greening.",
+      "keywords": [
+        "Dryness",
+        "Vegetation (pathology)",
+        "Evapotranspiration",
+        "Water content",
+        "Arid",
+        "Transpiration",
+        "Precipitation",
+        "Climate change",
+        "Ecohydrology"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70915",
+      "doi_url": "https://doi.org/10.1111/gcb.70915",
+      "title": "Correction to “Plastic Biofilms as Hotspots of Nitrogen Cycling in Estuarine Ecosystems: Comparative Ecological, Genomic, and Transcriptomic Analysis Across Substrates”",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-08",
+      "published_date_display": "2026-05-08",
+      "published_parts": [
+        2026,
+        5,
+        8
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70915",
+      "abstract": "",
       "keywords": []
     },
     {
@@ -18762,35 +18858,6 @@
         "Terrestrial ecosystem",
         "Marine ecosystem",
         "Soil microbiology"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70697",
-      "doi_url": "https://doi.org/10.1111/gcb.70697",
-      "title": "Beyond Plant Diversity: Plant Productivity Responses to Extreme Drought Are Linked to Arbuscular Mycorrhizal Fungal Diversity",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-12",
-      "published_date_display": "2026-01-12",
-      "published_parts": [
-        2026,
-        1,
-        12
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70697",
-      "abstract": "ABSTRACT Plant and arbuscular mycorrhizal (AM) fungal diversity are both positively linked to ecosystem productivity across diverse ecosystems. However, given their high sensitivity to climate extremes such as extreme drought, the persistence and adaptability of these diversity‐productivity relationships under rapid climate changes remain poorly understood. To address this, we established a grassland experiment at two proximate sites with distinct natural plant and AM fungal communities, imposing two contrasting extreme drought regimes (intense and chronic), each exceeding a 20‐year recurrence interval based on site‐specific precipitation records. We show that AM fungal diversity consistently outperforms plant diversity in predicting plant aboveground/net primary productivity (ANPP/NPP), as well as compositional shifts in plant species productivity, despite pronounced drought sensitivity in both communities. Notably, enhanced drought resistance in plant productivity was primarily associated with the stability of AM fungal richness rather than plant richness, highlighting their mutual dependence under extreme drought. Structural equation modelling confirmed that AM fungal richness buffered drought effects on ANPP, NPP and plant richness, with stronger effects on ANPP and NPP than those of plant richness and soil properties. These results suggest that AM fungal diversity may play a greater role than plant diversity in buffering plant communities against climate extremes. While causality remains to be fully resolved, these findings shed light on the adaptive significance of this ancient symbiont in sustaining ecosystem functioning under rapid climate change.",
-      "keywords": [
-        "Species richness",
-        "Ecosystem",
-        "Biodiversity",
-        "Plant community",
-        "Productivity",
-        "Resistance (ecology)",
-        "Climate change",
-        "Species diversity",
-        "Arid",
-        "Fungal Diversity"
       ]
     },
     {
