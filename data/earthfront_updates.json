@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T22:38:13.420082+00:00",
+  "generated_at": "2026-05-09T22:26:08.094987+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -341,14 +341,22 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-05-01",
-      "published_date_display": "2026-05",
+      "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600103X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Erosion",
+        "Climate change",
+        "Extinction (optical mineralogy)",
+        "Global biodiversity",
+        "Vertebrate",
+        "Biodiversity hotspot"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01810-1",
@@ -3915,7 +3923,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000217",
-      "abstract": "Summary International biodiversity policies call for protecting 30% of land and sea by 2030, requiring countries to demonstrate genuine progress toward this target. The pan-European Natura 2000 network of protected areas is currently considered to contribute by default. However, without rigorous assessments of protection effectiveness, official statistics risk substantially overestimating progress and undermining the target. Here, we introduce a science-based operational framework to rigorously assess national contributions to the 30 × 30 target. Applying this framework to Denmark using geospatial analysis reveals a stark discrepancy between reported and effective protection: although authorities report 15% of land and 29% of sea as protected, only 1.7% and 1.9% genuinely contribute. More than one-third of Danish Natura 2000 areas include land uses incompatible with long-term biodiversity protection. Our findings show that, without rigorous evaluation of protection effectiveness, national reporting can substantially overestimate progress. A science-based operational framework is essential to achieve the 30 × 30 target.",
+      "abstract": "International biodiversity policies call for protecting 30% of land and sea by 2030, requiring countries to demonstrate genuine progress toward this target. The pan-European Natura 2000 network of protected areas is currently considered to contribute by default. However, without rigorous assessments of protection effectiveness, official statistics risk substantially overestimating progress and undermining the target. Here, we introduce a science-based operational framework to rigorously assess national contributions to the 30 & times; 30 target. Applying this framework to Denmark using geospatial analysis reveals a stark discrepancy between reported and effective protection: although authorities report 15% of land and 29% of sea as protected, only 1.7% and 1.9% genuinely contribute. More than one-third of Danish Natura 2000 areas include land uses incompatible with long-term biodiversity protection. Our findings show that, without rigorous evaluation of protection effectiveness, national reporting can substantially overestimate progress. A science-based operational framework is essential to achieve the 30 & times; 30 target.",
       "keywords": [
         "Identification (biology)",
         "Context (archaeology)",
