@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T22:11:03.519283+00:00",
+  "generated_at": "2026-05-09T22:00:52.515660+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,14 +26,82 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115478",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115478",
+      "title": "Quantifying facility-scale CO2 emissions using spaceborne hyperspectral imageries",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002488",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115470",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115470",
+      "title": "Efficient spectral-temporal reconstruction of long-term satellite time series via temporal segments and mask-informed embedding",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002403",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.049",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.049",
+      "title": "SAMDFuse: Semantic-Aware Multi-scale Degradation-robust Fusion network for SAR and optical images",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002303",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.053",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.053",
+      "title": "Generalizable UAV-based image registration framework for enhancing visual inspection of civil infrastructure",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002340",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/s0034-4257(26)00244-0",
       "doi_url": "https://doi.org/10.1016/s0034-4257(26)00244-0",
       "title": "Editorial Board",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-08",
+      "published_date_display": "2026-05-08",
       "published_parts": [
         2026,
         8
@@ -49,32 +117,45 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-08",
+      "published_date_display": "2026-05-08",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002385",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Canopy",
+        "Photosynthesis",
+        "Vegetation (pathology)",
+        "Normalized Difference Vegetation Index",
+        "Atmosphere (unit)"
+      ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.037",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.037",
-      "title": "HaloGS: Loose coupling of compact geometry and Gaussian Splats for 3D scenes",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "doi": "10.1016/j.rse.2026.115445",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115445",
+      "title": "A cross-European assessment on the pre-emergence detection of trees attacked by spruce bark beetle using UAV imagery",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-08",
+      "published_date_display": "2026-05-08",
       "published_parts": [
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002108",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002154",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Bark beetle",
+        "Bark (sound)",
+        "Woody plant",
+        "Dendroctonus",
+        "Picea abies",
+        "Mountain pine beetle"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.038",
@@ -121,6 +202,33 @@
         "Satellite",
         "Time series",
         "Grassland"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.047",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.047",
+      "title": "Uncertainty quantification framework for aerial and UAV photogrammetry through error propagation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-07",
+      "published_date_display": "2026-05-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002285",
+      "abstract": "Uncertainty quantification of the photogrammetry process is essential for providing per-point accuracy credentials of the point clouds. Unlike airborne LiDAR, whose accuracy generally remains consistent with objects with varying geometric complexity, the accuracy of photogrammetric point clouds is rather object/scene-dependent, as it relies on algorithm-derived measurements. Generally, errors of the photogrammetric point clouds propagate through a two-step process: Structure-from-Motion (SfM) with Bundle adjustment (BA), followed by Multi-view Stereo (MVS). While uncertainty estimation in the SfM stage has been well studied using the first-order statistics of the reprojection error function, that in the MVS stage remains largely unsolved and non-standardized, primarily due to its non-differentiable and multi-modal nature (i.e., from pixel values to geometry). In this paper, we present an uncertainty quantification framework closing this gap by associating an error covariance matrix per point accounting for this two-step photogrammetry process. Specifically, to estimate the uncertainty in the MVS stage, we propose a novel, self-calibrating method by taking reliable n-view points (n ≥ 6) per-view to regress the disparity uncertainty using highly relevant cues (such as matching cost values) from the MVS stage. Compared to existing approaches, our method uses self-contained, reliable 3D points extracted directly from the MVS process, with the benefit of being self-supervised and naturally adhering to error propagation path of the photogrammetry process, thereby providing a robust and certifiable uncertainty quantification across diverse scenes. We evaluate the framework using a variety of publicly available airborne and UAV imagery datasets. Results demonstrate that our method outperforms existing approaches by achieving high bounding rates without overestimating uncertainty. More information, including test cases and sample datasets, can be found at: https://github.com/GDAOSU/UncertaintyQuantification .",
+      "keywords": [
+        "Photogrammetry",
+        "Bundle adjustment",
+        "Propagation of uncertainty",
+        "Point cloud",
+        "Reprojection error",
+        "Measurement uncertainty",
+        "Process (computing)",
+        "Bounding overwatch",
+        "Footprint"
       ]
     },
     {
@@ -2411,8 +2519,18 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001847",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Peatlands are vital ecosystems that provide substantial ecological, economic, and societal benefits, making their protection and restoration essential for both current and future generations. Although they cover only a small fraction of the Earth's surface, peatlands are among the most effective natural carbon sinks and play a critical role in regulating the global climate. However, these ecosystems face mounting threats from environmental pressures, including urbanization, infrastructure development, unsustainable agriculture, drainage, peat extraction, forestry, rising sea levels and climate change itself. Encouragingly, growing recognition of their importance has led to an increase in monitoring and restoration efforts worldwide. As part of the ESA-funded WorldPeatland project, we studied three moorland sites in England using advanced remote sensing techniques, supported and validated by auxiliary datasets. By generating ground displacement maps and time series through the multi-temporal Interferometric Synthetic Aperture Radar method known as Enhanced Persistent Scatterers, we were able to analyse both recent and long-term peatland dynamics to assess their condition and ongoing changes. Widespread subsidence was observed across all investigated areas, suggesting that the rate of peat degradation currently exceeds the rate of peat formation. Key contributing factors include the removal of protective vegetation likely due to wildfires, agricultural activities and anthropogenic land surface management practices. Additionally, the lowering of water levels, exacerbated by climate change, further threatens peatland aggradation. These processes lead to peat drying, which in turn accelerates oxidation, erosion, and decomposition.",
+      "keywords": [
+        "Peat",
+        "Moorland",
+        "Ecosystem",
+        "Climate change",
+        "Ecosystem services",
+        "Vegetation (pathology)",
+        "Land cover",
+        "Subsidence",
+        "Baseline (sea)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115404",
@@ -9943,30 +10061,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115236",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115236",
-      "title": "Global assessment of landslide monitoring applicability with the Harmony mission",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000064",
-      "abstract": "",
-      "keywords": [
-        "Landslide",
-        "Harmony (color)",
-        "Deformation monitoring",
-        "Inversion (geology)",
-        "Earth observation",
-        "Bistatic radar"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115256",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115256",
       "title": "Generating an annual 30 m rice cover product for monsoon Asia (2018–2023) using harmonized Landsat and Sentinel-2 data and the NASA-IBM geospatial foundation model",
@@ -10543,28 +10637,6 @@
         "Spatial ecology",
         "Temporal scales",
         "Spatial distribution"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.005",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.005",
-      "title": "DVGBench: Implicit-to-explicit visual grounding benchmark in UAV imagery with large vision–language models",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-14",
-      "published_date_display": "2026-01-14",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000055",
-      "abstract": "",
-      "keywords": [
-        "Benchmark (surveying)",
-        "Visualization",
-        "Computation",
-        "Feature (linguistics)"
       ]
     },
     {
@@ -11762,32 +11834,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.011",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.011",
-      "title": "Perspectives on spatio-temporal intelligence",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-26",
-      "published_date_display": "2025-12-26",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004952",
-      "abstract": "",
-      "keywords": [
-        "Field (mathematics)",
-        "Scope (computer science)",
-        "Perspective (graphical)",
-        "Cognition",
-        "Action (physics)",
-        "Computational intelligence",
-        "Intelligence analysis",
-        "Service (business)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115203",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115203",
       "title": "Emulation-based self-supervised SIF retrieval in the O2-A absorption band with HyPlant",
@@ -11916,33 +11962,6 @@
         "Canopy",
         "Vegetation (pathology)",
         "Radiative transfer"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115202",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115202",
-      "title": "Development of an interference mitigation chlorophyll index for mitigating soil and canopy dependence to improve vegetation chlorophyll content monitoring",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-18",
-      "published_date_display": "2025-12-18",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006066",
-      "abstract": "",
-      "keywords": [
-        "Canopy",
-        "Photochemical Reflectance Index",
-        "Leaf area index",
-        "Soil water",
-        "Reflectivity",
-        "Vegetation (pathology)",
-        "Chlorophyll",
-        "Atmospheric radiative transfer codes",
-        "Spectroradiometer"
       ]
     },
     {
@@ -12385,30 +12404,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115173",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115173",
-      "title": "Flood pulse monitoring in wetlands with multi-temporal Sentinel-1 interferometric coherence data: Application to the Okavango Delta (Botswana)",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-05",
-      "published_date_display": "2025-12-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005772",
-      "abstract": "International audience",
-      "keywords": [
-        "Wetland",
-        "Coherence (philosophical gambling strategy)",
-        "Interferometry",
-        "Flood myth",
-        "Delta",
-        "Pulse (music)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115170",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115170",
       "title": "Constrained negentropy optimisation (CoNE-opt): Using independent components to merge satellite data products",
@@ -12563,30 +12558,30 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.047",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.047",
-      "title": "Uncertainty quantification framework for aerial and UAV photogrammetry through error propagation",
+      "doi": "10.1016/j.isprsjprs.2026.04.037",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.037",
+      "title": "HaloGS: Loose coupling of compact geometry and Gaussian Splats for 3D scenes",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-07-17",
-      "published_date_display": "2025-07-17",
+      "published_date": "2025-05-26",
+      "published_date_display": "2025-05-26",
       "published_parts": [
         2026,
-        7
+        8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002285",
-      "abstract": "Uncertainty quantification of the photogrammetry process is essential for providing per-point accuracy credentials of the point clouds. Unlike airborne LiDAR, whose accuracy generally remains consistent with objects with varying geometric complexity, the accuracy of photogrammetric point clouds is rather object/scene-dependent, as it relies on algorithm-derived measurements. Generally, errors of the photogrammetric point clouds propagate through a two-step process: Structure-from-Motion (SfM) with Bundle adjustment (BA), followed by Multi-view Stereo (MVS). While uncertainty estimation in the SfM stage has been well studied using the first-order statistics of the reprojection error function, that in the MVS stage remains largely unsolved and non-standardized, primarily due to its non-differentiable and multi-modal nature (i.e., from pixel values to geometry). In this paper, we present an uncertainty quantification framework closing this gap by associating an error covariance matrix per point accounting for this two-step photogrammetry process. Specifically, to estimate the uncertainty in the MVS stage, we propose a novel, self-calibrating method by taking reliable n-view points (n ≥ 6) per-view to regress the disparity uncertainty using highly relevant cues (such as matching cost values) from the MVS stage. Compared to existing approaches, our method uses self-contained, reliable 3D points extracted directly from the MVS process, with the benefit of being self-supervised and naturally adhering to error propagation path of the photogrammetry process, thereby providing a robust and certifiable uncertainty quantification across diverse scenes. We evaluate the framework using a variety of publicly available airborne and UAV imagery datasets. Results demonstrate that our method outperforms existing approaches by achieving high bounding rates without overestimating uncertainty. More information, including test cases and sample datasets, can be found at: https://github.com/GDAOSU/UncertaintyQuantification .",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002108",
+      "abstract": "",
       "keywords": [
-        "Photogrammetry",
-        "Bundle adjustment",
-        "Propagation of uncertainty",
-        "Point cloud",
-        "Reprojection error",
-        "Measurement uncertainty",
-        "Process (computing)",
-        "Bounding overwatch",
-        "Footprint"
+        "Rendering (computer graphics)",
+        "Gaussian",
+        "Fidelity",
+        "Complex geometry",
+        "High fidelity",
+        "Geometric primitive",
+        "Representation (politics)",
+        "Fuse (electrical)",
+        "Geometric modeling"
       ]
     },
     {
