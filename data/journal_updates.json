@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T22:00:52.515660+00:00",
+  "generated_at": "2026-05-10T22:04:27.378930+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-09",
+      "published_date_display": "2026-05-09",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002488",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hyperspectral imaging",
+        "Synthetic aperture radar",
+        "Satellite",
+        "Atmospheric correction",
+        "Earth observation"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115470",
@@ -49,15 +55,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-09",
+      "published_date_display": "2026-05-09",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002403",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Series (stratigraphy)",
+        "Satellite",
+        "Embedding",
+        "Time series",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.049",
@@ -66,15 +78,26 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-09",
+      "published_date_display": "2026-05-09",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002303",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Discriminative model",
+        "Synthetic aperture radar",
+        "Consistency (knowledge bases)",
+        "Speckle noise",
+        "Image fusion",
+        "Sensor fusion",
+        "Convolutional neural network",
+        "Noise (video)",
+        "Pattern recognition (psychology)",
+        "Feature extraction"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.053",
@@ -83,15 +106,26 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-05-09",
+      "published_date_display": "2026-05-09",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002340",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Point cloud",
+        "Photogrammetry",
+        "Benchmark (surveying)",
+        "Drone",
+        "Orientation (vector space)",
+        "Structure from motion",
+        "Visual inspection",
+        "Image registration",
+        "Bridge (graph theory)",
+        "Field (mathematics)"
+      ]
     },
     {
       "doi": "10.1016/s0034-4257(26)00244-0",
@@ -179,6 +213,33 @@
         "Tree (set theory)",
         "Bark (sound)",
         "Random forest"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.037",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.037",
+      "title": "HaloGS: Loose coupling of compact geometry and Gaussian Splats for 3D scenes",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-08",
+      "published_date_display": "2026-05-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002108",
+      "abstract": "",
+      "keywords": [
+        "Rendering (computer graphics)",
+        "Gaussian",
+        "Fidelity",
+        "Complex geometry",
+        "High fidelity",
+        "Geometric primitive",
+        "Representation (politics)",
+        "Fuse (electrical)",
+        "Geometric modeling"
       ]
     },
     {
@@ -12555,33 +12616,6 @@
         "China",
         "Spatial ecology",
         "Spatial analysis"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.04.037",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.037",
-      "title": "HaloGS: Loose coupling of compact geometry and Gaussian Splats for 3D scenes",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-05-26",
-      "published_date_display": "2025-05-26",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002108",
-      "abstract": "",
-      "keywords": [
-        "Rendering (computer graphics)",
-        "Gaussian",
-        "Fidelity",
-        "Complex geometry",
-        "High fidelity",
-        "Geometric primitive",
-        "Representation (politics)",
-        "Fuse (electrical)",
-        "Geometric modeling"
       ]
     },
     {
