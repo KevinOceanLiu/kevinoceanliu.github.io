@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T23:30:21.142526+00:00",
+  "generated_at": "2026-05-10T23:34:32.733436+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70341",
       "abstract": "Abstract Legumes can influence soil nitrogen (N) availability through biological N fixation, playing a critical role in determining the temporal trajectory of ecological succession. Management practices and nutrient enrichment alter soil nutrient availability and potentially affect legumes growth. However, how these factors regulate the temporal dynamics of legumes during ecological succession remains poorly understood. We examined the temporal patterns of legumes and their potential biotic and abiotic drivers in response to mowing and nutrient addition (i.e. N, phosphorus [P], and combined N and P [NP]) using data from a 17‐year field experiment (2005–2021) in a secondary‐successional temperate steppe. In the unmown plots, N and NP addition significantly reduced both legume cover and richness over the 17‐year period, while P addition alone had no significant overall effect. The negative impacts of N addition on legumes intensified linearly over time, primarily driven by the progressive increases in competition from expanding perennial rhizomatous grasses. Notably, P addition failed to mitigate the temporal declines in legume cover and richness under N addition. This was likely due to the persistence of multiple suppressive mechanisms under long‐term NP addition, including enhanced competitive dominance of perennial rhizomatous grasses, elevated soil N availability and intensified soil acidification. In contrast, mowing alleviated the negative effects of N or NP addition by increasing soil temperature, reducing competitive pressure from dominant grasses and facilitating forb species coexistence. These processes collectively created more favourable conditions for legume persistence. Synthesis . Our findings suggest that long‐term legume dynamics in successional grasslands are shaped by both nutrient availability and management practices. Integrating balanced nutrient strategies with biomass removal can help legumes' persistence under ongoing global change.",
-      "keywords": []
+      "keywords": [
+        "Perennial plant",
+        "Forb",
+        "Dominance (genetics)",
+        "Nutrient",
+        "Competition (biology)",
+        "Grassland",
+        "Species richness",
+        "Legume",
+        "Abiotic component"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70318",
@@ -237,7 +247,13 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70915",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Cycling",
+        "Estuary",
+        "Nitrogen cycle",
+        "Biofilm",
+        "Nitrogen"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03049-7",
