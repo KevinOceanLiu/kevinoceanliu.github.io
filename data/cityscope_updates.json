@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T23:05:54.163260+00:00",
+  "generated_at": "2026-05-10T23:10:05.482815+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -37,15 +37,22 @@
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-09",
+      "published_date_display": "2026-05-09",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001131",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Resilience (materials science)",
+        "Sustainability",
+        "Community resilience",
+        "Sustainable development",
+        "Psychological resilience",
+        "Sustainable community"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105690",
@@ -54,15 +61,22 @@
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-09",
+      "published_date_display": "2026-05-09",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001143",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Metropolitan area",
+        "Recreation",
+        "Distance decay",
+        "Urban park",
+        "Exponential function",
+        "Statistical analysis"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105673",
