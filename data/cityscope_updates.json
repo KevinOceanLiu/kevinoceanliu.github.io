@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T23:10:05.482815+00:00",
+  "generated_at": "2026-05-11T23:12:46.883129+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -30,6 +30,48 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s44284-026-00440-0",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00440-0",
+      "title": "Global mapping of city-level economic growth decoupling from fossil fuels",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-05-11",
+      "published_date_display": "2026-05-11",
+      "published_parts": [
+        2026,
+        5,
+        11
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00440-0",
+      "abstract": "Abstract Cities seek to generate economic prosperity while reducing their dependence on fossil fuel combustion, yet tracking such progress at the city level remains challenging because of the limited and inconsistent emissions and economic data. Here we introduce an objective, globally consistent framework to measure decoupling between fossil fuel use and economic growth, either through reduced fuel use or shifts toward cleaner/more efficient combustion, proxied by tropospheric nitrogen dioxide columns combined with second-level administrative gross domestic product per capita based on purchasing power parity data. Analysing 5,435 cities globally over 2019–2024, we identify significant trends for 2,475 cities and classify them into 4 decoupling states. We find that 80% of these cities, mainly located in China, Europe and North America, enjoy relative decoupling, whereas 16%, mainly located in India and the Middle East, experience fossil fuel-dependent growth. Beyond these patterns, the described scalable satellite-based methodology can be revisited regularly to monitor city-level green growth and support urban policy effectiveness.",
+      "keywords": [
+        "Environmental economics",
+        "Sustainability"
+      ]
+    },
+    {
+      "doi": "10.1038/s44284-026-00448-6",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00448-6",
+      "title": "Data-centric monitoring for safe urban water networks",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-05-11",
+      "published_date_display": "2026-05-11",
+      "published_parts": [
+        2026,
+        5,
+        11
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00448-6",
+      "abstract": "Current urban water monitoring remains reactive and sparse, and contamination is often detected after public exposure. This Comment outlines a data-centric, anomaly-oriented pathway that involves tracking high-frequency deviations at risk-relevant locations, which enables earlier detection and targeted intervention across urban water systems.",
+      "keywords": [
+        "Environmental impact",
+        "Environmental studies"
+      ]
+    },
     {
       "doi": "10.1016/j.landurbplan.2026.105689",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105689",
@@ -5439,7 +5481,7 @@
         23
       ],
       "link": "https://www.nature.com/articles/s44284-026-00429-9",
-      "abstract": "Living in Guangzhou shows how data governs not through commands but by shaping what can be seen, reported and acted upon. Although smart governance promises efficiency, everyday encounters reveal the limits of digital systems that make some urban problems visible while leaving others beyond view.",
+      "abstract": "",
       "keywords": [
         "Power (physics)",
         "Corporate governance",
@@ -5486,7 +5528,7 @@
         23
       ],
       "link": "https://www.nature.com/articles/s44284-026-00422-2",
-      "abstract": "In the narrow lanes of informal settlements in African cities, autonomous mobility might emerge differently than anticipated in other parts of the world. Reflecting on emerging mobility services in Kampala and Nairobi, Ibrahim Mubiru proposes how human-centered design can help informal settlements to prepare for the arrival of autonomous transport.",
+      "abstract": "",
       "keywords": [
         "Human settlement",
         "Informal settlements",
