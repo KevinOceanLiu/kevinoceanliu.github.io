@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T22:04:27.378930+00:00",
+  "generated_at": "2026-05-11T22:17:53.152189+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,59 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115479",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115479",
+      "title": "Global-scale comparison of OLCI remote sensing reflectance from sentinel-3A and -3B",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600249X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2663121",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2663121",
+      "title": "A generative deep learning approach with multi-perspective map representations for simulating land use changes",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-05-11",
+      "published_date_display": "2026-05-11",
+      "published_parts": [
+        2026,
+        5,
+        11
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2663121",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2656722",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2656722",
+      "title": "For a Feminist Geopolitics of Aerial Bombardment and Place Annihilation in the Drone Age",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-05-11",
+      "published_date_display": "2026-05-11",
+      "published_parts": [
+        2026,
+        5,
+        11
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2656722",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.rse.2026.115478",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115478",
@@ -11734,33 +11787,6 @@
         "Atmospheric radiative transfer codes",
         "Reflectivity",
         "Urban planning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115212",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115212",
-      "title": "Integrated scan simultaneous trajectory enhancement and mapping (IS2-TEAM) for fine resolution forest inventory using backpack LiDAR",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-30",
-      "published_date_display": "2025-12-30",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006169",
-      "abstract": "",
-      "keywords": [
-        "Lidar",
-        "Point cloud",
-        "Trajectory",
-        "Terrain",
-        "GNSS applications",
-        "Tree (set theory)",
-        "Forest inventory",
-        "Ground truth",
-        "Total station"
       ]
     },
     {
