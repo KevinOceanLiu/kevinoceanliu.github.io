@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T23:34:32.733436+00:00",
+  "generated_at": "2026-05-11T23:39:53.109621+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,159 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1111/1365-2664.70408",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70408",
+      "title": "Simulating drying and human impacts on river networks to evaluate biological quality indices performance through the lens of metacommunity theory",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-11",
+      "published_date_display": "2026-05-11",
+      "published_parts": [
+        2026,
+        5,
+        11
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70408",
+      "abstract": "Abstract Incorporating metacommunity perspectives into bioassessment represents a major challenge in managing drying river networks, where drying‐induced fragmentation compromises the performance of biological indices to assess their ecological status. Current indices focus on local community responses to stressors and neglect the effect of regional processes, such as spatiotemporal connectivity and dispersal, on metacommunity assembly. In this work, we explored the effect of drying on the performance of a widely used biological index IBMWP (Iberian Biological Monitoring Working Party) using metacommunity simulations on a synthetic drying river network. We assessed how different gradients of drying‐driven fragmentation and human impact extent determine local richness and the biological index scores by combining simulations with biomonitoring information. We used a coalescent metacommunity model to simulate the exchange of individuals between local communities along synthetic drying river networks subjected to different drying extent, intensity and human impact extent scenarios. Additionally, we considered two major characteristics for each simulated taxon: (i) tolerance to human impacts and (ii) dispersal strategy (flying, swimming or drifting). For each simulation, we obtained local richness and the biological index value. Then, we calculated biological index performance, defined as the capacity to distinguish between impacted and non‐impacted sites. Finally, we tested our approach in six non‐impacted European drying river networks, with available drying information. Our results showed that low spatiotemporal connectivity consistently led to decreased local richness and low index scores, reflecting poor biological quality. As drying extent and intensity increased, drying‐induced fragmentation significantly reduced the biological index performance. With a 50% increase in drying extent, index performance fell around 60% and at high drying levels, it dropped more than 90%. This decay followed a convex pattern, with a marked drop as soon as drying appeared in the catchment and levelling off at higher drying extents. Synthesis and applications . This work constitutes a first step towards developing simulation‐based assessments that incorporate catchment drying patterns to support biomonitoring of drying river networks. Our approach can inform stakeholders when current methods are likely to fail and contribute to decision‐making on whether adapting current methods is possible or developing new indices is necessary. Read the free Plain Language Summary for this article on the journal's blog .",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70339",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70339",
+      "title": "European mistletoe shares a similar demographic strategy with non‐parasitic plants",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-10",
+      "published_date_display": "2026-05-10",
+      "published_parts": [
+        2026,
+        5,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70339",
+      "abstract": "Abstract The demographic strategies of parasites are fundamental to their population dynamics, impacts, responses to environmental change and management. Parasitic plants are an economically important group of parasites that differ from non‐parasitic plants in their unique resource acquisition mechanisms and various morphological and ecological adaptations. Though they are well‐suited to demographic study, structured population models have rarely been applied to parasitic plants. Thus, whether or not parasitic plants also differ from non‐parasitic plants in their demographic strategies remains poorly understood. Using a 10‐year dataset on European mistletoe ( Viscum album ) parasites, we quantified the relationship between mistletoe traits and vital rates. We used vital rate regressions to parameterise an integral projection model (IPM), from which we extracted time‐based life history traits to quantify mistletoe's demographic strategy. To compare the demographic strategies of parasitic plants and non‐parasitic plants, we performed a principal component analysis (PCA) of life‐history traits for mistletoe, two other parasitic plants and 498 non‐parasitic plant species. We found that individual mistletoe growth rate and fruiting probability depend on mistletoe size, a proxy for mistletoe age. Fruiting probability also depends on the mistletoe's vertical position on the host, whereas mistletoe survival was independent of size and position. Mistletoe life‐history traits were most sensitive to changes in individual mistletoe growth rate and then to survival, though generation time was also sensitive to changes in reproduction. Contrary to our expectation, V. album and other parasitic plants placed centrally in our PCA of demographic strategies, near the centre of both the fast–slow continuum and reproductive strategy axis. This suggests that parasitic plants and non‐parasitic plants share a similar demographic strategy, at least as summarised by our chosen life‐history traits. Synthesis . Our results suggest that the unique adaptations of parasitic plants do not prevent them from experiencing similar demographic constraints to non‐parasitic species. If parasitic plants exhibit unique responses to global change compared to non‐parasites, there is insufficient evidence to suggest that this is driven by differences in life history. Our conclusions support a general view that population‐level behaviour is similar between parasitic and non‐parasitic plants.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70395",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70395",
+      "title": "Space between houses influences movement and habitat selection of ungulates: Width as a novel metric of development",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-10",
+      "published_date_display": "2026-05-10",
+      "published_parts": [
+        2026,
+        5,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70395",
+      "abstract": "Abstract Wildlife often lose access to habitat due to housing development. The magnitude of indirect habitat loss can be conditional on the configuration of individual houses, but commonly used metrics (i.e. density or distance) can overlook the configuration of development. We introduce a novel framework to index the configuration of development based on the width of space between houses and associated structures. We use resource selection functions to assess the degree that GPS‐collared elk ( Cervus canadensis ), mule deer ( Odocoileus hemionus ), pronghorn and moose ( Alces alces ) on winter range and on migration routes use space between houses within northwest Wyoming, USA, near the towns of Cody and Jackson. Further, to help inform regulations aiming to promote wildlife movement across a gradient of land uses, we differentiated between individuals residing in primarily rural and exurban areas. Rural populations of elk, mule deer, pronghorn and moose avoided spaces narrower than 2 km and never used spaces narrower than 50 m between houses, whereas exurban populations of elk, mule deer and moose selected for spaces narrower than 2 km but avoided spaces narrower than 50 m. We identified cutoffs in rural and exurban areas where space may become too narrow for most animals to use. Through this metric, managers and policy makers can inform the necessary width to maintain wildlife movement through corridors. Our width metric can be applied to other systems and our workflow is publicly available ( https://wildlifemovetools.org/width‐calculator ) so users can estimate the width of space between structures in their focal areas. Synthesis and applications . In rural areas, maintaining spaces between houses >500 m will likely facilitate ungulate movement. To fully conserve functional habitat, such as unimpeded habitat use along migration corridors, maintaining spaces approximately >2.5 km between houses will likely be necessary.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70371",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70371",
+      "title": "Network analysis of vessel movements facilitates rapid response to invasive marine species incursion",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-10",
+      "published_date_display": "2026-05-10",
+      "published_parts": [
+        2026,
+        5,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70371",
+      "abstract": "Abstract The world is becoming increasingly connected as human populations grow and international commerce changes. The movements of marine vessels create a complex global maritime network that is now the most significant pathway for the introduction and spread of invasive aquatic species (IAS) to coastal ecosystems around the world. Preventing establishment of marine IAS in new locations requires spatially explicit tools that can identify areas where incursions are likely to inform targeted surveillance and response strategies. Focusing on the New Zealand seascape, we used network analysis to quantify the potential for the post‐incursion dispersal of a new IAS through commercial and recreational vessel pathways. Networks were constructed using vessel movements from automated identification system signals, along with recreational boater surveys and life‐history characteristics of the recently detected invasive green algae from the genus Caulerpa ( C. brachypus and C. parvifolia ). Using network and spatial modelling, we (i) quantified the strength of vessel‐mediated links from known established populations in New Zealand to the Northland region's coastline, (ii) identified coastal sites in Northland where anchoring events of potentially infested vessels had occurred, highlighting likely points of introduction and (iii) integrated these into a priority list allowing management agencies to effectively allocate resources to limit further spread. We found that over a 1‐year period, more than 4000 anchoring events originating from incursion sites occurred in the Northland region. From these anchoring data, we identified 13 sites that showed a high relative likelihood of incursion, with the outer Bay of Islands area experiencing the highest relative introduction pressure. In addition, our work suggests that invasive Caulerpa had frequent opportunities to be transferred long distances beyond Northland, and that individuals could potentially be transported in a viable state across the entire country. Synthesis and applications : This study presents a transferable framework for prioritising surveillance and early detection efforts for IAS. By integrating spatial data on vessel movements with species traits, managers can identify sites with a high relative incursion likelihood and increase detection speed. The approach supports timely, cost‐effective decision‐making and can be adapted to biosecurity planning in diverse coastal regions worldwide.",
+      "keywords": [
+        "Biological dispersal",
+        "Invasive species",
+        "Recreation",
+        "Marine ecosystem",
+        "Marine protected area",
+        "Ecosystem",
+        "Identification (biology)",
+        "Marine conservation"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70405",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70405",
+      "title": "Context‐dependent responses of soil microbes and nematodes to grazing: Evidence from a global meta‐analysis",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-10",
+      "published_date_display": "2026-05-10",
+      "published_parts": [
+        2026,
+        5,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70405",
+      "abstract": "Abstract Livestock grazing is one of the most important land‐use activities in grassland ecosystems, imposing significant impacts on soil community abundance, composition and biodiversity. Soil microbiota, such as microbes and nematodes, are key components of soil micro‐food webs and contribute substantially to ecosystem functioning. However, it remains unknown how grazing affects soil microbiota on a global scale. In this study, we conducted a meta‐analysis based on 146 published studies encompassing 1560 paired observations across various environments to gain comprehensive insights into the influences of grazing on the abundance and diversity of soil microbes and nematodes. We found that grazing significantly decreased soil microbial biomass, total nematode abundance and the abundance of all nematode trophic groups except for fungal‐feeders, particularly in temperate grasslands. Such effects were stronger under continuous, heavy‐intensity and long‐term grazing than under rotational, light or short‐term grazing regimes. Sheep grazing, as opposed to cattle grazing or mixed grazing by both sheep and cattle, reduced the abundance of soil microbes and nematodes. While the overall effects of grazing on microbial and nematode diversity are limited, significant declines were observed under heavy, continuous or long‐term grazing compared to light, rotational or short‐term grazing. Synthesis and applications . Our study indicates that intense (e.g. heavy or continuous) grazing, long‐term grazing or grazing by sheep substantially suppresses the abundance and diversity of soil microbes and nematodes. These declines in abundance and diversity would undermine the roles of the soil food webs, thereby impairing ecosystem processes such as organic matter decomposition and nutrient cycling. Therefore, maintaining light to moderate grazing intensity, implementing rotational grazing or extended rest periods, and prioritizing cattle or mixed‐livestock grazing are essential to protect soil food webs and maintain grassland ecosystem functions under increasing human pressures. Read the free Plain Language Summary for this article on the journal's blog .",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70909",
+      "doi_url": "https://doi.org/10.1111/gcb.70909",
+      "title": "Soil Organic Carbon Improves Crop Yield and Yield Resilience",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-10",
+      "published_date_display": "2026-05-10",
+      "published_parts": [
+        2026,
+        5,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70909",
+      "abstract": "ABSTRACT Increasing soil organic carbon (SOC) has been proposed as a strategy to promote crop yield resilience under extreme hydroclimatic stress, particularly drought, due to its positive effect on soil available water‐holding capacity. We analyze how SOC mediates the relationship between US rainfed crop yields (1981–2020) and growing season hydroclimatic conditions—defined by soil water supply and atmospheric water demand—over 67,000 county‐years across three major crops. We show that higher SOC is consistently associated with increased crop yields and yield resilience, evidenced through reduced interannual variability. Contrary to prevailing expectations, the largest yield gains from SOC occur during moderate water supply conditions—not drought. Under drought, water supply to crops may be more limited by water inputs to soil than by soil water‐holding capacity, constraining the benefit provided by SOC regeneration. Furthermore, because moderate conditions are more frequent than drought or wet extremes, the largest production gains from SOC accumulate under moderate conditions. These findings indicate that SOC regeneration can enhance drought resilience to some degree but cannot compensate for extreme water scarcity; the services SOC provides to crops, including water storage, require water for their effective delivery.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70898",
+      "doi_url": "https://doi.org/10.1111/gcb.70898",
+      "title": "Evapotranspiration Everywhere, All the Time: Towards a Unified View From Earth Observation",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-10",
+      "published_date_display": "2026-05-10",
+      "published_parts": [
+        2026,
+        5,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70898",
+      "abstract": "ABSTRACT Scientists want to know everything, everywhere, and all the time. This is particularly true in Earth science, where we seek to understand processes that span from the molecular to the planetary scale in how the world works, how it affects us, and how we impact it—especially the water cycle. Evapotranspiration (ET) was the last component to be measured in closing the water cycle: for decades, closing the water budget meant adding up all the measurable components, then inferring ET as the residual. Early measurements relied on water loss from pans and weighing lysimeters, followed by sensors inserted into plants to monitor sap flow and leaf chambers capturing transpiration. Scaling up to ecosystems became possible through eddy‐covariance flux towers and further across landscapes through proximal sensing with drones, aircraft, and, ultimately, with satellites. While enormous progress has been made to measure or estimate ET everywhere and all the time, no single approach has yet achieved both simultaneously. Flux towers help with all the time, but not everywhere. Satellites can do everywhere, but not all the time (except, in part, for geostationary satellites, though with insufficient spatial coverage and resolution). A new advent of smallsat constellations is moving us to everywhere and all the time in detail, though we are only in the beginning of that era. This paper discusses the evolution and revolution of Earth observation for ET, as we advanced from the first Landsat and development of ET models through the progression of increasingly higher spatiotemporal resolution across international space agencies and commercial industry with increasing ET model sophistication, cloud computing, and machine learning. We continue to march ahead towards ET everywhere, all the time, and use that knowledge to better manage water and sustain our planet.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70914",
+      "doi_url": "https://doi.org/10.1111/gcb.70914",
+      "title": "Correction to “Patterns and Environmental Drivers of Soil Microbial Succession”",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-10",
+      "published_date_display": "2026-05-10",
+      "published_parts": [
+        2026,
+        5,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70914",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1111/1365-2745.70341",
       "doi_url": "https://doi.org/10.1111/1365-2745.70341",
@@ -17951,33 +18104,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70712",
-      "doi_url": "https://doi.org/10.1111/gcb.70712",
-      "title": "Fungal Panzootic Increasingly Threatens Temperate Amphibian Species While Impact Has Stabilised in Equatorial Regions",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-19",
-      "published_date_display": "2026-01-19",
-      "published_parts": [
-        2026,
-        1,
-        19
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70712",
-      "abstract": "ABSTRACT Global amphibian declines outpace the loss of most organisms on Earth. The panzootic fungal disease chytridiomycosis, caused by Batrachochytrium dendrobatidis ( Bd ), is widely regarded as a predominant driver behind amphibian biodiversity erosion. However, a comprehensive global‐scale analysis of the relationship between Bd and extinction risk remains lacking. Using a global database of Bd ‐detections and IUCN Red List extinction risk, we show that current amphibian declines are associated with Bd in temperate regions only, whereas historical analyses reveal a past peak of Bd ‐related declines across more equatorial areas during 1980–2004, that has diminished in intensity in recent decades (2004–2020). In contrast, temperate species show a lack of Bd ‐related declines during 1980–2004 but significant declines are currently ongoing. We suggest that the shorter activity seasons in temperate regions may have acted as ‘natural lockdowns’ that delayed the annihilating effects of Bd in susceptible species. Conversely, year‐round activity in more amphibian‐dense, equatorial areas may have triggered a faster transition into post‐epizootic dynamics, characterised by a continuous high‐intensity outbreak followed by amphibian population stabilisation and pathogen persistence at lower levels.",
-      "keywords": [
-        "Amphibian",
-        "Temperate climate",
-        "IUCN Red List",
-        "Extinction (optical mineralogy)",
-        "Biodiversity",
-        "Chytridiomycota",
-        "Temperate rainforest",
-        "Population"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70263",
       "doi_url": "https://doi.org/10.1111/1365-2664.70263",
       "title": "Grazing and climate interact to regulate greening trends in Mediterranean grasslands",
@@ -18550,32 +18676,6 @@
         "Aerial survey",
         "Population",
         "Nocturnal"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70660",
-      "doi_url": "https://doi.org/10.1111/gcb.70660",
-      "title": "Global Warming Drives Phenological Shifts and Hinders Reproductive Success in a Temperate Octocoral",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-14",
-      "published_date_display": "2026-01-14",
-      "published_parts": [
-        2026,
-        1,
-        14
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70660",
-      "abstract": "ABSTRACT Global warming is profoundly reshaping biodiversity. Until now, most research has focused on the impacts of extreme temperature events. However, in many ecosystems, it is becoming increasingly apparent that climate change is accelerating the onset of spring warming conditions. These advanced warming conditions can significantly disrupt critical biological processes such as reproduction, which is key for population persistence. While interest in phenological shifts has increased in recent years, their effects on marine foundation species, such as corals, remain poorly understood. Here, we combined observational and experimental approaches to assess the effects of advanced spring warming conditions driven by climate change on the reproduction of the Mediterranean octocoral Paramuricea clavata , a foundation species. Our findings reveal that a 2°C warming leads to a 2‐week advancement in P. clavata spawning, as evidenced by both field observations, and ex‐situ experiments. These results underscore the role of advanced spring warming as a significant driver of phenological shifts in coastal marine ecosystems. Furthermore, we show that this phenological shift lead to a reduction in the number of spawning events, as well as decreases in larval biomass, survival rates, and settlement success. These findings highlight the urgent necessity to monitor phenological changes in foundational marine species, as such shifts can undermine the long‐term viability of coral populations and contribute to substantial decline in associated biodiversity. Consequently, the increased vulnerability of species caused by phenological responses driven by seasonal changes may lead to more dramatic consequences of ocean warming than previously anticipated.",
-      "keywords": [
-        "Phenology",
-        "Global warming",
-        "Climate change",
-        "Temperate climate",
-        "Foundation species",
-        "Population",
-        "Global change"
       ]
     },
     {
@@ -19210,24 +19310,6 @@
         "Tropical climate",
         "Temperate rainforest"
       ]
-    },
-    {
-      "doi": "10.1111/gcb.70699",
-      "doi_url": "https://doi.org/10.1111/gcb.70699",
-      "title": "The Global Woody Surface: A Planetary Interface for Biodiversity, Ecosystem Function, and Climate",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        1,
-        9
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70699",
-      "abstract": "",
-      "keywords": []
     },
     {
       "doi": "10.1111/gcb.70671",
