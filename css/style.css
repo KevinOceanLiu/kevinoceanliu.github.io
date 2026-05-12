@@ -3482,3 +3482,29 @@ select {
 .page-closing p {
     font-size: var(--type-small);
 }
+
+/* ====================
+   Hidden Visitor Tracker
+   ==================== */
+
+.page-closing {
+    grid-template-columns: 1fr;
+}
+
+.clustrmaps-widget {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    opacity: 0;
+    pointer-events: none;
+    border: 0;
+    background: transparent;
+}
+
+.clustrmaps-widget > * {
+    position: static;
+    transform: none;
+}
