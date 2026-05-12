@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T23:12:46.883129+00:00",
+  "generated_at": "2026-05-12T23:19:30.280478+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,6 +31,63 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.compenvurbsys.2026.102453",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102453",
+      "title": "Buildings.city: Scalable urban building energy modeling and carbon emissions mapping using open archetype templates",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000554",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00436-w",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00436-w",
+      "title": "Commuter loss and retention in US employment centers during COVID-19 and its aftermath",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-05-12",
+      "published_date_display": "2026-05-12",
+      "published_parts": [
+        2026,
+        5,
+        12
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00436-w",
+      "abstract": "We assess the economic resilience of US employment centers as a function of both the initial impact of the COVID-19 pandemic and recovery rates by analyzing commuter behavior between 2019 and 2024 using large-scale, anonymized mobile phone geolocation data covering more than 20 million monthly devices. After creating a methodology to identify employment centers, we develop a time-dependent spatial network of commuting patterns and use machine learning models to test the influence of employment center, worker and origin neighborhood characteristics on commuting levels over time. We find that central-city employment centers lost more commuters than suburban ones yet recovered faster, that centers with workers from Democratic-leaning districts tended to lose more commuters, and that one-quarter of employment centers did not recover from the initial pandemic impact. Our analysis is intended to understand the shifting spatial structure of cities and to help policymakers assess the localized effects of future exogenous shocks. COVID-19 reshaped commuting to dense US employment centers, challenging assumptions about central business districts and urban resilience. Core city centers lost more commuters than suburban ones, but recovered faster, while one-quarter never returned to pre-pandemic levels.",
+      "keywords": [
+        "Complex networks",
+        "Economics",
+        "Geography"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261442416",
+      "doi_url": "https://doi.org/10.1177/00420980261442416",
+      "title": "Closing the loop, opening up the labour market? Training, reskilling, and inclusion in Brussels circular construction sector",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-11",
+      "published_date_display": "2026-05-11",
+      "published_parts": [
+        2026,
+        5,
+        11
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261442416",
+      "abstract": "The circular economy (CE) is hailed as a novel model for urban development that proposes to deliver a more regenerative society by integrating economic, ecological and social objectives. The social pillar, however, tends to fall short in research and policy that prioritise innovation-focused growth agendas. Witnessing leading policy narratives frame social objectives as a matter of anticipated employment generation for low-skilled or ‘inactive’ workers, this article studies the case of Brussels (Belgium), where the sizeable and waste-intensive construction industry constitutes a prime example of contemporary struggles around labour market inclusion in the circular economy. Incremental sectoral shifts from material-extractive practices to recycling, reuse and repair work lead to changing labour demands that make training and re-skilling for emerging circular occupations essential. This article analyses the conditions under which circularity materialises in construction training and employment, thereby assessing its potential in remedying urban labour market mismatches through economic and spatial inclusion. Through qualitative research entailing interviews with organisations and ethnography-based observations with job seekers, we map circularity conceptualisations at different scales. Within the sector, circular construction remains material rather than profession-focused. Although social economy enterprises show grounded practices of social circularity through workforce integration, a lack of recognition of qualifications, persisting systemic barriers, and unclear professional pathways hinder the integration of these initiatives into formal training and employment systems. These barriers are reinforced by regional institutions, whose prevailing focus on worker activation and skill matching reduces on-the-ground efforts to achieve inclusive employment and results in partial reinforcement of exclusionary narratives within the circular economy.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s44284-026-00440-0",
       "doi_url": "https://doi.org/10.1038/s44284-026-00440-0",
       "title": "Global mapping of city-level economic growth decoupling from fossil fuels",
@@ -47,8 +104,13 @@
       "link": "https://www.nature.com/articles/s44284-026-00440-0",
       "abstract": "Abstract Cities seek to generate economic prosperity while reducing their dependence on fossil fuel combustion, yet tracking such progress at the city level remains challenging because of the limited and inconsistent emissions and economic data. Here we introduce an objective, globally consistent framework to measure decoupling between fossil fuel use and economic growth, either through reduced fuel use or shifts toward cleaner/more efficient combustion, proxied by tropospheric nitrogen dioxide columns combined with second-level administrative gross domestic product per capita based on purchasing power parity data. Analysing 5,435 cities globally over 2019–2024, we identify significant trends for 2,475 cities and classify them into 4 decoupling states. We find that 80% of these cities, mainly located in China, Europe and North America, enjoy relative decoupling, whereas 16%, mainly located in India and the Middle East, experience fossil fuel-dependent growth. Beyond these patterns, the described scalable satellite-based methodology can be revisited regularly to monitor city-level green growth and support urban policy effectiveness.",
       "keywords": [
-        "Environmental economics",
-        "Sustainability"
+        "Prosperity",
+        "Fossil fuel",
+        "Gross domestic product",
+        "Decoupling (probability)",
+        "Per capita",
+        "Purchasing power parity",
+        "Per capita income"
       ]
     },
     {
@@ -68,8 +130,12 @@
       "link": "https://www.nature.com/articles/s44284-026-00448-6",
       "abstract": "Current urban water monitoring remains reactive and sparse, and contamination is often detected after public exposure. This Comment outlines a data-centric, anomaly-oriented pathway that involves tracking high-frequency deviations at risk-relevant locations, which enables earlier detection and targeted intervention across urban water systems.",
       "keywords": [
-        "Environmental impact",
-        "Environmental studies"
+        "Water supply",
+        "Current (fluid)",
+        "Tracking (education)",
+        "Water contamination",
+        "Water safety",
+        "Intervention (counseling)"
       ]
     },
     {
