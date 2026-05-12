@@ -9,15 +9,15 @@ if (hamburger) {
     hamburger.addEventListener('click', () => {
         navMenu.style.display = navMenu.style.display === 'flex' ? 'none' : 'flex';
         navMenu.style.position = 'absolute';
-        navMenu.style.top = '60px';
+        navMenu.style.top = '64px';
         navMenu.style.left = '0';
         navMenu.style.right = '0';
         navMenu.style.flexDirection = 'column';
-        navMenu.style.backgroundColor = 'rgba(255, 255, 255, 0.95)';
+        navMenu.style.backgroundColor = 'rgba(255, 255, 255, 0.96)';
         navMenu.style.backdropFilter = 'blur(20px)';
         navMenu.style.gap = '1rem';
         navMenu.style.padding = '1rem';
-        navMenu.style.borderBottom = '1px solid #e5e5e7';
+        navMenu.style.borderBottom = '1px solid #e6e5e1';
     });
 
     // Close menu when link is clicked
@@ -51,8 +51,8 @@ function setActiveLink() {
 // Set active link on page load
 document.addEventListener('DOMContentLoaded', setActiveLink);
 
-// ==================== 
-// Smooth Scroll for Anchor Links
+// ====================
+// Anchor Links
 // ====================
 
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -60,10 +60,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         e.preventDefault();
         const target = document.querySelector(this.getAttribute('href'));
         if (target) {
-            target.scrollIntoView({
-                behavior: 'smooth',
-                block: 'start'
-            });
+            target.scrollIntoView({ block: 'start' });
         }
     });
 });
@@ -133,52 +130,6 @@ if (subscribeForm) {
         }
     });
 }
-
-// ==================== 
-// Intersection Observer for Animations
-// ====================
-
-const observerOptions = {
-    threshold: 0.1,
-    rootMargin: '0px 0px -100px 0px'
-};
-
-const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            entry.target.style.animation = 'fadeInUp 0.6s ease-out';
-            observer.unobserve(entry.target);
-        }
-    });
-}, observerOptions);
-
-// Observe all cards on page load
-document.addEventListener('DOMContentLoaded', () => {
-    const cards = document.querySelectorAll('.featured-card, .blog-card');
-    cards.forEach(card => {
-        observer.observe(card);
-    });
-});
-
-// ==================== 
-// Scroll Events
-// ====================
-
-let lastScrollTop = 0;
-const navbar = document.querySelector('.navbar');
-
-window.addEventListener('scroll', () => {
-    let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-    
-    // Add shadow to navbar on scroll
-    if (scrollTop > 0) {
-        navbar.style.boxShadow = '0 1px 3px rgba(0, 0, 0, 0.1)';
-    } else {
-        navbar.style.boxShadow = 'none';
-    }
-    
-    lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
-});
 
 // ==================== 
 // Dark Mode Toggle (Optional)
