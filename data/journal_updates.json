@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T22:17:53.152189+00:00",
+  "generated_at": "2026-05-12T22:35:42.462168+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115479",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115479",
-      "title": "Global-scale comparison of OLCI remote sensing reflectance from sentinel-3A and -3B",
+      "doi": "10.1016/j.rse.2026.115463",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115463",
+      "title": "A submerged aquatic vegetation biomass estimation framework grounded in underwater light attenuation",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,122 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600249X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002336",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.007",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.007",
+      "title": "An integrated machine learning approach for efficient gap-filling of cloudy Landsat LST imagery",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002480",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115481",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115481",
+      "title": "Advancing river bathymetry mapping through physics-informed neural networks and SWOT satellite observations",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-12",
+      "published_date_display": "2026-05-12",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002518",
+      "abstract": "",
+      "keywords": [
+        "Bathymetry",
+        "Satellite",
+        "Artificial neural network",
+        "SWOT analysis",
+        "Satellite imagery"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.050",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.050",
+      "title": "WDTS: Water droplet model-driven entropy optimization for individual tree skeletonization from terrestrial laser scanning point clouds",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-12",
+      "published_date_display": "2026-05-12",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002315",
+      "abstract": "",
+      "keywords": [
+        "Skeletonization",
+        "Point cloud",
+        "Laser scanning",
+        "Entropy (arrow of time)",
+        "Tree (set theory)",
+        "Point (geometry)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.004",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.004",
+      "title": "GeoMatch: Natural language-guided cross-view object geo-localization and matching",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-12",
+      "published_date_display": "2026-05-12",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002455",
+      "abstract": "",
+      "keywords": [
+        "Object (grammar)",
+        "Matching (statistics)",
+        "Natural (archaeology)",
+        "Pattern recognition (psychology)",
+        "Object detection",
+        "Cognitive neuroscience of visual object recognition"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115479",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115479",
+      "title": "Global-scale comparison of OLCI remote sensing reflectance from sentinel-3A and -3B",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-11",
+      "published_date_display": "2026-05-11",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600249X",
+      "abstract": "The suite of Sentinel-3 missions from the European Union Copernicus programme is expected to provide long-term series of ocean color data from the Ocean and Land Colour Imager (OLCI) to monitor the state of the oceans. The consistency of the OLCI standard products is analysed by presenting a comparison of the level-2 daily remote sensing reflectance R R S data from Sentinel-3A and Sentinel-3B (S-3A and S-3B) at the pixel level over the global ocean and multiple years. Regardless of the camera number, a remarkable level of agreement is found for R R S and the aerosol products during the tandem phase, an early stage of the S-3B mission when the spacecraft was placed on the same orbit as S-3A. This agreement is degraded after S-3B reached its final orbit, with much more scatter in the comparison and the appearance of systematic differences between S-3A and S-3B data that depend on the camera pair considered. For the most eastern viewing cameras (3 to 5), R R S at short wavelengths and the aerosol optical thickness at 865 nm tend to be larger, and the Ångström exponent lower, than for the western viewing cameras (1 and 2). Possible impacts of the geometry of illumination and observation and of glint conditions are investigated. Further looking for elements that could explain cross-camera issues (knowing that they are similarly affecting both missions) and analyzing the behavior of the atmospheric correction in the near-infrared (starting with the aerosol products) are recommended avenues of investigation to improve the OLCI data record. • R R S and aerosol level-2 data from S-3A and S-3B are compared on a global scale. • S-3A and S-3B data show remarkable agreement during the tandem phase. • After the tandem phase, S-3A and S-3B data exhibit larger differences and biases. • R R S in the blue tends to be higher for cameras 4 and 5 than for cameras 1 and 2. • AOT in the NIR tends to be higher for cameras 4 and 5 than for cameras 1 and 2.",
+      "keywords": [
+        "Aerosol",
+        "Atmospheric correction",
+        "Pixel",
+        "Reflectivity",
+        "Spacecraft",
+        "Ocean color",
+        "Wavelength"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2663121",
@@ -58,7 +171,14 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2663121",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Deep learning",
+        "Land use",
+        "Generative grammar",
+        "Generative model",
+        "Feature (linguistics)",
+        "Field (mathematics)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2656722",
@@ -76,7 +196,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2656722",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Drone",
+        "Geopolitics",
+        "Annihilation",
+        "Neoliberalism (international relations)",
+        "Precarity"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115478",
@@ -294,6 +420,24 @@
         "Fuse (electrical)",
         "Geometric modeling"
       ]
+    },
+    {
+      "doi": "10.1080/24694452.2026.2659904",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2659904",
+      "title": "Visualizing Recreational Running Geo-Narratives Using Mixed Methods",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-05-08",
+      "published_date_display": "2026-05-08",
+      "published_parts": [
+        2026,
+        5,
+        8
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659904",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.rse.2026.115465",
@@ -10274,30 +10418,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115251",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115251",
-      "title": "Mapping urban built-up types from 2000 to 2022 at 10-m resolution using super-resolution of Landsat spectral-temporal metrics and center-patch classification",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-19",
-      "published_date_display": "2026-01-19",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000210",
-      "abstract": "",
-      "keywords": [
-        "Resolution (logic)",
-        "Image resolution",
-        "High resolution",
-        "Reflectivity",
-        "Vegetation (pathology)",
-        "Thematic Mapper"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115244",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115244",
       "title": "Characterizing mangrove forest succession in Suriname using GEDI waveform metrics",
@@ -10422,31 +10542,6 @@
         "Radar",
         "Regression",
         "Deep learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.014",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.014",
-      "title": "Attributing GHG emissions to individual facilities using multi-temporal hyperspectral images: Methodology and applications",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-17",
-      "published_date_display": "2026-01-17",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000146",
-      "abstract": "",
-      "keywords": [
-        "Greenhouse gas",
-        "Hyperspectral imaging",
-        "Satellite",
-        "Estimation",
-        "Emission inventory",
-        "Plume",
-        "Trace gas"
       ]
     },
     {
@@ -11815,32 +11910,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.015",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.015",
-      "title": "TFRSUB: A terrain-feature retention and spatial uniformity balancing method for simplifying LiDAR ground point clouds",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-29",
-      "published_date_display": "2025-12-29",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162500499X",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Lidar",
-        "Terrain",
-        "Feature (linguistics)",
-        "Mean squared error",
-        "Gaussian",
-        "Laser scanning",
-        "Sampling (signal processing)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2025.12.012",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.012",
       "title": "Synthetic learning for primitive-based building model reconstruction from point clouds",
@@ -12181,33 +12250,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115196",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115196",
-      "title": "Long-term forest structure trends in the peninsular Spain from lidar-optical sensors synergies",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-13",
-      "published_date_display": "2025-12-13",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006005",
-      "abstract": "Information on forest structure is needed for many management aspects, from carbon stock evaluation to fire hazard prediction. Such information is increasingly available from remote sensing data, including light detection and ranging (lidar) sensors. However, continuous forest monitoring is hindered by the limited temporal availability of lidar acquisitions. This study focused on integrating temporally consistent optical acquisitions with temporally sparse lidar acquisitions to provide long term information on forest structural characteristics across the peninsular Spain. We evaluated different modeling approaches including machine learning and advanced deep learning models to ascertain their limitations for long-term forest monitoring. Subsequently, annual estimates of forest structural attributes were generated from 1985 to 2024. Across all forests, height (H), canopy cover (FCC), and above ground biomass (AGB) increased by 34 %, 29 % and respectively 17.5 % from the first (1985–1989) to the last lustrum (2019–2024). By biome, the increase in H, FCC and AGB was larger over the Mediterranean (35 %, 33 %, and 18 % respectively) when compared to the Atlantic (33 %, 10 %, and 15 % respectively) forests. For the model training year, deep learning models improved estimation accuracy by 27 ± 2.6 % (mean value across regions and variables) when compared to machine learning models. However, when applied to data from other years (temporal inference), model precision was similar except for height in the Mediterranean were deep learning models improved RMSE estimates by 7 %. Overall, the deep learning models presented significant computational drawbacks when applied to large geographic extents and extensive temporal ranges, substantially increasing both training and prediction times without providing a clear improvement in accuracy compared to machine learning across years. Therefore, the long-term forest database was generated using machine learning models. This database provides a spatially explicit understanding of forest structural changes over nearly four decades, offering a valuable resource for forest management, ecological assessments, and climate-related policy-making. • Forest biomass, height, and cover rose 17–34 % across Spain from 1985 to 2024. • Deep learning improves accuracy; machine learning ensures scalable monitoring. • Annual maps of forest structure are now available for peninsular Spain.",
-      "keywords": [
-        "Lidar",
-        "Forest structure",
-        "Canopy",
-        "Forest cover",
-        "Deep learning",
-        "Mediterranean climate",
-        "Random forest",
-        "Biomass (ecology)",
-        "Tree canopy"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115195",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115195",
       "title": "Highest quality remote sensing reflectance database compiled from 20+ years of MODIS-aqua measurements",
@@ -12384,33 +12426,6 @@
         "Land cover",
         "Calibration",
         "Brightness temperature"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.004",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.004",
-      "title": "Enhancing monocular height estimation via sparse LiDAR-guided correction",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-08",
-      "published_date_display": "2025-12-08",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004885",
-      "abstract": "",
-      "keywords": [
-        "Lidar",
-        "Robustness (evolution)",
-        "Monocular",
-        "Benchmark (surveying)",
-        "Random forest",
-        "Deep learning",
-        "Suite",
-        "Digital elevation model",
-        "Pipeline (software)"
       ]
     },
     {
