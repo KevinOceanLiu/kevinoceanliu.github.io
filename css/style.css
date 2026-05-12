@@ -2947,7 +2947,7 @@ a.link-arrow:hover,
 }
 
 .others-card-description strong {
-    color: #737b86;
+    color: var(--text-color);
     font-weight: 400;
 }
 
@@ -3507,4 +3507,47 @@ select {
 .clustrmaps-widget > * {
     position: static;
     transform: none;
+}
+
+/* ====================
+   Static Project Entries
+   ==================== */
+
+.others-card {
+    cursor: default;
+    box-shadow: none;
+}
+
+.others-card:hover,
+.others-card:focus-visible {
+    background: var(--surface-muted);
+    box-shadow: none;
+    outline: none;
+}
+
+.others-card:hover .others-card-action,
+.others-card:focus-visible .others-card-action,
+.others-card:hover .others-card-action::after,
+.others-card:focus-visible .others-card-action::after {
+    color: var(--text-light);
+}
+
+.others-card-action,
+.others-card-action:visited {
+    color: var(--text-light);
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.others-card-action:hover,
+.others-card-action:focus-visible {
+    color: var(--accent-color);
+    border-color: rgba(79, 111, 159, 0.28);
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.others-card-action:hover::after,
+.others-card-action:focus-visible::after {
+    color: var(--accent-color);
 }
