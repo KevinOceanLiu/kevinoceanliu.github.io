@@ -2948,7 +2948,7 @@ a.link-arrow:hover,
 
 .others-card-description strong {
     color: #737b86;
-    font-weight: 650;
+    font-weight: 400;
 }
 
 .journal-simple-header {
@@ -3218,57 +3218,54 @@ a.link-arrow:hover,
    ==================== */
 
 .home-layout {
-    max-width: 1180px;
-    grid-template-columns: 178px minmax(0, 1fr);
-    column-gap: 18px;
+    grid-template-columns: 190px minmax(0, 1fr);
 }
 
 .home-sidebar {
-    align-self: start;
-    align-items: stretch;
-    gap: 12px;
-    padding: 16px 14px;
+    align-items: center;
+    gap: 18px;
+    padding: 22px 16px;
 }
 
 .profile-avatar-frame {
-    width: 82px;
-    height: 82px;
-    margin: 0 auto 2px;
+    width: 112px;
+    height: 112px;
+    margin: 0 auto 4px;
     border-radius: 50%;
-    box-shadow: none;
+    box-shadow: 0 1px 2px rgba(31, 35, 40, 0.08);
 }
 
 .home-intro {
     align-items: center;
-    gap: 12px;
+    gap: 20px;
     text-align: center;
 }
 
 .hero-title {
-    gap: 2px;
+    gap: 7px;
     text-align: center;
 }
 
 .hero-name-line,
 .hero-subtitle-cjk,
 .hero-subtitle-katakana {
-    font-size: 14px;
-    line-height: 1.42;
+    font-size: 16px;
+    line-height: 1.4;
     font-weight: 650;
 }
 
 .hero-title .hero-name-line:not(:first-child) {
-    color: var(--text-light);
-    font-weight: 560;
+    color: var(--text-color);
+    font-weight: 650;
 }
 
 .hero-links {
     display: grid;
-    grid-template-columns: repeat(3, 30px);
+    grid-template-columns: repeat(2, 42px);
     grid-template-areas: none;
     justify-content: center;
-    gap: 7px;
-    padding-top: 2px;
+    gap: 12px;
+    padding-top: 0;
 }
 
 .hero-link-email,
@@ -3279,13 +3276,18 @@ a.link-arrow:hover,
     grid-area: auto;
 }
 
+.hero-link-x {
+    grid-column: 1 / -1;
+    justify-self: center;
+}
+
 .hero-link {
-    width: 30px;
-    height: 30px;
-    padding: 5px;
-    border-radius: var(--radius-md);
-    box-shadow: none;
-    background: var(--surface-muted);
+    width: 42px;
+    height: 42px;
+    padding: 8px;
+    border-radius: 50%;
+    box-shadow: var(--shadow-sm);
+    background: #fff;
 }
 
 .hero-link:hover,
@@ -3296,8 +3298,8 @@ a.link-arrow:hover,
 
 .hero-link-icon,
 .hero-link-image {
-    width: 17px;
-    height: 17px;
+    width: 24px;
+    height: 24px;
 }
 
 @media (max-width: 768px) {
@@ -3315,8 +3317,8 @@ a.link-arrow:hover,
     }
 
     .profile-avatar-frame {
-        width: 82px;
-        height: 82px;
+        width: 112px;
+        height: 112px;
     }
 }
 
@@ -3389,4 +3391,94 @@ a.link-arrow:hover,
         width: 48px;
         height: 48px;
     }
+}
+
+/* ====================
+   Unified Typography
+   ==================== */
+
+:root {
+    --font-size-base: 15px;
+    --type-body: 15px;
+    --type-small: 13px;
+    --type-line-height: 1.68;
+}
+
+body,
+button,
+input,
+textarea,
+select {
+    font-size: var(--type-body);
+    line-height: var(--type-line-height);
+}
+
+.logo,
+.nav-menu a,
+.hero-name-line,
+.hero-subtitle-cjk,
+.hero-subtitle-katakana,
+.cv-page-title,
+.cv-line-section h2,
+.cv-line-section h3,
+.cv-subtitle,
+.cv-card p,
+.cv-card li,
+.cv-entry-head p,
+.cv-entry-head h3,
+.cv-line-section p,
+.cv-line-section li,
+.others-section-header h1,
+.others-card h2,
+.others-card-description,
+.others-card-description li,
+.journal-simple-header p,
+.journal-status,
+.journal-entry p,
+.journal-entry a,
+.journal-label,
+.page-header h1,
+.page-header p,
+.filter-tag,
+.portfolio-item h3,
+.portfolio-item p,
+.blog-post h2,
+.blog-excerpt,
+.about-text h2,
+.about-text p,
+.skills-section h2,
+.skill-category h3,
+.skill-category li,
+.experience-section h2,
+.timeline-content h3,
+.timeline-content p,
+.education-section h2,
+.education-item h3,
+.education-item p,
+.cta-section h2,
+.cta-section > p,
+.footer-section h4,
+.footer-section a,
+.footer-bottom,
+.btn {
+    font-size: var(--type-body);
+}
+
+.others-card-action,
+.journal-filter-button,
+.journal-tag,
+.journal-tag-value,
+.citation-button,
+.tag,
+.blog-date,
+.blog-category,
+.read-more,
+.pagination-btn,
+.pagination-info,
+.timeline-date,
+.timeline-company,
+.education-year,
+.education-school,
+.page-closing p {
+    font-size: var(--type-small);
 }
