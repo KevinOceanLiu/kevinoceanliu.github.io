@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:35:42.462168+00:00",
+  "generated_at": "2026-05-13T22:38:35.375293+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,36 +26,56 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115463",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115463",
-      "title": "A submerged aquatic vegetation biomass estimation framework grounded in underwater light attenuation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "doi": "10.1080/13658816.2026.2669379",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2669379",
+      "title": "Economic and demographic simulations in urban agglomerations using a human mobility-enhanced cellular automata (HME-CA) model",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
       "published_parts": [
         2026,
-        8
+        5,
+        13
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002336",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2669379",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.007",
-      "title": "An integrated machine learning approach for efficient gap-filling of cloudy Landsat LST imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "doi": "10.1080/24694452.2026.2659908",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2659908",
+      "title": "The Double-Edged Effect of Urban Agglomeration on Regional Inequality",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
       "published_parts": [
         2026,
-        8
+        5,
+        13
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002480",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659908",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2659906",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2659906",
+      "title": "Structural and Environmental Determinants of Irregular Migrant Deaths: Analysis of the Missing Migrant Project",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659906",
       "abstract": "",
       "keywords": []
     },
@@ -73,7 +93,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002518",
-      "abstract": "",
+      "abstract": "River bathymetry—the submerged channel topography invisible to conventional remote sensing and costly to survey at scale—remains unmapped for most of the world's rivers, critically constraining hydrodynamic flood modelling. The Surface Water and Ocean Topography (SWOT) satellite mission now delivers global Water Surface Elevation (WSE) observations, opening a path to infer riverbed elevation from space. Yet recovering bathymetry from WSE alone is fundamentally ill-posed: without additional constraints, infinitely many bed configurations produce identical surface responses. We present a Physics-Informed Neural Network (PINN) framework that mitigates this ill-posedness by assimilating multi-temporal SWOT overpass across diverse flow regimes, treating bed elevation as the sole unknown while prescribing Manning's roughness, discharge, and channel width. A dual-network architecture separates the time-invariant bed elevation from flow-dependent water depth, embedding Gradually Varied Flow (GVF) physics as a differentiable constraint. Synthetic experiments across 24 bed profiles achieve centimetre reconstruction accuracy for smooth morphologies, degrading for abrupt features at the identifiability limits of one-dimensional hydraulics. Validation on the Severn and Thames demonstrates that as few as 12 high-flow overpasses—roughly 10% of the available record—reproduce full-dataset accuracy, with Mean Absolute Errors (MAE) below 0.3 m relative to ground-truth surveys. Critically, reconstruction accuracy is governed primarily by hydraulic parameter uncertainty rather than SWOT observational limitations: Manning's roughness variations alone introduce errors of ±2.4 m, an order of magnitude beyond those from sampling density or measurement noise (±0.8 m). This framework charts a course from sporadic field campaigns to continuous, satellite-driven bathymetric monitoring for operational flood forecasting. • PINNs constrained by flow law for SWOT-based riverbed estimation. • Dual networks separate time-invariant bed from flow-dependent depth. • Manning's roughness uncertainty exceeds SWOT data constraints.",
       "keywords": [
         "Bathymetry",
         "Satellite",
@@ -81,6 +101,50 @@
         "SWOT analysis",
         "Satellite imagery"
       ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115463",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115463",
+      "title": "A submerged aquatic vegetation biomass estimation framework grounded in underwater light attenuation",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-12",
+      "published_date_display": "2026-05-12",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002336",
+      "abstract": "",
+      "keywords": [
+        "Underwater",
+        "Biomass (ecology)",
+        "Attenuation",
+        "Radiative transfer",
+        "Aquatic ecosystem",
+        "Vegetation (pathology)",
+        "Mean squared error",
+        "Light intensity"
+      ]
+    },
+    {
+      "doi": "10.1080/13658816.2026.2667807",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2667807",
+      "title": "Multi-perspective assessment of greenery visibility from streets, windows, and drones using deep learning and CIM",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-05-12",
+      "published_date_display": "2026-05-12",
+      "published_parts": [
+        2026,
+        5,
+        12
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2667807",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.050",
@@ -128,6 +192,32 @@
         "Pattern recognition (psychology)",
         "Object detection",
         "Cognitive neuroscience of visual object recognition"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.007",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.007",
+      "title": "An integrated machine learning approach for efficient gap-filling of cloudy Landsat LST imagery",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-12",
+      "published_date_display": "2026-05-12",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002480",
+      "abstract": "",
+      "keywords": [
+        "Robustness (evolution)",
+        "Cloud cover",
+        "Limiting",
+        "Land cover",
+        "Cloud computing",
+        "Boosting (machine learning)",
+        "Image resolution",
+        "Generalizability theory"
       ]
     },
     {
@@ -437,7 +527,14 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659904",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Recreation",
+        "Visualization",
+        "Perspective (graphical)",
+        "Context (archaeology)",
+        "Data visualization",
+        "Multimethodology"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115465",
