@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T23:41:19.978830+00:00",
+  "generated_at": "2026-05-13T23:41:54.744132+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,12 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03056-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Vegetation (pathology)",
+        "Natural (archaeology)",
+        "Tree (set theory)",
+        "Identification (biology)"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03047-9",
@@ -69,7 +74,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03047-9",
       "abstract": "Abstract Achieving global biodiversity targets, such as the commitment to conserve 30% of the planet by 2030, depends on the ability of individual countries to translate targets into reality. While there has long been recognition that protected areas can bring costs as well as benefits, the implications of this for delivery of global targets have not been fully explored. We focus on Ethiopia, a country supporting globally important biodiversity but facing substantial poverty challenges. We characterize the extent and representativeness of Ethiopia’s protected area network, demonstrating that a threefold expansion—particularly into ecoregions with higher opportunity cost—would be required to meet the Kunming–Montreal Global Biodiversity Framework Target 3. Using a quasi-experimental approach (accounting for known confounders and exploring sensitivity to potential unobserved confounders), we show that the existing protected area network has reduced forest loss and agricultural expansion, and helped to maintain grasslands. Yet, this has brought social wellbeing costs equivalent to 3.9 million fewer household-months of adequate food. Surveys show that national conservation stakeholders recognize these challenges and prioritize improving effectiveness of the existing network over expansion. Our findings highlight that trade-offs between environmental and social outcomes are not simply challenges to be managed, but are central to whether global biodiversity commitments can be delivered.",
-      "keywords": []
+      "keywords": [
+        "Representativeness heuristic",
+        "Biodiversity",
+        "Poverty",
+        "Convention on Biological Diversity",
+        "Global biodiversity",
+        "Protected area",
+        "Biodiversity conservation",
+        "Agriculture"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03062-w",
@@ -86,8 +100,18 @@
         12
       ],
       "link": "https://www.nature.com/articles/s41559-026-03062-w",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Yellow-eyed penguins (hoiho/takaraka, Megadyptes antipodes) are among the world’s rarest penguins and considered taonga (treasured) species in Aotearoa New Zealand. Since 2019, chicks on the New Zealand mainland have been affected by a deadly neonatal disease, respiratory distress syndrome, contributing to a decline to fewer than 115 breeding pairs. To investigate the putative genetic basis of this disease, we generated high-quality whole-genome data from 249 individuals spanning the species range, including New Zealand mainland (Northern range) and sub-Antarctic Enderby (Auckland Islands) and Campbell Islands (Southern range). Population genomic analyses unexpectedly revealed three deeply divergent lineages with negligible gene flow, which is consistent with recognition of three distinct subspecies. Phylogenetic divergence dating suggests that these splits predate human arrival by several millennia, with the Northern lineage diverging from the Southern populations 5–16 thousand years. Genome scans for local adaptation revealed regions of strong differentiation, while genome-wide association analyses identified candidate immune and respiratory genes linked to respiratory distress syndrome. In partnership with Ngāi Tahu, who hold Indigenous guardianship over yellow-eyed penguins, we recommend recognition of three subspecies, urgent conservation action for the critically small and rapidly declining Northern subspecies and the need for immediate population size and trend assessments for the Auckland and Campbell Island populations. Whole-genome data from 249 yellow-eyed penguins (hoiho) identify three lineages with high geographical and genomic divergence, and candidate gene variants associated with differential susceptibility to neonatal respiratory distress syndrome.",
+      "keywords": [
+        "Candidate gene",
+        "Population",
+        "Subspecies",
+        "Population genomics",
+        "Genomics",
+        "Lineage (genetic)",
+        "Mainland",
+        "Genetic divergence",
+        "Founder effect"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03066-6",
@@ -105,7 +129,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03066-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Valuation (finance)",
+        "Fauna",
+        "Compensation (psychology)",
+        "Taxonomy (biology)",
+        "Biodiversity"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03073-7",
@@ -123,7 +153,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03073-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Gut flora",
+        "Lachnospiraceae",
+        "Host (biology)",
+        "Microbiome",
+        "Strain (injury)",
+        "Genome",
+        "Biological dispersal",
+        "Bacterial genetics"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03067-5",
@@ -140,8 +179,17 @@
         12
       ],
       "link": "https://www.nature.com/articles/s41559-026-03067-5",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Biodiversity laws in several European countries rely on official species-level price lists for fauna to enable compensation for biodiversity damage. However, the methods underlying these values are often opaque and poorly justified, raising concerns about consistency, fairness and ecological relevance. To gain insights into the revealed public regulatory patterns embedded in these mechanisms, we investigate how monetary compensation values are assigned to fauna in European biodiversity legislation and what factors influence these values. Here we show that species-level values are implicitly guided by biological traits and taxonomic biases, based on a dataset of 9,971 species across 24 countries. Our analysis reveals that mammals and birds receive disproportionately higher values, while traits such as generation length and protection status also significantly influence values. These findings reveal hidden criteria that shape regulatory decisions and enhance our understanding of conservation priorities. We recommend integrating systematic, science-based criteria into legal valuation practices, supported by collaboration between conservation scientists and legal practitioners. A compilation of the monetary compensation values assigned to animal species in the legal frameworks of 24 European countries identifies implicit taxonomic and trait influences on these values.",
+      "keywords": [
+        "Biodiversity",
+        "Legislation",
+        "Fauna",
+        "Valuation (finance)",
+        "Compensation (psychology)",
+        "Corporate governance",
+        "Biodiversity conservation",
+        "Global biodiversity"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03089-z",
@@ -159,7 +207,15 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03089-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Endangered species",
+        "Context (archaeology)",
+        "Outbreak",
+        "Population",
+        "Disease",
+        "Infectious disease (medical specialty)",
+        "Genetic data"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03086-2",
@@ -177,7 +233,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03086-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Focus (optics)",
+        "Climate change",
+        "Event (particle physics)",
+        "Extreme heat",
+        "Climate extremes"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03064-8",
@@ -195,7 +257,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03064-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Extinction (optical mineralogy)",
+        "Climate change",
+        "Action (physics)",
+        "Global warming",
+        "Global change",
+        "Climate system"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03053-x",
@@ -213,6 +282,30 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03053-x",
       "abstract": "",
+      "keywords": [
+        "Blueprint",
+        "Work in process",
+        "Technical progress",
+        "Process (computing)",
+        "Work (physics)"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70343",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70343",
+      "title": "Short periods dominate mast seeding across diverse tree species",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-12",
+      "published_date_display": "2026-05-12",
+      "published_parts": [
+        2026,
+        5,
+        12
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70343",
+      "abstract": "Abstract Mast seeding, synchronous and highly variable reproduction among perennial plants, impacts ecosystem dynamics and species interactions. However, the extent of periodicity in mast seeding, defined as cyclical but not strictly regular intervals between reproduction, remains poorly understood. We used autoregressive analyses on seed production data from 556 populations across 20 tree species, with time series ranging from 10 to 62 years, to quantify the prevalence and length of masting periods. We found widespread periodicity, predominantly characterised by short periods of 2–3 years. Although periodicity was common, the signal was often weak, indicating limited explanatory and predictive power. Extended period lengths longer than 4 years were uncommon, occurring in only 2% of time series. Climate and elevation had limited and species‐specific associations with period length and strength, suggesting that broad‐scale climatic gradients explain little variation in masting periodicity across the species analysed. Synthesis . Our findings emphasise the adaptive value of short periods in mast seeding, likely reflecting evolutionary constraints on reproductive timing that balance the benefits of predator satiation with costs such as missed reproductive opportunities.",
       "keywords": []
     },
     {
@@ -231,7 +324,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70346",
       "abstract": "Abstract Tree decline increasingly influences forest functioning world‐wide; however, below‐ground processes influencing tree health remain poorly understood. This study evaluates the changes in root–microbe interactions of beech trees ( Fagus sylvatica ) in response to tree decline. Over 2 years, we investigated fine root dynamics, functional traits, microbial community composition, and enzymatic activity in the rhizosphere and bulk soil of declining and healthy beech trees at their southern range limit. Declining trees exhibited reduced fine root biomass, higher turnover rates and shifts towards longer and thinner fine roots. These changes altered the diversity and composition of fungal and bacterial communities, decreasing the relative abundance of ectomycorrhizal fungi while promoting the proliferation of saprophytic fungi. The competitive and antagonistic interactions among these functional guilds, along with increased root mortality, likely contributed to the heightened enzyme activity observed in the rhizosphere of declining trees. Synthesis . This study highlights the critical role of rhizosphere interactions in nutrient cycling and tree health. We found that tree decline triggers cascading effects that influence fine root, microbial communities and soil enzyme activities in the rhizosphere. By focusing on these critical below‐ground processes, our research enhances the understanding of beech tree decline and underscores the need to consider these below‐ground dynamics in future studies to further understand overall forest decline.",
-      "keywords": []
+      "keywords": [
+        "Beech",
+        "Rhizosphere",
+        "Cycling",
+        "Nutrient cycle",
+        "Ectomycorrhiza",
+        "Bulk soil",
+        "Microbial population biology",
+        "Abundance (ecology)",
+        "Nutrient",
+        "Soil water"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70396",
@@ -249,7 +353,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70396",
       "abstract": "Abstract Globally, enormous resources are spent to restore areas invaded by non‐native species. Active revegetation using native plants, following the removal of invasive plants, is a common strategy to achieve restoration of invaded communities. Studies on revegetation conducted worldwide report a mixed outcome, and we currently lack a global synthesis to draw concrete conclusions on successful restoration. To address this knowledge gap, we conducted a global meta‐analysis of native revegetation‐based restoration experiments using 266 effect sizes from 50 primary studies. The meta‐analysis revealed that revegetation post‐invasive plant removal significantly increased native plant community by ~45% (in terms of recorded diversity metrics) and reduced non‐native plant community by 28% compared with control (i.e. non‐vegetated, invasive plant removal plots only). The taxonomic and functional diversity, and growth forms used for revegetation and invasive plant control method were relatively strong predictors, but time since revegetation and plot size of revegetation were relatively weak predictors, of native and non‐native community responses to revegetation. Synthesis and applications. Based on the insights gained, we evaluate the underlying ecological principles of revegetation and provide practical guidelines to design effective restoration strategies aimed for enhancing invasion‐resistance in plant communities. Looking ahead, we highlight the existing knowledge gaps and call for the integration of future research across regions, ecosystems, invasion resistance mechanisms and spatio‐temporal scales to inform evidence‐based active revegetation of invaded landscapes.",
-      "keywords": []
+      "keywords": [
+        "Revegetation",
+        "Native plant",
+        "Invasive species",
+        "Plant community",
+        "Introduced species",
+        "Resistance (ecology)",
+        "Restoration ecology",
+        "Sustainability"
+      ]
     },
     {
       "doi": "10.1111/gcb.70885",
@@ -267,7 +380,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70885",
       "abstract": "ABSTRACT How climate change impacts pathogens in the natural environment is a critical ecological question. Yet, little is known of how rapid ongoing climate change in Antarctica and Patagonia will influence the fungal pathogens in the barren soils typical of these regions. Here, using DNA metabarcoding and LASSO regression, we identify climatic factors—and notably mean annual air temperature—as the best predictors for the taxonomic richness and relative abundance of fungal pathogens of plants and animals in barren soils sampled from along a 1900‐km transect through sub‐ and Maritime Antarctica and Patagonia. Projected changes to climate under three shared socioeconomic pathway scenarios (SSP1‐2.6, SSP3‐7.0, and SSP5‐8.5) were used to predict how soilborne pathogenic fungal communities will alter by 2071–2100. The SSP3‐7.0 and SSP5‐8.5 scenarios were projected to cause approximate doublings to the richness and abundance of phytopathogenic fungi in southern Maritime Antarctic soils. Weaker effects of these two scenarios were found on phytopathogens elsewhere on the transect and on animal pathogenic fungi. Changes to climate under the SSP1‐2.6 scenario had negligible impacts on both guilds. Edaphic factors explained lower amounts of variance in soil pathogenic fungal diversity and relative abundance than climatic factors. Our findings indicate higher frequencies of fungi causing grey molds, stem necroses, blights, scabs and leaf spots in warmer soils. They foreshadow end‐of‐century increases in the richness and abundance of phytopathogenic fungi inhabiting the barren soils of southern Maritime Antarctica, posing a threat to the region's flora as it colonizes these soils.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Abundance (ecology)",
+        "Transect",
+        "Edaphic",
+        "Climate change",
+        "Biodiversity",
+        "Relative species abundance",
+        "Arid"
+      ]
     },
     {
       "doi": "10.1111/ele.70386",
@@ -285,7 +407,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70386",
       "abstract": "ABSTRACT Global environmental change is driving widespread insect declines, yet underlying mechanisms remain poorly understood, particularly when mediated by trophic interactions. Many studies purportedly test global change stressors on insect herbivores mediated via their host plants (bottom‐up) and natural enemies (top‐down), but we lack a comprehensive understanding of overall effects. Here, we performed a meta‐analysis of 246 papers testing 18 distinct global change stressors impacting insect herbivores via trophic interactions. We found variable, often opposing impacts of global change stressors on herbivore fitness when herbivores and their host plants were exposed, while the only detected significant effect involving natural enemies was a reduced herbivore fitness under warming, potentially due to increased enemy attacks. Notably, generalists exhibited greater vulnerability to global change than specialists, challenging assumptions that dietary generalists are more resilient. Insect herbivores tested in agricultural systems were more prone to be benefited by global change, whereas closed experimental systems amplified negative outcomes. Our results underscore the importance of considering trophic interactions and context‐specific dynamics in predicting ecological responses to environmental change. By integrating bottom‐up and top‐down mechanisms, our study provides a nuanced quantitative understanding of how global change influences insect herbivores, with important implications for biodiversity conservation in the Anthropocene.",
-      "keywords": []
+      "keywords": [
+        "Herbivore",
+        "Trophic level",
+        "Generalist and specialist species",
+        "Global change",
+        "Insect",
+        "Biodiversity",
+        "Trophic cascade",
+        "Plant tolerance to herbivory"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70345",
@@ -303,7 +434,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70345",
       "abstract": "Abstract Many coastal wetlands are threatened by rapid sea level rise (SLR). One approach to determine if wetlands are vulnerable to drowning is to investigate plant traits that are plastic and can respond rapidly to changing environmental conditions. Using 25 years of data on the dominant grass in US southeast and Gulf coast salt marshes, we tested for temporal trends in six traits across eight marsh sites in a region experiencing rapid SLR. We expected increases in some traits (mean and maximum height, biomass, size at flowering and proportion flowering) and decreases in others (stem density) at mid‐marsh locations and no change in plant traits along creekbanks due to the strong relationship between inundation and plant growth, a factor that co‐varies with other traits. Plants in both creekbank and mid‐marsh zones largely followed the expected patterns in trait trends in response to increased inundation due to SLR. However, trends were strong at some sites and weak at others. This site‐level variation obscured temporal changes leading to weak overall evidence for temporal trends in plant traits. When considering traits simultaneously, plants in both zones exhibited weak trade‐offs through time between shoot height and stem density, again with substantial site‐level variation. None of the four abiotic conditions we investigated (elevation, porewater salinity, soil N and soil N:P) were effective predictors of differences in site‐ and zone‐level trends in plant height or biomass. Across years, freshwater input to the estuary was the key abiotic variable predicting interannual variability in mean shoot height for both creekbank and mid‐marsh plants, but responses to sea level varied among sites. Synthesis . Substantial spatial variability in salt marsh plant trait responses to changing abiotic conditions emphasizes the value of taking a landscape perspective when investigating trends in plant traits. At sites where plants are responding to SLR, a suite of traits co‐vary in response to water levels in ways that are consistent with expectations based on the canonical growth–inundation relationship. Sites which are not responding as expected are likely affected more strongly by other abiotic factors known to modulate plant growth.",
-      "keywords": []
+      "keywords": [
+        "Abiotic component",
+        "Marsh",
+        "Wetland",
+        "Salt marsh",
+        "Threatened species",
+        "Estuary",
+        "Trait",
+        "Sea level"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70408",
@@ -346,7 +486,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70886",
       "abstract": "ABSTRACT Gross primary productivity (GPP) is the largest term in the global carbon budget but cannot be directly observed. We present a knowledge‐guided machine learning (KGML) framework that partitions eddy covariance‐measured net ecosystem exchange (NEE) into gross primary production (GPP) and ecosystem respiration (RECO) with partitioned water vapor fluxes and CO 2 flux source areas from 36 U.S. National Ecological Observatory Network (NEON) towers. The KGML is guided by hard physical constraints that enforce mass balance and ‘soft’ theoretical expectations including optimal stomatal response to vapor pressure deficit (VPD) and links between GPP and transpiration (T) through stomatal function. The model achieves strong physical consistency (NEE R 2 = 0.99) while capturing expected ecophysiological relationships including GPP‐T coupling ( R 2 = 0.58) and stomatal responses to light and VPD. Compared to conventional partitioning methods, KGML infers lower GPP and RECO estimates on average, with the largest negative biases occurring at low light levels (0–200 μmol photons m −2 s −1 ). These differences likely reflect a combination of mechanisms including light‐induced respiration suppression consistent with the Kok effect, stomatal‐transpiration coupling constraints, and dynamic allocation between respiration components. The flux differences vary across plant functional types (PFTs), where forested ecosystems (deciduous broadleaf, evergreen needleleaf, and mixed), savannas and grasslands show the largest negative annual GPP deviations (−10% to −18% versus nighttime partitioning), while croplands and open shrublands show moderate negative deviations (−5% to −10%). The lower GPP estimates by PFT are closer to those inferred by Keenan et al. that explicitly considers limitations on RECO from the Kok effect. We discuss implications for our understanding of ecosystem and global carbon cycle processes, as well as ways to further benefit from the full information content of eddy covariance observations by combining physics with knowledge of biological processes.",
-      "keywords": []
+      "keywords": [
+        "Eddy covariance",
+        "Shrubland",
+        "Evergreen",
+        "Carbon cycle",
+        "Ecosystem",
+        "Ecosystem respiration",
+        "Carbon flux",
+        "Soil respiration"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70339",
@@ -15465,7 +15614,7 @@
     {
       "doi": "10.1086/740830",
       "doi_url": "https://doi.org/10.1086/740830",
-      "title": "An illustrative case for muscular fatigue-resistance underlying exaggerated begging in avian brood parasites",
+      "title": "An Illustrative Case for Muscular Fatigue Resistance Underlying Exaggerated Begging in Avian Brood Parasites",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -16080,7 +16229,7 @@
     {
       "doi": "10.1086/740811",
       "doi_url": "https://doi.org/10.1086/740811",
-      "title": "On pachycephalosaurs, trade-offs, and the historical genesis of sociosexual display structures",
+      "title": "On Pachycephalosaurs, Trade-Offs, and the Historical Genesis of Sociosexual Display Structures",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -18339,9 +18488,9 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70688",
-      "doi_url": "https://doi.org/10.1111/gcb.70688",
-      "title": "Congo Basin Carbon Cycle Responses to Global Change",
+      "doi": "10.1111/gcb.70715",
+      "doi_url": "https://doi.org/10.1111/gcb.70715",
+      "title": "Effects of Eutrophication and Warming on Lake Ecosystems",
       "journal_id": "global-change-biology",
       "journal_name": "Global Change Biology",
       "journal_short_name": "Global Change Biology",
@@ -18352,18 +18501,17 @@
         1,
         20
       ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70688",
-      "abstract": "ABSTRACT The Congo Basin and its contiguous forests harbor globally significant carbon stocks, estimated at 65 gigatons of C (GtC) above and belowground. Despite rising temperatures and intensifying droughts, they have remained a carbon sink, albeit weak: 0.26–0.50 GtC yr. −1 carbon uptake since 1980. However, these forests' carbon stocks and fluxes, including gross primary productivity, respiration, net primary productivity, and riverine carbon transport, remain poorly quantified. This limits understanding of the region's role in the global carbon cycle, its vulnerability to environmental change, and its potential as a long‐term carbon sink. We review and quantify Congo Basin and contiguous forest carbon stocks and fluxes and synthesize the current knowledge on how key global change drivers shape the region's carbon cycle. We find limited responses to long‐term precipitation variability, but declining stocks and fluxes in response to long‐term and increasing temperature and drought frequency. Land cover and land use changes, largely driven by small‐scale agriculture, logging, and agro‐industrial expansion, reduce carbon stocks, ecosystem structure and functioning, and animal‐mediated ecosystem services. In contrast, large‐scale savanna biomass burning delivers phosphorus and nitrogen to Congo Basin forests via cross‐equatorial winds, providing additional nutrients and supporting carbon sequestration. In situ studies suggest that CO 2 fertilization has increased intrinsic water‐use efficiency, although its effects may be modulated by climate change, and its impacts on biomass accumulation remain uncertain. Legacy effects from historical land use and climate change likely shaped present‐day vegetation structure, yet their relative influence is unclear. High‐resolution carbon monitoring, improved remote sensing, and strengthened in situ measurement networks are needed to quantify the impacts of these key drivers and their interactions on the Central African carbon cycle. This is needed to inform conservation strategies and advance understanding of the region's future as a carbon sink under global change pressures.",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70715",
+      "abstract": "Lake ecosystems are presently seriously threatened by various global changes. Two of the main stressors are (1) enhanced nutrient input, that is, eutrophication due to a fast-increasing world population demanding higher agricultural production, inevitably leading to higher nutrient loss, and (2) global warming (Birk et al. 2020). Warming and eutrophication interact with major implications for lake ecosystem structure and function (Jeppesen et al. 2010). Different approaches have been used to elucidate the interactions between warming and eutrophication in lakes. One method is space-for-time substitution (SFTS), based on cross-comparisons of data sampled along climate (latitude or altitude) and land-use gradients (e.g., Meerhoff et al. 2012). The strength of SFTS is that the biological assemblages present have had time to evolve and adapt to the climate in which they live. However, a potential weakness is that regional biogeographical constraints are not considered. An alternative is to analyze long-term time-series data from periods facing changes in nutrient loading and climate. Such data are free of biogeographical problems and may provide information on the changes to be expected in the short term. However, they cannot account for changes (e.g., in species assemblages, (micro)evolution and adaptation) that will occur in the longer term, and they are inherently affected by transient/resilient phenomena. While SFTS and time-series studies have yielded important information on warming and eutrophication effects on lake ecosystems, both methods struggle to efficiently disentangle the impacts of warming and nutrient loading and their interactions. Full factorial controlled mesocosms experiments are a way forward—conducted either at a single location or in parallel across latitudes, possibly followed by cross-system meta-analyses (Macaulay et al. 2025). Like several others (for references, see Birk et al. 2020, Macaulay et al. 2025), Marin et al. (2025) conducted a full-factorial, well-replicated (n = 6) mesocosm experiment including ambient conditions as a control, nutrient addition (eutrophication), a +4°C heating (warming), eutrophication as well as warming. However, their study stands out, as they elegantly assessed the response to these two stressors at four different ecological levels: community composition, size structure, trophic architecture (using stable isotopes), and ecosystem functioning (e.g., decomposition in litter bags and GHG concentrations). They predicted that the responses to eutrophication and warming would differ between the four ecological levels as follows: (i) nutrient addition would enhance bottom-up forces by significantly increasing the abundance of primary producers, primarily affecting functioning; (ii) warming would reduce top-down force by excluding large species and reducing predators' abundance, primarily affecting community composition; and (iii) food web structure (size spectrum and trophic architecture) would respond similarly to both treatments, as it integrates changes in both bottom-up and top-down forces. Supporting their first two hypotheses, they found that the responses to the two stressors differed between ecological levels—warming outweighed the effect of nutrient addition at the community level and vice versa at the ecosystem level. As a result, nutrient addition, combined with warming, induced responses across all ecological levels. They also found that the food webs, described by size structure and trophic architecture, represented an intermediate ecological level that responded to both treatments in isolation—changes in ecosystem functioning due to nutrient inputs were associated with changes in food web properties (size structure and trophic architecture) but not necessarily with changes in community composition or diversity. In contrast, changes in community composition and diversity were associated with changes in size structure but not necessarily with ecosystem functioning. This suggests that warming-induced changes at community level were compensated at ecosystem level, with food webs providing a more integrative overview of the full range of responses. Moreover, the authors found a mismatch between community composition and ecosystem functioning: different taxa could lead to similar ecological functions, while similar communities could lead to different ecological functions. For example, heterotrophic processes, such as leaf litter decomposition, were similar in control and warming treatments, despite important differences in invertebrate communities. The study by Marin et al. (2025) further corroborated previous empirical and experimental research findings that primary consumers—but also predators—switch to omnivorous behavior with increasing primary producer abundance (leading to reduced food chain length). It also revealed that warming increases top-down control as seen in other but far from all studies. Contrary to their expectation, however, Marin et al. (2025) found that the proportion of large-bodied individuals was higher under warmer conditions, and the food chain length remained unchanged. This suggests—as stated by the authors—that predator ingestion may have increased sufficiently with warming to meet their metabolic requirements, which otherwise could have led to stronger top-down control on primary consumers, resulting in a flatter size spectrum slope. Top predators in their study were mainly black swimmers (Notonecta sp.). The authors acknowledge that the outcome of their study might have been different if fish were top predators and state that their results are most relevant for fishless ecosystems, such as headwater streams, high-altitude lakes, ponds, or temporary waters. Most lakes have fish, however. Studies have shown substantial changes in fish communities along latitude/temperature gradients, resulting in increasing omnivory (González-Bergonzoni et al. 2012), reduced size (Emmrich et al. 2014), higher abundances of coarse fish, and lower abundances of piscivorous fish in the warm lakes with strong cascading effects on primary consumer biomass (−) and size (−) (Su et al. 2023). In nutrient-enriched systems, this leads to increasing phytoplankton biomass, not only due to the lower grazing on the phytoplankton, but also because omnivorous fish bring nutrients from the sediment to the water phase, thereby releasing bottom-up control (Liu et al. 2018). Higher internal loading of phosphorus at higher temperatures adds to the plankton increase. A comprehensive comparative study of 1653 shallow lakes in temperate Denmark and subtropical Florida provides further support for this change in trophic dynamics (Jeppesen et al. 2020). While it can be rightly argued that latitude studies may give a false picture due to biogeographical differences, studies of island lakes with manipulated fish communities have shown similar results (Vidal et al. 2021). Accordingly, the outcome of Marin et al.'s eutrophication/warming experiment would have been different if fish had been included. A generalization from their study is further hampered somehow by (1) the absence of submerged macrophytes in the low nutrient mesocosms. Such plants are typically abundant in low-nutrient shallow lakes and strongly influence trophic dynamics and ecosystem functioning. Although the authors introduced macrophytes, they unfortunately did not thrive, (2) only a thin gravel layer was added at the bottom, but no natural sediment. This may have affected the outcome, as sediment-water interactions are of key importance in shallow lakes. Ecosystem complexity, for example, presence of plants and natural sediment, may greatly influence the responses of the community to stressors, (3) benthic macroinvertebrates were sampled on artificial substrates. Although this is standard practice, these substrates may not be attractive enough to species with other habitat preferences (e.g., living in the sediment), resulting in a community composition and response that may differ from that of the natural community, and (4) the short duration of the experiment—9 weeks—may have affected the results due to, as acknowledged by the authors, the “transient conditions” of the experiment. Accounting for these weaknesses is encouraged in future studies. In summary, the study by Marin et al. (2025) provides novel insights into how global change affects community composition, size structure, trophic architecture, and ecosystem functioning in fishless ponds/lakes. They found that community composition responded rapidly to a shift in the intensity of top-down forces and that ecosystem functioning responded more rapidly to alterations in bottom-up force intensity. They demonstrated that the food web, representing an intermediate ecological level, integrated changes in the intensity of both forces and might be used as a key framework for elucidating the idiosyncratic relationships between biodiversity and ecosystem functioning. Controlled experimental studies of the role of bottom-up and top-down control forces across different ecological levels under different environmental conditions and ecological settings (e.g., with and without fish, sediment, and macrophytes) and longer experimental duration would enhance our knowledge (and generality) of how these controls mediate overall ecosystem responses to global change. Zhengwen Liu: writing – review and editing. Erik Jeppesen: writing – original draft, writing – review and editing. Haojie Su: writing – review and editing. Haijun Wang: writing – review and editing. This research was supported by the Fundamental and Interdisciplinary Disciplines Breakthrough Plan of the Ministry of Education of China (JYB2025XDXM904), the Yunnan Provincial Department of Science and Technology (202401AS070119; 202449CE340003), NSFC Joint Fund for Regional Innovation and Development (U25A20639), and the Yunnan Provincial Department of Human Resources and Social Security (202505AO120004). E.J. was supported by the Yunnan Provincial Council of Academicians and Experts Workstations (202405AF140006). The authors declare no conflicts of interest. This article is a Invited commentary on Marin et al., https://doi.org/10.1111/gcb.70410. The authors have nothing to report.",
       "keywords": [
-        "Climate change",
-        "Carbon cycle",
-        "Biomass (ecology)",
-        "Primary production",
+        "Eutrophication",
         "Ecosystem",
-        "Carbon sequestration",
-        "Global change",
-        "Carbon fibers",
-        "Global warming"
+        "Mesocosm",
+        "Global warming",
+        "Climate change",
+        "Nutrient",
+        "Threatened species",
+        "Population"
       ]
     },
     {
