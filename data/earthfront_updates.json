@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:46:23.421980+00:00",
+  "generated_at": "2026-05-13T22:49:44.492571+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,96 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-01993-4",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01993-4",
+      "title": "Reshaping river flow",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01993-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01966-7",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01966-7",
+      "title": "Coesite: the indicator of deep-diving continents",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01966-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02630-z",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02630-z",
+      "title": "Understanding and reducing the intention–behaviour gap in climate action",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02630-z",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02639-4",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02639-4",
+      "title": "Increasing atmospheric dryness and storms accelerates biomass turnover in Amazonian forests",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02639-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02631-y",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02631-y",
+      "title": "Future changes in seasonal sea-level variability could reshape coastal ecosystems",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02631-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01828-5",
       "doi_url": "https://doi.org/10.1038/s41893-026-01828-5",
       "title": "Sweet spots for nitrogen reduction in a coastal watershed",
@@ -41,7 +131,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01828-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Watershed",
+        "Sustainability",
+        "Nutrient pollution",
+        "Upstream (networking)",
+        "Urban stream",
+        "Stream restoration",
+        "Identification (biology)",
+        "Nitrogen",
+        "Social sustainability"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01821-y",
@@ -59,7 +159,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01821-y",
       "abstract": "Abstract Silk is an extraordinary natural material whose unique chemistry and hierarchical organization enable performance beyond that of many synthetic counterparts. However, its poor processability arising from the molecular folding patterns of fibroin makes fabricating shapes other than fibres conceptually challenging. Here we report a simple and rapid thermomechanical process to fuse silk fibres into solid materials of arbitrary shapes. This approach avoids silk dissolution and subsequent regeneration – processes typically associated with a substantial environmental footprint due to extensive solvent use. The resulting fused silk exhibits remarkable mechanical properties (flexural strength up to 510 MPa, tensile toughness up to 45 MJ m −3 ), optical transparency in the visible range, pronounced optical activity in the terahertz range with large polarization rotation and processing-dependent biocompatibility and biodegradability. The molecular organization of fused silk emerges from interdiffusion of the naturally present amorphous phase, generating strong intrafibre and interfibre molecular bonds without damaging the original hierarchical organization and the crystalline regions. This direct conversion of natural silk fibres into structural and optically active materials enhances the prospects for scalable production and real-world deployment.",
-      "keywords": []
+      "keywords": [
+        "SILK",
+        "Spider silk",
+        "Fibroin",
+        "Toughness",
+        "Amorphous solid",
+        "Optical transparency",
+        "Biocompatibility",
+        "Birefringence"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01826-7",
@@ -77,7 +186,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01826-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Benchmarking",
+        "Best practice",
+        "Thermoelectric effect",
+        "Thermoelectric materials",
+        "Energy (signal processing)",
+        "Thermoelectric cooling",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01822-x",
@@ -95,7 +212,13 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01822-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "SILK",
+        "Fabrication",
+        "Simple (philosophy)",
+        "Natural materials",
+        "Raw material"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01834-7",
@@ -113,7 +236,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01834-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Bottleneck",
+        "Scalability",
+        "Rainwater harvesting",
+        "Fractal",
+        "Macropore",
+        "Moisture",
+        "Water scarcity",
+        "Microscale chemistry"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01972-9",
@@ -131,7 +263,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01972-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Radiative transfer",
+        "Carbon fibers",
+        "Global change",
+        "Carbon cycle",
+        "Carbon flux",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01980-9",
@@ -149,7 +288,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01980-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Rhizosphere",
+        "Methanogenesis",
+        "Anoxic waters",
+        "Biogeochemical cycle",
+        "Methane",
+        "Anaerobic oxidation of methane",
+        "Biogeochemistry",
+        "Redox"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02637-6",
@@ -167,7 +315,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02637-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Multinational corporation",
+        "Environmental degradation",
+        "Developing country",
+        "Greenhouse gas",
+        "Environmental governance",
+        "Environmental impact assessment",
+        "Production (economics)",
+        "Corporate governance"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02638-5",
@@ -185,7 +342,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02638-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Fecundity",
+        "Climate change",
+        "Range (aeronautics)",
+        "Quercus robur",
+        "Global warming",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02582-4",
@@ -203,7 +367,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02582-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Harm",
+        "Multinational corporation",
+        "Investment (military)",
+        "International investment",
+        "Foreign direct investment",
+        "Climate change",
+        "Liability",
+        "Environmental regulation"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01833-8",
