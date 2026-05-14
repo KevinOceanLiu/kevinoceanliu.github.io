@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T22:49:44.492571+00:00",
+  "generated_at": "2026-05-14T22:41:30.511122+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-01978-3",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01978-3",
+      "title": "Gas hydrate dissolution triggered by subglacial groundwater flushing during deglaciation",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01978-3",
+      "abstract": "Abstract Gas hydrates store large amounts of methane in continental margin sediments and permafrost areas, yet their vulnerability to destabilization under changing climates remains poorly constrained, particularly in polar regions. Here we use International Ocean Discovery Program Expedition 400 and three-dimensional reflection seismic data to identify low-methane, low-salinity zones within the gas hydrate stability zone below the continental shelf offshore Northwest Greenland. Pockmarks basinward of a grounding-zone wedge provide evidence of extensive fluid evacuation in the area immediately seaward of the low-methane, low-salinity zones. The presence of a deep bottom simulating reflector and underlying gas reservoir means that methane is widely available. The absence of methane at the drill sites thus indicates that the gas hydrates have been locally destabilized. We propose that hydraulic gradients during the last glacial cycle established local groundwater flow, flushing the subglacial sediments and releasing methane into the proglacial water column during ice retreat. Our findings highlight a previously overlooked mechanism of gas hydrate dissolution, locally acting much more efficiently than the conventional pathway for methane release by hydrate dissociation. This process has implications for destabilization of polar carbon reservoirs and the potential for abrupt carbon cycle feedbacks under past, present and future climate change.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-01993-4",
       "doi_url": "https://doi.org/10.1038/s41561-026-01993-4",
       "title": "Reshaping river flow",
@@ -41,7 +59,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01993-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hydrology (agriculture)",
+        "Climate change",
+        "Streamflow",
+        "Sediment",
+        "River management",
+        "Water resources",
+        "Drainage basin",
+        "Water flow"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01966-7",
@@ -59,7 +86,13 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01966-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Coesite",
+        "Subduction",
+        "Metamorphic rock",
+        "Lithosphere",
+        "Plate tectonics"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02630-z",
@@ -77,7 +110,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02630-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Intrapersonal communication",
+        "Toolbox",
+        "Psychological intervention",
+        "Action (physics)",
+        "Generative grammar",
+        "Intervention (counseling)",
+        "Climate change",
+        "Closing (real estate)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02639-4",
@@ -95,7 +137,17 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02639-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biomass (ecology)",
+        "Carbon sink",
+        "Amazon rainforest",
+        "Climate change",
+        "Sink (geography)",
+        "Storm",
+        "Precipitation",
+        "Dryness",
+        "Tropical cyclone"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02631-y",
@@ -113,7 +165,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02631-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Intertidal zone",
+        "Ecosystem",
+        "Range (aeronautics)",
+        "Seasonality",
+        "Climate change",
+        "Psychological resilience",
+        "Baseline (sea)",
+        "Annual cycle"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01828-5",
