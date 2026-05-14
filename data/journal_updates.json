@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T22:38:35.375293+00:00",
+  "generated_at": "2026-05-14T22:19:08.364152+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,180 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.isprsjprs.2026.05.003",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.003",
+      "title": "Towards individual agricultural parcel vectorization from VHR imagery: A coarse-to-fine and multi-task learning method",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002443",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.060",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.060",
+      "title": "TAIS-Net: Time adaptive implicit sampling diffusion model for arbitrary-scale UAV video super-resolution",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002376",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.048",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.048",
+      "title": "Multitemporal latent dynamical framework for hyperspectral images unmixing",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002297",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.059",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.059",
+      "title": "Combined change detection analysis of the impacts resulting from heavy rainfall events in mountainous areas",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002418",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.009",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.009",
+      "title": "A physics-guided and scene-adaptive water index for consistent surface water mapping across regions and seasons",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002509",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115469",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115469",
+      "title": "A unified deep learning framework coupling InSAR-derived spatiotemporal kinematic features for robust landslide displacement prediction",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002397",
+      "abstract": "",
+      "keywords": [
+        "Kinematics",
+        "Displacement (psychology)",
+        "Deep learning",
+        "Coupling (piping)",
+        "Landslide",
+        "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1080/24694452.2026.2659903",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2659903",
+      "title": "Geodemographic Classification of Interactivity: Proof of Concept for Greater London",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659903",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115466",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115466",
+      "title": "Mowing detection intercomparison exercise (MODCiX) – Evaluation of grassland mowing detection algorithms across Europe",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002361",
+      "abstract": "",
+      "keywords": [
+        "Grassland",
+        "Grassland ecosystem",
+        "Vegetation (pathology)",
+        "Change detection",
+        "Satellite"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115480",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115480",
+      "title": "Mapping winter cover crops using remote sensing of crop phenology",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002506",
+      "abstract": "",
+      "keywords": [
+        "Phenology",
+        "Crop",
+        "Cover (algebra)",
+        "Normalized Difference Vegetation Index",
+        "Cover crop",
+        "Remote sensing application"
+      ]
+    },
+    {
       "doi": "10.1080/13658816.2026.2669379",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2669379",
       "title": "Economic and demographic simulations in urban agglomerations using a human mobility-enhanced cellular automata (HME-CA) model",
@@ -41,7 +215,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2669379",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Cellular automaton",
+        "Urban agglomeration",
+        "Intersection (aeronautics)",
+        "Field (mathematics)",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2659908",
@@ -58,8 +238,22 @@
         13
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659908",
-      "abstract": "",
-      "keywords": []
+      "abstract": "<title>Abstract</title> Urban agglomeration, the trend and main carrier of future urbanization in the world, plays an important role in integrating regional resources and promoting economic growth. In particular, in some countries, urban agglomeration has become a policy tool for high-quality urbanization. However, does urban agglomeration play an equally positive role in reducing regional inequality? Based on theoretical analysis and a quasi-natural experiment with the China’s pilot initiative of national urban agglomeration, we confirm that urban agglomeration policy has the reverse effect of exacerbating intra-city inequality and alleviating inter-city inequality in the early stage, with superposition results not significant on overall regional inequality. However, with the passage of policy exposure, the three types of regional inequality indices show inverted U-shaped changes, but the turning point times vary greatly. Further research finds that government intervention for local competition has a time-differentiated moderating effect on the regional inequality effect of urban agglomeration policy. Finally, we provide evidence-based policy recommendations aimed at maximizing policy benefits of urban agglomeration.",
+      "keywords": [
+        "Economies of agglomeration",
+        "Urbanization",
+        "Inequality",
+        "Urban agglomeration",
+        "Economic geography",
+        "Economics",
+        "Regional policy",
+        "Spatial inequality",
+        "Competition (biology)",
+        "Economic interventionism",
+        "Government (linguistics)",
+        "Economic growth",
+        "Political science"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2659906",
@@ -77,7 +271,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659906",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Immigration",
+        "Context (archaeology)",
+        "Population",
+        "Politics",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115481",
@@ -144,7 +344,12 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2667807",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Drone",
+        "Deep learning",
+        "Visibility",
+        "Feature (linguistics)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.050",
@@ -2823,7 +3028,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001929",
-      "abstract": "1. Overview This repository contains FGI-EMIT, a multispectral high-density airborne laser scanning benchmark dataset for individual tree segmentation, presented in the paper Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset (Ruoppa et al., 2025). FGI-EMIT consists of 19 boreal forest plots spanning a wide range of forest types and also includes built environment, extending its applicability to urban forests. Each tree instance across all plots has been manually annotated in 3D, resulting in a total of 1,561 trees with high-quality instance annotations, with a particular focus on small understory trees that are notoriously challenging to segment. All point clouds in the dataset are multispectral and include reflectance information captured simultaneously at three distinct wavelengths. The multispectral point clouds were originally acquired in the Espoonlahti district of Espoo, Finland (60.1462°N, 24.6587°E) on July 20 and 28, 2023, using the Finnish Geospatial Research Institute’s (FGI’s) in-house developed laser scanning system, HeliALS-TW. The system includes three separate RIEGL LiDAR scanners, VUX-1HA (1,550 nm), miniVUX-1DL (905 nm), and VQ-840-G (532 nm), referred to as scanners 1, 2, and 3, respectively. For a detailed description of the FGI-EMIT dataset, including data acquisition, preprocessing, and an extensive benchmark of popular individual tree segmentation (ITS) methods, covering both conventional unsupervised algorithms and deep learning (DL) approaches, please refer to the associated paper. 2. Data usage FGI-EMIT is a machine learning (ML) and deep learning-ready dataset for benchmarking individual tree segmentation methods. This section provides a brief overview of how the data can be used for benchmarking purposes. To ensure comparability between studies, we encourage adhering to the standardized benchmarking procedure presented in Appendix A.4 of the associated paper when evaluating ITS methods using the FGI-EMIT dataset. 2.1 Data split The 19 plots in the FGI-EMIT dataset have been divided into training and test sets, to be used as follows: Training set: intended for method development. This data can be used, for example, to train ML- and DL-based individual tree segmentation models and/or to optimize hyperparameters of unsupervised segmentation algorithms. Test set: intended only for evaluating the accuracy of individual tree segmentation methods. To prevent data leakage, the test set must not be used at any stage of model training or hyperparameter optimization. 70% of the 19 plots were assigned to the training set, with the remaining 30%, that is, 6 plots, assigned to the test set. Due to substantial variation in plot complexity, the test set was selected using stratified random sampling, in which the plots were divided into three groups based on forest density. In this repository, the FGI-EMIT data are provided pre-divided into training and test directories. The specific data split is also listed in Table 1. While FGI-EMIT does not include a designated validation set, a portion of the training data can be set aside for purposes such as model selection, hyperparameter tuning, and overfitting prevention. The proportion of training data allocated to validation can be determined by the user to suit the particular use case. For consistency, we recommend using the same three-plot validation set as in the benchmark (plots with IDs 1019, 1022, and 1031) in applications where validation is required. Table 1: Training-test split of the FGI-EMIT dataset. Set Plot IDs Number of trees Training 1001, 1003, 1005, 1009, 1010, 1013, 1019, 1020, 1022, 1023, 1024, 1027, 1031 1098 Test 1002, 1004, 1008, 1012, 1018, 1028 463 2.2 Accuracy computation Individual tree segmentation performance on FGI-EMIT should be assessed using common instance segmentation metrics, specifically Recall, Precision, F1-score, Coverage (Cov), and Average Precision (AP). Additionally, if crown category information is available, category-level recall can be computed to assess the effects of relative crown positioning on method accuracy. A Python script for accuracy computation is provided in the accuracy directory of this repository. The script matches predicted instances to ground truth based on intersection over union (IoU) and computes the required metrics, as described in Section 3.4.2 of the associated paper. For consistency, we strongly recommend using the official accuracy computation script when evaluating ITS methods on FGI-EMIT. Detailed documentation on how to configure the script is also provided (DOCS.md). The script supports point clouds in the las, laz and ply file formats. By default, it is configured for the annotation format used in FGI-EMIT, but it can be easily adapted to work with other formats, such as that of the FOR-InstanceV2 dataset. The code is also available in the FGI-EMIT GitHub repository. 3. Data description The FGI-EMIT dataset contains a total of 19 cylindrical forest plots of varying sizes, representing a wide range of boreal forest environments, including coniferous-dominated, deciduous-dominated, and mixed forests, as well as planted trees. In addition, some plots contain man-made structures, such as buildings and vehicles. The multispectral LiDAR point clouds for the 19 plots are provided in the las file format. Each point cloud includes manually generated point-level instance and semantic ground truth annotations, as well as several non-standard attributes. Furthermore, all instances in the dataset have been assigned a crown category that describes their size and position relative to neighboring trees. For a complete description of the dataset, please refer to Section 3 and Appendix A of the associated paper. 3.1 Ground truth labels For each of the 19 plots in the FGI-EMIT dataset, individual trees have been manually annotated at the point level. All sections of the point cloud that could be definitively identified as trees and were at least 3 meters in height have been segmented into individual instances. For partial trees along the plot perimeter, only those for which at least approximately 50% of the tree appeared to lie within the plot boundaries were segmented. Points belonging to the same tree have been assigned a common positive integer ID, while non-tree points are assigned the value 0. The tree instance IDs are stored in the field tree_index and are unique at the plot level. In addition to instance annotations, FGI-EMIT includes rudimentary semantic labels for common categories present in the data. In particular, in addition to trees, man-made objects have each been assigned their own semantic classes. Furthermore, partial trees along plot perimeters that were not given instance labels have been assigned to a separate class. The semantic labels are stored in the classification field of the point clouds. The primary purpose of the semantic annotations is to facilitate the filtering of object categories that could hinder the performance of ITS methods, which is particularly relevant for unsupervised approaches. The definitions of each semantic category are listed in Table 2. In the ITS benchmark presented in the associated paper, points in class 5 were always removed from the data. For unsupervised algorithms, which are not inherently designed to handle data from non-forest environments, points in classes 2–4 were also removed. In contrast, since DL models can learn to classify built environments as background, points in classes 2–4 were remapped to class 0. Table 2: Descriptions of the semantic categories available in the FGI-EMIT dataset. Name ID Description Other 0 Points not belonging to any other category. A majority of points in this class are either ground or understory vegetation. Tree 1 Points that are part of any tree instance. Building 2 Buildings and similar smaller man-made structures, such as sheds. This also includes structures attached to buildings, e.g. fences. Vehicle 3 Motorized vehicles, such as cars, trucks and buses. Pole 4 Vertical pole-like structures, such as lamp-posts, traffic signs and utility poles. Out 5 Points belonging to trees that reside mostly outside the plot boundaries and were therefore not assigned to any tree instance. 3.2 Tree locations, heights, and crown categories An $xy$-location and height were computed for each tree instance based on the point cloud data. The tree location was determined by computing the centroid of a convex hull fitted to the $xy$-plane projection of the crown points. The tree height was then computed as follows: $h_{\\text{tree}}=z_{\\max,\\text{tree}}-\\min\\left\\{z_{\\min,\\text{ground}},z_{\\min,\\text{tree}}\\right\\},$ where $z_{\\max,\\text{tree}}$ is the maximum $z$-coordinate in the tree instance, $z_{\\min,\\text{ground}}$ is the minimum $z$-coordinate of the ground directly below the instance, and $z_{\\min,\\text{tree}}$ is the minimum $z$-coordinate within the instance. To facilitate the analysis of how relative crown positioning affects the accuracy of individual tree segmentation, all tree instances were classified into four distinct crown categories based on height differences and distances relative to neighboring trees. The crown category definitions and corresponding tree counts in the FGI-EMIT dataset are listed in Table 3. The categories were determined using an automatic algorithm based on the tree locations and heights computed from the instance point clouds. Tree locations, heights, and crown categories for each plot, along with plot-level tree counts and densities, are provided in a machine-readable format in the file plot_data.yaml. The information in the file is grouped by plot ID and tree ID. The file format is compatible with the accuracy computation script, enabling crown-category-level recall to be computed. Table 3: Specifications of the four tree crown categories. Two trees we",
+      "abstract": "1. Overview This repository contains FGI-EMIT, a multispectral high-density airborne laser scanning benchmark dataset for individual tree segmentation, presented in the paper Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset (Ruoppa et al., 2026). FGI-EMIT consists of 19 boreal forest plots spanning a wide range of forest types and also includes built environment, extending its applicability to urban forests. Each tree instance across all plots has been manually annotated in 3D, resulting in a total of 1,561 trees with high-quality instance annotations, with a particular focus on small understory trees that are notoriously challenging to segment. All point clouds in the dataset are multispectral and include reflectance information captured simultaneously at three distinct wavelengths. The multispectral point clouds were originally acquired in the Espoonlahti district of Espoo, Finland (60.1462°N, 24.6587°E) on July 20 and 28, 2023, using the Finnish Geospatial Research Institute’s (FGI’s) in-house developed laser scanning system, HeliALS-TW. The system includes three separate RIEGL LiDAR scanners, VUX-1HA (1,550 nm), miniVUX-1DL (905 nm), and VQ-840-G (532 nm), referred to as scanners 1, 2, and 3, respectively. For a detailed description of the FGI-EMIT dataset, including data acquisition, preprocessing, and an extensive benchmark of popular individual tree segmentation (ITS) methods, covering both conventional unsupervised algorithms and deep learning (DL) approaches, please refer to the associated paper. 2. Data usage FGI-EMIT is a machine learning (ML) and deep learning-ready dataset for benchmarking individual tree segmentation methods. This section provides a brief overview of how the data can be used for benchmarking purposes. To ensure comparability between studies, we encourage adhering to the standardized benchmarking procedure presented in Appendix A.4 of the associated paper when evaluating ITS methods using the FGI-EMIT dataset. 2.1 Data split The 19 plots in the FGI-EMIT dataset have been divided into training and test sets, to be used as follows: Training set: intended for method development. This data can be used, for example, to train ML- and DL-based individual tree segmentation models and/or to optimize hyperparameters of unsupervised segmentation algorithms. Test set: intended only for evaluating the accuracy of individual tree segmentation methods. To prevent data leakage, the test set must not be used at any stage of model training or hyperparameter optimization. 70% of the 19 plots were assigned to the training set, with the remaining 30%, that is, 6 plots, assigned to the test set. Due to substantial variation in plot complexity, the test set was selected using stratified random sampling, in which the plots were divided into three groups based on forest density. In this repository, the FGI-EMIT data are provided pre-divided into training and test directories. The specific data split is also listed in Table 1. While FGI-EMIT does not include a designated validation set, a portion of the training data can be set aside for purposes such as model selection, hyperparameter tuning, and overfitting prevention. The proportion of training data allocated to validation can be determined by the user to suit the particular use case. For consistency, we recommend using the same three-plot validation set as in the benchmark (plots with IDs 1019, 1022, and 1031) in applications where validation is required. Table 1: Training-test split of the FGI-EMIT dataset. Set Plot IDs Number of trees Training 1001, 1003, 1005, 1009, 1010, 1013, 1019, 1020, 1022, 1023, 1024, 1027, 1031 1098 Test 1002, 1004, 1008, 1012, 1018, 1028 463 2.2 Accuracy computation Individual tree segmentation performance on FGI-EMIT should be assessed using common instance segmentation metrics, specifically Recall, Precision, F1-score, Coverage (Cov), and Average Precision (AP). Additionally, if crown category information is available, category-level recall can be computed to assess the effects of relative crown positioning on method accuracy. A Python script for accuracy computation is provided in the accuracy directory of this repository. The script matches predicted instances to ground truth based on intersection over union (IoU) and computes the required metrics, as described in Section 3.4.2 of the associated paper. For consistency, we strongly recommend using the official accuracy computation script when evaluating ITS methods on FGI-EMIT. Detailed documentation on how to configure the script is also provided (DOCS.md). The script supports point clouds in the las, laz and ply file formats. By default, it is configured for the annotation format used in FGI-EMIT, but it can be easily adapted to work with other formats, such as that of the FOR-InstanceV2 dataset. The code is also available in the FGI-EMIT GitHub repository. 3. Data description The FGI-EMIT dataset contains a total of 19 cylindrical forest plots of varying sizes, representing a wide range of boreal forest environments, including coniferous-dominated, deciduous-dominated, and mixed forests, as well as planted trees. In addition, some plots contain man-made structures, such as buildings and vehicles. The multispectral LiDAR point clouds for the 19 plots are provided in the las file format. Each point cloud includes manually generated point-level instance and semantic ground truth annotations, as well as several non-standard attributes. Furthermore, all instances in the dataset have been assigned a crown category that describes their size and position relative to neighboring trees. For a complete description of the dataset, please refer to Section 3 and Appendix A of the associated paper. 3.1 Ground truth labels For each of the 19 plots in the FGI-EMIT dataset, individual trees have been manually annotated at the point level. All sections of the point cloud that could be definitively identified as trees and were at least 3 meters in height have been segmented into individual instances. For partial trees along the plot perimeter, only those for which at least approximately 50% of the tree appeared to lie within the plot boundaries were segmented. Points belonging to the same tree have been assigned a common positive integer ID, while non-tree points are assigned the value 0. The tree instance IDs are stored in the field tree_index and are unique at the plot level. In addition to instance annotations, FGI-EMIT includes rudimentary semantic labels for common categories present in the data. In particular, in addition to trees, man-made objects have each been assigned their own semantic classes. Furthermore, partial trees along plot perimeters that were not given instance labels have been assigned to a separate class. The semantic labels are stored in the classification field of the point clouds. The primary purpose of the semantic annotations is to facilitate the filtering of object categories that could hinder the performance of ITS methods, which is particularly relevant for unsupervised approaches. The definitions of each semantic category are listed in Table 2. In the ITS benchmark presented in the associated paper, points in class 5 were always removed from the data. For unsupervised algorithms, which are not inherently designed to handle data from non-forest environments, points in classes 2–4 were also removed. In contrast, since DL models can learn to classify built environments as background, points in classes 2–4 were remapped to class 0. Table 2: Descriptions of the semantic categories available in the FGI-EMIT dataset. Name ID Description Other 0 Points not belonging to any other category. A majority of points in this class are either ground or understory vegetation. Tree 1 Points that are part of any tree instance. Building 2 Buildings and similar smaller man-made structures, such as sheds. This also includes structures attached to buildings, e.g. fences. Vehicle 3 Motorized vehicles, such as cars, trucks and buses. Pole 4 Vertical pole-like structures, such as lamp-posts, traffic signs and utility poles. Out 5 Points belonging to trees that reside mostly outside the plot boundaries and were therefore not assigned to any tree instance. 3.2 Tree locations, heights, and crown categories An $xy$-location and height were computed for each tree instance based on the point cloud data. The tree location was determined by computing the centroid of a convex hull fitted to the $xy$-plane projection of the crown points. The tree height was then computed as follows: $h_{\\text{tree}}=z_{\\max,\\text{tree}}-\\min\\left\\{z_{\\min,\\text{ground}},z_{\\min,\\text{tree}}\\right\\},$ where $z_{\\max,\\text{tree}}$ is the maximum $z$-coordinate in the tree instance, $z_{\\min,\\text{ground}}$ is the minimum $z$-coordinate of the ground directly below the instance, and $z_{\\min,\\text{tree}}$ is the minimum $z$-coordinate within the instance. To facilitate the analysis of how relative crown positioning affects the accuracy of individual tree segmentation, all tree instances were classified into four distinct crown categories based on height differences and distances relative to neighboring trees. The crown category definitions and corresponding tree counts in the FGI-EMIT dataset are listed in Table 3. The categories were determined using an automatic algorithm based on the tree locations and heights computed from the instance point clouds. Tree locations, heights, and crown categories for each plot, along with plot-level tree counts and densities, are provided in a machine-readable format in the file plot_data.yaml. The information in the file is grouped by plot ID and tree ID. The file format is compatible with the accuracy computation script, enabling crown-category-level recall to be computed. Table 3: Specifications of the four tree crown categories. Two trees we",
       "keywords": [
         "Multispectral image",
         "Lidar",
@@ -9192,29 +9397,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115278",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115278",
-      "title": "Scattering-feature-driven change matrix for crop growth monitoring based on the co-polar complex coherence",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-04",
-      "published_date_display": "2026-02-04",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000489",
-      "abstract": "",
-      "keywords": [
-        "Coherence (philosophical gambling strategy)",
-        "Change detection",
-        "Matrix (chemical analysis)",
-        "Crop",
-        "Normalized Difference Vegetation Index"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115269",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115269",
       "title": "Cognition-inspired multimodal attention fusion of close-range laser scanning data for globally representative tree species classification",
@@ -10541,29 +10723,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115258",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115258",
-      "title": "Amplified deviation flood index (ADFI) for fast non-prior flood detection",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-19",
-      "published_date_display": "2026-01-19",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000283",
-      "abstract": "",
-      "keywords": [
-        "Flood myth",
-        "Index (typography)",
-        "Standard deviation",
-        "Change detection",
-        "Radiometry"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.020",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.020",
       "title": "WEGLA-NormGAN: wavelet-enhanced Cycle-GAN with global-local attention for radiometric normalization of remote sensing images",
@@ -11219,33 +11378,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.016",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.016",
-      "title": "Complex convolutional sparse coding InSAR phase filtering Incorporating directional gradients and second-order difference regularization",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-10",
-      "published_date_display": "2026-01-10",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625005003",
-      "abstract": "",
-      "keywords": [
-        "Interferometric synthetic aperture radar",
-        "Regularization (linguistics)",
-        "Synthetic aperture radar",
-        "Speckle pattern",
-        "Neural coding",
-        "Coding (social sciences)",
-        "Residual",
-        "Laplace operator",
-        "Speckle noise"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115197",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115197",
       "title": "Estimating the upper depth of subsurface water on the Greenland Ice Sheet using multi-frequency passive microwave remote sensing, radiative transfer modeling, and machine learning",
@@ -11696,30 +11828,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115225",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115225",
-      "title": "An extended vector inclination method for inferring detailed slip surfaces beneath landslides from SAR and optical satellite remote sensing image",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-05",
-      "published_date_display": "2026-01-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006297",
-      "abstract": "",
-      "keywords": [
-        "Landslide",
-        "Slip (aerodynamics)",
-        "Deformation (meteorology)",
-        "Inversion (geology)",
-        "Deformation monitoring",
-        "Stability (learning theory)"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2025.2609806",
       "doi_url": "https://doi.org/10.1080/13658816.2025.2609806",
       "title": "GeoAI collapse? Ethical implications of synthetic geospatial data use",
@@ -11818,32 +11926,6 @@
         "Feature (linguistics)",
         "Image fusion",
         "Pattern recognition (psychology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.006",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.006",
-      "title": "AEOS: Active Environment-aware Optimal Scanning Control for UAV LiDAR-Inertial Odometry in Complex Scenes",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-05",
-      "published_date_display": "2026-01-05",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000067",
-      "abstract": "",
-      "keywords": [
-        "Odometry",
-        "Lidar",
-        "Observability",
-        "Payload (computing)",
-        "Scalability",
-        "Point cloud",
-        "Visual odometry",
-        "Active perception"
       ]
     },
     {
@@ -12060,33 +12142,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.009",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.009",
-      "title": "Two-stage offline knowledge distillation for onboard registration of multispectral satellite images",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-26",
-      "published_date_display": "2025-12-26",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004939",
-      "abstract": "Multi-band optical sensors onboard modern Earth observation satellites capture complementary spectral responses across varying spatial and spectral resolutions. To effectively fuse this information for downstream applications, accurate band co-registration is critical. However, for real-time processing, such registration must be performed onboard, where sensor distortions, platform-induced motion, and spectral disparities introduce significant challenges. Traditional feature matching algorithms struggle to cope with these variations or are often too computationally intensive for the constrained hardware typically found on small satellites. As a result, real-time onboard multimodal fusion has remained largely impractical in operational settings. With the emergence of next-generation satellites equipped with AI-enabled onboard processing, such as Australia’s Kanyini mission, there is now an opportunity to overcome these limitations. In this work, we introduce a deep learning-based, lightweight band registration framework specifically designed for real-time onboard deployment. Our approach features a band-independent teacher network that jointly leverages adversarial learning and supervised regression to estimate affine registration parameters across spectral bands. To meet hardware constraints, we employ a two-stage knowledge distillation strategy that produces a compact yet accurate student model. Experimental results demonstrate that our method delivers robust and efficient registration performance, enabling real-time spectral alignment and significantly enhancing the potential for onboard multimodal data fusion in Earth observation missions.",
-      "keywords": [
-        "Multispectral image",
-        "Fuse (electrical)",
-        "Satellite",
-        "Spectral bands",
-        "Affine transformation",
-        "Matching (statistics)",
-        "Sensor fusion",
-        "Deep learning",
-        "Spectral signature"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115203",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115203",
       "title": "Emulation-based self-supervised SIF retrieval in the O2-A absorption band with HyPlant",
@@ -12135,34 +12190,6 @@
         "Hydrology (agriculture)",
         "Photosynthesis",
         "Soil water"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.006",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.006",
-      "title": "SAR-NanoShipNet: A scale-adaptive network for robust small ship detection in SAR imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-19",
-      "published_date_display": "2025-12-19",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004903",
-      "abstract": "",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Convolution (computer science)",
-        "Speckle noise",
-        "Object detection",
-        "Minimum bounding box",
-        "Feature (linguistics)",
-        "Distortion (music)",
-        "Channel (broadcasting)",
-        "Feature extraction",
-        "Noise (video)"
       ]
     },
     {
@@ -12396,29 +12423,6 @@
         "Sensor fusion",
         "Temporal resolution",
         "Satellite image"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.003",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.003",
-      "title": "PACE (Plankton, Aerosol, Cloud, ocean Ecosystem): Preliminary analysis of the consistency of remote sensing reflectance product over aquatic systems",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-10",
-      "published_date_display": "2025-12-10",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004873",
-      "abstract": "",
-      "keywords": [
-        "Consistency (knowledge bases)",
-        "Reflectivity",
-        "Product (mathematics)",
-        "Pace",
-        "Aquatic ecosystem"
       ]
     },
     {
