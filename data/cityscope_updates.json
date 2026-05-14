@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:21:42.906547+00:00",
+  "generated_at": "2026-05-14T23:13:10.786362+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -30,6 +30,108 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.landurbplan.2026.105691",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105691",
+      "title": "How Recognitional Justice (Re)Shapes Access and Participation in Urban Green Space Governance",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001155",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102454",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102454",
+      "title": "Modeling adolescents’ perception of cycling safety: A new approach using graph neural networks and street view imagery",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000566",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107144",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107144",
+      "title": "Rethinking people-place bonds: Insights from a multi-city study on place attachment and place making for inclusive urban planning",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003768",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107206",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107206",
+      "title": "Modelling spatial trade-offs in urban sub-centre planning: A prospective scenario framework linking land value capture and residential welfare",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004385",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107212",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107212",
+      "title": "Decoding mixed-use development in urban planning regulatory frameworks: A cross-national semantic analysis",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004440",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107208",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107208",
+      "title": "Carrots for sticks? The role of incentives for tree retention during housing intensification",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004403",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s44284-026-00436-w",
       "doi_url": "https://doi.org/10.1038/s44284-026-00436-w",
@@ -71,7 +173,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000554",
-      "abstract": "",
+      "abstract": "Cities and municipalities often struggle to scale building-level energy and carbon assessments to the urban scale, due to incomplete data, inconsistent input quality, and a lack of benchmarks. This study presents Buildings.city, an open-source Urban Building Energy Modeling (UBEM) framework and reproducible toolkit for city-scale carbon emissions accounting and mapping. The platform integrates globally available multi-source geospatial data, machine-learning-based archetype inference, and archetype-specific energy simulations (along with the associated templates) to generate detailed building-level carbon maps. To demonstrate the framework's adaptability to diverse urban contexts, the GitHub repository provides a baseline example of Zurich, and the entire toolkit was validated through a city-scale proof of concept in Singapore ( Buildings.sg ). In the full deployment, a predictive model achieved >75% accuracy in inferring missing building archetypes, addressing data gaps in OpenStreetMap (OSM). We also established a set of open-source building energy modeling packages and simulation templates for 23 archetypes, along with a web platform that visualizes simulated carbon emissions across approximately 120,000 buildings to support interactive analysis and policy decision-making. Ultimately, through a modular architecture that integrates diverse datasets, the Buildings.city toolkit provides a transparent, adaptable baseline for universal application. • Developed Buildings.city, a scalable open-source UBEM and carbon mapping toolkit. • Validated via Singapore's first national UBEM templates ( Buildings.sg ). • Machine learning infers missing building archetypes with >75% accuracy. • Jointly models operational and probabilistic embodied carbon for ∼120,000 buildings. • Modular architecture and open templates enable rapid transfer to other cities.",
       "keywords": [
         "Archetype",
         "Scalability",
@@ -5671,27 +5773,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106972",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106972",
-      "title": "How formal shapes informal: The case of informal businesses in mixed-use streets",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-23",
-      "published_date_display": "2026-03-23",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002040",
-      "abstract": "In the Global South, informal businesses play a significant role in urban economies; yet their spatial interdependence with the formal sector remains underexplored. This study investigates how the formal commercial environment influences the agglomeration of informal vendors in mixed-use neighbourhoods of Delhi, India. Using binary logistic regression, it examines micro-scale drivers such as commercial performance, business typology, clustering, spatial mixedness, connectivity, and accessibility on mixed-use streets and their effect on occurrence of informal vending. Model results reveal informal vendors strategically align with formal businesses based on their higher sales and customer footfall. Retail establishments, are more likely to attract informal activity compared to services, emphasizing complementary demand. Similarly clustering of formal trades in these streets acts as a catalyst for informal trade agglomeration. Spatially, increased connectivity and accessibility at local level also elevate the likelihood of informal activity occurrence. These findings challenge perceptions of informality as incidental and instead demonstrate its adaptive symbiosis with formal commercial environment. The empirical findings advocate inclusive planning in the cities of Global South, by recognizing informal-formal interdependencies in context to resilient urban economies. • The research examines how the formal commercial environment shapes informal vendor locations on mixed-use streets. • Vendors agglomerate near high-sales, high-footfall retail stores, showing commercial success drives informal clustering. • Clustering of similar businesses and non-resident owners attracts informal activity, driven by socio-economic dynamics. • Connectivity and accessibility increase informal agglomeration, highlighting walkability and visibility in location choices.",
-      "keywords": [
-        "Key (lock)",
-        "Work (physics)",
-        "Informal sector"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261424774",
       "doi_url": "https://doi.org/10.1177/00420980261424774",
       "title": "Using nighttime light data to assess the impact of AI pilot cities on government overtime in China",
@@ -5897,34 +5978,6 @@
         "City centre",
         "Research centre",
         "City region"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107011",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107011",
-      "title": "Integrating AI and spatial analysis for resilient and inclusive 15-minute cities: A case study of Gdańsk",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-21",
-      "published_date_display": "2026-03-21",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600243X",
-      "abstract": "This study explores the application of artificial intelligence (AI) and geospatial tools to design 15-min cities, focusing on proximity, public space quality, environmental resilience, and inclusion. Using the post-industrial Young City district in Gdańsk, Poland, as a case study, the research integrates semantic segmentation (DeepLabv3) and AI-driven object detection for evaluating public space quality, flood simulation modeling (InVEST UFRM) for climate resilience, and network analysis using adjusted walking speeds (2.95 km/h) to capture the needs of vulnerable populations. By identifying “hotspots” with compounded deficits in access to urban amenities, public space quality, and resilience, the study provides a replicable, data-informed tool for guiding equitable urban transformation. The findings reveal critical spatial and environmental disparities, particularly in former fence-line neighborhoods in Gdańsk, which remain underserved despite ongoing urban redevelopment. The proposed framework offers practical insights for mainstreaming inclusive adaptation strategies into planning policies and contributes to the evolving discourse on operationalizing the 15-min city (FMC) concept in complex contexts. • Introduces an enhanced 15-minute city (FMC) framework combining spatial quality, environmental resilience, and inclusivity. • Applies advanced geospatial tools, including DeepLabv3 (segmentation) and InVEST flood modeling, for scalable urban analysis. • Reveals hotspots where accessibility, livability, and climate resilience deficits overlap, mainly in former fence-line zones. • Demonstrates a replicable methodology that bridges proximity metrics with public space quality and climate adaptation. • Supports inclusive urban transformation by noting the need for equitable investment in historically marginalized areas.",
-      "keywords": [
-        "Geospatial analysis",
-        "Mainstreaming",
-        "Operationalization",
-        "Urban planning",
-        "Public space",
-        "Flood myth",
-        "Mainstream",
-        "Spatial planning",
-        "Urban resilience",
-        "Adaptation (eye)"
       ]
     },
     {
@@ -7462,25 +7515,6 @@
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.106935",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106935",
-      "title": "Montagne in Movimento: Cultural entrepreneurship as a catalyst for neo-population in Gagliano Aterno, Italy",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-13",
-      "published_date_display": "2026-03-13",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001678",
-      "abstract": "This paper examines culture-led peripheral development through the case of Montagne in Movimento (MiM), an innovative project in Gagliano Aterno, a small mountain village in Central Italy. Within the context of growing urban-rural interdependencies and the global post-pandemic spatial reorganization, this research contributes to emerging theories of peripheral revitalization by identifying transferable mechanisms that catalyze sustainable neopopulation processes. Employing a participatory action research approach combined with the System-Wide Cultural Districts framework, we analyze how strategic cultural interventions have catalyzed sustainable neopopulation processes in this demographically declining rural area. Through initiatives including the NEO residency program, participatory governance innovations, and cultural infrastructure development, MiM has transformed socioeconomic dynamics, increasing population by approximately 10% and establishing seven new enterprises within three years. Our findings challenge conventional center-periphery development models by demonstrating how peripheral areas can function as laboratories for sustainable innovations with implications for territorial rebalancing at multiple scales. The project's distinctive methodology emphasizes deep contextual engagement, symbolic narrative transformation, and capability building over conventional infrastructure-focused approaches. This case illustrates how post-pandemic competitive advantages of peripheral areas, including affordability, environmental quality, social connection, and attention quality, can be strategically deployed through cultural activation. The study provides relevant insights for policy development addressing urban-rural relationships in diverse contexts, offering transferable principles for a territorial planning that values peripheral areas not as problems calling for solutions but as strategic resources for sustainable regional development. • Gagliano Aterno achieved 10% population growth in three years through cultural activation. • Embedded participatory research proved more effective than conventional approaches. • Cultural interventions addressed demographic, economic, governance and social challenges. • The methodology successfully scaled from one village to a ten-municipality territorial union. • Peripheral areas' competitive advantages may challenge urban-centric development models.",
-      "keywords": [
-        "Entrepreneurship"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261419975",
       "doi_url": "https://doi.org/10.1177/00420980261419975",
       "title": "Americans meet congestion pricing: Reframing the equity debate around CBD tolling for auto-dependent countries",
@@ -8147,33 +8181,6 @@
         "Polling",
         "Pairwise comparison",
         "Big Five personality traits"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106824",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106824",
-      "title": "Multi-level contributions of blue-green spaces to social capital development among older adults: An empirical study in Guangzhou",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-06",
-      "published_date_display": "2026-03-06",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126000569",
-      "abstract": "Population aging exacerbates challenges such as deteriorating health, social isolation, and resource constraints. While blue-green space plays a critical role in promoting healthy aging and social capital, research gaps remain in understanding multilevel mechanisms. Based on 864 questionnaires from older adults in Guangzhou, China, this study analyses the multilevel impact of blue-green space on social capital accumulation at the individual, community, and district levels. The results show that: (1) Few older adults possess high social capital, and its spatial patterns diverge from blue-green coverage; high-quality and equitable green spaces better foster social capital, (2) Social capital formation is multilevel. At the individual level, gender, health, income, space use intensity, and accessibility are positively associated with social capital, while higher education, exercise intensity, and space satisfaction show inverse associations. At the community level, per capita blue-green space area and house prices are positively associated with social capital, but negative associations with community type and facility numbers reflect resource inequality. At the district level, ecological investment, blue-green coverage, and the aging ratio are positively associated with social capital formation. (3) Uneven resource distribution across levels amplifies the impacts of education, income, and health across regions. Based on findings, we recommend that local governments prioritize filling green space gaps in older and peripheral communities to improve the vitality and accessibility of urban open spaces. Attention should be given to older adults with lower socioeconomic status by strengthening participation and governance, and advancing district-level ecological–health integration to transform blue-green coverage into social capital. • Blue-green space resources shape social capital through multi-level mechanisms. • Individual socioeconomic and behavioral traits dominate social capital differences. • Blue-green space layout and location value key to driving community social capital. • Ecological construction, green coverage, and aging influence district social capital. • Cross-level resource inequality amplifies individual differences in nested systems.",
-      "keywords": [
-        "Social capital",
-        "Per capita",
-        "Empirical research",
-        "Vitality",
-        "Social space",
-        "Resource (disambiguation)",
-        "Space (punctuation)",
-        "Socioeconomic status",
-        "Population"
       ]
     },
     {
