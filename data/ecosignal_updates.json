@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:41:54.744132+00:00",
+  "generated_at": "2026-05-14T23:36:37.449508+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,155 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1111/1365-2664.70409",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70409",
+      "title": "Diverse soil seedbanks are resilient to reintroducing low‐intensity fire in a subtropical grassy woodland",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70409",
+      "abstract": "Abstract In fire‐prone ecosystems, reintroducing fire following long‐term exclusion can restore ecosystem function and biodiversity. In some situations, repeated burning might be necessary to reduce invasive species and promote native plant re‐establishment, but this strategy rests on the assumption that residual seedbanks persist following fire. We assessed the impact of a low‐intensity prescribed fire on the below‐ground germinable seedbank, relative to the above‐ground plant community in subtropical grassy woodlands of southeast Queensland, Australia. Nine months after fire, we surveyed groundcover species along 10 transects (five burnt, five unburnt), each with three 1 m 2 quadrats (30 total). Soil samples were collected from three adjacent 1 m 2 quadrats (30 total) and species in the soil seedbank were identified during a 5‐month greenhouse emergence trial, concluding when new germination slowed. We analysed species richness (α diversity), community uniqueness (β diversity) and community composition in 13 trait groups (based on origin, life span, growth form and N fixation) in response to ‘fire’ (burnt vs. control) and ‘position’ (above‐ vs. below‐ground). There were no effects of fire on species richness of any group, either above‐ or below‐ground. There were significant effects of position on richness in all functional groups except exotic grasses. Below‐ground seedbanks had more than double the number of species, compared to above‐ground vegetation (e.g. an average of 27 vs. 11 species per m 2 on unburnt sites). Above‐ground vegetation had higher levels of uniqueness than below‐ground seedbanks, and there were no notable effects of fire on β diversity in any functional group. Partitioning β diversity showed that above‐ground communities were structured by species replacement and below‐ground seedbanks by richness agreement. Seedbanks were compositionally dissimilar to above‐ground plant communities (effect of position on one Principal Component (PC1), p < 0.001) and composition was unaffected by fire. Policy implications : Seedbanks in this grassy woodland provide a rich biodiversity reservoir which persisted after low‐intensity fire. Patterns of species replacement suggest that activities which diminish above‐ground plant diversity (such as overgrazing or conversion to forest) will impact biodiversity at larger spatial scales, while soil seedbanks are likely more robust to localised disruptions. Read the free Plain Language Summary for this article on the Journal blog.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70905",
+      "doi_url": "https://doi.org/10.1111/gcb.70905",
+      "title": "Niche Differentiation of Native Species Promotes Biotic Resistance to Invasion in Freshwater Fishes Worldwide",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70905",
+      "abstract": "ABSTRACT Understanding the resistance of native fauna to biological invasions is essential for predicting and managing freshwater fish diversity under accelerating global change. Using fish and environmental data from 2622 river basins worldwide, we quantified how niche differentiation, phylogenetic and functional diversity, and richness of native species, as well as environmental factors contribute to non‐native fish richness and occurrence. Our results show that niche differentiation of native fishes is the key determinant of biotic resistance: when native species occupy broader and more heterogeneous niche spaces, both the richness and occurrence probability of non‐native fishes decline significantly, a pattern that holds consistently across global and biogeographic scales. Functional and phylogenetic diversity exert partially constraining effects, yet their influence varies across invasion metrics and spatial scales, thereby limiting their predictive power. Native richness promotes the naturalization of non‐native species but does not significantly influence invasion richness. Notably, non‐native fish invasions follow a nonlinear latitudinal gradient, intensify with increasing human pressure, and are positively associated with basin area. These findings demonstrate that freshwater fish invasions are jointly shaped by biotic interactions, environmental filtering, and human activities, with native niche differentiation emerging as the primary driver of biotic resistance. By incorporating niche‐based mechanisms, this study provides a unifying perspective for reconciling the invasion paradox and offers a process‐based foundation for developing integrated invasion management strategies under global change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70899",
+      "doi_url": "https://doi.org/10.1111/gcb.70899",
+      "title": "Multi‐Decadal Dynamics of Wetland Methane Emissions Revealed by Knowledge‐Guided Machine Learning",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70899",
+      "abstract": "ABSTRACT Measurement of methane fluxes (FCH 4 ) from natural systems, such as wetlands, has lagged far behind carbon dioxide fluxes. Short and fragmented wetland FCH 4 data limit our ability to assess its long‐term dynamics and potential climate feedbacks. Extrapolating short‐term FCH 4 records to recent decades remains challenging for both process‐based models and data‐driven machine learning (ML) approaches. Here, we develop a knowledge‐guided ML framework that integrates eddy covariance (EC) FCH 4 observations, field warming experiments, and biogeochemical knowledge to reconstruct the long‐term FCH 4 budgets and trends. Focusing on the 11 longest EC monitoring sites in the AmeriFlux network, we found considerable variability in multi‐decadal trends of wetland FCH 4 , with increases up to 14% per decade from 2000 to 2024. We also found that the strength of these increasing trends declines from high to low latitudes, highlighting the vulnerability of northern wetlands. This work presents novel and robust reconstructions of long‐term wetland FCH 4 , offering critical benchmark datasets for bottom‐up ecosystem models and advancing fundamental understanding of wetland biogeochemistry.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70916",
+      "doi_url": "https://doi.org/10.1111/gcb.70916",
+      "title": "Human Pressures Drive Compositional Homogenization and Functional Shifts in Southeast Asian Mammal Communities",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70916",
+      "abstract": "ABSTRACT Human activities strongly alter wildlife distributions and behaviors, rapidly reshaping their community structure. Although links between human pressures and community assembly have been explored, practical integration of multiple biodiversity indicators, especially compositional homogenization and functional trait patterns, remains limited. We addressed this gap by jointly assessing the compositional and functional responses of mammal communities to human pressures across Southeast Asia. We compiled an extensive camera‐trapping dataset from 4508 sites spanning > 38° of latitude across tropical and temperate forests in Southeast Asia. We quantified compositional homogenization and functional diversity trait patterns in relation to human pressures within and across forests. Our results show that community assembly is broadly affected by human pressures, with communities in Tropical & Subtropical Moist Broadleaf Forests (TSMBF) exhibiting greater vulnerability than those in Temperate Coniferous Forests (TCF), as evidenced by pronounced compositional homogenization and distinct changes in functional traits. High‐intensity human modification promoted compositional homogenization alongside functional trait divergence, while long‐term changes in building‐density drove functional trait convergence. This study demonstrates that integrating compositional and functional indicators provides a more holistic understanding of anthropogenic impacts on biodiversity. The heightened vulnerability of tropical mammal communities underscores the urgent need for targeted conservation strategies in these regions to curb the replacement of endemic specialists with widespread generalists.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1086/742255",
+      "doi_url": "https://doi.org/10.1086/742255",
+      "title": "Sex allocation in nonstandard haplodiploids",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/742255",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1086/742256",
+      "doi_url": "https://doi.org/10.1086/742256",
+      "title": "Herbivory Weakens the Stability of a Floral Polymorphism",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/742256",
+      "abstract": "",
+      "keywords": [
+        "Herbivore",
+        "Polymorphism (computer science)",
+        "Population",
+        "Biological evolution"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70381",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70381",
+      "title": "Higher and more stable biological control of multiple herbivore species in diversified strip cropping systems",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70381",
+      "abstract": "Abstract Context : Agricultural intensification has simplified agroecosystems, reduced biodiversity and weakened natural pest control. Effective biological control requires reliable, long‐term control of multiple herbivores. While studies investigated biological control in diversified cropping systems, there is little information as to what extent pest suppression is sustained throughout the growing season and whether it provides satisfactory control of several herbivores. Objectives : Here we assessed how increasing crop diversity and an ‘attract‐and‐reward’ (A&R) strategy influence the effectiveness and temporal stability of biological control. Methods : We compared predation, parasitism of eggs and caterpillars in a cabbage system with four levels of crop diversity: cabbage monoculture, cabbage‐oat strip cropping, strip cropping with six crops and an A&R system in which a strip cropping system was enhanced by inclusion of a parasitoid‐attractive cabbage cultivar and nectar‐providing buckwheat. Experiments were conducted at two organically‐managed farms in the Netherlands in 2023 and 2024. Additionally, a full‐factorial experiment was conducted in 2023 at one location to assess the effects of the A&R components. Temporal stability was quantified as the coefficient of variation and the proportion of sampling weeks in which each treatment exceeded the mean biological control level. Results : Across locations and years, strip cropping enhanced parasitism rates of Pieris brassicae and Plutella xylostella compared with monocultures. Pieris brassicae parasitism increased from 28% in monocultures to 58% in strip cropping systems, while P. xylostella parasitism rose from 10% to 25%–30%. Parasitism of Mamestra brassicae eggs by Trichogramma spp. reached up to 30% in the strip cropping system with six crops, compared with 1% in monocultures. A&R provided no improvement beyond standard strip cropping. Monocultures showed the highest coefficient of variation and exceeded the site‐year mean in only 13% of weeks, compared to more than 60% in strip crop systems. Synthesis and application : Our results highlight that strip cropping can enhance and stabilize biological control. Even simple two‐crop designs provide clear benefits over monocultures, while increasing crop diversity to six crops offers additional advantages. Because the temporal stability of biological control increases with crop diversity, designing strip cropping systems with more crops can help maintain consistent and resilient pest regulation throughout the growing season.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70394",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70394",
+      "title": "Biocrust and seed placement influence emergence rates of perennial grass <i>Elymus elymoides</i> across five North American deserts",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-13",
+      "published_date_display": "2026-05-13",
+      "published_parts": [
+        2026,
+        5,
+        13
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70394",
+      "abstract": "Abstract Dryland vascular plant emergence is often limited by water availability, especially with projected climate and precipitation changes. Biological soil crusts (biocrusts) can promote water retention and nutrient availability that benefit emergence yet can also act as a surface barrier preventing critical seed‐soil contact and hindering emergence. Alongside these factors, dryland fire frequency has increased with the inclusion of invasive species and vegetation structural changes. With enhanced continuous fine fuel distribution, there is a high potential to disrupt biocrust–plant interactions and influence associated management actions. This study explores the dynamic relationship between biocrusts and fire‐related heating effects on seedling emergence across five North American deserts: the Chihuahuan Desert, Colorado Plateau, Great Basin, Mojave Desert and Sonoran Desert. We conducted a greenhouse‐based seedling emergence experiment using Elymus elymoides (bottlebrush squirreltail), a common perennial grass, with biocrust and bare soil mesocosms in which half were heated to mimic the effects of wildfire temperature. The variables that had the greatest influence on emergence rate and emergence timing were the presence of biocrust and seed placement (on top of vs within the biocrust/soil matrix). Emergence rate was greatest atop bare soil followed by seeds inserted into biocrust. Emergence timing was faster with biocrust present, but only when seeds were inserted into the crust. Desert origin of biocrust and soil collection also influenced emergence, where the probability of any one seedling emerging was highest in the Chihuahuan Desert and Mojave Desert sites relative to the Sonoran Desert site, which showed the lowest probability. Heating had mixed effects, whereby it increased the likelihood of emergence but did not affect the overall rate or timing. Synthesis and applications . This study underscores the importance of healthy and impaired biocrusts in dryland systems and suggests ways in which the combination of biocrust and seed placement can influence plant establishment, in addition to providing insight into seeding strategies for managers and restoration practitioners working in dryland sites.",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41559-026-03056-8",
       "doi_url": "https://doi.org/10.1038/s41559-026-03056-8",
@@ -100,7 +249,7 @@
         12
       ],
       "link": "https://www.nature.com/articles/s41559-026-03062-w",
-      "abstract": "Yellow-eyed penguins (hoiho/takaraka, Megadyptes antipodes) are among the world’s rarest penguins and considered taonga (treasured) species in Aotearoa New Zealand. Since 2019, chicks on the New Zealand mainland have been affected by a deadly neonatal disease, respiratory distress syndrome, contributing to a decline to fewer than 115 breeding pairs. To investigate the putative genetic basis of this disease, we generated high-quality whole-genome data from 249 individuals spanning the species range, including New Zealand mainland (Northern range) and sub-Antarctic Enderby (Auckland Islands) and Campbell Islands (Southern range). Population genomic analyses unexpectedly revealed three deeply divergent lineages with negligible gene flow, which is consistent with recognition of three distinct subspecies. Phylogenetic divergence dating suggests that these splits predate human arrival by several millennia, with the Northern lineage diverging from the Southern populations 5–16 thousand years. Genome scans for local adaptation revealed regions of strong differentiation, while genome-wide association analyses identified candidate immune and respiratory genes linked to respiratory distress syndrome. In partnership with Ngāi Tahu, who hold Indigenous guardianship over yellow-eyed penguins, we recommend recognition of three subspecies, urgent conservation action for the critically small and rapidly declining Northern subspecies and the need for immediate population size and trend assessments for the Auckland and Campbell Island populations. Whole-genome data from 249 yellow-eyed penguins (hoiho) identify three lineages with high geographical and genomic divergence, and candidate gene variants associated with differential susceptibility to neonatal respiratory distress syndrome.",
+      "abstract": "Yellow-eyed penguins (hoiho/takaraka, Megadyptes antipodes) are among the world's rarest penguins and considered taonga (treasured) species in Aotearoa New Zealand. Since 2019, chicks on the New Zealand mainland have been affected by a deadly neonatal disease, respiratory distress syndrome, contributing to a decline to fewer than 115 breeding pairs. To investigate the putative genetic basis of this disease, we generated high-quality whole-genome data from 249 individuals spanning the species range, including New Zealand mainland (Northern range) and sub-Antarctic Enderby (Auckland Islands) and Campbell Islands (Southern range). Population genomic analyses unexpectedly revealed three deeply divergent lineages with negligible gene flow, which is consistent with recognition of three distinct subspecies. Phylogenetic divergence dating suggests that these splits predate human arrival by several millennia, with the Northern lineage diverging from the Southern populations 5-16 thousand years. Genome scans for local adaptation revealed regions of strong differentiation, while genome-wide association analyses identified candidate immune and respiratory genes linked to respiratory distress syndrome. In partnership with Ngāi Tahu, who hold Indigenous guardianship over yellow-eyed penguins, we recommend recognition of three subspecies, urgent conservation action for the critically small and rapidly declining Northern subspecies and the need for immediate population size and trend assessments for the Auckland and Campbell Island populations.",
       "keywords": [
         "Candidate gene",
         "Population",
@@ -179,7 +328,7 @@
         12
       ],
       "link": "https://www.nature.com/articles/s41559-026-03067-5",
-      "abstract": "Biodiversity laws in several European countries rely on official species-level price lists for fauna to enable compensation for biodiversity damage. However, the methods underlying these values are often opaque and poorly justified, raising concerns about consistency, fairness and ecological relevance. To gain insights into the revealed public regulatory patterns embedded in these mechanisms, we investigate how monetary compensation values are assigned to fauna in European biodiversity legislation and what factors influence these values. Here we show that species-level values are implicitly guided by biological traits and taxonomic biases, based on a dataset of 9,971 species across 24 countries. Our analysis reveals that mammals and birds receive disproportionately higher values, while traits such as generation length and protection status also significantly influence values. These findings reveal hidden criteria that shape regulatory decisions and enhance our understanding of conservation priorities. We recommend integrating systematic, science-based criteria into legal valuation practices, supported by collaboration between conservation scientists and legal practitioners. A compilation of the monetary compensation values assigned to animal species in the legal frameworks of 24 European countries identifies implicit taxonomic and trait influences on these values.",
+      "abstract": "Biodiversity laws in several European countries rely on official species-level price lists for fauna to enable compensation for biodiversity damage. However, the methods underlying these values are often opaque and poorly justified, raising concerns about consistency, fairness and ecological relevance. To gain insights into the revealed public regulatory patterns embedded in these mechanisms, we investigate how monetary compensation values are assigned to fauna in European biodiversity legislation and what factors influence these values. Here we show that species-level values are implicitly guided by biological traits and taxonomic biases, based on a dataset of 9,971 species across 24 countries. Our analysis reveals that mammals and birds receive disproportionately higher values, while traits such as generation length and protection status also significantly influence values. These findings reveal hidden criteria that shape regulatory decisions and enhance our understanding of conservation priorities. We recommend integrating systematic, science-based criteria into legal valuation practices, supported by collaboration between conservation scientists and legal practitioners.",
       "keywords": [
         "Biodiversity",
         "Legislation",
@@ -306,7 +455,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70343",
       "abstract": "Abstract Mast seeding, synchronous and highly variable reproduction among perennial plants, impacts ecosystem dynamics and species interactions. However, the extent of periodicity in mast seeding, defined as cyclical but not strictly regular intervals between reproduction, remains poorly understood. We used autoregressive analyses on seed production data from 556 populations across 20 tree species, with time series ranging from 10 to 62 years, to quantify the prevalence and length of masting periods. We found widespread periodicity, predominantly characterised by short periods of 2–3 years. Although periodicity was common, the signal was often weak, indicating limited explanatory and predictive power. Extended period lengths longer than 4 years were uncommon, occurring in only 2% of time series. Climate and elevation had limited and species‐specific associations with period length and strength, suggesting that broad‐scale climatic gradients explain little variation in masting periodicity across the species analysed. Synthesis . Our findings emphasise the adaptive value of short periods in mast seeding, likely reflecting evolutionary constraints on reproductive timing that balance the benefits of predator satiation with costs such as missed reproductive opportunities.",
-      "keywords": []
+      "keywords": [
+        "Mast (botany)",
+        "Adaptive value",
+        "Perennial plant",
+        "Ecosystem",
+        "Reproductive value",
+        "Phenology",
+        "Predator",
+        "Reproductive success"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70346",
@@ -18488,33 +18646,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70715",
-      "doi_url": "https://doi.org/10.1111/gcb.70715",
-      "title": "Effects of Eutrophication and Warming on Lake Ecosystems",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        1,
-        20
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70715",
-      "abstract": "Lake ecosystems are presently seriously threatened by various global changes. Two of the main stressors are (1) enhanced nutrient input, that is, eutrophication due to a fast-increasing world population demanding higher agricultural production, inevitably leading to higher nutrient loss, and (2) global warming (Birk et al. 2020). Warming and eutrophication interact with major implications for lake ecosystem structure and function (Jeppesen et al. 2010). Different approaches have been used to elucidate the interactions between warming and eutrophication in lakes. One method is space-for-time substitution (SFTS), based on cross-comparisons of data sampled along climate (latitude or altitude) and land-use gradients (e.g., Meerhoff et al. 2012). The strength of SFTS is that the biological assemblages present have had time to evolve and adapt to the climate in which they live. However, a potential weakness is that regional biogeographical constraints are not considered. An alternative is to analyze long-term time-series data from periods facing changes in nutrient loading and climate. Such data are free of biogeographical problems and may provide information on the changes to be expected in the short term. However, they cannot account for changes (e.g., in species assemblages, (micro)evolution and adaptation) that will occur in the longer term, and they are inherently affected by transient/resilient phenomena. While SFTS and time-series studies have yielded important information on warming and eutrophication effects on lake ecosystems, both methods struggle to efficiently disentangle the impacts of warming and nutrient loading and their interactions. Full factorial controlled mesocosms experiments are a way forward—conducted either at a single location or in parallel across latitudes, possibly followed by cross-system meta-analyses (Macaulay et al. 2025). Like several others (for references, see Birk et al. 2020, Macaulay et al. 2025), Marin et al. (2025) conducted a full-factorial, well-replicated (n = 6) mesocosm experiment including ambient conditions as a control, nutrient addition (eutrophication), a +4°C heating (warming), eutrophication as well as warming. However, their study stands out, as they elegantly assessed the response to these two stressors at four different ecological levels: community composition, size structure, trophic architecture (using stable isotopes), and ecosystem functioning (e.g., decomposition in litter bags and GHG concentrations). They predicted that the responses to eutrophication and warming would differ between the four ecological levels as follows: (i) nutrient addition would enhance bottom-up forces by significantly increasing the abundance of primary producers, primarily affecting functioning; (ii) warming would reduce top-down force by excluding large species and reducing predators' abundance, primarily affecting community composition; and (iii) food web structure (size spectrum and trophic architecture) would respond similarly to both treatments, as it integrates changes in both bottom-up and top-down forces. Supporting their first two hypotheses, they found that the responses to the two stressors differed between ecological levels—warming outweighed the effect of nutrient addition at the community level and vice versa at the ecosystem level. As a result, nutrient addition, combined with warming, induced responses across all ecological levels. They also found that the food webs, described by size structure and trophic architecture, represented an intermediate ecological level that responded to both treatments in isolation—changes in ecosystem functioning due to nutrient inputs were associated with changes in food web properties (size structure and trophic architecture) but not necessarily with changes in community composition or diversity. In contrast, changes in community composition and diversity were associated with changes in size structure but not necessarily with ecosystem functioning. This suggests that warming-induced changes at community level were compensated at ecosystem level, with food webs providing a more integrative overview of the full range of responses. Moreover, the authors found a mismatch between community composition and ecosystem functioning: different taxa could lead to similar ecological functions, while similar communities could lead to different ecological functions. For example, heterotrophic processes, such as leaf litter decomposition, were similar in control and warming treatments, despite important differences in invertebrate communities. The study by Marin et al. (2025) further corroborated previous empirical and experimental research findings that primary consumers—but also predators—switch to omnivorous behavior with increasing primary producer abundance (leading to reduced food chain length). It also revealed that warming increases top-down control as seen in other but far from all studies. Contrary to their expectation, however, Marin et al. (2025) found that the proportion of large-bodied individuals was higher under warmer conditions, and the food chain length remained unchanged. This suggests—as stated by the authors—that predator ingestion may have increased sufficiently with warming to meet their metabolic requirements, which otherwise could have led to stronger top-down control on primary consumers, resulting in a flatter size spectrum slope. Top predators in their study were mainly black swimmers (Notonecta sp.). The authors acknowledge that the outcome of their study might have been different if fish were top predators and state that their results are most relevant for fishless ecosystems, such as headwater streams, high-altitude lakes, ponds, or temporary waters. Most lakes have fish, however. Studies have shown substantial changes in fish communities along latitude/temperature gradients, resulting in increasing omnivory (González-Bergonzoni et al. 2012), reduced size (Emmrich et al. 2014), higher abundances of coarse fish, and lower abundances of piscivorous fish in the warm lakes with strong cascading effects on primary consumer biomass (−) and size (−) (Su et al. 2023). In nutrient-enriched systems, this leads to increasing phytoplankton biomass, not only due to the lower grazing on the phytoplankton, but also because omnivorous fish bring nutrients from the sediment to the water phase, thereby releasing bottom-up control (Liu et al. 2018). Higher internal loading of phosphorus at higher temperatures adds to the plankton increase. A comprehensive comparative study of 1653 shallow lakes in temperate Denmark and subtropical Florida provides further support for this change in trophic dynamics (Jeppesen et al. 2020). While it can be rightly argued that latitude studies may give a false picture due to biogeographical differences, studies of island lakes with manipulated fish communities have shown similar results (Vidal et al. 2021). Accordingly, the outcome of Marin et al.'s eutrophication/warming experiment would have been different if fish had been included. A generalization from their study is further hampered somehow by (1) the absence of submerged macrophytes in the low nutrient mesocosms. Such plants are typically abundant in low-nutrient shallow lakes and strongly influence trophic dynamics and ecosystem functioning. Although the authors introduced macrophytes, they unfortunately did not thrive, (2) only a thin gravel layer was added at the bottom, but no natural sediment. This may have affected the outcome, as sediment-water interactions are of key importance in shallow lakes. Ecosystem complexity, for example, presence of plants and natural sediment, may greatly influence the responses of the community to stressors, (3) benthic macroinvertebrates were sampled on artificial substrates. Although this is standard practice, these substrates may not be attractive enough to species with other habitat preferences (e.g., living in the sediment), resulting in a community composition and response that may differ from that of the natural community, and (4) the short duration of the experiment—9 weeks—may have affected the results due to, as acknowledged by the authors, the “transient conditions” of the experiment. Accounting for these weaknesses is encouraged in future studies. In summary, the study by Marin et al. (2025) provides novel insights into how global change affects community composition, size structure, trophic architecture, and ecosystem functioning in fishless ponds/lakes. They found that community composition responded rapidly to a shift in the intensity of top-down forces and that ecosystem functioning responded more rapidly to alterations in bottom-up force intensity. They demonstrated that the food web, representing an intermediate ecological level, integrated changes in the intensity of both forces and might be used as a key framework for elucidating the idiosyncratic relationships between biodiversity and ecosystem functioning. Controlled experimental studies of the role of bottom-up and top-down control forces across different ecological levels under different environmental conditions and ecological settings (e.g., with and without fish, sediment, and macrophytes) and longer experimental duration would enhance our knowledge (and generality) of how these controls mediate overall ecosystem responses to global change. Zhengwen Liu: writing – review and editing. Erik Jeppesen: writing – original draft, writing – review and editing. Haojie Su: writing – review and editing. Haijun Wang: writing – review and editing. This research was supported by the Fundamental and Interdisciplinary Disciplines Breakthrough Plan of the Ministry of Education of China (JYB2025XDXM904), the Yunnan Provincial Department of Science and Technology (202401AS070119; 202449CE340003), NSFC Joint Fund for Regional Innovation and Development (U25A20639), and the Yunnan Provincial Department of Human Resources and Social Security (202505AO120004). E.J. was supported by the Yunnan Provincial Council of Academicians and Experts Workstations (202405AF140006). The authors declare no conflicts of interest. This article is a Invited commentary on Marin et al., https://doi.org/10.1111/gcb.70410. The authors have nothing to report.",
-      "keywords": [
-        "Eutrophication",
-        "Ecosystem",
-        "Mesocosm",
-        "Global warming",
-        "Climate change",
-        "Nutrient",
-        "Threatened species",
-        "Population"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2745.70239",
       "doi_url": "https://doi.org/10.1111/1365-2745.70239",
       "title": "Biodiversity, climate anomalies and human activities drive structural diversity–productivity relationships",
@@ -19746,62 +19877,6 @@
         "Introduced species",
         "Woody plant",
         "Native plant"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70694",
-      "doi_url": "https://doi.org/10.1111/gcb.70694",
-      "title": "Why Tropical Forest Loss Persists: A Framework for Transformative Conservation Action",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        1,
-        9
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70694",
-      "abstract": "While covering only 14% of Earth's land area (Dinerstein et al. 2017), tropical forests are vital for biodiversity conservation, climate regulation, and ecosystem services. They harbor at least 50% of Earth's biodiversity (Lewis et al. 2015) and store 54% of the planet's forest carbon stock (Pan et al. 2024). Their average ecosystem service value per unit area, encompassing provisioning, regulating, habitat, and cultural services, is 75% higher than that of temperate forests (de Groot et al. 2012). These figures alone underscore the global significance of tropical forests and reinforce why their conservation should remain part of the central priorities for sustainability. Concerns about tropical forest depletion are not new. As early as the 1940s, scientists and conservationists warned of rising pressures on tropical forests and emphasized that they must be protected and conserved for future generations (Corner 1946). In the early 1970s, researchers documented the rapid degradation of these ecosystems, attributing forest loss primarily to human activities such as agricultural expansion (Gómez-Pompa et al. 1972). They regarded tropical forests as a nonrenewable resource, noting that their destruction was occurring faster than natural regeneration processes, leading to the irreversible loss of ecological functions. Yet, despite decades of awareness, global tropical forest loss persists. In 1960, tropical forests covered an estimated 2001 million hectares, but by 2019, this had declined to 1814 million hectares, representing a net loss of 187 million hectares, equivalent to 2.5 times the size of the entire Borneo Island (Figure 1a). Satellite-based monitoring further indicates that although annual tropical forest loss declined during 2016–2021, it went up again in 2022–2024, and the average annual rate remains above the pre-2015 level (Figure 1b). The year 2015 marks the adoption of both the Sustainable Development Goals (SDGs) and the Paris Agreement. Consistent with observations from the 1970s (Gómez-Pompa et al. 1972), recent assessments show that most tropical forest loss occurs in landscapes dominated by agricultural production systems (Pendrill et al. 2022). The central question, therefore, is this: if tropical forests are indeed vital, why has their loss, recognized for more than half a century, remained unresolved? This paper argues that global tropical forest loss has become a deeply embedded systemic issue. Effectively addressing it requires first clarifying and understanding the system in which it is rooted. To help unravel the system of global tropical forest loss, a general framework is proposed. This framework categorizes the drivers of tropical forest loss into natural and anthropogenic (Figure 1c). Natural drivers include wildfires, pests and diseases, volcanic eruptions, landslides, and other forms of natural disturbance. Anthropogenic drivers encompass activities such as deforestation (or the conversion of forests to other land uses such as for agriculture), timber harvesting, and mining, ranging from household-level to large-scale operations. Given their predominant role in shaping current trends, this framework places emphasis on anthropogenic drivers. A key contribution of this framework is its explicit focus on the “environment” that enables tropical forest loss (Figure 1c). It identifies national policies and governance as the primary enablers, particularly land use-related policies that designate land, including forests, for specific purposes. Deforestation, logging, and mining depend on such policies regardless of the scale of operation. For example, forests cannot be converted to pasture or to soya, oil palm, or rubber plantations without policy authorization. Similarly, logging and mining operations require government-issued licenses. National policies are shaped by a range of internal and external factors (Figure 1c). Internal factors include a country's economic, social, and environmental needs, goals, and priorities, whereas external factors encompass global demand for forest-related products and international trade policies. These factors interact dynamically. For example, national goals and priorities may shift in response to global market trends, while trade policies reflect a country's strategic interests. At the same time, national policies influence and reshape both internal and external factors, reinforcing a complex and interconnected system. The needs, goals, and priorities of a country are also dynamically shaped by feedback from the outcomes of various activities, which in turn influence national and trade policies (Figure 1c). For example, land use policies may be revised or new trade policies negotiated in response to emerging needs. Simultaneously, the “environment” evolves in response to the broader social-ecological consequences of tropical forest loss, including greenhouse gas emissions, biodiversity decline, and increased disaster risk and vulnerability, key themes in international initiatives such as the SDGs (https://sdgs.un.org), the Paris Agreement (https://unfccc.int/), the Glasgow Leaders' Declaration on Forests and Land Use (https://forestdeclaration.org), the Kunming-Montreal Global Biodiversity Framework (https://www.cbd.int/gbf), and the recently launched Tropical Forests Forever Facility (https://cop30.br). As global efforts evolve, they interact with national priorities and further shape the “environment.” Addressing global tropical forest loss therefore requires transforming the “environment” that enables, facilitates, and sustains it into one that at least moves toward a disabling state, thereby tackling its systemic nature. This is a complex and formidable challenge. At the heart of this challenge lies the “elephant in the room”: national policies and governance, a politically sensitive issue. Each nation has sovereignty and the right to manage its resources according to its needs, goals, and priorities. Developing tropical countries, in particular, face the dual challenge of advancing socioeconomic development while conserving their forests that are rich in biodiversity and provide essential ecosystem services. A previous study, aligned with the forest transition theory, found that more developed, higher-income countries exhibited more favorable forest change trends, suggesting that less developed, lower-income nations would need to, unless they receive essential assistance in a timely manner, first strive to attain economic progress and stability to enhance their capacity to curb forest losses (Estoque et al. 2022). This reality illustrates the difficulty of reconciling global conservation goals with national development imperatives. Despite these challenges, strengthening national policy frameworks remains crucial. Country-level initiatives should promote sustainable agriculture while reducing incentives for large-scale deforestation. Developed nations also play a critical role and should reconsider their reliance on tropical forest-related products (Estoque et al. 2022). For example, rather than depending heavily on imported tropical timber, they could utilize their own forests, particularly in temperate regions where forest cover has increased over the past decades. Needless to say, in terms of biodiversity conservation, habitat loss in the tropics cannot be offset on a like-for-like basis by habitat gains in temperate regions. As part of strengthening national policies and governance, the implementation of international agreements must also be enhanced. A recent assessment revealed significant gaps in forest protection, management, and restoration within Nationally Determined Contributions under the Paris Agreement, indicating insufficient national action to meet global conservation goals (https://www.unep.org/resources/report/raising-ambition-accelerating-action-towards-enhanced-nationally-determined). Tropical forest loss also continues even within protected areas, further undermining biodiversity conservation goals. Consequently, governance mechanisms must be strengthened to ensure that commitments are effectively fulfilled and translated into action. To clarify and better understand the system of global tropical forest loss (Figure 1c), advancing interdisciplinary research is essential, as tropical forest loss is simultaneously an ecological, economic, and political issue. A key research priority is to clarify the factors that create and sustain the “environment” enabling persistent tropical forest loss. Understanding how international trade agreements influence national forest-related policies and whether they deter or encourage tropical forest loss requires deeper analysis. Remote sensing must continue to play a vital role in monitoring forest change and helping to elucidate its drivers. Research should also distinguish the extent to which forest loss is driven by anthropogenic versus natural causes and examine governance failures, including legal and illegal forest loss, as well as the relationship between corruption and policy enforcement. Further research should also assess the contributions of tropical forest loss at different scales, from households and smallholders to large enterprises, and evaluate how foreign direct investment in agriculture, mining, and infrastructure shapes national land use- and forest-related policies. Strengthening indigenous land rights and tenure systems offers another promising avenue, as these can help reshape the “environment” toward more sustainable land management. Finally, research should examine how social movements, civil society, and public awareness campaigns influence forest-related policies and shift political incentives toward conservation. In summary, transforming the “environment” that enables persistent tropical forest loss into one that at least approaches a disabling state requires a systemic, multi-level approach. Key actions include strengthening national policies and governance, aligning development priorities with conservation objectives, enhancing implementation of international agreements, and empowering local communities and indigenous peoples. Central to all these actions is interdisciplinary research that clarifies systemic drivers, informs evidence-based policies, and ensures effective, transformative conservation outcomes. By addressing these research gaps and transforming the “environment,” we can move toward a more comprehensive understanding of the systemic forces that sustain tropical forest loss. Only through such systemic insights can transformative conservation actions emerge to protect one of the planet's most vital and irreplaceable ecosystems. This work was supported by the Japan Society for the Promotion of Science (JSPS) through its Grants-in-Aid for Scientific Research (KAKENHI) Program: Grant-in-Aid for Scientific Research (C), Number 22K01038 (Principal Investigator: Ronald C. Estoque) and (B) (Number 24K01817, Principal Investigator: Shoji Hashimoto). The views expressed in this paper are those of the author and do not necessarily reflect the positions of his institution or the funder. The author declares no conflicts of interest. The data used in Figure 1a,b are from publicly available sources and are provided in the figure caption.",
-      "keywords": [
-        "Biodiversity",
-        "Ecosystem services",
-        "Tropics",
-        "Climate change",
-        "Ecosystem",
-        "Intact forest landscape",
-        "Tropical forest",
-        "Habitat destruction",
-        "Tropical climate",
-        "Temperate rainforest"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70671",
-      "doi_url": "https://doi.org/10.1111/gcb.70671",
-      "title": "Phytoplankton With Flexible Pigment Content Disadvantaged by Projected Future Decrease in Variability of the Ocean Light Spectrum",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        1,
-        9
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70671",
-      "abstract": "ABSTRACT Phytoplankton are key components of ocean ecosystems that play a critical role in regulating Earth's climate. However, how climate‐driven changes in light availability in the ocean will affect marine phytoplankton remains poorly understood. Here, we assess the impact of climate‐induced shifts in the spectral quality of the underwater light field on the relative fitness of phytoplankton with distinct pigment traits using a global ecosystem model. We focus on Synechococcus pigment types, comparing light color specialists with a chromatic acclimator capable of adjusting its pigment composition. Under a high‐emission scenario, the model simulation projected an increase in the average blue‐to‐green ratio across 76% of the ocean area by the end of the 21st century, while 24% of the simulated ocean showed a shift toward greener wavelengths. Regions characterized by larger seasonal variability in blue‐to‐green ratio values appeared to be reduced due to climate‐driven spectral changes. We find that reduced variability in the ocean light field makes the chromatic acclimators' plasticity less advantageous, and this pigment type was most negatively affected. These findings highlight the potential of Synechococcus pigment types as functional bioindicators of ecosystem change and underscore the importance of incorporating functional diversity in global models to better predict phytoplankton responses to changing ocean conditions.",
-      "keywords": [
-        "Phytoplankton",
-        "Ocean color",
-        "Synechococcus",
-        "Ecosystem",
-        "Marine ecosystem",
-        "Chlorophyll a",
-        "Plankton",
-        "Photosynthetic pigment"
       ]
     },
     {
