@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T23:13:10.786362+00:00",
+  "generated_at": "2026-05-15T23:12:38.535837+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,26 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105691",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105691",
-      "title": "How Recognitional Justice (Re)Shapes Access and Participation in Urban Green Space Governance",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001155",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.compenvurbsys.2026.102454",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102454",
-      "title": "Modeling adolescents’ perception of cycling safety: A new approach using graph neural networks and street view imagery",
+      "doi": "10.1016/j.compenvurbsys.2026.102459",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102459",
+      "title": "Physics-informed graph learning for spatially contiguous and capacity-constrained hospital service area delineation",
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
@@ -60,9 +43,226 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000566",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600061X",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102456",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102456",
+      "title": "Explaining the urban mechanisms behind OpenStreetMap updates: Evidence from 88 German cities",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600058X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107230",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107230",
+      "title": "Who speaks for the neighborhood? Natural language processing of redevelopment debates in Chicago",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004622",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107223",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107223",
+      "title": "Who benefits more from the renewable energy transition? Labor health inequality and employment form disparities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004555",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107209",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107209",
+      "title": "What makes a place liveable? An arts-based research conceptualisation of liveability",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004415",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107155",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107155",
+      "title": "Transparent circularity in the public sector: Discovering the determinants of circular economy disclosure in Italian local governments",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003872",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107134",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107134",
+      "title": "Ecofeminism and agroecological practices as resistance to structural violence and women's empowerment in São Paulo, Brazil",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003665",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107147",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107147",
+      "title": "Determinants of corporate investment in single-family rental housing in Charlotte, North Carolina",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003793",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107163",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107163",
+      "title": "Crisis urbanism and uneven resilience: A study of fragmented reconstruction in Mar Mikhaël (Beirut) after the 2020 port explosion",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003951",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107136",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107136",
+      "title": "An analysis of morphological pattern variations in street networks within and surrounding slums in São Paulo, Brazil",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003689",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107138",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107138",
+      "title": "Actors, strategies and constraints in the valorisation of territory: Insights from an exploratory case of the protection consortia in Italian wine sector",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003707",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105691",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105691",
+      "title": "How Recognitional Justice (Re)Shapes Access and Participation in Urban Green Space Governance",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001155",
+      "abstract": "",
+      "keywords": [
+        "Economic Justice",
+        "Corporate governance",
+        "Space (punctuation)",
+        "Environmental justice",
+        "Urban green space",
+        "Urban planning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102454",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102454",
+      "title": "Modeling adolescents’ perception of cycling safety: A new approach using graph neural networks and street view imagery",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000566",
+      "abstract": "",
+      "keywords": [
+        "Perception",
+        "Cycling",
+        "Artificial neural network",
+        "Graph",
+        "Deep neural networks"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107144",
@@ -71,15 +271,25 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003768",
-      "abstract": "",
-      "keywords": []
+      "abstract": "People-place bonds are crucial for urban planning, fostering care, safety, and stewardship within neighborhoods. These bonds have been studied extensively, primarily under the concept of place attachment. Place attachment has been shown to offer numerous positive benefits, such as improved well-being, social behavior, and environmental engagement. The broad body of literature has identified several key components influencing place attachment, such as homeownership, age, and length of residence. Our study expands this understanding by measuring people-place bonds not only through place attachment, but also through place making, emphasizing the agency of residents in shaping their neighborhoods. We used data from a large-scale online survey completed by 5356 respondents across five European cities: Brussels, Geneva, Hamburg, Turin, and Zurich. We conducted exploratory factor analysis and k-means clustering to identify distinct population profiles with various people-place bonds. The analysis revealed three profiles of urban dwellers, affluent place-making internationals , disadvantaged locals , and affluent place-attached locals , which are characterized by distinct sociodemographic attributes and types of emotional bonds with places. Our findings challenge the traditional emphasis on individual variables (e.g., homeownership, length of residence) as predictors of people-place bonds. Instead, we discovered that combinations of variables, specifically socioeconomic attributes, education level, perceived safety, and migration background, better reflect the complexities associated with how people form emotional bonds with places. The distribution of these profiles varied considerably across the five cities, reflecting local contextual differences. We discuss these variations and their implications for urban planning, highlighting inclusive approaches that meet diverse needs and strengthen people-place bonds. • Place making and place attachment emerge as distinct people-place bonds. • Clustering reveals three distinct profiles of social features and place relations. • These clusters are unevenly distributed across five European cities. • Homeownership policies may explain cultural context and cross-city differences.",
+      "keywords": [
+        "Place attachment",
+        "Place identity",
+        "Agency (philosophy)",
+        "Socioeconomic status",
+        "Disadvantaged",
+        "Population",
+        "Sense of place",
+        "Social capital",
+        "Urban planning"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107206",
@@ -88,15 +298,21 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004385",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Welfare",
+        "Value (mathematics)",
+        "Land value",
+        "Land use",
+        "Land Values"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107212",
@@ -105,32 +321,21 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004440",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107208",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107208",
-      "title": "Carrots for sticks? The role of incentives for tree retention during housing intensification",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004403",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Decoding methods",
+        "Urban planning",
+        "Development (topology)",
+        "Semantic analysis (machine learning)",
+        "Semantics (computer science)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00436-w",
@@ -698,6 +903,23 @@
         "Conceptual framework",
         "Urban studies"
       ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105693",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105693",
+      "title": "Erratum to “Exploring before-and-after visual preferences of street interventions using Google Street View time travel 105686” [Landscape Urban Plan.]",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001179",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1177/00420980261442372",
@@ -5482,28 +5704,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107025",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107025",
-      "title": "The risks of GenAI in shaping our cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-25",
-      "published_date_display": "2026-03-25",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600257X",
-      "abstract": "• GenAI supports urban planning but there are inherent epistemic limitations and bias • AI-generated urban futures often reflect dominant cultural assumptions • Responsible GenAI requires epistemic diversification, critical prompting, explainability, and human oversight",
-      "keywords": [
-        "Futures contract",
-        "Urban planning",
-        "Cultural bias",
-        "Urban studies"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107019",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107019",
       "title": "Healthy aging planning: A multi-scale review of urban green space impacts on post-COVID health behaviors",
@@ -5577,60 +5777,6 @@
         "Efficient energy use",
         "Heuristic",
         "Downtown"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106999",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106999",
-      "title": "The complex relationships among nearby green spaces, residents' green space usage behaviors, and individual social health: A method integrating Bayesian networks and structural equation modeling",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-24",
-      "published_date_display": "2026-03-24",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002313",
-      "abstract": "",
-      "keywords": [
-        "Structural equation modeling",
-        "Mediation",
-        "Space (punctuation)",
-        "Perception",
-        "Quality (philosophy)",
-        "Duration (music)",
-        "Social support",
-        "Health benefits"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106963",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106963",
-      "title": "Accessibility challenges for older adults and people with disabilities: An urban mobility perspective in the age of smart transport technologies",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-24",
-      "published_date_display": "2026-03-24",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001952",
-      "abstract": "In times defined by a rapid transition towards a smart technology paradigm, accessibility remains a key prerequisite for social inclusion, equity and quality of life, especially for populations with special mobility needs like older adults and people with disabilities. This study meticulously reviews the existing literature to identify barriers and opportunities related to the mobility of these vulnerable groups within urban transport systems. Using systematic, narrative, thematic and bibliometric literature review tools, the study synthesises the findings of 60 studies from various disciplines, including transport, urban planning and social sciences. The outcomes illustrate that inadequate road infrastructure, such as poorly maintained sidewalks, inaccessible public transport stops and vehicles as well as insufficient tactile and auditory aids, severely limit mobility and independence. Public transport systems often lack user-friendly design, functional support for mobility aids and adequately trained staff. Technological advances, while promising, pose a challenge in terms of compatibility and accessibility for these groups; digital literacy and ease of use are factors that cannot be ignored. Policy recommendations are proposed to address these barriers, focusing on improving infrastructure, adopting inclusive design principles and enhancing services, affordability and staff training. Also, integrating and simplifying innovative transport technologies, like Connected and Autonomous Vehicles (CAVs), Mobility-as-a-Service (MaaS) and digital mobility tools, to support equitable and inclusive mobility is a critical way forward. This study's findings highlight the interdisciplinary nature of transport accessibility research and the need for a holistic and universal approach to urban and transport planning. By addressing these challenges, policymakers and practitioners can significantly improve the autonomy, participation and well-being of older adults and people with disabilities, promoting a more liveable built and road environment. • Accessibility and mobility are two interlinked societal needs that may define not only access to travel and destinations but for some vulnerable populations even their quality of life per se. • This study reviews narratively and systematically 60 studies to identify and contextualise the transport barriers that older adults and people with disabilities face in urban eco-systems. • Infrastructure, socio-psychological, financial and service barriers are recognised spanning from concerns around inadequate road infrastructure and digital illiteracy to unaffordable travel and problematic public transport provision. • Targeted solutions are proposed around improving infrastructure, inclusive design and technology adoption and enhancing services, affordability and staff training. • Building accessible urban transport for all is a pathway to more liveable cities.",
-      "keywords": [
-        "Public transport",
-        "Equity (law)",
-        "Universal design",
-        "Perspective (graphical)",
-        "Usability",
-        "Thematic analysis",
-        "Digital divide",
-        "Walkability",
-        "Personal mobility",
-        "Public policy"
       ]
     },
     {
@@ -5956,28 +6102,6 @@
         "Immigration",
         "Ethnic community",
         "Ethnic composition"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106991",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106991",
-      "title": "The poly-imaginary of a European capital instead of a post-socialist framing: A case study of Warsaw’s city centre renewal",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-21",
-      "published_date_display": "2026-03-21",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002234",
-      "abstract": "",
-      "keywords": [
-        "Capital (architecture)",
-        "City centre",
-        "Research centre",
-        "City region"
       ]
     },
     {
@@ -7630,32 +7754,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106937",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106937",
-      "title": "Nonlinear relationships and threshold effects between township- and village-level transportation and the return migration of rural migrants for housing construction",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-12",
-      "published_date_display": "2026-03-12",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001691",
-      "abstract": "",
-      "keywords": [
-        "Hierarchy",
-        "Key (lock)",
-        "Gradient boosting",
-        "Nonlinear system",
-        "Settlement (finance)",
-        "Survey data collection",
-        "Sustainable development",
-        "Decision tree"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261417604",
       "doi_url": "https://doi.org/10.1177/00420980261417604",
       "title": "Emotions in the city? Emotional responses to urban wildlife and their association with urban reactive behavioral intentions during environmental and political crisis",
@@ -7978,32 +8076,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106927",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106927",
-      "title": "Urban green space accessibility and its determinants at the megaregion scale",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-09",
-      "published_date_display": "2026-03-09",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001599",
-      "abstract": "",
-      "keywords": [
-        "Socioeconomic status",
-        "Equity (law)",
-        "Sustainability",
-        "Social equality",
-        "Limiting",
-        "Scale (ratio)",
-        "Space (punctuation)",
-        "Urban green space"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.106936",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.106936",
       "title": "Decentralized behavioral finance: A behavioral–technological framework for urban freedom and participatory governance",
@@ -8024,32 +8096,6 @@
         "Participatory action research",
         "Urban planning",
         "Perspective (graphical)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106933",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106933",
-      "title": "Toward equitable green spaces: Spatial patterns and determinants of accessibility and inequality across 314 Chinese cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-07",
-      "published_date_display": "2026-03-07",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001654",
-      "abstract": "",
-      "keywords": [
-        "Gini coefficient",
-        "Spatial inequality",
-        "Inequality",
-        "Population",
-        "Geospatial analysis",
-        "Socioeconomic status",
-        "Spatial ecology",
-        "China"
       ]
     },
     {
@@ -9214,32 +9260,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106871",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106871",
-      "title": "The role of satisfaction and sense of community in women's perceptions of the built environment and community wellbeing in residential apartment complexes",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-25",
-      "published_date_display": "2026-02-25",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001034",
-      "abstract": "This study examines how women's perceptions of the built environment shape satisfaction, sense of community (SOC), and community wellbeing in three residential apartment complexes in Shiraz, Iran. A cross-sectional survey of women, conducted between August and November 2022, yielded 287 valid responses. Four environmental factors (security, environmental and visual comfort, accessibility and permeability, and cleanliness and sanitation) were modeled as antecedents to satisfaction; satisfaction then predicted SOC, which in turn related to two dimensions of community wellbeing (healthy practices and proficient leadership). Using partial least squares structural equation modeling (PLS-SEM) with bootstrapping, all built environment factors were found to significantly enhance satisfaction, with security exerting the strongest effect, followed by environmental/visual comfort, cleanliness, and accessibility/permeability, which showed a smaller yet significant influence. Satisfaction strongly predicted SOC, and SOC had the largest total effects on both community wellbeing outcomes. These findings extend environment–satisfaction–SOC models by highlighting threshold conditions, especially security and comfort, in a patriarchal context: meeting essential safety and comfort needs not only elevates individual satisfaction but also enables stronger social ties and more favorable assessments of collective practices and leadership. The results refine feminist urban theory by showing that where cultural norms constrain women's mobility, satisfaction functions as a gatekeeper for SOC and community wellbeing. The paper bridges urban design, social-psychological, and feminist perspectives, indicating that gender-sensitive improvements to apartment complexes, paired with inclusive management, can catalyze social cohesion and more responsive local governance. • Security and comfort are the strongest drivers of women's satisfaction. • Cleanliness supports satisfaction; access matters once safety is assured. • Satisfaction strongly predicts sense of community (SOC). • SOC relates to healthy practices and perceived proficient leadership. • Gender-sensitive upgrades meeting safety/comfort thresholds boost participation.",
-      "keywords": [
-        "Apartment",
-        "Structural equation modeling",
-        "Perception",
-        "Built environment",
-        "Sense of community",
-        "Cohesion (chemistry)",
-        "Neighbourhood (mathematics)",
-        "Life satisfaction"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.106883",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.106883",
       "title": "Sharing neighbourhoods: Analysing forms and neighbourhood conditions of non-commercial sharing in European cities",
@@ -9416,31 +9436,6 @@
         "Academic community",
         "Urban policy",
         "Urban design"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106823",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106823",
-      "title": "Do area-based initiatives improve perceived safety? Evidence from marginalized neighborhoods in Gothenburg using synthetic control method",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-24",
-      "published_date_display": "2026-02-24",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126000557",
-      "abstract": "The negative effects of living in marginalized neighborhoods characterized by concentrated poverty and social exclusion on individuals' life chances have long been a concern for politicians, policymakers, practitioners, and academia. These neighborhoods are frequently targeted with investments as part of area-based initiatives (ABIs) to mitigate potential negative neighborhood effects. The safety perception of the built environment has become a fundamental driver of ABIs to improve urban safety in marginalized areas. Previous studies have mostly focused on evaluating area-based initiatives from sociodemographic changes using large units of analysis that may obscure low-level patterns. This study examines ABIs led by municipal housing companies in Gothenburg, Sweden, using property-level longitudinal data from 2015 to 2024. Synthetic control method was applied to estimate impacts on two perceived safety measures at both the property and DeSO (Demographic Statistical Area) levels, using untreated areas/properties as control. The results indicate that ABIs have limited short-term effects on safety perception, but among long-term residents (those living the area for more than five years), perceptions of safety in the basement improved. This suggests that the impact of ABIs depends on whether or not the residents have experienced the change. The analysis also reveals spatial variation, with more pronounced effects observed at the DeSO level than at the property level. These findings underscore the importance of spatial scale and residential time in evaluating the impact of ABIs. • Examines the effects of area-based initiatives (ABIs) by housing companies on perceived safety • Analyzes two types of perceived safety measures across two spatial scales (DeSO and property level) • Finds little evidence of short-term effects of ABIs on perceived safety • Positive effects were observed among long-term residents regarding perceived safety in the basement • Reveals spatial heterogeneity in the results, underscoring the importance of scale in evaluating ABI outcomes",
-      "keywords": [
-        "Poverty",
-        "Perception",
-        "Public housing",
-        "Control (management)",
-        "Scale (ratio)",
-        "Property value",
-        "Social exclusion"
       ]
     },
     {
@@ -14545,6 +14540,32 @@
         "Engineering",
         "Civil engineering",
         "Ecology"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107208",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107208",
+      "title": "Carrots for sticks? The role of incentives for tree retention during housing intensification",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004403",
+      "abstract": "Housing intensification within growing cities presents a critical tension – balancing compact urban development with the preservation of tree canopy cover. As cities intensify, the loss of trees due to private land development has emerged as one of the most pressing challenges in urban forest governance. This challenge must be addressed to retain the environmental and social benefits that urban trees provide. Although tree protection rules and regulation are common, one underutilised tool is voluntary incentives to encourage the retention of existing trees. This research investigates the potential role of incentives to support tree retention during housing intensification projects in Aotearoa New Zealand. Using online surveys and interviews, this study elicited and compared the perspectives of property developers and local government about the benefits, barriers, and viability of incentive schemes. Most respondents expressed a general openness to incentives and a desire for more constructive working relationships. However, the key challenge emerging from stakeholder responses is the conflict between the financial objectives of property developers and the pressure on local government to operate within budgetary constraints. Effective incentives must provide clear and meaningful benefits for developers, whilst also being practical and affordable for local government. Cost-neutral incentives hold the most promise, such as reduced interest rates from lenders for developers that retain existing trees. Although incentives are unlikely to be a complete solution, these findings provide guidance for policy makers considering the use of incentives as an additional tool for managing urban trees on private land.",
+      "keywords": [
+        "Incentive",
+        "Government (linguistics)",
+        "Local government",
+        "Incentive program",
+        "Flexibility (engineering)",
+        "Private sector",
+        "Stakeholder",
+        "Sustainability"
       ]
     }
   ]
