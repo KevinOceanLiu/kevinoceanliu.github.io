@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T22:41:30.511122+00:00",
+  "generated_at": "2026-05-15T22:38:24.549923+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01825-8",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01825-8",
+      "title": "Enduring cultural legacies affect Euro-American wildlife values",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01825-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01836-5",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01836-5",
+      "title": "Coal plants persist as a large barrier to the global solar energy transition",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01836-5",
+      "abstract": "Abstract The global energy transition depends on solar photovoltaic (PV) power displacing fossil fuels to deliver projected climate and air quality benefits. However, aerosol pollution from co-located coal plants actively suppresses PV energy production. Here a global, facility-level dataset shows that aerosols reduced global PV generation by 5.8% in 2023 (111 TWh). From 2017 to 2023, annual aerosol-induced PV energy losses from existing systems were, on average, equivalent to one-third of the energy added by new PV installations. In China, aerosols caused the largest PV energy losses worldwide, reducing national PV generation by 7.7% in 2023. The corresponding annual loss-to-growth ratio averaged 38% and frequently exceeded 50%. Despite continued coal expansion, PV energy losses have declined by 1.4% yr −1 since 2017 owing to stricter emission controls. By contrast, the USA, where co-location of solar and coal plants is limited, experienced only 3.1% aerosol-induced PV loss. Given the slow pace of global coal phase-out, these results reveal a constraint on solar performance that, if unaccounted for, could lead to a systematic overestimation of the transition’s contribution to climate and air quality goals.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01975-6",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01975-6",
+      "title": "Antarctic ice-shelf basal melt shaped by competing feedbacks",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01975-6",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02650-9",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02650-9",
+      "title": "Social inequalities mediate temperature–child maltreatment associations in Africa",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02650-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-01978-3",
       "doi_url": "https://doi.org/10.1038/s41561-026-01978-3",
       "title": "Gas hydrate dissolution triggered by subglacial groundwater flushing during deglaciation",
@@ -41,7 +113,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01978-3",
       "abstract": "Abstract Gas hydrates store large amounts of methane in continental margin sediments and permafrost areas, yet their vulnerability to destabilization under changing climates remains poorly constrained, particularly in polar regions. Here we use International Ocean Discovery Program Expedition 400 and three-dimensional reflection seismic data to identify low-methane, low-salinity zones within the gas hydrate stability zone below the continental shelf offshore Northwest Greenland. Pockmarks basinward of a grounding-zone wedge provide evidence of extensive fluid evacuation in the area immediately seaward of the low-methane, low-salinity zones. The presence of a deep bottom simulating reflector and underlying gas reservoir means that methane is widely available. The absence of methane at the drill sites thus indicates that the gas hydrates have been locally destabilized. We propose that hydraulic gradients during the last glacial cycle established local groundwater flow, flushing the subglacial sediments and releasing methane into the proglacial water column during ice retreat. Our findings highlight a previously overlooked mechanism of gas hydrate dissolution, locally acting much more efficiently than the conventional pathway for methane release by hydrate dissociation. This process has implications for destabilization of polar carbon reservoirs and the potential for abrupt carbon cycle feedbacks under past, present and future climate change.",
-      "keywords": []
+      "keywords": [
+        "Clathrate hydrate",
+        "Permafrost",
+        "Methane",
+        "Deglaciation",
+        "Continental margin",
+        "Carbon cycle",
+        "Flushing",
+        "Continental shelf"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01993-4",
@@ -999,6 +1080,23 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101705",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101705",
+      "title": "Thirty years of decrease in global terrestrial ecosystem respiration due to declining moisture availability",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001065",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.oneear.2026.101701",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101701",
       "title": "Strategic extended producer responsibility can double China’s formal electric vehicle battery recycling with improved sustainability",
@@ -1021,6 +1119,74 @@
         "Production (economics)",
         "Extended producer responsibility"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101707",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101707",
+      "title": "Stewardship under shifting drought baselines",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001089",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101710",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101710",
+      "title": "Solving science conundrums in the climate-nature-equity polycrisis with integrated transformative scenarios",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001119",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101709",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101709",
+      "title": "Resolving the dynamic impacts of drought on carbon cycling: From mechanism to scale",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001107",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101708",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101708",
+      "title": "Q&A with Dr. Yasmine Fouad",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001090",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101703",
@@ -1049,7 +1215,7 @@
     {
       "doi": "10.1016/j.oneear.2026.101702",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101702",
-      "title": "Global patterns of functional-diversity erosion risk in terrestrial vertebrates",
+      "title": "Global patterns of functional diversity erosion risk in terrestrial vertebrates",
       "journal_id": "one-earth",
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
@@ -1070,6 +1236,57 @@
         "Vertebrate",
         "Biodiversity hotspot"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101713",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101713",
+      "title": "Dry futures: The challenge for ecosystem restoration",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001144",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101711",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101711",
+      "title": "Castle on Dried Riverbank",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001120",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101681",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101681",
+      "title": "Antarctic biodiversity can improve estimates of ice-sheet collapse and future sea-level rise",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000825",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1038/s41893-026-01810-1",
@@ -2825,7 +3042,7 @@
       "published_date_display": "2026-04-01",
       "published_parts": [
         2026,
-        4
+        5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000850",
       "abstract": "peer reviewed",
@@ -2849,7 +3066,7 @@
       "published_date_display": "2026-04-01",
       "published_parts": [
         2026,
-        4
+        5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000886",
       "abstract": "",
@@ -4758,7 +4975,7 @@
       "published_date_display": "2026-03-01",
       "published_parts": [
         2026,
-        3
+        5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000576",
       "abstract": "",
@@ -4847,7 +5064,7 @@
       "published_date_display": "2026-03-01",
       "published_parts": [
         2026,
-        3
+        5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600059X",
       "abstract": "",
@@ -4927,7 +5144,7 @@
       "published_date_display": "2026-03-01",
       "published_parts": [
         2026,
-        3
+        5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000503",
       "abstract": "Over the past four decades, China’s rapid urban expansion has been accompanied by a growing wave of housing supply, while also spawning a rising stock of unfinished building projects (UBPs) with unavoidable socio-environmental consequences. The magnitude and spatial concentration of these UBPs, and the resulting stranded materials, emissions, and investments, however, remain unclear. Here, we inventory 1,779 UBPs across 142 Chinese cities by the end of 2023. UBPs are found to have wasted 485 ± 42 Mt of building materials, raised the real-estate sector’s carbon intensity by 9.6%, and imposed ∼2.6 million disability-adjusted life years (DALYs) of fine particulate matter (PM2.5)-related health burden, causing 347 ± 32 billion USD in economic losses borne mainly by homebuyers, developers, and contractors. Driven by land-financing dependence and aggressive development, UBPs clustered in newly developed suburbs, where they deepen service shortfalls and social inequality. A systemic policy framework is needed to manage these “urban stranded assets” and reduce these non-negligible burdens.",
