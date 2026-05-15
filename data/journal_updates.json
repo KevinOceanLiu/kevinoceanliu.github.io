@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T22:19:08.364152+00:00",
+  "generated_at": "2026-05-15T22:10:46.140705+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,26 +26,26 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.003",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.003",
-      "title": "Towards individual agricultural parcel vectorization from VHR imagery: A coarse-to-fine and multi-task learning method",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
+      "doi": "10.1016/j.rse.2026.115483",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115483",
+      "title": "An adaptive method for ocean front detection using spatial–frequency fusion and uncertainty-aware attention",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
       "published_date": "2026-08-01",
       "published_date_display": "2026-08",
       "published_parts": [
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002443",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002531",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.060",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.060",
-      "title": "TAIS-Net: Time adaptive implicit sampling diffusion model for arbitrary-scale UAV video super-resolution",
+      "doi": "10.1016/j.isprsjprs.2026.04.054",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.054",
+      "title": "UAV coarse visual localization in large-scale continuous scenes",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,14 +55,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002376",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002339",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.048",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.048",
-      "title": "Multitemporal latent dynamical framework for hyperspectral images unmixing",
+      "doi": "10.1016/j.isprsjprs.2026.05.006",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.006",
+      "title": "Towards data-free and model-agnostic black-box attacks against SAR-ATR via dual-diversity augmentation",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -72,14 +72,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002297",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002479",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.059",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.059",
-      "title": "Combined change detection analysis of the impacts resulting from heavy rainfall events in mountainous areas",
+      "doi": "10.1016/j.isprsjprs.2026.05.021",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.021",
+      "title": "Shallow-water reef detection driven by few-shot learning with airborne LiDAR bathymetry",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -89,14 +89,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002418",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002625",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.009",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.009",
-      "title": "A physics-guided and scene-adaptive water index for consistent surface water mapping across regions and seasons",
+      "doi": "10.1016/j.isprsjprs.2026.05.010",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.010",
+      "title": "A KED-based framework for enhanced subcanopy topography retrieval leveraging TanDEM-X InSAR and spaceborne LiDAR data",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -106,7 +106,70 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002509",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002510",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115464",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115464",
+      "title": "Mapping tree dieback using Sentinel-2 time series and generalized regression-based unmixing models reveals species-specific patterns across Germany",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002348",
+      "abstract": "",
+      "keywords": [
+        "Series (stratigraphy)",
+        "Time series",
+        "Tree (set theory)",
+        "Reflectivity"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115467",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115467",
+      "title": "Cross-platform forest understanding: A multi-platform synergistic training framework for generalized forest point cloud segmentation",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002373",
+      "abstract": "",
+      "keywords": [
+        "Training (meteorology)",
+        "Segmentation",
+        "Point cloud",
+        "Cloud computing",
+        "Point (geometry)",
+        "Training set"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.055",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.055",
+      "title": "The U. V. Helava award 2022 – 2025",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002364",
       "abstract": "",
       "keywords": []
     },
@@ -124,7 +187,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002397",
-      "abstract": "",
+      "abstract": "Accurate displacement prediction is a prerequisite for assessing landslide stability. However, slow-moving landslides in remote regions often lack ground-based monitoring infrastructure, leading to significant gaps in in situ displacement measurements and triggering factor data. To address this data scarcity, this study presents a unified spatiotemporal prediction framework by coupling time-series interferometric synthetic aperture radar (TS-InSAR) analysis with kinematic feature learning. Variational mode decomposition was applied to the displacement time series derived from 190 Sentinel-1 scenes, resolving the total displacement into monotonic gravitational trends and seasonal fluctuations. Spatial grey correlation analysis suggested that the TS-InSAR displacement sequences of individual monitoring points exhibited strong associations, which were further amplified following the signal decomposition process. To compensate for missing environmental triggers, spatial feature vectors were constructed based on Euclidean distance as a robust physical proxy for the kinematic consistency of the landslide mass. By integrating these spatial kinematic features with a long short-term memory network, a spatiotemporal prediction framework termed SFV-LSTM was established for nonlinear displacement forecasting. In comparative experiments, the SFV-LSTM framework consistently outperformed ten benchmark models encompassing both traditional machine learning and modern deep learning architectures, achieving root mean square error (RMSE) reductions ranging from 22.74% to 58.44%. To evaluate the robustness and cross-regional applicability of the framework, more than 1200 Sentinel-1 scenes were analyzed across six additional landslides characterized by distinct driving mechanisms, including seismic-triggered instability, rainfall-induced flows, and coastal water-level-driven creep, among others. The framework demonstrated consistent performance with RMSE reductions of 13.28% to 30.28%. Furthermore, the associations between triggering factors and nonlinear displacement were evaluated using partial correlation and wavelet analysis. Additionally, phase synchronization analysis was conducted to investigate the asynchrony among multiple drivers. The results indicate that, in landslides influenced by multiple triggers, temporal misalignment between drivers may act as feature noise, thereby degrading predictive performance. In contrast, the proposed framework bypasses this interference by leveraging stable spatial kinematic consistency, offering a physics-informed and robust solution for landslide motion modeling. • Unified framework integrating InSAR spatiotemporal features for landslide prediction. • Coupling spatiotemporal kinematic features effectively improves prediction accuracy. • VMD decomposes landslide displacement into a creep trend and seasonal fluctuations. • Asynchronous triggers potentially act as noise, affecting prediction accuracy. • Generalization capability validated across six landslides with diverse mechanisms.",
       "keywords": [
         "Kinematics",
         "Displacement (psychology)",
@@ -132,6 +195,105 @@
         "Coupling (piping)",
         "Landslide",
         "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.003",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.003",
+      "title": "Towards individual agricultural parcel vectorization from VHR imagery: A coarse-to-fine and multi-task learning method",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002443",
+      "abstract": "",
+      "keywords": [
+        "Vectorization (mathematics)",
+        "Agriculture",
+        "Geographic information system",
+        "Precision agriculture"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.060",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.060",
+      "title": "TAIS-Net: Time adaptive implicit sampling diffusion model for arbitrary-scale UAV video super-resolution",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002376",
+      "abstract": "",
+      "keywords": [
+        "Optical flow",
+        "Context (archaeology)",
+        "Sampling (signal processing)",
+        "Frame (networking)",
+        "Adaptive sampling",
+        "Noise reduction",
+        "Sample (material)",
+        "Video denoising",
+        "Upsampling",
+        "Reduction (mathematics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.059",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.059",
+      "title": "Combined change detection analysis of the impacts resulting from heavy rainfall events in mountainous areas",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002418",
+      "abstract": "Heavy Rainfall Events (HREs) are expected to increase their frequency and intensity under the relentless global warming. Mountain areas are particularly vulnerable to such events, as they are already undergoing profound transformations driven by cryosphere degradation. Glaciers retreat and permafrost degradation leave loose debris which can be entrained by flowing water. A systematic assessment of the effects of HREs in mountain environments is of utmost importance to detect patterns and trends, but also to target efforts for in-depth field investigations. Among the several satellite-based approaches available, in this work we test a combined change detection analysis (over land and water) for evaluating the severity of impacts of HREs at the catchment scale. The defined workflow relies on freely available data and tools to maximize its transferability to different contexts and needs. It is based on simple processing steps to limit computational times and to ensure its usage in the post-emergency phases of HREs. This method is applied to two regional-scale HREs that affected the Western Alps in 2024. A variable rate of 59–65% of the catchments severely affected based on our methodology include documented instability events. The combination of land and water change detection increases recall and reduces omission errors of 6–11% when compared to more traditional land change detection alone. This method may allow the detection of affected areas not identified by field/aerial surveys. This work represents an initial step for developing a workflow specifically tailored to manage natural hazards in mountain areas.",
+      "keywords": [
+        "Change detection",
+        "Permafrost",
+        "Glacier",
+        "Climate change",
+        "Debris",
+        "Hazard",
+        "Workflow",
+        "Hazard analysis",
+        "Work (physics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.009",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.009",
+      "title": "A physics-guided and scene-adaptive water index for consistent surface water mapping across regions and seasons",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002509",
+      "abstract": "",
+      "keywords": [
+        "Index (typography)",
+        "Surface water",
+        "Surface (topology)",
+        "Hydrology (agriculture)"
       ]
     },
     {
@@ -150,7 +312,9 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659903",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Proof of concept"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115466",
@@ -189,7 +353,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002506",
-      "abstract": "",
+      "abstract": "Winter cover crops (WCC) are an effective agricultural conservation practice for improving soil health and water quality. Several U.S. states have established incentive programs to promote planting WCC between cash crop rotations. In recent years, the area planted with WCC has steadily increased due to these efforts, although the planting area varies among states. Since these programs are largely led by individual counties or state programs, there is no centralized data repository that quantifies the total WCC planted annually or their locations, especially during the growing season. Therefore, there is a practical need to identify fields that have been planted with WCC, as well as to quantify the total planted area both during and after the growing season. Furthermore, incentive programs often require verification that WCC were planted to release payments to participating growers in a timely manner. Satellite remote sensing time series can provide information on the growth status of WCC. However, it remains unclear what kind of WCC the remote sensing data detects. For example, separating WCC from weeds and winter commodity crops remains a challenge. Additionally, a binary classification of WCC presence and absence cannot accurately describe the category and performance of the WCC. This paper presents a new remote sensing phenology-based approach to map WCC likelihood. We assessed model predictions of WCC likelihood using WCC planting records and ground observations over fields at the Beltsville Agricultural Research Center (BARC) from 2018 to 2024. Regional WCC maps were assessed using the Maryland Department of Agriculture's records of WCC fields enrolled in the 2019 and 2020 incentive programs. Our results show that the balanced overall accuracy for WCC and non-WCC ranges from 75% to 85% with limited training samples. The producer's accuracy (sensitivity) of WCC could be as high as 90% or higher. However, the high accuracy of WCC corresponds with low accuracy for non-WCC due to confusion with weeds and perennial grasses. Early-season detection yields promising results, with overall accuracies comparable to late-season detection. The post-season detection can differentiate between winter cereal grain cash crops and incentive WCC based on the ending date of the growing season. With a small set of WCC samples and management information, the phenology-based mapping approach offers a rapid and scalable solution for mapping WCC over a large region during or after each WCC growing season. • Developed a new phenology-based method for mapping winter cover crop (WCC) likelihood. • Generated WCC maps from satellite imagery during or after winter growing season. • Distinguished winter cereal grain crops from incentivized WCC. • Scalable to large area while using a small set of WCC samples and remote sensing. • Achieved an overall accuracy of approximately 80% for both WCC and non-WCC.",
       "keywords": [
         "Phenology",
         "Crop",
@@ -5634,7 +5798,7 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2641743",
-      "abstract": "",
+      "abstract": ", Pharos collected high- resolution data on network performance and landmark locations, generating a comprehensive dataset that links network availability with environmental features. These results provide essential insights for planning and implementing mHealth interventions in low-resource settings, with potential applications in infectious disease surveillance and other global health initiatives.",
       "keywords": [
         "mHealth",
         "Mobile device",
@@ -8274,33 +8438,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0034-4257(26)00078-7",
-      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00078-7",
-      "title": "Editorial Board",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-17",
-      "published_date_display": "2026-02-17",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000787",
-      "abstract": "",
-      "keywords": [
-        "Nucleofection",
-        "Gestational period",
-        "TSG101",
-        "Dysgeusia",
-        "Liquation",
-        "Diafiltration",
-        "Emperipolesis",
-        "Triacetin",
-        "Demotion"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.018",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.018",
       "title": "Quantitative comparison of fine-tuning techniques for pretrained latent diffusion models in the generation of unseen SAR images",
@@ -10598,31 +10735,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115256",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115256",
-      "title": "Generating an annual 30 m rice cover product for monsoon Asia (2018–2023) using harmonized Landsat and Sentinel-2 data and the NASA-IBM geospatial foundation model",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600026X",
-      "abstract": "",
-      "keywords": [
-        "Geospatial analysis",
-        "Monsoon",
-        "Foundation (evidence)",
-        "Product (mathematics)",
-        "Cover (algebra)",
-        "Land cover",
-        "Snow cover"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2025.2611981",
       "doi_url": "https://doi.org/10.1080/13658816.2025.2611981",
       "title": "<i>SpatialCausal</i> : a spatially-aware causal inference deep learning model for out-of-hospital cardiac arrest survival prediction",
@@ -11354,30 +11466,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.011",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.011",
-      "title": "SmartQSM: a novel quantitative structure model using sparse-convolution-based point cloud contraction for reconstruction and analysis of individual tree architecture",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-10",
-      "published_date_display": "2026-01-10",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000110",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Contraction (grammar)",
-        "Tree (set theory)",
-        "Cloud computing",
-        "Architecture",
-        "Tree structure"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115197",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115197",
       "title": "Estimating the upper depth of subsurface water on the Greenland Ice Sheet using multi-frequency passive microwave remote sensing, radiative transfer modeling, and machine learning",
@@ -11748,32 +11836,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.007",
-      "title": "Mapping land uses following tropical deforestation with location-aware deep learning",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-07",
-      "published_date_display": "2026-01-07",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004915",
-      "abstract": "The rates of tropical deforestation remain alarmingly high. To enable effective, targeted policy responses, detailed data on its driving forces is needed-each deforestation event needs to be attributed to an agricultural commodity or another land use. Remote sensing allows us to monitor land use conversion following deforestation, providing a proxy of drivers. However, recognizing individual commodities is challenging due to spectral similarities, the limited spatial resolution of free satellite imagery, and limited labeled data. To tackle these challenges, we propose a deep learning, multi-modal approach for the recognition of post-deforestation land uses from a time series of Sentinel-2 images, geographic coordinates, and country-level statistics of deforestation drivers. To integrate the modalities, we design a Transformer-based model with modality-specific encoders. The approach reaches 87% accuracy, an improvement of 10% over the image-only baseline, with little increase in data volume, computations, and model size. It works well in low-data regimes, and can be easily extended to include other modalities. Overall, this work contributes towards detailed, repeatable, and scalable mapping of deforestation landscapes, providing necessary data for the design and implementation of targeted interventions to protect tropical forests.",
-      "keywords": [
-        "Deforestation (computer science)",
-        "Land use",
-        "Commodity",
-        "Deep learning",
-        "Scalability",
-        "Satellite imagery",
-        "Work (physics)",
-        "Proxy (statistics)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2596694",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2596694",
       "title": "Space for Alienation: Seriality (or Being Alone Together) in the Swimming Hall",
@@ -11900,32 +11962,6 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.021",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.021",
-      "title": "MARSNet: A Mamba-driven adaptive framework for robust multisource remote sensing image matching in noisy environments",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-05",
-      "published_date_display": "2026-01-05",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625005052",
-      "abstract": "",
-      "keywords": [
-        "Robustness (evolution)",
-        "Remote sensing application",
-        "Matching (statistics)",
-        "Noise (video)",
-        "Feature extraction",
-        "Feature (linguistics)",
-        "Image fusion",
-        "Pattern recognition (psychology)"
       ]
     },
     {
@@ -12273,33 +12309,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.11.034",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.034",
-      "title": "Towards High spatial resolution and fine-grained fidelity depth reconstruction of single-photon LiDAR with context-aware spatiotemporal modeling",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-18",
-      "published_date_display": "2025-12-18",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004733",
-      "abstract": "",
-      "keywords": [
-        "Lidar",
-        "Encoder",
-        "Context (archaeology)",
-        "Convolution (computer science)",
-        "Image resolution",
-        "Mean squared error",
-        "Fusion",
-        "Spatial contextual awareness",
-        "Pattern recognition (psychology)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115200",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115200",
       "title": "A novel hybrid approach for mapping global surface solar radiation with DSCOVR/EPIC: Combining deep learning with physical algorithm",
@@ -12346,31 +12355,6 @@
         "Radiation",
         "Surface (topology)",
         "Radiometry"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115158",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115158",
-      "title": "A review of forward modelling and retrieval approaches for forest soil moisture and vegetation optical depth using L-band radiometry",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-15",
-      "published_date_display": "2025-12-15",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005620",
-      "abstract": "Forests are a critical component of the Earth system, accounting for approximately one-third of global photosynthetic activity and carbon storage. They also provide essential habitats for countless species and vital resources for human activities. Low-frequency (L-band; 1–2 GHz) microwave radiometry enables the measurement of forest soil moisture (SM) and L-band vegetation optical depth (L-VOD), offering valuable insights into processes such as tree growth, water infiltration, soil fertility, fuel moisture, carbon stocks, wildfire vulnerability, and biodiversity dynamics. These measurements also support the study of carbon and water fluxes, tree responses to hydrological stress (e.g., drought), and fuel moisture estimation. However, existing algorithms for retrieving SM and L-VOD were primarily developed for low-biomass vegetation types (e.g., grasslands and croplands), differing structurally from forests. This motivates the present review to evaluate the current retrieval approaches, their performance assessment methods, and available validation resources. The review found that systematic uncertainties persist in forest retrievals, despite the demonstrated sensitivity of L-band brightness temperature (TB) to forest SM and L-VOD. Moreover, the focus on non-forest ecosystems has led to a lack of suitable ground truth and reference data for validating forest SM and L-VOD products, and current validation techniques remain underdeveloped. To fully harness the potential of L-band radiometry in forest monitoring, new retrieval algorithms that account for the unique structural and compositional characteristics of forests are required. Additionally, validation efforts must be enhanced both quantitatively and qualitatively—particularly for L-VOD—to improve confidence in these remote sensing products.",
-      "keywords": [
-        "Radiometry",
-        "Vegetation (pathology)",
-        "Water content",
-        "Moisture",
-        "Reflectivity",
-        "Thematic Mapper",
-        "Radiometer"
       ]
     },
     {
@@ -12707,33 +12691,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.11.024",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.024",
-      "title": "2Player: A general framework for self-supervised change detection via cooperative learning",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-02",
-      "published_date_display": "2025-12-02",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004630",
-      "abstract": "While recent progress in deep learning have improved change detection (CD) in remote sensing, achieving high performance without labeled data remains an open challenge. Current models remain strongly reliant on large-scale annotated datasets, limiting their scalability to new regions and applications. Unsupervised CD methods offer a promising alternative but often suffer from limited representational ability and vulnerability to irrelevant changes in appearance such as seasonal variations. In this work, we propose the 2Player framework, a novel self-supervised method that transforms any existing CD architecture into an unsupervised model by leveraging a cooperation between a change detector and a reconstruction-based model. The two models, or players, guide each other during training: reconstruction errors provide supervision to the change detector, while change predictions guide the reconstruction process. To further improve robustness, we introduce a Geographical Correspondence Module that provides high-frequency structural information, effectively reducing false positives stemming from irrelevant changes in appearance. Furthermore, we propose a simple filtering strategy to mitigate the impact of label noise in CD datasets, contributing in an improved evaluation. We test 2Player on four very high-resolution datasets: HRSCD, for which we improve and release a new, cleaner set of labels, LEVIR-CD, WHU-CD, as well as a new dataset, ValaisCD. Our approach achieves state-of-the-art performance among unsupervised methods on these datasets, and with its architecture-agnostic design, provides a promising direction for bridging the gap between supervised and unsupervised change detection. • Self-supervised approach for change detection in remote sensing. • Can transform any supervised CD model into an unsupervised one. • Employs cooperative training between a change detector and a reconstruction model. • Uses a Geographical Correspondence Module to preserve structural information. • Release of ValaisCD, a new CD dataset, and improved clean labels for HRSCD.",
-      "keywords": [
-        "Change detection",
-        "Scalability",
-        "False positive paradox",
-        "Unsupervised learning",
-        "Bridging (networking)",
-        "Limiting",
-        "Set (abstract data type)",
-        "Supervised learning",
-        "Deep learning"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2025.11.031",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.11.031",
       "title": "National mapping of wetland vegetation leaf area index in China using hybrid model with Sentinel-2 and Landsat-8 data",
@@ -12758,6 +12715,32 @@
         "China",
         "Spatial ecology",
         "Spatial analysis"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.048",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.048",
+      "title": "Multitemporal latent dynamical framework for hyperspectral images unmixing",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2025-05-27",
+      "published_date_display": "2025-05-27",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002297",
+      "abstract": "",
+      "keywords": [
+        "Discretization",
+        "Dynamical systems theory",
+        "Hyperspectral imaging",
+        "Ordinary differential equation",
+        "Dynamical system (definition)",
+        "Stability (learning theory)",
+        "Convergence (economics)",
+        "Sequence (biology)"
       ]
     },
     {
