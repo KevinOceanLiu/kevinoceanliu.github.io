@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T23:36:37.449508+00:00",
+  "generated_at": "2026-05-15T23:37:19.234064+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,150 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03075-5",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03075-5",
+      "title": "Larger forest patches have greater per-area productivity",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03075-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70348",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70348",
+      "title": "Fire modulates the structural drivers and functioning of individual‐based plant‐pollinator networks",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70348",
+      "abstract": "Abstract Fire is a natural phenomenon that shapes ecosystems, but climate change and human activities have increased its frequency and magnitude, disrupting essential ecosystem services like pollination. Despite advances in understanding fire's effects on species and interactions, the mechanisms shaping ecological networks and determining their functional outcomes remain poorly understood. To address these gaps, we used individual‐based plant‐pollinator networks to evaluate how do plant traits, phenology and site‐related attributes (i.e. proximity of plant individuals, local temperature) shape interaction patterns before and after a fire. We also examined how these factors, along with each plant's position within the network (i.e. centrality), influence individual plant fitness before and after fire. Our results showed that the frequency of interactions of some pollinator functional groups changed after the fire, with an increase in plant–hummingbird interactions and a decrease in plant–lepidopteran interactions. In addition, before the fire the ecological drivers shaping plant‐pollinator networks were the number of flowers, floral buds and distance to conspecifics and heterospecifics. Plant–plant facilitation via pollinator sharing, inferred from significant negative effects of shorter conspecific and also heterospecific distances on shaping network structure before fire, increased individual plant fitness only among aggregated individuals of the same species. In contrast, after the fire, flowering synchrony became the main ecological driver shaping plant‐pollinator networks, suggesting stronger intraspecific competition, with plant fitness decreasing with higher spatial proximity of heterospecifics, with diluted effects of conspecific facilitation. Synthesis : Facilitative interactions with conspecifics via pollinator sharing were diluted by fire, with potential delayed effects on population recovery. Our findings emphasize that fire causes a shift from facilitative processes to more competitive scenarios in plant‐pollinator networks, with implications for population dynamics and community recovery.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70919",
+      "doi_url": "https://doi.org/10.1111/gcb.70919",
+      "title": "Underestimation of Future Agricultural Soil N <sub>2</sub> O Emissions and Abatement Needs",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70919",
+      "abstract": "ABSTRACT Agricultural soils are the largest human‐induced source of nitrous oxide (N 2 O) due to the extensive fertilizer use in crop production. Despite progress made in global N 2 O budget accounting, using the IPCC‐derived static emission factors (EF) limits our capability to project future changes in agricultural N 2 O emissions and identify cost‐effective mitigation strategies. Here, we use a physics‐informed AI‐driven dynamic EF modeling framework to project direct agricultural soil N 2 O emissions induced by mineral fertilizer additions under various climate and nitrogen (N) regulation policy scenarios. Compared to projections based on static EF, our study yields higher future N 2 O emissions by 0.3–1.1 Tg N year −1 across scenarios by 2050, implying greater abatement needs to combat climate change. The gap between static and dynamic EF approaches is projected to widen to 29%–34% by mid‐century. Under moderate‐ to high‐ambition N regulation policies, we project that a 25% emission reduction can be reached before 2050, while a 45% reduction is only attainable under high‐ambition N policies and strong climate action. The potential for N 2 O mitigation due to a policy shift varies substantially among regions, with seven top source regions contributing 76%–87% of global N 2 O reduction. Adopting N 2 O reduction technologies in hotspot areas would significantly accelerate the timeline for achieving the 25% reduction goal. Improving fertilizer management on croplands can provide climate benefits comparable to, or even exceeding, those of enhancing soil carbon sequestration, particularly in regions with low nitrogen use efficiency. Our findings highlight the higher mitigation potential of targeting N 2 O emission hotpots and the urgency of implementing policy shifts.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70911",
+      "doi_url": "https://doi.org/10.1111/gcb.70911",
+      "title": "Incorporating Thermal Adaptation and Acclimation Improves Light‐Use Efficiency Modeling for Estimating Gross Primary Production in Tibetan Plateau Grasslands",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70911",
+      "abstract": "ABSTRACT The optimal temperature for photosynthesis (Topt), the temperature at which photosynthesis peaks, is crucial for estimating gross primary production (GPP). Most models, however, apply biome‐specific Topt, overlooking the spatial and temporal variability driven by the genetic adaptation and interannual thermal acclimation of plants, thus introducing systematic error in GPP estimation. We mapped Topt of Tibetan Plateau (TP) grassland averaged over 1982–2018, using satellite‐derived near‐infrared reflectance of vegetation as a proxy of photosynthesis, and projected future Topt under different scenarios of shared socioeconomic pathways (SSPs) using space‐for‐time substitution. We assessed the effects of Topt adaptation on current GPP estimation and acclimation on projected GPP using a light‐use efficiency model (i.e., EC‐LUE model). The spatial heterogeneity of Topt was pronounced across the TP grassland, with higher values in the northeast and lower values in the southwest, averaging 9.32°C ± 3.15°C. Topt tended to increase from 2040 to 2080 across all SSPs, with the slowest increase under SSP1‐2.6 (0.015°C y −1 ) and the fastest increase under SSP5‐8.5 (0.061°C y −1 ). Incorporating Topt adaptation into the EC‐LUE model improved the accuracy of GPP estimation, with R 2 increasing by 7.19% and RMSE decreasing by 11.40%, compared to the model with a fixed Topt. In contrast, ignoring the adaptation of Topt led to systematically lower GPP values across 77.9% of the TP grassland, resulting in an overall reduction of estimated GPP by 7.07% (0.07 g C m −2 d −1 ). Ignoring the acclimation of Topt led to systematically higher projected GPP on the TP, ranging from 2.87% ± 8.96% (SSP1‐2.6) to 3.83% ± 5.97% (SSP3‐7.0) across different scenarios, covering more than 70% of TP regions. These findings highlight the necessity of incorporating both the adaptation and acclimation of Topt into GPP models to enhance the monitoring of the carbon cycle.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70910",
+      "doi_url": "https://doi.org/10.1111/gcb.70910",
+      "title": "Enhancing Role of Nitrogen Fixation in Biogeochemical Cycles of the <scp>P</scp> acific <scp>A</scp> rctic",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70910",
+      "abstract": "ABSTRACT The Arctic Ocean is warming rapidly, prompting increased attention to the ecosystem's response to sea‐ice loss and the influx of organisms from lower latitudes. Recent studies have shown that these exogenous organisms are affecting the biodiversity of Arctic ecosystems, but their impact on biogeochemical cycles remains unclear. This study provides evidence that diazotrophs transported from outside the Arctic can significantly contribute to the Arctic new production. From 2015 to 2020, we conducted broad observations in the Chukchi and Beaufort Seas during late summer and autumn, measuring nitrogen fixation rates, diazotroph community composition, and key processes related to new production (nitrate assimilation and nitrification). In 2017, we observed a marked increase in nitrogen fixation, especially in the off‐shelf region undergoing oligotrophication, where it constituted a significant fraction of the new production (interquartile range 10.8%–62.5%, median: 21.5%). UCYN‐A2 ( Candidatus Atelocyanobacterium thalassa) emerged as the dominant diazotroph across all regions in that year, with a significant positive correlation between its abundance and nitrogen fixation rates, suggesting its key role in the elevated nitrogen fixation. Water mass analyses, sea ice observation, and numerical simulations indicated that UCYN‐A2 likely originated in the Bering Sea and was transported to the Arctic off‐shelf region, and proliferated there with increasing temperature as a result of unusually early sea ice melt in 2017. These findings indicate that as warming and earlier sea ice retreat continue, the influence of exogenous diazotrophs on Arctic biogeochemical cycles can become increasingly pronounced.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70912",
+      "doi_url": "https://doi.org/10.1111/gcb.70912",
+      "title": "Enhanced Root Exudation as an Adaptation Mechanism to Facilitate Phosphorus Mobilization in a Primary Tropical Forest Under Chronic Nitrogen Deposition",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70912",
+      "abstract": "ABSTRACT Tropical and subtropical forests play a key role in alleviating global climate change by maintaining high ecosystem productivity and carbon (C) sequestration. Elevated atmospheric nitrogen (N) deposition is reshaping ecosystem structure and function in the tropics, yet it remains unclear how N‐rich tropical and subtropical ecosystems adapt to chronic N deposition. Using a two‐decade N addition experimental platform in a primary tropical forest, we quantified the responses of root exudation and soil P transformation processes. We find that N addition stimulates forest trees to allocate more photosynthates to root exudation and accelerated rhizosphere P mobilization. This finding challenges the paradigm that long‐term N addition reduces belowground C allocation. This process represents a critical adaptation mechanism by which trees mitigate decreased P availability induced by long‐term N deposition. This study reveals a positive feedback between root exudation and soil P mobilization, supporting high ecosystem C sequestration in N‐rich ecosystems under long‐term N deposition.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70913",
+      "doi_url": "https://doi.org/10.1111/gcb.70913",
+      "title": "Continental‐Scale Evidence of Farm Management Impacts on Soil Carbon",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70913",
+      "abstract": "ABSTRACT There are high expectations that agricultural practices can mitigate climate change and improve soil health by increasing soil organic carbon (SOC) stocks. However, existing large scale SOC monitoring treats agricultural management as a black box, meaning that observed patterns and trends cannot inform on the option space of agricultural practices to improve or deteriorate SOC stocks. Here, we combine for the first time management data from large scale systematic farm surveys ( n = 248,362 farms) and representative soil monitoring data ( n = 8834 locations) to quantify the impact of agricultural practices on three SOC metrics across all pedoclimatic zones of Europe (EU + UK): stocks, stocks relative to pedoclimatic benchmarks, and yearly change in SOC concentration. Our findings show that in arable and tree crops, but not in grasslands, management intensity is a significant contributor to SOC loss, with impact varying by soil and climate region. However, we also observed that several practices (e.g., high share of manure, organic management, and a high proportion of leys in crop rotation) demonstrated potential for increasing SOC stocks. Under a scenario where all agricultural land in Europe would be managed as that of the 10% most optimally managed farms in terms of SOC benefit, SOC stocks would increase by 1.58 Pg C across Europe (95% CI: 1.27–1.89 Pg C). Whereas under a scenario where farms are managed as the 10% least optimally managed farms, SOC would decrease by −0.92 Pg C (−1.15 to −0.68 Pg C). However, it is important to note that these estimates reflect steady‐state SOC stocks only (i.e., they do not represent the transient build‐up or loss over time, or interactions with a changing climate). This paper thus quantifies how agricultural practices influence patterns in SOC stocks at the continental scale, identifying leverage points for site‐specific policies to improve SOC stocks.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70347",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70347",
+      "title": "Forest composition and diversity buffer microclimates and enhance productivity",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70347",
+      "abstract": "Abstract Tree diversity may play a role in buffering forest ecosystems against climate extremes. We asked how diverse tree communities could (1) influence local atmospheric water demand, and (2) how changes in microclimate could be linked to the productivity of trees within forest communities. To assess forest canopy characteristics and calculate above‐ground productivity, we measured plant fractional cover using UAV‐LiDAR and conducted growth inventories in 148 forest plots of a young temperate tree diversity experiment. We monitored the microclimate and tracked soil moisture in a subset of forest plots to understand the relative influence of above‐ground and below‐ground water status on tree growth. Gas exchange, spectral reflectance and leaf mass per area were measured on four tree species distributed throughout the experiment to assess the influence of microclimate on tree physiology. We found that fast‐growing, early successional tree species increased forest cover, which was linked to buffered daily amplitudes of vapour pressure deficits (VPD) within forest plots and increases in the annual wood production of slower‐growing, shade‐tolerant tree species. In assemblages with more buffered microclimates, several slower‐growing tree species showed increased leaf water content and reduced physiological stress. Plots with reduced amplitude in VPD exhibited greater complementarity and productivity relative to those with higher variability. Synthesis . Our findings show that tree diversity and the proportion of fast‐growing, early successional tree species can increase canopy cover and buffer the microclimates of young forests, benefiting the physiology and productivity of slower‐growing, shade tolerant tree species. We reason that a self‐reinforcing dynamic of tree growth and microclimate buffering is likely at play. In the context of a rapidly changing climate, our findings suggest that diverse forest communities can shape local microenvironments to support sustainable ecosystem functioning.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2664.70409",
       "doi_url": "https://doi.org/10.1111/1365-2664.70409",
       "title": "Diverse soil seedbanks are resilient to reintroducing low‐intensity fire in a subtropical grassy woodland",
@@ -51,7 +195,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70409",
       "abstract": "Abstract In fire‐prone ecosystems, reintroducing fire following long‐term exclusion can restore ecosystem function and biodiversity. In some situations, repeated burning might be necessary to reduce invasive species and promote native plant re‐establishment, but this strategy rests on the assumption that residual seedbanks persist following fire. We assessed the impact of a low‐intensity prescribed fire on the below‐ground germinable seedbank, relative to the above‐ground plant community in subtropical grassy woodlands of southeast Queensland, Australia. Nine months after fire, we surveyed groundcover species along 10 transects (five burnt, five unburnt), each with three 1 m 2 quadrats (30 total). Soil samples were collected from three adjacent 1 m 2 quadrats (30 total) and species in the soil seedbank were identified during a 5‐month greenhouse emergence trial, concluding when new germination slowed. We analysed species richness (α diversity), community uniqueness (β diversity) and community composition in 13 trait groups (based on origin, life span, growth form and N fixation) in response to ‘fire’ (burnt vs. control) and ‘position’ (above‐ vs. below‐ground). There were no effects of fire on species richness of any group, either above‐ or below‐ground. There were significant effects of position on richness in all functional groups except exotic grasses. Below‐ground seedbanks had more than double the number of species, compared to above‐ground vegetation (e.g. an average of 27 vs. 11 species per m 2 on unburnt sites). Above‐ground vegetation had higher levels of uniqueness than below‐ground seedbanks, and there were no notable effects of fire on β diversity in any functional group. Partitioning β diversity showed that above‐ground communities were structured by species replacement and below‐ground seedbanks by richness agreement. Seedbanks were compositionally dissimilar to above‐ground plant communities (effect of position on one Principal Component (PC1), p < 0.001) and composition was unaffected by fire. Policy implications : Seedbanks in this grassy woodland provide a rich biodiversity reservoir which persisted after low‐intensity fire. Patterns of species replacement suggest that activities which diminish above‐ground plant diversity (such as overgrazing or conversion to forest) will impact biodiversity at larger spatial scales, while soil seedbanks are likely more robust to localised disruptions. Read the free Plain Language Summary for this article on the Journal blog.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Groundcover",
+        "Vegetation (pathology)",
+        "Woodland",
+        "Quadrat",
+        "Plant community",
+        "Subtropics",
+        "Transect"
+      ]
     },
     {
       "doi": "10.1111/gcb.70905",
@@ -69,7 +222,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70905",
       "abstract": "ABSTRACT Understanding the resistance of native fauna to biological invasions is essential for predicting and managing freshwater fish diversity under accelerating global change. Using fish and environmental data from 2622 river basins worldwide, we quantified how niche differentiation, phylogenetic and functional diversity, and richness of native species, as well as environmental factors contribute to non‐native fish richness and occurrence. Our results show that niche differentiation of native fishes is the key determinant of biotic resistance: when native species occupy broader and more heterogeneous niche spaces, both the richness and occurrence probability of non‐native fishes decline significantly, a pattern that holds consistently across global and biogeographic scales. Functional and phylogenetic diversity exert partially constraining effects, yet their influence varies across invasion metrics and spatial scales, thereby limiting their predictive power. Native richness promotes the naturalization of non‐native species but does not significantly influence invasion richness. Notably, non‐native fish invasions follow a nonlinear latitudinal gradient, intensify with increasing human pressure, and are positively associated with basin area. These findings demonstrate that freshwater fish invasions are jointly shaped by biotic interactions, environmental filtering, and human activities, with native niche differentiation emerging as the primary driver of biotic resistance. By incorporating niche‐based mechanisms, this study provides a unifying perspective for reconciling the invasion paradox and offers a process‐based foundation for developing integrated invasion management strategies under global change.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Niche",
+        "Introduced species",
+        "Ecological niche",
+        "Invasive species",
+        "Biotic component",
+        "Freshwater fish",
+        "Resistance (ecology)"
+      ]
     },
     {
       "doi": "10.1111/gcb.70899",
@@ -87,7 +249,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70899",
       "abstract": "ABSTRACT Measurement of methane fluxes (FCH 4 ) from natural systems, such as wetlands, has lagged far behind carbon dioxide fluxes. Short and fragmented wetland FCH 4 data limit our ability to assess its long‐term dynamics and potential climate feedbacks. Extrapolating short‐term FCH 4 records to recent decades remains challenging for both process‐based models and data‐driven machine learning (ML) approaches. Here, we develop a knowledge‐guided ML framework that integrates eddy covariance (EC) FCH 4 observations, field warming experiments, and biogeochemical knowledge to reconstruct the long‐term FCH 4 budgets and trends. Focusing on the 11 longest EC monitoring sites in the AmeriFlux network, we found considerable variability in multi‐decadal trends of wetland FCH 4 , with increases up to 14% per decade from 2000 to 2024. We also found that the strength of these increasing trends declines from high to low latitudes, highlighting the vulnerability of northern wetlands. This work presents novel and robust reconstructions of long‐term wetland FCH 4 , offering critical benchmark datasets for bottom‐up ecosystem models and advancing fundamental understanding of wetland biogeochemistry.",
-      "keywords": []
+      "keywords": [
+        "Wetland",
+        "Eddy covariance",
+        "Biogeochemical cycle",
+        "Benchmark (surveying)",
+        "Methane emissions",
+        "Ecosystem",
+        "Climate change",
+        "Coupled model intercomparison project",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1111/gcb.70916",
@@ -105,6 +277,52 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70916",
       "abstract": "ABSTRACT Human activities strongly alter wildlife distributions and behaviors, rapidly reshaping their community structure. Although links between human pressures and community assembly have been explored, practical integration of multiple biodiversity indicators, especially compositional homogenization and functional trait patterns, remains limited. We addressed this gap by jointly assessing the compositional and functional responses of mammal communities to human pressures across Southeast Asia. We compiled an extensive camera‐trapping dataset from 4508 sites spanning > 38° of latitude across tropical and temperate forests in Southeast Asia. We quantified compositional homogenization and functional diversity trait patterns in relation to human pressures within and across forests. Our results show that community assembly is broadly affected by human pressures, with communities in Tropical & Subtropical Moist Broadleaf Forests (TSMBF) exhibiting greater vulnerability than those in Temperate Coniferous Forests (TCF), as evidenced by pronounced compositional homogenization and distinct changes in functional traits. High‐intensity human modification promoted compositional homogenization alongside functional trait divergence, while long‐term changes in building‐density drove functional trait convergence. This study demonstrates that integrating compositional and functional indicators provides a more holistic understanding of anthropogenic impacts on biodiversity. The heightened vulnerability of tropical mammal communities underscores the urgent need for targeted conservation strategies in these regions to curb the replacement of endemic specialists with widespread generalists.",
+      "keywords": [
+        "Homogenization (climate)",
+        "Trait",
+        "Subtropics",
+        "Mammal",
+        "Biodiversity",
+        "Temperate climate",
+        "Functional diversity",
+        "Ecosystem",
+        "Wildlife"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70907",
+      "doi_url": "https://doi.org/10.1111/gcb.70907",
+      "title": "Climatic Legacies Drive Spatial Aggregation of Plants in Drylands",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70907",
+      "abstract": "ABSTRACT In drylands, vegetation is spatially aggregated in patches separated by bare soil areas. So far, research on vegetation spatial patterns mainly focused on the effect of current climates and herbivory pressure. Yet, past climates might leave traces (called legacies) that affect present‐day spatial vegetation patterns. Here, we joined two datasets on plant spatial patterns and information about past climates during the mid‐Holocene and the last glacial maximum to investigate the effects of past and current climates on plant spatial patterns. We show that past climates have effects of similar magnitude as current climate on the vegetation cover, but have a remarkably stronger imprint on the spatial aggregation of vegetation in drylands. Furthermore, we found that climate legacies on plant spatial patterns might relate to climate long‐lasting effects on soil multifunctionality and sand content. Climate legacies detected here emphasize the contrasting time scales of processes involved in vegetation patterning, which we should account for when assessing dryland functioning and resilience from these patterns. This study opens perspectives to assess legacies from human activities and past climate on ecosystems.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70921",
+      "doi_url": "https://doi.org/10.1111/gcb.70921",
+      "title": "Alpine Grasslands Are Not Moving Upslope Despite Strong Warming Trends Across the Tibetan Plateau",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        5,
+        14
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70921",
+      "abstract": "",
       "keywords": []
     },
     {
@@ -164,7 +382,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70381",
       "abstract": "Abstract Context : Agricultural intensification has simplified agroecosystems, reduced biodiversity and weakened natural pest control. Effective biological control requires reliable, long‐term control of multiple herbivores. While studies investigated biological control in diversified cropping systems, there is little information as to what extent pest suppression is sustained throughout the growing season and whether it provides satisfactory control of several herbivores. Objectives : Here we assessed how increasing crop diversity and an ‘attract‐and‐reward’ (A&R) strategy influence the effectiveness and temporal stability of biological control. Methods : We compared predation, parasitism of eggs and caterpillars in a cabbage system with four levels of crop diversity: cabbage monoculture, cabbage‐oat strip cropping, strip cropping with six crops and an A&R system in which a strip cropping system was enhanced by inclusion of a parasitoid‐attractive cabbage cultivar and nectar‐providing buckwheat. Experiments were conducted at two organically‐managed farms in the Netherlands in 2023 and 2024. Additionally, a full‐factorial experiment was conducted in 2023 at one location to assess the effects of the A&R components. Temporal stability was quantified as the coefficient of variation and the proportion of sampling weeks in which each treatment exceeded the mean biological control level. Results : Across locations and years, strip cropping enhanced parasitism rates of Pieris brassicae and Plutella xylostella compared with monocultures. Pieris brassicae parasitism increased from 28% in monocultures to 58% in strip cropping systems, while P. xylostella parasitism rose from 10% to 25%–30%. Parasitism of Mamestra brassicae eggs by Trichogramma spp. reached up to 30% in the strip cropping system with six crops, compared with 1% in monocultures. A&R provided no improvement beyond standard strip cropping. Monocultures showed the highest coefficient of variation and exceeded the site‐year mean in only 13% of weeks, compared to more than 60% in strip crop systems. Synthesis and application : Our results highlight that strip cropping can enhance and stabilize biological control. Even simple two‐crop designs provide clear benefits over monocultures, while increasing crop diversity to six crops offers additional advantages. Because the temporal stability of biological control increases with crop diversity, designing strip cropping systems with more crops can help maintain consistent and resilient pest regulation throughout the growing season.",
-      "keywords": []
+      "keywords": [
+        "Biological pest control",
+        "Monoculture",
+        "Cropping",
+        "Cropping system",
+        "PEST analysis",
+        "Parasitism",
+        "Herbivore",
+        "Biodiversity",
+        "Crop"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70394",
@@ -182,7 +410,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70394",
       "abstract": "Abstract Dryland vascular plant emergence is often limited by water availability, especially with projected climate and precipitation changes. Biological soil crusts (biocrusts) can promote water retention and nutrient availability that benefit emergence yet can also act as a surface barrier preventing critical seed‐soil contact and hindering emergence. Alongside these factors, dryland fire frequency has increased with the inclusion of invasive species and vegetation structural changes. With enhanced continuous fine fuel distribution, there is a high potential to disrupt biocrust–plant interactions and influence associated management actions. This study explores the dynamic relationship between biocrusts and fire‐related heating effects on seedling emergence across five North American deserts: the Chihuahuan Desert, Colorado Plateau, Great Basin, Mojave Desert and Sonoran Desert. We conducted a greenhouse‐based seedling emergence experiment using Elymus elymoides (bottlebrush squirreltail), a common perennial grass, with biocrust and bare soil mesocosms in which half were heated to mimic the effects of wildfire temperature. The variables that had the greatest influence on emergence rate and emergence timing were the presence of biocrust and seed placement (on top of vs within the biocrust/soil matrix). Emergence rate was greatest atop bare soil followed by seeds inserted into biocrust. Emergence timing was faster with biocrust present, but only when seeds were inserted into the crust. Desert origin of biocrust and soil collection also influenced emergence, where the probability of any one seedling emerging was highest in the Chihuahuan Desert and Mojave Desert sites relative to the Sonoran Desert site, which showed the lowest probability. Heating had mixed effects, whereby it increased the likelihood of emergence but did not affect the overall rate or timing. Synthesis and applications . This study underscores the importance of healthy and impaired biocrusts in dryland systems and suggests ways in which the combination of biocrust and seed placement can influence plant establishment, in addition to providing insight into seeding strategies for managers and restoration practitioners working in dryland sites.",
-      "keywords": []
+      "keywords": [
+        "Perennial plant",
+        "Seedling",
+        "Vegetation (pathology)",
+        "Precipitation",
+        "Arid",
+        "Biological soil crust",
+        "Plant ecology",
+        "Desert climate",
+        "Larrea"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03056-8",
@@ -5885,7 +6123,7 @@
         10
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70366",
-      "abstract": "",
+      "abstract": "In the paper by Miguel et al. (2026), the affiliation for Cornelius Senf was incorrect [...]",
       "keywords": [
         "Natural (archaeology)",
         "Spatial variability",
@@ -17593,60 +17831,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70728",
-      "doi_url": "https://doi.org/10.1111/gcb.70728",
-      "title": "Tree Biomass Sensitivity to Ozone Exposure: Insights From a Decade of Free‐Air Experiments",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-29",
-      "published_date_display": "2026-01-29",
-      "published_parts": [
-        2026,
-        1,
-        29
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70728",
-      "abstract": "ABSTRACT Tropospheric ozone (O 3 ) is a pervasive stressor that impairs forest biomass and alters carbon allocation strategies. This study assessed biomass responses across 17 woody taxa under free‐air controlled exposure (FACE), integrating a decade of experiments conducted with an analogous exposure regime applied to deciduous and evergreen species. The analysis provided a comparative evaluation of existing flux‐based metrics. Statistical analyses revealed consistent reductions in relative total (RTB), aboveground (RTAB), and belowground (RTBB) biomass with increasing O 3 uptake in terms of phytotoxic ozone dose (POD 1 mmol m −2 ). Deciduous species reached the 4% biomass reduction threshold (CL 4 ) at lower POD 1 levels for RTBB (10.21), RTAB (13.16), and RTB (10.77) and displayed relatively small values for RTBB (2.75), RTAB (5.70), and RTB (3.31), where represents the increment in O 3 uptake required to reach the CL 4 threshold. In contrast, evergreen species showed higher CL 4 for RTBB (11.48), RTAB (15.40), and RTB (13.86) and larger values for RTBB (8.40), RTAB (12.32), and RTB (10.78), reflecting a slower biomass decline. Contrasting relationships suggest that leaf habit‐specific patterns are associated with divergent carbon allocation strategies under O 3 stress. In deciduous species, POD 1 and Leaf Index Flux (LIF) were negatively correlated with shoot‐to‐root ratio (S/R), whereas in evergreen species, both indices were positively correlated with leaf area ratio (LAR) and S/R. In conclusion, flux‐based metrics provided a biologically robust framework for quantifying O 3 ‐induced biomass losses, revealing higher sensitivity in deciduous species than in evergreens and highlighting the root as the most vulnerable compartment under O 3 exposure. The findings should be interpreted considering the spatial and temporal constraints of a single‐site FACE experiment and the focus on O 3 as a stand‐alone stressor without interaction effects. Future research should combine O 3 uptake with multi‐stressor frameworks to better predict biomass and carbon responses in complex field conditions.",
-      "keywords": [
-        "Evergreen",
-        "Deciduous",
-        "Biomass (ecology)",
-        "Ozone",
-        "Tropospheric ozone",
-        "Plant litter",
-        "Phenology"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70725",
-      "doi_url": "https://doi.org/10.1111/gcb.70725",
-      "title": "The Geography of Mediterranean Benthic Communities Under Climate Change",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-29",
-      "published_date_display": "2026-01-29",
-      "published_parts": [
-        2026,
-        1,
-        29
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70725",
-      "abstract": "ABSTRACT Seafloors are crucial to marine ecosystems for the functions and services they provide. Benthic organisms, vital to these ecosystems, are particularly vulnerable to climate change. Rising temperatures, ocean acidification, and shifting currents disrupt benthic species and communities, yet future related impact assessments remain limited. Here, we trained species distribution models with predictors from state of the art physical and biogeochemical marine models and a large database of species records (> 100,000 occurrences) to project the current and future distributions of ~350 benthic species (excluding cephalopods, invasive species, and commercially exploited species) and their related changes per site in diversity (α‐) and community composition (β‐diversity) over the Mediterranean Sea. We predicted most species to shift their distribution northwards for all future scenarios due to changes in water temperature and dissolved oxygen close to the seafloor, with up to 60% of species experiencing range contraction, 77% moving northwards, 20% experiencing range fragmentation (measured as range disjunctions in models' output), and 30% moving toward deeper waters over time. Cold‐adapted species were more likely to face range contraction and shifts towards deeper waters, while warm‐adapted species were more likely to face range expansions and shifts towards shallower waters. α‐diversity increased in the Northern and decreased in the Southern Mediterranean, respectively. Changes in β‐diversity within sites highlighted compositional changes (species turnover) in communities located in the Aegean and Tyrrhenian Seas, in deep parts of the Ionian Sea, and in coastal regions of the Adriatic Sea. Climate‐smart, ecosystem‐based Marine Spatial Planning can capitalize on the identified hotspots of species losses, gains, stability, and turnover. Prioritizing connectivity in regions of strong turnover and extending protected areas in regions with stable α‐diversity and limited turnover is recommended for improved conservation actions.",
-      "keywords": [
-        "Benthic zone",
-        "Climate change",
-        "Mediterranean climate",
-        "Range (aeronautics)",
-        "Species distribution",
-        "Ecosystem",
-        "Mediterranean sea",
-        "Biodiversity",
-        "Biogeochemical cycle"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70683",
       "doi_url": "https://doi.org/10.1111/gcb.70683",
       "title": "Issue Information",
@@ -18619,33 +18803,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70704",
-      "doi_url": "https://doi.org/10.1111/gcb.70704",
-      "title": "Stressor Combinations Shift Soil Microbial Communities From Rare to Unknown Taxa and Alter Genomic Strategies",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        1,
-        20
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70704",
-      "abstract": "ABSTRACT Soil microorganisms constitute the largest portion of Earth's biodiversity. However, soil microorganisms are also highly sensitive to on‐going global change, and the influence of an increasing number of stressors on common, rare, and unknown taxa across large environmental gradients remains virtually unknown. Here, we combined a large‐scale spatial field survey across multiple different ecosystems and found that the diversity and abundance of soil rare taxa were significantly reduced under high environmental stressor number (i.e., a high number of stressors passing a 75% stressor threshold). Strikingly, the abundance of unknown soil taxa and unknown genes increased with increasing environmental stress number. We further identified the metagenome‐assembled genomes (MAGs) that were considered as relatively common taxa using metagenomics. Compared to 9% of negative responders, 32% of common MAGs were resistant or positively responsive to multiple stress, displaying a reduced potential for cellular processes and an enhanced potential for environmental, genetic, and metabolic processes. Our study suggests that as stress increases, we would have less rare, but more unknown microorganisms and unique genomes of resistant common taxa, suggesting major changes in the soil microbiome in a world subjected to multiple global change stressors.",
-      "keywords": [
-        "Stressor",
-        "Taxon",
-        "Ecosystem",
-        "Abundance (ecology)",
-        "Microbiome",
-        "Microorganism",
-        "Environmental change",
-        "Biodiversity"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2745.70239",
       "doi_url": "https://doi.org/10.1111/1365-2745.70239",
       "title": "Biodiversity, climate anomalies and human activities drive structural diversity–productivity relationships",
@@ -18892,35 +19049,6 @@
         "Bryophyte",
         "Windthrow",
         "Vegetation (pathology)"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70705",
-      "doi_url": "https://doi.org/10.1111/gcb.70705",
-      "title": "Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-17",
-      "published_date_display": "2026-01-17",
-      "published_parts": [
-        2026,
-        1,
-        17
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70705",
-      "abstract": "ABSTRACT Over geologic timescales, the natural weathering of silicate minerals in soils and regolith regulates atmospheric CO 2 . Although this process is slow relative to anthropogenic emissions, several strategies have been proposed to accelerate this process for climate mitigation. These include the application of finely‐ground silicate rock to increase mineral surface area (enhanced weathering, EW) and the use of microbes that catalyze mineral dissolution and CO 2 biomineralization (microbial carbon dioxide mineralization, MCM). While both approaches show promise, their combined application has rarely been tested. Here, we examined how soil chemistry and bacterial communities respond to a basalt feedstock rich in silicate minerals, a Bacillus subtilis strain (MP1) previously shown to enhance weathering, and their combination. In a 91‐day soybean mesocosm experiment with slightly acidic soil (pH 6.6), MP1 persisted where applied, indicating successful inoculation via seed treatment. Basalt amendments had the strongest effect on soil bacterial community composition, whereas inoculation with MP1 exerted a smaller but detectable influence. Biogeochemical indices of weathering indicated that co‐application of basalt and MP1 enhanced carbonate alkalinity beyond basalt alone. Soil carbonate alkalinity increased with MP1 treatment both with and without basalt, while soil pH and cation exchange capacity (CEC) increased with basalt in both MP1 and non‐MP1 treatments. Total carbon was highest in the combined MP1 + basalt treatment, suggesting that MP1 may mitigate short‐term organic carbon losses associated with basalt‐driven priming. Overall, these results provide new insights into interactions between biological and mineral‐based carbon dioxide removal (CDR) strategies, suggesting that co‐application of MP1 with basalt in slightly acidic soil may enhance carbonate alkalinity while reducing organic carbon losses relative to basalt alone. Thus, pairing B. subtilis MP1 with enhanced weathering deployments emerges as a promising strategy to improve CDR efficiency.",
-      "keywords": [
-        "Alkalinity",
-        "Weathering",
-        "Basalt",
-        "Biogeochemical cycle",
-        "Carbonate",
-        "Soil water",
-        "Silicate",
-        "Silicate minerals",
-        "Carbonate minerals",
-        "Soil pH"
       ]
     },
     {
@@ -19545,35 +19673,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70692",
-      "doi_url": "https://doi.org/10.1111/gcb.70692",
-      "title": "Soil Protist Diversity and Biotic Interactions Shape Ecosystem Functions Under Climate Change",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-12",
-      "published_date_display": "2026-01-12",
-      "published_parts": [
-        2026,
-        1,
-        12
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70692",
-      "abstract": "ABSTRACT Soil protists significantly influence ecosystem multifunctionality (EMF) through their roles in microbial predation, parasitism, and organic matter decomposition. However, the multifaceted contributions of protist diversity, along with its interactions with other microbial groups and plant diversity, to EMF—especially under climate‐induced stresses such as drought—remain poorly understood. To address this knowledge gap, we conducted a factorial microcosm experiment, manipulating microbial diversity (protists, bacteria and fungi), plant species richness, and drought stress. In total, 203 microcosms were established, generating 812 soil samples and 2436 amplicon sequencing libraries. Using structural equation modelling (SEM) and multiple regression analyses, we found that protist diversity was positively correlated with EMF, carbon sequestration, soil organic matter (SOM) decomposition, and nutrient cycling. Furthermore, protist communities exhibited distinct, phylum‐specific relationships with these ecosystem functions. Under drought conditions, microbial interaction networks experienced significant restructuring, with protists emerging as keystone taxa—enhancing protist connectivity and highlighting their central role in ecosystem resilience, especially in relation to leaf carbon dynamics. Our findings provide novel empirical evidence that protists act as multitrophic integrators in soil ecosystems and highlight their role in buffering ecosystems against global environmental change.",
-      "keywords": [
-        "Protist",
-        "Microcosm",
-        "Ecosystem",
-        "Soil carbon",
-        "Mesocosm",
-        "Soil organic matter",
-        "Climate change",
-        "Terrestrial ecosystem",
-        "Marine ecosystem",
-        "Soil microbiology"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70293",
       "doi_url": "https://doi.org/10.1111/ele.70293",
       "title": "Plant‐Pollinator Interaction Rewiring Boosts Year‐to‐Year Community Persistence",
@@ -20005,34 +20104,6 @@
       "link": "https://www.nature.com/articles/s41559-025-02974-3",
       "abstract": "",
       "keywords": []
-    },
-    {
-      "doi": "10.1111/gcb.70670",
-      "doi_url": "https://doi.org/10.1111/gcb.70670",
-      "title": "Tropical Montane Cloud Forests Have High Resilience to Five Years of Severe Soil Drought",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-07",
-      "published_date_display": "2026-01-07",
-      "published_parts": [
-        2026,
-        1,
-        7
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70670",
-      "abstract": "ABSTRACT Tropical montane cloud forests (TMCFs) are globally important ecosystems, acting as large carbon sinks and supporting exceptional biodiversity. However, climate‐driven declines in rainfall threaten these forests, but their responses to long‐term soil moisture deficit remain poorly understood. We implemented a 5‐year throughfall exclusion (TFE) experiment in a Peruvian TMCF, reducing soil moisture by 69.1% across a 0.09 ha plot. We compared the full carbon cycle budget, and surveyed tree physiological traits linked to hydraulics, metabolism and nutrients in the TFE plot and an adjacent, unmodified control (CON) plot. Soil drought reduced gross primary productivity by 4.24 ± 1.97 Mg C ha −1 year −1 but did not change net primary productivity because of an equivalent 3.38 ± 1.42 Mg C ha −1 year −1 decline in autotrophic respiration. Net ecosystem exchange also remained unchanged over 5 years of soil drought. Trees did not change xylem conductivity, hydraulic safety margins or photosynthetic capacity in the TFE, but did have 0.027 ± 0.011 g cm −3 denser wood and 4.58% ± 1.03% higher trunk starch concentrations. These results suggest that trees in TMCF avoid hydraulic failure and carbon starvation under sustained soil moisture drought via metabolic downregulation, resource conservation and non‐structural carbohydrate storage. However, reduced uptake of nutrients (nitrogen, phosphorus, calcium) and 90.6% ± 29.8% decline in fruit production may impact future growth and demography. Our findings demonstrate surprising resilience of TMCFs to sustained, severe soil drought but highlight potential impacts on nutrient cycling and reproduction under climate change. Understanding the impacts of soil drought in conjunction with other climatic changes (e.g., fog reduction, temperature increases) is needed to fully assess the resilience of TMCFs to climate change.",
-      "keywords": [
-        "Soil carbon",
-        "Cloud forest",
-        "Primary production",
-        "Ecosystem",
-        "Climate change",
-        "Carbon sequestration",
-        "Nutrient",
-        "Productivity",
-        "Nutrient cycle"
-      ]
     },
     {
       "doi": "10.1038/s41559-025-02952-9",
@@ -20508,34 +20579,6 @@
         "Functional diversity",
         "China",
         "Native plant"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70685",
-      "doi_url": "https://doi.org/10.1111/gcb.70685",
-      "title": "Anthropogenic Barriers Limit Fish Access to Essential Habitats in the Amazon in the Face of Climate Change",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-02",
-      "published_date_display": "2026-01-02",
-      "published_parts": [
-        2026,
-        1,
-        2
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70685",
-      "abstract": "ABSTRACT Barriers represent one of the greatest threats to river integrity and freshwater fish, as they fragment habitats and impair species dispersal, particularly in a scenario of climate change. In this context, we applied a novel framework that combined predictions of species distribution models with a river connectivity index to identify accessible and climatic‐environmental suitable habitats for frugivorous and socioeconomically important fish in the Amazon basin. We also ranked dams based on their potential for river fragmentation and blocking access to climate refuge for fish species that provide essential ecosystem functions and services in the Amazon. Our results revealed that there are still extensive areas that remain both connected and climatic‐environmentally suitable along the Amazon‐Solimões rivers, acting as core areas for fish dispersal and tracking suitable habitats. However, the planned expansion of hydropower infrastructure combined with climate change can lead to a contraction of areas that will remain simultaneously climatic‐environmental suitable and connected. By identifying and ranking the most impactful barriers, our results can provide innovative and applicable information for sustainable energy planning decisions in the Amazon. These results can inform policies and conservation actions aimed at preserving river connectivity, biodiversity, and ecosystem services under rapidly changing conditions.",
-      "keywords": [
-        "Habitat",
-        "Climate change",
-        "Amazon rainforest",
-        "Biological dispersal",
-        "Hydropower",
-        "Habitat fragmentation",
-        "Ecosystem",
-        "Ecosystem services",
-        "Species distribution"
       ]
     },
     {
