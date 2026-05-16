@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T22:10:46.140705+00:00",
+  "generated_at": "2026-05-16T22:05:02.923813+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115483",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115483",
-      "title": "An adaptive method for ocean front detection using spatial–frequency fusion and uncertainty-aware attention",
+      "doi": "10.1016/j.rse.2026.115486",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115486",
+      "title": "T-ACD: A topography-aware change detection method for mapping high-resolution soil moisture with time-series SAR",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,14 +38,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002531",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002567",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.054",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.054",
-      "title": "UAV coarse visual localization in large-scale continuous scenes",
+      "doi": "10.1016/j.isprsjprs.2026.05.011",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.011",
+      "title": "A physically-constrained Gaussian spectral decomposition framework for remote sensing estimation of chlorophyll-a and suspended matter retrieval in highly turbid coastal waters",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,60 +55,33 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002339",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002522",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.006",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.006",
-      "title": "Towards data-free and model-agnostic black-box attacks against SAR-ATR via dual-diversity augmentation",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "doi": "10.1016/j.rse.2026.115487",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115487",
+      "title": "Toward an emissivity-adaptive method for arctic ice/snow/water surface temperature retrieval from FengYun-3D MERSI-II data",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
       "published_parts": [
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002479",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002579",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.05.021",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.021",
-      "title": "Shallow-water reef detection driven by few-shot learning with airborne LiDAR bathymetry",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002625",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.05.010",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.010",
-      "title": "A KED-based framework for enhanced subcanopy topography retrieval leveraging TanDEM-X InSAR and spaceborne LiDAR data",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002510",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Arctic",
+        "The arctic",
+        "Sea surface temperature",
+        "Surface (topology)",
+        "Radiometry",
+        "Temperature measurement"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115464",
@@ -124,7 +97,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002348",
-      "abstract": "",
+      "abstract": "Temperate forests are experiencing widespread crown dieback and increasing mortality from combined biotic and abiotic stressors. While satellite-based remote sensing is increasingly used to monitor forest health, most studies rely on spectral greenness indices, rather than directly quantifying dieback. Fractional cover of non-photosynthetic vegetation (NPV) provides a more direct measurement of disturbance impact but has not been applied for broad-scale dieback mapping. We present an approach to map sub-pixel tree dieback using Sentinel-2 imagery and regression-based unmixing, without requiring extensive training data. We combined triangular feature space concepts, aerial imagery, and tree species maps to compile a multi-temporal spectral library for Germany and generate synthetic training data. We trained ensembles of Support Vector Regression models to predict NPV, photosynthetic vegetation, and soil fractions for every Sentinel-2 image, and evaluated model scalability across broad-scale forest gradients (species, topography, time). Finally, we mapped annual dieback from the intra-annual NPV time series and compared dieback rates between dominant tree species. Our models generalized well across forest types and environmental gradients at national scale (Mean Absolute Errors ≤13.6%). NPV-based dieback rates were consistent with the German Forest Crown Condition Survey ( r = 0.8) and revealed species-specific patterns from 2019 to 2022: spruce exhibited the highest dieback (2.7%), followed by pine (1.5%), oak (0.7%), and beech (0.5%). Our study shows that tree dieback mapping is possible at national scale using spectral unmixing, without requiring extensive training data. The approach emphasizes the value of intra-annual NPV fraction time series and advances national- and regional-scale monitoring of forest health by directly quantifying disturbance impacts beyond greenness indices. • Unmixing forest fraction time series (NPV, PV, soil) using synthetic training data. • Models generalized well across forest gradients at national scale (MAE NPV = 13.3%). • Annual tree dieback rates estimated from intra-annual NPV time series. • NPV-based dieback reveals species-specific patterns (spruce > pine > oak > beech). • Dieback rates aligned with field-based mortality rates at national scale ( r = 0.8).",
       "keywords": [
         "Series (stratigraphy)",
         "Time series",
@@ -157,6 +130,74 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115483",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115483",
+      "title": "An adaptive method for ocean front detection using spatial–frequency fusion and uncertainty-aware attention",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002531",
+      "abstract": "",
+      "keywords": [
+        "Sensor fusion",
+        "Fusion",
+        "Front (military)",
+        "Image fusion",
+        "Synthetic aperture radar"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.054",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.054",
+      "title": "UAV coarse visual localization in large-scale continuous scenes",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002339",
+      "abstract": "",
+      "keywords": [
+        "Visualization",
+        "Feature (linguistics)",
+        "Image processing",
+        "Trajectory"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.006",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.006",
+      "title": "Towards data-free and model-agnostic black-box attacks against SAR-ATR via dual-diversity augmentation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002479",
+      "abstract": "",
+      "keywords": [
+        "Visualization",
+        "Key (lock)",
+        "Perspective (graphical)",
+        "Field (mathematics)",
+        "Object (grammar)"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.04.055",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.055",
       "title": "The U. V. Helava award 2022 – 2025",
@@ -172,6 +213,51 @@
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002364",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.021",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.021",
+      "title": "Shallow-water reef detection driven by few-shot learning with airborne LiDAR bathymetry",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002625",
+      "abstract": "",
+      "keywords": [
+        "Bathymetry",
+        "Lidar",
+        "Reef",
+        "Coral reef",
+        "Backscatter (email)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.010",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.010",
+      "title": "A KED-based framework for enhanced subcanopy topography retrieval leveraging TanDEM-X InSAR and spaceborne LiDAR data",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002510",
+      "abstract": "",
+      "keywords": [
+        "Interferometric synthetic aperture radar",
+        "Lidar",
+        "Synthetic aperture radar",
+        "Earth observation"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115469",
@@ -233,7 +319,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002376",
-      "abstract": "",
+      "abstract": "Emerging applications urgently require unmanned aerial vehicle (UAV) videos with high clarity and rich structural details. However, limitations in imaging sensors and non-ideal conditions often result in blurred videos lacking sufficient details. Recent studies indicate diffusion models have strong potential for natural scene video super-resolution (SR). However, the application of diffusion models to UAV video SR remains underexplored, particularly in the context of arbitrary-scale reconstruction. To tackle the challenges in UAV video SR at arbitrary scales, this work introduces a time adaptive implicit sampling diffusion model TAIS-Net. First, to achieve robust temporal alignment under large camera motions and texture scarcity commonly encountered in UAV videos, we use a reference frame alignment module to compensate previously reconstructed frames by incorporating motion cues estimated from a pre-trained optical flow model. Second, to enable scale-flexible reconstruction while preserving fine geometric details for UAV videos under arbitrary upscaling factors, we introduce an implicit denoising U-Net to learn latent features by leveraging implicit neural representations and a temporal conditioning module. Third, to reduce the prediction error propagation during sampling, we introduce a historical sample gain module that dynamically corrects and refines latent features at each sampling step, thereby suppressing temporal artifacts such as flickering or drifting. Finally, an arbitrary-scale implicit decoder is used to reconstruct high-resolution videos directly from these enhanced latent features, avoiding scale-dependent blurring while preserving high-frequency details in UAV videos. To validate the effectiveness of TAIS-Net, we construct two visible and one infrared UAV video SR datasets. The experimental results on these datasets demonstrate that TAIS-Net attains competitive performance relative to existing methods in terms of reconstruction quality, perceptual quality and temporal consistency. Moreover, experiments on various motion intensities and additional Gaussian blur beyond conventional bicubic downsampling degradation without requiring model retraining also demonstrate the superiority of our TAIS-Net in maintaining perceptual and temporal consistency under real-world UAV scenarios. The code and datasets are available at https://github.com/cyber-lwk/TAIS-Net .",
       "keywords": [
         "Optical flow",
         "Context (archaeology)",
@@ -245,6 +331,32 @@
         "Video denoising",
         "Upsampling",
         "Reduction (mathematics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.048",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.048",
+      "title": "Multitemporal latent dynamical framework for hyperspectral images unmixing",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002297",
+      "abstract": "",
+      "keywords": [
+        "Discretization",
+        "Dynamical systems theory",
+        "Hyperspectral imaging",
+        "Ordinary differential equation",
+        "Dynamical system (definition)",
+        "Stability (learning theory)",
+        "Convergence (economics)",
+        "Sequence (biology)"
       ]
     },
     {
@@ -1465,6 +1577,23 @@
         "Urbanization",
         "Psychological resilience"
       ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115455",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115455",
+      "title": "Corrigendum to “Spatiotemporal displacement and strain from multisensor remote sensing constrain the kinematics of the Baige landslide” [Remote Sensing of Environment 316 (2026) 114499]",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002257",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.rse.2026.115456",
@@ -9584,31 +9713,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115275",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115275",
-      "title": "Robust sequential pixel offset tracking (RS-POT): A novel monitoring approach for landslides with long-term large deformations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-03",
-      "published_date_display": "2026-02-03",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000453",
-      "abstract": "",
-      "keywords": [
-        "Offset (computer science)",
-        "Landslide",
-        "Pixel",
-        "Azimuth",
-        "Synthetic aperture radar",
-        "Deformation monitoring",
-        "Deformation (meteorology)"
-      ]
-    },
-    {
       "doi": "10.1016/s0034-4257(26)00053-2",
       "doi_url": "https://doi.org/10.1016/s0034-4257(26)00053-2",
       "title": "Editorial Board",
@@ -9680,33 +9784,6 @@
         "Similarity (geometry)",
         "Pattern recognition (psychology)",
         "Feature (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115276",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115276",
-      "title": "Integrating SDGSAT-1 glimmer imagery with Sentinel-1/2 data for high-resolution building height estimation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-02",
-      "published_date_display": "2026-02-02",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000465",
-      "abstract": "",
-      "keywords": [
-        "Mean squared error",
-        "Ranging",
-        "Consistency (knowledge bases)",
-        "Multispectral image",
-        "Scale (ratio)",
-        "Synthetic aperture radar",
-        "Field (mathematics)",
-        "Image resolution",
-        "Earth observation"
       ]
     },
     {
@@ -11190,33 +11267,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.015",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.015",
-      "title": "Unveiling spatiotemporal forest cover patterns breaking the cloud barrier: Annual 30 m mapping in cloud-prone southern China from 2000 to 2020",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-14",
-      "published_date_display": "2026-01-14",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000158",
-      "abstract": "",
-      "keywords": [
-        "Land cover",
-        "Random forest",
-        "Cloud cover",
-        "Moderate-resolution imaging spectroradiometer",
-        "Normalized Difference Vegetation Index",
-        "Forest inventory",
-        "Spatial ecology",
-        "Temporal scales",
-        "Spatial distribution"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2604843",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2604843",
       "title": "A New Inventory and Conservation Assessment of United States Islands",
@@ -12541,30 +12591,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115177",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115177",
-      "title": "Deep learning detection and analysis of eddies in the East Greenland marginal ice zone from Sentinel-1 SAR imagery",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-07",
-      "published_date_display": "2025-12-07",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005814",
-      "abstract": "",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Eddy",
-        "Deep learning",
-        "Sea ice",
-        "Radar imaging",
-        "Glaciology"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115162",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115162",
       "title": "RayExtract: A fast, scalable method for tree volume reconstruction from terrestrial laser scanning",
@@ -12715,32 +12741,6 @@
         "China",
         "Spatial ecology",
         "Spatial analysis"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.04.048",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.048",
-      "title": "Multitemporal latent dynamical framework for hyperspectral images unmixing",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-05-27",
-      "published_date_display": "2025-05-27",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002297",
-      "abstract": "",
-      "keywords": [
-        "Discretization",
-        "Dynamical systems theory",
-        "Hyperspectral imaging",
-        "Ordinary differential equation",
-        "Dynamical system (definition)",
-        "Stability (learning theory)",
-        "Convergence (economics)",
-        "Sequence (biology)"
       ]
     },
     {
