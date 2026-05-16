@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:12:38.535837+00:00",
+  "generated_at": "2026-05-16T23:09:19.435001+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,271 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.cities.2026.107196",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107196",
+      "title": "Work-from-home frequency across metropolitan contexts: A comparison of Paris, New York and London",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004282",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107207",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107207",
+      "title": "From intelligent drive to green symbiosis: The pathway of AI pilot zone policy in fostering urban inclusive green growth",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004397",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107194",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107194",
+      "title": "A semantic inventory of preconceived barriers to quality in Canada's built environment",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004269",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107184",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107184",
+      "title": "Unveiling the dual impacts of built environments on walking using GPS and machine learning: A case study of older adults in Jeonju, South Korea",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004166",
+      "abstract": "",
+      "keywords": [
+        "Global Positioning System",
+        "Dual (grammatical number)",
+        "Built environment",
+        "Assisted GPS",
+        "Level design"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107170",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107170",
+      "title": "The role of digitalization in promoting the sustainable development goals. An empirical assessment of Italian local governments",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004026",
+      "abstract": "",
+      "keywords": [
+        "Sustainable development",
+        "Empirical research",
+        "Empirical evidence",
+        "Sustainability"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107133",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107133",
+      "title": "The more adaptive, the more efficient: A study of the effect of climate resilient governance on corporate energy efficiency",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003653",
+      "abstract": "",
+      "keywords": [
+        "Corporate governance",
+        "Efficient energy use",
+        "Climate change",
+        "Energy (signal processing)",
+        "Climate governance"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107158",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107158",
+      "title": "Peri-urban land conflict in Mek'ele City, Ethiopia: A public interest perspective from political economy and social contract theories",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003902",
+      "abstract": "",
+      "keywords": [
+        "Perspective (graphical)",
+        "Social contract",
+        "Public interest",
+        "Social conflict",
+        "Politics"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107151",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107151",
+      "title": "How is the collaborative process developed at the grassroots? Evidence from a party-led urban regeneration project in China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003835",
+      "abstract": "",
+      "keywords": [
+        "China",
+        "Process (computing)",
+        "Urban regeneration",
+        "Regeneration (biology)"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261444233",
+      "doi_url": "https://doi.org/10.1177/00420980261444233",
+      "title": "Seeing with, seeing otherwise: Transvisualizing extended urbanization through urban-nature archives in Brazilian Amazonia",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261444233",
+      "abstract": "This article explores methodological approaches to reading personal photographic archives through the concept of “seeing with,” a practice of collaborative interpretation that challenges individual mastery of visual materials. Working with Roberto Monte-Mór’s 1980s–2000s documentation of Amazonian frontiers, originally linked to his theories on extended urbanization, we demonstrate how collaborative viewing sessions can reveal what theoretical frameworks initially obscured. Through transfluence and transvisualization, concepts drawing on quilombola epistemologies, the research shows how photographs contain multiple temporal layers and spatial logics. Rather than documenting modernity’s arrival in the jungle, these images also reveal urban-nature practices: the persistence of river-based mobilities, palm architecture, and environmental knowledge within industrial capitalism. The methodology foregrounds relational research practices with personal archives, the ethics of seeing with rather than looking at, and how changing interpretive frameworks make previously invisible presences visible in existing collections.",
+      "keywords": [
+        "Amazon rainforest",
+        "Interpretation (philosophy)",
+        "Documentation",
+        "Reading (process)",
+        "Urbanization",
+        "Visual research"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261444166",
+      "doi_url": "https://doi.org/10.1177/00420980261444166",
+      "title": "Recreational well-being and the neglected older adult play: How ageism and built environment affect female seniors in Hong Kong?",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261444166",
+      "abstract": "While age-friendly initiatives increasingly recognise the importance of play for recreational well-being in later life, its conceptualisation and the specific mechanisms driving it remain significantly underexplored, particularly among female older adults (FOAs). Addressing this critical gap, our study focuses on FOAs in Hong Kong’s high-density public housing estates (PHEs), a vital yet overlooked demographic in urban ageing research. Drawing on semi-structured interviews with 52 participants, we integrated thematic analysis with fuzzy-set Qualitative Comparative Analysis (fsQCA), guided by the Stimulus-Organism-Response (S-O-R) framework. This approach elucidates the complex interplay of factors facilitating FOAs’ playful engagement, with a specific focus on the roles of ageism and the built environment. Our findings reveal a multi-dimensional framework of FOA play, delineating five primary dimensions: Embodied Health Instrumentality, Collective Participation, Organisational Dependency, Generational Temporalities, and Implicit Playful Mindset. FOAs conceptualise play as a dual-purpose pursuit, bridging functional imperatives (e.g. health maintenance, cognitive stimulation) and recreational vitality (e.g. social engagement, emotional regulation). The fsQCA results yielded six distinct configurations that enable play, highlighting health aspirations and collective participation as core enablers, frequently synergised with an implicit playful mindset. Peripheral yet significant factors encompass favourable environmental quality, financial freedom, and the absence of loneliness or ageism. Beyond dismantling ageist stereotypes, this research establishes play as a critical missing element in contemporary age-friendly urban discourse. These findings offer transformative insights for reimagining inclusive urban environments that authentically accommodate diverse recreational expressions and combat the pervasive loneliness crisis among older adults in high-density contexts.",
+      "keywords": [
+        "Loneliness",
+        "Recreation",
+        "Thematic analysis",
+        "Vitality",
+        "Built environment",
+        "Aging in place",
+        "Transformative learning",
+        "Affect (linguistics)",
+        "Embodied cognition"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261446082",
+      "doi_url": "https://doi.org/10.1177/00420980261446082",
+      "title": "Nordic exceptionalism as settler urbanism: Sámi presence and urban contestation in Tromsø",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        5,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261446082",
+      "abstract": "Tromsø is commonly represented as an inclusive and culturally diverse city, yet this narrative obscures how Indigenous Sámi presence is rendered conditional and public displays of ‘Sáminess’ risk being met with sanctions. Based on ethnographic fieldwork, this article examines Tromsø as a settler urban space and argues that the discourse of Nordic exceptionalism produces a distinctive mode of settler urbanism, where symbolic inclusion masks ongoing colonial structures. I show how Norwegianization endures, how tourism reproduces emblematic depictions of Sámi identity, and how racism continues to shape everyday encounters. At the same time, Sámi interlocutors actively contest these narratives by asserting visibility, reclaiming language, and challenging dominant representations. Interpreting these actions through the concept of survivance foregrounds Sámi urban belonging as the result of sustained Sámi efforts rather than inherent Norwegian inclusivity. The article contributes to debates on Indigenous urbanism by highlighting the specific workings of Nordic settler urbanism.",
+      "keywords": [
+        "CONTEST",
+        "Narrative",
+        "Indigenous",
+        "Exceptionalism",
+        "Ethnography",
+        "Urbanism",
+        "Inclusion (mineral)",
+        "Colonialism",
+        "Politics"
+      ]
+    },
+    {
       "doi": "10.1016/j.compenvurbsys.2026.102459",
       "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102459",
       "title": "Physics-informed graph learning for spatially contiguous and capacity-constrained hospital service area delineation",
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600061X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Graph",
+        "Service (business)",
+        "Knowledge graph",
+        "Graph theory"
+      ]
     },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102456",
@@ -54,15 +304,23 @@
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600058X",
-      "abstract": "",
-      "keywords": []
+      "abstract": "OpenStreetMap plays an increasingly important role as a global source of urban spatial data. It exhibits content incompleteness and uneven updating activity, but existing research offers only limited insight into why cities with similar urban characteristics display different updating dynamics. Understanding these processes is essential for interpreting how OpenStreetMap is maintained and for designing strategies to reduce persistent mapping inequalities. The black-box nature of machine learning-based spatial modeling acts as a barrier and can obscure the mechanisms underlying observed spatial patterns. Explainable artificial intelligence (XAI) can partly mitigate this limitation; however, without explicit geovisualization, its conclusions could overlook spatial heterogeneity. We propose an analytical framework that integrates Geovisual XAI (GeoVisX) with clustering analysis to explain how urban characteristics are translated into distinct OSM updating mechanisms across cities. Drawing on data from 88 German cities, we examine how urban characteristics shape updating activity. Results show that updating activity is not driven by any single attribute. Instead, it emerges from nonlinear, contextual interactions among functional intensity, spatial structure, and population composition. Clustering cities using XAI-derived features identifies three distinct urban updating mechanisms that are (1) location-driven, (2) facility-decoupled residential maintenance driven, and (3) facility- and activity-reinforced. Overall, OSM updating inequality reflects heterogeneous urban mechanisms and the proposed framework supports mechanism-based studies of volunteered geographic information. • GeoVisX fingerprints explain OSM update mechanisms across 88 German cities. • Updates emerge from nonlinear, context-dependent interactions of urban features. • City-level clustering reveals distinct and heterogeneous OSM updating mechanisms.",
+      "keywords": [
+        "Cluster analysis",
+        "German",
+        "Population",
+        "Urban geography",
+        "Volunteered geographic information",
+        "Inequality",
+        "Urban planning"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107230",
@@ -71,15 +329,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004622",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Redevelopment",
+        "Natural (archaeology)",
+        "Urban regeneration"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107223",
@@ -88,15 +350,21 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004555",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Inequality",
+        "Renewable energy",
+        "Energy (signal processing)",
+        "Economic inequality",
+        "Health benefits"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107209",
@@ -105,15 +373,20 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004415",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Key (lock)",
+        "Sustainability",
+        "Qualitative research",
+        "Place making"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107155",
@@ -122,15 +395,88 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003872",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Circular economy",
+        "Circular migration",
+        "Public disclosure",
+        "Public policy",
+        "Public ownership"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107166",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107166",
+      "title": "Suicide rate under COVID-19's shadow: Spatiotemporal dynamics and environmental associations in Hong Kong",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003987",
+      "abstract": "",
+      "keywords": [
+        "Dynamics (music)",
+        "Suicide rates",
+        "Poison control",
+        "Human factors and ergonomics",
+        "Mortality rate"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107135",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107135",
+      "title": "Improving urban planning practices for the energy transition ̶ Insights on cities' role, data collection, and practical tools",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003677",
+      "abstract": "",
+      "keywords": [
+        "Energy (signal processing)",
+        "Urban planning",
+        "Energy planning",
+        "Energy transition",
+        "Transition (genetics)",
+        "Efficient energy use"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107179",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107179",
+      "title": "Emergent patterns of crime distributions across major U.S. cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004117",
+      "abstract": "",
+      "keywords": [
+        "Distribution (mathematics)",
+        "Crime analysis"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107134",
@@ -139,49 +485,26 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003665",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107147",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107147",
-      "title": "Determinants of corporate investment in single-family rental housing in Charlotte, North Carolina",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003793",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107163",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107163",
-      "title": "Crisis urbanism and uneven resilience: A study of fragmented reconstruction in Mar Mikhaël (Beirut) after the 2020 port explosion",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003951",
-      "abstract": "",
-      "keywords": []
+      "abstract": "This article presents the findings of participatory research conducted between April 2018 and December 2019 at the urban agroecological community garden Viveiro Escola União de Vila Nova , located in a socially vulnerable area of São Paulo, Brazil. Drawing on interviews with three community garden coordinators, three female urban farmers and grounded in the theoretical frameworks of Urban Agroecology and Ecofeminism, the study examines how the garden operates as a space of resistance and empowerment for Black and Indigenous women. The results reveal that Viveiro Escola fosters an ethic of care rooted in collective work, solidarity, and ancestral knowledge, directly challenging patriarchal, racialised, and capitalist structures of domination. Through feminist workshops, participatory governance, and conversation circles, the garden provides a safe space where women confront and name the structural violence they endure, particularly domestic and symbolic violence, while building critical awareness, reclaiming their agency, and reconstructing their identities based on autonomy and solidarity. The findings highlight the potential of urban agroecology, informed by ecofeminist principles, to promote environmental restoration, gender justice, and inclusive, culturally grounded food systems that empower women and contest systemic violence in marginalised urban communities. • The manuscript has been thoroughly revised and restructured in response to the reviewer's detailed comments. • All sections of the article have been carefully adjusted to address the feedback. • Due to the comprehensive nature of these changes, the previously submitted text has not been highlighted, as the entire article has undergone significant reorganisation and refinement. • I am confident that these revisions align the manuscript with the journal's expectations and enhance its contribution to the field.",
+      "keywords": [
+        "Ecofeminism",
+        "Empowerment",
+        "Resistance (ecology)",
+        "Structural violence",
+        "Indigenous",
+        "Autonomy",
+        "Citizen journalism",
+        "Participatory action research",
+        "Ethnography",
+        "CONTEST"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107136",
@@ -190,15 +513,43 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003689",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Slum",
+        "Urban morphology",
+        "Urban planning",
+        "Land use"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107228",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107228",
+      "title": "Algorithmic governmentality in the smart city: A Foucauldian analysis of power and security in Iranian urban platforms",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004609",
+      "abstract": "",
+      "keywords": [
+        "Governmentality",
+        "Power (physics)",
+        "Smart city",
+        "Government (linguistics)",
+        "Internet of Things"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107138",
@@ -207,15 +558,21 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003707",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Valorisation",
+        "Wine",
+        "Exploratory research",
+        "Exploratory analysis",
+        "Wine grape"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105691",
@@ -912,14 +1269,19 @@
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
       "published_date": "2026-05-01",
-      "published_date_display": "2026-05",
+      "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001179",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Psychological intervention",
+        "Travel time",
+        "Travel behavior",
+        "Time travel"
+      ]
     },
     {
       "doi": "10.1177/00420980261442372",
@@ -4068,23 +4430,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0264-2751(26)00314-8",
-      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00314-8",
-      "title": "Editorial Board",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-06",
-      "published_date_display": "2026-04-06",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003148",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.cities.2026.107062",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107062",
       "title": "Decoupling energy poverty alleviation from carbon emissions in China: Urban–rural differences and driving mechanisms",
@@ -5729,31 +6074,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106971",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106971",
-      "title": "Availability and accessibility of public open spaces and sports facilities and children's visit patterns: Evidence from smartwatch signaling data",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-25",
-      "published_date_display": "2026-03-25",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002039",
-      "abstract": "",
-      "keywords": [
-        "Smartwatch",
-        "Space (punctuation)",
-        "Public space",
-        "Open data",
-        "Public open space",
-        "Outdoor activity",
-        "Public use"
-      ]
-    },
-    {
       "doi": "10.1016/j.compenvurbsys.2026.102422",
       "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102422",
       "title": "A digital twin framework for decision-support and optimization of EV charging infrastructure in localized urban systems",
@@ -6105,27 +6425,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106952",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106952",
-      "title": "COVID-19 challenges and governance response in Russian cities. Insights from Rostov-on-Don",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-21",
-      "published_date_display": "2026-03-21",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001848",
-      "abstract": "The COVID-19 pandemic highlighted serious weaknesses in multilevel governance, especially in urban contexts under authoritarian regimes. This paper explores how federal, regional, and municipal government dynamics influenced pandemic governance and urban resilience in Rostov-on-Don, Russia. Using the oxygen shortage crisis of October 2020 as a point of departure, the study investigates how political priorities shaped public health outcomes, undermined public trust, and reconfigured urban demographic trends. The research draws on policy analysis, media discourse review, and demographic data. Key sources include federal and regional legal documents, local news sources, and statistical data. Media coverage and public responses were categorized by theme, and changes in demographic dynamics were analysed. Findings show that while pandemic management was formally delegated to regional authorities, decision-making closely followed federal directives. The municipal level was limited to operational roles. Policies focused on restriction and enforcement rather than adaptation or care. Public dissatisfaction manifested in protests, black markets for vaccine certificates and permits, and low compliance. Demographically, the pandemic reversed long-standing urban growth, increased mortality—especially among older adults—and altered migration patterns. The case of Rostov-on-Don reveals that urban resilience cannot be achieved where political loyalty overrides local responsiveness. The centralised governance model eroded public trust and exposed the principal-agent problem in the governance system. These findings highlight the importance of governance quality, institutional autonomy, and public trust in building resilient urban systems. • Explores COVID-19 pandemic governance and urban resilience in a Russian city • Urban governance was reduced to operational implementation during the pandemic • Pandemic governance prioritised regime resilience over urban resilience • Public mistrust manifested through low vaccination uptake, protests, and certificate fraud • The pandemic disrupted long-term demographic growth through mortality, low fertility, and migration shifts",
-      "keywords": [
-        "Corporate governance",
-        "Key (lock)",
-        "Perspective (graphical)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.106988",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.106988",
       "title": "Beyond the social and economic: Spatial regression analysis of built environment effects on multidimensional poverty in Kenya",
@@ -6459,33 +6758,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106961",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106961",
-      "title": "Unveiling the public voices: Analysis of public participation in urban master plans in Portugal",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-19",
-      "published_date_display": "2026-03-19",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001939",
-      "abstract": "With the accelerated urban growth, there is a pressing need to change the paradigm towards more sustainable development. Urban planning is at the core of this challenge of bringing sustainable development while delivering quality of life and well-being. This study investigates the dynamics of public participation in Urban Master Plans (UMPs) in Portugal. Three UMP processes in Portugal were scrutinised using a content analysis approach. The public participation reports of UMPs were analysed to understand the main issues that motivated participation and how public involvement is sought. The study reveals that the public participation process was tokenistic and predominantly driven by individual contributions focused on private interests, with limited focus on sustainability-related issues such as green spaces and affordable housing. To address these challenges, decision-makers and urban planners must prioritise early engagement and transparency in decision-making, leveraging diverse methodologies to foster trust and equitable, sustainable outcomes. • UMPs provide a framework for making development decisions on urban life. • This research explored the issues that motivate public participation in UMP. • Most of the contributions were individual and focused on private interests. • Green spaces, soft mobility and access to public equipment were rarely mentioned. • Increasing options for meaningful and transparent public participation is key.",
-      "keywords": [
-        "Public participation",
-        "Transparency (behavior)",
-        "Urban planning",
-        "Sustainable development",
-        "Public engagement",
-        "Process (computing)",
-        "Public consultation",
-        "Public policy",
-        "Focus group"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.106941",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.106941",
       "title": "Trends of “leaving space for wildness” in metropolitan regions in China: Measuring coexistence of cities and protected areas",
@@ -6629,31 +6901,6 @@
       "keywords": [
         "Distribution (mathematics)",
         "Spatial distribution"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106995",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106995",
-      "title": "Behavioral pathways linking blue-green spaces exposure to enhanced subjective well-being: The critical mediating role of life satisfaction",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-19",
-      "published_date_display": "2026-03-19",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002271",
-      "abstract": "",
-      "keywords": [
-        "Recreation",
-        "Mediation",
-        "Affect (linguistics)",
-        "Quality of life (healthcare)",
-        "Life satisfaction",
-        "Subjective well-being",
-        "Environmental quality"
       ]
     },
     {
@@ -7041,32 +7288,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107001",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107001",
-      "title": "Business venturing meets urban planning: How do urban spatial structures reshape the landscape of VC-backed entrepreneurship",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002337",
-      "abstract": "The importance of venture capital (VC) for startup development has been largely recognized. However, a critical question remains underexplored: is the contribution of VC investments geographically limited to their financially supported startups? We attempt to address this question by examining the effects of VC investments on urban entrepreneurship from a novel perspective of urban spatial structures. We investigate urban spatial structures based on land development and population distribution patterns for 271 Chinese cities from 2014 to 2020 and examine their impact on entrepreneurship by employing a two-way fixed effects model. It is found that VC investments can facilitate urban entrepreneurship development via knowledge spillovers. This positive impact is reinforced in a polycentric planned city where subcenters are compactly developed. The findings shed light on how urban spatial structures serve as a “spatial institution” of VC resources for fostering entrepreneurship development. This raises a new dialogue surrounding the coordination of VC investments, entrepreneurship development, and urban planning. • We examine how urban spatial structure moderates the relationship between entrepreneurship and VC investments. • We employ a two-way fixed effects model on 271 Chinese cities from 2014 to 2020. • VC investments positively affect entrepreneurship, and urban polycentricity and compactness reinforce such impact. • The positive moderating role of polycentricity and compactness can be amplified in mega cities and for Tech & IT firms.",
-      "keywords": [
-        "Entrepreneurship",
-        "Polycentricity",
-        "Urban planning",
-        "Distribution (mathematics)",
-        "Population",
-        "Urban economics",
-        "Capital (architecture)",
-        "Urban spatial structure"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105636",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105636",
       "title": "Social media as a sensor: unraveling nonlinear drivers of perceived thermal comfort in Shanghai",
@@ -7132,25 +7353,6 @@
         "Association (psychology)",
         "Kingdom",
         "Ecological study"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107004",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107004",
-      "title": "Mitigating the effects of facility decline at the local level through spatial planning: A case study of the Municipality of Knjaževac, Serbia",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-17",
-      "published_date_display": "2026-03-17",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002362",
-      "abstract": "",
-      "keywords": [
-        "Local government"
       ]
     },
     {
@@ -7826,28 +8028,6 @@
         "Production (economics)",
         "Adaptability",
         "Sustainability"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106934",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106934",
-      "title": "How spatial conflict is generated in resettled communities for landless peasants: A triadic dialectics perspective",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-11",
-      "published_date_display": "2026-03-11",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001666",
-      "abstract": "",
-      "keywords": [
-        "Perspective (graphical)",
-        "Dialectic",
-        "Perspective-taking",
-        "Global South"
       ]
     },
     {
@@ -8738,32 +8918,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106918",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106918",
-      "title": "Overtourism in Kyoto: Resident perceptions, emotional distress, and governance failure",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001502",
-      "abstract": "",
-      "keywords": [
-        "Corporate governance",
-        "Tourism",
-        "Context (archaeology)",
-        "Thematic analysis",
-        "Citizen journalism",
-        "Perception",
-        "Cultural heritage",
-        "Heritage tourism"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105617",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105617",
       "title": "An innovative framework for automatic assessment of urban vegetation pollen allergenic risk using street view imagery and machine learning models",
@@ -8973,31 +9127,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106770",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106770",
-      "title": "Cleaning & greening the city: AI-imaginations of positive safety",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-27",
-      "published_date_display": "2026-02-27",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126000028",
-      "abstract": "The expanding use of Artificial Intelligence (AI) in public safety has largely centered on managing ‘threats’ and ‘risks,’ while its potential to foster ‘care’ and ‘belonging’—key aspects from a Positive Safety perspective—remains underexplored. To narrow this gap, this study empirically researches Lombardijen, a neighborhood in Rotterdam, the Netherlands, with notably low subjective public safety perceptions. It employs a Photovoice-to-AI methodology, where 60 students from a local school and 16 residents photographed their experiences of neighborhood safety, which subsequently informed AI-imaginations of an ‘ideal neighborhood’ in two community workshops (±15 participants each). Insights from these workshops were then enriched through an AI workshop with 24 decision-makers and a nature observation stage with ecologists and animals. Findings reveal two empirical AI-experiences of Positive Safety: (i) Care-oriented AI and (ii) Inclusive AI. In this regard, Generative AI served as a third medium that enhanced articulation options in participation for both city residents and decisionmakers. The core result is that trash weakens—and nature strengthens—public safety perceptions. This paper therefore calls for a shift in urban management: reframe trash as an invitation for care and nature rather than a matter of control and repression, and prioritize community-driven public space improvements that give communities greater agency. AI-supported communication, thereby, ultimately bears promise for the Right to the City debate. • Proposes a shift from control-oriented to care-centered AI for public safety • Introduces a novel Photovoice-to-AI method to co-create “positive safety” with residents • Empirical findings show trash weakens, and nature strengthens, subjective safety. • Generative AI served as a “third medium,” lowering articulation barriers in participation in urban planning. • Argues for reframing urban neglect and trash as an invitation for care, not as a cue for repression",
-      "keywords": [
-        "Cognitive reframing",
-        "Generative grammar",
-        "Articulation (sociology)",
-        "Empirical research",
-        "Public space",
-        "Control (management)",
-        "Empirical evidence"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105612",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105612",
       "title": "Perceiving agricultural heritage: How landscape attributes shape visual preferences—A case study in Iran",
@@ -9130,56 +9259,6 @@
         "Quality (philosophy)",
         "Multi-objective optimization",
         "Transfer of learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106902",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106902",
-      "title": "The socio-cultural values of ecosystem services in managed, semi-managed and low-managed urban blue spaces and their surroundings. A case study of Warsaw, Poland",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-26",
-      "published_date_display": "2026-02-26",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001344",
-      "abstract": "Urban blue spaces provide important ecosystem services (ES), that support health and well-being of city residents. This study examined residents' perceptions of ES provided by managed, semi-managed and low-managed blue spaces and their surroundings in Warsaw, a city dominated by the River Vistula which flows through its centre and is partially unregulated. We conducted a geo-questionnaire, asking respondents to mark their favourite blue spaces and evaluate them for different ES benefits. The data were analysed using cluster, correlation and spatial analysis to identify patterns and synergies among perceived ES. The results revealed five distinct ES clusters, showing synergies among aesthetic, recreational and nature appreciation related values. Managed blue spaces, such as urban parks or promenades, were primarily associated with social bonding, while historical and neighbourhood parks are valued for providing an everyday connection to nature and biodiversity. Low- and semi-managed areas, including vast informal riversides, play an important role in recreation, relaxation, connection to nature, and social bonding. These areas provide similar benefits with minimal interventions, highlighting their potential as Informal Blue Spaces, integral part of urban blue-green infrastructure. The results add to the increasing evidence of the social value of blue spaces and demonstrate how diverse management and investment approaches can support complementary socio-cultural benefits in cities. • Cultural ecosystem services are most valued in Warsaw's blue spaces. • Synergy clusters highlight ecological, recreational, aesthetic and symbolic values. • Blue space types and management intensity shapes perceived benefits. • Informal Blue Spaces provide diverse benefits with low-cost management input. • Findings support integrating diverse blue spaces into urban planning and policy.",
-      "keywords": [
-        "Recreation",
-        "Ecosystem services",
-        "Neighbourhood (mathematics)",
-        "Perception",
-        "Space (punctuation)",
-        "Urban ecosystem",
-        "Valuation (finance)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106874",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106874",
-      "title": "Level 0 of the digital divide: Algorithmic redlining and online food deserts in Santiago de Chile",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-26",
-      "published_date_display": "2026-02-26",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600106X",
-      "abstract": "While research on the digital divide has traditionally focused on individual access, skills, and benefits, this study proposes a “Level 0” conceptual framework to account for the institutional and supply-side barriers that precede individual agency. Using a reverse-geocoding and web-scraping methodology, we conduct a geospatial market analysis of the three leading food delivery apps (FDAs) in the Santiago Metropolitan Area—PedidosYa, Uber Eats, and Rappi. We investigate how corporate business models and “unwritten rules” produce digital redlining, effectively creating “online food deserts” in specific urban territories. The results of a Binary Spatial Autoregressive (BSAR) model demonstrate that territorial exclusion is a collective geographic phenomenon driven by socioeconomic signals (i.e. residential density and educational levels) and institutional factors (i.e. the role of informal labour), such as residential density and educational levels, rather than the “objective risk” of crime often cited by corporations. By identifying this “Level 0” institutional divide, the study contributes to a comparative theory of digital inequality in the Global South and underscores the need for policy interventions that regulate the supply-side logic of the platform economy. • New framework maps supply-side barriers that limit digital agency before individuals can even act. • Uses novel reverse-geocoding and scraping to map territorial exclusion within Santiago’s food delivery market. • Exclusion is driven by socioeconomic signals like education and density rather than objective local crime rates.",
-      "keywords": [
-        "Geospatial analysis",
-        "Agency (philosophy)",
-        "Metropolitan area",
-        "Conceptual framework",
-        "Digital divide",
-        "Inequality",
-        "Vulnerability (computing)"
       ]
     },
     {
@@ -9386,30 +9465,6 @@
         "Core (optical fiber)",
         "Action (physics)",
         "Inclusion (mineral)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106877",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106877",
-      "title": "Urban forests but NIMBY (Not In My Backyard): Evidence from tree proximity, characteristics, and house values in Sydney, Australia",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-24",
-      "published_date_display": "2026-02-24",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001095",
-      "abstract": "",
-      "keywords": [
-        "NIMBY",
-        "Tree (set theory)",
-        "Urban forestry",
-        "Urban forest",
-        "Tree planting",
-        "Work (physics)"
       ]
     },
     {
@@ -14326,6 +14381,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107178",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107178",
+      "title": "Towards a territorialisation of the circular economy: Spatial planning challenges in Rotterdam",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004105",
+      "abstract": "In response to the environmental challenges of the linear economy, cities increasingly embrace the circular economy (CE) as a sustainable alternative. In the Netherlands, where circularity is a national priority, Rotterdam provides a compelling case to examine how an urban CE transition can take shape. Unlike the extensively studied Amsterdam, Rotterdam offers a contrasting perspective as a city with a growing economy and industrial character. Yet, as Rotterdam advances its CE agenda, spatial and institutional challenges emerge. While CE is promoted as a model for sustainable urban development, its spatial embedding (e.g., how land, infrastructure, and governance support circular processes) remains insufficiently understood. This research investigates how public policies and strategies shape the territorialisation of CE in Rotterdam. Combining policy document analysis, semi-structured interviews with public and private CE actors, and spatial mapping of CE projects, the study reveals that space is gaining strategic importance in CE governance. The analysis identifies a ‘two-wave’ dynamic in Rotterdam’s CE transition. The current first wave emphasises innovation, flexible regulation, hub creation, and collaboration. However, as initiatives mature, their demand for manufacturing sites, logistics, and regional coordination intensifies. For Rotterdam to progress into a second wave, it must strengthen spatial planning, regional governance, and provide physical space for circular industries to scale up. Conceptualising CE territorialisation as a wave process, this study contributes to theories of circular cities, highlighting that CE transitions cannot succeed without integrating spatial and political dimensions.",
+      "keywords": [
+        "Circular economy",
+        "Spatial planning",
+        "Polycentricity",
+        "Corporate governance",
+        "Scale (ratio)",
+        "City region",
+        "Environmental governance",
+        "Urban planning",
+        "Sustainable development"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107048",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107048",
       "title": "Striking the perfect balance: Integrating greenery and social infrastructure in downtown public spaces",
@@ -14510,6 +14592,67 @@
         "Economics",
         "Labour economics",
         "Geography"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107147",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107147",
+      "title": "Determinants of corporate investment in single-family rental housing in Charlotte, North Carolina",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003793",
+      "abstract": "",
+      "keywords": [
+        "Single family",
+        "Renting",
+        "Single-family detached home",
+        "Rental housing",
+        "Investment (military)",
+        "Business",
+        "Finance",
+        "Economics",
+        "Geography",
+        "Political science",
+        "Engineering",
+        "Archaeology",
+        "Real estate",
+        "Civil engineering"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107163",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107163",
+      "title": "Crisis urbanism and uneven resilience: A study of fragmented reconstruction in Mar Mikhaël (Beirut) after the 2020 port explosion",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003951",
+      "abstract": "",
+      "keywords": [
+        "Port (circuit theory)",
+        "Resilience (materials science)",
+        "Urbanism",
+        "Economic geography",
+        "Geography",
+        "Economy",
+        "Engineering",
+        "Architecture",
+        "Physics",
+        "Economics",
+        "Archaeology"
       ]
     },
     {
