@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T22:05:02.923813+00:00",
+  "generated_at": "2026-05-17T22:08:25.899568+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,26 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115486",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115486",
-      "title": "T-ACD: A topography-aware change detection method for mapping high-resolution soil moisture with time-series SAR",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002567",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.05.011",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.011",
-      "title": "A physically-constrained Gaussian spectral decomposition framework for remote sensing estimation of chlorophyll-a and suspended matter retrieval in highly turbid coastal waters",
+      "doi": "10.1016/j.isprsjprs.2026.05.015",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.015",
+      "title": "Self-orthorectification of satellite images using multi-view geometric constraints without external geospatial data",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,7 +38,24 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002522",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600256X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.012",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.012",
+      "title": "PANEL: A photovoltaic-specific vision-language model for zero-shot and few-shot PV interpretation tasks in remote sensing",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002534",
       "abstract": "",
       "keywords": []
     },
@@ -81,6 +81,59 @@
         "Surface (topology)",
         "Radiometry",
         "Temperature measurement"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115486",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115486",
+      "title": "T-ACD: A topography-aware change detection method for mapping high-resolution soil moisture with time-series SAR",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002567",
+      "abstract": "",
+      "keywords": [
+        "Synthetic aperture radar",
+        "Terrain",
+        "Mean squared error",
+        "Vegetation (pathology)",
+        "Water content",
+        "Change detection",
+        "Scattering",
+        "Correlation coefficient"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.011",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.011",
+      "title": "A physically-constrained Gaussian spectral decomposition framework for remote sensing estimation of chlorophyll-a and suspended matter retrieval in highly turbid coastal waters",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002522",
+      "abstract": "",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Multispectral image",
+        "Endmember",
+        "Spectral bands",
+        "Spectral signature",
+        "Spectral shape analysis",
+        "Satellite",
+        "Mean squared error",
+        "Gaussian"
       ]
     },
     {
@@ -251,7 +304,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002510",
-      "abstract": "",
+      "abstract": "Bistatic InSAR systems demonstrate significant potential for global and local-scale topographic mapping. However, the accuracy of the InSAR-derived digital elevation models (DEMs) is often compromised by residual errors caused by canopy volume scattering in forested areas. To mitigate these errors and enhance the topographic mapping capability of InSAR in forested regions, this paper proposes a method for retrieving subcanopy topography by integrating spaceborne LiDAR and bistatic InSAR data. The core innovation of this method lies in its modeling of the InSAR DEM residuals, which are decomposed into two components: a deterministic trend that is linearly related to InSAR observables, and a spatially correlated random error. Both components are simultaneously modeled and resolved within the KED interpolation process. Specifically, high-accuracy terrain control points (TCPs) are first extracted from global products of two spaceborne LiDAR missions of ICESat-2 and GEDI, using a rigorous filtering protocol. Building on the confirmed linear relationship between the DEM residuals at the TCP locations and two external covariates of InSAR coherence and terrain slope, KED interpolation is then applied to generate the final subcanopy topography. Evaluated across three representative study areas at different latitudes, the subcanopy topography derived from the proposed KED-based framework showed a significant improvement in accuracy, which exceeds 64%, compared to the original InSAR-derived DEM. Nearly unbiased and refined estimates were achieved in the high-latitude Genhe study area and mid-latitude TALL study area. Even in the challenging equatorial Lope study area, where results were limited by the quantity and accuracy of available TCPs, and although a non-negligible bias remained, the overall topographic accuracy was still improved by 65.4%.",
       "keywords": [
         "Interferometric synthetic aperture radar",
         "Lidar",
@@ -1586,14 +1639,20 @@
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
       "published_date": "2026-05-01",
-      "published_date_display": "2026-05",
+      "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002257",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Displacement (psychology)",
+        "Kinematics",
+        "Strain (injury)",
+        "Remote sensing application",
+        "Displacement mapping"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115456",
@@ -11142,27 +11201,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.002",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.002",
-      "title": "Beyond the surface: machine learning uncovers ENSO’s hidden and contrasting impacts on phytoplankton vertical structure",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-15",
-      "published_date_display": "2026-01-15",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600002X",
-      "abstract": "",
-      "keywords": [
-        "Phytoplankton",
-        "Climate change",
-        "Artificial neural network"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115240",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115240",
       "title": "Why do classification models go wrong? The importance of adaptations and acclimations in driving landscape-level spectral variation in Fremont cottonwood",
@@ -11314,29 +11352,6 @@
         "Primary production",
         "Water cycle",
         "Tropical Asia"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.013",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.013",
-      "title": "TUM2TWIN: Introducing the large-scale multimodal urban digital twin benchmark dataset",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-13",
-      "published_date_display": "2026-01-13",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004988",
-      "abstract": "Urban Digital Twins (UDTs) have become essential for managing cities and integrating complex, heterogeneous data from diverse sources. Creating UDTs involves challenges at multiple process stages, including acquiring accurate 3D source data, reconstructing high-fidelity 3D models, maintaining models’ updates, and ensuring seamless interoperability to downstream tasks. Current datasets are usually limited to one part of the processing chain, hampering comprehensive Urban Digital Twin (UDT)s validation. To address these challenges, we introduce the first comprehensive multimodal Urban Digital Twin benchmark dataset: TUM2TWIN. This dataset includes georeferenced, semantically aligned 3D models and networks along with various terrestrial, mobile, aerial, and satellite observations boasting 32 data subsets over roughly 100,000 and currently 767 GB of data. By ensuring georeferenced indoor–outdoor acquisition, high accuracy, and multimodal data integration, the benchmark supports robust analysis of sensors and the development of advanced reconstruction methods. Additionally, we explore downstream tasks demonstrating the potential of TUM2TWIN, including novel view synthesis of NeRF and Gaussian Splatting, solar potential analysis, point cloud semantic segmentation, and LoD3 building reconstruction. We are convinced this contribution lays a foundation for overcoming current limitations in UDT creation, fostering new research directions and practical solutions for smarter, data-driven urban environments. The project is available under: https://tum2t.win.",
-      "keywords": [
-        "Benchmark (surveying)",
-        "Digital mapping",
-        "Key (lock)",
-        "Field (mathematics)",
-        "Visualization"
       ]
     },
     {
