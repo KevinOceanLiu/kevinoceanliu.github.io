@@ -2312,6 +2312,12 @@ a.link-arrow:hover {
     column-gap: 28px;
 }
 
+.standalone-page-layout {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 34px 20px 80px;
+}
+
 .home-sidebar {
     position: sticky;
     top: 88px;
@@ -2535,6 +2541,31 @@ a:hover {
 
 .publication-image-link:hover .publication-image {
     box-shadow: var(--shadow-md);
+}
+
+.publication-text-section + .publication-text-section {
+    margin-top: 28px;
+}
+
+.publication-text-section h2 {
+    margin-bottom: 12px;
+}
+
+.publication-text-list {
+    margin: 0;
+    padding-left: 24px;
+}
+
+.publication-text-list li {
+    padding-left: 4px;
+}
+
+.publication-text-list li + li {
+    margin-top: 14px;
+}
+
+.publication-text-list a {
+    text-decoration: none;
 }
 
 .page-closing {
