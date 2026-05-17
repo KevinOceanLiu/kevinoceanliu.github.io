@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T23:09:19.435001+00:00",
+  "generated_at": "2026-05-17T23:12:23.330469+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,55 +31,63 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.cities.2026.107143",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107143",
+      "title": "Urban poverty and spatial injustice: Invisible limits of inequality",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003756",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107213",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107213",
+      "title": "Unraveling structural and behavioral drivers of income segregation in daily urban mobility",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004452",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.cities.2026.107196",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107196",
       "title": "Work-from-home frequency across metropolitan contexts: A comparison of Paris, New York and London",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004282",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107207",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107207",
-      "title": "From intelligent drive to green symbiosis: The pathway of AI pilot zone policy in fostering urban inclusive green growth",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004397",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107194",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107194",
-      "title": "A semantic inventory of preconceived barriers to quality in Canada's built environment",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004269",
-      "abstract": "",
-      "keywords": []
+      "abstract": "This paper examines spatial and social correlates of work-from-home (WFH) frequency in three major global metropolitan areas—Paris, New York, and London—using harmonized 2023 survey data and an interpretable machine learning approach (XGBoost with SHAP). Focusing on regular hybrid workers whose workplaces are located within these metropolitan areas, the analysis documents how commuting, housing, employment, and sociodemographic characteristics are associated, individually and in combination, with high-frequency WFH (3–5 days per week). Results indicate that commuting distances and proximity to the central business district (CBD) are among the most prominent correlates of WFH frequency, with substantial contextual variation: in London, greater residential distance from the CBD is associated with higher WFH frequency, whereas in the New York metropolitan area high-frequency WFH is concentrated among workers who both live and work close to the CBD. Paris differs from the other metropolitan areas, with lower overall WFH frequency and a narrower profile of workers engaging in high-frequency WFH, a pattern observed alongside metropolitan-specific institutional and organizational contexts. Income, gender, and housing conditions are also associated with WFH frequency, with heterogeneous patterns across spatial configurations and employment structures. Overall, the analysis documents distinct metropolitan patterns, indicating that WFH frequency varies across locally specific urban labor markets and spatial contexts. These findings provide descriptive insights relevant to ongoing discussions of transport systems, housing markets, and social equity in metropolitan regions. • WFH frequency is embedded in metropolitan-specific labor and spatial structures. • Paris, New York, and London exhibit distinct spatial configurations of high-frequency WFH. • In the New York metropolitan area, frequent WFH is concentrated near the CBD. • In London, frequent WFH is more common among workers living farther from the CBD. • Interpretable machine learning reveals non-linear, context-dependent WFH dynamics with planning implications.",
+      "keywords": [
+        "Metropolitan area",
+        "Equity (law)",
+        "Distance decay",
+        "Social equality",
+        "Descriptive statistics",
+        "Work (physics)",
+        "Central business district"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107184",
@@ -118,7 +126,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004026",
-      "abstract": "",
+      "abstract": "This study empirically investigates whether digitalization affects local governments' (LGs) capacity to achieve the Sustainable Development Goals (SDGs). Focusing on the Italian context and adopting a socio-technical lens, the analysis uses an econometric model in which the level of SDGs implementation represents the dependent variable, while the level of digitalization refers to the independent variable. The model additionally considers socioeconomic factors, including political ideology and strength, financial situation, level of indebtedness, and the proportion of the youth demographic. The sample includes 108 Italian provincial capitals, each with more than 20,000 inhabitants. Considering the availability of data about the main variables, the digitalization index and control variables refer to 2021, while the SDG index refers to 2022. Empirical findings suggest that digitalization supports progress on SDGs related to economic and social development, but has a limited impact on environmental goals and partnerships. Moreover, economic policies often take precedence over sustainable development in shaping local agendas. As a main policy implication, the digitalization of local public services may enhance people's access to essential services, helping to address major global social and economic challenges. • Digitalization empowers Italian local governments to accomplish sustainable development goals pertaining to social and economic matters. • Digital platforms can enhance individuals' access to essential services, thereby contributing to the mitigation of relevant global social and economic challenges. • The utilization of Information and Communication Technology (ICT) promotes enhanced engagement of stakeholders—particularly citizens—in addressing a significant portion of the Sustainable Development Goals.",
       "keywords": [
         "Sustainable development",
         "Empirical research",
@@ -192,6 +200,55 @@
         "Process (computing)",
         "Urban regeneration",
         "Regeneration (biology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107207",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107207",
+      "title": "From intelligent drive to green symbiosis: The pathway of AI pilot zone policy in fostering urban inclusive green growth",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004397",
+      "abstract": "",
+      "keywords": [
+        "Green growth",
+        "Green economy",
+        "Investment (military)",
+        "Spillover effect",
+        "Urban policy",
+        "Sustainable development",
+        "Green development",
+        "Inclusive growth",
+        "Welfare"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107194",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107194",
+      "title": "A semantic inventory of preconceived barriers to quality in Canada's built environment",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004269",
+      "abstract": "",
+      "keywords": [
+        "Built environment",
+        "Quality (philosophy)",
+        "Built-up area",
+        "Development environment"
       ]
     },
     {
@@ -380,7 +437,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004415",
-      "abstract": "",
+      "abstract": "Fostering liveable environments is a central goal of contemporary city-making, yet existing research often focuses on infrastructure and standardised indicators, neglecting the subjective, relational, and affective dimensions of how residents experience urban life. This study addresses this gap by developing a conceptual framework of urban liveability grounded in the lived and negotiated experiences of residents in two Aotearoa New Zealand cities, Wellington and Hamilton. Using an arts-based collage method, participants from diverse socio-demographic, cultural, and geographical backgrounds visually shared their experiences of the city, revealing emotional attachments, social connections, and everyday negotiations with place. This approach surfaced dimensions of liveability rarely captured by conventional metrics, including essential connections between people, place and nature, the negotiation between ideals and lived realities, plural experiences across identities and life stages, and care at the community level. Findings show that liveability is shaped through ongoing processes of connectedness, cultural recognition, participation, and everyday practices, highlighting its relational and place-based orientation. Residents' experiences emphasise that urban environments are not static, but continually co-created through social, emotional, and spatial interactions. By developing a conceptual framework that foregrounds lived, affective, and relational dimensions, this study advances urban studies debates by reframing liveability as a negotiated process rather than a fixed outcome, extending understandings beyond technocratic measures. It provides insights for planners and policymakers seeking to create cities that reflect the realities, values, and aspirations of their communities. • This study adopts an arts-based, participatory approach to conceptualising liveability • This work conceptualises liveability centred on People-Place-Nature connectedness • Based on empirical evidence from case studies, liveability emerges as a social construct • Liveability emerges as a negotiation and collective process of ongoing practices",
       "keywords": [
         "Key (lock)",
         "Sustainability",
@@ -448,7 +505,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003677",
-      "abstract": "",
+      "abstract": "This paper investigates how urban planning practices can support the energy transition, focusing on the role of Finnish cities, their data collection practices, and the tools currently used and those still needed to facilitate planning. Structured interviews were conducted with representatives from five Finnish cities—Helsinki, Espoo, Tampere, Lappeenranta, and Kerava—all committed to climate neutrality by 2030 or 2035, depending on the city. The research explores how cities perceive their responsibilities in advancing climate goals, the challenges they face in coordinating with other actors, and the limitations in current planning processes. The findings reveal that while cities are actively pursuing carbon neutrality, their roles remain unclear, and institutional capacities are limited. A notable insight is the lack of coordination between national and municipal climate goals, which creates ambiguity in responsibilities and hinders effective planning. Citizens and private actors are rarely involved in planning, despite their relevance. Energy and other city data are collected in various forms but not systematically exploited to support decision-making. Existing planning tools are often too detailed, fragmented, or narrowly focused, limiting their usability. To address these challenges, the study presents prototype tools developed to support systemic energy transition planning and energy renovation decisions. These tools aim to bridge the gap between technical complexity and practical usability by integrating diverse data sources and supporting cross-sectoral dialogue. The study concludes that clarifying actor roles, improving data governance, and fostering collaboration—especially across governance levels—are essential for cities to plan and implement effective energy transition strategies. • Cities' role in energy transition is unclear. • Urban planning is an enabler to support energy transition in cities. • Data is not collected systematically for urban energy transition. • Dialogue and collaboration between relevant stakeholders should be promoted.",
       "keywords": [
         "Energy (signal processing)",
         "Urban planning",
@@ -2733,7 +2790,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000897",
-      "abstract": "",
+      "abstract": "Rapid urbanisation has stimulated profound socio-economic transformation while intensifying systemic urban risks such as flooding and urban heat. These climate-induced stresses underscore the imperative of resilience-oriented urban frameworks. Existing research highlights Nature-based Solutions (NbS) as pivotal strategies for climate mitigation and adaptation, yet their widespread implementation remains constrained by persistent barriers. Urban metabolism (UM) provides an analytical foundation to address these challenges by conceptualising cities as dynamic systems of material, energy, water, and waste flows. By reframing NbS through a metabolic lens, this review highlights how UM can (i) generate operationally verifiable performance indicators, (ii) expose hidden material and energy flows underpinning NbS, (iii) quantify trade-offs in cost and energy use, and (iv) support the system-level integration of NbS with grey and hybrid infrastructures. We conclude by identifying research priorities for linking metabolic diagnostics with resilience indicators and governance mechanisms, thereby advancing the construction of adaptive and resource-efficient resilient cities.",
       "keywords": [
         "Urban metabolism",
         "Urban environment",
@@ -5779,28 +5836,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107017",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107017",
-      "title": "Understanding electric scooter safety through driver's lens using protection motivation theory",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002490",
-      "abstract": "",
-      "keywords": [
-        "Through-the-lens metering",
-        "Lens (geology)",
-        "Self-determination theory",
-        "Intrinsic motivation"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.106964",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.106964",
       "title": "The impact of industrial relocation on urban pollution prevention and control: Insights from heterogeneous policy effects based on machine learning methods",
@@ -5922,26 +5957,6 @@
         "Globalization",
         "Participant observation",
         "Green infrastructure"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107002",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107002",
-      "title": "From viral to vital: The impact of City branding strategies on internet-famous cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002349",
-      "abstract": "",
-      "keywords": [
-        "Place branding",
-        "Corporate branding"
       ]
     },
     {
