@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T23:34:36.373087+00:00",
+  "generated_at": "2026-05-17T23:40:12.441909+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/ele.70400",
+      "doi_url": "https://doi.org/10.1111/ele.70400",
+      "title": "Tree Species Diversity Suppresses Soil Carbon Priming Effects in a Subtropical Forest",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-05-17",
+      "published_date_display": "2026-05-17",
+      "published_parts": [
+        2026,
+        5,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70400",
+      "abstract": "ABSTRACT Nature‐based climate solutions rely on the assumption that restoring plant diversity enhances soil organic carbon (SOC) sequestration. However, the persistence of SOC is threatened by the positive priming effects, where fresh plant carbon inputs accelerate the decomposition of native SOC. It remains unclear how increasing plant diversity impacts the soil priming effects. Here, using a natural tree species diversity gradient in a subtropical forest, we show that higher tree diversity was strongly associated with suppressed soil priming effects, attributable to reduced mineral protection of SOC and alleviated microbial energy limitation. Microbial community consequently shifts toward fast‐growing specialists that outcompete decomposers of chemically complex carbon. Our study reveals that tree species diversity is a key regulator of SOC persistence and demonstrates that the biodiversity‐driven priming suppression should be explicitly incorporated into nature‐based climate solutions and Earth system models to reduce critical uncertainties in carbon cycle projections.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70399",
+      "doi_url": "https://doi.org/10.1111/ele.70399",
+      "title": "Macroevolution of Steep Interspecific Metabolic Allometry in an Old Insect Order",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-05-17",
+      "published_date_display": "2026-05-17",
+      "published_parts": [
+        2026,
+        5,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70399",
+      "abstract": "ABSTRACT Endotherms exhibit metabolic allometric slopes of 0.75, which were long viewed as evolutionary constraints but which are increasingly questioned. In insects, allometric relationships between body size and metabolism are understudied. We used comparative phylogenetic methods to investigate macroevolution of metabolic allometry in Odonata (dragonflies and damselflies), an insect group with a unique ecology and dramatic macroevolution of body size. We found an interspecific allometric slope close to one (isometry). Metabolic rates evolved gradually with a weak pullback force and multiple shifts in metabolic optima, body size and flight behaviour. Cell size, nucleus size and body surface area did not explain this steep allometric slope. Instead, metabolic isometry likely reflects the high aerobic demands of flight and evolutionary increases in body size via cell numbers rather than cell size. Our results challenge traditional allometric theories and suggest that metabolic allometries can and do evolve, with far‐reaching implications for insect size evolution.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70398",
+      "doi_url": "https://doi.org/10.1111/ele.70398",
+      "title": "Integrating Physiological Rates of Thermal Stress and Repair Predicts Heat Failure During Temperature Fluctuations",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-05-17",
+      "published_date_display": "2026-05-17",
+      "published_parts": [
+        2026,
+        5,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70398",
+      "abstract": "ABSTRACT The Thermal Death Time (TDT) model has enabled quantification of heat injury in ectothermic organisms across variable thermal stress intensities and durations. Using experimental data from Drosophila suzukii , here we extend this framework to include a quantitative assessment of repair of thermal injury. We first demonstrate that heat injury accumulates additively and exponentially at stressful temperatures and subsequently show how repair of heat injury also depends on both temperature and duration across permissive temperatures. We find repair to be additive across different permissive temperatures, with the highest repair rate at intermediate temperatures. Importantly, integration of injury and repair rates enables accurate predictions of thermal failure during simple temperature fluctuations alternating between stressful and permissive temperature ranges. Our data therefore support an extension of the TDT framework to integrate injury‐repair dynamics. With further validation for other traits and taxa, these dynamics will be critical for assessing thermal vulnerability in a warming climate.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70396",
+      "doi_url": "https://doi.org/10.1111/ele.70396",
+      "title": "Indirect Interactions Driven by Soil Effects Enable Coexistence Among Competing Plant Species",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-05-17",
+      "published_date_display": "2026-05-17",
+      "published_parts": [
+        2026,
+        5,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70396",
+      "abstract": "ABSTRACT Reciprocal effects between plants and soil have been proposed as mechanisms that promote coexistence. However, recent theoretical and empirical works have questioned their role in stabilizing coexistence within multispecies communities. In these systems, soil‐mediated indirect interactions may play a pivotal but often overlooked role. We investigate these indirect interactions using an experimental system of two competing shrub species grown in soil conditioned by a mediating third tree species. Tree‐induced shifts in soil microbial communities, metabolites and nutrients boost growth in the weak competitor species while reducing germination in the dominant competitor. Simulations demonstrate that these shifts in plant performance are sufficient to stabilize coexistence, producing simulated spatial distributions consistent with those observed in natural communities. Our findings underscore the role of soil effects in driving indirect interactions that sustain coexistence in diverse plant communities, highlighting the importance of indirect but also positive and negative multitrophic interactions in maintaining biodiversity.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/gcb.70924",
       "doi_url": "https://doi.org/10.1111/gcb.70924",
       "title": "Nitrogen‐Driven Acidification and Microbial Shifts Contribute to a Breakdown in Carbon–Phosphorus Trade in the Rhizosphere",
@@ -51,7 +123,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70924",
       "abstract": "ABSTRACT Anthropogenic nitrogen (N) deposition is reshaping terrestrial phosphorus (P) cycling. This effect is pronounced in the rhizosphere, where plants respond to P status by releasing root exudates. Yet it remains unclear whether these interactions drive P mobilization or immobilization. To capture both the chronic effects of N deposition and the transient effects of root exudates, we integrated a decade‐long N addition experiment (a single annual application of (NH 4 ) 2 SO 4 at 0, 2, and 5 g N m −2 year −1 ) with a 14‐day laboratory incubation. Specifically, rhizosphere and bulk soils from a Eurasian meadow steppe were amended with 13 C‐labeled low‐molecular‐weight organic acids (LMWOA; a single addition of acetic and succinic acids). Phosphorus transformation was quantified using sequential extraction and 31 P NMR, while underlying mechanisms were assessed via priming effects, phosphatase activity, and microbial functional genes. Nitrogen enrichment promoted the dissolution of mineral‐bound inorganic P (P i ) through acidification (pH drop > 1 unit), leading to the accumulation of secondary mineral P i and organic P (P o ). This was accompanied by reduced microbial phosphatase activity and lower abundances of the P‐cycling genes phoC and phoD . The above effects were stronger in the rhizosphere than in bulk soil. In the rhizosphere, LMWOA enhanced microbial P immobilization and P o accumulation, even as their positive priming effects accelerated soil organic carbon mineralization. These results were partly driven by the recruitment of key P‐cycling taxa such as Burkholderia and Rhodoplanes , suggesting a shift in carbon‐for‐P exchange between plants and microbes under N deposition. Collectively, our findings indicated that while N‐induced P solubilization may temporarily alleviate P limitation, synergy with increased LMWOA exudation promotes P o accumulation. Though P o can be labile compared to mineral‐bound forms, suppressed phosphatase activity likely constrains its mineralization. This inhibition potentially decelerates P cycling, thereby compromising the medium‐ to long‐term P supply within the Eurasian steppe.",
-      "keywords": []
+      "keywords": [
+        "Rhizosphere",
+        "Phosphorus",
+        "Bulk soil",
+        "Stable-isotope probing",
+        "Soil water",
+        "Steppe",
+        "Soil carbon",
+        "Nitrogen",
+        "Dissolution"
+      ]
     },
     {
       "doi": "10.1111/ele.70405",
@@ -69,7 +151,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70405",
       "abstract": "RETRACTION : Z. Tao, K. Zhang, R.M. Callaway, E. Siemann, Y. Liu, and W. Huang, “Native Plant Diversity Generates Microbial Legacies That Either Promote or Suppress Non‐Natives, Depending on Drought History,” Ecology Letters 27, no. 9 (2024): e14504, https://doi.org/10.1111/ele.14504 . The above article, published online on 2 October 2024 in Wiley Online Library ( http://onlinelibrary.wiley.com/ ), has been retracted by agreement between the journal Editor‐in‐Chief, Peter H. Thrall; and John Wiley & Sons Ltd. Concerns about the data were raised by one of the journal editors. Following publication, the editors identified unusual repetitive patterns in the data underlying the study. The editors concluded that the patterns, identified using common statistical analysis tools, were unlikely to have occurred by chance from a typical environmental data collection effort. When asked about the concerns, the authors shared some raw data but were unable to provide a satisfactory explanation to the editors for the patterns in the published data that the editors could not reconcile with the study's conclusions. When later presented with the possibility of retraction and a draft retraction statement, the authors disagreed strongly and provided a detailed rebuttal of the editors’ assessment. They argued in part that the software tools the editors used to identify the duplication patterns had not been peer reviewed or otherwise validated. As part of an extensive investigation of the authors’ rebuttal claims, the publisher consulted an anonymous and independent subject matter expert (SME), who confirmed the findings of the editors and noted that the repetitive patterns observed in the underlying data were inconsistent with the reliability required to support the article's conclusions. As a result of the post‐publication review by the SME, the editors affirm that they have lost confidence in the results and conclusions. In line with the journal's editorial policies, the editors determined that unresolved concerns regarding data reliability warranted retraction. The authors disagree with the retraction.",
-      "keywords": []
+      "keywords": [
+        "Rebuttal",
+        "Diversity (politics)",
+        "Raw data",
+        "Subject (documents)",
+        "Publishing",
+        "Warrant",
+        "Research article"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03075-5",
