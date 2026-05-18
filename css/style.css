@@ -3382,6 +3382,10 @@ a.link-arrow:hover,
     font-style: normal;
 }
 
+.page-closing-motto-cjk {
+    font-family: SimSun, STSong, 'Songti SC', serif;
+}
+
 .page-closing-copyright {
     grid-column: 1;
     margin-top: 0;
