@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T23:40:12.441909+00:00",
+  "generated_at": "2026-05-18T23:44:36.014687+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,132 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03057-7",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03057-7",
+      "title": "Ecological role of emergent properties in the chemodiversity landscape",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-18",
+      "published_date_display": "2026-05-18",
+      "published_parts": [
+        2026,
+        5,
+        18
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03057-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70349",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70349",
+      "title": "Roots or exudates? Rhizosphere enzyme hotspots reveal contrasting nitrogen‐acquisition strategies in maize under nitrogen limitation",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-18",
+      "published_date_display": "2026-05-18",
+      "published_parts": [
+        2026,
+        5,
+        18
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70349",
+      "abstract": "Abstract Plants acclimate to nitrogen limitation by expanding root biomass or recruiting microbes via exudates, yet the integrative role of these strategies in spatially organizing rhizosphere enzymatic hotspots remains largely unexplored. Here, we combined soil zymography with microbiome–metabolome analysis to investigate the mechanisms underlying rhizosphere enzymatic hotspot formation in two maize hybrids with contrasting below‐ground responses to nitrogen limitation. Results showed that ZD958 adopted a root biomass‐centric strategy, increasing rhizosphere N‐acetyl‐β‐glucosaminidase activity by 36% and overall rhizosphere extent by 103% through root proliferation and microbial synergy. In contrast, XY335 invested carbon in root exudates, restructuring its rhizosphere microbiota and upregulating genes encoding β‐glucosidase and N‐acetyl‐β‐glucosaminidase, which resulted in a 19% increase in β‐glucosidase activity and a 77% expansion of its rhizosphere extent under low‐N conditions. Network analyses identified Acidobacteriota as keystone taxa, accounting for ~95% of core microbial interactions and showing strong co‐occurrence with root‐derived metabolites. Consistently, Acidobacteriota carrying β‐glucosidase‐ and N‐acetyl‐β‐glucosaminidase‐encoding genes increased by 34%–71% under N deficiency. Partial least squares path modelling revealed that root exudates had a stronger influence on rhizosphere microbial structure and enzymatic hotspot formation than soil N levels or root biomass. Synthesis. These findings reveal two complementary N‐acquisition strategies in maize: exudate‐mediated microbial recruitment versus root biomass‐driven enzymatic expansion. Unravelling these trade‐offs offers essential insights into plant–microbe coordination for improving nutrient acquisition in low‐N soils.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70338",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70338",
+      "title": "High climatic niche stability across life stages in Swiss forest tree species",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-18",
+      "published_date_display": "2026-05-18",
+      "published_parts": [
+        2026,
+        5,
+        18
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70338",
+      "abstract": "Abstract Ontogenetic niche dynamics, that is the change in environmental requirements throughout an individual's development, remains an underexplored aspect in ecological research with potentially major implications for predicting species responses to climate change. Despite a growing body of research in tree regeneration dynamics, multispecies assessments to establish the expectations for niche ontogeny are still lacking. Here, we used country‐wide repeated inventory data from the Swiss National Forest Inventory to: (i) compare juvenile and adult climate niches across 43 tree species, (ii) investigate the direction and magnitude of ontogenetic niche shifts across species, and (iii) investigate the temporal consistency of these niche estimates over inventories. Additionally, for the five best replicated species, we investigate niche overlaps and shifts in further detail over seven size classes, spanning from juveniles under 10 cm in height to large adult trees. Ontogenetic niche conservatism, that is large niche overlap between size classes, was the prevailing pattern across species. Non‐overlapping fractions of the niche were small and tended to be suitable to juveniles only, suggesting slightly larger juvenile than adult niches. In‐detail analyses of size class transitions also suggested high niche overlap between consecutive sizes classes (>93% in average). Niche estimations were temporally consistent over inventories for both adults and juveniles, though lower for juveniles. Finally, juvenile niche shifts did not align with climate change expectations, being highly variable across species. Consecutive size class transitions similarly indicated niche shifts that were not consistent within‐ nor across species. Synthesis . Our results strongly suggest niche conservatism as the expected patterns across ontogeny over Swiss tree species. This imply that approaches relying exclusively on adult presence are still likely to be representative of all life stages, at least for temperate trees at mesic conditions, which are those best represented across Swiss forests. At the same time, the lack of clear climate change responses in juveniles (or across size classes) for most species emphasizes the importance of species‐specific and non‐climatic factors in predicting climate change range shifts. How these shifts in potential niches translate to in situ responses or tolerance to extremes of seedlings living under the canopy remain to be tested.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70344",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70344",
+      "title": "A machine learning framework for mapping shifts in species' abundance from long‐term monitoring data",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-18",
+      "published_date_display": "2026-05-18",
+      "published_parts": [
+        2026,
+        5,
+        18
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70344",
+      "abstract": "Abstract Climate change has driven extensive reorganisation of plant communities as species adjust their ranges in response to changing conditions. Existing studies focus on the role of temperature, documenting shifts in range margins, but neglect changes in abundance within the range. This results in unexplained patterns complicated by overlooked, interacting biotic and abiotic drivers, such as soil properties and herbivores, limiting our ability to predict forest response and vulnerability to climate change. Here, we develop the Abundance Trend Indicator (ATI), a machine learning approach that learns the conditions under which changes in species' abundance have occurred and, thus, the extent and location of the mismatch of a species' current range to its total realised habitat. The resulting abundance shift maps identify abundance shift directions, vulnerable species and their drivers. We validate the algorithm on New Zealand's forest inventory data (2821 sites, 77 woody species, collectively accounting for 75% of forest canopy nationally) and 37 predictor variables, which include climatic, topographic, edaphic and biological factors. ATI confirms globally observed trends of upward and poleward abundance shifts, but reveals drivers such as soil pH, grazing and climate stability for species shifting in opposite directions. Moreover, our findings suggest that vulnerability is primarily explained by a plant's ability to tolerate or avoid stress resulting from climatic fluctuations and limited migration capacity. Synthesis . Using existing forest inventory data, ATI models within‐range abundance shifts, rather than changes in range margins, resulting in earlier detection of environmental drivers and geographical directions of plant migration. This enables the early identification of vulnerable species.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70407",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70407",
+      "title": "Artificial light at night ( <scp>ALAN</scp> ) is a stronger inhibitor of overwintering dormancy than urban warming in mosquitoes",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-18",
+      "published_date_display": "2026-05-18",
+      "published_parts": [
+        2026,
+        5,
+        18
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70407",
+      "abstract": "Abstract Artificial light at night (ALAN) is a global, evolutionarily novel, anthropogenic environmental disturbance that can alter seasonal responses in plants and animals by interfering with their perception of daylength. This has profound implications for organisms that live in cities and experience both high levels of light pollution and higher temperatures from the Urban Heat Island effect. Understanding how these two disturbances interact to impact seasonality is important for predicting temporal population dynamics in cities for insects that transmit disease‐causing pathogens. Adult females of the Northern house mosquito, Culex pipiens f. pipiens , enter a state of developmental arrest, or diapause, primarily in response to short daylengths in autumn. While in diapause, females accumulate nutrient reserves, halt reproductive development, cease blood‐feeding, and therefore cannot transmit pathogens. We examined whether ALAN during autumn interacts with urban warming to inhibit diapause induction. Mosquito larvae were reared within enclosures on a temperature gradient of private properties in Columbus, Ohio, USA, during September and October. Each property hosted two enclosures: one placed in a location exposed to artificial light sources (i.e. porch lights) and the other in a dark location, and daily temperature was recorded within each enclosure. Approximately 1 week after adult emergence, mosquitoes were returned to the laboratory to evaluate their diapause status. We found that ALAN exposure inhibited diapause regardless of month and negated the effects of urban warming during September. Mosquitoes that were exposed to ALAN in both September and October had larger egg follicles, were less likely to be in diapause, were more likely to blood‐feed and produced larvae. Policy implications . Low intensities of warm white ALAN were a stronger inhibitor of diapause initiation than urban warming, indicating that changes in brightness or light colour may not be sufficient to mitigate ecological impacts and ALAN from common sources can extend seasonal mosquito biting activity and reproduction into late autumn. This study reveals a potential explanation for higher mosquito‐borne disease risk in cities. To mitigate this risk, we recommend increased mosquito surveillance and control interventions in areas with significant light pollution, as well as optimized changes to lighting structures.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70922",
+      "doi_url": "https://doi.org/10.1111/gcb.70922",
+      "title": "Extensive Alpine Shrubification Revealed by Systematic Resampling Across Europe",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-18",
+      "published_date_display": "2026-05-18",
+      "published_parts": [
+        2026,
+        5,
+        18
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70922",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70384",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70384",
+      "title": "No one‐size‐fits‐all: Trait‐dependent effects of local plant diversity on pollinators and pollination service in a densifying city",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-17",
+      "published_date_display": "2026-05-17",
+      "published_parts": [
+        2026,
+        5,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70384",
+      "abstract": "Abstract The densification of urban landscapes reshuffles plant–pollinator interactions and affects the provisioning of pollination services. Improving local‐scale habitat quality, for example, planting more flowers in urban greenspaces such as gardens, has been proposed to compensate, but effective pollination also depends on trait matching between pollinators and flowers. In an experimental study, we used four phytometer species with differing flower‐visitor specificities to assess pollinator visitation, richness and pollination success along independent gradients of landscape‐scale densification and local‐scale floral richness. Pollinator visitation and richness declined both with increased urban density and lower floral richness. Flower‐rich gardens supported more small solitary and large social bees, but not hoverflies, beetles or small social bees. Pollination success declined with densification but was compensated by floral richness only in phytometers with more specialised pollinators. Synthesis and applications. Increasing local floral richness can support pollination success of specialised plants in dense urban landscapes. However, a floral enrichment strategy alone is less effective for generalist plants, which are typically more abundant in plant communities. No single strategy can mitigate the loss of pollinators and pollination services in increasingly urbanising environments. Habitat loss in cities should therefore be addressed not only by selectively increasing the quantity of floral resources for pollinators, but also by additional targeted measures in the surrounding landscape, such as creating and connecting specific habitats for different pollinator groups.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/ele.70400",
       "doi_url": "https://doi.org/10.1111/ele.70400",
       "title": "Tree Species Diversity Suppresses Soil Carbon Priming Effects in a Subtropical Forest",
@@ -51,7 +177,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70400",
       "abstract": "ABSTRACT Nature‐based climate solutions rely on the assumption that restoring plant diversity enhances soil organic carbon (SOC) sequestration. However, the persistence of SOC is threatened by the positive priming effects, where fresh plant carbon inputs accelerate the decomposition of native SOC. It remains unclear how increasing plant diversity impacts the soil priming effects. Here, using a natural tree species diversity gradient in a subtropical forest, we show that higher tree diversity was strongly associated with suppressed soil priming effects, attributable to reduced mineral protection of SOC and alleviated microbial energy limitation. Microbial community consequently shifts toward fast‐growing specialists that outcompete decomposers of chemically complex carbon. Our study reveals that tree species diversity is a key regulator of SOC persistence and demonstrates that the biodiversity‐driven priming suppression should be explicitly incorporated into nature‐based climate solutions and Earth system models to reduce critical uncertainties in carbon cycle projections.",
-      "keywords": []
+      "keywords": [
+        "Decomposer",
+        "Soil carbon",
+        "Tropical and subtropical moist broadleaf forests",
+        "Carbon cycle",
+        "Priming (agriculture)",
+        "Species diversity",
+        "Plant community",
+        "Subtropics",
+        "Climate change",
+        "Deforestation (computer science)"
+      ]
     },
     {
       "doi": "10.1111/ele.70399",
@@ -69,7 +206,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70399",
       "abstract": "ABSTRACT Endotherms exhibit metabolic allometric slopes of 0.75, which were long viewed as evolutionary constraints but which are increasingly questioned. In insects, allometric relationships between body size and metabolism are understudied. We used comparative phylogenetic methods to investigate macroevolution of metabolic allometry in Odonata (dragonflies and damselflies), an insect group with a unique ecology and dramatic macroevolution of body size. We found an interspecific allometric slope close to one (isometry). Metabolic rates evolved gradually with a weak pullback force and multiple shifts in metabolic optima, body size and flight behaviour. Cell size, nucleus size and body surface area did not explain this steep allometric slope. Instead, metabolic isometry likely reflects the high aerobic demands of flight and evolutionary increases in body size via cell numbers rather than cell size. Our results challenge traditional allometric theories and suggest that metabolic allometries can and do evolve, with far‐reaching implications for insect size evolution.",
-      "keywords": []
+      "keywords": [
+        "Allometry",
+        "Macroevolution",
+        "Interspecific competition",
+        "Insect",
+        "Phylogenetic tree",
+        "Phylogenetics",
+        "Ectotherm",
+        "Insect flight",
+        "Tree allometry"
+      ]
     },
     {
       "doi": "10.1111/ele.70398",
@@ -87,7 +234,14 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70398",
       "abstract": "ABSTRACT The Thermal Death Time (TDT) model has enabled quantification of heat injury in ectothermic organisms across variable thermal stress intensities and durations. Using experimental data from Drosophila suzukii , here we extend this framework to include a quantitative assessment of repair of thermal injury. We first demonstrate that heat injury accumulates additively and exponentially at stressful temperatures and subsequently show how repair of heat injury also depends on both temperature and duration across permissive temperatures. We find repair to be additive across different permissive temperatures, with the highest repair rate at intermediate temperatures. Importantly, integration of injury and repair rates enables accurate predictions of thermal failure during simple temperature fluctuations alternating between stressful and permissive temperature ranges. Our data therefore support an extension of the TDT framework to integrate injury‐repair dynamics. With further validation for other traits and taxa, these dynamics will be critical for assessing thermal vulnerability in a warming climate.",
-      "keywords": []
+      "keywords": [
+        "Stress (linguistics)",
+        "Heat stress",
+        "Materials science",
+        "Physics",
+        "Atmospheric sciences",
+        "Philosophy"
+      ]
     },
     {
       "doi": "10.1111/ele.70396",
@@ -17853,35 +18007,6 @@
         "Evolutionary dynamics",
         "Phylogenetic tree",
         "Biodiversity"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70729",
-      "doi_url": "https://doi.org/10.1111/gcb.70729",
-      "title": "Uptake and Release—What Is Driving Change in the Net Carbon Budget in Forest Soils?",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-30",
-      "published_date_display": "2026-01-30",
-      "published_parts": [
-        2026,
-        1,
-        30
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70729",
-      "abstract": "It is well established that soils are a significant store of carbon in terrestrial ecosystems—very few papers on soil carbon dynamics fail to mention the fact that there is more carbon stored in global soils than in vegetation and the atmosphere combined. This is generally correctly cited to justify research into the processes driving changes in soil carbon storage, and how management of land use can help protect this store. Meanwhile, mitigation of climate change by enhanced carbon sequestration through increasing tree cover across Earth's biomes is regularly discussed in scientific literature and policy. There has been a vigorous debate over the validity of tree establishment in specific contexts and the usefulness of tree planting targets for carbon off-sets in net-zero policies. These results highlight the importance of including deep- soil C in forest ecosystem assessments, as it plays a key role in the overall C balance. (Mayer et al. 2025, Global Change Biology) This paper adds to a growing number of recent publications that challenge the assumption that plant growth and CO2 drawdown in productive forests results in parallel increases in organic matter stored in soils (e.g., Joly et al. 2025; Lutter et al. (2023); Mayer et al. (2024); Quartucci et al. (2023)). Plant–soil interactions that link the carbon sequestered from the atmosphere to different pools of carbon in vegetation and soil are intricate. This means that otherwise meaningful carbon management through vegetation change can result in less obvious longer-term consequences for whole-ecosystem carbon sequestration. For the most part, increases in carbon uptake by vegetation result in higher respiration fluxes from soil and vegetation back to the atmosphere (Jiang et al. 2020). Net carbon uptake in ecosystems is generally a small imbalance between photosynthesis and respiration, tipped towards the former; actual sequestration results from carbon being fixed in pools with long turnover times. Importantly, these offsetting carbon losses are not yet considered when planning management options such as tree planting, and when valorising land-use management through rewards such as carbon credits. Soil carbon is stored in a range of forms, from particulate—fragments of dead plant matter—to mineral associated. The latter are stabilised forms of organic matter that have resulted from microbial processing and leaching through the soil profile and subsequent precipitation onto surfaces of mineral particles. These forms of carbon pools represent a spectrum of biochemical stability, associated with a wide range in turnover rates for each of them. Carbon stores in deep soils are generally dominated by more stable forms of carbon, with slow-cycling, mineral associated forms dominating over the more biochemically labile, particulate forms of organic matter (Lavallee et al. 2020). Mayer et al. (2025) observed an accumulation of topsoil carbon which is typically dominated by particulate carbon. It is a less reliable carbon stock for climate change mitigation, due to its accessibility to microbes and vulnerability to perturbations such as fire, forestry operations and pest outbreaks (Mayer et al. 2024). So, whilst vegetation management can provide new inputs of organic matter to soil, it is important to look beyond just the total change in organic matter to take account of where this is found within the profile, and how changes in specific soil organic matter fractions affect overall turnover. Changes in forest productivity have a direct impact on belowground biota and the way in which carbon is added, processed and lost from soils. Changes in the quantity and quality of litter cause shifts in the type and abundance of soil fauna, fungi and bacteria, impacting carbon cycling. Rhizosphere priming, where relatively labile compounds from root exudations lead to enhanced decomposition of organic matter to meet the nitrogen demand of plants (often via mycorrhizal fungi), has been described in numerous studies. Ectomycorrhizal fungi associated with most coniferous and deciduous European tree species have particular potential to enhance decomposition because of nutrient extraction from organic matter (Choreño-Parra and Treseder 2024). Nutrient extraction and associated decomposition to support tree growth could have contributed to the deep soil carbon losses observed. The European beech forests investigated by Meyer et al. are located within the lowest rainfall zones of Northern and Central Europe (Pisut 2021). The region has undergone significant climate change in recent decades, with increased annual average temperatures and annual precipitation coinciding with deep soil carbon loss (Mayer et al. 2025). Soil decomposer activity and communities are closely linked to their climate. Heterotrophic respiration peaks at 50%–60% soil water saturation, allowing sufficient water for metabolic and dissolved reactions but not so much that aerobic processes shut down. Additionally, the increase in respiration following a moisture increase is most pronounced in the driest soils (Moyano et al. 2012). Priming may be very moisture sensitive, as enzymes and exudates need to be in dissolved form to stimulate microbial activity in soil organic matter. Therefore, as soil moisture (or the frequency at which soil moisture thresholds are reached) increases, priming-related losses of carbon could also increase. Higher average temperatures would further add to any moisture-driven enhancement of organic matter turnover. An observed increase of around 2°C over the study period could explain an increase in microbial decomposition by 15%, assuming a simplistic doubling of decomposition rates for a 10°C increase in temperature (Q10 = 2). Known relationships of moisture and temperature dependence would thus lend support to Mayer et al.'s interpretation of a climate-driven change in deep soil carbon. Forests and the deep soils that they occur on are often considered our ‘safest’ option to deposit and store long term carbon. However, Mayer et al. show that this carbon sink is losing its strength and should not be relied on. The mechanisms of carbon loss at depth are unclear and must be resolved to predict the future trajectory of carbon storage in forests and the wider terrestrial carbon sink. This paper emphasises that we cannot over-rely on forests to mitigate climate change because there is still so much that we do not understand; despite accumulating carbon in tree biomass, they may be losing carbon ‘capital’ to the atmosphere. Jens-Arne Subke: conceptualization, writing – original draft, writing – review and editing. Jens-Arne Subke: conceptualization, writing – original draft, writing – review and editin. The authors declare no conflicts of interest. This article is a Invited Commentary on Mayer et al., https://doi.org/10.1111/gcb.70446. The authors have nothing to report.",
-      "keywords": [
-        "Biome",
-        "Soil carbon",
-        "Vegetation (pathology)",
-        "Carbon sequestration",
-        "Carbon cycle",
-        "Soil water",
-        "Carbon fibers",
-        "Climate change",
-        "Greenhouse gas",
-        "Atmospheric carbon cycle"
       ]
     },
     {
