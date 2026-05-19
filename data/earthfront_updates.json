@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T22:40:03.376400+00:00",
+  "generated_at": "2026-05-19T22:48:30.491690+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,96 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01839-2",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01839-2",
+      "title": "Towards sustainable metal–organic frameworks from lab to practice",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01839-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01981-8",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01981-8",
+      "title": "Evapotranspiration declines prolonged by deforestation and fire in South American biomes",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01981-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01987-2",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01987-2",
+      "title": "Emergent constraints on future methane emissions from global wetlands",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01987-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02655-4",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02655-4",
+      "title": "Seabird range contraction and dispersal under climate change",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02655-4",
+      "abstract": "Abstract Many marine ectotherms have responded to local warming through body-size reductions and dispersal to optimal environments. However, whether endothermic marine species, such as seabirds, exhibit similar responses remains unclear owing to gaps in literature that hinder comprehensive global assessments. Here we show that globally distributed seabirds (albatrosses, petrels, shearwaters and storm petrels) facing rapid historical climate change responded with changes in geographic range size rather than body mass. In addition, under higher rates of climate change, species’ ranges contracted most, forcing these species to disperse longer distances. These historical inferences align with expected responses to modern climate change, as over 70% of extant species contract their ranges and disperse farther under a climate scenario leading to severe warming by 2100. These results underscore the urgent need to integrate range dynamics into conservation strategies and reveal that the rate of climate change poses the greatest threat to seabird diversity.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02640-x",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02640-x",
+      "title": "Personal experiences matter for climate action",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02640-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01830-x",
       "doi_url": "https://doi.org/10.1038/s41893-026-01830-x",
       "title": "Synergies between poverty reduction and biodiversity conservation",
@@ -41,7 +131,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01830-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Poverty",
+        "Sustainability",
+        "Biodiversity conservation",
+        "Poverty reduction",
+        "Measurement of biodiversity",
+        "Agricultural biodiversity",
+        "Global biodiversity"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01835-6",
@@ -58,8 +157,18 @@
         18
       ],
       "link": "https://www.nature.com/articles/s41893-026-01835-6",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Sea-level rise (SLR) and saltwater intrusion are driving large-scale ecosystem retreat along economically valuable coasts. However, it remains unclear how human interventions influence climate-driven processes, especially in rural areas. Sea-level-driven land use change is typically modelled as a binary response, where human-dominated uplands convert to wetlands instantaneously or else are protected indefinitely. Here we use 38 years of satellite observations across the mid-Atlantic SLR hotspot to show that marsh encroachment is nearly twice as fast, and 1.4–6.8 times more frequent, on agricultural land than forestland. Field measurements indicate that local interventions have slowed the loss of agricultural land on private property to rates far lower than SLR; however, our results suggest that, at the regional scale, agriculture accelerates the impacts of saltwater intrusion. These results imply a unique scale-dependent impact of humans on coastal management and extend our understanding of humans as principal agents of change, even in rural landscapes. As sea levels rise, coastal ecosystems and economies are threatened by saltwater intrusion and wetland encroachment. These effects are accelerated by coastal agriculture, highlighting the importance of local management interventions.",
+      "keywords": [
+        "Wetland",
+        "Threatened species",
+        "Agriculture",
+        "Marsh",
+        "Ecosystem",
+        "Saltwater intrusion",
+        "Land use",
+        "Overexploitation",
+        "Salt marsh"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01816-9",
@@ -77,7 +186,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01816-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Livelihood",
+        "Biodiversity",
+        "Ecosystem services",
+        "Subsistence agriculture",
+        "Species richness",
+        "Poverty",
+        "Community forestry",
+        "Population",
+        "Forest ecology"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02658-1",
@@ -95,7 +214,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02658-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Global warming",
+        "Ectotherm",
+        "Ecosystem",
+        "Climate extremes",
+        "Climate system"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01825-8",
