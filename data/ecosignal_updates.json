@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T23:44:36.014687+00:00",
+  "generated_at": "2026-05-19T23:45:15.992451+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03092-4",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03092-4",
+      "title": "Reply to: A case definition with microscopy would help establish Vibrio as a cause of sea star wasting disease",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03092-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03091-5",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03091-5",
+      "title": "A case definition with microscopy would help establish Vibrio as a cause of sea star wasting disease",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03091-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70918",
+      "doi_url": "https://doi.org/10.1111/gcb.70918",
+      "title": "Global Change and Interspecific Competition Impacts on the Genetic Connectivity of Mountain Hare ( <i>Lepus timidus</i> ) and European Hare ( <i>Lepus europaeus</i> ) Populations in the French Alps",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70918",
+      "abstract": "ABSTRACT In mountain ecosystems, the persistence of species increasingly depends on the maintenance of functional connectivity under the dual pressures of climate and land‐use change. “Sky island” species such as the mountain hare ( Lepus timidus ) are particularly vulnerable, being restricted to high‐altitude cold‐climate habitats. Meanwhile, generalist and expanding species like the European hare ( L. europaeus ) may further threaten their persistence through interspecific competition. Despite growing concern about biodiversity in mountain regions, fine‐scale assessments of landscape connectivity and its drivers remain limited. We investigated how environmental and anthropogenic variables affect functional connectivity in both the mountain hare and the European hare in the French Alps, and how interspecific interactions might modulate connectivity patterns. We used machine‐learning landscape genetics approaches with microsatellite data from 1564 mountain hares and 1143 European hares sampled across the French Alps. This allowed us to assess the effect of 13 landscape variables at multiple spatial scales on gene flow and validated results across five sub‐areas to test for regional consistency. While the genetic structure was weak in both species, connectivity patterns were species‐specific and opposite, shaped by distinct environmental variables and the interspecific competition for the mountain hare. For example, elevation increased gene flow in the mountain hare but limited it in the European hare. Connectivity maps confirmed contrasted spatial patterns: mountain hare corridors were confined to high elevations, while European hare connectivity concentrated in lowlands and valleys. Interspecific competition may further restrict mountain hare movement by limiting access to lower‐elevation corridors increasingly dominated by the European hare. Our findings highlight contrasted landscape permeability between a cold‐adapted species and a generalist competitor. The expansion of anthropized areas in Alpine valleys may exacerbate connectivity loss in mountain hares. Conservation strategies should prioritize the maintenance of high‐altitude corridors to support climate‐driven range shifts and reduce competition pressure.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70926",
+      "doi_url": "https://doi.org/10.1111/gcb.70926",
+      "title": "Drivers of Extreme Carbon Sources and Sinks Across Diverse Ecosystems in the Western USA",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        5,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70926",
+      "abstract": "ABSTRACT Increasing climate variability is impacting the carbon cycle in unprecedented ways, demanding an understanding of the conditions leading to extreme carbon flux states. In this study, we sought to determine the strength and influential timescales of key environmental drivers governing unusually high daily gross primary productivity (GPP) and ecosystem respiration (R eco ) across diverse ecosystems in the western USA. We obtained CO 2 flux data from 14 AmeriFlux eddy covariance flux tower sites (11–22 years/site) across the western USA to understand the drivers of extreme CO 2 sinks (extreme GPP) and sources (extreme R eco ). To account for seasonality, we defined extreme sink and source states as those GPP and R eco values exceeding a site‐level 95th quantile spline regression. We assembled environmental covariates computed across multiple timescales (day, week, month, year), including temperature, vapor pressure deficit, short‐wave radiation, soil moisture, and precipitation, along with site‐level characteristics (e.g., mean annual precipitation [MAP]). We used random forest classification models to evaluate the importance of different covariates for identifying extreme versus “nominal” fluxes. Patterns of large, but infrequent precipitation events over the preceding month were key positive drivers of the probability of both extreme sinks and sources, and the importance of such precipitation “packaging” was 16.5 times greater under water limitation (low MAP). We also found climate timescales interacted hierarchically: historical, long‐term climate and conditions over the past month and/or year establish baseline ecosystem resource limitation (water or light limitation), within which short‐term interactions—such as compounding events and event duration—operate to influence extreme fluxes. Preceding‐month temperature and preceding‐year variation in shortwave radiation had climate‐specific influences, particularly in high MAT sites and in Mediterranean sites, respectively. Our results indicate the evolution of extreme carbon fluxes with climate change, including the likelihood of increased occurrence of extreme carbon flux states in response to increasing hydroclimate volatility.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03057-7",
       "doi_url": "https://doi.org/10.1038/s41559-026-03057-7",
       "title": "Ecological role of emergent properties in the chemodiversity landscape",
@@ -51,7 +123,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03057-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Merge (version control)",
+        "Ecosystem",
+        "Pairwise comparison",
+        "Abundance (ecology)",
+        "Theoretical ecology",
+        "Functional ecology",
+        "Ecosystem services",
+        "Ecological systems theory"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70349",
@@ -69,7 +150,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70349",
       "abstract": "Abstract Plants acclimate to nitrogen limitation by expanding root biomass or recruiting microbes via exudates, yet the integrative role of these strategies in spatially organizing rhizosphere enzymatic hotspots remains largely unexplored. Here, we combined soil zymography with microbiome–metabolome analysis to investigate the mechanisms underlying rhizosphere enzymatic hotspot formation in two maize hybrids with contrasting below‐ground responses to nitrogen limitation. Results showed that ZD958 adopted a root biomass‐centric strategy, increasing rhizosphere N‐acetyl‐β‐glucosaminidase activity by 36% and overall rhizosphere extent by 103% through root proliferation and microbial synergy. In contrast, XY335 invested carbon in root exudates, restructuring its rhizosphere microbiota and upregulating genes encoding β‐glucosidase and N‐acetyl‐β‐glucosaminidase, which resulted in a 19% increase in β‐glucosidase activity and a 77% expansion of its rhizosphere extent under low‐N conditions. Network analyses identified Acidobacteriota as keystone taxa, accounting for ~95% of core microbial interactions and showing strong co‐occurrence with root‐derived metabolites. Consistently, Acidobacteriota carrying β‐glucosidase‐ and N‐acetyl‐β‐glucosaminidase‐encoding genes increased by 34%–71% under N deficiency. Partial least squares path modelling revealed that root exudates had a stronger influence on rhizosphere microbial structure and enzymatic hotspot formation than soil N levels or root biomass. Synthesis. These findings reveal two complementary N‐acquisition strategies in maize: exudate‐mediated microbial recruitment versus root biomass‐driven enzymatic expansion. Unravelling these trade‐offs offers essential insights into plant–microbe coordination for improving nutrient acquisition in low‐N soils.",
-      "keywords": []
+      "keywords": [
+        "Rhizosphere",
+        "Nitrogen cycle",
+        "Microbial population biology",
+        "Nutrient",
+        "Bulk soil",
+        "Nitrogen",
+        "Mineralization (soil science)",
+        "Biomass (ecology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70338",
@@ -87,7 +177,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70338",
       "abstract": "Abstract Ontogenetic niche dynamics, that is the change in environmental requirements throughout an individual's development, remains an underexplored aspect in ecological research with potentially major implications for predicting species responses to climate change. Despite a growing body of research in tree regeneration dynamics, multispecies assessments to establish the expectations for niche ontogeny are still lacking. Here, we used country‐wide repeated inventory data from the Swiss National Forest Inventory to: (i) compare juvenile and adult climate niches across 43 tree species, (ii) investigate the direction and magnitude of ontogenetic niche shifts across species, and (iii) investigate the temporal consistency of these niche estimates over inventories. Additionally, for the five best replicated species, we investigate niche overlaps and shifts in further detail over seven size classes, spanning from juveniles under 10 cm in height to large adult trees. Ontogenetic niche conservatism, that is large niche overlap between size classes, was the prevailing pattern across species. Non‐overlapping fractions of the niche were small and tended to be suitable to juveniles only, suggesting slightly larger juvenile than adult niches. In‐detail analyses of size class transitions also suggested high niche overlap between consecutive sizes classes (>93% in average). Niche estimations were temporally consistent over inventories for both adults and juveniles, though lower for juveniles. Finally, juvenile niche shifts did not align with climate change expectations, being highly variable across species. Consecutive size class transitions similarly indicated niche shifts that were not consistent within‐ nor across species. Synthesis . Our results strongly suggest niche conservatism as the expected patterns across ontogeny over Swiss tree species. This imply that approaches relying exclusively on adult presence are still likely to be representative of all life stages, at least for temperate trees at mesic conditions, which are those best represented across Swiss forests. At the same time, the lack of clear climate change responses in juveniles (or across size classes) for most species emphasizes the importance of species‐specific and non‐climatic factors in predicting climate change range shifts. How these shifts in potential niches translate to in situ responses or tolerance to extremes of seedlings living under the canopy remain to be tested.",
-      "keywords": []
+      "keywords": [
+        "Niche",
+        "Ecological niche",
+        "Juvenile",
+        "Climate change",
+        "Niche segregation",
+        "Niche differentiation"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70344",
@@ -105,7 +202,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70344",
       "abstract": "Abstract Climate change has driven extensive reorganisation of plant communities as species adjust their ranges in response to changing conditions. Existing studies focus on the role of temperature, documenting shifts in range margins, but neglect changes in abundance within the range. This results in unexplained patterns complicated by overlooked, interacting biotic and abiotic drivers, such as soil properties and herbivores, limiting our ability to predict forest response and vulnerability to climate change. Here, we develop the Abundance Trend Indicator (ATI), a machine learning approach that learns the conditions under which changes in species' abundance have occurred and, thus, the extent and location of the mismatch of a species' current range to its total realised habitat. The resulting abundance shift maps identify abundance shift directions, vulnerable species and their drivers. We validate the algorithm on New Zealand's forest inventory data (2821 sites, 77 woody species, collectively accounting for 75% of forest canopy nationally) and 37 predictor variables, which include climatic, topographic, edaphic and biological factors. ATI confirms globally observed trends of upward and poleward abundance shifts, but reveals drivers such as soil pH, grazing and climate stability for species shifting in opposite directions. Moreover, our findings suggest that vulnerability is primarily explained by a plant's ability to tolerate or avoid stress resulting from climatic fluctuations and limited migration capacity. Synthesis . Using existing forest inventory data, ATI models within‐range abundance shifts, rather than changes in range margins, resulting in earlier detection of environmental drivers and geographical directions of plant migration. This enables the early identification of vulnerable species.",
-      "keywords": []
+      "keywords": [
+        "Abundance (ecology)",
+        "Edaphic",
+        "Climate change",
+        "Range (aeronautics)",
+        "Abiotic component",
+        "Biome",
+        "Environmental change",
+        "Relative species abundance"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70407",
@@ -123,7 +229,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70407",
       "abstract": "Abstract Artificial light at night (ALAN) is a global, evolutionarily novel, anthropogenic environmental disturbance that can alter seasonal responses in plants and animals by interfering with their perception of daylength. This has profound implications for organisms that live in cities and experience both high levels of light pollution and higher temperatures from the Urban Heat Island effect. Understanding how these two disturbances interact to impact seasonality is important for predicting temporal population dynamics in cities for insects that transmit disease‐causing pathogens. Adult females of the Northern house mosquito, Culex pipiens f. pipiens , enter a state of developmental arrest, or diapause, primarily in response to short daylengths in autumn. While in diapause, females accumulate nutrient reserves, halt reproductive development, cease blood‐feeding, and therefore cannot transmit pathogens. We examined whether ALAN during autumn interacts with urban warming to inhibit diapause induction. Mosquito larvae were reared within enclosures on a temperature gradient of private properties in Columbus, Ohio, USA, during September and October. Each property hosted two enclosures: one placed in a location exposed to artificial light sources (i.e. porch lights) and the other in a dark location, and daily temperature was recorded within each enclosure. Approximately 1 week after adult emergence, mosquitoes were returned to the laboratory to evaluate their diapause status. We found that ALAN exposure inhibited diapause regardless of month and negated the effects of urban warming during September. Mosquitoes that were exposed to ALAN in both September and October had larger egg follicles, were less likely to be in diapause, were more likely to blood‐feed and produced larvae. Policy implications . Low intensities of warm white ALAN were a stronger inhibitor of diapause initiation than urban warming, indicating that changes in brightness or light colour may not be sufficient to mitigate ecological impacts and ALAN from common sources can extend seasonal mosquito biting activity and reproduction into late autumn. This study reveals a potential explanation for higher mosquito‐borne disease risk in cities. To mitigate this risk, we recommend increased mosquito surveillance and control interventions in areas with significant light pollution, as well as optimized changes to lighting structures.",
-      "keywords": []
+      "keywords": [
+        "Diapause",
+        "Overwintering",
+        "Light pollution",
+        "Dormancy",
+        "Artificial light",
+        "Population",
+        "photoperiodism",
+        "Larva"
+      ]
     },
     {
       "doi": "10.1111/gcb.70922",
@@ -140,8 +255,13 @@
         18
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70922",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The authors declare no conflicts of interest. The authors have nothing to report.",
+      "keywords": [
+        "Resampling",
+        "Nothing",
+        "Climate change",
+        "Calibration"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70384",
@@ -159,7 +279,20 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70384",
       "abstract": "Abstract The densification of urban landscapes reshuffles plant–pollinator interactions and affects the provisioning of pollination services. Improving local‐scale habitat quality, for example, planting more flowers in urban greenspaces such as gardens, has been proposed to compensate, but effective pollination also depends on trait matching between pollinators and flowers. In an experimental study, we used four phytometer species with differing flower‐visitor specificities to assess pollinator visitation, richness and pollination success along independent gradients of landscape‐scale densification and local‐scale floral richness. Pollinator visitation and richness declined both with increased urban density and lower floral richness. Flower‐rich gardens supported more small solitary and large social bees, but not hoverflies, beetles or small social bees. Pollination success declined with densification but was compensated by floral richness only in phytometers with more specialised pollinators. Synthesis and applications. Increasing local floral richness can support pollination success of specialised plants in dense urban landscapes. However, a floral enrichment strategy alone is less effective for generalist plants, which are typically more abundant in plant communities. No single strategy can mitigate the loss of pollinators and pollination services in increasingly urbanising environments. Habitat loss in cities should therefore be addressed not only by selectively increasing the quantity of floral resources for pollinators, but also by additional targeted measures in the surrounding landscape, such as creating and connecting specific habitats for different pollinator groups.",
-      "keywords": []
+      "keywords": [
+        "Pollinator",
+        "Pollination",
+        "Trait",
+        "Diversity (politics)",
+        "Service (business)",
+        "Biology",
+        "Botany",
+        "Business",
+        "Computer science",
+        "Sociology",
+        "Pollen",
+        "Marketing"
+      ]
     },
     {
       "doi": "10.1111/ele.70400",
@@ -16250,32 +16383,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70737",
-      "doi_url": "https://doi.org/10.1111/gcb.70737",
-      "title": "Quantifying the Spatial Footprint of Agriculture‐Driven Edge Effects in a Global Deforestation Hotspot",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-10",
-      "published_date_display": "2026-02-10",
-      "published_parts": [
-        2026,
-        2,
-        10
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70737",
-      "abstract": "ABSTRACT Tropical dry forests are under high and rising pressure from agricultural expansion, resulting in widespread forest conversion and fragmentation. Additionally, remaining forests experience a range of edge effects through agriculture once it has been established, yet such agriculture‐driven edge effects remain weakly understood. Focusing on the Argentine Dry Chaco, a global hotspot for deforestation, we utilized satellite‐based forest structure indicators within a Bayesian Hierarchical Modelling framework to quantify and map agricultural edge effects on fractional tree and shrub cover, and aboveground biomass. Specifically, we assessed how far edges reach into forests away from the forest‐agriculture interface, whether edge effects differ among post‐deforestation land uses (i.e., cropping vs. ranching), and how edge effects evolve over time. We reveal large agriculture‐driven edge effects in the Chaco, penetrating > 700 m into adjacent forests, with reductions of up to 41% in our structural parameters. Cropping was associated with much stronger edge effects than pastures, likely due to the combined effect of environmental (e.g., wind) and management (e.g., pesticide drift) factors, while silvopastures had much lower edge effects. Projecting our models across the region showed that 18% of remaining forests are degraded, with an estimated total loss of 92.3 million tons of aboveground biomass. Lastly, agriculture‐driven edge effects intensified for long periods after initial deforestation (e.g., > 30 years for tree cover), suggesting agricultural expansion creates a degradation debt that unfolds over decades. We conclude that agriculture‐driven edge effects are a major, yet often overlooked, consequence of agricultural expansion, leading to profound degradation far beyond the deforestation footprint. Despite their importance, these effects remain systematically underestimated in sustainability analyses, such as carbon accounting or biodiversity impact assessments. Our work supports views that conservation planning should prioritize large and contiguous forest patches to help maintain ecologically functional forests.",
-      "keywords": [
-        "Hotspot (geology)",
-        "Agriculture",
-        "Deforestation (computer science)",
-        "Cropping",
-        "Tropical and subtropical dry broadleaf forests",
-        "Agricultural land",
-        "Climate change"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70742",
       "doi_url": "https://doi.org/10.1111/gcb.70742",
       "title": "Knowledge‐Guided Machine Learning for Global Change Ecology Research",
@@ -18007,35 +18114,6 @@
         "Evolutionary dynamics",
         "Phylogenetic tree",
         "Biodiversity"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70724",
-      "doi_url": "https://doi.org/10.1111/gcb.70724",
-      "title": "Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-01-30",
-      "published_date_display": "2026-01-30",
-      "published_parts": [
-        2026,
-        1,
-        30
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70724",
-      "abstract": "ABSTRACT Anthropogenic nitrogen (N) deposition alters forest functioning and their capacity to sequester carbon (C), yet its contribution to the forest C sink depends on N retention and allocation between plant biomass and soil pools. Despite high N deposition across China, the magnitude and drivers of N retention and contribution to forest C sequestration remain unclear due to a lack of systematic regional synthesis. Here, we synthesized data from decades of 15 N tracer experiments spanning boreal to tropical regions of China to quantify the retention of deposited N, distribution among plant and soil pools, and contribution to forest C sequestration. On average, Chinese forests retained ~65% of the deposited N, with about two‐thirds stored in the soil. Total retention and partitioning of N varied with climate, successional stage, and N forms. Soil organic layer retention declined, while mineral soil retention increased along a north–south gradient in mean annual temperature. Chronically N‐saturated and disturbed forests exhibited low plant retention, whereas other forests showed substantial uptake across climate zones. Total ecosystem retention efficiency generally declined from boreal to tropical forests. Across successional stages, retention did not differ significantly; however, primary forests retained more deposited N in mineral soils, whereas plantations favored retention in the organic layer. Stoichiometric scaling indicates that CN response (kg C sequestered per kg deposited N) varies among forest types, ranging from ~7 to 40 kg C kg −1 N, with boreal forests and plantations exhibiting the strongest C response due to greater N limitation. This suggests that over the past decade, N deposition enhanced C sequestration by approximately 0.11 Pg C year −1 , accounting for 20%–30% of China's forest C sink. Overall, these findings advance understanding of the drivers of deposited N retention and its contribution to C sequestration, with implications for predicting forest N and C dynamics under global change.",
-      "keywords": [
-        "Taiga",
-        "Carbon sequestration",
-        "Ecosystem",
-        "Boreal",
-        "Soil water",
-        "Primary production",
-        "Biomass (ecology)",
-        "Nitrogen",
-        "Soil carbon",
-        "Soil organic matter"
       ]
     },
     {
