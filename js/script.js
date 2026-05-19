@@ -76,6 +76,146 @@ if (emailLink) {
 }
 
 // ====================
+// Home Page Language Switcher
+// ====================
+
+const homeLanguageButtons = document.querySelectorAll('.language-button[data-language]');
+
+const homeTranslations = {
+    zh: {
+        pageTitle: '刘海洋 - 个人主页',
+        navHome: '首页',
+        navPublications: '学术论文',
+        navOthers: '其它',
+        researchTitle: '研究方向',
+        researchLandscape: '景观生态学',
+        researchEcosystem: '生态系统评估',
+        researchRemote: '遥感',
+        researchSpatial: '空间理论与方法',
+        educationTitle: '教育背景',
+        degreeBs: '<strong>本科</strong>',
+        educationBs: '山西大学，太原 / 环境与资源学院 / 自然地理与资源环境',
+        degreeMs: '<strong>硕士</strong>',
+        educationMs: '中国科学院大学，北京、成都 / 成都生物研究所 / 生物与医药（景观生态学与恢复生态学）',
+        degreeRa: '<strong>科研助理</strong>',
+        educationRa: '香港理工大学深圳研究院科研助理',
+        degreePhd: '<strong>博士</strong>',
+        educationPhd: '北海道大学，札幌、名寄 / 环境科学院 / 森林野外科学',
+        degreeVisiting: '<strong>访学</strong>',
+        educationVisiting: '澳大利亚科廷大学 / 设计与建成环境学院',
+        degreeMembership: '<strong>成员</strong>',
+        educationMembership: '科廷大学地理空间智能实验室成员',
+        conferenceTitle: '学术会议',
+        conferencePoster: '矮竹大规模开花和枯死对森林树木更新的影响：中川实验林幼苗调查（2024-2025）的初步结果。海报发表于 JaLTER Open Science Meeting 2025 (JaLTER-OSM)，日本北海道中川，2025 年 10 月 7-8 日。<a href="file/poster1.pdf" target="_blank" rel="noreferrer">海报</a>',
+        skillsTitle: '专业技能',
+        skillGis: '<strong>GIS：</strong>ENVI / ArcGIS / QGIS / GEE / GeoDa',
+        skillEcology: '<strong>生态学：</strong>Fragstats',
+        skillCode: '<strong>编程：</strong>R',
+        serviceTitle: '学术服务',
+        peerReviewer: '<strong>同行评审：</strong>',
+        reviewIjag: 'International Journal of Applied Earth Observation and Geoinformation（Q1，5 次评审）',
+        reviewAllEarth: 'All Earth（Q2，1 次评审）',
+        reviewGisrs: 'GIScience & Remote Sensing（Q1，1 次评审）',
+        awardsTitle: '荣誉奖励',
+        awardExex: '北海道大学 EXEX 博士奖学金（2025-2028）',
+        awardExexOverseas: '北海道大学 EXEX 博士奖学金海外共同学习项目资助，2026',
+        awardJasso: 'JASSO 私费外国人留学生学习奖励费（2025.5-2026.5）',
+        awardParty: '中国科学院成都生物研究所优秀共产党员（2023）',
+        awardStudent: '中国科学院成都生物研究所优秀学生（2023）',
+        awardSecondYear: '山西大学环境与资源学院二年级奖学金（2017）',
+        languageTitle: '语言能力',
+        languageChinese: '中文（母语）',
+        languageEnglish: '英语（流利）',
+        languageJapanese: '日语（初级）',
+        copyright: 'Copyright © Liu Haiyang. 保留所有权利。'
+    },
+    ja: {
+        pageTitle: '劉 海洋 - 個人サイト',
+        navHome: 'ホーム',
+        navPublications: '研究業績',
+        navOthers: 'その他',
+        researchTitle: '研究関心',
+        researchLandscape: '景観生態学',
+        researchEcosystem: '生態系評価',
+        researchRemote: 'リモートセンシング',
+        researchSpatial: '空間理論と方法',
+        educationTitle: '学歴',
+        degreeBs: '<strong>学士</strong>',
+        educationBs: '山西大学，太原 / 環境資源学院 / 自然地理・資源環境',
+        degreeMs: '<strong>修士</strong>',
+        educationMs: '中国科学院大学，北京・成都 / 成都生物研究所 / 生物・医薬（景観生態学・復元生態学）',
+        degreeRa: '<strong>リサーチアシスタント</strong>',
+        educationRa: '香港理工大学深圳研究院 リサーチアシスタント',
+        degreePhd: '<strong>博士課程</strong>',
+        educationPhd: '北海道大学，札幌・名寄 / 環境科学院 / 森林圏フィールド科学',
+        degreeVisiting: '<strong>訪問研究</strong>',
+        educationVisiting: 'オーストラリア・カーティン大学 / School of Design and the Built Environment',
+        degreeMembership: '<strong>所属</strong>',
+        educationMembership: 'カーティン大学 Geospatial Intelligence Lab メンバー',
+        conferenceTitle: '学会発表',
+        conferencePoster: 'ササの一斉開花と枯死が森林樹木の更新に及ぼす影響：中川研究林における実生調査（2024-2025）の予備結果。JaLTER Open Science Meeting 2025 (JaLTER-OSM) にてポスター発表，日本・北海道中川，2025年10月7-8日。<a href="file/poster1.pdf" target="_blank" rel="noreferrer">ポスター</a>',
+        skillsTitle: '技術スキル',
+        skillGis: '<strong>GIS：</strong>ENVI / ArcGIS / QGIS / GEE / GeoDa',
+        skillEcology: '<strong>生態学：</strong>Fragstats',
+        skillCode: '<strong>コード：</strong>R',
+        serviceTitle: '学術サービス',
+        peerReviewer: '<strong>査読者：</strong>',
+        reviewIjag: 'International Journal of Applied Earth Observation and Geoinformation（Q1，5件）',
+        reviewAllEarth: 'All Earth（Q2，1件）',
+        reviewGisrs: 'GIScience & Remote Sensing（Q1，1件）',
+        awardsTitle: '受賞・奨学金',
+        awardExex: '北海道大学 EXEX 博士フェローシップ（2025-2028）',
+        awardExexOverseas: '北海道大学 EXEX 博士フェローシップ海外共修プログラム助成，2026',
+        awardJasso: 'JASSO 私費外国人留学生学習奨励費（2025.5-2026.5）',
+        awardParty: '中国科学院成都生物研究所 優秀共産党員（2023）',
+        awardStudent: '中国科学院成都生物研究所 優秀学生賞（2023）',
+        awardSecondYear: '山西大学 環境資源学院 2年次奨学金（2017）',
+        languageTitle: '言語',
+        languageChinese: '中国語（母語）',
+        languageEnglish: '英語（流暢）',
+        languageJapanese: '日本語（初級）',
+        copyright: 'Copyright © Liu Haiyang. All rights reserved.'
+    }
+};
+
+function applyHomeLanguage(language) {
+    const translations = homeTranslations[language];
+
+    if (!translations) {
+        return;
+    }
+
+    document.title = translations.pageTitle;
+    document.querySelector('.home-page')?.classList.add('is-translated');
+
+    document.querySelectorAll('[data-i18n]').forEach((element) => {
+        const key = element.getAttribute('data-i18n');
+        if (translations[key]) {
+            element.textContent = translations[key];
+        }
+    });
+
+    document.querySelectorAll('[data-i18n-html]').forEach((element) => {
+        const key = element.getAttribute('data-i18n-html');
+        if (translations[key]) {
+            element.innerHTML = translations[key];
+        }
+    });
+
+    homeLanguageButtons.forEach((button) => {
+        button.classList.toggle('is-active', button.dataset.language === language);
+    });
+}
+
+if (homeLanguageButtons.length) {
+    homeLanguageButtons.forEach((button) => {
+        button.addEventListener('click', () => {
+            applyHomeLanguage(button.dataset.language);
+        });
+    });
+}
+
+// ====================
 // Citation Count
 // ====================
 

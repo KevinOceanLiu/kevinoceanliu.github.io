@@ -166,6 +166,7 @@ body {
 .hero-name-line,
 .hero-subtitle-cjk {
     display: block;
+    font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0;
@@ -173,10 +174,16 @@ body {
 
 .hero-subtitle-katakana {
     display: block;
+    font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0;
     opacity: 1;
+}
+
+.hero-name-cjk {
+    font-family: 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', 'Noto Sans CJK SC', sans-serif;
+    font-weight: 700;
 }
 
 .home-minimal {
@@ -200,6 +207,14 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 20px;
+}
+
+.home-sidebar-shell {
+    width: 156px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
 }
 
 .home-main {
@@ -308,6 +323,46 @@ body {
 
 .hero-link-x {
     grid-area: x;
+}
+
+.language-switcher {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.language-button {
+    min-width: 38px;
+    height: 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    background: #fff;
+    color: var(--text-muted);
+    font-family: SimSun, STSong, 'Songti SC', serif;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.language-button:hover,
+.language-button:focus-visible,
+.language-button.is-active {
+    border-color: var(--border-color);
+    color: var(--text-muted);
+    background: #fff;
+}
+
+.home-page.is-translated {
+    font-family: 'Times New Roman', SimSun, STSong, 'Songti SC', serif;
+}
+
+.home-page.is-translated .home-sidebar {
+    font-family: var(--font-family);
 }
 
 .others-empty {
@@ -2318,9 +2373,14 @@ a.link-arrow:hover {
     padding: 34px 20px 80px;
 }
 
-.home-sidebar {
+.home-sidebar-shell {
     position: sticky;
     top: 88px;
+    width: 190px;
+    gap: 12px;
+}
+
+.home-sidebar {
     width: 190px;
     padding: 18px 16px;
     gap: 18px;
@@ -3252,9 +3312,12 @@ a.link-arrow:hover,
     grid-template-columns: 190px minmax(0, 1fr);
 }
 
-.home-sidebar {
+.home-sidebar-shell {
     align-items: center;
     gap: 18px;
+}
+
+.home-sidebar {
     padding: 22px 16px;
 }
 
@@ -3334,6 +3397,7 @@ a.link-arrow:hover,
 }
 
 @media (max-width: 768px) {
+    .home-sidebar-shell,
     .home-sidebar {
         display: flex;
         flex-direction: column;

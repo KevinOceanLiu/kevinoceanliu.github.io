@@ -13,9 +13,9 @@
         <div class="nav-container">
             <div class="logo">Liu Haiyang</div>
             <ul class="nav-menu">
-                <li><a href="index.html" class="active">Home</a></li>
-                <li><a href="pages/publications.html">Publications</a></li>
-                <li><a href="pages/about.html">Others</a></li>
+                <li><a href="index.html" class="active" data-i18n="navHome">Home</a></li>
+                <li><a href="pages/publications.html" data-i18n="navPublications">Publications</a></li>
+                <li><a href="pages/about.html" data-i18n="navOthers">Others</a></li>
             </ul>
             <div class="hamburger">
                 <span></span>
@@ -27,56 +27,62 @@
 
     <main class="home-page">
         <div class="home-layout">
-            <aside class="home-sidebar">
-                <div class="profile-avatar-frame">
-                    <img src="images/profile.png" alt="Portrait of Liu Haiyang" class="profile-avatar">
-                </div>
-                <header class="home-intro">
-                    <h1 class="hero-title">
-                        <span class="hero-name-line">Liu Haiyang</span>
-                        <span class="hero-name-line">刘 海洋</span>
-                        <span class="hero-name-line">ﾘﾕｳ ｶｲﾖｳ</span>
-                    </h1>
-                    <div class="hero-links" aria-label="External links">
-                        <a href="mailto:haiyang.liu.q6@elms.hokudai.ac.jp" class="hero-link hero-link-email" aria-label="Email haiyang.liu.q6@elms.hokudai.ac.jp" title="haiyang.liu.q6@elms.hokudai.ac.jp">
-                            <span class="hero-link-icon" aria-hidden="true">
-                                <img src="images/gmail.png" alt="" class="hero-link-image">
-                            </span>
-                        </a>
-                        <a href="https://scholar.google.com/citations?user=Pup0q0gAAAAJ&hl=en" target="_blank" rel="noreferrer" class="hero-link hero-link-scholar">
-                            <span class="hero-link-icon" aria-hidden="true">
-                                <img src="images/Google Scholar.png" alt="" class="hero-link-image">
-                            </span>
-                        </a>
-                        <a href="https://github.com/KevinOceanLiu" target="_blank" rel="noreferrer" class="hero-link hero-link-github">
-                            <span class="hero-link-icon" aria-hidden="true">
-                                <img src="images/GitHub.png" alt="" class="hero-link-image">
-                            </span>
-                        </a>
-                        <a href="https://orcid.org/0009-0009-8701-0538" target="_blank" rel="noreferrer" class="hero-link hero-link-orcid">
-                            <span class="hero-link-icon" aria-hidden="true">
-                                <img src="images/ORCiD.png" alt="" class="hero-link-image">
-                            </span>
-                        </a>
-                        <a href="https://x.com/liuhaiyangl" target="_blank" rel="noreferrer" class="hero-link hero-link-x" aria-label="X profile">
-                            <span class="hero-link-icon" aria-hidden="true">
-                                <img src="images/x.png" alt="" class="hero-link-image">
-                            </span>
-                        </a>
+            <div class="home-sidebar-shell">
+                <aside class="home-sidebar">
+                    <div class="profile-avatar-frame">
+                        <img src="images/profile.png" alt="Portrait of Liu Haiyang" class="profile-avatar">
                     </div>
-                </header>
-            </aside>
+                    <header class="home-intro">
+                        <h1 class="hero-title">
+                            <span class="hero-name-line">Liu Haiyang</span>
+                            <span class="hero-name-line hero-name-cjk">刘 海洋</span>
+                            <span class="hero-name-line">ﾘﾕｳ ｶｲﾖｳ</span>
+                        </h1>
+                        <div class="hero-links" aria-label="External links">
+                            <a href="mailto:haiyang.liu.q6@elms.hokudai.ac.jp" class="hero-link hero-link-email" aria-label="Email haiyang.liu.q6@elms.hokudai.ac.jp" title="haiyang.liu.q6@elms.hokudai.ac.jp">
+                                <span class="hero-link-icon" aria-hidden="true">
+                                    <img src="images/gmail.png" alt="" class="hero-link-image">
+                                </span>
+                            </a>
+                            <a href="https://scholar.google.com/citations?user=Pup0q0gAAAAJ&hl=en" target="_blank" rel="noreferrer" class="hero-link hero-link-scholar">
+                                <span class="hero-link-icon" aria-hidden="true">
+                                    <img src="images/Google Scholar.png" alt="" class="hero-link-image">
+                                </span>
+                            </a>
+                            <a href="https://github.com/KevinOceanLiu" target="_blank" rel="noreferrer" class="hero-link hero-link-github">
+                                <span class="hero-link-icon" aria-hidden="true">
+                                    <img src="images/GitHub.png" alt="" class="hero-link-image">
+                                </span>
+                            </a>
+                            <a href="https://orcid.org/0009-0009-8701-0538" target="_blank" rel="noreferrer" class="hero-link hero-link-orcid">
+                                <span class="hero-link-icon" aria-hidden="true">
+                                    <img src="images/ORCiD.png" alt="" class="hero-link-image">
+                                </span>
+                            </a>
+                            <a href="https://x.com/liuhaiyangl" target="_blank" rel="noreferrer" class="hero-link hero-link-x" aria-label="X profile">
+                                <span class="hero-link-icon" aria-hidden="true">
+                                    <img src="images/x.png" alt="" class="hero-link-image">
+                                </span>
+                            </a>
+                        </div>
+                    </header>
+                </aside>
+                <div class="language-switcher" aria-label="Home page language">
+                    <button type="button" class="language-button" data-language="zh" aria-label="Translate home page to Chinese">中</button>
+                    <button type="button" class="language-button" data-language="ja" aria-label="Translate home page to Japanese">日</button>
+                </div>
+            </div>
 
             <section class="home-main">
                 <div class="cv-container cv-container-lines">
                     <section class="cv-line-section">
-                        <h2>Research interests</h2>
+                        <h2 data-i18n="researchTitle">Research interests</h2>
                         <div class="research-interest-layout">
                             <ul class="cv-list">
-                                <li>Landscape Ecology</li>
-                                <li>Ecosystem Assessment</li>
-                                <li>Remote sensing</li>
-                                <li>Spatial Theory and Methods</li>
+                                <li data-i18n="researchLandscape">Landscape Ecology</li>
+                                <li data-i18n="researchEcosystem">Ecosystem Assessment</li>
+                                <li data-i18n="researchRemote">Remote sensing</li>
+                                <li data-i18n="researchSpatial">Spatial Theory and Methods</li>
                             </ul>
                             <div class="research-interest-figure">
                                 <img src="images/ecogeo.png" alt="Research interests illustration" class="research-interest-image">
@@ -85,33 +91,38 @@
                     </section>
 
                     <section class="cv-line-section">
-                        <h2>Education background</h2>
+                        <h2 data-i18n="educationTitle">Education background</h2>
                         <div class="research-interest-layout education-layout">
                             <div class="cv-stack">
                                 <article class="cv-entry-line">
-                                    <p><strong>B.S.</strong></p>
+                                    <p data-i18n-html="degreeBs"><strong>B.S.</strong></p>
                                     <p>2015/09-2019/06</p>
-                                    <p>Shanxi University, Taiyuan / School of Environment and Resources / Physical Geography and Resource Environment</p>
+                                    <p data-i18n="educationBs">Shanxi University, Taiyuan / School of Environment and Resources / Physical Geography and Resource Environment</p>
                                 </article>
                                 <article class="cv-entry-line">
-                                    <p><strong>M.S.</strong></p>
+                                    <p data-i18n-html="degreeMs"><strong>M.S.</strong></p>
                                     <p>2020/09-2023/06</p>
-                                    <p>University of Chinese Academy of Sciences, Beijing, Chengdu / Chengdu Institute of Biology / Biology and Medicine (Landscape Ecology and Restoration Ecology)</p>
+                                    <p data-i18n="educationMs">University of Chinese Academy of Sciences, Beijing, Chengdu / Chengdu Institute of Biology / Biology and Medicine (Landscape Ecology and Restoration Ecology)</p>
                                 </article>
                                 <article class="cv-entry-line">
-                                    <p><strong>RA</strong></p>
+                                    <p data-i18n-html="degreeRa"><strong>RA</strong></p>
                                     <p>2024/07-2025/03</p>
-                                    <p>Research Assistant of The Hong Kong Polytechnic University, Shenzhen / Shenzhen Research Institute.</p>
+                                    <p data-i18n="educationRa">Research Assistant of The Hong Kong Polytechnic University, Shenzhen / Shenzhen Research Institute</p>
                                 </article>
                                 <article class="cv-entry-line">
-                                    <p><strong>Ph.D.</strong></p>
+                                    <p data-i18n-html="degreePhd"><strong>Ph.D.</strong></p>
                                     <p>2025/04-2028/04</p>
-                                    <p>Hokkaido University, Sapporo, Nayoro / Graduate School of Environmental Science / Forest Field Science.</p>
+                                    <p data-i18n="educationPhd">Hokkaido University, Sapporo, Nayoro / Graduate School of Environmental Science / Forest Field Science</p>
                                 </article>
                                 <article class="cv-entry-line">
-                                    <p><strong>Membership</strong></p>
+                                    <p data-i18n-html="degreeVisiting"><strong>Visiting Scholar</strong></p>
+                                    <p>2026/10-2026/12</p>
+                                    <p data-i18n="educationVisiting">Curtin University, Australia / School of Design and the Built Environment</p>
+                                </article>
+                                <article class="cv-entry-line">
+                                    <p data-i18n-html="degreeMembership"><strong>Membership</strong></p>
                                     <p>2025/07- present</p>
-                                    <p><a href="https://yongzesong.com/lab.html" target="_blank" rel="noreferrer">Curtin University Geospatial Intelligence Lab member.</a></p>
+                                    <p><a href="https://yongzesong.com/lab.html" target="_blank" rel="noreferrer" data-i18n="educationMembership">Curtin University Geospatial Intelligence Lab member</a></p>
                                 </article>
                             </div>
                             <div class="research-interest-figure">
@@ -121,10 +132,10 @@
                     </section>
 
                     <section class="cv-line-section">
-                        <h2>Academic conference</h2>
+                        <h2 data-i18n="conferenceTitle">Academic conference</h2>
                         <div class="research-interest-layout">
                             <div class="cv-entry-line">
-                                <p>Effects of Sasa mass-flowering and dieback on forest tree regeneration: Preliminary results from a seedling survey (2024-2025) in the Nakagawa Experimental Forest. Poster presented at the JaLTER Open Science Meeting 2025 (JaLTER-OSM), Nakagawa, Hokkaido, Japan, October 7-8, 2025. <a href="file/poster1.pdf" target="_blank" rel="noreferrer">poster.</a></p>
+                                <p data-i18n-html="conferencePoster">Effects of Sasa mass-flowering and dieback on forest tree regeneration: Preliminary results from a seedling survey (2024-2025) in the Nakagawa Experimental Forest. Poster presented at the JaLTER Open Science Meeting 2025 (JaLTER-OSM), Nakagawa, Hokkaido, Japan, October 7-8, 2025. <a href="file/poster1.pdf" target="_blank" rel="noreferrer">poster</a></p>
                             </div>
                             <div class="research-interest-figure">
                                 <img src="images/poster1.png" alt="Poster preview" class="research-interest-image poster-preview-image">
@@ -133,41 +144,42 @@
                     </section>
 
                     <section class="cv-line-section">
-                        <h2>Technical Skills</h2>
+                        <h2 data-i18n="skillsTitle">Technical Skills</h2>
                         <ul class="cv-list">
-                            <li><strong>GIS:</strong> ENVI / ArcGIS / QGIS / GEE / GeoDa</li>
-                            <li><strong>Ecology:</strong> Fragstats</li>
-                            <li><strong>Code:</strong> R</li>
+                            <li data-i18n-html="skillGis"><strong>GIS:</strong> ENVI / ArcGIS / QGIS / GEE / GeoDa</li>
+                            <li data-i18n-html="skillEcology"><strong>Ecology:</strong> Fragstats</li>
+                            <li data-i18n-html="skillCode"><strong>Code:</strong> R</li>
                         </ul>
                     </section>
 
                     <section class="cv-line-section">
-                        <h2>Professional Service</h2>
-                        <p><strong>Peer Reviewer:</strong></p>
+                        <h2 data-i18n="serviceTitle">Professional Service</h2>
+                        <p data-i18n-html="peerReviewer"><strong>Peer Reviewer:</strong></p>
                         <ul class="cv-list">
-                            <li>International Journal of Applied Earth Observation and Geoinformation (Q1, 5 reviews)</li>
-                            <li>All Earth (Q2, 1 review)</li>
-                            <li>GIScience &amp; Remote Sensing (Q1, 1 review)</li>
+                            <li data-i18n="reviewIjag">International Journal of Applied Earth Observation and Geoinformation (Q1, 5 reviews)</li>
+                            <li data-i18n="reviewAllEarth">All Earth (Q2, 1 review)</li>
+                            <li data-i18n="reviewGisrs">GIScience &amp; Remote Sensing (Q1, 1 review)</li>
                         </ul>
                     </section>
 
                     <section class="cv-line-section">
-                        <h2>Awards</h2>
+                        <h2 data-i18n="awardsTitle">Awards</h2>
                         <ul class="cv-list">
-                            <li>Hokkaido University EXEX Doctoral Fellowship (2025-2028)</li>
-                            <li>JASSO Scholarship for Privately-Financed International Students (2025.5-2026.5)</li>
-                            <li>Outstanding Communist Party Member, Chengdu Institute of Biology, Chinese Academy of Sciences (2023)</li>
-                            <li>Outstanding Student Award, Chengdu Institute of Biology, Chinese Academy of Sciences (2023)</li>
-                            <li>Scholarship for the Second Year of Studies, School of Environment and Resources, Shanxi University (2017)</li>
+                            <li data-i18n="awardExex">Hokkaido University EXEX Doctoral Fellowship (2025-2028)</li>
+                            <li data-i18n="awardExexOverseas">EXEX Doctoral Fellowship Overseas Co-Learning Program Grant, Hokkaido University, 2026</li>
+                            <li data-i18n="awardJasso">JASSO Scholarship for Privately-Financed International Students (2025.5-2026.5)</li>
+                            <li data-i18n="awardParty">Outstanding Communist Party Member, Chengdu Institute of Biology, Chinese Academy of Sciences (2023)</li>
+                            <li data-i18n="awardStudent">Outstanding Student Award, Chengdu Institute of Biology, Chinese Academy of Sciences (2023)</li>
+                            <li data-i18n="awardSecondYear">Scholarship for the Second Year of Studies, School of Environment and Resources, Shanxi University (2017)</li>
                         </ul>
                     </section>
 
                     <section class="cv-line-section">
-                        <h2>Language</h2>
+                        <h2 data-i18n="languageTitle">Language</h2>
                         <ul class="cv-list">
-                            <li>Chinese (Native language)</li>
-                            <li>English (Fluent)</li>
-                            <li>Japanese (Beginner)</li>
+                            <li data-i18n="languageChinese">Chinese (Native language)</li>
+                            <li data-i18n="languageEnglish">English (Fluent)</li>
+                            <li data-i18n="languageJapanese">Japanese (Beginner)</li>
                         </ul>
                     </section>
                 </div>
@@ -179,7 +191,7 @@
             <div class="clustrmaps-widget" aria-hidden="true">
                 <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=K8yvAL0iO4B9-8K0fJ_dXvnVEfi1x_5ub9i63f4imzs"></script>
             </div>
-            <p class="page-closing-copyright">Copyright © Liu Haiyang. All rights reserved.</p>
+            <p class="page-closing-copyright" data-i18n="copyright">Copyright © Liu Haiyang. All rights reserved.</p>
         </section>
     </main>
 
