@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T22:13:29.518382+00:00",
+  "generated_at": "2026-05-19T22:37:53.898139+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,26 +26,77 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.014",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.014",
-      "title": "On-orbit relative radiometric calibration of remote sensing satellite planar array sensors with geometric constraints and multi-scale radiometric cascades",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "doi": "10.1016/j.rse.2026.115489",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115489",
+      "title": "Retrieval of ocean particle backscatter coefficient profile based on Spaceborne Active-Passive Fusion Fernald Algorithm",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
       "published_parts": [
         2026,
-        8
+        9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002546",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002592",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.019",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.019",
-      "title": "Geometric positioning and correction for the FY-3F HIRAS",
+      "doi": "10.1016/j.rse.2026.115482",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115482",
+      "title": "WHALES: An enhanced retracker for satellite radar altimeter delay-only waveforms in sea state applications",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600252X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115477",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115477",
+      "title": "Retrieval of the base heights and geometric thicknesses of clouds based on the PARASOL measurement",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002476",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115485",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115485",
+      "title": "Linking solar-induced chlorophyll fluorescence to biogenic volatile organic compound emissions in low Arctic tundra: A field spectroscopy approach",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002555",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.04.056",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.056",
+      "title": "LandSegmenter: Towards a flexible foundation model for Land Use and Land Cover mapping",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,7 +106,7 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002601",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002406",
       "abstract": "",
       "keywords": []
     },
@@ -75,7 +126,67 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2668678",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Graph",
+        "Context (archaeology)",
+        "Knowledge representation and reasoning",
+        "Key (lock)",
+        "Knowledge graph"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.014",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.014",
+      "title": "On-orbit relative radiometric calibration of remote sensing satellite planar array sensors with geometric constraints and multi-scale radiometric cascades",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-18",
+      "published_date_display": "2026-05-18",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002546",
+      "abstract": "",
+      "keywords": [
+        "Radiometric calibration",
+        "Calibration",
+        "Satellite",
+        "Detector",
+        "Radiometry",
+        "Planar",
+        "Spectral bands",
+        "Multispectral image",
+        "Spectroradiometer"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.019",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.019",
+      "title": "Geometric positioning and correction for the FY-3F HIRAS",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-18",
+      "published_date_display": "2026-05-18",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002601",
+      "abstract": "",
+      "keywords": [
+        "Standard deviation",
+        "Payload (computing)",
+        "Brightness",
+        "Pixel",
+        "Satellite",
+        "Global Positioning System",
+        "Geometric modeling",
+        "Field of view",
+        "Software"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.015",
@@ -10191,31 +10302,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115266",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115266",
-      "title": "Validation of high-resolution surface soil moisture time series retrieved by means of SAR interferometry",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-29",
-      "published_date_display": "2026-01-29",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000362",
-      "abstract": "",
-      "keywords": [
-        "Interferometry",
-        "Synthetic aperture radar",
-        "Series (stratigraphy)",
-        "Interferometric synthetic aperture radar",
-        "Water content",
-        "Surface (topology)",
-        "Moisture"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2617932",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2617932",
       "title": "MAPLID: a new multi-label approach for place identification using data supplied by mobile network operators",
@@ -11348,32 +11434,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115239",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115239",
-      "title": "AnyTime-CD: Self-supervised change detection in arbitrary-length dense time series of high-resolution remote sensing images",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-14",
-      "published_date_display": "2026-01-14",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600009X",
-      "abstract": "",
-      "keywords": [
-        "Robustness (evolution)",
-        "Change detection",
-        "Adaptability",
-        "Cloud computing",
-        "Remote sensing application",
-        "Generalization",
-        "Time series",
-        "Feature (linguistics)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2604843",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2604843",
       "title": "A New Inventory and Conservation Assessment of United States Islands",
@@ -11521,60 +11581,6 @@
         "Government (linguistics)",
         "Field (mathematics)",
         "Capitalism"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115231",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115231",
-      "title": "Unveiling the long-term cascading effects of the 2018 Baige landslide and subsequent outburst flood with satellite radar observations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-10",
-      "published_date_display": "2026-01-10",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000015",
-      "abstract": "",
-      "keywords": [
-        "Landslide",
-        "Landslide classification",
-        "Flood myth",
-        "Vegetation (pathology)",
-        "Satellite",
-        "Interferometric synthetic aperture radar",
-        "Radar",
-        "Synthetic aperture radar"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115215",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115215",
-      "title": "Mapping the structural diversity of Central African and Western US forests using GEDI",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-10",
-      "published_date_display": "2026-01-10",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006194",
-      "abstract": "This study maps forest structural diversity, a key component of ecosystem diversity, using NASA's GEDI spaceborne lidar, providing new opportunities to support conservation and restoration efforts. Focusing on biodiversity hotspots in Central Africa and the Western US, we evaluated GEDI's ability to capture spatial variation in forest canopy structure by comparing GEDI-derived metrics with 391 km 2 of airborne laser scanning (ALS) data. Forest structural traits were assessed at 1 km 2 resolution, with GEDI showing robust correlations with ALS, particularly in dense and flat Central African forests (r 2 up to 0.85), and moderate agreement in more heterogeneous terrain in the California Sierra Nevada (r 2 up to 0.55). We quantified structural diversity as horizontal variation in canopy structure using a probability density-based multivariate diversity framework. GEDI canopy height (rh98), canopy cover, and foliage height diversity jointly captured independent axes of canopy variation and explained structural diversity derived from wall-to-wall ALS (r 2 = 0.37 at 1 km 2 ). Resulting maps reveal high structural diversity in mid-elevation and coastal forests of the Western US and in forest-savanna transitions and volcanic ranges of Central Africa, consistent with gradients in disturbance, topography and aridity. Despite limitations related to sampling density, waveform noise and terrain complexity, this study demonstrates that GEDI's footprint-level metrics can be used directly to quantify forest structural diversity. These findings highlight the potential of spaceborne lidar to provide scalable, trait-based structural diversity indicators, while emphasizing that interpretation remains context dependent and benefits from integration with ecological data, environmental drivers and disturbance regimes. • GEDI lidar reveals structural diversity of Western US and Central African forests. • Landscape-scale validation with airborne lidar across 391 plots of 1 km 2 extent. • Diversity best captured using 3D index with GEDI RH98, Cover and FHD (r 2 = 0.37). • Diversity patterns follow floristic turnover, topography, aridity and disturbance. • Challenges arise from low canopy cover, complex terrain and low sampling density.",
-      "keywords": [
-        "Canopy",
-        "Lidar",
-        "Terrain",
-        "Context (archaeology)",
-        "Biodiversity",
-        "Forest structure",
-        "Spatial variability",
-        "Vegetation (pathology)",
-        "Species diversity",
-        "Structural complexity"
       ]
     },
     {
@@ -12229,33 +12235,6 @@
         "Satellite",
         "Canopy",
         "Precipitation"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.012",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.012",
-      "title": "Synthetic learning for primitive-based building model reconstruction from point clouds",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-27",
-      "published_date_display": "2025-12-27",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004976",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Synthetic data",
-        "Roof",
-        "Parametric statistics",
-        "Robustness (evolution)",
-        "Building model",
-        "Point (geometry)",
-        "Model building",
-        "Rendering (computer graphics)"
       ]
     },
     {
