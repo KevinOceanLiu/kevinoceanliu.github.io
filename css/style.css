@@ -358,11 +358,11 @@ body {
 }
 
 .home-page.is-translated {
-    font-family: 'Times New Roman', SimSun, STSong, 'Songti SC', serif;
+    font-family: var(--font-family);
 }
 
-.home-page.is-translated .home-sidebar {
-    font-family: var(--font-family);
+.home-page.is-translated .home-layout {
+    font-family: 'Times New Roman', SimSun, STSong, 'Songti SC', serif;
 }
 
 .others-empty {
@@ -2421,7 +2421,7 @@ a.link-arrow:hover {
 .hero-subtitle-katakana {
     font-size: 15px;
     line-height: 1.45;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .hero-links {
@@ -3345,12 +3345,16 @@ a.link-arrow:hover,
 .hero-subtitle-katakana {
     font-size: 16px;
     line-height: 1.4;
-    font-weight: 650;
+    font-weight: 700;
 }
 
 .hero-title .hero-name-line:not(:first-child) {
     color: var(--text-color);
-    font-weight: 650;
+    font-weight: 700;
+}
+
+.hero-name-katakana {
+    font-size: 14px;
 }
 
 .hero-links {
@@ -3425,6 +3429,7 @@ a.link-arrow:hover,
     max-width: var(--content-width);
     margin: 0 auto;
     padding: 18px 20px 26px;
+    position: relative;
     display: grid;
     grid-template-columns: minmax(0, 1fr) auto;
     align-items: center;
@@ -3432,6 +3437,7 @@ a.link-arrow:hover,
     row-gap: 8px;
     border-top: 1px solid var(--border-color);
     background: transparent;
+    font-family: var(--font-family);
 }
 
 .page-closing p {
@@ -3453,7 +3459,17 @@ a.link-arrow:hover,
 .page-closing-copyright {
     grid-column: 1;
     margin-top: 0;
+    padding-right: 96px;
     font-style: normal;
+}
+
+.page-closing-logo {
+    position: absolute;
+    right: 20px;
+    bottom: 26px;
+    display: block;
+    width: 72px;
+    height: auto;
 }
 
 .clustrmaps-widget {
@@ -3484,12 +3500,45 @@ a.link-arrow:hover,
         padding: 16px 14px 24px;
     }
 
+    .page-closing-logo {
+        right: 14px;
+        bottom: 24px;
+        width: 56px;
+    }
+
+    .page-closing-copyright {
+        padding-right: 72px;
+    }
+
     .clustrmaps-widget {
         grid-column: 1;
         grid-row: auto;
         width: 48px;
         height: 48px;
     }
+}
+
+.page-with-closing {
+    min-height: calc(100vh - 65px);
+    display: flex;
+    flex-direction: column;
+}
+
+.page-with-closing .page-closing {
+    width: 100%;
+    margin-top: auto;
+    flex: 0 0 auto;
+}
+
+.page-with-closing > .standalone-page-layout,
+.page-with-closing > .others-page {
+    width: 100%;
+}
+
+.page-with-closing > .standalone-page-layout,
+.page-with-closing > .others-page,
+.page-with-closing > .others-section {
+    margin-bottom: 72px;
 }
 
 /* ====================
@@ -3561,6 +3610,10 @@ select {
 .footer-bottom,
 .btn {
     font-size: var(--type-body);
+}
+
+.hero-name-katakana {
+    font-size: 13px;
 }
 
 .others-card-action,
