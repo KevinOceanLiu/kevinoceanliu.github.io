@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T22:48:30.491690+00:00",
+  "generated_at": "2026-05-20T23:00:20.834550+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-01994-3",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01994-3",
+      "title": "Widespread peat carbon losses driven by the 2025 Scottish megafire",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-20",
+      "published_date_display": "2026-05-20",
+      "published_parts": [
+        2026,
+        5,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01994-3",
+      "abstract": "Abstract Drier and warmer climates have allowed fires to increasingly burn carbon-dense peatland ecosystems. Here we document a 2025 Scottish megafire in the UK, which spread rapidly and burned severely across peatlands in Scotland with anomalously low soil moisture, emitting 38,600 MgC (25,200–119,000 MgC). Peat combustion contributed nearly 85% of total emissions, suggesting drier climates increase fire emissions from peat, which can require decades to centuries to recover.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01839-2",
       "doi_url": "https://doi.org/10.1038/s41893-026-01839-2",
       "title": "Towards sustainable metal–organic frameworks from lab to practice",
@@ -41,7 +59,12 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01839-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Work (physics)",
+        "Sustainability",
+        "Government (linguistics)",
+        "Context (archaeology)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01981-8",
@@ -58,8 +81,19 @@
         19
       ],
       "link": "https://www.nature.com/articles/s41561-026-01981-8",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Evapotranspiration strongly couples land and atmosphere to regulate water, carbon and energy fluxes across tropical South America. Ongoing deforestation and fires reduce the capacity of deep-rooted trees to recycle moisture, while intensifying droughts further alter the timing and magnitude of evapotranspiration. Here we present a high-resolution, data-constrained hydrological modelling analysis to isolate the effects of anthropogenic disturbances and droughts on evapotranspiration and vegetation function across the Amazon and adjacent biomes from 2003 to 2020. We find that evapotranspiration declines from deforestation persist 21–22% longer than those caused by fire or drought alone. When these stresses co-occur, evapotranspiration losses intensify by 36% and persist 66% longer than the average impact of individual stressors. Across neighbouring biomes, we find that grasslands and savannas in the Cerrado are most vulnerable to droughts, with evapotranspiration recovery often exceeding seven years, while Pantanal wetlands recover rapidly due to sustained moisture availability. Furthermore, vegetation productivity declines under compounding stresses despite concurrent greening trends. Our findings reveal that recurrent human disturbances erode ecosystem resilience, threatening long-term ecological stability. Isolating the human footprint on evapotranspiration is pivotal to guide sustainable land-use transitions that preserve land–atmosphere coupling in South America’s tropical ecosystems. Human-driven disturbances intensify and prolong evapotranspiration declines across South American ecosystems, disrupting the water balance and threatening ecological resilience, according to hydrological modelling and remote sensing data.",
+      "keywords": [
+        "Evapotranspiration",
+        "Biome",
+        "Deforestation (computer science)",
+        "Vegetation (pathology)",
+        "Ecosystem",
+        "Wetland",
+        "Water cycle",
+        "Amazon rainforest",
+        "Land use",
+        "land-use change and forestry"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01987-2",
@@ -76,8 +110,17 @@
         19
       ],
       "link": "https://www.nature.com/articles/s41561-026-01987-2",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Future methane (CH4) emissions from natural wetlands are predicted to increase due to global warming, leading to positive feedback on climate change. However, the magnitude of this increase remains highly uncertain. Here we present novel ensemble simulations of seven state-of-the-art terrestrial biosphere models to estimate wetland CH4 emissions (eCH4) during the twenty-first century. Our estimates suggest that for every 1 °C increase in global land surface temperature, there is a 24 ± 10 Tg CH4 yr−1 increase in eCH4. We also identify an emergent relationship between contemporary temperature dependence and projected eCH4. When constrained by 163 site-year eddy-covariance measurements of eCH4, we show that wetland emissions can increase by 50–60% by the 2090s relative to the 2010s under a high-warming scenario. The projected decadal increase in eCH4 from the 2010–2019 baseline to the 2030s would very likely (90% probability) offset an amount equivalent in scale to 8–10% of anthropogenic eCH4 at the 2020 level, comparable to the reductions committed under the Global Methane Pledge. However, the constraint is dominated by mid- and high-latitude observations, with limited tropical coverage, and uncertainties in projected wetland inundation contribute substantially to uncertainty in eCH4. Our findings reduce the uncertainty in projected wetland methane–climate feedback and highlight its potential impacts on methane mitigation efforts to slow global warming. Enhanced future methane emissions from global wetlands under warming could substantially offset the emissions reduction goals of the Global Methane Pledge, according to ensemble simulations from terrestrial biosphere models.",
+      "keywords": [
+        "Wetland",
+        "Biosphere",
+        "Methane",
+        "Methane emissions",
+        "Global warming",
+        "Climate change",
+        "Greenhouse gas",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02655-4",
@@ -95,7 +138,21 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02655-4",
       "abstract": "Abstract Many marine ectotherms have responded to local warming through body-size reductions and dispersal to optimal environments. However, whether endothermic marine species, such as seabirds, exhibit similar responses remains unclear owing to gaps in literature that hinder comprehensive global assessments. Here we show that globally distributed seabirds (albatrosses, petrels, shearwaters and storm petrels) facing rapid historical climate change responded with changes in geographic range size rather than body mass. In addition, under higher rates of climate change, species’ ranges contracted most, forcing these species to disperse longer distances. These historical inferences align with expected responses to modern climate change, as over 70% of extant species contract their ranges and disperse farther under a climate scenario leading to severe warming by 2100. These results underscore the urgent need to integrate range dynamics into conservation strategies and reveal that the rate of climate change poses the greatest threat to seabird diversity.",
-      "keywords": []
+      "keywords": [
+        "Seabird",
+        "Biological dispersal",
+        "Climate change",
+        "Contraction (grammar)",
+        "Range (aeronautics)",
+        "Geography",
+        "Ecology",
+        "Environmental science",
+        "Fishery",
+        "Biology",
+        "Engineering",
+        "Demography",
+        "Sociology"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02640-x",
@@ -113,7 +170,13 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02640-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Action (physics)",
+        "Everyday life",
+        "Political economy of climate change",
+        "Field (mathematics)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01830-x",
@@ -1510,6 +1573,23 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101712",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101712",
+      "title": "Food and beverage plastics dominate global shorelines: A harmonized rank-based assessment of usage types to guide interventions",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001132",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.oneear.2026.101687",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101687",
       "title": "Extracellular vesicles in the plastisphere emerge as hotspots to spread antibiotic resistance and virulence genes",
@@ -1555,6 +1635,23 @@
         "Vegetation (pathology)",
         "Natural (archaeology)"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101717",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101717",
+      "title": "Closure of the Strait of Hormuz fuels Europe’s natural-gas trilemma",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-01",
+      "published_date_display": "2026-05",
+      "published_parts": [
+        2026,
+        5
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001181",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101711",
