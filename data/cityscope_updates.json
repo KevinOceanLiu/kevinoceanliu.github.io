@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T23:34:18.262234+00:00",
+  "generated_at": "2026-05-20T23:40:04.989781+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102455",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102455",
-      "title": "TransGM: Transferable gravity models for cross-city policy transfer",
+      "doi": "10.1016/j.compenvurbsys.2026.102464",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102464",
+      "title": "Estimating maximum acceptable positional errors for crime distribution pattern",
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
@@ -43,14 +43,31 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000578",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000669",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107190",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107190",
-      "title": "Urban low-altitude airspace resources: Integrating risk and accessibility through fine-grained analysis",
+      "doi": "10.1016/j.compenvurbsys.2026.102457",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102457",
+      "title": "A GIS MILP framework for electric vehicle charging station placement and optimization: A Case Study in Eindhoven, Netherlands",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000591",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107231",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107231",
+      "title": "Well-being amidst population decline: Contextual effects of population change on life satisfaction in shrinking small and medium-sized cities in Japan",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -60,14 +77,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004221",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004634",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107192",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107192",
-      "title": "Urban beauty and its oppositions",
+      "doi": "10.1016/j.cities.2026.107154",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107154",
+      "title": "Understanding changes in residential water consumption during the covid-19 pandemic: A sociodemographic analysis in Southern Brazil",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -77,14 +94,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004245",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003860",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107150",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107150",
-      "title": "Unveiling market dynamics: Spatialities, functions and challenges of periodic markets in Morigaon District of Assam, India",
+      "doi": "10.1016/j.cities.2026.107173",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107173",
+      "title": "Three-dimensional urban planning drivers for carbon reduction: Insights from machine learning analysis of functional zones in the Greater Bay Area",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -94,14 +111,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003823",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004051",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107198",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107198",
-      "title": "Time zones, productivity, and discontinuities in the spatial equilibrium",
+      "doi": "10.1016/j.cities.2026.107112",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107112",
+      "title": "The impact of digital infrastructure development on residents' mental health: Evidence from the UK's working-age population",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -111,14 +128,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004300",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003446",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107139",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107139",
-      "title": "Power dynamics in negotiated developer obligations: Evidence from Istanbul case",
+      "doi": "10.1016/j.cities.2026.107176",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107176",
+      "title": "Socioeconomic and spatial determinants of dynamic inductive power transfer energy system for charging electric vehicles: Evidence from New Zealand",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -128,14 +145,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003719",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004087",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107174",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107174",
-      "title": "Impacts of regional integration on intercity innovation collaboration: A multidimensional analysis of the Yangtze River Delta in China",
+      "doi": "10.1016/j.cities.2026.107204",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107204",
+      "title": "How can large cities derive climate change mitigation? Investing in a greener tomorrow",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -145,14 +162,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004063",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004361",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107175",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107175",
-      "title": "Function-intensive urban form exacerbates spatial inequality of urban service accessibility",
+      "doi": "10.1016/j.cities.2026.107235",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107235",
+      "title": "Green gaps in the Garden City: Ecosystem-based adaptation and the unfinished promise of urban resilience in Kumasi, Ghana",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -162,14 +179,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004075",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004671",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107157",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107157",
-      "title": "Examining community participation in urban agriculture: Utilizing structural equation modeling to assess the impact of communication media on enhancing livelihoods and sustainability",
+      "doi": "10.1016/j.cities.2026.107142",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107142",
+      "title": "Effects of housing price determinants in major international financial centers",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -179,14 +196,14 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003896",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003744",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107229",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107229",
-      "title": "Effects of rapid urbanization on living satisfaction: Insights from a Black Sea city",
+      "doi": "10.1016/j.cities.2026.107140",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107140",
+      "title": "A decaying convergence of carbon balance along the urban-rural gradient: Threshold-driven mechanisms in the Yangtze River Delta in China",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -196,77 +213,54 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004610",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003720",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107148",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107148",
-      "title": "Data-driven insights on urban walkability: Modeling the relationships between urban form and pedestrian activity",
+      "doi": "10.1016/j.cities.2026.107177",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107177",
+      "title": "Toward sustainable active school travel: A systematic umbrella review highlighting correlates and interventions",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-20",
+      "published_date_display": "2026-05-20",
       "published_parts": [
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600380X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004099",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Psychological intervention",
+        "Intervention (counseling)",
+        "Systematic review",
+        "Work (physics)",
+        "Sustainable development"
+      ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107149",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107149",
-      "title": "Citizens' preferences for urban planning participation processes: A latent class analysis",
+      "doi": "10.1016/j.cities.2026.107211",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107211",
+      "title": "Brokerage in the sanctuary city: Managing migration at the urban scale",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-20",
+      "published_date_display": "2026-05-20",
       "published_parts": [
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003811",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004439",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107227",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107227",
-      "title": "Beyond single snapshots: Quantifying multi-scale heterogeneity from street-view imagery and what it reveals about perception",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004592",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107185",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107185",
-      "title": "Back-to-the-city for work and workers? Urban form versus function in New York State, 2010–2020",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004178",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Scale (ratio)",
+        "Urban planning",
+        "Urban infrastructure",
+        "Irregular migration"
+      ]
     },
     {
       "doi": "10.1177/00420980261446447",
@@ -284,7 +278,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261446447",
       "abstract": "This paper seeks to further explore the infrastructuring approach within migration studies by adding an empirical case study and investigating the role of diasporic social capital in infrastructuring practices. In the face of increasingly stringent border controls and racialized mobility regimes, scholars have documented grassroots “alternative” infrastructures that facilitate mobility, shelter, and information flows to navigate and respond to state-imposed (im)mobility regimes. However, these studies often presume uniform solidarity, neglecting how diasporic social capital influences who benefits from—and who is excluded by—such infrastructures. Based on ethnographic research, life-history interviews, and a year of participant observation at the Kurdish socio-cultural center in Rome, this paper demonstrates how the center first establishes an alternative infrastructure and, second, how this infrastructure is significantly shaped by diasporic connections. The center’s services—such as legal aid, language classes, and housing referrals—while forming an alternative infrastructure, are deeply influenced by the diasporic ties. By highlighting the foundational and resonant aspects of migrant-led infrastructuring, the two ethnographic vignettes reveal the impact of diasporic capital on the distribution of support and critique and the lack of universal solidarity in infrastructuring practices. The paper argues that to fully comprehend the process of infrastructuring practices, scholars must also engage with its diasporic dimension.",
-      "keywords": []
+      "keywords": [
+        "Grassroots",
+        "Ethnography",
+        "Solidarity",
+        "Social capital",
+        "Capital (architecture)",
+        "Participant observation",
+        "Face (sociological concept)",
+        "Empirical research",
+        "Diaspora"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00442-y",
@@ -303,8 +307,15 @@
       "link": "https://www.nature.com/articles/s44284-026-00442-y",
       "abstract": "Telemedicine is a key instrument for addressing healthcare disparities, yet the intercity telemedicine system (ITS) remains underexplored. Here, leveraging large-scale consultation data from online healthcare platforms, we reveal the spatial structure and city roles within China’s ITS. First, the ITS shows the structure of a highly interconnected network, enhancing systemic efficiency but also generating new inequalities by concentrating resources in major hubs and limiting patient choices in cities with fewer medical resources. Second, the ITS partly deviates from the traditional hierarchy where patients primarily seek care in the nearest major administrative center; instead, it moves toward connections driven by specific medical expertise and patient needs, while still partially reflecting the logic of face-to-face healthcare. Third, city roles within the ITS are structurally differentiated, characterized by patterns where a few dominant hubs centralize most activity while many others remain on the margins, alongside the rise of cities that leverage digital platforms to attract medical demand from diverse regions outside their own provinces, despite having relatively limited physical healthcare resources. This reflects the dual mechanism of online healthcare platforms: concentrating flows toward top-tier hubs—marginalizing smaller cities in supply roles—while enhancing service accessibility in low-resource cities and expanding the outreach of ordinary cities. Telemedicine platforms are reshaping intercity healthcare by extending virtual care beyond local and provincial boundaries. This study finds that China’s intercity telemedicine system reinforces core–periphery hierarchies while enabling new gateway cities.",
       "keywords": [
-        "Complex networks",
-        "Geography"
+        "Telemedicine",
+        "Health care",
+        "Leverage (statistics)",
+        "Limiting",
+        "Service (business)",
+        "Hierarchy",
+        "Healthcare system",
+        "Gateway (web page)",
+        "Healthcare service"
       ]
     },
     {
@@ -324,8 +335,15 @@
       "link": "https://www.nature.com/articles/s44284-026-00441-z",
       "abstract": "Urban-induced microclimate variations, such as urban heat islands and air pollution, scale with city size, producing distinctive relations between average climate variables and city-scale quantities (for example, total population). However, these relations are sensitive to city boundary definitions and overlook intra-urban variability. Here we overcome these limitations by using high-resolution data of urban temperatures, air quality, population and street networks from 142 cities worldwide, showing that their marginal and joint probability distributions collapse onto a set of general functions inspired by finite-size scaling in statistical physics. Through a logarithmic relation linking urban spatial features to climate variables, we find that average street network properties are sufficient to characterize the full variability of temperature and air pollution fields within and across cities. These findings show that intra-urban climate variability follows general scaling functions, enabling the integration of climate information into reduced-complexity models of urban systems to better inform future urban planning. Urban scaling relations linking microclimates to city size are strongly influenced by how city boundaries are defined and overlook variability within cities. Using high-resolution global data and finite-size scaling ideas, this study derives a unified scaling function that overcomes these biases and enables climate information to be more effectively integrated into statistical descriptions of urban systems.",
       "keywords": [
-        "Climate sciences",
-        "Statistical physics"
+        "Scaling",
+        "Urban heat island",
+        "Urban climate",
+        "Climate model",
+        "Climate change",
+        "Air temperature",
+        "Relation (database)",
+        "Air pollution",
+        "Spatial ecology"
       ]
     },
     {
@@ -345,9 +363,31 @@
       "link": "https://www.nature.com/articles/s44284-026-00449-5",
       "abstract": "The elephant-shaped concrete slide, with its small ladder and curved chute, is quietly disappearing from neighborhood parks. Qing Qin reflects on what its loss reveals about urban renewal and safety governance, and why child-friendly cities need room for improvisation, not only new equipment.",
       "keywords": [
-        "Cultural and media studies",
-        "Science",
-        "technology and society"
+        "Key (lock)",
+        "Natural (archaeology)",
+        "Placemaking"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102455",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102455",
+      "title": "TransGM: Transferable gravity models for cross-city policy transfer",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000578",
+      "abstract": "",
+      "keywords": [
+        "Transfer (computing)",
+        "Current (fluid)",
+        "Policy transfer",
+        "Water transfer"
       ]
     },
     {
@@ -370,6 +410,104 @@
         "Resource (disambiguation)",
         "Environmental stress",
         "Stress (linguistics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107190",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107190",
+      "title": "Urban low-altitude airspace resources: Integrating risk and accessibility through fine-grained analysis",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004221",
+      "abstract": "With the rapid pace of urbanization, low-altitude airspace is increasingly recognized as a critical resource for smart and emerging urban systems, supporting applications such as UAV-based logistics and urban air mobility. However, conventional airspace planning methods have not adequately captured the complexity and dynamic variability of urban morphology. In response, this study proposes an innovative, data-driven framework for the fine delineation of low-altitude airspace. By integrating multiple high-precision geospatial datasets and employing the H3 hexagonal grid system as the spatial discretization framework, the framework quantitatively assesses airspace risk and accessibility. Using a case study of airspace below 120 m in Shenzhen, the analysis reveals distinct variations in airspace attributes across different flight altitudes and time periods. Results indicate that risk exhibits a pronounced bimodal distribution with significant differences among functional zones, while, after accounting for uncertainties in UAV performance and flight conditions, the feasible airspace (measured as true altitude) stabilizes above 60 m with a deceleration in growth. Furthermore, the integration of built-up area and local climate zones (LCZ) analyses effectively elucidates differences in risk and accessibility, providing unprecedented data granularity and a computational platform for characterizing the spatiotemporal evolution and attributes of low-altitude airspace. This study offers theoretical support for the sustainable development of the low-altitude economy and introduces new perspectives for the scientific planning and precise management of low-altitude airspace. • Comprehensive analysis of low-altitude airspace risk and accessibility across the urban area. • Spatiotemporal characterization of population exposure risk from UAV operations. • Identification of significant altitude-dependent variations in airspace accessibility. • Exploration of the feasibility of fine-scale airspace management using the LCZ framework. • Recommendations for sustainable urban low-altitude economy development and precise airspace management.",
+      "keywords": [
+        "Geospatial analysis",
+        "Pace",
+        "Grid",
+        "Population",
+        "Resource (disambiguation)",
+        "Urban planning",
+        "Resource distribution"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107192",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107192",
+      "title": "Urban beauty and its oppositions",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004245",
+      "abstract": "",
+      "keywords": [
+        "Beauty",
+        "Opposition (politics)",
+        "Perception",
+        "Urban planning",
+        "Urban design",
+        "Harmony (color)",
+        "Empirical research",
+        "Urban density"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107150",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107150",
+      "title": "Unveiling market dynamics: Spatialities, functions and challenges of periodic markets in Morigaon District of Assam, India",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003823",
+      "abstract": "",
+      "keywords": [
+        "Quasi periodic",
+        "Function (biology)",
+        "Property market"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107198",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107198",
+      "title": "Time zones, productivity, and discontinuities in the spatial equilibrium",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004300",
+      "abstract": "",
+      "keywords": [
+        "Classification of discontinuities",
+        "Discontinuity (linguistics)",
+        "Proxy (statistics)",
+        "Productivity",
+        "Boundary (topology)",
+        "Regression discontinuity design",
+        "Amenity",
+        "General equilibrium theory"
       ]
     },
     {
@@ -415,6 +553,178 @@
         "Social integration",
         "Market integration",
         "Low income housing"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107139",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107139",
+      "title": "Power dynamics in negotiated developer obligations: Evidence from Istanbul case",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003719",
+      "abstract": "",
+      "keywords": [
+        "Negotiation",
+        "Power (physics)",
+        "Work (physics)",
+        "Clientelism",
+        "Balance (ability)",
+        "Fragmentation (computing)",
+        "Statutory law",
+        "Field (mathematics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107174",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107174",
+      "title": "Impacts of regional integration on intercity innovation collaboration: A multidimensional analysis of the Yangtze River Delta in China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004063",
+      "abstract": "",
+      "keywords": [
+        "Regional integration",
+        "Spillover effect",
+        "China",
+        "Market integration",
+        "Yangtze river",
+        "Institution",
+        "Economic integration",
+        "Structural equation modeling"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107175",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107175",
+      "title": "Function-intensive urban form exacerbates spatial inequality of urban service accessibility",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004075",
+      "abstract": "",
+      "keywords": [
+        "Inequality",
+        "Spatial inequality",
+        "Service (business)",
+        "Urban spatial structure",
+        "Urban planning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107229",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107229",
+      "title": "Effects of rapid urbanization on living satisfaction: Insights from a Black Sea city",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004610",
+      "abstract": "",
+      "keywords": [
+        "Urbanization",
+        "Black sea",
+        "Urban climate",
+        "Urban planning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107149",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107149",
+      "title": "Citizens' preferences for urban planning participation processes: A latent class analysis",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003811",
+      "abstract": "",
+      "keywords": [
+        "Latent class model",
+        "Class (philosophy)",
+        "Urban planning",
+        "Urban studies"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107227",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107227",
+      "title": "Beyond single snapshots: Quantifying multi-scale heterogeneity from street-view imagery and what it reveals about perception",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004592",
+      "abstract": "",
+      "keywords": [
+        "Perception",
+        "Viewpoints",
+        "Explanatory power",
+        "Visual perception",
+        "Homogeneous",
+        "Predictive power",
+        "Destinations",
+        "Resource (disambiguation)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107185",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107185",
+      "title": "Back-to-the-city for work and workers? Urban form versus function in New York State, 2010–2020",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004178",
+      "abstract": "",
+      "keywords": [
+        "Urban sprawl",
+        "Warrant",
+        "Compact city",
+        "Variety (cybernetics)",
+        "Function (biology)",
+        "Work (physics)",
+        "Intervention (counseling)",
+        "Consumption (sociology)",
+        "State (computer science)"
       ]
     },
     {
@@ -582,7 +892,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004324",
-      "abstract": "",
+      "abstract": "Mitigating environmental and climate-related hazards through the implementation of Nature-Based Solutions (NBS) and the development of Green Infrastructure (GI) via spatial planning has emerged as a central objective within contemporary urban resilience strategies. Despite their growing recognition in delivering ecosystem services (ES) for flooding, landslides, and extreme heat reduction, the potential of NBS and GI to address seismic risk remains largely under-investigated. This systematic literature review critically examines the current state of knowledge regarding the roles of NBS, GI and ES in mitigating seismic hazards and strengthening the resilience of urban environments. By analysing studies from Scopus and Web of Science, we identify the direct and indirect benefits of these approaches, such as the mitigation of cascading effects and the increase of community resilience, which may contribute to reduced seismic vulnerability. The findings reveal a critical need for empirical studies on their direct impact in seismic contexts, technical guidance for implementation, and integrative urban planning strategies. Our review highlights the potential of GI and NBS to complement traditional seismic risk reduction methods and offers directions for future research on their application in urban resilience frameworks. • GI, NBS, and ES contribute to seismic and multi-hazard resilience. • Systematic review highlights research and policy gaps in seismic Eco-DRR governance. • GI, NBS, and ES lower exposure, vulnerability, and cascading impacts of seismic risks. • Empirical guidance is needed to embed ES in European DRR planning strategies. • Regulatory, incentive, and participatory pathways needed for Eco-DRR implementation.",
       "keywords": [
         "Ecosystem services",
         "Urban planning",
@@ -1358,7 +1668,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003689",
-      "abstract": "",
+      "abstract": "Slums are characterized by precariousness of infrastructure and land tenure security, and their specific morphological patterns must be understood in order to provide better living conditions to their residents. This study focuses on how street patterns change when the surrounding street grid is taken into account. Using complex network theory, we analyze over 1000 slums in São Paulo. We use a multilayer network model to group favelas that present similar street network patterns inside and around them in terms of size, edge density, orientation entropy, and average circuity. Our key findings reveal that orientation entropy reaches a maximum value for most slums regardless of their sizes, and the relationship between edge density and the number of edges undergoes a shift with increasing buffer around slums. Additionally, favelas with similar orientation entropies and average circuities tend to occupy areas with comparable declivities. Our study may provide insights for public policies aiming to provide more desirable mobility flows or urban integration to slum residents. • Provides a multilayer network model to describe similarities between favelas. • Favelas with similar sizes tend to display similar topologies. • Favelas with similar orientation entropy tend to present similar declivities. • Convergence to maximum orientation entropy happens independently of size. • The relation between density and size changes when incorporating the surroundings.",
       "keywords": [
         "Slum",
         "Urban morphology",
@@ -6592,31 +6902,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107003",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107003",
-      "title": "What roadblocks prevent realizing the smart city for all? An Amsterdam case study",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002350",
-      "abstract": "The smart city is a shifting promise defined by current objectives. This means that smart cities redefine themselves as issues such as connectedness, sustainability, or equality become politically, commercially, and or socially more or less appealing. Certain seemingly invisible factors can impact the extent to which the promise of smart governance and infrastructure come to fruition. This paper examines Amsterdam's internal “smart” soft infrastructure, from politics, to policies, to practice. This overview, stemming from interviews and reports, uncovers how policies, funding, and government structure determine what the smart city is and the extent to which it can be inclusive and accessible for all. The Amsterdam case reveals that similar smart cities have the potential to suffer from short term projects, ethical issues unextractable from data dependency, and conflicting needs of diverse city-dwellers. These concerns make it such that independent self-funded forces with long-term visions may wield comparative power in smart urban development. • Qualitative analysis of Amsterdam reveals soft infrastructure roadblocks. • Political shifts drive Amsterdam to reject the specific smart city label. • Short-term pilot projects hinder sustainable, long-term urban inclusion. • Diverse citizen needs create conflicts in smart infrastructure design.",
-      "keywords": [
-        "Smart city",
-        "Vision",
-        "Government (linguistics)",
-        "Corporate governance",
-        "Politics",
-        "Soft power",
-        "Power (physics)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.106982",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.106982",
       "title": "Soft governance through media discourse in China's real estate development (2008–2025)",
@@ -7028,51 +7313,6 @@
         "Agriculture",
         "Land use",
         "Ecotope"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106833",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106833",
-      "title": "Urban enclaves have contrasting labour-market effects for migrants and ethnic minorities in England",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-21",
-      "published_date_display": "2026-03-21",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600065X",
-      "abstract": "",
-      "keywords": [
-        "Ethnic group",
-        "Immigration",
-        "Ethnic community",
-        "Ethnic composition"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106988",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106988",
-      "title": "Beyond the social and economic: Spatial regression analysis of built environment effects on multidimensional poverty in Kenya",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-21",
-      "published_date_display": "2026-03-21",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002209",
-      "abstract": "",
-      "keywords": [
-        "Built environment",
-        "Poverty",
-        "Regression analysis",
-        "Geographically Weighted Regression",
-        "Regression"
       ]
     },
     {
@@ -7782,29 +8022,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106974",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106974",
-      "title": "Disentangling the roles of online and offline social interactions in the relationship between built environment and adults' mental health",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-16",
-      "published_date_display": "2026-03-16",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002064",
-      "abstract": "",
-      "keywords": [
-        "Mental health",
-        "Built environment",
-        "Online and offline",
-        "Mental model",
-        "Social relation"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261425513",
       "doi_url": "https://doi.org/10.1177/00420980261425513",
       "title": "Mosquito seasons: Tracing more-than-human cohabitation across an urbanising floodplain",
@@ -8316,33 +8533,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106929",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106929",
-      "title": "Death of the front yards: How the house and car is replacing residential gardens",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-10",
-      "published_date_display": "2026-03-10",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001617",
-      "abstract": "Middle-ring suburban Sydney is experiencing a quiet yet profound transformation. As redevelopment accelerates, larger houses with expansive footprints and additional driveways are steadily replacing traditional front yards and gardens. This study examines 370 properties across Northern and Greater Western Sydney to quantify these changes. In areas where older, low-density homes have been replaced by newer, larger detached dwellings, the average front garden area has declined by 46%, while driveways and other impervious surfaces have increased by 57%. Most notably, front yard canopy cover has fallen by 62%. These patterns are not due to a lack of policy, but to a planning system in which local controls have become discretionary under ongoing state-level legislative reforms. Broader social trends toward larger homes and greater car ownership further reinforce this shift. The cumulative effect is leading to a substantial loss of private green space, contributing to higher urban heat, reduced biodiversity, and diminished connections with nature. Urban planning reform is urgently needed to embed minimum standards for green space and canopy cover at the site level, ensuring that urban greening targets translate into tangible local outcomes. • Front yards are smaller and driveways larger in new low-density redevelopments. • Driveway area has increased on average by 57% from 29m 2 to 46m 2 . • Front garden area has reduced on average by 46% from 102m 2 to 55m 2 . • Redevelopment has reduced canopy cover by 62% at the lot scale. • Local urban greening outcomes are subjugated to state government housing priorities.",
-      "keywords": [
-        "Redevelopment",
-        "Yard",
-        "Impervious surface",
-        "Front (military)",
-        "Greening",
-        "Bedroom",
-        "Expansive",
-        "Vegetation (pathology)",
-        "Sustainability"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105620",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105620",
       "title": "An integrated vulnerability-resilience framework for climate risk assessment in depopulating urban landscapes",
@@ -8440,32 +8630,6 @@
         "Perception",
         "Focus group",
         "Urban design"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106932",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106932",
-      "title": "Evaluating urban mobility strategies to foster inclusive urban regeneration for vulnerable groups",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-07",
-      "published_date_display": "2026-03-07",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001642",
-      "abstract": "",
-      "keywords": [
-        "Ranking (information retrieval)",
-        "Multiple-criteria decision analysis",
-        "Weighting",
-        "Compromise",
-        "Urban regeneration",
-        "Selection (genetic algorithm)",
-        "Fuzzy logic",
-        "Group decision-making"
       ]
     },
     {
@@ -8696,31 +8860,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106928",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106928",
-      "title": "Industrial park planning from the perspective of productive service industries: based on the mechanism of “form-flow synthesis”",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-05",
-      "published_date_display": "2026-03-05",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001605",
-      "abstract": "As an important spatial aggregation form for regional economic development, industrial adjustment and upgrading, the planning of industrial park is very important. Based on the relevant theories of industrial evolution, this paper reveals the dilemma of industrial upgrading and industrial park planning research, emphasizes the harmonious unity of physical form and dynamic elements, puts forward the hypothesis of the operation mechanism of form-flow synthesized industrial park planning, and believes that the intervention of productive service industries can complete the “form” and “flow” elements, and promote the realization of form-flow synthesized industrial park planning. This paper selects three typical case areas in Zhejiang Province, China, and uses case study method and qualitative comparative analysis to verify the above hypothesis. The resource allocation methods are divided into three types: “market-oriented”, “market-leading & planning-coordination” and “planning-leading & market-introduction”, corresponding to the evolution process of “form by flow”, “form-flow synthesis” and “flow by form” respectively. This study also summarizes the phased industrial park planning and development model, that is, the primary stage of “flow by form, form-flow synthesis” and the mature stage of “form by flow, form-flow synthesis”. The study also finds that “characteristic town” is an ideal model for the planning and development of industrial parks. • Proposes the hypothesis of the operation mechanism of form-flow synthesized industrial park planning. • Uses case study and qualitative comparative analysis to investigate three typical industrial parks in Zhejiang Province. • Reveals that the intervention of productive service industries can complete the “form” and “flow” elements of industrial park. • Identifies three types of resource allocation methods, corresponding to three evolution process of “form” and “flow”. • Shows a phased industrial park planning and development mode. • Finds that “characteristic town” is an ideal model for the planning and development of industrial parks.",
-      "keywords": [
-        "Industrial park",
-        "Dilemma",
-        "Service (business)",
-        "Mechanism (biology)",
-        "Resource (disambiguation)",
-        "Perspective (graphical)",
-        "Intervention (counseling)"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261417127",
       "doi_url": "https://doi.org/10.1177/00420980261417127",
       "title": "“We are the state”: Cities’ quest for recognition in climate diplomacy",
@@ -8768,33 +8907,6 @@
         "Magnetic nanoparticles",
         "Urban area",
         "Urban region"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106931",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106931",
-      "title": "An integrated approach for identifying multidimensional urban centers",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-04",
-      "published_date_display": "2026-03-04",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001630",
-      "abstract": "",
-      "keywords": [
-        "Metropolitan area",
-        "Multidimensional scaling",
-        "Identification (biology)",
-        "Dimension (graph theory)",
-        "Workflow",
-        "Principal component analysis",
-        "Urban planning",
-        "Aggregate (composite)",
-        "Construct (python library)"
       ]
     },
     {
@@ -9164,32 +9276,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106812",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106812",
-      "title": "Using the weighted urban proliferation (WUP) approach to measure the effects of planning strategies on urban sprawl in Poland",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-27",
-      "published_date_display": "2026-02-27",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126000442",
-      "abstract": "Urban sprawl is one of the major challenges facing urbanizing societies. This study quantifies the extent of urban sprawl in southern Poland's four most populous metropolitan areas, encompassing 164 municipalities, and assesses the effectiveness of spatial planning strategies aimed at limiting sprawl. The first phase of the research establishes comparative parameters for evaluating sprawl across these urban regions. To measure it, we apply the weighted urban proliferation (WUP) method, which comprises three indicators: the proportion of built-up land, the degree of spatial dispersion, and land consumption per capita. The most dispersed metropolitan areas are Rzeszów and Upper Silesia-Zagłębiowska and the most compact are Kraków and Wrocław. In the second phase, we analyze sprawl at the municipal level and examine how specific planning instruments—namely local spatial development plans (MPZPs) and decisions on land development and management conditions (WZs)—influence its occurrence. We correlate the WUP metrics for each municipality with the percentage of land covered by MPZPs in 2018 and the total number of WZs issued from 2009 to 2018. The analysis reveals diverse sprawl patterns, shaped by differing historical contexts, planning coverage (MPZPs), and intensity of WZ decisions. Notably, the number of WZs per square kilometer appears to exert a stronger impact on sprawl dynamics than the mere extent of MPZP coverage. Our findings indicate only weak to moderate correlations between the presence of MPZPs and sprawling development, suggesting the need for more targeted and effective anti-sprawl planning policies. This study highlights the critical role of well-designed spatial management tools for coping with urban expansion. • Weighted urban proliferation (WUP), integrating land use, dispersion, and population density, is applied in Poland. • The most dispersed metro areas are Rzeszów and Upper Silesia-Zagłębiowska and the most compact are Kraków and Wrocław. • Certain regions are more dispersed due to historical legacies, weak planning, and high intensity of land development. • Due to the low effectiveness of local spatial development plans, new tools should be used to limit urban sprawl. • The WUP method enables new empirical evidence of planning effectiveness in Polish cities.",
-      "keywords": [
-        "Urban sprawl",
-        "Metropolitan area",
-        "Urban planning",
-        "Limiting",
-        "Land use",
-        "Land-use planning",
-        "Subdivision",
-        "Green infrastructure"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105612",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105612",
       "title": "Perceiving agricultural heritage: How landscape attributes shape visual preferences—A case study in Iran",
@@ -9427,31 +9513,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106849",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106849",
-      "title": "Dealing with diversity: Views of native-Dutch urban-dwelling older adults on neighborhood characteristics for well-being",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-25",
-      "published_date_display": "2026-02-25",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126000818",
-      "abstract": "As many cities in Western countries undergo profound demographic transformations, the impact of superdiversity on the well-being of native populations, particularly older adults, remains underexplored. This study employs Q-methodology to unveil three distinct viewpoints among native-Dutch urban-dwelling older adults (≥ 65 years) regarding neighborhood characteristics crucial for well-being. Analyzing responses from 28 participants, revealed diverse perspectives represented by the viewpoints “well-equipped and connected,” “afraid and frail,” and “green and clean.” Notably, the findings underscore the heterogeneity of older adults' viewpoints and emphasize the pervasive influence of neighborhood ethnic diversity. While participants did not overtly express a preference for homogeneity, discussions frequently centered on immigrants, linking their presence to various issues and highlighting cultural differences. The preservation of Dutch identity in the neighborhood emerged as a recurring concern. These findings stress the necessity for policymakers and scientists to recognize the diversity within this aging population, especially as aging in place gains prominence. The study underscores the nuanced relationship between neighborhood ethnic composition and well-being, urging a comprehensive consideration of ethnic diversity in future research, local policymaking, and urban planning. • Dutch older adults exhibit three views on urban neighborhood needs for wellbeing. • Natives link the presence of immigrants to a range of neighborhood problems. • Affordable and suitable housing was a common theme in the uncovered viewpoints. • Connectedness, safety, and green spaces were considered important for wellbeing. • Urban policymakers should consider the effects of neighborhood ethnic diversity.",
-      "keywords": [
-        "Viewpoints",
-        "Ethnic group",
-        "Diversity (politics)",
-        "Immigration",
-        "Cultural diversity",
-        "Preference",
-        "Identity (music)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.106903",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.106903",
       "title": "Can nature-based solutions improve urban land green use efficiency? Evidence from China's National Forest City certification",
@@ -9501,32 +9562,6 @@
         "Core (optical fiber)",
         "Action (physics)",
         "Inclusion (mineral)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106907",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106907",
-      "title": "From the 15-minute city to the 15-minute university: A new paradigm for university campuses",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-24",
-      "published_date_display": "2026-02-24",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001393",
-      "abstract": "As centers of knowledge and innovation, universities not only educate but also shape the urban landscapes around them. This study addresses the underexplored role of universities within the 15-Minute City concept by linking the university's functional mix with the 15-Minute City's areas of transformation, thereby proposing a novel framework of the 15-Minute University. To operationalize this concept, we develop a replicable four-step methodology combining spatial analysis, emotional mapping, and stakeholder surveys to assess campus accessibility and future potential. The methodology is validated through a case study of the Technical University of Košice (TUKE), revealing key insights into current campus functionality and opportunities for transformation. Findings emphasize the significance of university campuses as multifunctional community assets that extend beyond academic purposes, urging university authorities, city management and urban planners to collaboratively foster inclusive, accessible, and vibrant campus environments. The study concludes with implementable soft and hard policy measures aimed at enhancing quality of life for students, staff, and local residents, thus contributing to resilient and livable urban ecosystems. • The novel 15-Minute University concept is introduced by linking the university functional mix with the 15-Minute City. • A four-step methodological approach is developed to assess the 15-Minute University. • A case study of the Technical University of Košice, Slovakia, validates the methodology. and its urban planning relevance. • Policy measures are identified to enhance university-neighborhood quality of life and urban resilience.",
-      "keywords": [
-        "Operationalization",
-        "Stakeholder",
-        "Urban planning",
-        "Quality (philosophy)",
-        "Urban studies",
-        "Academic community",
-        "Urban policy",
-        "Urban design"
       ]
     },
     {
@@ -14557,6 +14592,37 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107157",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107157",
+      "title": "Examining community participation in urban agriculture: Utilizing structural equation modeling to assess the impact of communication media on enhancing livelihoods and sustainability",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003896",
+      "abstract": "",
+      "keywords": [
+        "Livelihood",
+        "Structural equation modeling",
+        "Sustainability",
+        "Agriculture",
+        "Business",
+        "Environmental economics",
+        "Environmental planning",
+        "Natural resource economics",
+        "Economics",
+        "Environmental science",
+        "Geography",
+        "Computer science",
+        "Ecology"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107111",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107111",
       "title": "Drivers and strategies in China's intercity competition for high-skilled migrants",
@@ -14611,6 +14677,34 @@
         "Archaeology",
         "Real estate",
         "Civil engineering"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107148",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107148",
+      "title": "Data-driven insights on urban walkability: Modeling the relationships between urban form and pedestrian activity",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600380X",
+      "abstract": "Enhancing neighborhood design for pedestrians presents a powerful opportunity to foster sustainability in urban settings. Improving walkability is one strategy that can help cities reduce energy consumption, lower emissions, and improve public health. Architectural theories have long emphasized the importance of pedestrian-accessible design in fostering vibrant, resilient communities. However, empirical evaluations of pedestrian activity across large spatiotemporal scales remain limited. In this study, we present a data-driven analysis of how urban form features are associated with pedestrian count data from motion sensors in Melbourne's Central Business District. We defined 5- and 15-minute walking isochrones from each sensor, retaining 50 features after preprocessing. Tree-based regression and feature importance models were used to assess the relative importance and marginal effects of urban form features on pedestrian activity. Our findings show that high bench density and job counts within a 15-minute isochrone are linked to increased pedestrian activity. Dwelling counts and elderly population are also key predictors, suggesting the impacts of demographics and land use mix. Additionally, green spaces, visual factors, and tram stops also show greater importance, with their marginal effects varying by time and day type, emphasizing the need to account for temporal variations. Our findings also show alignment with survey data, offering deeper insights. Overall, this study highlights the potential of analyzing urban design features alongside walking data to inform pedestrian-oriented city planning. Our approach demonstrates how accessible spatial and longitudinal data can support data-based policymaking and urban planning by uncovering associations relevant to walkability. • Provides an interpretable, data-driven framework linking urban form to walking • Uses open longitudinal pedestrian sensor data • Examines underexplored urban features like visual indices and bench presence • Integrates objective pedestrian counts, urban forms, and subjective behavior data",
+      "keywords": [
+        "Walkability",
+        "Pedestrian",
+        "Geography",
+        "Urban design",
+        "Transport engineering",
+        "Environmental planning",
+        "Built environment",
+        "Civil engineering",
+        "Engineering",
+        "Architecture"
       ]
     },
     {
