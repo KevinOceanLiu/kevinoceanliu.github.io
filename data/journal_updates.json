@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T22:37:53.898139+00:00",
+  "generated_at": "2026-05-20T22:43:58.894992+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,19 +26,36 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115489",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115489",
-      "title": "Retrieval of ocean particle backscatter coefficient profile based on Spaceborne Active-Passive Fusion Fernald Algorithm",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "doi": "10.1016/j.isprsjprs.2026.05.017",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.017",
+      "title": "Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
       "published_parts": [
         2026,
-        9
+        8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002592",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002583",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0924-2716(26)00273-x",
+      "doi_url": "https://doi.org/10.1016/s0924-2716(26)00273-x",
+      "title": "Editorial Board",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600273X",
       "abstract": "",
       "keywords": []
     },
@@ -49,15 +66,23 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600252X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Altimeter",
+        "Radar altimeter",
+        "Sea state",
+        "Satellite",
+        "Waveform",
+        "Radar",
+        "Space-based radar"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115477",
@@ -66,32 +91,48 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002476",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Radiative transfer",
+        "Cloud computing",
+        "Cloud base",
+        "Atmospheric radiative transfer codes",
+        "Polarization (electrochemistry)",
+        "Base (topology)",
+        "Sensitivity (control systems)",
+        "Cloud top"
+      ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115485",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115485",
-      "title": "Linking solar-induced chlorophyll fluorescence to biogenic volatile organic compound emissions in low Arctic tundra: A field spectroscopy approach",
+      "doi": "10.1016/j.rse.2026.115489",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115489",
+      "title": "Retrieval of ocean particle backscatter coefficient profile based on Spaceborne Active-Passive Fusion Fernald Algorithm",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
       "published_parts": [
         2026,
-        8
+        9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002555",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002592",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Backscatter (email)",
+        "Fusion",
+        "Synthetic aperture radar",
+        "Sensor fusion",
+        "Image fusion",
+        "Particle (ecology)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.04.056",
@@ -100,15 +141,23 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002406",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Land Use and Land Cover (LULC) mapping is a fundamental task in Earth Observation (EO). However, current LULC models are typically developed for a specific modality and a fixed class taxonomy, limiting their generalizability and broader applicability. Recent advances in foundation models (FMs) offer promising opportunities for building universal models. Yet, task-agnostic FMs often require fine-tuning for downstream applications, whereas task-specific FMs rely on massive amounts of labeled data for training, which is costly and impractical in the remote sensing (RS) domain. To address these challenges, we propose LandSegmenter, an LULC FM framework that resolves three-stage challenges at the input, model, and output levels. From the input side, to alleviate the heavy demand on labeled data for FM training, we introduce LAnd Segment (LAS), a large-scale, multi-modal, multi-source dataset built primarily with globally sampled weak labels from existing LULC products. LAS provides a scalable, cost-effective alternative to manual annotation, enabling large-scale FM training across diverse LULC domains. For model architecture, LandSegmenter integrates an RS-specific adapter for cross-modal feature extraction and a text encoder for semantic awareness enhancement. At the output stage, we introduce a class-wise confidence-guided fusion strategy to mitigate semantic omissions and further improve LandSegmenter’s zero-shot performance. We evaluate LandSegmenter on six precisely annotated LULC datasets spanning diverse modalities and class taxonomies. Extensive transfer learning and zero-shot experiments demonstrate that LandSegmenter achieves competitive or superior performance, particularly in zero-shot settings when transferred to unseen datasets. These results highlight the efficacy of our proposed framework and the utility of weak supervision for building task-specific FMs. The code and dataset are publicly available at https://github.com/zhu-xlab/LandSegmenter.git .",
+      "keywords": [
+        "Land cover",
+        "Class (philosophy)",
+        "Land use",
+        "Feature (linguistics)",
+        "Knowledge base",
+        "Land-use planning",
+        "Limiting"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2668678",
@@ -11256,31 +11305,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.013",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.013",
-      "title": "BEDI: a comprehensive benchmark for evaluating embodied agents on UAVs",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-16",
-      "published_date_display": "2026-01-16",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000134",
-      "abstract": "",
-      "keywords": [
-        "Benchmark (surveying)",
-        "Flexibility (engineering)",
-        "Scalability",
-        "Drone",
-        "Embodied cognition",
-        "Task (project management)",
-        "Benchmarking"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.019",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.019",
       "title": "AnchorReF: A novel anchor-based visual re-localization framework aided by multi-sensor data fusion",
@@ -12600,33 +12624,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2025.12.001",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.001",
-      "title": "EnBoT-SORT: Hierarchical fusion-association tracking with pseudo-sample generation for dense thermal infrared UAVs",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-12-08",
-      "published_date_display": "2025-12-08",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271625004812",
-      "abstract": "",
-      "keywords": [
-        "Trajectory",
-        "Tracking (education)",
-        "Key (lock)",
-        "Detector",
-        "Adaptability",
-        "BitTorrent tracker",
-        "Infrared",
-        "Degradation (telecommunications)",
-        "Conditional random field"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115162",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115162",
       "title": "RayExtract: A fast, scalable method for tree volume reconstruction from terrestrial laser scanning",
@@ -12812,6 +12809,33 @@
         "Population",
         "Limiting",
         "Statistical model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115485",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115485",
+      "title": "Linking solar-induced chlorophyll fluorescence to biogenic volatile organic compound emissions in low Arctic tundra: A field spectroscopy approach",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002555",
+      "abstract": "The warming Arctic is experiencing one of the largest annual Biogenic Volatile Organic Compounds (BVOC) emissions increases globally relatively to the baseline of the previous decades.In particular isoprenoids are known to be driven by photosynthetic processes. Therefore, their emissions could be linked to proxies of photosynthetic activity that can be sensed remotely.In this study, we propose to explore the link between Solar-Induced chlorophyll Fluorescence (SIF) in the O$_2$-A absorption band and BVOC emission rates in a field spectroscopy framework, so to further investigate the relationship between the reflectance properties of vegetation and emitted BVOC rates. The vegetation under examination are typical species found in low Arctic tundra.The workflow of analysis included wavelength selection, feature ranking importance, and construction of Structural Equation Models in order to verify the links between the remotely sensed variables and the emission rates of various BVOC groups.The results show that SIF can be treated as an important proxy for isoprenoids (particularly isoprene) and total BVOC emissions, while other spectral indices such as PRI and EVI can similarly be deployed for sesquiterpenes and monoterpenes emissions, respectively.",
+      "keywords": [
+        "Arctic",
+        "Arctic vegetation",
+        "Photosynthesis",
+        "Volatile organic compound",
+        "Photochemical Reflectance Index",
+        "Vegetation (pathology)",
+        "Chlorophyll a",
+        "The arctic",
+        "Photosynthetically active radiation"
       ]
     },
     {
