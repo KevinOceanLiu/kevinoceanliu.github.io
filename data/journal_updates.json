@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T22:43:58.894992+00:00",
+  "generated_at": "2026-05-21T22:40:42.740135+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,23 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115488",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115488",
+      "title": "Enhancing satellite-based wildfire monitoring: An advanced framework for burn severity analysis with phenology-detrended indices",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002580",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.05.017",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.017",
       "title": "Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model",
@@ -39,6 +56,57 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002583",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.005",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.005",
+      "title": "Robust detector-free multimodal image matching based on visual model guidance and gated attention",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002467",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.016",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.016",
+      "title": "JointTrack: Densely joint feature extraction and interaction via temporal–spatial prompt learning for object tracking in multi-drone videos",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002571",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.027",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.027",
+      "title": "Enhanced daily retrieval of Evapotranspiration from a Transformer-based deep learning model combined with satellite passive microwave and optical observations",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002686",
       "abstract": "",
       "keywords": []
     },
@@ -9951,56 +10019,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115269",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115269",
-      "title": "Cognition-inspired multimodal attention fusion of close-range laser scanning data for globally representative tree species classification",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-04",
-      "published_date_display": "2026-02-04",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000398",
-      "abstract": "",
-      "keywords": [
-        "Laser scanning",
-        "Fusion",
-        "Sensor fusion",
-        "Pattern recognition (psychology)",
-        "Tree (set theory)",
-        "Image fusion"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.042",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.042",
-      "title": "Monitoring global power outages induced by tropical cyclones using nighttime light data",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-04",
-      "published_date_display": "2026-02-04",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600050X",
-      "abstract": "",
-      "keywords": [
-        "Tropical cyclone",
-        "Resilience (materials science)",
-        "Cyclone (programming language)",
-        "Outlier",
-        "Natural disaster",
-        "Identification (biology)",
-        "Storm",
-        "Anomaly detection"
-      ]
-    },
-    {
       "doi": "10.1016/s0034-4257(26)00053-2",
       "doi_url": "https://doi.org/10.1016/s0034-4257(26)00053-2",
       "title": "Editorial Board",
@@ -11305,30 +11323,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.019",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.019",
-      "title": "AnchorReF: A novel anchor-based visual re-localization framework aided by multi-sensor data fusion",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-16",
-      "published_date_display": "2026-01-16",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000195",
-      "abstract": "",
-      "keywords": [
-        "Pose",
-        "Sensor fusion",
-        "Translation (biology)",
-        "Component (thermodynamics)",
-        "Rotation (mathematics)",
-        "Image fusion"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2601312",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2601312",
       "title": "Valorizing the Beach, Devaluing the People: Racial Capitalism and Coastal Development in Asbury Park, New Jersey",
@@ -11971,32 +11965,6 @@
         "Graph",
         "Landslide",
         "Transformer"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2025.12.028",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2025.12.028",
-      "title": "Mapping melliferous tree species in Kenya via one-class classification with hyperspectral unsupervised domain adaptation",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        2
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162500512X",
-      "abstract": "The beekeeping sector holds significant potential for livelihood diversification among the agropastoral communities in Kenya. Melliferous tree species play a critical role by providing essential nectar sources for bees. However, limited knowledge of their precise spatial distributions constrains the full development of beekeeping. One-class classification (OCC) offers a practical solution for detecting single target species without requiring extensive labeled data from other classes. Although existing OCC methods perform well in trained domains, the generalization capability to unseen domains remains limited due to domain shift. To address these challenges, this study proposes a hyperspectral unsupervised domain adaptation OCC framework (HyUDA-One) for tree species mapping using airborne hyperspectral imagery and laser scanning data. The spatial–spectral regularized pseudo-positive learning was designed to mitigate domain shift and improve model generalizability. The effectiveness of HyUDA-One was demonstrated by mapping three key melliferous tree species in two savanna landscapes in southern Kenya. The results show that HyUDA-One significantly improves performance in unlabeled domains. The F1-scores of 0.788, 0.845, and 0.768 were achieved for Senegalia mellifera , Vachellia tortilis , and Commiphora africana in the trained domain, respectively. In the untrained domain, the F1-scores of Senegalia mellifera and Vachellia tortilis were 0.756 and 0.884, respectively. The distribution maps revealed the spatial patterns of these melliferous tree species and the nectar source availability, offering an important reference for sustainable beekeeping development in savanna landscapes. Furthermore, the proposed framework can potentially be extended to other mapping applications, such as invasive species detection.",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Tree (set theory)",
-        "Beekeeping",
-        "Pattern recognition (psychology)",
-        "Adaptation (eye)",
-        "Spatial analysis",
-        "Taxonomy (biology)",
-        "Diversification (marketing strategy)"
       ]
     },
     {
@@ -12825,7 +12793,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002555",
-      "abstract": "The warming Arctic is experiencing one of the largest annual Biogenic Volatile Organic Compounds (BVOC) emissions increases globally relatively to the baseline of the previous decades.In particular isoprenoids are known to be driven by photosynthetic processes. Therefore, their emissions could be linked to proxies of photosynthetic activity that can be sensed remotely.In this study, we propose to explore the link between Solar-Induced chlorophyll Fluorescence (SIF) in the O$_2$-A absorption band and BVOC emission rates in a field spectroscopy framework, so to further investigate the relationship between the reflectance properties of vegetation and emitted BVOC rates. The vegetation under examination are typical species found in low Arctic tundra.The workflow of analysis included wavelength selection, feature ranking importance, and construction of Structural Equation Models in order to verify the links between the remotely sensed variables and the emission rates of various BVOC groups.The results show that SIF can be treated as an important proxy for isoprenoids (particularly isoprene) and total BVOC emissions, while other spectral indices such as PRI and EVI can similarly be deployed for sesquiterpenes and monoterpenes emissions, respectively.",
+      "abstract": "The warming Arctic is experiencing one of the largest annual Biogenic Volatile Organic Compounds (BVOC) emissions increases globally relative to the baseline of the previous decades. In particular isoprenoids are known to be driven by photosynthetic processes. Therefore, their emissions could be linked to proxies of photosynthetic activity that can be sensed remotely. In this study, we propose to explore the link between Solar-Induced Chlorophyll Fluorescence (SIF) in the O 2 -A absorption band and BVOC emission rates in a field spectroscopy framework, so as to further investigate the relationship between the reflectance properties of vegetation and emitted BVOC rates. The vegetation under examination consists of typical species found in low Arctic tundra. The workflow of analysis includes wavelength selection, feature ranking importance, and construction of Structural Equation Models in order to verify the links between the remotely sensed variables and the emission rates of various BVOC groups. The results show that SIF can be treated as an important proxy for isoprene emissions, while other spectral indices such as PRI and EVI can similarly be deployed for sesquiterpene and monoterpene emissions, respectively. • SIF as a proxy for isoprene and total BVOC emissions of low Arctic tundra vegetation; • Spectral information can be used as a complementary tool to analyze BVOC emissions; • Structural Equation Modelling emphasizes selected indices explaining BVOC emissions.",
       "keywords": [
         "Arctic",
         "Arctic vegetation",
