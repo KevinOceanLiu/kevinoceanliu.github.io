@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T23:40:04.989781+00:00",
+  "generated_at": "2026-05-21T23:17:56.834917+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -30,6 +30,23 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/s0169-2046(26)00125-8",
+      "doi_url": "https://doi.org/10.1016/s0169-2046(26)00125-8",
+      "title": "Editorial Board",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001258",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102464",
       "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102464",
@@ -82,23 +99,6 @@
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107154",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107154",
-      "title": "Understanding changes in residential water consumption during the covid-19 pandemic: A sociodemographic analysis in Southern Brazil",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003860",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.cities.2026.107173",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107173",
       "title": "Three-dimensional urban planning drivers for carbon reduction: Insights from machine learning analysis of functional zones in the Greater Bay Area",
@@ -133,6 +133,23 @@
       "keywords": []
     },
     {
+      "doi": "10.1016/j.cities.2026.107172",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107172",
+      "title": "Sustainable financial development for cleaner energy in the MENA region",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600404X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.cities.2026.107176",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107176",
       "title": "Socioeconomic and spatial determinants of dynamic inductive power transfer energy system for charging electric vehicles: Evidence from New Zealand",
@@ -150,6 +167,40 @@
       "keywords": []
     },
     {
+      "doi": "10.1016/j.cities.2026.107221",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107221",
+      "title": "Presence, absence and ongoing legacy: Mining voids, transition and post-industrial futures in the Hunter Valley, NSW, Australia",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004531",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107181",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107181",
+      "title": "New evidence of contribution of culture to urban regeneration in the Global South, a comprehensive research on 170 projects in 34 cities of Iran",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004130",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.cities.2026.107204",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107204",
       "title": "How can large cities derive climate change mitigation? Investing in a greener tomorrow",
@@ -163,6 +214,23 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004361",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107237",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107237",
+      "title": "Housing wealth and mental health in urban China: Evidence from 10 years of longitudinal data",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004695",
       "abstract": "",
       "keywords": []
     },
@@ -201,6 +269,57 @@
       "keywords": []
     },
     {
+      "doi": "10.1016/j.cities.2026.107180",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107180",
+      "title": "Does the 15-min city design and related factors reduce tourists' overtourism strains? The moderating role of social density",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004129",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107233",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107233",
+      "title": "Anthropization or naturalization? Distance-dependent patterns of waterfront land use and land cover change in the Yangtze River Delta Urban Agglomeration",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004658",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107232",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107232",
+      "title": "A multi-agent large language model workflow for analyzing perceived cultural values from social media: A study of 141 Chinese cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004646",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.cities.2026.107140",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107140",
       "title": "A decaying convergence of carbon balance along the urban-rural gradient: Threshold-driven mechanisms in the Yangtze River Delta in China",
@@ -215,6 +334,52 @@
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003720",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00445-9",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00445-9",
+      "title": "Tensions around urban green and blue spaces",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
+      "published_parts": [
+        2026,
+        5,
+        21
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00445-9",
+      "abstract": "Living in cities should not mean living separately from nature. Access to green and blue spaces has a crucial role in engaging urban residents and supporting their physical and mental health. This issue of Nature Cities includes research and opinion on how urban planning and governance can more effectively integrate green and blue spaces into cities.",
+      "keywords": [
+        "Cities",
+        "Countries",
+        "Regions",
+        "Sustainable Architecture/Green Buildings",
+        "Civil Engineering",
+        "Urban Geography / Urbanism (inc. megacities",
+        "towns)",
+        "Urban Studies/Sociology",
+        "Urban Economics"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261442414",
+      "doi_url": "https://doi.org/10.1177/00420980261442414",
+      "title": "Completion of secondary education among children born in deprived neighbourhoods in Amsterdam and Stockholm: The role of residential mobility and exposure to neighbourhood deprivation",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-20",
+      "published_date_display": "2026-05-20",
+      "published_parts": [
+        2026,
+        5,
+        20
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261442414",
+      "abstract": "Residential mobility during childhood is an important life event altering a child’s environment with possible long-term consequences. While moving frequently may be particularly disruptive, moving to a better environment might outweigh the disruptive effects. This study simultaneously examines frequency of moving and exposure to neighbourhood deprivation , and the association with completion of secondary education for children born in socio-economically deprived neighbourhoods in Amsterdam and Stockholm. Using full-population register data from the Netherlands and Sweden, residential mobility is studied from birth until age 16. Completion of secondary education is analysed at age 21, comparing children who do not move to children with diverse mobility patterns using propensity-weighted logistic regression models. Results indicate that the positive association between moving to a better neighbourhood and completion of secondary education is primarily explained by the better socio-economic position of upwardly mobile families. Frequent moving with long-term exposure to neighbourhood deprivation decreases the likelihood of completing secondary education, particularly in Stockholm. Children in intact families benefit more from upward mobility, while frequent moving is more detrimental for children in non-intact families. The study concludes that combinations of positive and negative childhood circumstances influence educational disparities, in which residential mobility, exposure to neighbourhood deprivation, and family stability play a crucial role in accumulations of (dis)advantage over a child’s life course.",
       "keywords": []
     },
     {
@@ -2420,7 +2585,7 @@
       "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
-        5
+        9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001179",
       "abstract": "",
@@ -6426,7 +6591,7 @@
         30
       ],
       "link": "https://www.nature.com/articles/s44284-026-00427-x",
-      "abstract": "Cities around the world are making historic investments in green infrastructure. Local governments critically shape the social and ecological benefits that these networks of vegetation provide through spatial planning, but these processes remain underdeveloped in both research and practice.",
+      "abstract": "",
       "keywords": [
         "Corporate governance",
         "Spatial planning",
@@ -7129,29 +7294,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107008",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107008",
-      "title": "Understanding employees' residential choices in connection to remote work during the COVID-19 pandemic",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-23",
-      "published_date_display": "2026-03-23",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002404",
-      "abstract": "",
-      "keywords": [
-        "Work (physics)",
-        "Connection (principal bundle)",
-        "Pandemic",
-        "Coronavirus disease 2019 (COVID-19)",
-        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261424774",
       "doi_url": "https://doi.org/10.1177/00420980261424774",
       "title": "Using nighttime light data to assess the impact of AI pilot cities on government overtime in China",
@@ -7488,77 +7630,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106941",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106941",
-      "title": "Trends of “leaving space for wildness” in metropolitan regions in China: Measuring coexistence of cities and protected areas",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-19",
-      "published_date_display": "2026-03-19",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001733",
-      "abstract": "",
-      "keywords": [
-        "Metropolitan area",
-        "Urbanization",
-        "Biodiversity",
-        "Space (punctuation)",
-        "Index (typography)",
-        "Spatial ecology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107005",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107005",
-      "title": "Impact of climate resilience policy on urban carbon intensity: Evidence from econometrics and machine learning",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-19",
-      "published_date_display": "2026-03-19",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002374",
-      "abstract": "Urban carbon intensity (CI) is a key concern for improving climate conditions and promoting sustainable development. The climate resilient city pilot policy (CRCPP) implemented in China aims to actively address global climate change and foster sustainable development. The paper uses data from 278 Chinese cities between 2010 and 2021, employing the difference-in-differences model and machine learning to analyze the relationship between CRCPP and urban CI. The finding reveals that CRCPP effectively reduces urban CI. Meanwhile, the causal forest model, an advanced machine learning approach, corroborates this finding. Notably, the implementation of CRCPP in high economic development, high urbanization, and high CI cities is particularly effective in reducing CI. Concurrently, economic benefit analysis indicates that CRCPP not only lowers urban CI but also stimulates economic development. Furthermore, the policy synergistic effect of CRCPP when implemented in conjunction with energy saving and emission reduction fiscal policy enhances the effect of reducing urban CI. The outcomes of the paper offer useful insights for cities to formulate climate resilience plans and decrease urban CI. • The CRCPP effectively reduces urban CI. • The causal forest model, a novel machine learning method, is employed for policy effect analysis in this study. • Economic benefit analysis indicates that CRCPP not only lowers urban CI but also stimulates economic development. • There are policy synergies in implementing CRCPP together with the energy saving and emission reduction fiscal policy.",
-      "keywords": [
-        "Psychological resilience",
-        "Resilience (materials science)",
-        "Climate change",
-        "Urban resilience",
-        "Urban climate",
-        "Climate policy",
-        "Policy learning",
-        "China",
-        "Sustainable development"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107010",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107010",
-      "title": "Dog parks as emerging urban public spaces: A case study of spatial distribution and accessibility in Kraków, Poland",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-19",
-      "published_date_display": "2026-03-19",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002428",
-      "abstract": "",
-      "keywords": [
-        "Distribution (mathematics)",
-        "Spatial distribution"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261423013",
       "doi_url": "https://doi.org/10.1177/00420980261423013",
       "title": "Making the case for community-responsive circularity: Lessons from a legacy textile manufacturing region",
@@ -7764,51 +7835,6 @@
         "Urban planning",
         "Representation (politics)",
         "Interrogation"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106994",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106994",
-      "title": "The urban Leviathan: A political economy analysis of economic growth, social displacement, and cultural erasure in the Addis Ababa corridor project",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600226X",
-      "abstract": "",
-      "keywords": [
-        "Erasure",
-        "Politics",
-        "Social economy",
-        "Work (physics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106993",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106993",
-      "title": "Industrial policy and carbon emissions: Evidence from made in China 2025",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002258",
-      "abstract": "",
-      "keywords": [
-        "China",
-        "Carbon fibers",
-        "Industrial policy",
-        "Environmental policy",
-        "Public policy"
       ]
     },
     {
@@ -9459,32 +9485,6 @@
         "Focus group",
         "Health care",
         "Public health"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106917",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106917",
-      "title": "The triple-win potential of sustainable mobility",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-25",
-      "published_date_display": "2026-02-25",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001496",
-      "abstract": "Shifting daily commutes from private cars to walking, cycling, or public transit can simultaneously reduce household expenses, ease pressure on public budgets, and mitigate social and environmental externalities. Using an origin-destination survey combined with administrative data for Quebec, this study develops an integrated cost-benefit framework to evaluate modal-shift scenarios. Results indicate that up to one-third of car commutes in the province's largest metropolitan area (Montreal) could potentially shift to sustainable alternatives, generating annual public savings of about CAD 1.2 billion, reduced external costs of CAD 2.5 billion, and lower commuting-related carbon emissions by 12 percentage points. Extending the analysis to the provincial level doubles total savings to nearly CAD 7 billion per year and cuts total carbon emissions by roughly 1 p.p. Modest active mobility infrastructure upgrades along key routes could unlock about 20% of this potential, while achieving the full triple-win will require more ambitious and coordinated policies. • Modal shifts to active and public transportation reduce private, public, and external costs. • Walking and cycling save up to $0.07 per dollar spent, while driving costs $0.78. • Shifting car trips under 5–10 km could cut Quebec's annual GHG emissions by 1%. • These shifts could save $4–$7 billion annually, including $1.8–$3.4 billion in external costs. • Modest active mobility infrastructure upgrades could unlock about 20% of this potential. • Achieving the full triple-win will require coordinated policies targeting infrastructures and behaviors.",
-      "keywords": [
-        "Public transport",
-        "Metropolitan area",
-        "TRIPS architecture",
-        "Modal shift",
-        "Liberian dollar",
-        "Greenhouse gas",
-        "Private transport",
-        "Sustainable transport"
       ]
     },
     {
@@ -14400,6 +14400,36 @@
         "Survey data collection",
         "Amazon rainforest",
         "Latent class model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107154",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107154",
+      "title": "Understanding changes in residential water consumption during the covid-19 pandemic: A sociodemographic analysis in Southern Brazil",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003860",
+      "abstract": "This study explores changes in residential water consumption patterns in São Leopoldo, southern Brazil, during the COVID-19 pandemic, with an emphasis on sociodemographic variables. The analysis is based on data from 49,712 users across 356 census tracts, comparing pre-pandemic (2017–2020) and pandemic (2020−2022) periods. Water consumption in both periods was classified into nine categories, and the changes between these categories over time were assessed. The changes in consumption by census tract were examined using decision trees to determine how variables such as the number of residents per household, income, and education level influenced consumption behavior. Approximately 50.3% of users changed their water consumption habits during the pandemic; among these, 59.4% registered an increase in consumption, while 40.6% showed a decrease. Census tracts with a higher proportion of low-income families and more residents per household were more likely to show changes in water consumption, possibly due to changes in the length of time these residents stayed at home. The COVID-19 pandemic significantly affected residential water consumption patterns, and socioeconomic and demographic factors played crucial roles in these changes. Overall, this study highlights the importance of considering sociodemographic factors in urban water resource management, especially in times of crisis. • 50.3% of residential users changed their water consumption during the pandemic. • 59.4% of users with change increased their residential water consumption. • Low-income, high-occupancy areas showed the highest consumption variation. • CART models reached up to 70.6% accuracy in classifying consumption change. • Social class and household size were key predictors of consumption behavior.",
+      "keywords": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "Pandemic",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Consumption (sociology)",
+        "Geography",
+        "Virology",
+        "Medicine",
+        "Outbreak",
+        "Sociology",
+        "Infectious disease (medical specialty)",
+        "Social science"
       ]
     },
     {
