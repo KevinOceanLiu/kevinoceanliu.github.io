@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T23:53:13.215603+00:00",
+  "generated_at": "2026-05-21T23:40:08.018240+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,60 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1086/742352",
+      "doi_url": "https://doi.org/10.1086/742352",
+      "title": "The role of song in a secondary contact zone between two coastal white-crowned sparrow subspecies",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
+      "published_parts": [
+        2026,
+        5,
+        21
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/742352",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70414",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70414",
+      "title": "Forest cover drives bird occupancy across guilds and habitats in a Colombian coffee‐farming landscape",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
+      "published_parts": [
+        2026,
+        5,
+        21
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70414",
+      "abstract": "Abstract Efforts to conserve biodiversity in coffee landscapes often emphasize shade management at the farm scale, yet the extent of surrounding forest may ultimately determine conservation outcomes. We used Bayesian community occupancy models and two seasons of bird point‐count data to assess how landscape composition and local vegetation structure interact to affect multiple bird guilds using coffee farms and forests in the Colombian Andes. Forest cover in a 2 km radius positively predicted bird species occupancy for all ecological guilds and conservation concern species in both coffee and forest habitats. Forest specialists required forest habitat with >32% surrounding forest cover to achieve median occupancy, whereas in the same landscape, median generalist occupancy was maintained in shade coffee habitat (i.e. coffee grown under a canopy of trees) with ≥10 tree species and ≥45% canopy cover. The complexity of local vegetation (i.e. shade tree cover and diversity) required to maintain generalist bird occupancy in coffee increased as forest cover decreased in the surrounding landscape. Responses to local vegetation structure varied among guilds. Dense and diverse shade coffee benefited generalists, frugivores, insectivores and nectarivores, while sun coffee (i.e. intensified monoculture) and early successional forest benefited granivores and omnivores. Seasonal occupancy shifted among habitats, with increased forest use during December–January across guilds, suggesting temporal variation in habitat requirements. Synthesis and applications. Increasing landscape forest cover would improve occupancy for nearly all bird guilds using coffee and forest habitats in the Eastern Colombian Andes. Conserving forest and enhancing shade coffee are complementary–not interchangeable–strategies: landscape forest cover shapes the conditions under which farm‐scale habitat management can sustain diverse bird communities.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70925",
+      "doi_url": "https://doi.org/10.1111/gcb.70925",
+      "title": "A Global Review of Salt Marsh Restoration: Why Simpler, Context‐Specific Strategies Can Outperform Complex Approaches",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
+      "published_parts": [
+        2026,
+        5,
+        21
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70925",
+      "abstract": "ABSTRACT Improving our understanding of the drivers of restoration success is a global priority, as effective restoration efforts are essential for biodiversity conservation, climate resilience and regenerative development. We present a global meta‐analysis of active salt marsh restoration to evaluate how different restoration approaches approximate natural reference conditions across physical, biotic, and functional attributes, how factors such as project age, project timing, spatial extent, and latitude influence outcomes, and whether combining interventions yields synergistic benefits over single methods. Most approaches, including tidal restoration, sediment addition, and fertilisation, approximated reference conditions on average, but outcomes varied widely among studies, with attributes often falling short of or exceeding those of natural sites. The diversity of metrics used to assess restoration outcomes further complicates the interpretation of this variability. Deviations from reference conditions did not diminish with increasing project age, spatial extent or timing, highlighting the strong context dependency of restoration outcomes and the need for improved evaluation frameworks. Contrary to prevailing assumptions, combining multiple restoration interventions did not consistently enhance restoration success and was also associated with lower similarity to reference conditions and greater variability in outcomes. However, this pattern appears to be driven by the performance of specific intervention combinations rather than reflecting a general disadvantage of multi‐intervention approaches. These findings suggest that combinatorial restoration strategies are heterogeneous in effectiveness and may be less predictable across contexts than simpler interventions, emphasising the need for careful restoration planning and indicating that context‐specific strategies may provide more scalable solutions under global change.",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41559-026-03084-4",
       "doi_url": "https://doi.org/10.1038/s41559-026-03084-4",
@@ -17443,33 +17497,6 @@
         "Terrestrial plant",
         "Productivity",
         "Global change"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70730",
-      "doi_url": "https://doi.org/10.1111/gcb.70730",
-      "title": "Large‐Scale Forest Restoration Accompanied by Biodiversity Recovery in Costa Rica's Redistributive Payment for Ecosystem Service Program",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-04",
-      "published_date_display": "2026-02-04",
-      "published_parts": [
-        2026,
-        2,
-        4
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70730",
-      "abstract": "ABSTRACT Ecosystem restoration is widely recognized as among the most important means to combat both climate change and biodiversity loss. A vast range of studies have illustrated the potential for local ecological recovery, but its efficacy at large spatial scales remains highly uncertain. Until now, the lack of standardized biodiversity monitoring systems has restricted our capacity to evaluate the potential for ecological recovery at large spatial scales. Here, we use an ecoacoustic dataset from 119 locations to evaluate the biodiversity implications of large‐scale forest restoration within Costa Rica's redistributive Payment for Ecosystem Service (PES) program. Soundscapes recorded in degraded pastures were marked by significant changes in the timing and frequencies typical of mature reference forests. In contrast, we show that the acoustic patterns of restored PES sites have recovered and now resemble reference forests more closely. The age and ecological composition of naturally regenerating forests within the PES have led to more dramatic patterns of acoustic recovery (soundscapes 1.4 times more similar to reference forests than pastures) than in their monoculture plantation counterparts (1.24 times). The scale and consistency of these findings provide strong evidence of effective restoration at scale, highlighting the ecological merits of natural restoration approaches over monoculture plantations.",
-      "keywords": [
-        "Biodiversity",
-        "Ecosystem services",
-        "Restoration ecology",
-        "Monoculture",
-        "Ecosystem",
-        "Forest restoration",
-        "Species richness",
-        "Payment"
       ]
     },
     {
