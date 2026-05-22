@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T23:40:08.018240+00:00",
+  "generated_at": "2026-05-22T23:45:25.145842+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03080-8",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03080-8",
+      "title": "Genetic rescue increases long-term fitness despite elevating putative genetic load in a male-dimorphic mite",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
+      "published_parts": [
+        2026,
+        5,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03080-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70353",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70353",
+      "title": "Stable and resilient kelp forests across a latitudinal gradient of thermal stress",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
+      "published_parts": [
+        2026,
+        5,
+        22
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70353",
+      "abstract": "Abstract Global environmental change is reducing ecosystems' capacity to resist and recover from disturbances, threatening ecological stability. Stability is multidimensional, encompassing resistance (initial impact), resilience (rate of recovery) and recovery (extent of return), yet these components are rarely quantified together. Kelp forests are among the world's most productive and biodiverse marine ecosystems but face increasing anthropogenic stressors, including ocean warming, overfishing and declining water quality, which may erode stability and drive phase shifts (e.g. to urchin barrens or algal turfs). We conducted a pulse‐disturbance experiment in shallow (3–5 m) subtidal kelp forests dominated by Laminaria hyperborea across four northeast Atlantic regions, with two sites nested in each. The study spanned ~9° of latitude and ~2.5°C in mean sea‐surface temperature. Following complete kelp removal in replicated large plots, disturbed areas were monitored for 6 years and compared with undisturbed reference areas. Based on known thermal tolerances, we predicted reduced resilience and recovery in warmer southern regions. Recovery followed a consistent trajectory across all regions, with high initial recruitment, rapid recovery of kelp density and canopy cover within 2 years and broader habitat structure and biomass returning within 5 to 6 years. Overall stability was high, but resilience differed regionally, with slower recovery in warmer southern regions, indicating increased vulnerability to future warming and disturbance. Synthesis . Laminaria hyperborea forests show high stability following pulse disturbance, but regional differences in resilience highlight the value of assessing multiple stability components. Future research should examine (i) resilience of associated communities, (ii) whether similar dynamics occur across the species' full range and (iii) interactions between physical disturbance and other environmental drivers. These findings advance understanding of ecological stability and provide guidance for managing and conserving ecologically and economically important kelp forest ecosystems.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70416",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70416",
+      "title": "Dynamics of neutral genes and genes under selection and their implications for threatened species translocations",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
+      "published_parts": [
+        2026,
+        5,
+        22
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70416",
+      "abstract": "Abstract Small and isolated populations quickly lose genetic diversity, which impedes their adaptability to environmental change. A powerful tool for threatened species conservation are translocations, aiming to counteract demographic and genetic risks. Concerns persist about potential risks of introducing maladaptive loci into a genetically impoverished population, as well as losing local genetic variation (i.e. genetic swamping). With limited knowledge on adaptive alleles in the wild, management recommendations are developed following genetic theory of neutral genes. We simulated biallelic alleles under directional selection with varying starting frequencies in a stochastic metapopulation model. We tested a range of gene flow rates across two release strategies in populations of different sizes. We found that following the recommendation of ≤20% gene flow, local alleles across selection pressures were typically well retained with retention rate changes of ±5% compared to no‐gene flow. Furthermore, the simulations demonstrated that, to increase genetic diversity, larger populations require lower levels of gene flow compared to smaller populations and have higher retention rates for both introduced and local alleles at low frequencies. Synthesis and Applications . Our results provide advice for the management of wild populations and the planning of translocations. Prior to this study, the understanding was deduced from genetic theory, which did not consider stochastic events included in our simulations. Our modelling showed an overall increase in genetic diversity resulting from translocations, suggesting that the introduced variation outweighs the loss of local variation.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70917",
+      "doi_url": "https://doi.org/10.1111/gcb.70917",
+      "title": "Bioacoustic Baselines for Intact Forests",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
+      "published_parts": [
+        2026,
+        5,
+        22
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70917",
+      "abstract": "ABSTRACT Forests are at the frontline of both climate and biodiversity crises: forests are fundamental to the regulation of Earth's atmospheric carbon dioxide levels, and tropical forests alone harbour over half of all terrestrial species. Consequently, forests are at the centre of global efforts to both prevent extinctions of species and sequester carbon to mitigate climate change. Most carbon sequestration initiatives do not measure how effective they are in terms of biodiversity protection, largely because it is expensive, complex and often not required. Compounding this problem is the lack of reliable biodiversity baselines, against which positive changes due to conservation and negative changes due to human pressure could be measured. The Soundscape Baselines Project is a global initiative to collect and analyse bioacoustic baselines in some of the world's remaining intact forests. The baseline data are collected using a modular system of passive acoustic monitoring and ancillary data that can be expanded and integrated with other technologies. It is managed by local teams of scientists, conservation practitioners and community members. Emphasis is on the usability of data and equipment beyond the project, community engagement and building an interconnected network of scientists across forested countries, particularly historically underexplored partnerships between tropical forest countries. In this paper, we describe the initiative and share initial results to demonstrate how the project could be used for biodiversity conservation purposes in the future and outline steps towards operationalization. We also draw a list of priority areas for additional baseline locations across remaining intact forests. We discuss how bioacoustic baselines established now and in the future will become invaluable in a rapidly changing climate and the resulting unprecedented change in Earth's forests. Establishing rigorous biodiversity baselines using bioacoustics and other technologies and approaches through collaborative science is fundamental to ground biodiversity conservation in evidence, equity and transparency.",
+      "keywords": []
+    },
+    {
       "doi": "10.1086/742352",
       "doi_url": "https://doi.org/10.1086/742352",
       "title": "The role of song in a secondary contact zone between two coastal white-crowned sparrow subspecies",
@@ -51,7 +123,13 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/742352",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Subspecies",
+        "Sparrow",
+        "Contact zone",
+        "Coastal zone",
+        "Hybrid zone"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70414",
@@ -69,7 +147,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70414",
       "abstract": "Abstract Efforts to conserve biodiversity in coffee landscapes often emphasize shade management at the farm scale, yet the extent of surrounding forest may ultimately determine conservation outcomes. We used Bayesian community occupancy models and two seasons of bird point‐count data to assess how landscape composition and local vegetation structure interact to affect multiple bird guilds using coffee farms and forests in the Colombian Andes. Forest cover in a 2 km radius positively predicted bird species occupancy for all ecological guilds and conservation concern species in both coffee and forest habitats. Forest specialists required forest habitat with >32% surrounding forest cover to achieve median occupancy, whereas in the same landscape, median generalist occupancy was maintained in shade coffee habitat (i.e. coffee grown under a canopy of trees) with ≥10 tree species and ≥45% canopy cover. The complexity of local vegetation (i.e. shade tree cover and diversity) required to maintain generalist bird occupancy in coffee increased as forest cover decreased in the surrounding landscape. Responses to local vegetation structure varied among guilds. Dense and diverse shade coffee benefited generalists, frugivores, insectivores and nectarivores, while sun coffee (i.e. intensified monoculture) and early successional forest benefited granivores and omnivores. Seasonal occupancy shifted among habitats, with increased forest use during December–January across guilds, suggesting temporal variation in habitat requirements. Synthesis and applications. Increasing landscape forest cover would improve occupancy for nearly all bird guilds using coffee and forest habitats in the Eastern Colombian Andes. Conserving forest and enhancing shade coffee are complementary–not interchangeable–strategies: landscape forest cover shapes the conditions under which farm‐scale habitat management can sustain diverse bird communities.",
-      "keywords": []
+      "keywords": [
+        "Occupancy",
+        "Generalist and specialist species",
+        "Habitat",
+        "Vegetation (pathology)",
+        "Biodiversity",
+        "Secondary forest",
+        "Tree canopy",
+        "Guild",
+        "Canopy"
+      ]
     },
     {
       "doi": "10.1111/gcb.70925",
@@ -87,6 +175,52 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70925",
       "abstract": "ABSTRACT Improving our understanding of the drivers of restoration success is a global priority, as effective restoration efforts are essential for biodiversity conservation, climate resilience and regenerative development. We present a global meta‐analysis of active salt marsh restoration to evaluate how different restoration approaches approximate natural reference conditions across physical, biotic, and functional attributes, how factors such as project age, project timing, spatial extent, and latitude influence outcomes, and whether combining interventions yields synergistic benefits over single methods. Most approaches, including tidal restoration, sediment addition, and fertilisation, approximated reference conditions on average, but outcomes varied widely among studies, with attributes often falling short of or exceeding those of natural sites. The diversity of metrics used to assess restoration outcomes further complicates the interpretation of this variability. Deviations from reference conditions did not diminish with increasing project age, spatial extent or timing, highlighting the strong context dependency of restoration outcomes and the need for improved evaluation frameworks. Contrary to prevailing assumptions, combining multiple restoration interventions did not consistently enhance restoration success and was also associated with lower similarity to reference conditions and greater variability in outcomes. However, this pattern appears to be driven by the performance of specific intervention combinations rather than reflecting a general disadvantage of multi‐intervention approaches. These findings suggest that combinatorial restoration strategies are heterogeneous in effectiveness and may be less predictable across contexts than simpler interventions, emphasising the need for careful restoration planning and indicating that context‐specific strategies may provide more scalable solutions under global change.",
+      "keywords": [
+        "Restoration ecology",
+        "Salt marsh",
+        "Context (archaeology)",
+        "Psychological resilience",
+        "Climate change",
+        "Intervention (counseling)",
+        "Biodiversity",
+        "Adaptive management",
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "doi": "10.1111/ele.70389",
+      "doi_url": "https://doi.org/10.1111/ele.70389",
+      "title": "Plant Functional Traits and Vegetation Structure Explain Pollination Networks at Scale",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
+      "published_parts": [
+        2026,
+        5,
+        21
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70389",
+      "abstract": "ABSTRACT Quantifying biotic interactions at scale is critical to understanding ecosystem functions, such as plant‐pollinator interactions. Here, we demonstrate how woody plant functional traits and vegetation structure gathered with remote sensing can aid in predicting plant‐pollinator network indices from fine to broad spatial extents. We analysed 209 tropical plant‐pollinator networks, where vegetation characteristics were generated using spectral and LiDAR data. We found that pollination network structures were correlated to plant traits reflective of drought‐adaptive strategies and nutrient availability. Networks were predicted to be more nested and less specialised with increasing leaf nitrogen content. Further, relationships between leaf thickness, photosynthetic capacity, and water content indicate that networks may be more modular and less connected under arid, high‐light conditions where plants invest in water‐conserving tissues yet maintain high photosynthetic rates. Our findings reveal plant functional strategies as underlying environmental mechanisms that structure plant‐pollinator networks, paving the way to predict interactions using remote sensing.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70397",
+      "doi_url": "https://doi.org/10.1111/ele.70397",
+      "title": "Non‐Correlated Variation of Leaf and Fine Root Traits in Subtropical Forest Plants",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
+      "published_parts": [
+        2026,
+        5,
+        21
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70397",
+      "abstract": "ABSTRACT Plants employ multiple strategies to adapt to their growth environment. Characterizing key dimensions in plant trait space is important for understanding functional diversity within ecosystems. Leaf and root functional traits have been studied in the context of resource economics, but whether they covary, and through which mechanisms, is still debated. We investigated this in subtropical forests by sampling root and leaf traits on individuals of co‐existing species in two communities with different resource availability. We found largely non‐correlated variation between leaf and fine root traits both across and within communities, and a clear decoupling between leaf economic spectrum and root economic space, independent of evolutionary history. Our results suggest that leaf‐root trait relationships are shaped by an interplay between microenvironmental heterogeneity that drives decoupling and shared selection pressures promoting covariation. The interplay explains the weak observed coordination and highlights the importance of environmental context in predicting above‐ and below‐ground plant functions.",
       "keywords": []
     },
     {
@@ -105,7 +239,23 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03084-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Causal inference",
+        "Inference",
+        "Control (management)",
+        "Citizen journalism",
+        "Computer science",
+        "Data science",
+        "Citizen science",
+        "Causal model",
+        "Econometrics",
+        "Artificial intelligence",
+        "Machine learning",
+        "Mathematics",
+        "Statistics",
+        "World Wide Web",
+        "Biology"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03082-6",
@@ -123,7 +273,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03082-6",
       "abstract": "Abstract Tropical rainforests have often been considered marginal environments for Pleistocene hunter-gatherers, yet archaeological research in Sri Lanka demonstrates long-term occupation of these habitats from ~48,000 years ago (ka). Material evidence indicates specialized hunting of arboreal mammals, as well as the use of plant resources, but plant consumption is often difficult to detect because organic remains preserve poorly in rainforest settings. Here we present zinc isotope data ( δ 66 Zn) from Late Pleistocene to Late Holocene human ( n = 24) and faunal tooth ( n = 57) enamel, spanning ~20–3 ka of rainforest occupation in Sri Lanka. Our results show that humans consistently occupied an intermediate trophic position, indicating mixed diets of animal and plant foods. Over time, human δ 66 Zn values shift towards those typical of herbivores, suggesting an increasing reliance on plant resources. This pattern predates the regional introduction of crop agriculture and indicates that rainforest foragers were intensifying plant use long before farming emerged.",
-      "keywords": []
+      "keywords": [
+        "Rainforest",
+        "Arboreal locomotion",
+        "Pleistocene",
+        "Holocene",
+        "Tropical rainforest",
+        "Habitat",
+        "Agriculture",
+        "Biome"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70340",
@@ -141,7 +300,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70340",
       "abstract": "Abstract On planet Earth, all elemental cycles are interconnected through coupled biotic and abiotic processes, including climate, water availability and variability, soil‐forming factors and plant–animal–microbial interactions. Variations in these factors, which may be driven by anthropogenic factors such as climate change and community reorganizations, may affect the bioavailability and abundance of chemical elements, 17 of which are essential nutrients for plants. Differential responses among chemical elements may, in turn, lead to changes in their interrelationships, resulting in the coupling or decoupling of elemental cycles across different ecosystem compartments (e.g. animals, plants and soils). We analysed the impact of experimentally altered rainfall regimes (reduced amount and frequency) and root herbivory (through the addition of scarab beetle larvae) on the bioavailability, abundance and coupling of 11 soil and 14 plant elements in an Eastern Australian grassland. We also examined how elemental coupling may be influenced by the atomic properties of those elements, particularly atomic mass, which is closely linked to each element's abundance, reactivity and mobility in soils and plants. Overall, plant elemental content was not significantly affected by the experimental manipulations, reflecting a high degree of homeostatic regulation. In contrast, soil nutrient bioavailability responded more strongly to changes in rainfall, with the bioavailability of potassium increasing and that of secondary macronutrients such as calcium and magnesium and micronutrients such as manganese decreasing under altered precipitation scenarios. Plant elements were generally more coupled than those in soil, reflecting stronger internal regulation (i.e. homeostasis), but this coupling was significantly influenced by both experimentally altered rainfall and root herbivory. Plant coupling was generally reduced in response to rainfall manipulation, while the effects of herbivory were highly rainfall treatment‐ and year‐dependent. Additionally, we found signals of a positive association between elemental coupling and atomic mass in soils, whereas no such relationship was detected in plants. Synthesis . Our work provides novel experimental evidence on how chemical elements in plants and soils respond to changes in precipitation regimes and shifts in plant–animal interactions (root herbivory), moving the focus from changes in plant and soil elements to the way in which such elements are coordinated.",
-      "keywords": []
+      "keywords": [
+        "Abiotic component",
+        "Nutrient",
+        "Herbivore",
+        "Soil water",
+        "Ecosystem",
+        "Grassland",
+        "Precipitation",
+        "Soil chemistry",
+        "Abundance (ecology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70415",
@@ -159,7 +328,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70415",
       "abstract": "Abstract Retention forestry is promoted as a conservation‐oriented management strategy to sustain forest biodiversity by preserving key structural elements, such as single old trees and deadwood. However, the effectiveness of this approach in conserving the diversity of spiders as generalist predators remains unclear, particularly because the effect of structural elements under retention forestry on spiders may be mediated by its effect on prey availability. We sampled spiders (Araneae) and potential prey (Diptera, Hemiptera, Collembola) in 55 1‐hectare plots across mixed temperate forests of the Black Forest, Germany. We used pitfall traps targeting species active on the forest floor. We studied spider abundance, taxonomic diversity, ecological diversity (combined measure of functional and phylogenetic distance) and community composition along gradients of forest structure (canopy cover, proportion of conifers, stand structural complexity, volume of lying deadwood, herb cover and understorey plant richness). We also looked at how potential prey abundance varied with forest structure and cascaded to their predator. Spider richness increased with stand structural complexity. Abundance declined with increasing proportion of conifer and increased with understorey plant richness. Ecological diversity was not significantly related to forest structural variables. Prey abundance increased with structurally complex stands and tended to decline the proportion of conifers. Higher prey abundance was positively related to spider abundance and partly accounted for lower spider abundance in high proportion of conifer stands. Community composition shifted with canopy cover and conifer gradients, and functional trait identity varied with canopy cover, volume of lying deadwood and stand structural complexity. Synthesis and applications . Our findings suggest that retention forestry practices, which maintain structural complexity through spatial and vertical heterogeneity, integrate deadwood and support diverse plant communities, may support spider richness and shape dominant ecological strategies while influencing predator populations through prey availability. Managers aiming to enhance biodiversity in managed forests may benefit from prioritising structural complexity and understorey diversity, while considering potential trade‐offs associated with stand compositions. These findings provide an evidence‐based foundation for integrating principles of structural complexity, resources availability and trait‐based filtering into forest management and conservation strategies. Read the free Plain Language Summary for this article on the journal's blog .",
-      "keywords": []
+      "keywords": [
+        "Understory",
+        "Abundance (ecology)",
+        "Generalist and specialist species",
+        "Predation",
+        "Spider",
+        "Species richness",
+        "Biodiversity",
+        "Canopy",
+        "Habitat",
+        "Vegetation (pathology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70418",
@@ -177,7 +357,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70418",
       "abstract": "Abstract Hunting is widely used to manage deer populations and their impacts on ecosystems. Various management strategies can be used to ensure that the hunting bag is of adequate size and composition to actually control population growth, including the abolishment of hunting quotas. However, the actual impacts of hunting without quotas on deer harvest are rarely assessed. Here we evaluated the impact of hunting without quotas on roe deer ( Capreolus capreolus ) in Schleswig‐Holstein, Germany, by comparing the hunting bag 7 years before and after the abolishment of hunting quotas in the federal state and state forests. We used linear mixed models and a counterfactual approach to separate the impact of hunting without quotas from confounding factors that also influence roe deer harvest. We found no significant change in annual harvest densities (i.e. the number of harvested roe deer per 100 ha) overall, but a significant increase in harvest densities in state forests. This increase was most pronounced in forest districts where the forest manager changed during the study. Hunting without quotas altered the harvest sex ratio from a female‐dominated to a male‐dominated one in both the state forests and the entire state. Despite this decrease in the relative number of females harvested, hunting without quotas still led to an increase in the absolute number of harvested females in the state forests, while fewer females were harvested across the entire state. Synthesis and applications . Hunting without quotas increased the total and female harvest density in state forests, but actually decreased female harvest across the state. Thus, such hunting could result in source–sink dynamics that make actual reductions of roe deer densities in state forests challenging. Our study illustrates the usefulness of counterfactual approaches to objectively evaluate the effectiveness of hunting regulations as a wildlife management tool. Such approaches could be applied more routinely in the future and may be extended to evaluate the impact of hunting regimes on actual deer densities and their effects on (forest) vegetation.",
-      "keywords": []
+      "keywords": [
+        "Roe deer",
+        "Capreolus",
+        "Counterfactual thinking",
+        "Hunting season",
+        "Population",
+        "Wildlife management",
+        "Population size",
+        "Wildlife"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70417",
@@ -195,7 +384,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70417",
       "abstract": "Abstract Natural regeneration and tree recruitment are essential for woodland persistence, but deer browsing can disrupt these processes. Browsing impacts are well recognised, yet how local and landscape‐scale drivers shape regeneration, recruitment and herbivore pressure over time remains poorly understood. Using a space‐for‐time approach, we assessed how regeneration, deer activity, browsing damage and tree recruitment vary over time at 82 woodland creation sites across England and Scotland. We used structural equation modelling to test the effects of local and landscape‐scale drivers on these processes in England. Regeneration and tree recruitment rates were significantly higher in England than Scotland. Both countries showed similarly low numbers of successive young tree growth stages, with sapling (51–150 cm) and juvenile (151–200 cm) counts being ~5% and 0.7% of seedling (≤50 cm) counts, respectively. Woodland structural attributes influenced deer activity and browsing damage, both being higher in woodlands with lower basal area and greater structural heterogeneity. Browsing damage was also higher in smaller and denser woodlands but was not directly related to deer activity, indicating that woodland structure better predicts deer browsing than deer activity alone. Despite this, deer activity strongly inhibited tree recruitment, with evidence of recruitment failure above an activity threshold of 2 deer plot −1 day −1 . Unexpectedly, browsing damage facilitated tree recruitment, possibly by reducing competition. Regeneration declined with woodland age, but age had no consistent effect on deer activity, browsing damage or tree recruitment. Low regeneration and recruitment in 81–170‐year‐old woodlands suggests suppressed understorey regrowth. Synthesis and applications . Deer activity and browsing damage in woodland creation sites can be reduced through targeted management of structural attributes. Small, dense, structurally heterogeneous woodlands with low basal area are most vulnerable to deer impacts. To ensure continuous tree recruitment, localised deer activity should be minimised, while avoiding complete exclusion to maintain facilitative browsing effects. These actions offer practical means to safeguard ecosystem function and woodland longevity.",
-      "keywords": []
+      "keywords": [
+        "Woodland",
+        "Herbivore",
+        "Understory",
+        "Regeneration (biology)",
+        "Basal area",
+        "Juvenile"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03092-4",
@@ -316,7 +512,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70402",
       "abstract": "ABSTRACT Phylogenetic divergence between species may weaken both negative and positive biotic interactions. Whether, as a result, divergent species aggregate or segregate remains unclear. These interactions differ among lineages, and without immigration, the effects of interactions might be overridden by dispersal limitation. We studied changes in co‐occurrence across 5 years for 1770 pairs of grassland species drawn primarily from four major lineages (families), reducing dispersal limitation by seed addition. Across all lineages, changes in co‐occurrence were almost unrelated to phylogenetic divergence, partly reflecting opposing relationships within two groups of families: Fabaceae/Poaceae, where more divergent species segregated, versus Asteraceae/Apiaceae, where they aggregated. Dispersal limitation through lack of immigration existed, without eliminating divergence effects. We conclude that species assembly differed between major lineages, with spatial aggregation in Asteraceae/Apiaceae possibly reflecting limiting similarity, whereas segregation in Fabaceae/Poaceae may reflect mutualist incompatibility or asymmetric competition. These processes could feedback on within‐lineage diversification.",
-      "keywords": []
+      "keywords": [
+        "Biological dispersal",
+        "Phylogenetic tree",
+        "Lineage (genetic)",
+        "Divergence (linguistics)",
+        "Limiting",
+        "Phylogenetics",
+        "Grassland"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03057-7",
@@ -4005,7 +4209,7 @@
         28
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70393",
-      "abstract": "",
+      "abstract": "Vigo, M., Markantonatou, V., Hermoso, V., Papazekou, M., Tragou, E., Katsanevakis, S., & Giakoumi, S. (2026). Designing networks of freshwater and marine conservation areas accounting for cross-realm connectivity and threat propagation. Journal of Applied Ecology, 63, e70347. https://doi.org/10.1111/1365-2664.70347. In the paper by Vigo et al. (2026), there were some errors in four references. The correct references are shown below: Beger, M., Metaxas, A., Balbar, A. C., McGowan, J., Daigle, R., Kuempel, C. D., Treml, E. A., & Possingham, H. P. (2022). Demystifying ecological connectivity for actionable spatial conservation planning. Trends in Ecology and Evolution, 37(12), 1079–1091. Harris, L. R., Skowno, A. L., Sink, K. J., van Niekerk, L., Holness, S. D., Monyeki, M., & Majiedt, P. (2022). An indicator-based approach for cross-realm coastal biodiversity assessments. African Journal of Marine Science, 44(3), 239–253. Harris, L. R., van Niekerk, L., Holness, S. D., Sink, K. J., Skowno, A. L., Dayaram, A., van Deventer, H., Job, N., Lamberth, S. J., Adams, J. B., Raw, J. L., Riddin, T., MacKay, C. F., & Perschke, M. J. (2025). Conserving cross-realm coastal biodiversity when real-world planning and implementation processes split the land and sea. Ocean and Coastal Management, 263, 107586. Pinardi, N., Zavatarelli, M., Adani, M., Coppini, G., Fratianni, C., Oddo, P., Simoncelli, S., Tonani, M., Lyubartsev, V., Dobricic, S., & Bonaduce, A. (2015). Mediterranean Sea large-scale low-frequency ocean variability and water mass formation rates from 1987 to 2007: A retrospective analysis. Progress in Oceanography, 132, 318–332. We apologize for these errors.",
       "keywords": [
         "Marine conservation",
         "Conservation science",
@@ -15354,34 +15558,6 @@
         "Niche",
         "Habitat conservation",
         "Fragmentation (computing)"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70754",
-      "doi_url": "https://doi.org/10.1111/gcb.70754",
-      "title": "Climate Change Mitigation in Rice Farming Should Account for Biodiversity",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-17",
-      "published_date_display": "2026-02-17",
-      "published_parts": [
-        2026,
-        2,
-        17
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70754",
-      "abstract": "Climate change mitigation and biodiversity loss are closely linked challenges, yet agricultural strategies often address them separately. Focusing on rice farming, this article shows that widely promoted water-saving practices can reduce greenhouse gas emissions but may also harm freshwater biodiversity that depends on flooded fields. We highlight alternative management approaches and the need for spatially and seasonally targeted strategies that balance climate goals, biodiversity conservation, and food production. Under the Paris Agreement, there is a global commitment to tackle climate change and to reduce its impact on nature's contribution to people and human wellbeing (Brauman et al. 2020; Díaz et al. 2018), which is mainly driven by human-mediated greenhouse gas emissions (Intergovernmental Panel on Climate Change 2023). Agriculture plays a dual role as driver and victim of climate change. On one hand, the expansion of intensive agriculture has contributed to greenhouse gas emissions (Calvin et al. 2023). On the other hand, crop yields are markedly impacted by the increasing unpredictability of temperature, precipitation, and extreme climatic events (Arora 2019). A myriad of adaptation and mitigation strategies have been proposed to increase the resilience of agricultural systems and reduce their contribution to climate change. Importantly, the climate crisis is intimately coupled with other ongoing global challenges in agroecosystems, such as the loss of farmland-associated biodiversity (IPBES 2019). Mitigation actions are usually narrowly tailored, and often overlook the potential impact on, and therefore preclude the possibility to address, those critical agri-environmental issues. For instance, large-scale afforestation (Veldman et al. 2015) or the expansion of bioenergy crops (Hof et al. 2018), primarily established as climate change mitigation actions, can both have detrimental impacts on biodiversity (Smith et al. 2025; Smith et al. 2022). Therefore, potential side-effects need to be assessed and addressed when designing climate change adaptation and mitigation strategies in agriculture. This is especially crucial for major staple crops, such as rice agroecosystems, which are major contributors to climate change, biodiversity conservation and food security. Rice farming (Oryza sativa, L) plays a pivotal role in ensuring global food security and fostering biodiversity conservation, but is also an important contributor to water withdrawals and greenhouse gas emissions (Qian et al. 2023). Rice farming is one of the three most extensive agroecosystems in the world, occupying approximately 11% of arable land, producing around 780 million tonnes of rice in 2022, and serving as a staple food for more than half of the world's population (FAOSTAT 2022). This global expansion of rice farms has come at a cost to natural ecosystems, replacing ~620,000 km2 of the world's wetlands over the last three centuries (Fluet-Chouinard et al. 2023). Fortuitously, however, rice agroecosystems can be managed to act as surrogate habitat for the wetlands they have replaced. In Sri Lanka, Bambaradeniya et al. (Bambaradeniya et al. 2004) found 494 species in a single 1 ha rice field. Indeed, a broad diversity of aquatic organisms complete essential parts of their lifecycles in flooded fields during the growing season, including aquatic macroinvertebrates, fishes, reptiles, amphibians, and breeding waterbirds (Bambaradeniya et al. 2004; Halstead et al. 2019; Katayama et al. 2019; Pérez-Méndez et al. 2023; Rizo-Patrón et al. 2013; Stenert et al. 2018; Toral and Figuerola 2010). In the fallow season, rice growers in temperate regions often keep their fields flooded to decompose waste straw, and, in doing so, support vast concentrations of wintering and/or migratory waterbirds as well as many other wetland-dependent species (Czech and Parsons 2002; Eadie et al. 2025; Elphick and Oring 2003; Pérez-Méndez et al. 2022; Toral and Figuerola 2010). Emerging evidence suggests that winter-flooded rice fields can even act as ideal rearing habitat for endangered, anadromous fish (Holmes et al. 2021). Indeed, the conservation value of rice fields is so well established that rice agroecosystems are recognized as a wetland type under the Ramsar Classification System (i.e., irrigated land; includes irrigation channels and rice paddies; Ramsar COP10 Resolution X.31, 2008), occupying ~12% of global wetland surface and often designated as protected areas (Connor et al. 2023). The conservation opportunities associated with rice agriculture are, nonetheless, counterbalanced with environmental issues. First, maintaining flooded fields throughout the growing and fallow seasons requires substantial water resources. Second, just like the natural wetlands that rice has replaced, flooded paddies and fallow fields create anaerobic conditions that promote the production and emission of methane, making rice farming among the main human-mediated contributors to greenhouse gas emissions (Qian et al. 2023). To counterbalance this contribution of rice farming to climate change, a handful of water- and emission-saving irrigation alternatives have been promoted, yet the potential collateral impacts of those practices on aquatic biodiversity have been neglected. Traditional rice farming promotes permanent field flooding throughout the entire growing season and sometimes the fallow season as well. Climate change mitigation strategies have focused on changing the flooding dynamics of rice paddies, allowing them to dry out one or several times throughout the year. By exposing the soil to air, drainage inhibits the methanogenetic activity of soil microorganisms, helping to reduce methane emissions from rice paddies (Conrad 2007). Therefore, alternative irrigation strategies typically have the dual objective of reducing water consumption and lowering greenhouse gas emissions. During the growing season, Alternate Wetting and Drying irrigation (AWD), which involves periodical drainages of paddies, is by far the most widely adopted climate mitigation strategy in rice farming globally. For example, 21% and 31% of surveyed farmers in Bangladesh and the Philippines have adopted AWD as the main irrigation strategy respectively, and the numbers are expected to keep growing (Alauddin et al. 2020; Samoy-Pascual et al. 2021). In fact, public and private initiatives have started to promote the upscaling of AWD to generate carbon credits and incorporate them in global carbon markets (e.g., Gold Standard). A growing number of studies have consistently shown the efficiency of water-saving technology to reduce methane emissions (Cheng et al. 2022). For example, both methane emission rates and the net greenhouse gas balance have been reported to be three and four times lower in AWD-managed paddies than in continuously flooded paddies, respectively (Cheng et al. 2022). However, the potential negative impacts of this strategy on biodiversity have been completely ignored until very recently. This is clearly reflected in the temporal trend in the number of articles considering the effects of alternative irrigation practices on the different agri-environmental issues (see Box 1 for methodology). While research examining the impact on greenhouse gas emissions, the content of heavy metals in grain, and water saving has experienced significant growth, there is a conspicuous dearth of studies assessing its potential implications for the conservation of aquatic biodiversity (Figure 1). We aimed to identify articles assessing the effect of mitigation practices in rice farming on one of or the combination of the following research topics: biodiversity, greenhouse gas emissions, water savings, content of heavy metals in rice grains and grain yield. Literature search was performed in Web of Science Core Collection and the outcomes were analysed in a two-step procedure. The first step consisted in identifying all the articles studying water-saving techniques in rice fields by using the keywords “rice” OR “paddy” AND “mid-season drainage” (mid* drainage or MSD) OR “intermittent” or “alternate wetting and drying” (alternat* wet*). This resulted in a set of 12,541 papers including primary research and review papers (chapters and books were excluded). This set was filtered in a second step by the research topics, resulting in 5 subsets corresponding to each research topic. The abstracts of the selected works were read and articles explicitly studying the topic as a response variable were selected. For biodiversity, 236 papers containing the subject topic “biodiversity” were filtered from the original set of 1541 papers, of which only 10 papers included an indicator of biodiversity as a response variable. For greenhouse gas emissions, a total of 1259 articles with greenhouse gas emissions as a study topic (keywords: methane or CH4 or greenhouse gas* OR GHG or global warming potential OR GWP) were filtered, of which 243 included an indicator for this topic as a response variable. For water saving, a total of 6597 articles with water saving as a study topic (water input OR water use OR water use efficiency OR WUE OR water consum* OR water sav*) were filtered, of which 74 included water-saving indicators as a response variable. For heavy metal content in grain, a total of 853 articles with this term as a study topic (heavy metal OR arsenic) were filtered, of which 96 included grain content in heavy metals as a response variable. Recent evidence now indicates that water-saving technologies, particularly AWD, have pervasive negative impacts on freshwater biodiversity; however, other irrigation strategies such as a single Mid-season Drainage (MSD) may also produce adverse effects, albeit to a much lesser extent (Echeverría-Progulakis, Martínez-Eixarch, et al. 2025). Multiple alternate flooding and drying phases act as an ecological trap for aquatic organisms due to their fluctuating water levels. While continuously flooded rice paddies provide a stable habitat for aquatic organisms, cyclical drying of AWD can disrupt the reproductive cycles and/or dispersal of freshwater organisms, thereby causing a marked reduction in both their abundance and diversity (Figure 2). The impact of water-saving practices extends across macroinvertebrate, fish, and amphibian communities (Echeverría-Progulakis, Martínez-Eixarch, et al. 2025; Mogi 1993) (see Table 1 for a synthesis). Particularly worrying is the impact on amphibians, the most threatened group of vertebrates globally (Luedtke et al. 2023; Stuart et al. 2004), as a complete collapse of recruitment has been reported in experimental AWD rice paddies (Echeverría-Progulakis, Martínez-Eixarch, et al. 2025). Additionally, the lower diversity of waterbirds observed in drying paddies when compared to flooded paddies during the growing season suggests negative impacts of water-saving technologies on avian communities (Eadie et al. 2025; Herring et al. 2021; Sesser et al. 2016) (Figure 2). AWD reduces arthropod predators, larvivorous fish, and mosquito larvae (Culex tritaeniorhynchus and Anopheles sinensis). AWD promotes overdominance of mosquitoes AWD reduces the abundance of aquatic macroinvertebrates and common frog tadpoles (Pelophylax perezi). MSD and AWD decrease aquatic macroinvertebrates richness at the middle of the growing season AWD reduces the emergence of non-biting midges (Fam. Chironomidae). AWD decreases reproductive fitness of Bianor albobimaculatus spiders (Fam. Salticidae) that feed on non-biting midges. MSD does not affect the emergence of non-biting midges nor the reproductive fitness of Bianor albobimaculatus spiders Outside the growing season, growers are also turning away from winter flooding for multiple reasons. First, in Mediterranean, Temperate, and Subtropical regions, even higher methane emission rates occur during the fallow season compared to when rice is actively growing (Martínez-Eixarch et al. 2018; Qian et al. 2023). Second, in some regions of Europe, winter flooding plummeted following the unintentional introduction of the apple snail (Pomacea maculata, Lamarck), a damaging rice pest that can be controlled by altering hydrological dynamics to create long periods of field drying (Pérez-Méndez et al. 2022). Finally, climate-induced droughts have reduced water availability and escalated water prices to the point that many farmers can no longer afford to flood their fields in winter and, in some cases, choose to fallow their fields entirely (Eadie et al. 2025; Matthews 2019). As mentioned, winter-flooded fields support large concentrations of migratory waterbirds and other wetland-dependent wildlife (Amano et al. 2008; Elphick and Oring 2003; Pérez-Méndez et al. 2022; Toral and Figuerola 2010), making declines in winter-flooded field surface a major threat to their persistence. Overall, while water-saving strategies during the growing and fallow seasons may offer benefits in terms of both water use and greenhouse gas emission reduction, their potential negative impacts on aquatic biodiversity highlight the importance of carefully considering adverse ecological outcomes when implementing climate change mitigation strategies (Figure 2). This necessitates the consideration of alternative strategies that minimize environmental trade-offs. Rather than draining fields multiple times throughout the growing season (i.e., the AWD approach), a single Mid-season drainage (MSD) has been recently shown to be a more reconciliatory strategy, as its unique drying period can decrease both methane emissions rates throughout the whole rice season and the impact on freshwater biological communities, without negative effects on rice yields (Echeverría-Progulakis, Martínez-Eixarch, et al. 2025). Although further research on the potential co-benefits and co-impacts of less aggressive mitigation strategies is necessary, MSD seems to be a more promising alternative to AWD for sustainable rice cultivation in terms of both climate change mitigation and farmland biodiversity conservation. Creative approaches for balancing biodiversity conservation, methane abatement, and water costs are also being explored during the winter fallow season. For example, recent meta-analyses suggest rice-animal co-culture systems in China result in decreased methane emissions by altering oxidation dynamics, with reductions estimated between 15%–87% when compared to rice monoculture systems (Wang et al. 2023; Yu et al. 2023). Because flooding during the winter fallow season is known to dually act as a significant source of methane and as critical habitat for wildlife, promoting biodiversity in rice fields could potentially reduce emissions. For example, fish in European lakes have been shown to trigger a trophic cascade that results in more methanotropic bacteria and lower methane emissions (Devlin et al. 2015); active research is now exploring whether introducing fish into rice paddies could similarly result in reduced emissions. Novel strategies also exist for addressing escalating water costs. First, wild and domesticated species are known to provide tangible benefits to rice growers, such as improved pest and weed control (Gurr et al. 2016; Ji et al. 2023; Pérez-Méndez et al. 2023; van Groenigen et al. 2003; Xie et al. 2011), soil fertility (Firth et al. 2020; Guo et al. 2022), and straw decomposition rates (Bird et al. 2000). Because they may increase rice yields and, potentially, allow growers to reduce costly agrochemical applications, quantifying and discussing these ecosystem services with rice growers could help incentivize conservation practices. Second, many rice growers can gain alternative revenue streams from their flooded fields via agrotourism, recreational hunting, and co-cultered animals (e.g., ducks and fish) (Ji et al. 2023; Matthews 2019). Third, and finally, existing and emerging incentive programs may help growers offset some of the costs associated with winter-flooding for wildlife (e.g., the Bird Returns Program) (Reynolds et al. 2017). We also need to incorporate a spatially and temporally explicit perspective to navigate the delicate trade-off between climate change mitigation and biodiversity conservation, as increasingly suggested in recent agroecological and conservation literature. This is because the agri-environmental outcomes of water-saving strategies will depend on several factors operating at different spatiotemporal scales (Figure 3). At the local scale, soil properties, such as soil texture or organic matter content, markedly influence the rates of greenhouse gas emissions (Qian et al. 2023). Considering such soil properties will enhance the identification of specific emission ‘cold spots’ at the field scale, where biodiversity conservation strategies could be prioritized without substantively increasing emissions (Figure 3). In addition, small wildlife refuges or proper management of field ditches and draining channels that guarantee a permanent water source play an important role in reducing the overall impact of water-saving irrigation strategies (Bambaradeniya et al. 2004; Katano et al. 2003; Naito et al. 2024). The loss of productive land in of wildlife refuges be by rice or by et al. 2020; et al. 2024). As mentioned, of ecosystem services by aquatic including biological pest also the of these biodiversity conservation practices by rice farmers et al. 2016; Pérez-Méndez et al. (Figure 3). the impact of water-saving irrigation practices on freshwater biodiversity conservation also to incorporate a as the in which the practices are will influence their outcomes (Figure and 2018; et al. The which has been across different agroecological systems et al. that local water management (i.e., drying have a impact on be when in of (i.e., by the rice but with some habitat et al. 2018; et al. Although a global is evidence indicates that of are not but common across regions in et al. 2022), 2008; et al. et al. 2023; et al. 2008; et al. 2023; and 2022; et al. 2018; et al. 2022; et al. and et al. 2022; Pérez-Méndez et al. 2022). Rice fields in very be far from source to all but the the impact of water saving practices on biodiversity be in such In very by wetlands or natural land the potential negative impact of drying periods also be by the of species to to freshwater some very dispersal species use rice fields as habitat but natural to population (e.g., the et al. et al. 2015); for those water-saving strategies in may be are but and on unique and habitat A of of continuously flooded and those of water-saving managed fields may be to address the different of species in communities (Figure 3). gas emissions from rice fields and biodiversity impact also marked across (Qian et al. 2023). can different temporal dynamics across the growing season, from a single emission at or rice to several to a (Qian et al. 2023). emission rates during the fallow season can to practices (e.g., straw water dynamics during the growing season, and/or climatic conditions (Qian et al. 2023). practices to periods when emissions and, when species are using rice could help reduce emissions while biodiversity impacts (Figure 3). strategies such as cultivation or away from when by could also food security with climate and biodiversity conservation the of the Paris Agreement, carbon systems have and carbon are on the as strategies to tackle climate change However, a between carbon and biodiversity conservation has been mainly to the of the of biodiversity into or production areas et al. and have long been the of studies potential negative effects of and/or of climate change mitigation such as those promoted by carbon on biodiversity conservation and 2003; and carbon markets have a as they potential for farmers the of their carbon and 2022). mitigation have focused particularly on and rice production as these have been as the agriculture practices with GHG emission mitigation (Smith et al. In this water management strategies in rice agroecosystems (i.e., have been proposed as mitigation practices for carbon offset markets for GHG reduction et al. In the several of carbon are being as to offset their carbon while also and that value such environmental and 2021). of such is the Rice in the by the in which reductions in emission with AWD, dry or drainage in for are (Smith and The fostering these three is that they are for farmers to not reduce and have been to decrease methane emissions. However, potential impacts on biodiversity are not of methane mitigation associated to carbon markets in rice production have only potential GHG (i.e., and effects (e.g., in prices or production (Wang et al. but not negative biodiversity such practices are in without considering the environmental effects may be as has been for mitigation strategies promoting (Hof et al. 2018; et al. Recent evidence shows marked of water-saving and climate change mitigation strategies and biodiversity conservation in rice agroecosystems, yet the overall evidence The of this article is not to or for but to of this potential and further In for to identify and practices that minimize these outcomes as well as a explicit This the of soil and climatic and the in which alternative practices are at different spatiotemporal scales will the identification of and seasons for implementing specific irrigation to their in reducing greenhouse gas emissions while potential harm to aquatic and rice yield. such explicit with approaches that and further enhance their to In identifying areas for climate change mitigation or biodiversity conservation, across different (i.e., from to global and temporal scales (i.e., from growing to fallow the of both management and aimed at reducing the impact of rice farming on these original review and review and review and review and review and review and review and review and This was by the of the from as well as the of of and Agriculture Pérez-Méndez was a by and by the European Finally, and for their and on This was by of the of of and The no of The that support the of this study are in at",
-      "keywords": [
-        "Biodiversity",
-        "Climate change",
-        "Greenhouse gas",
-        "Harm",
-        "Climate change mitigation",
-        "Agriculture",
-        "Agricultural biodiversity",
-        "Land use",
-        "land-use change and forestry"
       ]
     },
     {
