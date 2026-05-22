@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T22:40:42.740135+00:00",
+  "generated_at": "2026-05-22T22:16:33.665089+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115488",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115488",
-      "title": "Enhancing satellite-based wildfire monitoring: An advanced framework for burn severity analysis with phenology-detrended indices",
+      "doi": "10.1016/j.rse.2026.115490",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115490",
+      "title": "Unlocking the potential of InSAR elastic loading deformation for geodetic joint inversion of terrestrial water storage changes in California",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,14 +38,65 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002580",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002609",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.017",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.017",
-      "title": "Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model",
+      "doi": "10.1016/j.rse.2026.115493",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115493",
+      "title": "Towards plastic litter identification in aquatic environments using high-resolution SAR data",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002634",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115491",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115491",
+      "title": "Assessing hyperspectral LiDAR capability for understory soil spectral retrieval and property estimation",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002610",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0034-4257(26)00267-1",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00267-1",
+      "title": "Editorial Board",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002671",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.030",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.030",
+      "title": "Linking problems with solutions: Biomass waste is where most needed to mitigate energy demand during tropical nights",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,9 +106,49 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002583",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002777",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.031",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.031",
+      "title": "Fuse only what matters: Degeneracy-aware multi-sensor fusion for LiDAR-Inertial-Visual SLAM",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002790",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115488",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115488",
+      "title": "Enhancing satellite-based wildfire monitoring: An advanced framework for burn severity analysis with phenology-detrended indices",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002580",
+      "abstract": "",
+      "keywords": [
+        "Normalized Difference Vegetation Index",
+        "Vegetation (pathology)",
+        "Statistical analysis",
+        "Natural disaster",
+        "Satellite"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.005",
@@ -66,15 +157,21 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002467",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Matching (statistics)",
+        "Image (mathematics)",
+        "Visualization",
+        "Pattern recognition (psychology)",
+        "Visual attention"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.016",
@@ -83,15 +180,49 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-21",
+      "published_date_display": "2026-05-21",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002571",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Joint (building)",
+        "Object (grammar)",
+        "Feature extraction",
+        "Feature (linguistics)",
+        "Tracking (education)",
+        "Video tracking"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.017",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.017",
+      "title": "Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-20",
+      "published_date_display": "2026-05-20",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002583",
+      "abstract": "Accurate wetland mapping is critical for ecosystem monitoring and management, yet acquiring dense pixel-level annotations is prohibitively costly. In practice, only sparse point labels are typically available. Existing deep learning-based models face significant challenges in capturing accurate wetland extents under such weak supervision, particularly when coupled with the strong seasonal dynamics of wetlands, which, meanwhile, makes single-date imagery insufficient and causing substantial omission and commission errors when mapping. Although powerful foundation models like the Segment Anything Model (SAM) provide promising generalization from point prompts, it is intrinsically designed for static natural images, resulting in spatially fragmented masks in heterogeneous wetland environments and cannot exploit satellite image time series. To address these challenges, we propose WetSAM, a novel SAM-based framework that effectively leverages satellite image time series to enhance wetland mapping from sparse point annotations. WetSAM adopts a dual-branch design: (1) The temporal branch extends SAM to learn temporal contexts from satellite image time series via hierarchical adapters and a dynamic temporal aggregation module. This branch equips SAM with the ability to capture and model temporal features of wetlands, allowing it to learn complex temporal patterns and phenological changes; (2) The spatial branch reconstructs distinct boundaries via a temporal-constrained region-growing strategy, iteratively expanding sparse points into reliable dense pseudo-labels; (3) A bidirectional consistency regularization enforces minimizing the discrepancy of the predictions from two segmentation heads of two branches. We validate the effectiveness of WetSAM across eight diverse global locations, each covering an area of around 5000 k m 2 and with various wetland types and geographical features. WetSAM reaches an average F1-score of 85.58%, considerably outperforming other state-of-the-art algorithms. Results demonstrate that WetSAM achieves accurate, structurally consistent segmentation from sparse labels. With minimal labeling effort, our framework shows strong generalization ability and holds promise for scalable, low-cost wetland mapping at high spatial resolutions.",
+      "keywords": [
+        "Satellite",
+        "Generalization",
+        "Satellite imagery",
+        "Segmentation",
+        "Time series",
+        "Series (stratigraphy)",
+        "Exploit",
+        "Regularization (linguistics)",
+        "Consistency (knowledge bases)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.027",
@@ -100,15 +231,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-20",
+      "published_date_display": "2026-05-20",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002686",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Satellite",
+        "Microwave",
+        "Evapotranspiration",
+        "Deep learning",
+        "Satellite imagery",
+        "Deep blue"
+      ]
     },
     {
       "doi": "10.1016/s0924-2716(26)00273-x",
@@ -117,8 +255,8 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date": "2026-05-20",
+      "published_date_display": "2026-05-20",
       "published_parts": [
         2026,
         7
@@ -141,7 +279,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600252X",
-      "abstract": "",
+      "abstract": "The European Space Agency’s Sea State Climate Change Initiative adopted a physical retracking algorithm to reprocess two decades of satellite altimetry measurements and provide long time series of significant wave height in the global ocean. This paper describes the main characteristics of this algorithm, called WHALES, and analyzes the impact of algorithm choices on the estimates of significant wave height, particularly the statistically weighted analysis of residuals in the cost function. Moreover, the performance of WHALES is analyzed in terms of noise level and error statistics using buoy data as reference, with a particular focus on the coastal zone. We found that valid data records increased by 30% at 5 km from the coast when switching from the standard MLE retracker to WHALES. • The WHALES algorithm estimates wave height from radar altimetry signals. • The impact of algorithm choices on measurement physics is analyzed. • Validation shows noise reduction and improved data quality in coastal zones.",
       "keywords": [
         "Altimeter",
         "Radar altimeter",
@@ -1939,7 +2077,7 @@
       "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
-        5
+        8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002257",
       "abstract": "",
@@ -5079,7 +5217,7 @@
     {
       "doi": "10.1016/j.rse.2026.115381",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115381",
-      "title": "HBiM2: A multi-angle hyperspectral soil radiative transfer model for simulating the reflectance of dry and wet soils",
+      "title": "RETRACTED: HBiM2: A multi-angle hyperspectral soil radiative transfer model for simulating the reflectance of dry and wet soils",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -11067,32 +11205,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115253",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115253",
-      "title": "Reconstructing all-weather remotely sensed air temperature via a kernel-based temporal filling and bias correction (KTF-BC) framework",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000234",
-      "abstract": "",
-      "keywords": [
-        "Ranging",
-        "Satellite",
-        "Thermal infrared",
-        "Mean squared error",
-        "Thermal",
-        "Air temperature",
-        "Cloud computing",
-        "Atmospheric correction"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2025.2611981",
       "doi_url": "https://doi.org/10.1080/13658816.2025.2611981",
       "title": "<i>SpatialCausal</i> : a spatially-aware causal inference deep learning model for out-of-hospital cardiac arrest survival prediction",
@@ -11145,28 +11257,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.012",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.012",
-      "title": "Roadside lidar-based scene understanding toward intelligent traffic perception: A comprehensive review",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000122",
-      "abstract": "",
-      "keywords": [
-        "Intelligent transportation system",
-        "Key (lock)",
-        "Feature (linguistics)",
-        "Poison control"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115244",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115244",
       "title": "Characterizing mangrove forest succession in Suriname using GEDI waveform metrics",
@@ -11190,30 +11280,6 @@
         "Canopy",
         "Lidar",
         "Structural complexity"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.020",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.020",
-      "title": "WEGLA-NormGAN: wavelet-enhanced Cycle-GAN with global-local attention for radiometric normalization of remote sensing images",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-19",
-      "published_date_display": "2026-01-19",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000201",
-      "abstract": "",
-      "keywords": [
-        "Normalization (sociology)",
-        "Radiometric dating",
-        "Consistency (knowledge bases)",
-        "Radiometry",
-        "Spatial analysis",
-        "Feature (linguistics)"
       ]
     },
     {
@@ -11645,31 +11711,6 @@
         "Atmospheric radiative transfer codes",
         "Microwave",
         "Subsurface flow"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115234",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115234",
-      "title": "AgriFM: A multi-source temporal remote sensing foundation model for Agriculture mapping",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000040",
-      "abstract": "",
-      "keywords": [
-        "Land cover",
-        "Precision agriculture",
-        "Agriculture",
-        "Field (mathematics)",
-        "Earth observation",
-        "Agricultural land",
-        "Land use"
       ]
     },
     {
@@ -12125,33 +12166,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115224",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115224",
-      "title": "Comparing the performance of different hyperspectral satellite imaging spectroscopy in mapping methane point-source emissions",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-03",
-      "published_date_display": "2026-01-03",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006285",
-      "abstract": "",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Methane",
-        "Imaging spectrometer",
-        "Satellite",
-        "Calibration",
-        "Full spectral imaging",
-        "Atmospheric methane",
-        "Spectrometer",
-        "Plume"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115227",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115227",
       "title": "Bridging the thermal gap: Generating 10 m, 3-day land surface temperature via Landsat–Sentinel-2 fusion",
@@ -12304,32 +12318,6 @@
         "Hydrology (agriculture)",
         "Photosynthesis",
         "Soil water"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115199",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115199",
-      "title": "Sentinel-1 imagery for wide-scale quantitative landslide vulnerability assessment of buildings",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-18",
-      "published_date_display": "2025-12-18",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006030",
-      "abstract": "The occurrence of landslides can potentially cause considerable economic impact on a global scale, resulting in damage to exposed structures and infrastructures, including buildings. In order to determine the most efficacious risk mitigation strategies, the scientific community is engaged in the analyses aimed at assessing the expected consequences of landslide activation/reactivation. This approach involves the implementation of quantitative risk assessment procedures, based on the definition of the landslide susceptibility and intensity, the identification of exposed elements, and the vulnerability assessment, which represents the most challenging parameter. The present work proposes an approach to the quantitative vulnerability assessment for buildings exposed to slow-kinematic landslides via empirical fragility and vulnerability curves, which express the probabilistic relationship between the damage severity to exposed buildings and the intensity of the landslide. A comprehensive database was compiled, collating information on landslide-induced damage to over four thousand buildings in the Northern Apennines of Central Italy. The landslide intensity is evaluated by exploiting the worldwide freely accessible Sentinel-1 SAR images, which have been processed by using the Parallel-Small BAseline (P-SBAS) – Differential SAR Interferometry (DInSAR) processing chain. The Institute for Electromagnetic Sensing of the Environment (IREA) of the National Research Council (CNR) of Italy is responsible for the processing of the Sentinel-1 SAR images, within the framework of an agreement with the Italian Ministry of Environment and Energy Security (MASE) for the detection and analysis of ground displacement over the entire Italian territory. The ultimate objective of the present study is the exploitation of the derived vulnerability curve into the quantitative risk assessment procedure for a comprehensive evaluation of buildings in the Northern Apennines. • A-DInSAR data derived from Sentinel-1 SAR images to define the landslide intensity. • Generation of a large database of severity damage landslides induced to buildings. • Construction of empirical fragility and vulnerability curves. • Application of vulnerability curve in quantitative risk assessment procedure.",
-      "keywords": [
-        "Landslide",
-        "Vulnerability (computing)",
-        "Vulnerability assessment",
-        "Risk assessment",
-        "Natural hazard",
-        "Quantitative assessment",
-        "Fragility",
-        "Baseline (sea)"
       ]
     },
     {
