@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T22:16:33.665089+00:00",
+  "generated_at": "2026-05-23T22:08:02.867899+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115490",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115490",
-      "title": "Unlocking the potential of InSAR elastic loading deformation for geodetic joint inversion of terrestrial water storage changes in California",
+      "doi": "10.1016/j.rse.2026.115500",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115500",
+      "title": "STaPL: Scale Transfer with Pseudo-Labelling for satellite-based mapping of agricultural practices",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,114 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002609",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002701",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.033",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.033",
+      "title": "Sparse multimodal feature fusion transformer with frequency-convolution collaboration for wildlife multi-object tracking in UAV monitoring",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002807",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.034",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.034",
+      "title": "Deviation-guided dual-model machine learning SAR coherence change detection framework for extracting changes in low-coherence areas",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002819",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.028",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.028",
+      "title": "XFuse: Multi-sensor CNN transformer fusion with cross attention and quality aware curriculum learning for high resolution fractional snow cover mapping",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002698",
+      "abstract": "",
+      "keywords": [
+        "High resolution",
+        "Transformer",
+        "Cover (algebra)",
+        "Snow",
+        "Quality (philosophy)",
+        "Deep learning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.008",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.008",
+      "title": "Early season detection of early blight (Alternaria solani) in potato crops using airborne hyperspectral imagery",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002492",
+      "abstract": "",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Blight",
+        "Growing season",
+        "Satellite imagery",
+        "Change detection"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115490",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115490",
+      "title": "Unlocking the potential of InSAR elastic loading deformation for geodetic joint inversion of terrestrial water storage changes in California",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002609",
+      "abstract": "",
+      "keywords": [
+        "Geodetic datum",
+        "Interferometric synthetic aperture radar",
+        "Inversion (geology)",
+        "Joint (building)",
+        "Hydrometeorology",
+        "Deformation (meteorology)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115493",
@@ -49,13 +154,36 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002634",
+      "abstract": "",
+      "keywords": [
+        "Identification (biology)",
+        "Aquatic ecosystem",
+        "Synthetic aperture radar",
+        "Hydrology (agriculture)",
+        "Aquatic environment"
+      ]
+    },
+    {
+      "doi": "10.1016/s0034-4257(26)00267-1",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00267-1",
+      "title": "Editorial Board",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002671",
       "abstract": "",
       "keywords": []
     },
@@ -66,32 +194,23 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002610",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/s0034-4257(26)00267-1",
-      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00267-1",
-      "title": "Editorial Board",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002671",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Understory",
+        "Lidar",
+        "Hyperspectral imaging",
+        "Canopy",
+        "Property (philosophy)",
+        "Soil carbon",
+        "Vegetation (pathology)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.030",
@@ -100,15 +219,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002777",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biomass (ecology)",
+        "Renewable energy",
+        "Energy consumption",
+        "Energy demand",
+        "Energy (signal processing)",
+        "Bioenergy"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.031",
@@ -117,15 +243,20 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002790",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Fuse (electrical)",
+        "Fusion",
+        "Sensor fusion",
+        "Simultaneous localization and mapping"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115488",
@@ -545,6 +676,29 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115455",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115455",
+      "title": "Corrigendum to “Spatiotemporal displacement and strain from multisensor remote sensing constrain the kinematics of the Baige landslide” [Remote Sensing of Environment 316 (2026) 114499]",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-16",
+      "published_date_display": "2026-05-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002257",
+      "abstract": "",
+      "keywords": [
+        "Displacement (psychology)",
+        "Kinematics",
+        "Strain (injury)",
+        "Remote sensing application",
+        "Displacement mapping"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.05.011",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.011",
       "title": "A physically-constrained Gaussian spectral decomposition framework for remote sensing estimation of chlorophyll-a and suspended matter retrieval in highly turbid coastal waters",
@@ -930,7 +1084,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002361",
-      "abstract": "",
+      "abstract": "International audience",
       "keywords": [
         "Grassland",
         "Grassland ecosystem",
@@ -2064,29 +2218,6 @@
         "Vulnerability (computing)",
         "Urbanization",
         "Psychological resilience"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115455",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115455",
-      "title": "Corrigendum to “Spatiotemporal displacement and strain from multisensor remote sensing constrain the kinematics of the Baige landslide” [Remote Sensing of Environment 316 (2026) 114499]",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-05-01",
-      "published_date_display": "2026-05-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002257",
-      "abstract": "",
-      "keywords": [
-        "Displacement (psychology)",
-        "Kinematics",
-        "Strain (injury)",
-        "Remote sensing application",
-        "Displacement mapping"
       ]
     },
     {
@@ -9040,27 +9171,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0924-2716(26)00079-1",
-      "doi_url": "https://doi.org/10.1016/s0924-2716(26)00079-1",
-      "title": "Editorial Board",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-18",
-      "published_date_display": "2026-02-18",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000791",
-      "abstract": "",
-      "keywords": [
-        "Editorial board",
-        "On board",
-        "Drawing board"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.018",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.018",
       "title": "Quantitative comparison of fine-tuning techniques for pretrained latent diffusion models in the generation of unseen SAR images",
@@ -10457,32 +10567,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.037",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.037",
-      "title": "Set-CVGL: A new perspective on cross-view geo-localization with unordered ground-view image sets",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-30",
-      "published_date_display": "2026-01-30",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000456",
-      "abstract": "",
-      "keywords": [
-        "Perspective (graphical)",
-        "Benchmark (surveying)",
-        "Set (abstract data type)",
-        "Image (mathematics)",
-        "Key (lock)",
-        "Feature (linguistics)",
-        "Feature detection (computer vision)",
-        "Satellite"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.035",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.035",
       "title": "An advanced decoupled polarimetric calibration method for the LuTan-1 hybrid- and quadrature-polarimetric modes",
@@ -10901,33 +10985,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.018",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.018",
-      "title": "Satellite-based heat Index estimatioN modEl (SHINE): An integrated machine learning approach for the conterminous United States",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-23",
-      "published_date_display": "2026-01-23",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000183",
-      "abstract": "",
-      "keywords": [
-        "Moderate-resolution imaging spectroradiometer",
-        "Land cover",
-        "Mean squared error",
-        "Index (typography)",
-        "Estimation",
-        "Shuttle Radar Topography Mission",
-        "Heat index",
-        "Satellite",
-        "Cloud cover"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.030",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.030",
       "title": "A weakly supervised approach for large-scale agricultural parcel extraction from VHR imagery via foundation models and adaptive noise correction",
@@ -11334,31 +11391,6 @@
         "Radar",
         "Regression",
         "Deep learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.008",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.008",
-      "title": "RTPSeg: A multi-modality dataset for LiDAR point cloud semantic segmentation assisted with RGB-thermal images in autonomous driving",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-16",
-      "published_date_display": "2026-01-16",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000080",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "RGB color model",
-        "Segmentation",
-        "Leverage (statistics)",
-        "Lidar",
-        "Point (geometry)",
-        "Semantic mapping"
       ]
     },
     {
@@ -12372,32 +12404,6 @@
         "Root mean square",
         "Channel (broadcasting)",
         "Thermal"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115200",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115200",
-      "title": "A novel hybrid approach for mapping global surface solar radiation with DSCOVR/EPIC: Combining deep learning with physical algorithm",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-17",
-      "published_date_display": "2025-12-17",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006042",
-      "abstract": "Surface solar radiation (SSR, also known as global radiation, R g ), is critical for Earth's energy, water, and carbon cycles, yet existing satellite-derived global R g products suffer from spatial inconsistencies due to multi-source data fusion. To address this, we propose a novel hybrid approach integrating deep learning with physical algorithms using observations from the Deep Space Climate Observatory (DSCOVR/EPIC), positioned at the Sun-Earth Lagrange-1 point and continuously observed the entire portion of the Earth with sunshine. Unlike traditional physical algorithms or machine learning algorithms, this method estimates cloud transmittance via a DenseNet-based convolutional neural network (CNN), calculates clear-sky R g using a physical parameterization scheme, and combines these to derive all-sky R g . Meanwhile, the direct and diffuse components (R dir and R dif ) are further separated from the estimated R g using a Light Gradient Boosting Machine (LightGBM) model. The method was trained with in-situ observations from the Baseline Surface Radiation Network (BSRN), and further independently evaluated against in-situ observations from three networks of the Solar Radiation (SOLRAD), China Meteorological Administration (CMA) radiation stations and Global Energy Balance Archive (GEBA). Independent evaluation demonstrates that our hybrid method exhibits excellent spatial scalability. Comparative validation against the product of Hao et al. (2020) derived from DSCOVR/EPIC observations demonstrates our method can generate more accurate global products of R g , R dir and R dif . The innovation of our method lies in integrating machine learning with physical algorithms to leverage their complementary strengths, while overcoming the limitations of high uncertainty associated with cloud optical property retrievals from DSCOVR/EPIC observations. This approach will contribute to the mapping of global spatially consistent radiation products, overcoming the limitations of geostationary and polar-orbiting satellites.",
-      "keywords": [
-        "Leverage (statistics)",
-        "Artificial neural network",
-        "Deep learning",
-        "Convolutional neural network",
-        "Gradient boosting",
-        "Boosting (machine learning)",
-        "NASA Deep Space Network",
-        "Observatory"
       ]
     },
     {
