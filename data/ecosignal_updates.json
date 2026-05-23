@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:45:25.145842+00:00",
+  "generated_at": "2026-05-23T23:41:00.746027+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/gcb.70929",
+      "doi_url": "https://doi.org/10.1111/gcb.70929",
+      "title": "Climate Change Elevates the Risk of Antibiotic Resistance in Global Surface Ocean",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
+      "published_parts": [
+        2026,
+        5,
+        23
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70929",
+      "abstract": "ABSTRACT Understanding how climate change affects antibiotic resistance genes (ARGs) and virulence factor genes (VFGs) in marine microbiomes is critical to safeguarding global health, yet a systematic, global‐scale analysis of their responses and associated health risks remains lacking. Here, we analyzed 890 surface‐ocean metagenomic samples, the largest dataset collected using a standardized sampling pipeline to date. Our analysis revealed distinct biogeographical patterns in the composition of ARGs and VFGs across spatial and temporal gradients. Using machine learning, we mapped global distributions of ARGs and VFGs across the surface ocean by leveraging their strong associations with climate‐releated environmental factors, revealing clear differences between polar and low‐latitude areas. We then quantified the community‐level antibiotic resistance risk and identified global risk zones, finding that high‐risk regions are the least extensive and occur primarily at low latitudes. Furthermore, we estimated how this risk would change under future climate scenarios, suggesting that anthropogenic climate change is projected to increase the antibiotic resistance risk index of the surface ocean by altering environmental factors, most notably carbonate concentrations. Under the SSP5‐8.5 scenario, which respresents a high greenhouse gas emissions pathway, the risk index is projected to rise across 33.0% (95% CI: 32.2%–33.5%) of the surface ocean by 2100, mainly in low‐latitude regions, driven by an increase in genes involved in antibiotic efflux, inactivation, and motility. In contrast, effective greenhouse‐gas mitigation would limit this increase to 3.7% (95% CI: 3.4%–4.1%). This study advances our understanding of how climate shapes marine antibiotic resistome and underscores the urgency of climate mitigation.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03080-8",
       "doi_url": "https://doi.org/10.1038/s41559-026-03080-8",
       "title": "Genetic rescue increases long-term fitness despite elevating putative genetic load in a male-dimorphic mite",
@@ -51,7 +69,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03080-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Genetic load",
+        "Genetic variation",
+        "Selection (genetic algorithm)",
+        "Population",
+        "Genetic diversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70353",
@@ -69,7 +93,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70353",
       "abstract": "Abstract Global environmental change is reducing ecosystems' capacity to resist and recover from disturbances, threatening ecological stability. Stability is multidimensional, encompassing resistance (initial impact), resilience (rate of recovery) and recovery (extent of return), yet these components are rarely quantified together. Kelp forests are among the world's most productive and biodiverse marine ecosystems but face increasing anthropogenic stressors, including ocean warming, overfishing and declining water quality, which may erode stability and drive phase shifts (e.g. to urchin barrens or algal turfs). We conducted a pulse‐disturbance experiment in shallow (3–5 m) subtidal kelp forests dominated by Laminaria hyperborea across four northeast Atlantic regions, with two sites nested in each. The study spanned ~9° of latitude and ~2.5°C in mean sea‐surface temperature. Following complete kelp removal in replicated large plots, disturbed areas were monitored for 6 years and compared with undisturbed reference areas. Based on known thermal tolerances, we predicted reduced resilience and recovery in warmer southern regions. Recovery followed a consistent trajectory across all regions, with high initial recruitment, rapid recovery of kelp density and canopy cover within 2 years and broader habitat structure and biomass returning within 5 to 6 years. Overall stability was high, but resilience differed regionally, with slower recovery in warmer southern regions, indicating increased vulnerability to future warming and disturbance. Synthesis . Laminaria hyperborea forests show high stability following pulse disturbance, but regional differences in resilience highlight the value of assessing multiple stability components. Future research should examine (i) resilience of associated communities, (ii) whether similar dynamics occur across the species' full range and (iii) interactions between physical disturbance and other environmental drivers. These findings advance understanding of ecological stability and provide guidance for managing and conserving ecologically and economically important kelp forest ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Kelp forest",
+        "Kelp",
+        "Habitat",
+        "Ecosystem",
+        "Climate change",
+        "Biodiversity",
+        "Biomass (ecology)",
+        "Ecological stability",
+        "Canopy",
+        "Marine protected area"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70416",
@@ -87,7 +122,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70416",
       "abstract": "Abstract Small and isolated populations quickly lose genetic diversity, which impedes their adaptability to environmental change. A powerful tool for threatened species conservation are translocations, aiming to counteract demographic and genetic risks. Concerns persist about potential risks of introducing maladaptive loci into a genetically impoverished population, as well as losing local genetic variation (i.e. genetic swamping). With limited knowledge on adaptive alleles in the wild, management recommendations are developed following genetic theory of neutral genes. We simulated biallelic alleles under directional selection with varying starting frequencies in a stochastic metapopulation model. We tested a range of gene flow rates across two release strategies in populations of different sizes. We found that following the recommendation of ≤20% gene flow, local alleles across selection pressures were typically well retained with retention rate changes of ±5% compared to no‐gene flow. Furthermore, the simulations demonstrated that, to increase genetic diversity, larger populations require lower levels of gene flow compared to smaller populations and have higher retention rates for both introduced and local alleles at low frequencies. Synthesis and Applications . Our results provide advice for the management of wild populations and the planning of translocations. Prior to this study, the understanding was deduced from genetic theory, which did not consider stochastic events included in our simulations. Our modelling showed an overall increase in genetic diversity resulting from translocations, suggesting that the introduced variation outweighs the loss of local variation.",
-      "keywords": []
+      "keywords": [
+        "Metapopulation",
+        "Threatened species",
+        "Selection (genetic algorithm)",
+        "Allele",
+        "Genetic diversity",
+        "Genetic variation",
+        "Genetic drift",
+        "Gene flow",
+        "Gene pool",
+        "Adaptability"
+      ]
     },
     {
       "doi": "10.1111/gcb.70917",
@@ -105,7 +151,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70917",
       "abstract": "ABSTRACT Forests are at the frontline of both climate and biodiversity crises: forests are fundamental to the regulation of Earth's atmospheric carbon dioxide levels, and tropical forests alone harbour over half of all terrestrial species. Consequently, forests are at the centre of global efforts to both prevent extinctions of species and sequester carbon to mitigate climate change. Most carbon sequestration initiatives do not measure how effective they are in terms of biodiversity protection, largely because it is expensive, complex and often not required. Compounding this problem is the lack of reliable biodiversity baselines, against which positive changes due to conservation and negative changes due to human pressure could be measured. The Soundscape Baselines Project is a global initiative to collect and analyse bioacoustic baselines in some of the world's remaining intact forests. The baseline data are collected using a modular system of passive acoustic monitoring and ancillary data that can be expanded and integrated with other technologies. It is managed by local teams of scientists, conservation practitioners and community members. Emphasis is on the usability of data and equipment beyond the project, community engagement and building an interconnected network of scientists across forested countries, particularly historically underexplored partnerships between tropical forest countries. In this paper, we describe the initiative and share initial results to demonstrate how the project could be used for biodiversity conservation purposes in the future and outline steps towards operationalization. We also draw a list of priority areas for additional baseline locations across remaining intact forests. We discuss how bioacoustic baselines established now and in the future will become invaluable in a rapidly changing climate and the resulting unprecedented change in Earth's forests. Establishing rigorous biodiversity baselines using bioacoustics and other technologies and approaches through collaborative science is fundamental to ground biodiversity conservation in evidence, equity and transparency.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Baseline (sea)",
+        "Citizen science",
+        "Climate change",
+        "Soundscape",
+        "Rainforest",
+        "Conservation biology",
+        "Carbon sequestration",
+        "Biodiversity conservation"
+      ]
     },
     {
       "doi": "10.1086/742352",
@@ -203,7 +259,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70389",
       "abstract": "ABSTRACT Quantifying biotic interactions at scale is critical to understanding ecosystem functions, such as plant‐pollinator interactions. Here, we demonstrate how woody plant functional traits and vegetation structure gathered with remote sensing can aid in predicting plant‐pollinator network indices from fine to broad spatial extents. We analysed 209 tropical plant‐pollinator networks, where vegetation characteristics were generated using spectral and LiDAR data. We found that pollination network structures were correlated to plant traits reflective of drought‐adaptive strategies and nutrient availability. Networks were predicted to be more nested and less specialised with increasing leaf nitrogen content. Further, relationships between leaf thickness, photosynthetic capacity, and water content indicate that networks may be more modular and less connected under arid, high‐light conditions where plants invest in water‐conserving tissues yet maintain high photosynthetic rates. Our findings reveal plant functional strategies as underlying environmental mechanisms that structure plant‐pollinator networks, paving the way to predict interactions using remote sensing.",
-      "keywords": []
+      "keywords": [
+        "Pollination",
+        "Scale (ratio)",
+        "Vegetation (pathology)",
+        "Ecology",
+        "Biology",
+        "Geography",
+        "Pollen",
+        "Cartography",
+        "Medicine"
+      ]
     },
     {
       "doi": "10.1111/ele.70397",
@@ -221,7 +287,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70397",
       "abstract": "ABSTRACT Plants employ multiple strategies to adapt to their growth environment. Characterizing key dimensions in plant trait space is important for understanding functional diversity within ecosystems. Leaf and root functional traits have been studied in the context of resource economics, but whether they covary, and through which mechanisms, is still debated. We investigated this in subtropical forests by sampling root and leaf traits on individuals of co‐existing species in two communities with different resource availability. We found largely non‐correlated variation between leaf and fine root traits both across and within communities, and a clear decoupling between leaf economic spectrum and root economic space, independent of evolutionary history. Our results suggest that leaf‐root trait relationships are shaped by an interplay between microenvironmental heterogeneity that drives decoupling and shared selection pressures promoting covariation. The interplay explains the weak observed coordination and highlights the importance of environmental context in predicting above‐ and below‐ground plant functions.",
-      "keywords": []
+      "keywords": [
+        "Trait",
+        "Decoupling (probability)",
+        "Subtropics",
+        "Tropical and subtropical moist broadleaf forests",
+        "Context (archaeology)",
+        "Resource Acquisition Is Initialization",
+        "Resource (disambiguation)",
+        "Specific leaf area",
+        "Functional ecology"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03084-4",
@@ -14967,33 +15043,6 @@
         "Global change",
         "Current (fluid)",
         "Ecosystem"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70761",
-      "doi_url": "https://doi.org/10.1111/gcb.70761",
-      "title": "Harmonizing Terrestrial Carbon Cycle Observations Over <scp>CONUS NEON</scp> Sites: Assessing the Information Contributions of Multiple Data Constraints",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-20",
-      "published_date_display": "2026-02-20",
-      "published_parts": [
-        2026,
-        2,
-        20
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70761",
-      "abstract": "ABSTRACT Accurate inventories of terrestrial carbon pools and fluxes are crucial for understanding ecosystem processes, tracking climate change impacts, and meeting the monitoring, reporting, and verification (MRV) requirements in international treaties and voluntary carbon markets. In meeting this need, the fusion of process‐based modeling, field data, and remote sensing observations has the potential to provide more accurate and precise estimates than each alone. However, as the number of data constraints on a system increases, different sources of information can interact with each other in complex ways across space, time, and processes. In this study, we undertake a value‐of‐information analysis to assess the contribution of different observations to reducing carbon cycle uncertainties across pools, fluxes, and spatial domains within the PEcAn carbon cycle data assimilation system. We used a novel block‐based Tobit Gamma Ensemble Filter to assimilate four synergistic data constraints, MODIS leaf area index, Landtrendr aboveground biomass, SMAP soil moisture, and SoilGrids soil organic C, into a process‐based ecosystem model (SIPNET) at 39 National Ecological Observatory Network sites across the contiguous United States from 2012 to 2021. Results showed that Soil and Wood C contribute most to the total C uncertainty, and not only did we greatly reduce uncertainty and residual error in the directly constrained pools, but many observations also shared information across variables and space, leading to reductions in both uncertainty and residual errors across variables and locations. These indirect constraints helped identify synergies and conflicts among data streams and across space, which provide insights for further constraining carbon inventories. Overall, soil carbon remains the largest source of uncertainty in the overall carbon budget due to both its large size and limited observational constraints.",
-      "keywords": [
-        "Carbon cycle",
-        "Terrestrial ecosystem",
-        "Soil carbon",
-        "Data assimilation",
-        "Ecosystem",
-        "Climate change",
-        "Residual",
-        "Carbon sequestration"
       ]
     },
     {
