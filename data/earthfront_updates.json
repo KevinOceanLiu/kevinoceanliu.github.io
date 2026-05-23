@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T22:42:23.879439+00:00",
+  "generated_at": "2026-05-23T22:37:24.384686+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01846-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Deforestation (computer science)",
+        "Biodiversity",
+        "Cultural heritage",
+        "Ecosystem services",
+        "China",
+        "Intact forest landscape",
+        "Sustainability",
+        "Forest ecology"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01845-4",
@@ -59,7 +68,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01845-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Poverty",
+        "Vulnerability (computing)",
+        "Harm",
+        "Operationalization",
+        "Climate change",
+        "Global warming",
+        "Global South",
+        "Extreme poverty"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01990-7",
@@ -77,7 +95,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01990-7",
       "abstract": "Abstract Metasomatized lithospheric mantle plays a critical role in the petrogenesis of CO 2 -rich magmas, which are important hosts of rare-earth element deposits. However, the relationship between the structure of the lithosphere and the global distribution of CO 2 -rich magmas remains poorly quantified. Here we analyse the locations of young (<200 million years ago) continental intraplate CO 2 -rich silicate magmas and magmatic carbonatites in conjunction with upper-mantle shear-wave velocity anomalies and lithospheric thickness estimates. Our results document systematic increases in lithospheric thickness with estimated magma CO 2 content from basanites (<5 wt% CO 2 ), which erupt through seismically slow and thin non-cratonic lithosphere, to nephelinites, melilitites and ultramafic lamprophyres, which occur within progressively faster, thicker lithosphere and, finally, to lamproites and kimberlites (<20 wt% CO 2 ), which are emplaced on thick cratonic lithosphere. Carbonatites are associated with lithospheric thicknesses similar to those of nephelinites, melilitites and ultramafic lamprophyres, implying the derivation of carbonatites from these mafic CO 2 -rich silicate magmas via liquid immiscibility and/or fractional crystallization. We illustrate our lithospheric thickness–magma type relationship using Cretaceous–Pleistocene alkaline magmatism across western North America, ultimately demonstrating how lithospheric thickness controls the global occurrence of CO 2 -rich magmas and, consequently, their associated rare-earth element deposits.",
-      "keywords": []
+      "keywords": [
+        "Lithosphere",
+        "Kimberlite",
+        "Carbonatite",
+        "Ultramafic rock",
+        "Petrogenesis",
+        "Mafic",
+        "Magmatism",
+        "Magma",
+        "Lithospheric flexure"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02661-6",
@@ -95,7 +123,17 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02661-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ocean observations",
+        "Ocean heat content",
+        "Effects of global warming on oceans",
+        "Tracking (education)",
+        "Indian ocean",
+        "Ocean current",
+        "Climate change",
+        "Global warming",
+        "Sea surface temperature"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02667-0",
@@ -113,7 +151,12 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02667-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Microplastics",
+        "Global warming",
+        "Atmospheric dynamics",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02634-9",
@@ -1537,14 +1580,24 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-05-01",
-      "published_date_display": "2026-05",
+      "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001053",
-      "abstract": "",
-      "keywords": []
+      "abstract": "<h2>Summary</h2> The Kunming-Montreal Global Biodiversity Framework calls for restoring at least 30% of degraded ecosystems by 2030, while the IPCC and IPBES emphasize restoration as central to addressing climate change and biodiversity loss. Rewilding, defined as the promotion of self-sustaining, complex ecosystems through minimal human intervention, has emerged as a prominent restoration strategy, yet its climate change mitigation potential is often underexplored. Here, we propose a climate-smart rewilding framework that explicitly integrates biodiversity recovery with climate mitigation, climate adaptation, and socio-economic considerations. Using Europe as a case study, we map potential synergies and trade-offs among carbon sequestration, ecosystem resilience to climate change, wildlife-based tourism opportunities, and the risk of livestock predator conflict. We argue that this integrative framework provides a practical basis for identifying and assessing restoration strategies that deliver multiple benefits across regional and continental scales.",
+      "keywords": [
+        "Climate change",
+        "Biodiversity",
+        "Ecosystem services",
+        "Ecosystem",
+        "Resilience (materials science)",
+        "Psychological resilience",
+        "Restoration ecology",
+        "Ecological forecasting",
+        "Climate resilience"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101705",
@@ -1653,14 +1706,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-05-01",
-      "published_date_display": "2026-05",
+      "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001077",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Blame",
+        "Forcing (mathematics)",
+        "Conceptual framework",
+        "Climate change",
+        "Empirical evidence"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101709",
