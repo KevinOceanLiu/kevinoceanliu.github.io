@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T23:41:00.746027+00:00",
+  "generated_at": "2026-05-24T23:42:15.455906+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70929",
       "abstract": "ABSTRACT Understanding how climate change affects antibiotic resistance genes (ARGs) and virulence factor genes (VFGs) in marine microbiomes is critical to safeguarding global health, yet a systematic, global‐scale analysis of their responses and associated health risks remains lacking. Here, we analyzed 890 surface‐ocean metagenomic samples, the largest dataset collected using a standardized sampling pipeline to date. Our analysis revealed distinct biogeographical patterns in the composition of ARGs and VFGs across spatial and temporal gradients. Using machine learning, we mapped global distributions of ARGs and VFGs across the surface ocean by leveraging their strong associations with climate‐releated environmental factors, revealing clear differences between polar and low‐latitude areas. We then quantified the community‐level antibiotic resistance risk and identified global risk zones, finding that high‐risk regions are the least extensive and occur primarily at low latitudes. Furthermore, we estimated how this risk would change under future climate scenarios, suggesting that anthropogenic climate change is projected to increase the antibiotic resistance risk index of the surface ocean by altering environmental factors, most notably carbonate concentrations. Under the SSP5‐8.5 scenario, which respresents a high greenhouse gas emissions pathway, the risk index is projected to rise across 33.0% (95% CI: 32.2%–33.5%) of the surface ocean by 2100, mainly in low‐latitude regions, driven by an increase in genes involved in antibiotic efflux, inactivation, and motility. In contrast, effective greenhouse‐gas mitigation would limit this increase to 3.7% (95% CI: 3.4%–4.1%). This study advances our understanding of how climate shapes marine antibiotic resistome and underscores the urgency of climate mitigation.",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Resistome",
+        "Metagenomics",
+        "Global warming",
+        "Resistance (ecology)",
+        "Antibiotic resistance",
+        "Greenhouse gas",
+        "Biodiversity"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03080-8",
