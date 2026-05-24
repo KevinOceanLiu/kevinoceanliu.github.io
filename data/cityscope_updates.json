@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T23:11:23.330244+00:00",
+  "generated_at": "2026-05-24T23:15:12.755276+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -37,15 +37,22 @@
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001192",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Increased wildfire activity in the US motivated the USDA Forest Service to update national wildfire simulation data used for risk assessment and prioritizing wildland fuel reduction programs. The update (FSim-2020 to FSim-2023) included revised data on fuels, ignition frequency, fire weather, and recalibration of the FSim model. We overlayed the new simulated fire perimeters with the most recent building footprint data to examine the change in magnitude and spatial patterns of estimated building exposure. We found that the update to FSim-2023 resulted in a 61% increase in simulated building exposure in the East, and a decline of −9% in the West compared to FSim-2020. Overall, Forest Service priorities for management investments at the 100,000-ha scale were consistent between the two simulations in the West, but less so for the East, with newer simulations suggesting that a substantially greater area would require treatments to address the same level of exposure. Fire return level analysis indicated that differences between the prior and newer simulated building exposure varied across predicted recurrence intervals and fire size. Changes in building exposure were related to increases in ignition frequency, burn probability and building counts. A potentially important finding was the overestimation of simulated building exposure compared with observed (+112% West, +790% East) for the same approximate time period. One probable cause for the overestimation was the resampling of the LANDFIRE 30 m to the FSim 270 m, which resulted in a substantial reclassification of non-burnable to burnable pixels, particularly in and around the urban interface. The study underscores the importance of continued federal investment in risk assessment technology and data to keep pace with the rapid growth in wildfire extent and severity under evolving wildfire management policy.",
+      "keywords": [
+        "Risk assessment",
+        "Resampling",
+        "Risk management",
+        "Footprint",
+        "Service (business)",
+        "Scale (ratio)"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105697",
@@ -54,15 +61,20 @@
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001210",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Tree (set theory)",
+        "Mechanism (biology)",
+        "Land use",
+        "Protection mechanism"
+      ]
     },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102458",
@@ -71,32 +83,21 @@
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000608",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107187",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107187",
-      "title": "Residential mobility as a contextual factor undermining social norms for cooperation: Multilevel analyses of community data in Japan",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004191",
-      "abstract": "",
-      "keywords": []
+      "abstract": "• Locations can be classified based on the different characteristics (the combination of temporal changes and different levels) of their accessibility. • These clusters can identify diverse needs across locations to effectively reduce access inequality. • Our work can facilitate the optimal resource allocation and support customized and flexible policy responses.",
+      "keywords": [
+        "Work (physics)",
+        "Resource allocation",
+        "Health care",
+        "Resource (disambiguation)",
+        "Healthcare policy"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107234",
@@ -105,15 +106,21 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600466X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Place attachment",
+        "Place making",
+        "World heritage",
+        "Place identity",
+        "Cultural heritage"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107244",
@@ -122,15 +129,20 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004762",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Politics",
+        "State-building",
+        "Nation-building",
+        "Capacity building"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107145",
@@ -139,15 +151,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600377X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Qualitative research",
+        "Government (linguistics)",
+        "Perspective (graphical)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00446-8",
@@ -332,7 +348,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004506",
-      "abstract": "",
+      "abstract": "• Behavioral data is central for walkability policymaking. • Data primarily used to justify tradeoffs in walkability promotion. • Cross-sectoral collaboration and data merging practices needed.",
       "keywords": [
         "Walkability",
         "Urban design",
@@ -7855,29 +7871,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107000",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107000",
-      "title": "Social economy and social innovation across diverse contexts: City-level findings from Korea, Italy, and Poland",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-20",
-      "published_date_display": "2026-03-20",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002325",
-      "abstract": "",
-      "keywords": [
-        "Social innovation",
-        "Social economy",
-        "Diversity (politics)",
-        "Social change",
-        "Knowledge economy"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105639",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105639",
       "title": "Unraveling threshold effects and hierarchical mechanisms of spatial mismatch between urban environment and subjective well-being in megacities",
@@ -9662,6 +9655,32 @@
         "Focus group",
         "Health care",
         "Public health"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.106903",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.106903",
+      "title": "Can nature-based solutions improve urban land green use efficiency? Evidence from China's National Forest City certification",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-02-25",
+      "published_date_display": "2026-02-25",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001356",
+      "abstract": "",
+      "keywords": [
+        "Certification",
+        "Rationalization (economics)",
+        "Certified wood",
+        "Restructuring",
+        "China",
+        "Empirical research",
+        "Land use",
+        "Resource (disambiguation)"
       ]
     },
     {
@@ -14675,6 +14694,32 @@
         "Government (linguistics)",
         "Big data",
         "Information privacy"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107187",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107187",
+      "title": "Residential mobility as a contextual factor undermining social norms for cooperation: Multilevel analyses of community data in Japan",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004191",
+      "abstract": "Social norms sustain community cooperation through sanctions against free riders. However, previous studies have argued that norms are ineffective for individuals who often relocate, because ostracism, a form of sanction, is not a threat to them. In addition to this individual-level effect, we investigated the possibility that residential mobility at the community level has unique effects. That is, a place with high residential mobility may create social contexts in which people anticipate others to disrespect norms, and as a result, people, including non-movers, may ignore norms (i.e., contextual effect). This study analyzed two separate large-scale survey datasets (total N = 7,597) from Japan using multilevel modeling. We consistently found that the association between perceived norms and cooperation was weaker in communities with higher mobility, including both movers and non-movers. The findings suggest that macro-level residential mobility appears to affect the social contexts that underpin norms.",
+      "keywords": [
+        "Factor (programming language)",
+        "Multilevel model",
+        "Political science",
+        "Sociology",
+        "Psychology",
+        "Economic geography",
+        "Computer science",
+        "Economics"
       ]
     },
     {
