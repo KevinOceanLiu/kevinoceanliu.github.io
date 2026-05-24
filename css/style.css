@@ -3496,7 +3496,7 @@ a.link-arrow:hover,
     right: 20px;
     bottom: 26px;
     display: block;
-    width: 72px;
+    width: 88px;
     height: auto;
 }
 
@@ -3531,11 +3531,11 @@ a.link-arrow:hover,
     .page-closing-logo {
         right: 14px;
         bottom: 24px;
-        width: 56px;
+        width: 68px;
     }
 
     .page-closing-copyright {
-        padding-right: 72px;
+        padding-right: 84px;
     }
 
     .clustrmaps-widget {
