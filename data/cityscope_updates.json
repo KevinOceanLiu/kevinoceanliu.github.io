@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T23:15:12.755276+00:00",
+  "generated_at": "2026-05-25T23:32:29.169458+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -30,6 +30,177 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.landurbplan.2026.105707",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105707",
+      "title": "The hedonic value of urban greenspaces: A three-level meta-analysis across the globe",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001313",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105696",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105696",
+      "title": "Spatio-temporal access to protected areas from Australian significant urban areas",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001209",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105709",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105709",
+      "title": "Linking street-level greenery to environmental microbial diversity: A multiscalar analysis in the Taipei metropolitan area",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001337",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102465",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102465",
+      "title": "CASTED: Calibrated anomaly-based spatial-temporal event detection framework for anomaly detection in resilience curves",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000670",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102462",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102462",
+      "title": "A mobility-based framework for measuring socio-spatial segregation in 30 U.S. metropolitan areas",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000645",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107256",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107256",
+      "title": "What drives the upcoming utopia? A mixed-methods inquiry into public acceptance of flying cars in China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004889",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107146",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107146",
+      "title": "Marry or not? Children‘s marriage decisions and parental health",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003781",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107197",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107197",
+      "title": "Can healthy city program improve health and its equalities among older adults? Empirical evidence from the China health and retirement longitudinal study (CHARLS)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004294",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107243",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107243",
+      "title": "Believable urban planning via large language model-enabled behavior modeling: A conceptual framework",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004750",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00453-9",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00453-9",
+      "title": "Bridging urban and rural futures",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        5,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00453-9",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.landurbplan.2026.105695",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105695",
@@ -5821,31 +5992,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107095",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107095",
-      "title": "Power dynamics between local governments and multi-owned properties in redevelopment for densification",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-07",
-      "published_date_display": "2026-04-07",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003276",
-      "abstract": "Densification is an established objective for urban development in cities worldwide. Sites of multi-owned properties with significant redevelopment potential are becoming prime targets for the realisation of densification policies because they offer valuable opportunities for creating additional living space. To achieve this, local governments deploy active land policies. There is, however, a limited understanding of the role of multi-owned properties as actors in densification. This study examines the power dynamics and interactions between local government and multi-owned properties in achieving densification goals, exploring how these dynamics impact the effectiveness and efficiency of land policies. We report on an empirical case study in Helsinki, Finland, to demonstrate that local governments deliberately and strategically use multi-owned properties to pursue their policy objectives by employing active land policies. Simultaneously, multi-owned properties also strategically pursue their own interests by leveraging active land policies. We argue that the interactions between the local government and multi-owned properties can be regarded as strategic partnerships. However, realizing these partnerships involves many effectiveness and efficiency challenges. • Diverse actor interests in densification call for active land policy approaches • Actors use diverse channels of influence to advance their goals • Strategic partnerships formed between local government and multi-owned properties • Power dynamics affect land policy's effectiveness and efficiency",
-      "keywords": [
-        "Redevelopment",
-        "Local government",
-        "Realisation",
-        "Government (linguistics)",
-        "Land use",
-        "Power (physics)",
-        "Empirical evidence"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107091",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107091",
       "title": "Leveraging the Transfer of Development Rights for housing retrofit financing: International insights and the opportunity for Spain",
@@ -8626,28 +8772,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106926",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106926",
-      "title": "Transit-induced gentrification in the context of urban regeneration: Evidence from East London and implications for inclusive transit-oriented development",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-12",
-      "published_date_display": "2026-03-12",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001587",
-      "abstract": "",
-      "keywords": [
-        "Gentrification",
-        "Context (archaeology)",
-        "Urban planning",
-        "Urban regeneration"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261417604",
       "doi_url": "https://doi.org/10.1177/00420980261417604",
       "title": "Emotions in the city? Emotional responses to urban wildlife and their association with urban reactive behavioral intentions during environmental and political crisis",
@@ -9655,32 +9779,6 @@
         "Focus group",
         "Health care",
         "Public health"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106903",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106903",
-      "title": "Can nature-based solutions improve urban land green use efficiency? Evidence from China's National Forest City certification",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-02-25",
-      "published_date_display": "2026-02-25",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001356",
-      "abstract": "",
-      "keywords": [
-        "Certification",
-        "Rationalization (economics)",
-        "Certified wood",
-        "Restructuring",
-        "China",
-        "Empirical research",
-        "Land use",
-        "Resource (disambiguation)"
       ]
     },
     {
@@ -14769,33 +14867,6 @@
         "History",
         "Art",
         "Visual arts"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107097",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107097",
-      "title": "From urban dynamics to intelligence: A spatiotemporal framework for cross-modal urban crowd flow management",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600329X",
-      "abstract": "",
-      "keywords": [
-        "Modal",
-        "Dynamics (music)",
-        "Flow (mathematics)",
-        "Computer science",
-        "Crowd sourcing",
-        "Geography",
-        "Data science",
-        "Sociology",
-        "Mathematics"
       ]
     },
     {
