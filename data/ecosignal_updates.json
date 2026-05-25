@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T23:42:15.455906+00:00",
+  "generated_at": "2026-05-25T23:44:00.518777+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,96 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41559-026-03054-w",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03054-w",
+      "title": "Signatures of gene transfer in the parallel evolution of osmotrophic specialization in eukaryotes",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        5,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03054-w",
+      "abstract": "Abstract Recurrent transitions in feeding strategies have shaped the eukaryotic tree of life, as unrelated groups independently evolved similar solutions to common ecological challenges. One of the most interesting yet poorly studied of these shifts is the transition towards osmotrophy. We reconstructed the evolution of four eukaryotic groups that specialized in osmotrophy through convergent evolution. Here we show that these groups arose most likely during the Tonian period (1,000–720 million years ago) or slightly before, and possess a genetic toolkit enriched in shared metabolic functions. We report signatures that are compatible with horizontal gene transfer encompassing at least 20% of this toolkit. Phylogenetic reconciliation analyses show that this fraction of the toolkit ranks in the upper percentiles for inferred horizontal gene transfers, particularly in the period in which the osmotrophic groups originated. Moreover, analyses of the total gene content using supervised phylogenetic screening identified 166 gene tree topologies that are supportive of transfer events involving distantly related eukaryotic osmotrophs. These data include transfer highways between Fungi and Pseudofungi and between Labyrinthulea and Teretosporea. Our work thus unravels the evolutionary history of four independent transitions towards specialization in osmotrophy within the eukaryotes, supporting a role of gene transfer in the evolution of these groups.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03088-0",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03088-0",
+      "title": "Reversal to osmotrophy in eukaryotes",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        5,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03088-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03060-y",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03060-y",
+      "title": "Human shielding from wolves facilitates jackal expansion across Europe",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        5,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03060-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70938",
+      "doi_url": "https://doi.org/10.1111/gcb.70938",
+      "title": "An Extreme Antarctic Event; 2025 Was Record Low Seasonal Sea Ice and Record High Iceberg Scouring",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        5,
+        25
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70938",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70401",
+      "doi_url": "https://doi.org/10.1111/ele.70401",
+      "title": "Evolution of Reproductive Plasticity in a Seasonal Tropical Environment",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        5,
+        25
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70401",
+      "abstract": "ABSTRACT Seasonality can drive the evolution of reproductive plasticity in insects. An extreme form is reproductive diapause, where individuals halt reproduction during unfavourable seasons. How diapause evolves from milder forms of plasticity (e.g., through changes in cue perception and responses) is poorly understood. In the tropics, seasonality is common, but it is unclear how widespread reproductive plasticity is, or how it correlates with dry and wet seasons. Here, we analyse reproductive plasticity in Amazonian butterflies using a four‐year monthly time series of reproductive phenotypes. Sampling nine species across four Nymphalidae subfamilies, we observe a widespread occurrence of diverse reproductive plasticity, suggesting repeated evolutionary changes in reproductive plasticity. Detailed analyses of two Catonephele species reveal a conserved cue (temperature), with species‐specific divergence of cue response (dry season diapause only in C. acontius ). Together, our data support the ubiquity of reproductive plasticity in the tropics and suggest repeated evolutionary change in diapause.",
+      "keywords": []
+    },
     {
       "doi": "10.1111/gcb.70929",
       "doi_url": "https://doi.org/10.1111/gcb.70929",
@@ -16533,31 +16623,6 @@
         "Forest structure",
         "Forest management",
         "Forest restoration"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70738",
-      "doi_url": "https://doi.org/10.1111/gcb.70738",
-      "title": "Continental Contrasts in Climate Extremes That Control Tree Fecundity",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-11",
-      "published_date_display": "2026-02-11",
-      "published_parts": [
-        2026,
-        2,
-        11
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70738",
-      "abstract": "ABSTRACT In 2023, more than half of olive harvests ( Olea europaea ) across Spain, Greece, and Türkiye were lost to drought. The same year late freeze destroyed 90% of the peach crop ( Prunus persica ) on the Georgia Piedmont and the apple crop ( Malus domestica ) in central New York, Vermont, and southern Quebec. Climate extremes now rank with the costliest threats to agriculture, but their role in forest recovery from diebacks that are happening globally is unknown for lack of tree fecundity estimates in forests. Tolerance of climate extremes could depend on past exposure but constrained by phylogenetic conservatism. We report a continental scale analysis of climate extremes and forest fecundity across North America and Europe showing that responses to late freeze and drought are happening now. Species differences are not explained by the traits typically included in ecological studies and they are weakly associated with phylogeny. Late freeze, that is, freezing temperatures that follow the onset of flower development in spring, is shown to be “normal” in North America, but not Europe, potentially explaining failed seed production due to delayed onset and the resultant shorter growing period by North American transplants dating back at least to the 18th century. Drought has thus far had the greatest impacts in dry forested regions, but here too, species differences are not explained by traditional trait values. If responses have been buffered from drought and late freeze by past exposure, acclimation and local adaptation prove inadequate as extremes intensify.",
-      "keywords": [
-        "Fecundity",
-        "Climate change",
-        "Climate extremes",
-        "Trait",
-        "Global warming",
-        "Adaptation (eye)"
       ]
     },
     {
