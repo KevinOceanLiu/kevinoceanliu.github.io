@@ -10,17 +10,17 @@
 
 :root {
     /* Colors - Codex-inspired quiet interface */
-    --primary-color: #1f2328;
+    --primary-color: #000000;
     --secondary-color: #ffffff;
     --surface-color: #ffffff;
     --surface-muted: #f6f6f4;
     --page-background: #fbfbfa;
-    --text-color: #24292f;
+    --text-color: #000000;
     --text-light: #6f7782;
     --text-muted: #8a929b;
     --border-color: #e6e5e1;
     --border-strong: #d8d7d2;
-    --accent-color: #4f6f9f;
+    --accent-color: #1a5fb4;
     
     /* Spacing */
     --spacing-xs: 0.5rem;
@@ -2340,6 +2340,7 @@ a.link-arrow:hover {
     font-weight: 560;
     padding: 8px 12px;
     border-radius: 999px;
+    text-decoration: none;
 }
 
 .nav-menu a:hover,
@@ -2484,7 +2485,7 @@ a.link-arrow:hover {
 .cv-line-section h2,
 .cv-line-section h3,
 .cv-subtitle {
-    color: #1f2328;
+    color: #000000;
     font-weight: 650;
 }
 
@@ -2544,14 +2545,15 @@ button:focus-visible {
 .journal-entry a,
 a {
     color: var(--accent-color);
-    text-decoration-color: rgba(79, 111, 159, 0.38);
+    text-decoration-line: underline;
+    text-decoration-color: currentColor;
     text-underline-offset: 3px;
 }
 
 .cv-line-section a:hover,
 .journal-entry a:hover,
 a:hover {
-    color: #3b557c;
+    color: #0f4c91;
     text-decoration-color: currentColor;
 }
 
@@ -2628,7 +2630,7 @@ a:hover {
 }
 
 .publication-text-list a {
-    text-decoration: none;
+    text-decoration-line: underline;
 }
 
 .publication-citation-row {
@@ -2744,7 +2746,7 @@ a:hover {
 }
 
 .journal-label {
-    color: #1f2328;
+    color: #000000;
     font-weight: 650;
 }
 
