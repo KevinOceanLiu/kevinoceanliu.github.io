@@ -883,13 +883,13 @@ body {
 }
 
 .journal-entry a {
-    color: rgb(82, 115, 197);
+    color: var(--accent-color);
     text-decoration: underline;
-    text-decoration-color: rgb(82, 115, 197);
+    text-decoration-color: currentColor;
 }
 
 .journal-entry a:hover {
-    color: rgb(58, 88, 160);
+    color: #0f4c91;
 }
 
 .journal-status {
@@ -2737,12 +2737,17 @@ a:hover {
 .journal-simple-header p,
 .journal-status,
 .journal-entry p,
-.journal-entry a,
 .journal-tag,
 .journal-tag-value {
     color: var(--text-color);
     font-size: 15px;
     line-height: 1.72;
+}
+
+.journal-entry a {
+    color: var(--accent-color);
+    text-decoration-line: underline;
+    text-decoration-color: currentColor;
 }
 
 .journal-label {
@@ -3722,6 +3727,19 @@ select {
 .clustrmaps-widget > * {
     position: static;
     transform: none;
+}
+
+.journal-entry-title-line a,
+.journal-entry-title-line a:visited {
+    color: var(--accent-color);
+    text-decoration-line: underline;
+    text-decoration-color: currentColor;
+}
+
+.journal-entry-title-line a:hover,
+.journal-entry-title-line a:focus-visible {
+    color: #0f4c91;
+    text-decoration-color: currentColor;
 }
 
 /* ====================
