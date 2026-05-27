@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T22:55:05.851927+00:00",
+  "generated_at": "2026-05-27T23:04:30.190540+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01855-2",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01855-2",
+      "title": "Widespread range contraction of carnivores in protected areas of China",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        5,
+        27
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01855-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01837-4",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01837-4",
+      "title": "Upcycling of plastic garbage bags to graphene@silica fabric for sensing platforms",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        5,
+        27
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01837-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02644-7",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02644-7",
+      "title": "Leveraging agency for climate change mitigation",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        5,
+        27
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02644-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01857-0",
       "doi_url": "https://doi.org/10.1038/s41893-026-01857-0",
       "title": "The long environmental shadow of war",
@@ -41,7 +95,12 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01857-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Shadow (psychology)",
+        "Government (linguistics)",
+        "Sustainable development",
+        "Sustainability"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01998-z",
