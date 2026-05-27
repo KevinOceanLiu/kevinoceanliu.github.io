@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:08:02.867899+00:00",
+  "generated_at": "2026-05-26T22:38:57.820515+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115500",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115500",
-      "title": "STaPL: Scale Transfer with Pseudo-Labelling for satellite-based mapping of agricultural practices",
+      "doi": "10.1016/j.rse.2026.115492",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115492",
+      "title": "Unveiling forest vertical structure across China through stratified effective plant area index using extensive UAV LiDAR and multi-source remote sensing data",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,43 +38,220 @@
         2026,
         9
       ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002622",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.018",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.018",
+      "title": "Theoretical Methods and Practical Applications of Control-Free High-Precision Positioning for Satellite Imagery Aided by Optical Axis Measurement Data",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002595",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115457",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115457",
+      "title": "Augmented community microwave emission model to simulate multi-frequency passive microwave satellite observations over frozen ground",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002270",
+      "abstract": "",
+      "keywords": [
+        "Satellite",
+        "Microwave",
+        "Selection (genetic algorithm)",
+        "Set (abstract data type)",
+        "Atmospheric model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115484",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115484",
+      "title": "Actual photosynthetic yield retrieval based on canopy reflectance: The role of co-varying, red-shifted absorbance behaviour",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002543",
+      "abstract": "• Scoring system of PLSR was used to explore spectral drivers of photosynthetic traits. • Green and red-edge canopy spectra reflect actual photosynthetic efficiency. • Multiple green and red peaks co-vary with QY and NPQ across experiments and species. • Pigment broadening effects may underly actual photosynthetic traits. • Statistical models may help with physical interpretation of quenching behaviour.",
+      "keywords": [
+        "Canopy",
+        "Photosynthesis",
+        "Absorbance",
+        "Photosynthetic pigment",
+        "Yield (engineering)",
+        "Spectral line"
+      ]
+    },
+    {
+      "doi": "10.1080/13658816.2026.2663362",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2663362",
+      "title": "Universal representation learning of geographic knowledge graph by jointly embedding instances and ontology concepts",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        5,
+        25
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2663362",
+      "abstract": "",
+      "keywords": [
+        "Embedding",
+        "Ontology",
+        "Knowledge graph",
+        "Knowledge representation and reasoning",
+        "Representation (politics)",
+        "Graph",
+        "Feature learning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.020",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.020",
+      "title": "Towards generalized spaceborne SAR ship detection via Fourier-based perturbation augmentation and quality-aware invariance learning",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002613",
+      "abstract": "",
+      "keywords": [
+        "Synthetic aperture radar",
+        "Adaptability",
+        "Robustness (evolution)",
+        "Perturbation (astronomy)",
+        "Detector",
+        "Generalization",
+        "Boosting (machine learning)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.036",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.036",
+      "title": "STAR-IOD: Scale-decoupled topology alignment with pseudo-label refinement for Remote Sensing Incremental Object Detection",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002832",
+      "abstract": "",
+      "keywords": [
+        "Object detection",
+        "Object (grammar)",
+        "Topology (electrical circuits)",
+        "Remote sensing application",
+        "Object based"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.032",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.032",
+      "title": "Geographically-weighted weakly supervised Bayesian High-Resolution Transformer for 200 m resolution pan-Arctic sea ice concentration mapping and uncertainty estimation using Sentinel-1, RCM, and AMSR2 data",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002789",
+      "abstract": "",
+      "keywords": [
+        "Sea ice",
+        "Bayesian probability",
+        "High resolution",
+        "Transformer",
+        "Resolution (logic)",
+        "Bayes estimator"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.023",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.023",
+      "title": "Beyond single and earthbound: Exploring multi-image grounding in remote sensing with Large Vision-Language Models",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-25",
+      "published_date_display": "2026-05-25",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002649",
+      "abstract": "",
+      "keywords": [
+        "Task (project management)",
+        "Field (mathematics)",
+        "Domain (mathematical analysis)",
+        "Perception",
+        "Ground",
+        "Interpretation (philosophy)",
+        "Object detection",
+        "Generalizability theory"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115500",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115500",
+      "title": "STaPL: Scale Transfer with Pseudo-Labelling for satellite-based mapping of agricultural practices",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
+      "published_parts": [
+        2026,
+        9
+      ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002701",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.05.033",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.033",
-      "title": "Sparse multimodal feature fusion transformer with frequency-convolution collaboration for wildlife multi-object tracking in UAV monitoring",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002807",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.05.034",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.034",
-      "title": "Deviation-guided dual-model machine learning SAR coherence change detection framework for extracting changes in low-coherence areas",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002819",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Scale (ratio)",
+        "Agriculture",
+        "Transfer (computing)",
+        "Technology transfer",
+        "Precision agriculture"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.028",
@@ -90,7 +267,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002698",
-      "abstract": "",
+      "abstract": "Accurate fractional snow cover (FSC) mapping requires combining the complementary strengths of optical imagery (spectral discrimination) and Synthetic Aperture Radar (all-weather capability). Yet existing fusion approaches employ simplistic concatenation strategies that fail to capture complex inter-modal relationships, while taking into account the resolution mismatch between high-resolution inputs and coarse reference labels. This paper introduces XFuse , a hybrid CNN-Transformer architecture that addresses these challenges through three key contributions: (1) bidirectional cross-attention fusion that explicitly models SAR-optical interdependencies via query-key–value transformations, enabling each modality to selectively attend to complementary information from the other; (2) a multi-resolution training strategy ( 10 m → 60 m → 10 m ) that fuses Sentinel-1/2 features at native resolution, aggregates to 60 m for supervision against Gap-Filled Fractional Snow Cover (GFSC) labels, and disaggregates through guided upsampling to restore fine spatial structure at 10 m ; and (3) quality-aware curriculum learning that incorporates multi-source metadata (cloud masks, atmospheric parameters, quality control flags) through adaptive loss weighting, enabling robust training from heterogeneous satellite data while providing calibrated uncertainty estimates. Evaluation on 29 Sentinel-1/2 tiles from Northern Finland (18,117 test patches from 4 geographically unseen tiles) demonstrates state-of-the-art performance: 13.77% MAE and 94.66% classification accuracy, representing 38.7% MAE reduction over the best baseline. Ablation studies confirm cross-attention as the largest individual contributor (5.16 percentage point accuracy gain), while uncertainty quantification achieves excellent calibration (ECE=0.025). The methodology generalizes to earth observation applications requiring fusion of heterogeneous multi-resolution satellite data",
       "keywords": [
         "High resolution",
         "Transformer",
@@ -98,6 +275,31 @@
         "Snow",
         "Quality (philosophy)",
         "Deep learning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.033",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.033",
+      "title": "Sparse multimodal feature fusion transformer with frequency-convolution collaboration for wildlife multi-object tracking in UAV monitoring",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002807",
+      "abstract": "",
+      "keywords": [
+        "Tracking (education)",
+        "Feature (linguistics)",
+        "Transformer",
+        "Fusion",
+        "Sensor fusion",
+        "Feature tracking",
+        "Feature extraction"
       ]
     },
     {
@@ -121,6 +323,30 @@
         "Growing season",
         "Satellite imagery",
         "Change detection"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.034",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.034",
+      "title": "Deviation-guided dual-model machine learning SAR coherence change detection framework for extracting changes in low-coherence areas",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002819",
+      "abstract": "",
+      "keywords": [
+        "Change detection",
+        "Coherence (philosophical gambling strategy)",
+        "Pattern recognition (psychology)",
+        "Synthetic aperture radar",
+        "Feature extraction",
+        "Support vector machine"
       ]
     },
     {
@@ -9483,33 +9709,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.010",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.010",
-      "title": "Gait-Aware quadruped 3D mapping in challenging environments with complex terrain",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-12",
-      "published_date_display": "2026-02-12",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000614",
-      "abstract": "",
-      "keywords": [
-        "Odometry",
-        "Simultaneous localization and mapping",
-        "Robustness (evolution)",
-        "Terrain",
-        "Inertial measurement unit",
-        "Trajectory",
-        "Lidar",
-        "Robot",
-        "A priori and a posteriori"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2617563",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2617563",
       "title": "Referencing, Internalizing, or Activating Knowledge: A Comparative Analysis of Strategies for Enhancing LLM Performance in Cartography",
@@ -9838,29 +10037,6 @@
         "Identification (biology)",
         "Matching (statistics)",
         "Data collection"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.006",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.006",
-      "title": "A near-real-time multi-temporal polarimetric InSAR method for landslides monitoring in rapid-decorrelation scenarios",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-09",
-      "published_date_display": "2026-02-09",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000572",
-      "abstract": "",
-      "keywords": [
-        "Interferometric synthetic aperture radar",
-        "Landslide",
-        "Synthetic aperture radar",
-        "Polarimetry",
-        "Deformation monitoring"
       ]
     },
     {
@@ -10465,34 +10641,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.038",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.038",
-      "title": "Multi-object tracking of vehicles and anomalous states in remote sensing videos: Joint learning of historical trajectory guidance and ID prediction",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-31",
-      "published_date_display": "2026-01-31",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000468",
-      "abstract": "",
-      "keywords": [
-        "Discriminative model",
-        "Robustness (evolution)",
-        "Vehicle tracking system",
-        "Trajectory",
-        "Optical flow",
-        "Cluster analysis",
-        "Video tracking",
-        "Encoder",
-        "Deep learning",
-        "Consistency (knowledge bases)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.032",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.032",
       "title": "Monitoring snow cover dynamics at 30-m resolution in higher latitude regions using Harmonized Landsat Sentinel-2",
@@ -11063,32 +11211,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.029",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.029",
-      "title": "PANet: A multi-scale temporal decoupling network and its high-resolution benchmark dataset for detecting pseudo changes in cropland non-agriculturalization",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-22",
-      "published_date_display": "2026-01-22",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000298",
-      "abstract": "",
-      "keywords": [
-        "Temporal database",
-        "Change detection",
-        "Benchmark (surveying)",
-        "Entropy (arrow of time)",
-        "Limiting",
-        "Decoupling (probability)",
-        "Focus (optics)",
-        "Time series"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.017",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.017",
       "title": "Knowledge distillation with spatial semantic enhancement for remote sensing object detection",
@@ -11394,33 +11516,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.022",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.022",
-      "title": "RECREATE: Supervised contrastive learning and inpainting based hyperspectral image denoising",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-16",
-      "published_date_display": "2026-01-16",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000225",
-      "abstract": "",
-      "keywords": [
-        "Inpainting",
-        "Hyperspectral imaging",
-        "Noise reduction",
-        "Feature (linguistics)",
-        "Robustness (evolution)",
-        "Pattern recognition (psychology)",
-        "Noise (video)",
-        "Benchmark (surveying)",
-        "Image denoising"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2601312",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2601312",
       "title": "Valorizing the Beach, Devaluing the People: Racial Capitalism and Coastal Development in Asbury Park, New Jersey",
@@ -11522,31 +11617,6 @@
         "Vegetation (pathology)",
         "Normalized Difference Vegetation Index",
         "Image resolution"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115235",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115235",
-      "title": "Introduction to a 45-year (1979–2023) global daily snow cover fraction product from multiple AVHRR satellites with accuracy assessment",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-14",
-      "published_date_display": "2026-01-14",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000052",
-      "abstract": "",
-      "keywords": [
-        "Snow cover",
-        "Snow",
-        "Satellite",
-        "Fraction (chemistry)",
-        "Product (mathematics)",
-        "Cover (algebra)",
-        "Radiometry"
       ]
     },
     {
@@ -11697,28 +11767,6 @@
         "Government (linguistics)",
         "Field (mathematics)",
         "Capitalism"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115237",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115237",
-      "title": "A large-scale framework for deriving tidal flat topography from SWOT data",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-10",
-      "published_date_display": "2026-01-10",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000076",
-      "abstract": "",
-      "keywords": [
-        "SWOT analysis",
-        "Tidal flat",
-        "Synthetic aperture radar",
-        "Ocean surface topography"
       ]
     },
     {
@@ -12479,31 +12527,6 @@
         "Sensor fusion",
         "Temporal resolution",
         "Satellite image"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115166",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115166",
-      "title": "Performance assessment of canopy gap fraction retrieval using multiple airborne LiDAR instrument configurations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-09",
-      "published_date_display": "2025-12-09",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572500570X",
-      "abstract": "",
-      "keywords": [
-        "Lidar",
-        "Canopy",
-        "Vegetation (pathology)",
-        "Mean squared error",
-        "Tree canopy",
-        "Satellite",
-        "Calibration"
       ]
     },
     {
