@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T22:38:57.820515+00:00",
+  "generated_at": "2026-05-27T22:51:22.057224+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-26",
+      "published_date_display": "2026-05-26",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002622",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Lidar",
+        "Leaf area index",
+        "China",
+        "Scale (ratio)",
+        "Index (typography)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.018",
@@ -49,15 +55,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-26",
+      "published_date_display": "2026-05-26",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002595",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Satellite imagery",
+        "Satellite",
+        "Image processing",
+        "Reflectivity",
+        "Earth observation satellite",
+        "Photogrammetry"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115457",
@@ -194,7 +207,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002789",
-      "abstract": "",
+      "abstract": "Although high-resolution mapping of pan-Arctic sea ice with reliable corresponding uncertainty is essential for operational sea ice concentration (SIC) charting, it is a difficult task due to the subtle nature of ice signature features, inexact SIC labels, model uncertainty, and data heterogeneity. This study presents a novel Bayesian High-Resolution Transformer approach for 200-meter resolution pan-Arctic SIC mapping and uncertainty quantification using Sentinel-1, RADARSAT Constellation Mission (RCM), and Advanced Microwave Scanning Radiometer 2 (AMSR2) data. First, we design a high-resolution Transformer with global and local modules to better detect subtle sea ice features. Second, to address low-resolution, inexact SIC labels, we introduce a geographically weighted weakly supervised loss that trains at the region level rather than pixel level, prioritizing pure open water and ice pack signatures while mitigating the impact of ambiguity in the marginal ice zone. Third, we design a Bayesian extension of the proposed Transformer that treats model parameters as random variables to better quantify epistemic uncertainty. Fourth, we fuse the three data sources (Sentinel-1, RCM, and AMSR2) at the decision level to provide pan-Arctic SIC and uncertainty maps. The proposed approach is evaluated under pan-Arctic minimum-extent and melt season conditions in 2021 and 2025. Our model achieves high-resolution SIC maps with up to 200-meter spatial resolution, 0.70 overall feature detection accuracy using Sentinel-1 data, and preservation of pan-Arctic SIC patterns (Sentinel-1 R 2 = 0.90 relative to the ARTIST Sea Ice product). Compared with alternative uncertainty quantification approaches, our Bayesian Transformer exhibits robust uncertainty estimates, with the lowest standard deviations ranging from 0.01% to 0.33% using Sentinel-1 data.",
       "keywords": [
         "Sea ice",
         "Bayesian probability",
