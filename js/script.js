@@ -86,6 +86,7 @@ const homeTranslations = {
         pageTitle: '刘海洋 - 个人主页',
         navHome: '首页',
         navPublications: '学术论文',
+        navNews: '我的新闻',
         navOthers: '其它',
         researchTitle: '研究方向',
         researchLandscape: '景观生态学',
@@ -94,15 +95,15 @@ const homeTranslations = {
         researchSpatial: '空间理论与方法',
         educationTitle: '教育背景',
         degreeBs: '<strong>本科</strong>',
-        educationBs: '山西大学，太原 / 环境与资源学院 / 自然地理与资源环境',
+        educationBs: '<a href="https://www.sxu.edu.cn/" target="_blank" rel="noreferrer">山西大学</a>，太原 / 环境与资源学院 / 自然地理与资源环境',
         degreeMs: '<strong>硕士</strong>',
-        educationMs: '中国科学院大学，北京、成都 / 成都生物研究所 / 生物与医药（景观生态学与恢复生态学）',
+        educationMs: '<a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer">中国科学院大学</a>，北京、成都 / 成都生物研究所 / 生物与医药（景观生态学与恢复生态学）',
         degreeRa: '<strong>科研助理</strong>',
-        educationRa: '香港理工大学深圳研究院科研助理',
+        educationRa: '<a href="https://www.polyu.edu.hk/" target="_blank" rel="noreferrer">香港理工大学</a>深圳研究院科研助理',
         degreePhd: '<strong>博士</strong>',
-        educationPhd: '北海道大学，札幌、名寄 / 环境科学院 / 森林野外科学',
+        educationPhd: '<a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noreferrer">北海道大学</a>，札幌、名寄 / 环境科学院 / 森林野外科学',
         degreeVisiting: '<strong>访学</strong>',
-        educationVisiting: '澳大利亚科廷大学 / 设计与建成环境学院',
+        educationVisiting: '澳大利亚<a href="https://www.curtin.edu.au/" target="_blank" rel="noreferrer">科廷大学</a> / 设计与建成环境学院',
         degreeMembership: '<strong>成员</strong>',
         educationMembership: '科廷大学地理空间智能实验室成员',
         conferenceTitle: '学术会议',
@@ -133,6 +134,7 @@ const homeTranslations = {
         pageTitle: '劉 海洋 - 個人サイト',
         navHome: 'ホーム',
         navPublications: '研究業績',
+        navNews: 'ニュース',
         navOthers: 'その他',
         researchTitle: '研究関心',
         researchLandscape: '景観生態学',
@@ -141,15 +143,15 @@ const homeTranslations = {
         researchSpatial: '空間理論と方法',
         educationTitle: '学歴',
         degreeBs: '<strong>学士</strong>',
-        educationBs: '山西大学，太原 / 環境資源学院 / 自然地理・資源環境',
+        educationBs: '<a href="https://www.sxu.edu.cn/" target="_blank" rel="noreferrer">山西大学</a>，太原 / 環境資源学院 / 自然地理・資源環境',
         degreeMs: '<strong>修士</strong>',
-        educationMs: '中国科学院大学，北京・成都 / 成都生物研究所 / 生物・医薬（景観生態学・復元生態学）',
+        educationMs: '<a href="https://www.ucas.ac.cn/" target="_blank" rel="noreferrer">中国科学院大学</a>，北京・成都 / 成都生物研究所 / 生物・医薬（景観生態学・復元生態学）',
         degreeRa: '<strong>リサーチアシスタント</strong>',
-        educationRa: '香港理工大学深圳研究院 リサーチアシスタント',
+        educationRa: '<a href="https://www.polyu.edu.hk/" target="_blank" rel="noreferrer">香港理工大学</a>深圳研究院 リサーチアシスタント',
         degreePhd: '<strong>博士課程</strong>',
-        educationPhd: '北海道大学，札幌・名寄 / 環境科学院 / 森林圏フィールド科学',
+        educationPhd: '<a href="https://www.global.hokudai.ac.jp/" target="_blank" rel="noreferrer">北海道大学</a>，札幌・名寄 / 環境科学院 / 森林圏フィールド科学',
         degreeVisiting: '<strong>訪問研究</strong>',
-        educationVisiting: 'オーストラリア・カーティン大学 / School of Design and the Built Environment',
+        educationVisiting: 'オーストラリア・<a href="https://www.curtin.edu.au/" target="_blank" rel="noreferrer">カーティン大学</a> / School of Design and the Built Environment',
         degreeMembership: '<strong>所属</strong>',
         educationMembership: 'カーティン大学 Geospatial Intelligence Lab メンバー',
         conferenceTitle: '学会発表',
@@ -222,7 +224,11 @@ if (homeLanguageButtons.length) {
 const citationCount = document.querySelector('#citation-count');
 
 if (citationCount) {
-    fetch('data/citations.json', { cache: 'no-store' })
+    const citationDataPath = window.location.pathname.includes('/pages/')
+        ? '../data/citations.json'
+        : 'data/citations.json';
+
+    fetch(citationDataPath, { cache: 'no-store' })
         .then((response) => {
             if (!response.ok) {
                 throw new Error(`Failed to load citations: ${response.status}`);
@@ -233,10 +239,10 @@ if (citationCount) {
             const citations = Number(data.citations);
             citationCount.textContent = Number.isFinite(citations)
                 ? citations.toLocaleString('en-US')
-                : 'N/A';
+                : '暂无数据';
         })
         .catch((error) => {
-            citationCount.textContent = 'N/A';
+            citationCount.textContent = '暂无数据';
             console.error(error);
         });
 }
