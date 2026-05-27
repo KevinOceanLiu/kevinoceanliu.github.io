@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T23:33:50.988856+00:00",
+  "generated_at": "2026-05-27T23:38:30.376368+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,26 +31,26 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107245",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107245",
-      "title": "Ensuring fairness in distribution in land readjustment project areas with different development rights: Parcel specific deduction rate principle",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
+      "doi": "10.1016/j.compenvurbsys.2026.102460",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102460",
+      "title": "Sensitivity-driven parameter optimization for the G2SFCA using response surface methodology",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
       "published_date": "2026-09-01",
       "published_date_display": "2026-09",
       "published_parts": [
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004774",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000621",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107165",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107165",
-      "title": "Climate anxiety among middle-aged and older city dwellers: Multi-city quantification and stratification by demographic, socioeconomic, and contextual factors",
+      "doi": "10.1016/j.cities.2026.107254",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107254",
+      "title": "The impact of public lighting quality on residents' safety perceptions in Brazilian cities",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -60,14 +60,14 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003975",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004865",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107152",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107152",
-      "title": "Assessing resilience of urban bike-sharing systems: Weather and land-use influences on demand dynamics",
+      "doi": "10.1016/j.cities.2026.107252",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107252",
+      "title": "Source/sink-centric mobility cube analytic framework to discover multi-level urban mobility patterns",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -77,8 +77,147 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003847",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004841",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107260",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107260",
+      "title": "Greening-related governance actions enhance vegetation greenness in urbanizing regions: Evidence from Chinese cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004920",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107253",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107253",
+      "title": "From charging bottlenecks to resilient cities: Can the Battery-as-a-Service model bridge Europe's mobility and energy transitions?",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004853",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107266",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107266",
+      "title": "Explainable machine learning for urban housing prices: Policy relevant diagnostics across three cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004981",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107202",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107202",
+      "title": "Compact 15-minute cities exhibit lower carbon intensity in urban transport",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004348",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107255",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107255",
+      "title": "A spatial planning framework for vertiport siting for urban air mobility systems",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004877",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261446569",
+      "doi_url": "https://doi.org/10.1177/00420980261446569",
+      "title": "‘Forced cultivation?’: Faces of acceleration in Polish community gardens",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        5,
+        27
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261446569",
+      "abstract": "Community gardens are often projected as alternatives to individualism, neoliberalism and social acceleration. We interrogate these imaginaries through the practicalities of gardening, particularly gardeners’ relationships with soil, by focusing on the disjunctive temporalities of community gardens in Poland. Specifically, we explore how these gardens promote ‘forced cultivation’, understood as culturally and politically motivated interferences with ecological temporalities. Through this agricultural metaphor, we explore three faces of acceleration in community gardens: catching up with the West, out-of-sync institutional temporality and sped-up soil cultivation. The findings show that in most gardens, a linear historicity of modernisation is perpetuated; project temporalities often clash with the rhythms of vegetation, and soil is invisibilised and imported from elsewhere in order to deliver some of the promises gardens make. Our analysis of community gardens’ timescape reveals the paradoxical mechanisms whereby productivist anthropocentric logics colonise the very processes that were meant to counteract them.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261448667",
+      "doi_url": "https://doi.org/10.1177/00420980261448667",
+      "title": "Impacts of flood zoning policies on housing markets: Evidence from the national flood insurance program",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        5,
+        27
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261448667",
+      "abstract": "Floods pose significant threats in the United States, and the National Flood Insurance Program uses Special Flood Hazard Area (SFHA) designations to guide regulations intended to reduce flood damage. Yet the effect of SFHA regulation on housing markets is difficult to identify because floodplain status is correlated with flood risk and unobserved amenities. This study estimates SFHA policy effects on assessed housing values by combining parcel-level flood risk data, property-level housing information, and Federal Emergency Management Agency (FEMA) SFHA boundaries in Texas. Using a regression discontinuity (RD) design, we compare single-family homes just inside and just outside invariant SFHA boundaries to better separate local policy effects from flood risk and other confounding factors. Relative to a standard hedonic model, the RD analysis yields different estimates. The hedonic model suggests lower assessed values for coastal-county properties inside floodplains and no significant effect inland. In contrast, the RD estimates show no significant boundary effect in coastal counties and about a 2% assessed-value premium for homes inside SFHAs in inland counties. These findings suggest that assessed valuations do not consistently capitalize flood-zone designation and associated regulations, although they do not necessarily imply the same pattern for transaction prices.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261446373",
+      "doi_url": "https://doi.org/10.1177/00420980261446373",
+      "title": "A multilevel analysis of pupils’ travel distance to primary school: Simultaneously modelling origins and destinations",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        5,
+        27
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261446373",
+      "abstract": "Understanding children’s travel distance to school is essential for promoting educational equity and well-being. In China, the hukou (household registration) system, which regulates access to education and other public services by place of official registration, shapes the distribution of educational resources. Yet little research has examined school travel distance in this context or the individual and contextual sources of its variation. This study employs nested and cross-classified multilevel models to analyse how individual and contextual factors affect pupils’ travel distances, as well as exploring interactions between these factors, and link these findings to hukou-based enrolment. By simultaneously considering multiple geographies, this study reveals that children’s travel distance is shaped by both individual-level factors and contextual-level determinants at both origins and destinations. Individual and contextual variables are not isolated in this process, with hukou status as a key individual factor, school type mediating the relationship between hukou and travel distance, and a cross-level interaction also existing between neighbourhood population density and hukou status. Those findings indicate that hukou-based school enrolment plays an important role in shaping pupils’ travel distances, making reform of related enrolment policies a priority for advancing educational equity and guiding future planning.",
       "keywords": []
     },
     {
@@ -96,8 +235,87 @@
         26
       ],
       "link": "https://www.nature.com/articles/s44284-026-00447-7",
+      "abstract": "Cities are central to economic development, climate adaptation and social stability, yet globally consistent evidence on how city populations are changing remains limited. Here we analyze annual age- and sex-structured population estimates for more than 10,000 cities worldwide from 2000 to 2020 and show that urban demographic change was highly uneven. Globally, the ratio of children and older adults to working-age adults declined from 0.87 to 0.59, but smaller cities remained consistently younger than larger cities, especially in Africa. We also find pronounced spatial variation in urban sex ratios, including strong male surpluses in parts of the Middle East and North Africa, consistent with patterns of labor migration. Finally, we estimate that 45% of urban population growth was attributable to net migration and 55% to natural increase. These results show that national averages can obscure substantial differences between cities, and highlight the value of globally consistent city-level demographic estimates for understanding regional demographic change and informing locally tailored urban planning. Evidence on how urban populations change is still limited worldwide. By examining 10,000 cities, this study uncovers uneven patterns in age, sex and migration, underscoring the importance of detailed, city-level data.",
+      "keywords": [
+        "Net migration rate",
+        "Demographic change",
+        "Population",
+        "Divergence (linguistics)",
+        "Internal migration",
+        "Population growth",
+        "Urbanization",
+        "Climate change",
+        "Spatial ecology"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107245",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107245",
+      "title": "Ensuring fairness in distribution in land readjustment project areas with different development rights: Parcel specific deduction rate principle",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-26",
+      "published_date_display": "2026-05-26",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004774",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Valuation (finance)",
+        "Distribution (mathematics)",
+        "Land development",
+        "Development (topology)",
+        "Contingent valuation",
+        "Urban planning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107165",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107165",
+      "title": "Climate anxiety among middle-aged and older city dwellers: Multi-city quantification and stratification by demographic, socioeconomic, and contextual factors",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-26",
+      "published_date_display": "2026-05-26",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003975",
+      "abstract": "",
+      "keywords": [
+        "Anxiety",
+        "Climate change",
+        "Population",
+        "Stratification (seeds)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107152",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107152",
+      "title": "Assessing resilience of urban bike-sharing systems: Weather and land-use influences on demand dynamics",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-26",
+      "published_date_display": "2026-05-26",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003847",
+      "abstract": "",
+      "keywords": [
+        "Resilience (materials science)",
+        "Psychological resilience",
+        "Dynamics (music)",
+        "Urban resilience",
+        "System dynamics"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00453-9",
@@ -165,7 +383,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001209",
-      "abstract": "",
+      "abstract": "There are many positive effects of the natural environment on human health and wellbeing. These benefits are closely linked to people’s accessibility to protected areas like National Parks. In this study, we quantified spatial and temporal relationships between the extent of protected areas in, and adjacent to, significant urban areas (SUAs) in Australia, the populations of SUAs, and the network service area of connecting SUAs with protected areas between 2001 and 2024. To evaluate the accessibility of SUAs to protected areas, we developed a gravity-based accessibility index using a network analysis approach. The Gravity Index is a relative measure of attractiveness of a protected area in terms of the distance that needs to be travelled to access it, and the level of possible “congestion” placed on it from the population of the surrounding network service area. SUAs with a high value for the Gravity Index reflect shorter distances to travel to protected areas, along with fewer people per unit of area visiting protected areas (low congestion). Our results reveal marked differences in the Gravity Index for SUAs across Australia. Some SUAs, such as Hobart and Canberra, were characterized by a comparatively high Gravity Index, indicating extensive protected areas within a short distance of those population centres. Others, such as Melbourne (Australia’s fastest growing SUA), had a very low and declining Gravity Index, associated with high population growth (1.8 million in 24 years), small fragmented existing protected areas surrounding the city, and limited additional land added to the protected area network over the period of population growth. Our results identify priority SUAs (such as Melbourne) where there is a need to expand the protected area network through, for example, changing land tenures to National Parks.",
       "keywords": [
         "Protected area",
         "Rural area",
@@ -187,7 +405,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001337",
-      "abstract": "",
+      "abstract": "Urbanization has led to a significant reduction in green spaces, altering microbial habitats and potentially contributing to the growing prevalence of immune-mediated diseases. Urban greenery may serve as a reservoir for more diverse environmental microbiota, yet the links between street-level vegetation and environmental microbial diversity remain poorly understood. This study investigates how the visibility of greenery, measured through the Green View Index (GVI), relates to microbial richness and Shannon’s diversity across urban habitat gradients in the Taipei metropolitan area. Environmental DNA samples and Google Street View panoramas for calculating GVI were collected from three sublocation types: biodiversity hotspots featuring urban green spaces, residential building entrances, and pavements linking biodiversity hotspots and entrances. Our findings show that biodiversity hotspots support greater microbial diversity, and significant GVI–microbial correlations occur only in biodiversity hotspots, not in pavements or entrances. This positive correlation observed in biodiversity hotspots suggests that street-level vegetation can reflect the diversity of environmental microbial communities. These results highlight the importance of incorporating green infrastructure into urban planning to enhance microbial habitat heterogeneity and promote microbial diversity. As urbanization continues to sever citizens’ contact with nature, this initiative helps maintain the environmental microbiota essential for immune regulation and support public health. Future research should incorporate longitudinal and cross-seasonal studies to evaluate the durability of GVI-microbial relationships, examine the influence of vegetation types and structural complexity, and explore how urban greenery can act both as a scientific indicator and a public engagement tool in biodiversity-aware urban design.",
       "keywords": [
         "Metropolitan area",
         "Ecosystem services",
@@ -5713,28 +5931,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107051",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107051",
-      "title": "Arbre Cité: A game to promote reflection on urban nature",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-09",
-      "published_date_display": "2026-04-09",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002830",
-      "abstract": "Urban areas are increasingly exposed to climatic and anthropogenic hazards, such as floods, heatwaves, droughts, and pollution. Urban nature is widely promoted to address these challenges, yet their implementation often raises debates and conflicts regarding forms, locations, and risks. We present Arbre Cité , a serious board game designed to foster awareness and reflection on urban nature. The game enables players to plan green spaces within their own neighborhoods, using OpenStreetMap data, while considering objectives, hazards, and trade-offs. It was tested through 21 sessions with more than 70 players this year, using pre- and post-questionnaires. The game revealed significant evolution in players' perceptions: from aesthetic views of urban nature to systemic and ecological understandings, including risks and co-benefits. Results indicate that Arbre Cité may contribute to awareness-raising and offer an engaging approach to urban planning education. While results are limited by the sample composition, the replayability and adaptability of the game highlight its potential as a widely accessible support for nature integration in cities. • We present Arbre Cité, a new serious board game about urban nature management. • The game enables players to plan green spaces within their own neighborhoods. • It was tested with more than 70 players, using pre- and post-questionnaires. • Results indicate that it effectively supports awareness-raising on urban nature. • In addition, it provides an engaging tool for urban planning education.",
-      "keywords": [
-        "Reflection (computer programming)",
-        "Consumption (sociology)",
-        "Urban planning",
-        "Placemaking"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261429242",
       "doi_url": "https://doi.org/10.1177/00420980261429242",
       "title": "“We want to be friends with you, but we can’t under these circumstances”: U.S.-Russian sister-city ties after the Russian invasion of Ukraine",
@@ -6138,30 +6334,6 @@
         "Land use",
         "China",
         "Urban climate"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107041",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107041",
-      "title": "Deconstructing order and emergence in spatial cluster and evolution of the Guangdong-Hong Kong-Macao Greater Bay Area using percolation theory",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-07",
-      "published_date_display": "2026-04-07",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002738",
-      "abstract": "",
-      "keywords": [
-        "Percolation (cognitive psychology)",
-        "Bay",
-        "Cluster (spacecraft)",
-        "Percolation theory",
-        "Order (exchange)",
-        "Percolation threshold"
       ]
     },
     {
@@ -6619,31 +6791,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107044",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107044",
-      "title": "Urban catalytic effect of opening of a multifunctional facility on stay behavior using GPS trajectory data: Quasi-experimental case study of “ONIKURU” in suburban city center",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-03",
-      "published_date_display": "2026-04-03",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002763",
-      "abstract": "Suburban city centers are gradually declining due to the hollowing out of urban functions. Urban design strategies that seek to redirect stay behavior through a single catalytic project have therefore attracted increasing attention. However, there is limited empirical evidence on how the opening of a multifunctional facility—an intervention at the building scale—affects stay behavior in a suburban city. This study aims to clarify the impact of a new multifunctional facility on stay behavior using GPS trajectory data. The quasi-experimental case study was conducted using the high-resolution, empirical case of the Ibaraki City Cultural and Childcare Complex “ONIKURU.” This study used GPS trajectory data and applied propensity score matching and difference-in-differences to estimate the ATT among the stay group. Results show that opening ONIKURU significantly increased the frequency of weekly stays in the suburban city center among the stay group. Specifically, the ATT indicates an additional increase of approximately 0.471 [95% CI: 0.336, 0.607] times/week for the stay group relative to the non-stay group. However, spatial analysis revealed that ONIKURU's opening did not generate a uniform spillover effect throughout the suburban city center. Instead, it produced a spatially selective catalytic effect: while stay density increased near the facility and adjacent commercial areas, it concurrently decreased in another core area (near JR Ibaraki Station). This case quantifies the magnitude and spatial pattern of short-term stay reallocation following the opening of a multifunctional facility, informing debates on catalytic effects and providing a replicable evaluation approach. • Examine the effect of ONIKURU on stay behavior in a suburban city center • Used GPS trajectory data and conducted DID with propensity score matching • ATT among adopters: +0.471 [95%CI: 0.336 to 0.607] stays/week in ~6 weeks • Kernel density estimation (KDE) maps show spatially selective gains near ONIKURU • Demonstrate urban catalytic effects of multifunctional facility in the city center",
-      "keywords": [
-        "Trajectory",
-        "Spillover effect",
-        "Propensity score matching",
-        "Global Positioning System",
-        "Center (category theory)",
-        "Matching (statistics)",
-        "Intervention (counseling)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107039",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107039",
       "title": "Patterns and mechanisms of urban land-population coupling from a global perspective",
@@ -6845,29 +6992,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107035",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107035",
-      "title": "Effects of herd behavior and fear of missing out on the intention to purchase residential units around mass rapid transit stations: Evidence from Taiwan",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-02",
-      "published_date_display": "2026-04-02",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002672",
-      "abstract": "",
-      "keywords": [
-        "Transit (satellite)",
-        "Public transport",
-        "Herd",
-        "Transit system",
-        "Theory of planned behavior"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107077",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107077",
       "title": "Beyond self-interest: A behavioral-institutional analysis of land violations by local governments in China",
@@ -6935,34 +7059,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.106986",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106986",
-      "title": "Integrating framework for urban rivers restoration: Incorporating Holon System Theory, dynamic planning, fragmented governance, and adaptive pathways",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002180",
-      "abstract": "",
-      "keywords": [
-        "Complex adaptive system",
-        "Stakeholder",
-        "Adaptive management",
-        "Flexibility (engineering)",
-        "Conceptual framework",
-        "Corporate governance",
-        "Urban planning",
-        "Adaptive capacity",
-        "Ecological systems theory",
-        "System dynamics"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107027",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107027",
       "title": "From markets to ‘mal-kets’: Infrastructure modernisation or cultural erosion?",
@@ -6982,32 +7078,6 @@
         "Perspective (graphical)",
         "Corporate governance",
         "Government (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106990",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106990",
-      "title": "Does social capital affect entrepreneurial intentions? Evidence from an inclusive urban entrepreneurial ecosystem",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002222",
-      "abstract": "",
-      "keywords": [
-        "Operationalization",
-        "Social capital",
-        "Structural equation modeling",
-        "Theory of planned behavior",
-        "Poverty",
-        "Affect (linguistics)",
-        "Perspective (graphical)",
-        "Sample (material)"
       ]
     },
     {
@@ -7289,27 +7359,6 @@
         "R package",
         "Causal analysis",
         "Time series"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106992",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106992",
-      "title": "When more isn't better: Reevaluating urban vitality's role in fostering social cohesion",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-30",
-      "published_date_display": "2026-03-30",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002246",
-      "abstract": "In the face of growing urban inequalities and polarization, promoting social cohesion is essential for improving quality of life and resilience. While urban vitality—characterized by dense, mixed-use, and accessible environments—is often seen as a driver of social cohesion, the relationship between these factors remains unclear. This study addresses this gap by examining how different conditions of urban vitality affect social cohesion in five Spanish cities. Using a mixed-methods approach that includes population-based surveys, census data, and geospatial analysis, we test the impact of objectively measured urban vitality conditions on perceived social cohesion. The findings indicate that the relationship is complex and non-linear; social cohesion is most effectively promoted at moderate levels of urban vitality. This challenges the assumption of a straightforward positive correlation, suggesting that beyond a certain point, increased vitality does not necessarily enhance social cohesion and may even diminish it. The study highlights the need for a nuanced and contextual approach to urban development. It has important implications for urban planning and policy, advocating for a balance of different vitality conditions to create cities that are both vibrant and inclusive. Future research should explore these dynamics further, employing both objective and subjective measures to guide sustainable urban development. • Social cohesion thrives with moderate levels of urban vitality. • Urban vitality and cohesion show a complex, non-linear relationship. • Cohesive cities need more than density, design, and context matter.",
-      "keywords": [
-        "Cohesion (chemistry)",
-        "Social relation",
-        "Urban poverty"
       ]
     },
     {
