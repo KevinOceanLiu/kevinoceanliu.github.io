@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T23:38:30.376368+00:00",
+  "generated_at": "2026-05-28T23:43:19.516391+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,26 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102460",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102460",
-      "title": "Sensitivity-driven parameter optimization for the G2SFCA using response surface methodology",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000621",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107254",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107254",
-      "title": "The impact of public lighting quality on residents' safety perceptions in Brazilian cities",
+      "doi": "10.1016/j.cities.2026.107236",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107236",
+      "title": "The public gaze on housing in California: How do the designations “affordable,” “sustainable,” and “historic” for a housing development impact its evaluations by individuals?",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -60,14 +43,14 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004865",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004683",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107252",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107252",
-      "title": "Source/sink-centric mobility cube analytic framework to discover multi-level urban mobility patterns",
+      "doi": "10.1016/j.cities.2026.107215",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107215",
+      "title": "The mechanisms beneath the urban buffer against depression",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -77,14 +60,14 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004841",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004476",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107260",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107260",
-      "title": "Greening-related governance actions enhance vegetation greenness in urbanizing regions: Evidence from Chinese cities",
+      "doi": "10.1016/j.cities.2026.107264",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107264",
+      "title": "European cities are greening and exposure to greenspace becomes more equal",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -94,14 +77,14 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004920",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004968",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107253",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107253",
-      "title": "From charging bottlenecks to resilient cities: Can the Battery-as-a-Service model bridge Europe's mobility and energy transitions?",
+      "doi": "10.1016/j.cities.2026.107258",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107258",
+      "title": "Cross-industry adoption of advanced manufacturing technologies within cities: Evidence from industrial robots in China",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -111,58 +94,43 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004853",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004907",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107266",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107266",
-      "title": "Explainable machine learning for urban housing prices: Policy relevant diagnostics across three cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "doi": "10.1038/s44284-026-00451-x",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00451-x",
+      "title": "Strong demand for clean air policies in Majority World cities",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
       "published_parts": [
         2026,
-        9
+        5,
+        28
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004981",
+      "link": "https://www.nature.com/articles/s44284-026-00451-x",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107202",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107202",
-      "title": "Compact 15-minute cities exhibit lower carbon intensity in urban transport",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "doi": "10.1038/s44284-026-00455-7",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00455-7",
+      "title": "Public support for clean-air action in polluted cities",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
       "published_parts": [
         2026,
-        9
+        5,
+        28
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004348",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107255",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107255",
-      "title": "A spatial planning framework for vertiport siting for urban air mobility systems",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004877",
+      "link": "https://www.nature.com/articles/s44284-026-00455-7",
       "abstract": "",
       "keywords": []
     },
@@ -182,7 +150,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261446569",
       "abstract": "Community gardens are often projected as alternatives to individualism, neoliberalism and social acceleration. We interrogate these imaginaries through the practicalities of gardening, particularly gardeners’ relationships with soil, by focusing on the disjunctive temporalities of community gardens in Poland. Specifically, we explore how these gardens promote ‘forced cultivation’, understood as culturally and politically motivated interferences with ecological temporalities. Through this agricultural metaphor, we explore three faces of acceleration in community gardens: catching up with the West, out-of-sync institutional temporality and sped-up soil cultivation. The findings show that in most gardens, a linear historicity of modernisation is perpetuated; project temporalities often clash with the rhythms of vegetation, and soil is invisibilised and imported from elsewhere in order to deliver some of the promises gardens make. Our analysis of community gardens’ timescape reveals the paradoxical mechanisms whereby productivist anthropocentric logics colonise the very processes that were meant to counteract them.",
-      "keywords": []
+      "keywords": [
+        "Temporalities",
+        "Temporality",
+        "Anthropocentrism",
+        "Neoliberalism (international relations)",
+        "Historicity (philosophy)",
+        "Modernization theory",
+        "Modernity",
+        "Order (exchange)"
+      ]
     },
     {
       "doi": "10.1177/00420980261448667",
@@ -200,7 +177,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261448667",
       "abstract": "Floods pose significant threats in the United States, and the National Flood Insurance Program uses Special Flood Hazard Area (SFHA) designations to guide regulations intended to reduce flood damage. Yet the effect of SFHA regulation on housing markets is difficult to identify because floodplain status is correlated with flood risk and unobserved amenities. This study estimates SFHA policy effects on assessed housing values by combining parcel-level flood risk data, property-level housing information, and Federal Emergency Management Agency (FEMA) SFHA boundaries in Texas. Using a regression discontinuity (RD) design, we compare single-family homes just inside and just outside invariant SFHA boundaries to better separate local policy effects from flood risk and other confounding factors. Relative to a standard hedonic model, the RD analysis yields different estimates. The hedonic model suggests lower assessed values for coastal-county properties inside floodplains and no significant effect inland. In contrast, the RD estimates show no significant boundary effect in coastal counties and about a 2% assessed-value premium for homes inside SFHAs in inland counties. These findings suggest that assessed valuations do not consistently capitalize flood-zone designation and associated regulations, although they do not necessarily imply the same pattern for transaction prices.",
-      "keywords": []
+      "keywords": [
+        "Flood insurance",
+        "Zoning",
+        "Floodplain",
+        "Flood myth",
+        "Hedonic regression",
+        "Agency (philosophy)",
+        "Proxy (statistics)",
+        "Regression discontinuity design",
+        "Hazard"
+      ]
     },
     {
       "doi": "10.1177/00420980261446373",
@@ -218,7 +205,173 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261446373",
       "abstract": "Understanding children’s travel distance to school is essential for promoting educational equity and well-being. In China, the hukou (household registration) system, which regulates access to education and other public services by place of official registration, shapes the distribution of educational resources. Yet little research has examined school travel distance in this context or the individual and contextual sources of its variation. This study employs nested and cross-classified multilevel models to analyse how individual and contextual factors affect pupils’ travel distances, as well as exploring interactions between these factors, and link these findings to hukou-based enrolment. By simultaneously considering multiple geographies, this study reveals that children’s travel distance is shaped by both individual-level factors and contextual-level determinants at both origins and destinations. Individual and contextual variables are not isolated in this process, with hukou status as a key individual factor, school type mediating the relationship between hukou and travel distance, and a cross-level interaction also existing between neighbourhood population density and hukou status. Those findings indicate that hukou-based school enrolment plays an important role in shaping pupils’ travel distances, making reform of related enrolment policies a priority for advancing educational equity and guiding future planning.",
-      "keywords": []
+      "keywords": [
+        "Destinations",
+        "Multilevel model",
+        "Equity (law)",
+        "Neighbourhood (mathematics)",
+        "Educational equity",
+        "Context (archaeology)",
+        "Multilevel modelling"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102460",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102460",
+      "title": "Sensitivity-driven parameter optimization for the G2SFCA using response surface methodology",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000621",
+      "abstract": "",
+      "keywords": [
+        "Response surface methodology",
+        "Surface (topology)",
+        "Surface fitting",
+        "Estimation theory"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107252",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107252",
+      "title": "Source/sink-centric mobility cube analytic framework to discover multi-level urban mobility patterns",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004841",
+      "abstract": "",
+      "keywords": [
+        "Cube (algebra)",
+        "Key (lock)",
+        "Path (computing)",
+        "Mobility model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107260",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107260",
+      "title": "Greening-related governance actions enhance vegetation greenness in urbanizing regions: Evidence from Chinese cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004920",
+      "abstract": "",
+      "keywords": [
+        "Corporate governance",
+        "Vegetation (pathology)",
+        "Urban planning",
+        "Urbanization"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107253",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107253",
+      "title": "From charging bottlenecks to resilient cities: Can the Battery-as-a-Service model bridge Europe's mobility and energy transitions?",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004853",
+      "abstract": "",
+      "keywords": [
+        "Software deployment",
+        "Bridge (graph theory)",
+        "Dual (grammatical number)",
+        "Energy (signal processing)",
+        "Diamond",
+        "Energy storage"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107266",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107266",
+      "title": "Explainable machine learning for urban housing prices: Policy relevant diagnostics across three cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004981",
+      "abstract": "• Explainable ML is a practical diagnostic complement to hedonic pricing models. • Tree-based models improve out-of-sample R 2 by 0.10–0.35 over linear baselines. • SHAP yields spatially explicit, dollar-valued insights for non-linear thresholds. • Continuous distance gradients reveal income-differentiated proximity premiums. • Diagnostics inform TOD zoning, appraisals, and targeted anti-displacement policies.",
+      "keywords": [
+        "Complement (music)",
+        "Policy learning",
+        "Urban policy"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107202",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107202",
+      "title": "Compact 15-minute cities exhibit lower carbon intensity in urban transport",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004348",
+      "abstract": "",
+      "keywords": [
+        "Intensity (physics)",
+        "Carbon fibers",
+        "Urban climate",
+        "Compact city"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107255",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107255",
+      "title": "A spatial planning framework for vertiport siting for urban air mobility systems",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004877",
+      "abstract": "",
+      "keywords": [
+        "Regional planning",
+        "Spatial planning",
+        "Urban planning",
+        "Land-use planning",
+        "Land use",
+        "Cluster analysis",
+        "Urban spatial structure"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00447-7",
@@ -308,7 +461,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003847",
-      "abstract": "",
+      "abstract": "• Demand resilience of urban bike-sharing stations varies by land-use factors. • XGBoost-SHAP predicts demand and quantifies land-use impacts under extreme weather. • Higher street density and downtown proximity enhance demand stability. • Recreational and commercial POIs significantly affect demand resilience in Summer. • Connectivity to public transit significantly stabilizes demand in winter weather.",
       "keywords": [
         "Resilience (materials science)",
         "Psychological resilience",
@@ -4634,28 +4787,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107059",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107059",
-      "title": "Fine-scale spatial optimization of rural residential land in rapidly urbanizing coastal China: a multi-scenario analysis of Jinjiang City, Fujian Province",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-16",
-      "published_date_display": "2026-04-16",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600291X",
-      "abstract": "",
-      "keywords": [
-        "Land use",
-        "Rural area",
-        "Urban planning",
-        "Quantitative analysis (chemistry)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107088",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107088",
       "title": "Debt for jobs? The impact of industrial park infrastructure special debt on urban employment in China",
@@ -5001,32 +5132,6 @@
         "Extreme heat",
         "Urban heat island",
         "Facility location problem"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107099",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107099",
-      "title": "Smart, autonomous and sustainable cities? A critical analysis from the perspective of strong, weak and super weak sustainability",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-15",
-      "published_date_display": "2026-04-15",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003318",
-      "abstract": "Technological innovations are accelerating globally, fostering the diffusion of urban models such as smart cities and, more recently, autonomous cities. While smart cities rely on the strategic use of data and digital technologies to optimize urban services, autonomous cities take a further step by integrating artificial intelligence (AI) into urban decision-making and governance processes. In this context, sustainability remains a core principle of urban development and can be pursued through two distinct paradigms, namely weak sustainability and strong sustainability. This paper examines how smart and autonomous city models relate to these paradigms. Through a literature review, the study collects and compares the key definitions of each paradigm, in order to develop a comparative analytical framework for investigating and positioning the two urban models under examination. The findings offer a critical reflection on the contemporary challenge of harmoniously integrating various forms of capital, both traditional and emerging, and emphasize the importance of ensuring that cities evolve into truly sustainable spaces, capable of balancing technological progress, social inclusion, and environmental protection. Conceptually, the paper advances the notion of super weak sustainability , to critically reflect on how, in the age of AI, technology is subordinating natural and human capital. • Exploration smart and autonomous cities through sustainability paradigms • Examining the role of technology in contemporary city models • Comparison of weak and strong sustainability in emerging urban models • Introduction the concept of “super weak sustainability” in the AI era",
-      "keywords": [
-        "Sustainability",
-        "Smart city",
-        "Corporate governance",
-        "Sustainable development",
-        "Social sustainability",
-        "Perspective (graphical)",
-        "Sustainability organizations",
-        "Urban planning"
       ]
     },
     {
@@ -6314,29 +6419,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107061",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107061",
-      "title": "Does urban agglomeration policy improve urban land use efficiency? A quasi-natural experiment based on 281 Chinese cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-07",
-      "published_date_display": "2026-04-07",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002933",
-      "abstract": "",
-      "keywords": [
-        "Economies of agglomeration",
-        "Urban agglomeration",
-        "Land use",
-        "China",
-        "Urban climate"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107029",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107029",
       "title": "City profile: Yiwu and the making of a new platform-corridor city. Logistics, digital capitalism, and bottom-up silk road urbanization",
@@ -6946,27 +7028,6 @@
         "Urban sustainability",
         "Sustainable development",
         "Social sustainability"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106981",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106981",
-      "title": "Political tournaments, government outsourcing, and unproductive infrastructure: Evidence from China's highway projects",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-02",
-      "published_date_display": "2026-04-02",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002131",
-      "abstract": "",
-      "keywords": [
-        "Politics",
-        "Government (linguistics)",
-        "Local government"
       ]
     },
     {
@@ -14811,6 +14872,34 @@
         "Environmental governance",
         "Urban planning",
         "Sustainable development"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107254",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107254",
+      "title": "The impact of public lighting quality on residents' safety perceptions in Brazilian cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004865",
+      "abstract": "• Poor lighting reduces residents' perceived safety in Brazilian cities. • Gender plays a stronger role than ethnicity in safety perception gaps. • Adequate lighting mitigates but does not erase gender-based disparities. • Lighting emerges as a cost-effective urban safety intervention in the Global South.",
+      "keywords": [
+        "Quality (philosophy)",
+        "Perception",
+        "Business",
+        "Environmental health",
+        "Environmental planning",
+        "Architectural engineering",
+        "Psychology",
+        "Geography",
+        "Medicine",
+        "Engineering"
       ]
     },
     {
