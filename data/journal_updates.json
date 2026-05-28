@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T22:51:22.057224+00:00",
+  "generated_at": "2026-05-28T22:45:39.781979+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,81 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.038",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.038",
+      "title": "Multimodal deep learning with aerial imagery and nDSM for true-slope-aware rooftop photovoltaic potential estimation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002856",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.026",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.026",
+      "title": "Motion consistency-guided spatiotemporal learning: a robust framework for low-altitude infrared object detection",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002674",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.037",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.037",
+      "title": "Depth-guided attenuation compensation for real-time color restoration in deep-sea stereo imaging",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002844",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.024",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.024",
+      "title": "Task-driven remote sensing image captioning for earth understanding: From multi-task dataset to task-conditioned framework",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002650",
+      "abstract": "",
+      "keywords": [
+        "Closed captioning",
+        "Earth observation",
+        "Image (mathematics)",
+        "Earth (classical element)",
+        "Earth remote sensing",
+        "Earth observation satellite"
+      ]
+    },
     {
       "doi": "10.1016/j.rse.2026.115492",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115492",
@@ -9925,32 +10000,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.041",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.041",
-      "title": "Estimation of global riverine total phosphorus concentration based on multi-source data and stacked ensemble learning",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-11",
-      "published_date_display": "2026-02-11",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000493",
-      "abstract": "",
-      "keywords": [
-        "Scale (ratio)",
-        "Transferability",
-        "Stability (learning theory)",
-        "Water quality",
-        "Ensemble learning",
-        "Estimation",
-        "Temporal scales",
-        "Consistency (knowledge bases)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2617557",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2617557",
       "title": "“There Ain’t No Fuel!” Addressing Material Scarcity in Urban Mobility in Santiago de Cuba",
@@ -10427,32 +10476,6 @@
         "Pattern recognition (psychology)",
         "Artificial neural network",
         "Intensity (physics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.036",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.036",
-      "title": "Adaptive image zoom-in with bounding box transformation for UAV object detection",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-05",
-      "published_date_display": "2026-02-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000444",
-      "abstract": "",
-      "keywords": [
-        "Minimum bounding box",
-        "Zoom",
-        "Object detection",
-        "Bounding overwatch",
-        "Transformation (genetics)",
-        "Object (grammar)",
-        "Offset (computer science)",
-        "Viola–Jones object detection framework"
       ]
     },
     {
@@ -11251,30 +11274,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.027",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.027",
-      "title": "Identifying green leaf and leaf phenology of large trees and forests by time series PlanetScope and Sentinel-2 images and the chlorophyll and green leaf indicator (CGLI)",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-22",
-      "published_date_display": "2026-01-22",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000274",
-      "abstract": "",
-      "keywords": [
-        "Phenology",
-        "Deciduous",
-        "Vegetation (pathology)",
-        "Chlorophyll",
-        "Leaf area index",
-        "Chlorophyll a"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.026",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.026",
       "title": "Detecting global ocean subsurface density change with high-resolution via dual-task densely-former",
@@ -11419,33 +11418,6 @@
         "Causal inference",
         "Causal model",
         "Key (lock)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.023",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.023",
-      "title": "SuperMapNet for long-range and high-accuracy vectorized HD map construction",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000237",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Feature (linguistics)",
-        "Consistency (knowledge bases)",
-        "Lidar",
-        "Spatial analysis",
-        "Point (geometry)",
-        "Element (criminal law)",
-        "Complement (music)",
-        "Task (project management)"
       ]
     },
     {
