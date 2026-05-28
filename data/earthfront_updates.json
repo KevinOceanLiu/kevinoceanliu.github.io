@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T23:04:30.190540+00:00",
+  "generated_at": "2026-05-28T23:01:56.107983+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01856-1",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01856-1",
+      "title": "Upgrading glycerol to sorbose via a tandem photoelectrocatalysis–enzyme catalysis relay",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        5,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01856-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01844-5",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01844-5",
+      "title": "Driving a green energy transition with halide perovskite solar cells",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        5,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01844-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01979-2",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01979-2",
+      "title": "Increased sensitivity of the Antarctic Ice Sheet to decreasing CO2 across the Mid-Pleistocene Transition",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        5,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01979-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02653-6",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02653-6",
+      "title": "Incorporating air quality health impacts into the social cost of carbon",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        5,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02653-6",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01855-2",
       "doi_url": "https://doi.org/10.1038/s41893-026-01855-2",
       "title": "Widespread range contraction of carnivores in protected areas of China",
@@ -41,7 +113,18 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01855-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carnivore",
+        "Apex predator",
+        "Ungulate",
+        "Mammal",
+        "Biodiversity",
+        "Habitat",
+        "Predation",
+        "Wildlife",
+        "Context (archaeology)",
+        "Range (aeronautics)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01837-4",
@@ -59,7 +142,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01837-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Flexibility (engineering)",
+        "Fabrication",
+        "Textile",
+        "Plastic waste",
+        "Resilience (materials science)",
+        "Pressure sensor",
+        "Intelligent sensor"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02644-7",
@@ -77,7 +168,13 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02644-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Agency (philosophy)",
+        "Climate change",
+        "Climate change mitigation",
+        "Frame (networking)",
+        "Political economy of climate change"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01857-0",
@@ -2017,7 +2114,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001132",
-      "abstract": "",
+      "abstract": "Data and code availability: All data are available in the main text or the supplemental information. R code and raw data files used in our Monte Carlo analysis are accessible via Zenodo26: https://doi.org/10.5281/zenodo.14046868.",
       "keywords": [
         "Psychological intervention",
         "Food supply",
@@ -2543,7 +2640,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000850",
-      "abstract": "peer reviewed",
+      "abstract": "Climate change and biodiversity loss are two of the most pressing and interconnected sustainability challenges. A one-sided focus on either climate change mitigation or biodiversity conservation may undermine other sustainability goals. Although global scenarios are widely used to explore pathways addressing both challenges, overarching evidence on their synergies and trade-offs remains limited. This meta-analysis examines the results of the most up-to-date global intervention scenarios that address climate change and biodiversity. We show that most scenarios prioritize climate change mitigation. While interventions had a synergistic effect on climate and biodiversity, they were more effective at mitigating climate change. Highly synergistic scenarios frequently include measures in agriculture, forestry and other land uses, and the food sector. These findings indicate that climate-focused approaches alone are insufficient to halt biodiversity loss. More integrated assessments using diverse metrics and models are needed to identify transformative pathways supporting climate, biodiversity, and other sustainability goals.",
       "keywords": [
         "Biodiversity",
         "Climate change",
