@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T23:47:40.305154+00:00",
+  "generated_at": "2026-05-28T23:53:58.145258+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -50,7 +50,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/740144",
-      "abstract": "Nest material kleptoparasitism, the theft of nesting materials by birds from other nests, is likely more widespread in passerines than currently documented. Yet no studies examine the hypotheses underlying when nest material theft will likely occur. Here we investigate nest material kleptoparasitism during the monitoring of 216 nests of passerines on the island of Hawai‘i. Native Hawaiian forest birds were victims of nest material theft at a frequency correlated to their relative nesting abundance in the landscape. We provide the first evidence consistent with the height overlap hypothesis, demonstrating that Hawaiian forest birds stole material from nests in the same strata where they foraged for prey. Because 2 out of 39 (5%) of these events shortly preceded nest failure, we suggest that nest material theft, albeit small and previously overlooked, may be a contributing factor to nest failure. Future research should quantify key factors influencing this behavior, including types and relative abundance of materials stolen, timing, nest height, and impact on nest success.",
+      "abstract": "AbstractNest material kleptoparasitism, the theft of nesting materials by birds from other nests, is likely more widespread in passerines than currently documented. Yet no studies examine the hypotheses underlying when nest material theft will likely occur. Here we investigate nest material kleptoparasitism during the monitoring of 216 nests of passerines on the island of Hawai'i. Native Hawaiian forest birds were victims of nest material theft at a frequency correlated to their relative nesting abundance in the landscape. We provide the first evidence consistent with the height overlap hypothesis, demonstrating that Hawaiian forest birds stole material from nests in the same strata where they foraged for prey. Because 2 out of 39 (5%) of these events shortly preceded nest failure, we suggest that nest material theft, albeit small and previously overlooked, may be a contributing factor to nest failure. Future research should quantify key factors influencing this behavior, including types and relative abundance of materials stolen, timing, nest height, and impact on nest success.",
       "keywords": [
         "Kleptoparasitism",
         "Nest (protein structural motif)",
@@ -74,7 +74,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/739954",
-      "abstract": "",
+      "abstract": "divergence between evolutionary paths under selection and drift versus those under drift alone, is nondecreasing. In the presence of fitness variance, the effect of directional selection on phenotypic frequency accumulates over time, resulting in a divergence from paths shaped solely by drift. This framework complements Fisher's theorem by providing a robust measure of accumulating adaptation in stochastic evolutionary dynamics.",
       "keywords": [
         "Selection (genetic algorithm)",
         "Path (computing)",
@@ -97,7 +97,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/740145",
-      "abstract": "",
+      "abstract": "AbstractPhylogenetic comparative methods typically rely on an often unstated and potentially unrealistic assumption: that phenotypes evolve within a flat Euclidean space. We advocate for explicitly considering the \"geometry of macroevolution,\" proposing that complex developmental and genetic constraints may cause phenotypes to evolve on curved, non-Euclidean manifolds. On such manifolds, the shortest path between two forms (the geodesic) is not a straight line. We demonstrate how measuring evolutionary divergence on a curved manifold with an inappropriate Euclidean metric can systematically underestimate true path lengths, creating analytical artifacts. Specifically, this geometric distortion can produce the appearance of declining evolutionary rates over time, offering a novel complementary explanation for widely observed patterns like age-rate scaling. Characterizing this geometry can be approached through a priori theoretical models or empirically through data-driven manifold learning. The convergence of large-scale phenomic datasets and machine learning is making it increasingly feasible to infer this geometric structure directly from data. Our goal is to encourage the field to move from implicitly assuming a geometry to deliberately characterizing it, ensuring that inferred macroevolutionary patterns reflect biological reality rather than the constraints of our analytical framework.",
       "keywords": [
         "Manifold (fluid mechanics)",
         "Biological evolution",
@@ -120,7 +120,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/739956",
-      "abstract": "Reproductive division of labor (DOL) is key to the ecological success of eusocial insects such as ants, termites, and honeybees, in which queens reproduce while workers perform non-reproductive tasks. DOL is often associated with a shift in the fecundity-longevity trade-off, with queens outliving non-reproductive workers. In most species, reproductive and non-reproductive individuals differ significantly (e.g., in ontogeny or morphology), which may contribute to this phenomenon. In contrast, in the ant Platythyrea punctata, females are clonally identical, and socially dominant workers produce female offspring from unfertilized eggs by thelytokous parthenogenesis. We investigated whether all workers, i.e., dominants and subordinates, reproduce when given the opportunity. We formed dyads of workers of the same age and allowed them to establish rank orders. We then investigated their reproductive performance in isolation. We found that nearly 88% of workers, regardless of social rank, activated their ovaries in isolation. However, of the 12% that never laid eggs, a higher proportion were previously classified as subordinates than as dominants. This suggests that reproductive ability may differ among workers. Isolated subordinates that were reproductively active matched isolated dominants in their egg-laying rate, with no apparent trade-off between fecundity and longevity. Reproductive costs, likely related to the use of physiological or energetic resources, were evident for both workers in isolation, as egg-laying rates declined over time in the absence of supportive workers. These results highlight the complex interplay between reproduction, longevity, and social status in eusocial insects and provide insights into how eusociality has shaped aging and life history evolution.",
+      "abstract": ", females are clonally identical, and socially dominant workers produce female offspring from unfertilized eggs by thelytokous parthenogenesis. We investigated whether all workers-that is, dominants and subordinates-reproduce when given the opportunity. We formed dyads of workers of the same age and allowed them to establish rank orders. We then investigated their reproductive performance in isolation. We found that nearly 88% of workers regardless of social rank activated their ovaries in isolation. However, of the 12% that never laid eggs, a higher proportion were previously classified as subordinates than as dominants. This suggests that reproductive ability may differ among workers. Isolated subordinates that were reproductively active matched isolated dominants in their egg-laying rate, with no apparent trade-off between fecundity and longevity. Reproductive costs, likely related to the use of physiological or energetic resources, were evident for both workers in isolation, as egg-laying rates declined over time in the absence of supportive workers. These results highlight the complex interplay between reproduction, longevity, and social status in eusocial insects and provide insights into how eusociality has shaped aging and life history evolution.",
       "keywords": [
         "Eusociality",
         "Reproduction",
@@ -143,7 +143,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/739749",
-      "abstract": "",
+      "abstract": "and tested for evidence of phenotypic convergence using time-calibrated phylogenies. Our results indicated that many lineages that do not share a common ancestor, but are from similar habitats, have converged on similar phenotypes (i.e., tail length, hand size, foot size, casque height), with ecology showing a stronger influence than evolutionary history. We interpret this as adaptive changes in morphology in response to the constraints imposed by different habitat types.",
       "keywords": [
         "Convergence (economics)",
         "Convergent evolution",
@@ -167,7 +167,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/740125",
-      "abstract": "",
+      "abstract": ". Moreover, TTB shows no association with intrinsic traits such as body size and parity mode, suggesting that the evolution of TTB is primarily relevant in the context of environmental pressures rather than intrinsic biological constraints. Finally, causal models revealed that species with broader TTB tend to occupy more thermally heterogeneous regions, which in turn facilitates range expansion. A broader TTB may facilitate species persistence under changing climates, and incorporating physiological traits into conservation assessments could help identify species most vulnerable to climate change, particularly when thermal limits are evaluated in relation to environmental temperatures.",
       "keywords": [
         "Lizard",
         "Perspective (graphical)",
@@ -209,7 +209,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/739955",
-      "abstract": "",
+      "abstract": "AbstractEnvironmental disturbance can drive biodiversity change at both local (α) and regional (γ) scales, yet its effects on spatial turnover (β diversity) are often inconsistent. Using a process-based metacommunity model, we show how dispersal and niche breadth jointly structure scale-dependent diversity dynamics in response to disturbance. Our results reveal that dispersal determines the balance of diversity loss between α and γ scales, leading to either homogenization (β diversity decreases) or differentiation (β diversity increases) after disturbance. High dispersal promotes rapid local recovery but accelerates regional extinctions, while dispersal limitation impedes recolonization. Niche breadth mediates sensitivity to disturbance, with specialist-dominated communities suffering greater diversity loss. We show how the interaction between dispersal and niche breadth structure the dynamics of scale-specific diversity dynamics, which determine β diversity change following disturbance. These results offer a mechanistic framework for predicting when and how communities reorganize across scales following environmental perturbation.",
       "keywords": [
         "Niche",
         "Disturbance (geology)",
@@ -236,7 +236,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/739747",
-      "abstract": "Urbanization affects many aspects of the environment with the potential to alter both ecological and evolutionary processes. However, while examples of urban evolution are accumulating, tests of urban eco-evolutionary dynamics are rare. We carried out a reciprocal transplantation experiment using the terrestrial isopod Oniscus asellus to test how adaptation to the urban heat island influenced ecological processes. As isopods are important decomposers, we asked if leaf-litter decomposition differed among reciprocal transplant treatments and used a separate laboratory experiment to isolate the effects of temperature on rates of isopod leaf consumption. We found that leaf-litter decomposition was greater in urban habitats, and that leaf consumption was elevated at higher laboratory temperatures and for rural isopods compared with urbanisopods. Although we found evidence for local adaption to both environments, fitness was lower overall within urban environments. However, urban adaptation did not feedback to influence leaf-decomposition. As fitness was depressed in urban environments, our results suggest that populations could struggle to keep pace with anthropogenic change. Additionally, our results for leaf-litter decomposition indicate that the warmed environment of cities has the potential to alter important ecological processes, but that contemporary urban adaptation does not necessarily cause further urban eco-evolutionary feedbacks.",
+      "abstract": "to test how adaptation to the urban heat island influenced ecological processes. As isopods are important decomposers, we asked whether leaf-litter decomposition differed among reciprocal transplant treatments and used a separate laboratory experiment to isolate the effects of temperature on rates of isopod leaf consumption. We found that leaf-litter decomposition was greater in urban habitats and that leaf consumption was elevated at higher laboratory temperatures and for rural isopods compared with urban isopods. Although we found evidence for local adaptation to both environments, fitness was lower overall within urban environments. However, urban adaptation did not feed back to influence leaf decomposition. As fitness was depressed in urban environments, our results suggest that populations could struggle to keep pace with anthropogenic change. Additionally, our results for leaf-litter decomposition indicate that the warmed environment of cities has the potential to alter important ecological processes but that contemporary urban adaptation does not necessarily cause further urban eco-evolutionary feedbacks.",
       "keywords": [
         "Test (biology)",
         "Ectotherm",
@@ -260,7 +260,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/740143",
-      "abstract": "",
+      "abstract": "AbstractEnvironmental variability, in the form of either temporal fluctuations or intermittent perturbations, affects virtually all ecological systems. However, while temporal variability is widely recognized to play an important role across many ecological and evolutionary subdisciplines, there is no high-level cross-cutting concept that describes how species, communities, and ecosystems respond to variability. In this article we propose that \"antifragility\" could serve well as such a concept. Initially used in economics, antifragility denotes that a property or metric of performance increases with variability. To showcase the breadth of applicability and utility of the concept, we examine two mathematical models for antifragility in ecosystem services and competition. We also demonstrate some of the nuances and possible misapplications of the concept. Under global change, the variability of environmental conditions is expected to change. We believe that antifragility could serve as a useful concept in coordinating research efforts toward understanding the effects of these changes.",
       "keywords": [
         "Ectotherm",
         "Ecosystem",
@@ -284,7 +284,88 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/739750",
+      "abstract": "AbstractSpecies' lifetime schedules of survival, growth, and reproduction generally assort along a principal axis of variation called the \"fast-slow\" continuum, with positions attributed to the value of producing many fragile offspring early versus few high-quality offspring later. Fast species are classically associated with surplus or pulsed resources and slow species with stable, limiting resources. Here we demonstrate that the fast-slow continuum can also emerge as a zone of highest fitness in the face of unpredictable, catastrophic demographic disturbances regardless of resource supply, competition, or life history trade-offs. Our resilience framework measures resistance, recovery, and fitness of stage-structured life histories in stochastically disturbed environments. Structured disturbances favor either fast or slow life history variants because of their respective weak resistance and fast recovery or strong resistance and slow recovery. Demographic disturbance regimes might therefore play an important role in shaping nature's diversity of life histories. The resilience framework is a useful tool for understanding species' demographic and evolutionary responses to environmental fluctuations and change.",
+      "keywords": [
+        "Life history",
+        "Life history theory",
+        "Psychological resilience",
+        "Offspring",
+        "Reproduction",
+        "Limiting",
+        "Resistance (ecology)",
+        "Disturbance (geology)"
+      ]
+    },
+    {
+      "doi": "10.1038/s41559-026-03109-y",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03109-y",
+      "title": "Multitasking sponges",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        5,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03109-y",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03105-2",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03105-2",
+      "title": "Ancient strep throat",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        5,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03105-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70419",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70419",
+      "title": "Strip cropping in practice: Higher slug abundance despite a higher number of slug‐predating carabid species",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        5,
+        28
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70419",
+      "abstract": "Abstract Strip cropping involves growing multiple crops in adjacent strips in a field, which facilitates existing management routines while promoting ecological interactions. While strip cropping can promote in‐field biodiversity and biological control of insect pests, it is unclear how strip cropping affects in‐field slugs, which can cause considerable crop damage. We selected 20 farms across the Netherlands with paired monoculture and strip cropping fields. The strip cropping fields varied in strip width (3–33 m), number of crop species grown (2–9 crops), and farming system (conventional or organic). We used a combination of shelter and pitfall traps to quantify populations of slugs and their arthropod predators in cereals. Absolute slug abundance was low at most farms, but was 3–5 times higher in strip cropping relative to paired monocultures. Slug abundance in strip cropping increased with increasing strip width. Farming system, cereal type, soil type, or the number of crop species did not mediate the effect of strip cropping on slug abundances. Natural enemy diversity was around 25% higher in strip cropping, and this effect of strip cropping was mediated by cereal type and soil type. Farming system, strip width, or number of crops did not mediate the effect of strip cropping on natural enemy diversity. Most farmers reported similar levels of slug damage in cereals in strip cropping and monoculture. However, some farmers reported increased slug damage in other crops within the strip cropping arrangement, especially at farms with relatively high slug abundances. Synthesis and applications. To avoid increased slug damage in strip cropping fields in slug‐prone areas, potential slug‐source crops should be spatially separated from slug‐sensitive crops. However, an increase in slug abundance should not deter the adoption of strip cropping as higher slug damage in strip cropping systems was rarely observed by farmers.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70404",
+      "doi_url": "https://doi.org/10.1111/ele.70404",
+      "title": "What Have We Learned From Empirical Applications of Modern Coexistence Theory?",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        5,
+        28
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70404",
+      "abstract": "ABSTRACT Since the early 2000's, Modern Coexistence Theory (MCT) has guided empirical investigations of coexistence. We reviewed empirical applications of MCT to answer two questions: (1) What have we learned about the strength of temporal, spatial and variation‐independent mechanisms of coexistence in nature? (2) How have studies of niche and fitness differences advanced our understanding of coexistence? With respect to the first question, we now have evidence that the temporal storage effect and variation‐independent mechanisms help stabilize coexistence in many systems. We have not learned more due to the low number of tests of these mechanisms (24 out of 84 MCT studies), the narrow focus on mechanisms involving temporal variation and grassland communities, and lack of rigorous model validation. With respect to our second question, studies of niche and fitness differences (61 of 84 studies) have answered fundamental questions about the role of phylogenetic relatedness, plant–soil feedbacks, and functional traits in coexistence. We recommend that future empirical MCT studies (1) match hypotheses to MCT quantities, (2) address gaps in empirical studies, (3) avoid known biases in estimating competition coefficients, and (4) validate models with independent data.",
       "keywords": []
     },
     {
@@ -303,7 +384,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03085-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Citizen science",
+        "Observational study",
+        "Citizen journalism",
+        "Control (management)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70412",
@@ -321,7 +408,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70412",
       "abstract": "Abstract Millions of low‐head dams (LHDs) are disrupting the course of rivers and restoring rivers' ecological continuity is a major issue. Predicting the obstacles that most severely hinder organisms movement from their hydro‐physical characteristics is key information for restoration actions. Yet, the influence of LHDs characteristics and hydrological conditions on fish connectivity remains poorly known, limiting evidence‐based guidelines. We investigated the role of three potential factors influencing fish movements over LHDs through the estimate of fish genetic connectivity: (i) the typology of obstacle (including height and the presence of potential passage structures, i.e. fishways and sluice gates); (ii) the local hydrological regime (magnitude, duration and frequency of high‐water flows); and (iii) the fish species identity, as fish ability to cross obstacles could be species‐specific. A standardised indicator of genetic connectivity (the F INDEX ) between downstream and upstream populations was quantified for three European fish genera ( Squalius , Phoxinus and Gobio ) at 63 LHDs in continental France. For all genera, potential passage structures improved fish genetic connectivity, reinforcing the utility of such structures for ecological continuity. The three genera were differently impacted by LHDs. For Squalius and Phoxinus , obstacle height significantly reduced genetic connectivity, while high‐magnitude, long‐duration and frequent high‐water flows mitigated this effect. In contrast, none of the other physical nor hydrological factors explained genetic connectivity for Gobio , suggesting that important drivers remain to be identified. Synthesis and applications . Our results provide river managers with key elements to infer—from a few measurable variables—the impact of individual obstacles on fish connectivity. Such insights can be used to prioritize and allocate resources to the most problematic barriers as well as to anticipate and mitigate the potential impacts of planned infrastructures before their construction. We also highlight the importance for water resource users and managers of maintaining high‐flow regimes in fragmented rivers to mitigate their impacts on ecological connectivity. Read the free Plain Language Summary for this article on the journal's blog .",
-      "keywords": []
+      "keywords": [
+        "Phoxinus",
+        "Fish <Actinopterygii>",
+        "Key (lock)",
+        "Freshwater fish",
+        "Diversity of fish",
+        "Fish migration"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70420",
@@ -357,7 +451,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70930",
       "abstract": "ABSTRACT Understanding how tree species adapt to climate is crucial for forest management under climate change. This study employs landscape genomics to investigate climate adaptation in the interior spruce complex ( Picea glauca , P. engelmannii , and their hybrids) across western Canada. Using Gradient Forest modeling with 41,253 SNPs genotyped in 1684 natural interior spruce individuals from 252 populations, we found that winter temperature and moisture‐related variables were the variables most strongly associated with genomic variation. Both adaptive and neutral genetic variation showed similar patterns along climatic gradients, suggesting that population structure largely follows environmental clines. We successfully delineated three species and 11 seed zones based on genomic variation and climate relationships, achieving 88.2% concordance with previous genetic studies in defining species boundaries. Analysis of genomic offsets under future climate scenarios revealed potential maladaptation risks, particularly in northern and eastern British Columbia. These predictions were validated using fitness‐related measurements from common‐garden experiments, which showed negative correlations between genomic offsets and traits, such as height and diameter at breast height (DBH). Maladaptation predictions based on genomic offsets showed some differences compared with common‐garden‐based assessments in several regions, offering new perspectives on population vulnerability. Our results demonstrate the effectiveness of landscape genomics as a complementary approach to traditional methods for assessing climate adaptation in tree species. Our findings provide a scientific foundation for climate‐smart reforestation strategies and offer practical guidance for forest management in the context of climate change.",
-      "keywords": []
+      "keywords": [
+        "Maladaptation",
+        "Local adaptation",
+        "Genomics",
+        "Climate change",
+        "Population genomics",
+        "Context (archaeology)",
+        "Population",
+        "Adaptation (eye)"
+      ]
     },
     {
       "doi": "10.1111/gcb.70944",
@@ -375,7 +478,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70944",
       "abstract": "ABSTRACT Climate change is intensifying precipitation extremes, yet how historical drought and wetting shape post‐event soil carbon fluxes remains poorly understood. Using a seven‐year precipitation manipulation experiment (−70% to +50%) followed by a two‐year recovery period in a semi‐arid grassland, we quantified legacy effects on soil respiration (Rs) and its autotrophic (Ra) and heterotrophic (Rh) components. Historical moderate wetting (+30%) generated the strongest positive legacy, increasing Rs, Rh, and Ra by 21.9%, 24.4%, and 26.9%, respectively, during the first recovery year. In contrast, historical drought treatments (−70% to −30%) produced biphasic legacies, characterized by early‐season suppression followed by later‐season positive responses, potentially associated with decomposition of drought‐accumulated substrates and vegetation recovery. Ra generally showed stronger recovery responses than Rh, indicating contrasting sensitivities of plant‐ and microbially ‐ derived respiration to moisture and carbon availability. The dominant controls of respiration also shifted over time: first‐year legacies were associated mainly with microbial carbon substrates and extracellular enzyme activities, whereas second‐year responses were increasingly linked to plant allocation strategy and microbial community composition. Despite these contrasting trajectories, Rs, Ra, and Rh largely converged to control levels within two years. Our results demonstrate that precipitation legacies in semi‐arid grasslands are asymmetric and temporally dynamic, with important implications for predicting carbon cycling under increasing hydrological variability.",
-      "keywords": []
+      "keywords": [
+        "Soil respiration",
+        "Precipitation",
+        "Soil carbon",
+        "Respiration",
+        "Climate change",
+        "Carbon cycle",
+        "Autotroph",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/gcb.70942",
@@ -392,7 +504,35 @@
         27
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70942",
-      "abstract": "",
+      "abstract": "Conservation tillage may involve trade-offs between crop productivity and ecosystem services across different climatic and soil conditions (Zhang et al. 2026). While conservation tillage practices, with no-till as the core idea, can enhance soil organic carbon (SOC) sequestration, improve soil structure, and reduce erosion, these ecological benefits do not consistently translate into crop yield enhancement. Alternatively, traditional tillage such as ploughing can alleviate soil compaction and improve crop productivity, but at the cost of disrupting soil structure and reducing SOC stability (Zhang et al. 2026). A fundamental trade-off is therefore demonstrated between ecological conservation and agronomic performance, which is largely driven by subsoil constraints, particularly compaction, restricting root penetration and limiting access to water and nutrients in deeper soils (Kan et al. 2022; Keller et al. 2025; Zhang et al. 2026). This raises an important question of whether this trade-off can be reconciled by integrating the strengths of conservation tillage and traditional tillage through targeted subsoil management. Here, we provide evidence from a 15-year field experiment showing that conservation deep tillage, implemented through ditch-buried straw return, can effectively address this trade-off by integrating the benefits of conservation tillage and traditional tillage within a conservation framework (Kan et al. 2025). This practice disturbs only a small proportion of the soil, approximately 10%, through localized deep tillage at depths of 0.2–0.3 m, with the disturbed zones periodically rotated while maintaining the majority of the field under no-till conditions (Figure 1A) (Yang et al. 2019). This targeted intervention significantly reduces penetration resistance and bulk density in subsoil layers from 0.1 to 0.4 m compared with no-till (Figure 1B,C). These structural improvements are accompanied by enhanced aggregate stability (Figure 1D), as reflected by increased mean weight diameter, particularly in subsoil layers, suggesting improved soil structural integrity. As a consequence, root systems penetrate deeper into the soil profile, enhancing access to water and nutrients and improving belowground resource acquisition (Figure 1E). Concurrently, conservation deep tillage substantially increases soil organic carbon stocks by approximately 53% within the 0–0.4 m soil profile relative to no-till, due to enhanced carbon sequestration capacity in subsoil (Figure 1F). These improvements are associated with significant increases in grain yield, with wheat yields increasing by 16% and rice yields by 13% (Figure 1G,H). Collectively, these results demonstrate that targeted subsoil intervention can simultaneously enhance soil structure, SOC sequestration, and crop productivity, effectively reconciling the trade-offs between conservation tillage and traditional tillage. The effectiveness of conservation deep tillage arises from the coupling of soil structural improvement and biologically mediated carbon stabilization processes. By alleviating subsoil compaction and enhancing structural stability, conservation deep tillage facilitates deeper root penetration and improves access to water and nutrients, thereby supporting crop productivity. Meanwhile, straw burial and enhanced root growth increase carbon inputs to subsoil, providing substrates that promote aggregation and stimulate microbial activity (Fontaine et al. 2007; Six et al. 2000). Enhanced microbial turnover leads to the accumulation of microbial necromass, which contributes to the stabilization of mineral-associated organic carbon (Kan et al. 2025; Wen et al. 2025). Improved structural stability further enhances the physical protection of SOC, reinforcing its persistence in subsoil (Kan et al. 2022). Together, these interacting processes establish a functional linkage between soil structure, carbon inputs, and microbial transformation. Importantly, conservation deep tillage can be implemented using existing agricultural machinery with limited additional cost, making it suitable for large-scale farming systems (Kan et al. 2025; Wu et al. 2022). These findings suggest that integrating minimal disturbance with targeted subsoil improvement provides a practical and scalable pathway to overcome the inherent trade-offs between yield performance and ecosystemic benefits under conservation tillage, thereby enhancing ecosystem multifunctionality in agricultural systems. Zheng-Rong Kan: conceptualization, writing – review and editing, writing – original draft, funding acquisition. Johannes Lehmann: conceptualization, investigation, writing – review and editing. Feng-Min Li: writing – review and editing, investigation, conceptualization. Rattan Lal: conceptualization, visualization, writing – review and editing. Haishui Yang: conceptualization, supervision, writing – review and editing, project administration. This study was supported by the National Key R&D Program of China (2023YFD2302400) and the National Natural Science Foundation of China (32501545). The authors declare no conflicts of interest. This article is a Letter to the Editor regarding Zhang et al. https://doi.org/10.1111/gcb.70825. See also the Response to the Letter by Linchuan Fang, https://doi.org/10.1111/gcb.70940. Data sharing not applicable to this article as no datasets were generated or analyzed for the published articles.",
+      "keywords": [
+        "Tillage",
+        "Subsoil",
+        "Mulch-till",
+        "Strip-till",
+        "Minimum tillage",
+        "No-till farming",
+        "Soil conservation",
+        "Conventional tillage",
+        "Soil carbon"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70948",
+      "doi_url": "https://doi.org/10.1111/gcb.70948",
+      "title": "Negative Responses of Understory Plant Communities to Nitrogen and Phosphorus Enrichments in Forests: Tests From a Field Experiment and a Meta‐Analysis",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        5,
+        27
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70948",
+      "abstract": "ABSTRACT Anthropogenic nitrogen (N) and phosphorus (P) inputs have significant effects on plant community composition and diversity in forest ecosystems. Compared to canopy layers, understory communities are more sensitive to exogenous nutrient inputs. Although some experimental evidence exists on the effects of N addition on understory communities, knowledge about the impacts of P addition and its interaction with N, as well as the underlying mechanisms, remains limited. Here, we conducted two nutrient manipulation experiments in tropical primary and secondary montane rainforests, and synthesized 33 peer‐reviewed studies to evaluate the impacts of N and P enrichments on species richness, density, and cover of understory plants in forests. Integrated evidence from field experiments and meta‐analyses consistently demonstrated that nutrient enrichment with N, P, or both significantly reduced the species richness, density, and cover of understory plant communities. The negative impacts intensified with experimental duration and addition rate. Mechanistically, alteration in soil conditions including excessive accumulations of N and P as well as N‐induced soil acidification mainly caused the loss of understory plant species. Our study underscores the negative influences of anthropogenic nutrient inputs on understory community diversity and coverage, thereby altering forest structure and functioning in the future.",
       "keywords": []
     },
     {
@@ -410,8 +550,17 @@
         27
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70940",
-      "abstract": "",
-      "keywords": []
+      "abstract": "We thank Kan et al. (2026) for their Letter on our paper (Zhang et al. 2026). Their 15-year conservation deep tillage (CDT) experiment （see also Kan et al. 2025）provides insights into alleviating subsoil constraints. Here we clarify that CDT is promising but largely context-dependent, as illustrated by data comparisons between our global synthesis and their site-specific results. Kan et al. reported results from one long-term field experiment at a single site (Nanjing, China) with a specific soil type. Their yield data consist of only 27 observations for wheat and 33 observations for rice, all from that one location. By contrast, our global synthesis was a second order meta-analysis of 69 published meta-analyses, representing thousands of paired comparisons across diverse climates, soil types, and management systems worldwide. A successful case at one site does not invalidate the statistically robust trade-offs identified globally. Instead, it underscores the need for context-specific innovation, a point we explicitly emphasized in our original paper. This need is further supported by our recent work, which demonstrated that the effectiveness of diversification strategies depends on local conditions (Qiu et al. 2024). Our analysis revealed differential effects of conservation tillage (CT) on ecosystem services versus yield. Table 1 contrasts global CT effects with CDT outcomes. First, the reported CDT effect on soil organic carbon (SOC) is +53%, over 2.5 times the global CT mean (+21%). This suggests either site-specific exceptional conditions or the combined effect of deep tillage and high straw inputs. Our global meta-analyses showed that crop residue return increases SOC (Liu, Fang, et al. 2023) and sustains stoichiometric balance (Liu, Qiu, et al. 2023). Second, while our synthesis detected no significant yield change under CT, Kan et al. reported yield gains (wheat +16%, rice +13%). Third, Kan et al. did not report greenhouse gas (GHG) fluxes or erosion data. In our original study, 41% of paired effects showed increased ecosystem services but decreased yield, with the largest trade-off between yield and GHG mitigation. Thus, the absence of GHG data leaves unresolved whether CDT exacerbates these trade-offs. Kan et al. argue that subsoil compaction limits yield under long-term no-till. We acknowledged subsoil constraints in our original paper and called for innovations like ditch-buried straw return. The CDT data provide a valuable example supporting this direction. Table 1 compares site-specific versus global conditions, suggesting CDT is most effective in high-input, humid systems, not the semi-arid, low-input contexts where CT faces its greatest challenges. Multi-site, multi-year trials are needed before CDT can be recommended globally. The findings of Kan et al. complement rather than refute our synthesis. Our main conclusions remain supported. At the global scale, CT enhances multiple ecosystem services with no net yield change, though partial trade-offs exist, especially between yield and GHG mitigation. Kan et al. take an important step toward context-specific innovations. Further multi-location trials are needed to assess CDT's generalizability. Linchuan Fang drafted the response, contributed to the revision, and approved the final version. This study was supported by the National Natural Science Foundation of China (42477326). The author declares no conflicts of interest. This article is a Response to a Letter to the Editor by (Kan et al, https://doi.org/10.1111/gcb.70942) regarding (Zhang et al, https://doi.org/10.1111/gcb.70825). No new data were generated for this response. All data from Zhang et al. (2026) are available at https://doi.org/10.6084/m9.figshare.30866357.",
+      "keywords": [
+        "Tillage",
+        "Subsoil",
+        "Soil carbon",
+        "Crop residue",
+        "Conventional tillage",
+        "Soil conservation",
+        "Topsoil",
+        "Soil management"
+      ]
     },
     {
       "doi": "10.1111/gcb.70920",
@@ -429,6 +578,34 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70920",
       "abstract": "ABSTRACT Global biodiversity is increasingly threatened by widespread anthropogenic impacts, which have accelerated since the First Industrial Revolution. Lowland rivers rank among the most affected ecosystems, having undergone centuries of hydromorphological modifications. The scarcity of historical data hampers precise assessments of biodiversity loss in these rivers since 1950, a critical threshold when anthropogenic pressures led to unprecedented ecological change. We compiled a comprehensive dataset of records of Ephemeroptera, Plecoptera and Trichoptera collected in time series from nine Czech lowland rivers over the past 140 years. Additionally, we integrated environmental data on water quality and hydroclimatic parameters spanning the last 60 years. Both alpha and gamma diversity declined steadily until the 1980s, followed by a partial recovery at the turn of the millennium due to water quality improvements. However, biodiversity recovery has remained limited in recent decades due to persistent pollution, climate change and potential depletion of the regional species pool. Assemblages are undergoing compositional changes driven by species turnover, rendering a return to their mid‐20th‐century baseline unlikely. Our results further highlight a dramatic loss of biodiversity already in the first half of the 20th century, which has not been offset by the partial recovery of rivers observed after 1990. Immediate actions are necessary to prevent further biodiversity decline and safeguard the ecosystem services of lowland rivers.",
+      "keywords": [
+        "Biodiversity",
+        "Threatened species",
+        "Ecosystem",
+        "Climate change",
+        "Ecosystem services",
+        "Water quality",
+        "Habitat destruction",
+        "Ecosystem diversity",
+        "Global biodiversity"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70937",
+      "doi_url": "https://doi.org/10.1111/gcb.70937",
+      "title": "Beyond the Enzyme‐Latch: A Narrative and Systematic Review of Enzymic Controls on Carbon Cycling in Peatlands",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        5,
+        27
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70937",
+      "abstract": "ABSTRACT Peatlands are globally important carbon stores, because carbon cycling of plant matter in peat soils is impaired leading to accumulation. The mechanisms that underlie this impairment are not clear, nor why damaging peatlands leads to carbon release. Twenty‐five years ago, the Enzyme‐latch hypothesis proposed a mechanism of enzymatic controls on carbon cycling in peatlands. Here a review of the evidence for this hypothesis is presented. In the narrative part of this review, some of the fundamental premises of the Enzyme‐latch hypothesis are considered in light of broader biochemical work, providing a more complex and nuanced framework for the operation of the proposed mechanism. In the second section, a systematic review identifies 70 studies in peatlands looking at four key variables to the Enzyme‐latch hypothesis. Six meta‐analyses of the interactions between these variables, each analyzing 2250–11,700 data points, show weak to negligible effects and therefore do not support the Enzyme‐latch hypothesis as a dominant driver controlling carbon cycling in peatlands. Newer conceptual models have already begun to present ideas to move the field beyond the Enzyme‐latch hypothesis and this review presents an evidential basis on which these ideas can be built upon to develop new and better mechanistic understandings of carbon cycling in peatlands. This is an urgent question, as the preservation and restoration of peatlands is essential to meeting the challenges of the climate crisis.",
       "keywords": []
     },
     {
@@ -447,7 +624,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70939",
       "abstract": "ABSTRACT Climate warming intensifies freeze–thaw cycles in frozen regions, promoting micro(nano)plastic aging, fragmentation, and release of plastic‐derived compounds. Aged plastics form plastisphere hotspots that may alter microbial carbon utilization and greenhouse gas emissions during thaw periods. This interaction represents a potential but unquantified positive climate feedback, requiring urgent experimental validation and integration into Earth System Models.",
-      "keywords": []
+      "keywords": [
+        "Greenhouse gas",
+        "Climate change",
+        "Global warming",
+        "Climate system",
+        "Carbon cycle",
+        "Runaway climate change",
+        "Earth system science",
+        "Greenhouse effect",
+        "Carbon dioxide"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70421",
@@ -492,7 +679,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70430",
       "abstract": "Abstract Understanding habitat fragmentation has largely focused on species counts, often neglecting functional diversity. This study addresses that gap by evaluating how landscape composition and configuration at patch and landscape scales affect mammalian functional diversity and key traits We conducted a random‐effects meta‐analysis (restricted maximum likelihood) on 268 Fisher's z effect sizes from 27 studies. The analysis examined eight functional diversity indices and five traits in relation to composition metrics (e.g. habitat cover, patch size) and configuration metrics (e.g. edge density, patch number, effective mesh size—MESH, forest landscape integrity index—FLII), accounting for study identity and heterogeneity ( Q , I 2 ). Roughly 60% of composition metrics showed significant positive effects—especially on functional richness—while configuration metrics, particularly MESH and FLII, had consistent negative impacts. Although typically associated with higher connectivity and integrity, these results were unexpected and suggest context‐dependent responses. The strongest positive responses were found in the Atlantic Forest and Southwestern Amazon, emphasizing the importance of habitat heterogeneity in tropical hotspots. Synthesis and applications . Our findings demonstrate that mammal functional richness in tropical regions requires integrating habitat amount and landscape configuration into land‐use planning. Conservation strategies should move beyond setting targets for total habitat area and explicitly incorporate configuration metrics that promote heterogeneity and functional connectivity. In highly transformed biodiversity hotspots, conservation and land‐use planning should prioritize expanding and diversifying these patches, rather than consolidating them into large homogeneous blocks, to better safeguard functional diversity and the ecosystem processes it supports.",
-      "keywords": []
+      "keywords": [
+        "Functional diversity",
+        "Habitat",
+        "Biodiversity",
+        "Species richness",
+        "Ecosystem",
+        "Landscape ecology",
+        "Habitat fragmentation",
+        "Fragmentation (computing)",
+        "Landscape connectivity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70429",
@@ -510,7 +707,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70429",
       "abstract": "Abstract A key challenge in restoration planning is predicting how passive and active processes may best be used together to promote successful landscape recovery. While passive recolonization of native plant communities can drive recovery, this process is often slow, and success is variable. Active restoration practices, such as reinstating historical disturbance regimes, may accelerate recolonization. However, few studies have empirically tested how specific active interventions can be used to facilitate recovery across heterogeneous landscapes. We conducted a 13‐year field experiment monitoring the recolonization of longleaf pine savanna ground‐layer communities in landscapes recovering from agricultural use and fire suppression in the southeastern USA. Across twelve sites, we established pairs of 1‐ha plots in untilled, fire‐suppressed remnant savannas and adjacent pine plantations previously under agriculture (recovering areas). Each site was randomly assigned to a low or high frequency of prescribed fire, and then, each plot pair was assigned a canopy thinning treatment: thinning in the remnant, the recovering area, both or neither (control). In each recovering area, we measured the spread of remnant indicator plant species along a 100 m transect extending away from the remnant. We found that remnant savanna indicator species can slowly recolonize recovering areas after 70 years without active interventions. However, combining high fire frequency and canopy thinning in the remnant or recovering area resulted in 3–4× more remnant indicator species in recovering areas. These patterns were modified by seed dispersal mode: species with vertebrate and short‐distance (e.g. by gravity or ants) dispersal modes spread further into recovering areas with combined thinning and burning treatments, whereas species dispersed by wind were rare regardless of treatment. Synthesis and applications . Our results show that combined canopy thinning and prescribed burning can accelerate natural recolonization in savanna systems. However, additional measures (e.g. seed addition) may be needed for weak‐dispersing species. These findings highlight the utility of integrating passive processes with active interventions to conduct efficient landscape‐scale restoration.",
-      "keywords": []
+      "keywords": [
+        "Thinning",
+        "Transect",
+        "Biological dispersal",
+        "Vegetation (pathology)",
+        "Canopy",
+        "Disturbance (geology)",
+        "Restoration ecology",
+        "Habitat",
+        "Agriculture"
+      ]
     },
     {
       "doi": "10.1111/gcb.70923",
@@ -573,7 +780,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70391",
       "abstract": "ABSTRACT Multi‐host pathogens vary in how they utilise different hosts, yet the traits determining which species occupy central positions in transmission networks remain poorly understood. We tested whether the wild bird–avian influenza virus (AIV) network exhibits a scale‐free structure, implying that hub hosts disproportionately contribute to transmission and whether ecological and evolutionary traits jointly predict hub status. Using global infection records, we constructed a bipartite network linking 247 bird species to 105 AIV subtypes. Degree distributions followed a power‐law pattern, confirming substantial heterogeneity in host importance. We identified 23 hub species, exclusively from Anseriformes and Charadriiformes. Interpretable machine learning revealed that hub species share strong flightability, prolonged water‐surface foraging, greater longevity and higher diversification rates, indicating that both ecological exposure and evolutionary history influence hub status. These findings provide insight into host–pathogen network dynamics and highlight priority species for targeted AIV surveillance and control.",
-      "keywords": []
+      "keywords": [
+        "Influenza A virus subtype H5N1",
+        "Transmission (telecommunications)",
+        "Disease transmission",
+        "Highly pathogenic",
+        "Emerging infectious disease",
+        "Avian influenza virus",
+        "Influenza A virus",
+        "Pandemic"
+      ]
     },
     {
       "doi": "10.1111/ele.70413",
@@ -591,7 +807,13 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70413",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Constraint (computer-aided design)",
+        "Niche",
+        "Morphology (biology)",
+        "Ecological niche",
+        "Biological evolution"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03054-w",
@@ -15516,31 +15738,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70764",
-      "doi_url": "https://doi.org/10.1111/gcb.70764",
-      "title": "Uniting Range and Phenological Shifts to Better Understand Effects of Climate Change on Communities",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-20",
-      "published_date_display": "2026-02-20",
-      "published_parts": [
-        2026,
-        2,
-        20
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70764",
-      "abstract": "The authors declare no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analysed during the current study.",
-      "keywords": [
-        "Climate change",
-        "Phenology",
-        "Range (aeronautics)",
-        "Global change",
-        "Current (fluid)",
-        "Ecosystem"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2745.70266",
       "doi_url": "https://doi.org/10.1111/1365-2745.70266",
       "title": "Global insular leaf size shifts follow the island rule, independently of insect herbivory and macroclimate",
@@ -18053,34 +18250,6 @@
         "Terrestrial plant",
         "Productivity",
         "Global change"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70727",
-      "doi_url": "https://doi.org/10.1111/gcb.70727",
-      "title": "Detected Shifts Towards Drought‐Adaptive Strategies in the Amazon Forest Over the Last Four Decades",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-04",
-      "published_date_display": "2026-02-04",
-      "published_parts": [
-        2026,
-        2,
-        4
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70727",
-      "abstract": "ABSTRACT The Amazon Forest is undergoing rapid ecological shifts driven by intensifying drought, rising temperatures, and widespread anthropogenic disturbance. Yet the reorganization of vegetation functional strategies under climate stress remains poorly quantified at the biome scale. Here, we show that the temporal stability of canopy reflectance offers a sensitive remote proxy for sclerophylly—leaf toughness, a key indicator of conservative, drought‐adaptive plant strategies. By integrating ground‐based trait data (specific leaf area, SLA) from over 3000 trees across 448 plots in the Amazon‐Cerrado savanna transition zone with high‐resolution remote sensing imagery, we demonstrate that lower SLA—a well‐established proxy for conservative leaf strategies—is associated with reduced dry‐season variability in the blue band spectral reflectance of vegetation. Extending the analysis across 130 plots in nine Amazonian countries using 40 years of harmonised remote sensing data, we find that dry‐season reflectance variability has declined by ~34% (a drop of ~10 percentage points) since 1984, indicating a biome‐wide shift toward greater drought tolerance. This trend is most pronounced in the southern and eastern Amazon and closely tracks rising climate stress, particularly increased temperature, evaporative demand, and water deficit. If these patterns persist, much of the southern and eastern Amazon could reach reflectance‐stability levels comparable to transitional zones with the Cerrado savanna biome within the next three to four decades. Our results show signals of an early‐stage forest functional transformation that could reduce forest productivity and carbon uptake, increase vulnerability to fire, and diminish biodiversity. These findings highlight regions where early signs of reduced forest resilience are emerging, underscoring the need for spatially targeted conservation.",
-      "keywords": [
-        "Biome",
-        "Amazon rainforest",
-        "Climate change",
-        "Amazonian",
-        "Vegetation (pathology)",
-        "Desertification",
-        "Canopy",
-        "Rainforest",
-        "Ecosystem"
       ]
     },
     {
