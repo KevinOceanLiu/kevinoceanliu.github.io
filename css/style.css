@@ -925,21 +925,6 @@ body {
     text-align: center;
 }
 
-.clustrmaps-widget {
-    margin-top: 16px;
-    position: relative;
-    height: 180px;
-    overflow: visible;
-}
-
-.clustrmaps-widget > * {
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%) scale(0.11);
-    transform-origin: top center;
-}
-
 .page-closing-copyright {
     margin-top: 20px;
     color: #9a9a9a;
@@ -3540,28 +3525,6 @@ a.link-arrow:hover,
     height: auto;
 }
 
-.clustrmaps-widget {
-    grid-column: 2;
-    grid-row: 1 / span 2;
-    width: 54px;
-    height: 54px;
-    margin-top: 0;
-    position: relative;
-    overflow: hidden;
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-md);
-    background: var(--surface-color);
-    opacity: 0.72;
-}
-
-.clustrmaps-widget > * {
-    position: absolute;
-    top: -9px;
-    left: 50%;
-    transform: translateX(-50%) scale(0.035);
-    transform-origin: top center;
-}
-
 @media (max-width: 768px) {
     .page-closing {
         grid-template-columns: 1fr;
@@ -3578,12 +3541,6 @@ a.link-arrow:hover,
         padding-right: 84px;
     }
 
-    .clustrmaps-widget {
-        grid-column: 1;
-        grid-row: auto;
-        width: 48px;
-        height: 48px;
-    }
 }
 
 .page-with-closing {
@@ -3701,32 +3658,6 @@ select {
 .education-school,
 .page-closing p {
     font-size: var(--type-small);
-}
-
-/* ====================
-   Hidden Visitor Tracker
-   ==================== */
-
-.page-closing {
-    grid-template-columns: 1fr;
-}
-
-.clustrmaps-widget {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    opacity: 0;
-    pointer-events: none;
-    border: 0;
-    background: transparent;
-}
-
-.clustrmaps-widget > * {
-    position: static;
-    transform: none;
 }
 
 .journal-entry-title-line a,
