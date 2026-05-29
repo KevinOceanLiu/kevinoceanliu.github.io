@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T23:53:58.145258+00:00",
+  "generated_at": "2026-05-29T23:52:38.600516+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -297,6 +297,42 @@
       ]
     },
     {
+      "doi": "10.1111/1365-2745.70331",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70331",
+      "title": "Fire‐survival strategies of first‐year acacia seedlings",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-29",
+      "published_date_display": "2026-05-29",
+      "published_parts": [
+        2026,
+        5,
+        29
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70331",
+      "abstract": "Abstract Savannas—defined by discontinuous tree cover and continuous grass cover—are maintained by factors such as drought, fire and herbivory which impose bottlenecks on tree populations. Despite evidence that young plants are particularly vulnerable to fire, surprisingly little is known about the traits that enable first‐year seedlings to survive fire. This limits our understanding of the mechanisms underlying tree establishment and savanna dynamics more generally. We conducted a full‐factorial common garden experiment to measure the separate and combined impacts of fire, drought and herbivory on rates on 3‐ to 6‐month‐old seedlings of 12 ‘ Acacia ’ (sensu lato) species in the genera Vachellia and Senegalia . Results demonstrate an overwhelming impact of fire on mortality, enhanced by drought, but the impact of herbivory was not detectable. Stem thickness was the best predictor of topkill and survival, with threshold diameters of 9.56 mm (95% CI 9.51–9.59) for well‐watered and 11.52 mm (95% CI 10.88–12.69) for droughted plants, above which seedlings had favourable odds of avoiding topkill by fire and surviving. The ability of seedlings to survive after being topkilled by fire varied by species and was linked to the drought treatment and the existence of stem bases below‐ground. Thus, fire represents a major demographic bottleneck for first‐year acacia seedlings, even when seedlings are established and have sufficient access to water. Synthesis: Acacia seedlings (11 of 12 species) acquire some ability to survive grass fires in their first year, either by resisting topkill with thickened stems and/or by regrowing from below‐ground stems. Our results suggest that small differences in these fire‐survival strategies at this crucial life stage translate to large differences in savanna physiognomy and species composition.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70350",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70350",
+      "title": "Cover Picture and Issue Information",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-05-29",
+      "published_date_display": "2026-05-29",
+      "published_parts": [
+        2026,
+        5,
+        29
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70350",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03109-y",
       "doi_url": "https://doi.org/10.1038/s41559-026-03109-y",
       "title": "Multitasking sponges",
@@ -348,7 +384,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70419",
       "abstract": "Abstract Strip cropping involves growing multiple crops in adjacent strips in a field, which facilitates existing management routines while promoting ecological interactions. While strip cropping can promote in‐field biodiversity and biological control of insect pests, it is unclear how strip cropping affects in‐field slugs, which can cause considerable crop damage. We selected 20 farms across the Netherlands with paired monoculture and strip cropping fields. The strip cropping fields varied in strip width (3–33 m), number of crop species grown (2–9 crops), and farming system (conventional or organic). We used a combination of shelter and pitfall traps to quantify populations of slugs and their arthropod predators in cereals. Absolute slug abundance was low at most farms, but was 3–5 times higher in strip cropping relative to paired monocultures. Slug abundance in strip cropping increased with increasing strip width. Farming system, cereal type, soil type, or the number of crop species did not mediate the effect of strip cropping on slug abundances. Natural enemy diversity was around 25% higher in strip cropping, and this effect of strip cropping was mediated by cereal type and soil type. Farming system, strip width, or number of crops did not mediate the effect of strip cropping on natural enemy diversity. Most farmers reported similar levels of slug damage in cereals in strip cropping and monoculture. However, some farmers reported increased slug damage in other crops within the strip cropping arrangement, especially at farms with relatively high slug abundances. Synthesis and applications. To avoid increased slug damage in strip cropping fields in slug‐prone areas, potential slug‐source crops should be spatially separated from slug‐sensitive crops. However, an increase in slug abundance should not deter the adoption of strip cropping as higher slug damage in strip cropping systems was rarely observed by farmers.",
-      "keywords": []
+      "keywords": [
+        "Cropping",
+        "Crop",
+        "Cropping system",
+        "Monoculture",
+        "Biodiversity",
+        "Abundance (ecology)",
+        "Agriculture",
+        "Slug"
+      ]
     },
     {
       "doi": "10.1111/ele.70404",
@@ -366,7 +411,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70404",
       "abstract": "ABSTRACT Since the early 2000's, Modern Coexistence Theory (MCT) has guided empirical investigations of coexistence. We reviewed empirical applications of MCT to answer two questions: (1) What have we learned about the strength of temporal, spatial and variation‐independent mechanisms of coexistence in nature? (2) How have studies of niche and fitness differences advanced our understanding of coexistence? With respect to the first question, we now have evidence that the temporal storage effect and variation‐independent mechanisms help stabilize coexistence in many systems. We have not learned more due to the low number of tests of these mechanisms (24 out of 84 MCT studies), the narrow focus on mechanisms involving temporal variation and grassland communities, and lack of rigorous model validation. With respect to our second question, studies of niche and fitness differences (61 of 84 studies) have answered fundamental questions about the role of phylogenetic relatedness, plant–soil feedbacks, and functional traits in coexistence. We recommend that future empirical MCT studies (1) match hypotheses to MCT quantities, (2) address gaps in empirical studies, (3) avoid known biases in estimating competition coefficients, and (4) validate models with independent data.",
-      "keywords": []
+      "keywords": [
+        "Competition (biology)",
+        "Empirical research",
+        "Niche",
+        "Variation (astronomy)",
+        "Empirical evidence",
+        "Theoretical ecology",
+        "Focus (optics)",
+        "Mechanism (biology)"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03085-3",
@@ -533,7 +587,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70948",
       "abstract": "ABSTRACT Anthropogenic nitrogen (N) and phosphorus (P) inputs have significant effects on plant community composition and diversity in forest ecosystems. Compared to canopy layers, understory communities are more sensitive to exogenous nutrient inputs. Although some experimental evidence exists on the effects of N addition on understory communities, knowledge about the impacts of P addition and its interaction with N, as well as the underlying mechanisms, remains limited. Here, we conducted two nutrient manipulation experiments in tropical primary and secondary montane rainforests, and synthesized 33 peer‐reviewed studies to evaluate the impacts of N and P enrichments on species richness, density, and cover of understory plants in forests. Integrated evidence from field experiments and meta‐analyses consistently demonstrated that nutrient enrichment with N, P, or both significantly reduced the species richness, density, and cover of understory plant communities. The negative impacts intensified with experimental duration and addition rate. Mechanistically, alteration in soil conditions including excessive accumulations of N and P as well as N‐induced soil acidification mainly caused the loss of understory plant species. Our study underscores the negative influences of anthropogenic nutrient inputs on understory community diversity and coverage, thereby altering forest structure and functioning in the future.",
-      "keywords": []
+      "keywords": [
+        "Understory",
+        "Nutrient",
+        "Plant community",
+        "Canopy",
+        "Field experiment",
+        "Phosphorus",
+        "Nutrient cycle",
+        "Nitrogen"
+      ]
     },
     {
       "doi": "10.1111/gcb.70940",
@@ -606,7 +669,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70937",
       "abstract": "ABSTRACT Peatlands are globally important carbon stores, because carbon cycling of plant matter in peat soils is impaired leading to accumulation. The mechanisms that underlie this impairment are not clear, nor why damaging peatlands leads to carbon release. Twenty‐five years ago, the Enzyme‐latch hypothesis proposed a mechanism of enzymatic controls on carbon cycling in peatlands. Here a review of the evidence for this hypothesis is presented. In the narrative part of this review, some of the fundamental premises of the Enzyme‐latch hypothesis are considered in light of broader biochemical work, providing a more complex and nuanced framework for the operation of the proposed mechanism. In the second section, a systematic review identifies 70 studies in peatlands looking at four key variables to the Enzyme‐latch hypothesis. Six meta‐analyses of the interactions between these variables, each analyzing 2250–11,700 data points, show weak to negligible effects and therefore do not support the Enzyme‐latch hypothesis as a dominant driver controlling carbon cycling in peatlands. Newer conceptual models have already begun to present ideas to move the field beyond the Enzyme‐latch hypothesis and this review presents an evidential basis on which these ideas can be built upon to develop new and better mechanistic understandings of carbon cycling in peatlands. This is an urgent question, as the preservation and restoration of peatlands is essential to meeting the challenges of the climate crisis.",
-      "keywords": []
+      "keywords": [
+        "Peat",
+        "Carbon cycle",
+        "Carbon fibers",
+        "Cycling",
+        "Carbon flux",
+        "Climate change",
+        "Narrative"
+      ]
     },
     {
       "doi": "10.1111/gcb.70939",
