@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T22:45:39.781979+00:00",
+  "generated_at": "2026-05-29T22:42:46.846685+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,60 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.038",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.038",
-      "title": "Multimodal deep learning with aerial imagery and nDSM for true-slope-aware rooftop photovoltaic potential estimation",
+      "doi": "10.1016/j.rse.2026.115506",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115506",
+      "title": "Towards operational automated greenhouse gas plume detection and delineation",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002762",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115501",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115501",
+      "title": "Habitat-dependent and asymmetric drivers of spectral diversity–biodiversity relationships in temperate grasslands",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002713",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115508",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115508",
+      "title": "A review of multi-category forest fuel load estimation methods from traditional measurements to remote sensing and future perspectives: towards fire prevention",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002786",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.025",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.025",
+      "title": "Towards comprehensive multi-task land cover change detection leveraging vision-language model and LLM-driven agents",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -38,9 +89,35 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002856",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002662",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.038",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.038",
+      "title": "Multimodal deep learning with aerial imagery and nDSM for true-slope-aware rooftop photovoltaic potential estimation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002856",
+      "abstract": "",
+      "keywords": [
+        "Aerial image",
+        "Aerial imagery",
+        "Photovoltaic system",
+        "Deep learning",
+        "Benchmark (surveying)",
+        "Sensor fusion",
+        "RGB color model",
+        "Orthophoto"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.026",
@@ -49,15 +126,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002674",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Robustness (evolution)",
+        "Clutter",
+        "Motion detection",
+        "Trajectory",
+        "Motion (physics)",
+        "Object detection",
+        "Process (computing)",
+        "Encoding (memory)",
+        "Fusion mechanism"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.037",
@@ -66,15 +153,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-28",
+      "published_date_display": "2026-05-28",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002844",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Compensation (psychology)",
+        "Attenuation",
+        "Image restoration",
+        "Stereo imaging",
+        "Color correction",
+        "Stereo image"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.024",
@@ -10953,32 +11047,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.031",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.031",
-      "title": "Multispectral airborne laser scanning for tree species classification: A benchmark of machine learning and deep learning algorithms",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-27",
-      "published_date_display": "2026-01-27",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000316",
-      "abstract": "Climate-smart and biodiversity-preserving forestry demands precise information on forest resources, extending to the individual tree level. Multispectral airborne laser scanning (ALS) has shown promise in automated point cloud processing, but challenges remain in leveraging deep learning techniques and identifying rare tree species in class-imbalanced datasets. This study addresses these gaps by conducting a comprehensive benchmark of deep learning and traditional shallow machine learning methods for tree species classification. For the study, we collected high-density multispectral ALS data ($>1000$ $\\mathrm{pts}/\\mathrm{m}^2$) at three wavelengths using the FGI-developed HeliALS system, complemented by existing Optech Titan data (35 $\\mathrm{pts}/\\mathrm{m}^2$), to evaluate the species classification accuracy of various algorithms in a peri-urban study area located in southern Finland. We established a field reference dataset of 6326 segments across nine species using a newly developed browser-based crowdsourcing tool, which facilitated efficient data annotation. The ALS data, including a training dataset of 1065 segments, was shared with the scientific community to foster collaborative research and diverse algorithmic contributions. Based on 5261 test segments, our findings demonstrate that point-based deep learning methods, particularly a point transformer model, outperformed traditional machine learning and image-based deep learning approaches on high-density multispectral point clouds. For the high-density ALS dataset, a point transformer model provided the best performance reaching an overall (macro-average) accuracy of 87.9% (74.5%) with a training set of 1065 segments and 92.0% (85.1%) with a larger training set of 5000 segments.",
-      "keywords": [
-        "Deep learning",
-        "Multispectral image",
-        "Point cloud",
-        "Benchmark (surveying)",
-        "Tree (set theory)",
-        "Laser scanning",
-        "Lidar",
-        "Test set"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2617938",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2617938",
       "title": "Predicting risks of hemorrhagic fever with renal syndrome using a Bayesian spatiotemporal hierarchical model",
@@ -11575,33 +11643,6 @@
         "Spatial ecology",
         "Temporal scales",
         "Canopy"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115241",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115241",
-      "title": "RPI-GMM: A novel structure-based and phenology-independent algorithm for mapping latest 10-m resolution national-level rubber plantations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-14",
-      "published_date_display": "2026-01-14",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000118",
-      "abstract": "",
-      "keywords": [
-        "Natural rubber",
-        "Phenology",
-        "Canopy",
-        "Backscatter (email)",
-        "Leaf area index",
-        "Tropics",
-        "Vegetation (pathology)",
-        "Normalized Difference Vegetation Index",
-        "Image resolution"
       ]
     },
     {
@@ -12567,33 +12608,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115169",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115169",
-      "title": "Global retrieval of harmonized microwave land surface emissivity leveraging multi-sensor measurements from GMI, AMSR2 and MWRIs",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-08",
-      "published_date_display": "2025-12-08",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005735",
-      "abstract": "Accurate accounting of microwave land surface emissivity (MLSE) facilitates applications associated with monitoring the ecohydrological dynamics in global terrestrial ecosystems, quantifying cross-sphere carbon and water exchanges, and meeting the critical accuracy required for assimilation in the global precipitation retrieval algorithm. However, collaborative applications of emissivity retrieved from individual sensors are severely hampered by discrepancies in retrieval techniques, instrumental configurations, calibration errors, and broken temporal periods. To mitigate this gap, we present an innovative framework to retrieve harmonized emissivity from observations of five passive microwave sensors, namely, GPM-CO/GMI, Fengyun-3B, −3C and −3D/MWRI, and GCOM-W1/AMSR2. Six geostationary visible and infrared imagers onboard three geostationary platforms, i.e. GOES-16/ABI, Himawari-8, −9/AHI, and MSG-1, −2, −3/SEVIRI, were collocated to jointly provide clear-sky masks covering the globe. The simultaneous conical overpass (SCO) recalibration technique was applied to scale all emissivity subsets retrieved from different sensors to be aligned with the GMI retrievals across various land types. Quantitative analyses reveal exceptionally strong consistency among emissivities across different subsets (Pearson R ≈ 0.95, RMSD <0.011, and mean bias within ±0.005). Our estimates at 10.65 GHz show strong agreement with in-situ radiometer measurements over two grass and crop fields, with errors generally within ±0.01 at vertical polarization and a systematic underestimation of approximately −0.02 at horizontal polarization. Globally, we evaluate the recalibrated emissivities against four reference datasets derived using various techniques, which includes three single-sensor retrievals from GMI and AMSR-E, as well as a climatology emissivity atlas generated using the Tool to Estimate Land Surface Emissivity at Microwaves and Millimeter waves (TELSEM). The results demonstrate strong consistencies at both vertical ( R = 0.8–0.9, RMSD <0.015 or ∼ 1.5 %) and horizontal ( R = 0.9–0.95, RMSD <0.02 or ∼ 2 %) polarizations on a monthly scale. The observed discrepancies are primarily attributed to differences in instrumental configurations, calibration accuracy, and retrieval methodologies. The harmonized retrieval algorithm and the sophisticated cross sensor calibrations facilitate its implementation as a self-consistent emissivity data for various applications associated with terrestrial ecohydrological dynamics, surface hydrological properties estimation, as well as the physical-based precipitation retrieval algorithms over land. • Community retrievals of surface emissivity from five passive microwave sensors. • Cloud removals using joint observations from six geostationary VIS/IR imagers. • Sophisticated intercalibrations harmonizing emissivity subsets of different sensors.",
-      "keywords": [
-        "Emissivity",
-        "Geostationary orbit",
-        "Microwave",
-        "Radiometry",
-        "Radiometer",
-        "Microwave radiometer",
-        "Land cover",
-        "Calibration",
-        "Brightness temperature"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115162",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115162",
       "title": "RayExtract: A fast, scalable method for tree volume reconstruction from terrestrial laser scanning",
@@ -12667,33 +12681,6 @@
         "Transfer of learning",
         "Snow",
         "Task (project management)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115175",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115175",
-      "title": "The role of cross-polarization in producing high-resolution pan-Arctic sea ice motion from the RADARSAT Constellation Mission over several years",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-04",
-      "published_date_display": "2025-12-04",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005796",
-      "abstract": "We introduce a new pan-Arctic Environment and Climate Change Canada (ECCC) HIgh-Resolution sea Ice Tracking System (HIRITS) operating with the RADARSAT Constellation Mission (RCM) HH and HV synthetic aperture radar (SAR) images resampled at a resolution of 80 m. The spacing between neighbour output vectors was often around 1 km. When combining HH and HV, the resulting ice displacements (over 2 h to 3.5 days) derived for June 1, 2022 – May 31, 2025 were in an excellent agreement with International Arctic Buoy Programme data with the overall root-mean square error (RMSE) of 1.48 km, and correlation of 0.996 for the x and y components. Ice motion vectors provided by HV had consistently greater tracking cross-correlation coefficients (with the average value of 0.56) than those derived from HH (average value of 0.45), implying a higher confidence. The RCM HH + HV ice motion agreed well with the existing passive microwave products from the National Snow and Ice Data Center (NSIDC) and Ocean and Sea Ice Satellite Application Facility (OSI SAF) with RMSEs of 4.19 km/d and 5.03 km/d respectively. We introduced an aggregated sea ice motion pan-Arctic gridded product at 2 km resolution that combines individual RCM ice motion products (HH and HV) derived over 3- and 7-day rolling time windows. A greater number of vectors was derived from HV compared to HH across the pan-Arctic domain, except for the situations where the HV signal is low, such as over smooth land fast ice. The new RCM HH + HV products generated since mid-May 2022 will substantially benefit various applications that require sea ice motion at high spatial resolution including accurate computation of sea ice deformation. • New pan-Arctic HIgh-Resolution Ice Tracking System (HIRITS) is introduced. • Pan-Arctic sea ice motion is derived from the RCM's HH and HV imagery. • RCM-derived ice motion agrees very well with buoy data over a 36-months period. • HV channel of RCM provides excellent added value to HH throughout an ice season.",
-      "keywords": [
-        "Sea ice",
-        "Synthetic aperture radar",
-        "Arctic ice pack",
-        "Constellation",
-        "Snow",
-        "Satellite",
-        "Buoy",
-        "Sea ice concentration",
-        "Arctic"
       ]
     },
     {
