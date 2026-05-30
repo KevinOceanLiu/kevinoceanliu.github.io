@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T22:42:46.846685+00:00",
+  "generated_at": "2026-05-30T22:12:25.868736+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,19 +26,19 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115506",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115506",
-      "title": "Towards operational automated greenhouse gas plume detection and delineation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "doi": "10.1016/j.isprsjprs.2026.05.039",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.039",
+      "title": "Clean and consistent MLS point clouds from the start: Moving-object removal coupled with LIDAR-inertial odometry for urban scenes",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
       "published_parts": [
         2026,
-        9
+        8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002762",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002868",
       "abstract": "",
       "keywords": []
     },
@@ -49,15 +49,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-29",
+      "published_date_display": "2026-05-29",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002713",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Temperate climate",
+        "Vegetation (pathology)",
+        "Grassland",
+        "Climate change",
+        "Spectral analysis"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115508",
@@ -66,15 +72,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-05-29",
+      "published_date_display": "2026-05-29",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002786",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Fire prevention",
+        "Estimation",
+        "Fire control",
+        "Remote sensing application",
+        "Earth remote sensing"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.025",
@@ -83,15 +95,24 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-29",
+      "published_date_display": "2026-05-29",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002662",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Change detection",
+        "Land cover",
+        "Adaptability",
+        "Robustness (evolution)",
+        "Land use",
+        "land-use change and forestry",
+        "Workflow",
+        "Cover (algebra)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.038",
@@ -11342,33 +11363,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.026",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.026",
-      "title": "Detecting global ocean subsurface density change with high-resolution via dual-task densely-former",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-22",
-      "published_date_display": "2026-01-22",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000262",
-      "abstract": "",
-      "keywords": [
-        "Argo",
-        "Ocean observations",
-        "Mesoscale meteorology",
-        "Stratification (seeds)",
-        "Climate change",
-        "Global change",
-        "Ocean heat content",
-        "Ocean dynamics",
-        "Global warming"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115249",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115249",
       "title": "Global analysis of nitrogen dioxide and formaldehyde column densities from the Pandora global network: Variability and implications for satellite validation",
@@ -12704,6 +12698,33 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115506",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115506",
+      "title": "Towards operational automated greenhouse gas plume detection and delineation",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2025-05-27",
+      "published_date_display": "2025-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002762",
+      "abstract": "",
+      "keywords": [
+        "Automation",
+        "Key (lock)",
+        "Software deployment",
+        "Convolutional neural network",
+        "Greenhouse gas",
+        "Set (abstract data type)",
+        "Data quality",
+        "Data set",
+        "Segmentation"
       ]
     },
     {
