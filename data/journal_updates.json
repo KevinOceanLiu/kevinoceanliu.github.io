@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T22:12:25.868736+00:00",
+  "generated_at": "2026-05-31T22:13:27.349173+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,53 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-05-30",
+      "published_date_display": "2026-05-30",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002868",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Odometry",
+        "Point cloud",
+        "Trajectory",
+        "Visual odometry",
+        "Consistency (knowledge bases)",
+        "Scalability",
+        "Code (set theory)",
+        "Mobile mapping",
+        "Cluster analysis",
+        "Lidar"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115506",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115506",
+      "title": "Towards operational automated greenhouse gas plume detection and delineation",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-29",
+      "published_date_display": "2026-05-29",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002762",
+      "abstract": "",
+      "keywords": [
+        "Automation",
+        "Key (lock)",
+        "Software deployment",
+        "Convolutional neural network",
+        "Greenhouse gas",
+        "Set (abstract data type)",
+        "Data quality",
+        "Data set",
+        "Segmentation"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115501",
@@ -12698,33 +12736,6 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115506",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115506",
-      "title": "Towards operational automated greenhouse gas plume detection and delineation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-05-27",
-      "published_date_display": "2025-05-27",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002762",
-      "abstract": "",
-      "keywords": [
-        "Automation",
-        "Key (lock)",
-        "Software deployment",
-        "Convolutional neural network",
-        "Greenhouse gas",
-        "Set (abstract data type)",
-        "Data quality",
-        "Data set",
-        "Segmentation"
       ]
     },
     {
