@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T23:44:09.320666+00:00",
+  "generated_at": "2026-06-01T23:56:41.881927+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -295,6 +295,42 @@
         "Resistance (ecology)",
         "Disturbance (geology)"
       ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70360",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70360",
+      "title": "Elevation and environmental factors shape variability rather than the mean of seedling herbivory across subtropical forests",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        6,
+        1
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70360",
+      "abstract": "Abstract Insect herbivory on plant seedlings is crucial for understanding plant community dynamics, exhibiting significant variability along environmental gradients. However, empirical research has primarily focused on mean herbivory levels, overlooking the roles of herbivory variability in species coexistence. In this study, we used a standardized field protocol to collect herbivory data from 11,811 seedling leaves of 415 woody species along five elevational transects in (sub)tropical mountains. We compared the mean and variability of herbivory across seedlings of woody species within each site and examined how plant size, plant diversity and abiotic conditions influence herbivory patterns in trees and shrubs. We found that herbivory variability across species significantly declined with increasing elevation in shrubs but not in trees, while mean herbivory showed a marginally significant decline with elevation irrespective of tree or shrub growth form. Plant size significantly affected herbivory variability but not mean herbivory. Leaf area was negatively associated with variability, while seedling height had a positive effect, and these patterns differed between growth forms. Plant diversity mainly shaped how herbivory was distributed among species, rather than affecting mean herbivory. Among abiotic factors, canopy cover and soil temperature were the main drivers of herbivory variability. Synthesis . We demonstrate overall, but growth‐form‐dependent, elevational declines in both mean and variability of herbivory at community level, with plant size, plant diversity and abiotic conditions influencing herbivory variability but not the mean. This study provides new evidence that herbivory variability should be considered in predicting how plant–herbivore dynamics respond to climate and biodiversity changes, with important implications for ecosystem stability and species coexistence.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70434",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70434",
+      "title": "No safe refuge? Contrasting effects of hunting on rainforest mammal persistence and (re)colonisation",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        6,
+        1
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70434",
+      "abstract": "Abstract Defaunation in tropical forests represents one of the most urgent biodiversity crises of our time, driven largely by unsustainable hunting. Understanding how species persist or disappear under intense hunting pressure is critical for designing effective conservation strategies, especially in unprotected areas. We quantified how hunting influences species dynamics in an unprotected Afrotropical rainforest by analysing monitoring data collected from 2016 to 2023 for eleven terrestrial and arboreal mammal species in the Ebo forest, Cameroon. Using Bayesian dynamic occupancy models with correlated detections, we assessed how species occupancy changes along environmental and anthropogenic gradients, explicitly including hunting intensity and hunters' travel cost as predictors for persistence and colonisation. Elevation emerged as the strongest predictor positively influencing the occupancy of all eleven species, with some species exhibiting non‐linear trends along the elevation gradient. Most species generally occupied areas with high travel cost, especially elephant, chimpanzee, crowned monkey and red river hog. Meanwhile, terrain ruggedness had variable effects, with a strong positive effect on chimpanzee and a negative effect on mona monkey. Surprisingly, hunting showed a positive though weak association with the persistence probability of some species, suggesting that the areas used as refuges by wildlife were not exempt from hunting. Species persistence was generally unaffected by travel cost, except for chimpanzees. In parallel, colonisation probability was lower in areas with past hunting history, indicating that previously hunted areas were less likely to be recolonised by wildlife. Similarly, colonisation tended to be higher in areas with high travel cost, suggesting that more accessible areas were less likely for recolonisation. Synthesis and applications . These results imply that hunting not only targets areas used as refuges by wildlife, but also reduces recolonisation potential and may therefore alter source–sink dynamics. We recommend spatially targeted community‐led actions to limit hunting where wildlife still persists through the creation of no‐hunting areas to ensure the long‐term persistence of wildlife within the forest.",
+      "keywords": []
     },
     {
       "doi": "10.1111/1365-2745.70331",
