@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T22:13:27.349173+00:00",
+  "generated_at": "2026-06-01T23:09:32.893390+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,93 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115514",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115514",
+      "title": "Incorporating non-photochemical quenching (NPQ) into estimating photosynthetic carbon assimilation from solar-induced chlorophyll fluorescence (SIF)",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002841",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115504",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115504",
+      "title": "Optimized retrievals of aerosol optical properties from directional polarimetric camera using optimal linear mixture of basis aerosol models supported by the non-negative matrix factorization",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002749",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115502",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115502",
+      "title": "Domain knowledge constrained dynamic graph learning of GNSS sensor networks for spatio-temporal slope deformation monitoring",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002725",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2675583",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2675583",
+      "title": "A novel heuristic flow direction algorithm for stream modeling in flat areas using digital elevation models",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        6,
+        1
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2675583",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2659905",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2659905",
+      "title": "Food Insecurity, Local Institutions, and Changing Support for Violence during a Severe Drought in Northern Kenya, 2020–2022",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        6,
+        1
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659905",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.039",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.039",
@@ -10354,31 +10441,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.011",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.011",
-      "title": "WHU-STree: A multi-modal benchmark dataset for street tree inventory",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-06",
-      "published_date_display": "2026-02-06",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000626",
-      "abstract": "",
-      "keywords": [
-        "Tree (set theory)",
-        "Benchmark (surveying)",
-        "Key (lock)",
-        "Field (mathematics)",
-        "Asset (computer security)",
-        "Point (geometry)",
-        "Urban computing"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.004",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.004",
       "title": "Multimodal remote sensing change detection: An image matching perspective",
@@ -11401,6 +11463,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.isprsjprs.2026.01.026",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.026",
+      "title": "Detecting global ocean subsurface density change with high-resolution via dual-task densely-former",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-01-22",
+      "published_date_display": "2026-01-22",
+      "published_parts": [
+        2026,
+        3
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000262",
+      "abstract": "",
+      "keywords": [
+        "Argo",
+        "Ocean observations",
+        "Mesoscale meteorology",
+        "Stratification (seeds)",
+        "Climate change",
+        "Global change",
+        "Ocean heat content",
+        "Ocean dynamics",
+        "Global warming"
+      ]
+    },
+    {
       "doi": "10.1016/j.rse.2026.115249",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115249",
       "title": "Global analysis of nitrogen dioxide and formaldehyde column densities from the Pandora global network: Variability and implications for satellite validation",
@@ -11699,32 +11788,6 @@
         "Government (linguistics)",
         "Sustainability",
         "State (computer science)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115242",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115242",
-      "title": "Multi-satellite derived data reveals spatiotemporal dynamics of carbon-water coupling and its drivers in tropical ecosystems",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-13",
-      "published_date_display": "2026-01-13",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600012X",
-      "abstract": "",
-      "keywords": [
-        "Evapotranspiration",
-        "Ecosystem",
-        "Water-use efficiency",
-        "Tropics",
-        "Tropical climate",
-        "Primary production",
-        "Water cycle",
-        "Tropical Asia"
       ]
     },
     {
@@ -12331,32 +12394,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115217",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115217",
-      "title": "A kernel-driven BRDF model by accounting for urban building structures: Model development and preliminary application with satellite data",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-31",
-      "published_date_display": "2025-12-31",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006212",
-      "abstract": "",
-      "keywords": [
-        "Bidirectional reflectance distribution function",
-        "Radiative transfer",
-        "Satellite",
-        "Azimuth",
-        "Robustness (evolution)",
-        "Atmospheric radiative transfer codes",
-        "Reflectivity",
-        "Urban planning"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115211",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115211",
       "title": "Leaf fall witnessed by night-time light: A first attempt to detect urban leaf fall dates using satellite nighttime light data",
@@ -12510,29 +12547,6 @@
         "Root mean square",
         "Channel (broadcasting)",
         "Thermal"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115198",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115198",
-      "title": "GPP-net: a robust high-resolution GPP estimation network for Sentinel-2 using only surface reflectance and photosynthetically active radiation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-16",
-      "published_date_display": "2025-12-16",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006029",
-      "abstract": "",
-      "keywords": [
-        "Photosynthetically active radiation",
-        "Reflectivity",
-        "Radiation",
-        "Surface (topology)",
-        "Radiometry"
       ]
     },
     {
