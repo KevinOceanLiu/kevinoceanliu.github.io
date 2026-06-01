@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T23:17:48.082301+00:00",
+  "generated_at": "2026-06-01T23:44:34.386672+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107205",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107205",
-      "title": "Unseen citizens: Preschoolers' perspectives on the city and their power to imagine, represent, and design urban environments",
+      "doi": "10.1016/j.cities.2026.107164",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107164",
+      "title": "Surplus buildings, scarce housing. Converting vacant buildings into affordable housing: European benchmarks and challenges",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -43,7 +43,60 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004373",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003963",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107168",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107168",
+      "title": "Strategies and sustainability in motion: An analysis of mobility and climate change policies in Greater London",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004002",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00456-6",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00456-6",
+      "title": "From slaughterhouse to cultural engine",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        6,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00456-6",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00454-8",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00454-8",
+      "title": "Cities as underexplored actors in marine protection",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        6,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00454-8",
       "abstract": "",
       "keywords": []
     },
@@ -6044,30 +6097,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107096",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107096",
-      "title": "Association of green areas, spatial metrics and urban configuration with prevalence of chronic diseases: An ecological study in Tuscany, Italy",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-13",
-      "published_date_display": "2026-04-13",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003288",
-      "abstract": "Urban green spaces are consistently associated with health benefits, but evidence is limited for Southern European compact cities. The relationship between urban structure, green areas, and chronic disease prevalence was examined in the 273 municipalities of Tuscany, Italy. This ecological cross-sectional study used exposure data from remote sensing and land use datasets. Exposure variables included the Normalized Difference Vegetation Index (NDVI), percentage of impervious surfaces, and urban spatial metrics. Municipality-level health outcomes, collected from Tuscany's health data portal, were diabetes mellitus, ischemic heart disease, heart failure and dementia point prevalence. Cluster analyses were conducted and prevalence ratios with 95% confidence intervals were estimated using robust Poisson regression models adjusting for potential confounders, i.e. spatial autocorrelation, urbanicity and socio-demographic factors. We found suggestive evidence of an inverse association between NDVI and ischemic heart disease prevalence (PR 0.985, 95% CI: 0.958–1.013 per 0.1 NDVI increase). Greater landscape compactness (LCPI) was associated with lower prevalence of ischemic heart disease and dementia per IQR increase. Conversely, higher edge density was associated with increased ischemic heart disease prevalence (PR 1.035, 95% CI: 1.009–1.061). Polycentric municipalities showed higher ischemic heart disease prevalence compared to sprawling areas (PR 1.041, 95% CI: 1.014–1.070). Moderate-density semi-structured municipalities (good green coverage, moderate presence of built-up areas, moderate fragmentation), had lower prevalence of ischemic heart disease (PR 0.959, 95% CI: 0.928–0.992) and diabetes (PR 0.964, 95% CI: 0.941–0.989) compared to low-density fragmented municipalities. Strategic urban and greenspace planning may help reduce the burden of chronic diseases in Tuscany and similar settings.",
-      "keywords": [
-        "Ecological study",
-        "Association (psychology)",
-        "Urban planning",
-        "Ecological network",
-        "Social ecological model",
-        "Ecological health"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105663",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105663",
       "title": "The green gap framework: Understanding non and low use of urban greenspaces",
@@ -7275,29 +7304,6 @@
         "Light pollution",
         "South asia",
         "Series (stratigraphy)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106954",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106954",
-      "title": "Sustainable cities and urban transformation: The economics and drivers of residential sustainability certifications",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-02",
-      "published_date_display": "2026-04-02",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001861",
-      "abstract": "",
-      "keywords": [
-        "Sustainability",
-        "Certification",
-        "Urban sustainability",
-        "Sustainable development",
-        "Social sustainability"
       ]
     },
     {
@@ -15001,6 +15007,32 @@
         "Survey data collection",
         "Amazon rainforest",
         "Latent class model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107205",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107205",
+      "title": "Unseen citizens: Preschoolers' perspectives on the city and their power to imagine, represent, and design urban environments",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004373",
+      "abstract": "",
+      "keywords": [
+        "Vision",
+        "Urban design",
+        "Power (physics)",
+        "Ethnic group",
+        "Spatial design",
+        "Urban planning",
+        "Urban studies",
+        "Tile"
       ]
     },
     {
