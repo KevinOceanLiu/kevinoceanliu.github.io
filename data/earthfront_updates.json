@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T23:16:34.511520+00:00",
+  "generated_at": "2026-06-02T23:21:31.188192+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01853-4",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01853-4",
+      "title": "Bird migration and wind-energy production across Western Europe",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01853-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02005-1",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02005-1",
+      "title": "Variable contributions of vertical land motion to sea-level change inferred at tide gauges",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02005-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02003-3",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02003-3",
+      "title": "Ice core dust particles capture retreat of the Antarctic Ice Sheet during the Last Interglacial",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02003-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01840-9",
       "doi_url": "https://doi.org/10.1038/s41893-026-01840-9",
       "title": "The stability–activity tension in metal–organic framework catalysis",
@@ -41,7 +95,13 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01840-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Catalysis",
+        "Tension (geology)",
+        "Work (physics)",
+        "Surface tension",
+        "Process (computing)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01841-8",
@@ -59,7 +119,13 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01841-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Agriculture",
+        "Climate change",
+        "Work (physics)",
+        "Agricultural productivity",
+        "Extensive farming"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01824-9",
@@ -76,8 +142,16 @@
         1
       ],
       "link": "https://www.nature.com/articles/s41893-026-01824-9",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Global cropland has historically expanded and this trend is expected to continue as global food demand is projected to grow. However, cropland abandonment is also steadily occurring, with workforce shortages recognized as one of major contributing factors. Here we demonstrate that the agricultural workforce will be a dominant constraint on cropland availability and its future changes, complementing the currently considered environmental constraints. On the basis of the historical trajectory, this study projects additional offsets in future cropland availability resulting from the introduction of workforce constraints. Although global cropland demand can be met without further expansion into natural areas, regional disparities persist between the workforce-constrained cropland availability and cropland use projected under widely established shared socioeconomic pathway and representative concentration pathway (SSP–RCP) scenarios and their assumptions. These gaps suggest the need for targeted policies supporting additional workforce development, technological innovations in the agricultural sector and migration inflows to sustain projected levels of cropland usage. Future food demand is expected to drive cropland expansion, but emerging agricultural workforce shortages, contributing to local cropland abandonment, might limit food production. This study models the future impacts of labour constraints on cropland use under socioeconomic and climate scenarios.",
+      "keywords": [
+        "Workforce",
+        "Agriculture",
+        "Bottleneck",
+        "Work (physics)",
+        "Economic shortage",
+        "Constraint (computer-aided design)",
+        "Natural resource"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01962-x",
@@ -95,7 +169,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01962-x",
       "abstract": "Abstract Although the Euphrates River—stretching ~3,000 km across Western Asia—has shaped the region’s geology for millions of years, the timing of its origin and the evolution of its course remain enigmatic. So far, two contrasting hypotheses have been proposed to explain the fluvial system’s Late Neogene path: termination in Anatolia at a palaeo-lake or the Mediterranean, or a southeastward continuation to Arabia. Here we use seismic-reflection and topographic data to show that two previously identified sedimentary accumulations—deposited during the terminal phase of the Late Miocene Messinian salinity crisis—resulted from dual riverine systems that drained into a partially desiccated eastern Mediterranean before avulsing toward the Persian Gulf and converging to form the modern Euphrates River. From probabilistic sediment-budget modelling, we show that although the latest Messinian drainage basins were an order of magnitude smaller than their present-day extents, the total palaeo-discharge exceeded that of the modern Tigris, Euphrates and Nile rivers combined, indicating intense palaeo-precipitation and high palaeo-relief. These results suggest that plate-margin deformation both controlled the fluvial avulsions that diverted the Euphrates River from the Anatolian–Eurasian Plate to the Arabian Plate, and established the conditions necessary for the development of the alluvial Fertile Crescent.",
-      "keywords": []
+      "keywords": [
+        "Neogene",
+        "Mediterranean climate",
+        "Late Miocene",
+        "Fluvial",
+        "Sedimentary rock",
+        "Alluvium",
+        "Evaporite",
+        "Structural basin"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01986-3",
@@ -113,7 +196,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01986-3",
       "abstract": "Abstract Lake sediment heatwaves, driven by rising global temperatures, pose emerging threats to freshwater ecosystems by altering sediment thermal regimes and intensifying sediment biogeochemical processes. Here we present a global-scale assessment of lake sediment heatwaves, examining their historical patterns and projecting future trends under various climate scenarios in 41,499 representative lakes worldwide. Using daily simulated lake sediment temperatures from 1981 to 2010 and future (2071–2100) projections under three Shared Socioeconomic Pathways (SSP 1–2.6, SSP 3–7.0, SSP 5–8.5), we investigate lake sediment heatwave characteristics, including their duration, intensity, frequency and seasonal timing worldwide. Our results show that lake sediment heatwaves are generally more persistent and frequent than lake surface heatwaves, with sediment heatwaves in pelagic regions experiencing a notable lag relative to surface conditions. Under future climate scenarios, sediment heatwaves are projected to intensify, with their duration and frequency increasing substantially, particularly under SSP 5–8.5. These shifts could exacerbate the production of greenhouse gases such as methane and increase sediment respiration rates in lakes. This study highlights the need to account for sediment heatwaves in freshwater ecosystem management and climate adaptation strategies to mitigate future impacts.",
-      "keywords": []
+      "keywords": [
+        "Sediment",
+        "Climate change",
+        "Global warming",
+        "Ecosystem",
+        "Biogeochemical cycle",
+        "Lake ecosystem",
+        "Hydrology (agriculture)",
+        "Sedimentary budget"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02002-4",
@@ -131,7 +223,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02002-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Sediment",
+        "Global warming",
+        "Hydrology (agriculture)",
+        "Methane",
+        "Climate change",
+        "Climate model"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01996-1",
@@ -149,7 +248,15 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01996-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Shortwave",
+        "Radiative transfer",
+        "Mineral dust",
+        "Earth's energy budget",
+        "Aerosol",
+        "Energy balance",
+        "Radiative forcing"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01856-1",
