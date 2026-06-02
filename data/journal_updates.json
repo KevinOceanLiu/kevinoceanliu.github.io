@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T23:09:32.893390+00:00",
+  "generated_at": "2026-06-02T23:08:23.258222+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115514",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115514",
-      "title": "Incorporating non-photochemical quenching (NPQ) into estimating photosynthetic carbon assimilation from solar-induced chlorophyll fluorescence (SIF)",
+      "doi": "10.1016/j.rse.2026.115511",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115511",
+      "title": "Improved mapping of Arctic fractional land cover and land cover change from multi-resolution optical remote sensing",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,7 +38,76 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002841",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002816",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.043",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.043",
+      "title": "A novel multiple imputation approach with recursive feature elimination BiLSTM for spatiotemporally seamless Landsat NDVI reconstruction",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600290X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.045",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.045",
+      "title": "Terrain-Adaptive LiDAR-IMU SLAM with Multi-Feature fusion for complex underground environments",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002923",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.035",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.035",
+      "title": "Robust urban SLAM via resilient GNSS–IMU–LiDAR–camera–loop fusion",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002820",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2670296",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2670296",
+      "title": "Making Rurality at the Margins: Cocreating Household Gardens in Remote China",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2670296",
       "abstract": "",
       "keywords": []
     },
@@ -49,15 +118,47 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002749",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Aerosol",
+        "Basis (linear algebra)",
+        "Polarimetry",
+        "Matrix (chemical analysis)",
+        "Atmospheric optics",
+        "Matrix decomposition"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115514",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115514",
+      "title": "Incorporating non-photochemical quenching (NPQ) into estimating photosynthetic carbon assimilation from solar-induced chlorophyll fluorescence (SIF)",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002841",
+      "abstract": "",
+      "keywords": [
+        "Chlorophyll fluorescence",
+        "Photosynthesis",
+        "Chlorophyll",
+        "Fluorescence",
+        "Quenching (fluorescence)",
+        "Chlorophyll a",
+        "Assimilation (phonology)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115502",
@@ -66,15 +167,23 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002725",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "GNSS applications",
+        "Landslide",
+        "Graph",
+        "Wireless sensor network",
+        "Deformation monitoring",
+        "Displacement (psychology)",
+        "Time domain"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2675583",
@@ -92,7 +201,12 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2675583",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Digital elevation model",
+        "Flow (mathematics)",
+        "Elevation (ballistics)",
+        "Heuristic"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2659905",
@@ -110,7 +224,15 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659905",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Food security",
+        "Climate change",
+        "Vulnerability (computing)",
+        "Natural disaster",
+        "Agriculture",
+        "Context (archaeology)",
+        "Population"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.039",
@@ -10215,31 +10337,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.013",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.013",
-      "title": "Explainable urban renewal prediction at building-scale using hierarchical graph neural networks",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-11",
-      "published_date_display": "2026-02-11",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600064X",
-      "abstract": "",
-      "keywords": [
-        "Beijing",
-        "Graph",
-        "Node (physics)",
-        "Context (archaeology)",
-        "Urban planning",
-        "Network analysis",
-        "Spatial contextual awareness"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2617557",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2617557",
       "title": "“There Ain’t No Fuel!” Addressing Material Scarcity in Urban Mobility in Santiago de Cuba",
@@ -10892,34 +10989,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.032",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.032",
-      "title": "Monitoring snow cover dynamics at 30-m resolution in higher latitude regions using Harmonized Landsat Sentinel-2",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-31",
-      "published_date_display": "2026-01-31",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000328",
-      "abstract": "Snow is an essential climate variable that is important for hydrology, climate, soil temperature and permafrost, vegetation, animal habitat, and socioeconomics. Wide-area snow cover dynamics (SCD), including the start and end of snow cover, are generally monitored by satellites with coarse spatial resolutions (250–1000 m) and high temporal (daily) resolutions. Higher spatial resolution (HSR) monitoring (10–30 m) has been limited to small areas because of computational constraints and infrequent cloud-free observations. Here, we develop a new method to map wide-area HSR SCD (snow start date, end date, length, periods, status) by leveraging the recently released Harmonized Landsat Sentinel-2 (HLS) v2.0, which has a 2–3-day revisit at 30-m resolution. The method is built around SpatialTemporal Asset Catalogs (STACs) and open-source Python tools. We utilize tiled datacubes, snow classification, and a model involving implausibility checking, cleaning, and finding peaks in data with gaps due to orbit frequencies and clouds. We demonstrate SCD mapping and validation across Canada’s Hudson Bay Lowlands (HBL) and an area in northern Alaska for each snow-year from 2018 to 2019 to 2023–2024 and multi-year composites (2018–2024). We also provide timing uncertainties and a quality metric for all pixels. Performance is best for snow end date, having strong relationships with both visually interpreted SCD from primarily very high-resolution imagery and measured local-scale snow depth. The combination of lower cloud cover and lower solar zenith angles during melt periods leads to lower uncertainties for snow end date compared to start date and length. Performance is better for all metrics at higher latitudes (e.g., northern Alaska), where satellite observations are more frequent due to increased orbit overlap. Although we have only completed validation for the HBL, Canada-wide products using this methodology are available publicly as STACs on the CCMEO Data Cube and will continue to be updated. Addition validation across Canada and methodology improvements are ongoing.",
-      "keywords": [
-        "Snow",
-        "Snow cover",
-        "Latitude",
-        "Cloud cover",
-        "Solar zenith angle",
-        "Snow line",
-        "Temporal resolution",
-        "Zenith",
-        "Water equivalent",
-        "Data assimilation"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.007",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.007",
       "title": "A geometric Cross-Propagation-Calibration method for SAR constellation based on the graph theory",
@@ -11281,30 +11350,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115250",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115250",
-      "title": "Airborne and spaceborne imaging spectroscopy capture belowground microbial communities and physicochemical characteristics in invaded grasslands",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-23",
-      "published_date_display": "2026-01-23",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000209",
-      "abstract": "",
-      "keywords": [
-        "Imaging spectroscopy",
-        "Hyperspectral imaging",
-        "Spectroscopy",
-        "Vegetation (pathology)",
-        "Ecosystem",
-        "Biomass (ecology)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.024",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.024",
       "title": "Weak supervision makes strong details: fine-grained object recognition in remote sensing images via regional diffusion with VLM",
@@ -11460,33 +11505,6 @@
         "Spatial contextual awareness",
         "Pattern recognition (psychology)",
         "Spatial relation"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.026",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.026",
-      "title": "Detecting global ocean subsurface density change with high-resolution via dual-task densely-former",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-22",
-      "published_date_display": "2026-01-22",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000262",
-      "abstract": "",
-      "keywords": [
-        "Argo",
-        "Ocean observations",
-        "Mesoscale meteorology",
-        "Stratification (seeds)",
-        "Climate change",
-        "Global change",
-        "Ocean heat content",
-        "Ocean dynamics",
-        "Global warming"
       ]
     },
     {
