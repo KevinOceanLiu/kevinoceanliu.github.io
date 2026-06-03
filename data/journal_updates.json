@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T23:08:23.258222+00:00",
+  "generated_at": "2026-06-03T23:15:28.468357+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115511",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115511",
-      "title": "Improved mapping of Arctic fractional land cover and land cover change from multi-resolution optical remote sensing",
+      "doi": "10.1016/j.rse.2026.115507",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115507",
+      "title": "A function-semantic oriented heterogeneous graph aggregation framework with weighted spatial relationships for urban functional zone mapping",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,14 +38,14 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002816",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002774",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.043",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.043",
-      "title": "A novel multiple imputation approach with recursive feature elimination BiLSTM for spatiotemporally seamless Landsat NDVI reconstruction",
+      "doi": "10.1016/j.isprsjprs.2026.05.022",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.022",
+      "title": "SARU: A Shadow-Aware and Removal Unified Framework for remote sensing images with new benchmarks",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,9 +55,130 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600290X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002637",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2681076",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2681076",
+      "title": "Ensemble learning for spatiotemporal data: methods, applications, challenges and opportunities",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2681076",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2680021",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2680021",
+      "title": "A multi-network spatial error workflow for disentangling digital connectivity and geographic spillovers: evidence from sexually transmitted infections",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2680021",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.046",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.046",
+      "title": "ARMOR: Adaptive meshing with reinforcement optimization of implicit fields for real-time 3D monitoring in unexposed scenes",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002935",
+      "abstract": "",
+      "keywords": [
+        "Reinforcement",
+        "Field (mathematics)",
+        "Adaptive control",
+        "Adaptation (eye)"
+      ]
+    },
+    {
+      "doi": "10.1080/24694452.2026.2671988",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2671988",
+      "title": "From Emotion to Affect: Tracing Forces of Belonging in Singapore’s Third Places",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2671988",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2671995",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2671995",
+      "title": "Ethically Informed Urban Planning: Measuring Distributive Spatial Justice for Neighborhood Accessibility",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2671995",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115511",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115511",
+      "title": "Improved mapping of Arctic fractional land cover and land cover change from multi-resolution optical remote sensing",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002816",
+      "abstract": "Changes in Arctic tundra vegetation, driven by climate change, may be inducing major shifts in ecosystem services and the Arctic carbon budget, and altering high latitude feedbacks to the climate system. Field-based studies have documented warming-induced shrub expansion, and remote sensing has revealed heterogeneous, but primarily positive, trends in peak summer greenness across the Arctic. However, efforts to move beyond remotely sensed measures of spectral greening to quantify the spatial extent and rate of shrub expansion have been constrained by spectral similarities among tundra vegetation types, limited ground truth data, low revisit frequency of satellite observations, and sub-pixel heterogeneity of land cover at medium spatial resolution (30 m). To address these challenges, we developed a methodology that integrates high spatial resolution (2 m) commercial satellite imagery with Harmonized Landsat and Sentinel-2 observations in a machine learning framework, and used it to produce annual maps for 2016 to 2023 of sub-pixel land cover fractions at 30-m spatial resolution across three Arctic tundra ecoregions spanning 3.35 × 10 5 km 2 between the Seward and Tuktoyaktuk Peninsulas. Uncertainty was quantified at each pixel via Monte Carlo resampling. Independent accuracy assessments yielded good accuracies (mean squared errors of 15.98% and 11.89% for low-stature vegetation and erect shrub cover, respectively), that were comparable to or exceeded previous mapping efforts. Further, repeat commercial satellite image pairs enabled the first assessment of mapped fractional cover change in Arctic tundra (R 2 of 0.46 and 0.55, change direction accuracies of 77% and 78% for low-stature vegetation and erect shrub cover, respectively). This novel, scalable, multi-sensor approach to fractional land cover mapping produced the first annual maps of land cover fractions in the Arctic tundra, which support more accurate representation of vegetation dynamics and their linkages to climate change and disturbance processes.",
+      "keywords": [
+        "Tundra",
+        "Arctic",
+        "Vegetation (pathology)",
+        "Shrub",
+        "Land cover",
+        "Ground truth",
+        "Permafrost",
+        "Satellite",
+        "Arctic vegetation"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.045",
@@ -66,15 +187,20 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002923",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Fusion",
+        "Sensor fusion",
+        "Process (computing)",
+        "Drone"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.035",
@@ -83,15 +209,44 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002820",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Fusion",
+        "Sensor fusion",
+        "Robustness (evolution)",
+        "Simultaneous localization and mapping",
+        "Data association"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.043",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.043",
+      "title": "A novel multiple imputation approach with recursive feature elimination BiLSTM for spatiotemporally seamless Landsat NDVI reconstruction",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600290X",
+      "abstract": "",
+      "keywords": [
+        "Normalized Difference Vegetation Index",
+        "Feature (linguistics)",
+        "Pattern recognition (psychology)",
+        "Imputation (statistics)",
+        "Digital elevation model"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2670296",
@@ -109,7 +264,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2670296",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Rurality",
+        "China",
+        "Context (archaeology)",
+        "Population",
+        "Rural area"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115504",
@@ -276,7 +437,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002762",
-      "abstract": "",
+      "abstract": "Operational deployment of a fully automated facility-scale greenhouse gas (GHG) plume detection system remains challenging for fine spatial resolution imaging spectrometers, despite recent advances in deep learning approaches. With the dramatic increase in data availability, however, automation continues to increase in importance for emissions monitoring. This work reviews and addresses several key obstacles in the field: data and label quality control, prevention of spatiotemporal biases, and correctly aligned modeling objectives. We demonstrate through rigorous experiments using multicampaign data from airborne and spaceborne instruments that convolutional neural networks (CNNs) are able to achieve operational detection performance when these obstacles are alleviated. We demonstrate that a multitask model that learns both instance detection and pixelwise segmentation simultaneously can successfully lead towards an operational pathway. We evaluate the model's plume detectability across emission source types and regions, identifying thresholds for operational deployment. Finally, we provide analysis-ready data, models, and source code for reproducibility, and work to define a set of best practices and validation standards to facilitate future contributions to the field.",
       "keywords": [
         "Automation",
         "Key (lock)",
@@ -1760,7 +1921,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002361",
-      "abstract": "International audience",
+      "abstract": "Funder: http://dx.doi.org/10.13039/100032331 Centre wallon de Recherches agronomiques",
       "keywords": [
         "Grassland",
         "Grassland ecosystem",
@@ -11376,33 +11537,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.028",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.028",
-      "title": "Varying sensitivities of RED-NIR-based vegetation indices to the input reflectance affect the detected long-term trends",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-23",
-      "published_date_display": "2026-01-23",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000286",
-      "abstract": "",
-      "keywords": [
-        "Normalized Difference Vegetation Index",
-        "Enhanced vegetation index",
-        "Vegetation (pathology)",
-        "Bidirectional reflectance distribution function",
-        "Vegetation Index",
-        "Leaf area index",
-        "Reflectivity",
-        "Land cover",
-        "Photochemical Reflectance Index"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.01.030",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.030",
       "title": "A weakly supervised approach for large-scale agricultural parcel extraction from VHR imagery via foundation models and adaptive noise correction",
@@ -11651,33 +11785,6 @@
         "Canopy",
         "Lidar",
         "Structural complexity"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.025",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.025",
-      "title": "VectorLLM: Human-like extraction of structured building contours via multimodal LLMs",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-19",
-      "published_date_display": "2026-01-19",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000250",
-      "abstract": "",
-      "keywords": [
-        "Polygon (computer graphics)",
-        "Scalability",
-        "Population",
-        "Representation (politics)",
-        "Autoencoder",
-        "Object (grammar)",
-        "Segmentation",
-        "Feature extraction",
-        "Object detection"
       ]
     },
     {
@@ -12721,30 +12828,6 @@
         "Product (mathematics)",
         "Error function",
         "Function (biology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115138",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115138",
-      "title": "Annotation-free cloud masking for PlanetScope images in the Arctic via cross-platform ability transfer using deep learning and foundation models",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-05",
-      "published_date_display": "2025-12-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005425",
-      "abstract": "Cloud masking is an essential task for satellite-based Earth monitoring, and the quality of cloud masks can directly impact the solutions of the downstream Earth monitoring tasks. While significant progress has been made especially for data with desired bands (e.g., thermal bands in Landsat-8), the masking quality on small satellites with higher resolution but fewer spectral bands is still unreliable at high latitudes, where confusion with snow and ice makes the task significantly more challenging. We propose a novel learning-enabled cross-platform ability transfer paradigm that offers a scalable and effective solution to tackle this challenge through a case study using PlanetScope images in the Arctic. A unique characteristic of the new paradigm is that it does not require manual annotations to be collected for PlanetScope images, which is often the bottleneck and the most time-consuming part of machine learning-based cloud masking, especially given the similarity between clouds and snow/ice. To realize this, our approach first designs and creates a new training dataset, Co-Clouds, which contains around 45,000 coincident pairs of PlanetScope and Landsat-8 image patches collected within a nearly simultaneous temporal window. This coincident dataset offers a way to generate large volumes of training data and builds a bridge to transfer Landsat-8’s stronger cloud masking skills in the Arctic to PlanetScope images via data-driven learning. We also show the feasibility of the ability transfer from spectral signatures (e.g., thermal bands) to spatial signatures (e.g., textures). Using our Co-Clouds dataset, we train several deep learning models including both regular-size deep learning models and large foundation models. To validate the quality of the masks, we further create a manually labeled cloud mask dataset for PlanetScope images in the Arctic. Both the quantitative and qualitative results show significant improvements over the current operational cloud masks by PlanetScope. For example, the large foundation models such as SegFormer achieve approximately 20 % higher overall accuracy and 28 % higher producer’s accuracy than the operational cloud masks, while maintaining comparable or better user’s accuracy exceeding 90 %. The new approach is also very easy to implement and extend to other platforms, opening new opportunities for broadcasting advanced skills from one platform to others. • We address Arctic cloud masking, where clouds and snow/ice have high spectral similarity. • We develop Cross-platform Ability Transfer (CAT) for PlanetScope with limited bands. • CAT transfers the ability from Landsat-8 to PlanetScope without using manual annotations. • A Co-Clouds dataset of PlanetScope–Landsat-8 coincidental pairs was generated for training. • CAT showed significant improvements via separate validations that were manually generated.",
-      "keywords": [
-        "Cloud computing",
-        "Deep learning",
-        "Masking (illustration)",
-        "Transfer of learning",
-        "Snow",
-        "Task (project management)"
       ]
     },
     {
