@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T23:56:41.881927+00:00",
+  "generated_at": "2026-06-03T00:16:03.344474+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,114 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41559-026-03083-5",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03083-5",
+      "title": "Twentieth-century insect declines and partial recoveries driven by changes in land use and climate",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03083-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03074-6",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03074-6",
+      "title": "Ninety-year trends reveal sharpest insect declines in the mid-twentieth century",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03074-6",
+      "abstract": "Abstract Most studies on insect trends have focused on the past few decades, but major changes could have occurred earlier. If so, shifted baselines can result in misleading conclusions or poor conservation decisions. Here we analyse nine decades of insect trends in Switzerland and relate them to changes in land use and climate. By reconstructing continuous trends in species richness based on 1.2 million records of 595 saproxylic beetle and 216 butterfly species, we find that both groups declined from the 1930s to the 1960s. While saproxylic beetle richness stabilized and subsequently recovered, butterfly richness continued to decline until the 1980s and has not recovered. The strong mid-century decreases were linked to increases in agricultural mechanization, while the subsequent increases were linked to climate warming. Over the entire 90-year period, declines primarily affected specialist and cold-adapted species, while warm-adapted species have increased since the 1980s. Recent gains in saproxylic beetle richness might also reflect increased deadwood availability from windthrow and ‘biodiversity-friendly’ forest management. Our findings suggest that reducing adverse land use is key to maintaining and promoting insect diversity, and that shifted baselines and climate-change effects should be considered when setting restoration goals and priorities.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03093-3",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03093-3",
+      "title": "Habitat complexity enhances primary productivity on coral reefs",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03093-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03090-6",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03090-6",
+      "title": "Gene body methylation suppresses intragenic transcription and permits epigenetic inheritance in a cnidarian",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03090-6",
+      "abstract": "Abstract Across invertebrates, DNA methylation is largely restricted to the bodies of highly and constitutively expressed genes. This pattern has led to the widespread hypothesis that gene body methylation regulates gene expression and contributes to environmental adaptation and developmental plasticity, often by analogy to its roles in vertebrate genomes. However, mechanistic evidence testing these ideas remains scarce, limiting the interpretation of epigenetic variation in evolutionary and ecological contexts. Here, using the cnidarian model Nematostella vectensis , an early-branching animal which retains an ancestral methylation pattern, we show that loss of DNA methylation produces viable embryos with minimal effects on gene expression. Instead, methylation depletion causes widespread chromatin opening and spurious transcription initiation, particularly from transposable elements embedded within gene bodies. We further demonstrate that methylation is selectively restored in the germline, guided by transcription-associated chromatin, but is not globally reprogrammed after fertilization. As a result, aberrant methylation states can be inherited across generations. These findings identify gene body methylation as an evolutionarily conserved genome defence mechanism, clarify its ancestral function in animal genomes and reveal how incomplete epigenetic resetting can generate heritable regulatory variation with potential evolutionary consequences.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03098-y",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03098-y",
+      "title": "Comparing potential biodiversity conflicts from renewable energy expansion in China at different centralization levels",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03098-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03087-1",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03087-1",
+      "title": "Alignment-free integration of single-nucleus ATAC-seq across species with sPYce",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        6,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03087-1",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1086/740144",
       "doi_url": "https://doi.org/10.1086/740144",
@@ -312,6 +420,34 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70360",
       "abstract": "Abstract Insect herbivory on plant seedlings is crucial for understanding plant community dynamics, exhibiting significant variability along environmental gradients. However, empirical research has primarily focused on mean herbivory levels, overlooking the roles of herbivory variability in species coexistence. In this study, we used a standardized field protocol to collect herbivory data from 11,811 seedling leaves of 415 woody species along five elevational transects in (sub)tropical mountains. We compared the mean and variability of herbivory across seedlings of woody species within each site and examined how plant size, plant diversity and abiotic conditions influence herbivory patterns in trees and shrubs. We found that herbivory variability across species significantly declined with increasing elevation in shrubs but not in trees, while mean herbivory showed a marginally significant decline with elevation irrespective of tree or shrub growth form. Plant size significantly affected herbivory variability but not mean herbivory. Leaf area was negatively associated with variability, while seedling height had a positive effect, and these patterns differed between growth forms. Plant diversity mainly shaped how herbivory was distributed among species, rather than affecting mean herbivory. Among abiotic factors, canopy cover and soil temperature were the main drivers of herbivory variability. Synthesis . We demonstrate overall, but growth‐form‐dependent, elevational declines in both mean and variability of herbivory at community level, with plant size, plant diversity and abiotic conditions influencing herbivory variability but not the mean. This study provides new evidence that herbivory variability should be considered in predicting how plant–herbivore dynamics respond to climate and biodiversity changes, with important implications for ecosystem stability and species coexistence.",
+      "keywords": [
+        "Herbivore",
+        "Abiotic component",
+        "Seedling",
+        "Shrub",
+        "Biodiversity",
+        "Transect",
+        "Plant community",
+        "Plant ecology",
+        "Ecosystem"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70410",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70410",
+      "title": "The effectiveness of biodiversity offsetting for wild pollinator conservation",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        6,
+        1
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70410",
+      "abstract": "Abstract Biodiversity offsetting, the last step in the mitigation hierarchy and part of the European Union's No Net Loss policy, has been identified as an important conservation tool. The effectiveness of offsetting for biodiversity conservation is highly variable and currently unquantified for wild pollinators, which are at risk in the EU due to land use change. Halting their decline requires at the very least no further loss of habitat, which biodiversity offsetting has the as‐yet‐unknown possibility to provide. This study compared semi‐natural grassland offsets and paired positive reference grasslands located across the Netherlands using transect walks, flower counts and vegetation surveys. We assessed wild bee and hoverfly abundances, species richness and community composition, and examined the species richness and community composition of floral resources and vegetation. Additionally, we examined whether offset age, management, prior land use and area influenced offset effectiveness. Results showed significantly higher wild bee abundance and species richness in offset grasslands, while hoverflies exhibited no clear pattern. Wild bee and hoverfly community compositions were similar between site types. We found no differences in floral resources or vegetation species richness between offset and positive reference grasslands but did find differences in flower and vegetation community compositions. There were no moderating effects of site characteristics on the effectiveness of biodiversity offsetting, though prior land use did have a significant effect on wild bees, with abundances being higher in sites previously used as grassland. Policy implications . We show that even small differences in the composition of floral resources can result in significantly higher wild pollinator abundances and species richness in offset grasslands. Since our reference grasslands represent the target habitat, our findings suggest that biodiversity offsetting of semi‐natural grassland shows promise for achieving No Net Loss, and even Net Gain, of wild bee and hoverfly abundance and species richness in the Netherlands, while maintaining similar species community compositions. Biodiversity offsetting, if properly implemented, can be an effective tool for pollinator conservation.",
       "keywords": []
     },
     {
@@ -330,7 +466,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70434",
       "abstract": "Abstract Defaunation in tropical forests represents one of the most urgent biodiversity crises of our time, driven largely by unsustainable hunting. Understanding how species persist or disappear under intense hunting pressure is critical for designing effective conservation strategies, especially in unprotected areas. We quantified how hunting influences species dynamics in an unprotected Afrotropical rainforest by analysing monitoring data collected from 2016 to 2023 for eleven terrestrial and arboreal mammal species in the Ebo forest, Cameroon. Using Bayesian dynamic occupancy models with correlated detections, we assessed how species occupancy changes along environmental and anthropogenic gradients, explicitly including hunting intensity and hunters' travel cost as predictors for persistence and colonisation. Elevation emerged as the strongest predictor positively influencing the occupancy of all eleven species, with some species exhibiting non‐linear trends along the elevation gradient. Most species generally occupied areas with high travel cost, especially elephant, chimpanzee, crowned monkey and red river hog. Meanwhile, terrain ruggedness had variable effects, with a strong positive effect on chimpanzee and a negative effect on mona monkey. Surprisingly, hunting showed a positive though weak association with the persistence probability of some species, suggesting that the areas used as refuges by wildlife were not exempt from hunting. Species persistence was generally unaffected by travel cost, except for chimpanzees. In parallel, colonisation probability was lower in areas with past hunting history, indicating that previously hunted areas were less likely to be recolonised by wildlife. Similarly, colonisation tended to be higher in areas with high travel cost, suggesting that more accessible areas were less likely for recolonisation. Synthesis and applications . These results imply that hunting not only targets areas used as refuges by wildlife, but also reduces recolonisation potential and may therefore alter source–sink dynamics. We recommend spatially targeted community‐led actions to limit hunting where wildlife still persists through the creation of no‐hunting areas to ensure the long‐term persistence of wildlife within the forest.",
-      "keywords": []
+      "keywords": [
+        "Occupancy",
+        "Colonisation",
+        "Persistence (discontinuity)",
+        "Defaunation",
+        "Biodiversity",
+        "Wildlife",
+        "Arboreal locomotion",
+        "Rainforest",
+        "Mammal"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70331",
@@ -13967,7 +14113,7 @@
     {
       "doi": "10.1086/741159",
       "doi_url": "https://doi.org/10.1086/741159",
-      "title": "Effects of herbivore-induced plant volatiles on behaviors and reproduction in a common songbird",
+      "title": "Effects of Herbivore-Induced Plant Volatiles on Behaviors and Reproduction in a Common Songbird",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -14837,7 +14983,7 @@
     {
       "doi": "10.1086/741105",
       "doi_url": "https://doi.org/10.1086/741105",
-      "title": "Shielded by the dead: how killed bacteria shape the dynamics and evolution of innate immunity",
+      "title": "Shielded by the Dead: How Killed Bacteria Shape the Dynamics and Evolution of Innate Immunity",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
