@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T23:21:31.188192+00:00",
+  "generated_at": "2026-06-03T23:26:13.890518+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,114 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01848-1",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01848-1",
+      "title": "A circular hydrothermal refinery for sustainable aviation fuel from food waste",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01848-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01989-0",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01989-0",
+      "title": "Antarctic extension revealed",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01989-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01991-6",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01991-6",
+      "title": "A fan-shaped subglacial basin province in East Antarctica formed by rotational extension",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01991-6",
+      "abstract": "Abstract Recent sub-ice topography investigations have imaged—with greatly improved detail—a set of low-elevation V-shaped basins hidden beneath a very large sector of the East Antarctic Ice Sheet. Here we jointly interpret sub-ice topography and geophysical data and show that these basins form a semi-continental-sized, fan-shaped physiographic unit that radiates from a focal point near the South Pole. We name this the East Antarctic Fan-Shaped Basin Province. We propose that the fan-like landscape is the product of distributed intraplate rotational extension before the breakup of Gondwana, with three continental-scale consequences. Laterally, to the west, it caused compression and the consequent uplift of the Gamburtsev Mountains. To the east, the northernmost Transantarctic Mountains segment was rotated clockwise by ~20°, overriding the West Antarctic Rift System’s hot lithosphere and causing segmentation of the mountain chain into three blocks and their differential uplift due to thermal buoyancy. To the north, the transcurrent edge of the fan formed the lithospheric weakness that controlled the breakup of Gondwana by driving the propagation of Antarctica–Australia separation and shaping the resulting semi-circular passive continental margins. These processes have influenced the present-day East Antarctica sub-ice landscape and the evolution of the overlying ice sheet, including the development of glacial troughs and outlet glaciers.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02660-7",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02660-7",
+      "title": "Shifting hail hazard under global warming and effects on crop hail risk",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02660-7",
+      "abstract": "Abstract Hailstorms cause damage across the globe and endanger crops, but their changes in a warming climate are not well quantified. Here we apply three hail proxies to an ensemble of global model projections to show divergent changes in hail-prone condition frequency worldwide. Changes depend on whether the proxy allows instability increases to be offset by temperature or moisture increases. Uncertainty on hail projections remains high, especially in the tropics. In projections with 2 °C and 3 °C of mean global warming, ensemble-mean hail-prone conditions shifted polewards, with decreases in hail hazard in the mid-latitudes and increases in colder regions. Across 26 crop types with fixed exposure and vulnerability, hail risk was generally projected to increase for winter crops such as wheat and decrease for summer crops such as maize. Poleward shifts in hail hazard may attenuate yield increases from similar shifts in crop regions under climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02652-7",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02652-7",
+      "title": "High-latitude Southern Ocean warming hotspot induced by ocean mesoscale eddies",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02652-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02663-4",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02663-4",
+      "title": "Grassland restoration increases crop yields through local climate regulation",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        6,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02663-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01853-4",
       "doi_url": "https://doi.org/10.1038/s41893-026-01853-4",
       "title": "Bird migration and wind-energy production across Western Europe",
@@ -41,7 +149,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01853-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Wind power",
+        "Renewable energy",
+        "Turbine",
+        "Production (economics)",
+        "Biodiversity",
+        "Collision",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02005-1",
@@ -59,7 +175,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02005-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Tide gauge",
+        "Variable (mathematics)",
+        "Volcano",
+        "Motion (physics)",
+        "Projection (relational algebra)",
+        "Probabilistic logic",
+        "Natural (archaeology)",
+        "Gauge (firearms)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02003-3",
@@ -76,6 +201,32 @@
         2
       ],
       "link": "https://www.nature.com/articles/s41561-026-02003-3",
+      "abstract": "",
+      "keywords": [
+        "Antarctic ice sheet",
+        "Ice sheet",
+        "Antarctic sea ice",
+        "Ice core",
+        "Ice shelf",
+        "Cryosphere",
+        "Arctic ice pack",
+        "Ice stream"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101716",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101716",
+      "title": "Oceanic heat sources exacerbate continental heatwaves",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600117X",
       "abstract": "",
       "keywords": []
     },
