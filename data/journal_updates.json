@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T23:15:28.468357+00:00",
+  "generated_at": "2026-06-04T22:44:25.272087+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115507",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115507",
-      "title": "A function-semantic oriented heterogeneous graph aggregation framework with weighted spatial relationships for urban functional zone mapping",
+      "doi": "10.1016/j.rse.2026.115515",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115515",
+      "title": "Structure-preserving DEM void filling via optical imagery-guided diffusion",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,14 +38,31 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002774",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002853",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.022",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.022",
-      "title": "SARU: A Shadow-Aware and Removal Unified Framework for remote sensing images with new benchmarks",
+      "doi": "10.1016/j.rse.2026.115516",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115516",
+      "title": "Antarctic surface melt mapping using Tianmu-1 GNSS-R observations",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002865",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.047",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.047",
+      "title": "LandslideSegFormer: A non-local context-aware dual-branch network for accurate small-scale landslide segmentation from remote sensing imagery",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,9 +72,93 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002637",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002947",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.001",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.001",
+      "title": "Fine-grained heterogeneous change detection in complex disaster response with wavelet-based spatial-frequency coupled learning",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003011",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115503",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115503",
+      "title": "Multi-source heterogeneous feature fusion framework for identifying retrogressive thaw slumps on the Qinghai-Tibet plateau",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002737",
+      "abstract": "",
+      "keywords": [
+        "Feature (linguistics)",
+        "Plateau (mathematics)",
+        "Sensor fusion",
+        "Image fusion",
+        "Thematic Mapper",
+        "Fusion"
+      ]
+    },
+    {
+      "doi": "10.1016/s0034-4257(26)00290-7",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00290-7",
+      "title": "Editorial Board",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002907",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115507",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115507",
+      "title": "A function-semantic oriented heterogeneous graph aggregation framework with weighted spatial relationships for urban functional zone mapping",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002774",
+      "abstract": "",
+      "keywords": [
+        "Graph",
+        "Encoder",
+        "Feature learning",
+        "Embedding",
+        "Point of interest",
+        "Heterogeneous network",
+        "Feature (linguistics)",
+        "Feature vector"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2681076",
@@ -75,7 +176,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2681076",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ensemble learning",
+        "Feature (linguistics)",
+        "Field (mathematics)",
+        "Ensemble forecasting",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2680021",
@@ -93,7 +200,35 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2680021",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Workflow",
+        "Geospatial analysis",
+        "Geographic information system",
+        "Spatial analysis",
+        "Geocoding"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.022",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.022",
+      "title": "SARU: A Shadow-Aware and Removal Unified Framework for remote sensing images with new benchmarks",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002637",
+      "abstract": "",
+      "keywords": [
+        "Remote sensing application",
+        "Key (lock)",
+        "Reflectivity",
+        "Earth remote sensing"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.046",
@@ -133,7 +268,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2671988",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Tracing",
+        "Narrative",
+        "Context (archaeology)",
+        "Politics",
+        "Perspective (graphical)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2671995",
@@ -151,7 +292,14 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2671995",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Distributive justice",
+        "Economic Justice",
+        "Context (archaeology)",
+        "Inequality",
+        "Social justice",
+        "Capability approach"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115511",
@@ -10651,29 +10799,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115291",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115291",
-      "title": "Advancing airborne pollen mapping with integrated ground and satellite observations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-07",
-      "published_date_display": "2026-02-07",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000611",
-      "abstract": "",
-      "keywords": [
-        "Satellite",
-        "Pollen",
-        "Satellite tracking",
-        "Satellite imagery",
-        "Ground truth"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.008",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.008",
       "title": "MMP-Mapper: Multi-modal priors enhancing vectorized HD road map construction from aerial imagery",
@@ -10746,32 +10871,6 @@
         "Generalization",
         "Digital elevation model",
         "Point (geometry)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.043",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.043",
-      "title": "Harnessing conditional generative adversarial networks for SAR-to-optical image translation via auxiliary geospatial landscape pattern-augmentation",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-06",
-      "published_date_display": "2026-02-06",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000511",
-      "abstract": "",
-      "keywords": [
-        "Geospatial analysis",
-        "Translation (biology)",
-        "Adversarial system",
-        "Generative grammar",
-        "Image translation",
-        "Image (mathematics)",
-        "Semantics (computer science)",
-        "Aerial imagery"
       ]
     },
     {
@@ -11463,28 +11562,6 @@
       "keywords": []
     },
     {
-      "doi": "10.1016/j.rse.2026.115263",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115263",
-      "title": "Daily 4D landslide movements monitoring via InSAR: A fusion framework integrating physics-based and data-driven models",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-24",
-      "published_date_display": "2026-01-24",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000337",
-      "abstract": "",
-      "keywords": [
-        "Landslide",
-        "Sensor fusion",
-        "Fusion",
-        "Image fusion"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115264",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115264",
       "title": "Active and passive co-observations from a spaceborne lidar: Retrieving surface reflectance and aerosol optical thickness using ICESat-2 signal and noise data",
@@ -11508,32 +11585,6 @@
         "Radiative transfer",
         "Land cover",
         "Corner reflector"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.024",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.024",
-      "title": "Weak supervision makes strong details: fine-grained object recognition in remote sensing images via regional diffusion with VLM",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-23",
-      "published_date_display": "2026-01-23",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000249",
-      "abstract": "",
-      "keywords": [
-        "Robustness (evolution)",
-        "Feature extraction",
-        "Cognitive neuroscience of visual object recognition",
-        "Object (grammar)",
-        "Pipeline (software)",
-        "Object detection",
-        "Feature (linguistics)",
-        "Code (set theory)"
       ]
     },
     {
@@ -12138,32 +12189,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115220",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115220",
-      "title": "Remote sensing of the global cryosphere: Status, processes, and trends",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006248",
-      "abstract": "",
-      "keywords": [
-        "Permafrost",
-        "Glacier",
-        "Arctic",
-        "Glaciology",
-        "Cryosphere",
-        "Climate change",
-        "Satellite",
-        "Glacial period"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115233",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115233",
       "title": "Probabilistic mapping of high-intensity forest fire potential via time series machine learning and remote sensing-informed fire spread simulations",
@@ -12212,32 +12237,6 @@
         "China",
         "Normalized Difference Vegetation Index",
         "Field survey"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115213",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115213",
-      "title": "Determinants of L-band backscatter in dry tropical ecosystems: Implications for biomass mapping",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006170",
-      "abstract": "Accurate characterization of the role of the dry tropics in the global carbon cycle requires precise estimation of woody biomass changes due to ecological and anthropogenic change, including deforestation, forest degradation, regrowth, mortality and enhanced tree growth due to climate change. L-band Synthetic Aperture Radar (SAR) backscatter observations offer a reliable option to consistently map these processes as they are (i) available globally since 2007 (JAXA ALOS-1, ALOS-2 and ALOS-4), and (ii) sensitive to woody structure, such as aboveground biomass density (AGBD) up to ∼100 t ha−1. However, we lack multi-site empirical understanding of the scattering processes that determine the relationship between L-band SAR and woody vegetation structure in the dry tropics, and how this is mediated by soil properties. This study used observations from ground plots in Africa (n = 171), Australia (n = 6), and South America (n = 44) to understand the impact of vegetation structure and soil properties on spatially and temporally coincident fully-polarimetric L-band SAR data. Fully-polarimetric L-band SAR single-look complex data were converted to scattering mechanisms/parameters using van Zyl, Cloude-Pottier, and Freeman-Durden polarimetric decompositions to elucidate the physical mechanisms involved. Multivariate SAR-vegetation-soil relationships were analysed using a theory-informed structural equation modelling approach. The strongest positive effects on volume scattering come from stem density (stems ha−1) and mean stem biomass of trees, and soil water and sand content (standardized regression coefficients of 0.3, 0.1, 0.2 and 0.1, respectively). The only significant effect on surface scattering is from stem density (0.1). Significant effects on double bounce scattering are from stem density (0.3) and soil sand content (−0.2). Since AGBD is the product of stem density and mean stem biomass, this modelling framework points to a stronger effect from the number of trees rather than their size/biomass. Therefore, AGBD maps relying solely on radar intensity may not reflect significant changes when AGBD is increasing due to the growth of existing stems. Additionally, such maps might overestimate changes in AGBD when driven by the recruitment of new stems or loss of existing stems. Full-polarimetric observations allow the decomposition of the radar signal into volume scattering, surface scattering, and double bounce, enabling the inversion of structural equation models to retrieve both stem density and mean stem biomass. This provides a more comprehensive description of forest structure compared to retrieving only AGBD. As this approach depends on full-polarimetric data, its effectiveness is closely tied to the availability of such observations. Our findings underscore the value of recent and upcoming missions such as ALOS-4 PALSAR-3, BIOMASS and ROSE-L, and highlight the need to prioritise the acquisition of quad-pol SAR data to support future large-scale retrieval of vegetation structure attributes.",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Vegetation (pathology)",
-        "Biomass (ecology)",
-        "Backscatter (email)",
-        "Scattering",
-        "Tropics",
-        "Carbon cycle",
-        "Empirical modelling"
       ]
     },
     {
