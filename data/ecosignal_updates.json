@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T00:19:41.520797+00:00",
+  "generated_at": "2026-06-04T23:49:29.811529+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/1365-2664.70437",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70437",
+      "title": "Towards weather‐based forecasting of annual seed production in six European forest tree species",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        6,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70437",
+      "abstract": "Abstract Ecological forecasting is essential for climate change adaptation and mitigation. In reforestation and restoration, seed production forecasting has the potential to support planning and resource allocation, while providing benefits for wildlife management and public health. We hind‐ and forecast seed production using statistical models based on weekly weather and high‐resolution seed data of six tree species recorded in two Austrian old‐growth forest sites. Using a sliding‐window approach and model selection, we model annual reproduction for three coniferous (Silver fir, European larch, Norway spruce) and three broad‐leaved species (Sycamore maple, European beech, European ash). We investigate changes in explained variance with decreasing time before seed rain and evaluate hindcasting proficiency and the potential forecast horizon using quantitative and categorical measures useful to practitioners. Furthermore, we compare the performance of local models with a general forecasting model for seed production in European beech. Most local models show unbiased but partly imprecise predictions with a broad range in explained variance (0.15–0.93) in the year prior to seed rain. Nonetheless, within this timeframe, hindcasting seed rain above 10% of the long‐term maximum, a threshold relevant to practitioners, works well for all species. Previous seed rain explains a considerable proportion of the variation in seed rain of fir, ash, and maple. We forecast seed rain for 2022 to 2025, with mixed results for 2022 and 2023. Overall, categorical year out predictions seem feasible for most studied species, but model refinement is required. Local models for beech outperformed the general model in predicting crop failures and bumper crops. Synthesis and applications: Seed production can be predictable with a promising degree of accuracy for six European tree species in the year prior to seed rain, if combined with on‐site monitoring of seeds, phenology, and weather. This holds value for seed harvesters, nurseries and forest managers, and may inform orchard management and public health risk anticipation. Seed forecasts will help address seed scarcity and support climate change adaptation and mitigation. Future efforts should prioritise species based on rarity and seed storability, as well as forming stronger partnerships with potential forecast users.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70432",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70432",
+      "title": "Landscape forest cover, not edge contrast, modulates edge effects on palm diversity",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        6,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70432",
+      "abstract": "Abstract Edge effects are among the most important consequences of habitat fragmentation, altering abiotic conditions and biological communities in remnant forests. However, the magnitude of edge effects is highly variable, and the factors that modulate them, particularly the interplay between local edge type and the landscape context, remain poorly understood. Given ongoing increases in the proportion of the world's remaining forest found near edges, understanding these effects is critical for conservation. We investigated how edge effects are mediated by type of edge (cacao plantation vs. cattle pasture) and landscape forest cover (%), shaping palm density and diversity across forest fragments in the Ecuadorian Chocó. We established plots (100 m 2 ) at four distances to the edge (0–10 m, 30–40 m, 60–70 m and 90–100 m) in 30 sites, 15 for each type of edge across a gradient of landscape forest cover. In each plot, we recorded all adult palms, juveniles and seedlings. The response of palms to distance to the edge and level of landscape forest cover varied across life stages: seedling communities were primarily associated with distance from the edge, showing an increase in density and richness, but a decrease in evenness, towards the forest interior. For juveniles, landscape forest cover was as important an additive predictor as distance to the edge; both increased density and richness, whereas evenness declined with higher surrounding forest cover. Adult density also increased with distance to edge and higher levels of landscape forest cover. Negative edge effects on adult richness and evenness were buffered with an increase in landscape forest cover. Unexpectedly, the type of edge contrast had no significant effect on palm density or diversity at any life stage. Synthesis and applications . Our findings demonstrate that landscape forest cover plays a critical role in modulating edge effects in plant communities in our study system, but not all woody crop systems provide buffering benefits, as cacao plantations in our study failed to soften edge effects. Consequently, conservation strategies should prioritize maintaining high landscape forest cover to ensure the integrity of remaining forest fragments.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70422",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70422",
+      "title": "Cross‐realm incidental and cobenefits in freshwater and terrestrial biodiversity conservation planning",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        6,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70422",
+      "abstract": "Abstract Freshwater species face greater threats than terrestrial ones; however, conservation efforts for freshwater species lag far behind those for terrestrial ecosystems. Traditionally, conservation planning is often implemented independently for terrestrial and freshwater realms, ignoring potential incidental conservation benefits and cobenefits across them. We established datasets of terrestrial and freshwater species in the Three Parallel Rivers Region, predicted their distributions using Biomod2, applied Marxan Connect to identify priority conservation areas (PCAs) for each taxonomic group and evaluated their incidental conservation benefits and cobenefits. Terrestrial PCAs were concentrated in mountain valleys (e.g. Gaoligong and Cangshan Mountains), while freshwater PCAs were clustered along four major rivers and lakes. Despite low correlations in irreplaceability ( r = 0.34–0.45, p < 0.001) and limited spatial similarity (Jaccard = 0.35–0.43), both PCA types yielded incidental benefits and cobenefits. Each PCA protected ≥80% of species and 52% of area in its own realm, while incidentally covering ≥79% of species and 42% of area in the other. Notably, terrestrial PCAs protected more freshwater species, whereas freshwater PCAs covered larger area for terrestrial species. Importantly, the greatest cross‐realm cobenefits were achieved by the TS–FS PCAs, which yielded the highest coverage for both terrestrial (88.35% and 62.02%) and freshwater species (81.71% and 56.77%) and exhibited a strong synergistic relationship ( y = 0.24 x 1.31 , R 2 = 0.85), while featuring overlapping PCAs that protected the highest proportions of species number (80.45%–91.28%) and area (46.25%–63.04%) across taxonomic groups. Synthesis and applications . Single‐realm planning can yield cross‐realm cobenefits, demonstrating strong potential for integrated conservation strategies. Integrating these cobenefits into cross‐realm planning is key to advancing the ‘30 × 30’ biodiversity targets.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70433",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70433",
+      "title": "Collaborative conservation zoning with human footprint index integration: A case study of Haixi Prefecture, Tibetan Plateau",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        6,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70433",
+      "abstract": "Abstract With the rapid development of the Tibetan Plateau, various human activities have increasingly extended into ecologically vulnerable areas with low‐intensity human disturbance, leading to aggravated habitat fragmentation. This poses severe challenges to ecological conservation efforts on the plateau. Therefore, incorporating diverse human activity factors into the planning of plateau ecological reserves to formulate proactive and quantitative conservation plans has become an issue that warrants urgent investigation. 'This study integrates land use/land cover, climate, GDP and human footprint data to quantify ecosystem services, model biodiversity distributions and optimize spatial conservation zones using a combined InVEST‐MaxEnt‐Marxan model. It calculates grid‐based carbon stocks for planning units, simulates biodiversity distribution, identifies key environmental variables, constructs four distinct cost objective functions and optimizes diverse conservation planning scenarios. The study established four cost‐based scenario cases using Haixi Prefecture as the experimental area: Case 1 (single‐dimensional natural factors), Case 2 (single‐dimensional socioeconomic factors), Case 3 (multi‐dimensional GDP and human footprint weighting) and Case 4 (integrated natural, socioeconomic and human footprint weighting). Based on comparative analysis of the experimental results, the ‘ecological‐economic’ synergistic development scheme demonstrated significant advantages. Integrating human activity footprint data into the ecological conservation planning of the Tibetan Plateau enables more precise identification of the spatial distribution of areas with high‐intensity human disturbance. By avoiding such areas in conservation planning, originally isolated ecological patches can be reconnected, thereby mitigating the ‘ecological island’ effect—referring to fragmented, isolated habitats severed by human activities. Meanwhile, human footprint data can quantify the degree of anthropogenic disturbance in each grid cell, allowing grids with low disturbance and high ecological value to be designated as priority conservation zones, thus enhancing the precision of planning. Synthesis and applications . This study confirms that integrating human footprint data enhances the practical applicability and ecological connectivity of plateau conservation planning. The ‘ecological‐economic’ synergistic scheme, with fewer units, high irreplaceability overlap and good connectivity, offers direct references for Haixi Prefecture and similar plateau regions. The combined InVEST‐MaxEnt‐Marxan model also provides a replicable tool for spatiotemporal data‐driven conservation planning in ecologically sensitive areas.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03097-z",
       "doi_url": "https://doi.org/10.1038/s41559-026-03097-z",
       "title": "Different planning scales for renewable expansion yield distinct biodiversity trade-offs in China",
@@ -51,7 +123,15 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03097-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Renewable energy",
+        "China",
+        "Climate change",
+        "Yield (engineering)",
+        "Scale (ratio)",
+        "Biodiversity conservation"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70435",
@@ -69,7 +149,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70435",
       "abstract": "Abstract The increasing interaction between wildlife and humans, both within and outside protected areas, highlights the importance of understanding how migratory animals respond to anthropogenic disturbance. To effectively safeguard migratory populations, we must understand their habitat use, particularly in response to the expanding presence of human‐made structures in their environments. In this work, we employed a multiscale step selection model within a Bayesian framework to explore the impact of human‐made structures, specifically buildings identified from satellite imagery, on the movement patterns and habitat preferences of migratory wildebeest ( Connochaetes taurinus ) in the Serengeti. Our findings reveal that wildebeest tend to avoid areas near these structures, even in the core of the protected area where tourist infrastructure is the most prevalent. Although buildings do not entirely exclude wildebeest, they do reduce the amount of time wildebeest spend in their vicinity. Individuals weigh multiple trade‐offs in deciding whether to remain or move during migration, and if animals forego access to key resources in the areas around buildings, this could lead to reduced fitness and demographic consequences that may not be immediately apparent. We further find that increasing numbers of co‐located buildings have a diminishing rather than a compounding effect on the spatial distribution of wildebeest, meaning that clustering buildings away from key grazing areas could be a beneficial strategy. Synthesis and applications . In light of these findings, we recommend careful regulation and spatial planning of infrastructure development within ecosystems that consider the nuanced effects human‐made structures can have on the behaviour and habitat use of migratory animals.",
-      "keywords": []
+      "keywords": [
+        "Wildebeest",
+        "Habitat",
+        "Wildlife",
+        "Ecosystem",
+        "Distribution (mathematics)",
+        "Ballooning",
+        "Metapopulation"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70438",
@@ -87,7 +175,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70438",
       "abstract": "Abstract Dry calcareous grassland remnants play a key role in conserving European pollinators. In agricultural landscapes, agri‐environmental schemes (AES; e.g., extensively managed meadows) and other semi‐natural habitats (SNH; e.g., forests) can provide complementary resources. However, it remains unclear (i) how local factors (patch size and floral resource quality), landscape context (AES and SNH cover) and their interactions affect different pollinator groups, including rare species; (ii) which foraging plants are key to promote pollinators; and (iii) how local management (grazing vs. mowing) influences floral quality. We surveyed wild bees, butterflies, hoverflies, and their interactions with flowering plants across 27 protected dry calcareous grasslands in Switzerland, spanning independent gradients of patch size, floral resource quality, and surrounding AES meadow and woody SNH cover. Locally, patch quality (floral cover and species richness) was more important than patch size in promoting species richness of all pollinator groups and density of butterflies and wild bees. At the landscape‐scale, woody SNH promoted wild bee density in focal calcareous grasslands, while butterfly richness decreased with increasing AES meadow cover, independent of local factors (no significant interactions). Among 171 recorded flowering plant species, 58 were identified as key forage plants (i.e., species with disproportionately high pollinator visitor frequency or richness relative to flower cover), including 11 supporting rare pollinators. Key plants varied across pollinator group and season. While local management type did not affect flower cover, grazed sites supported, on average, 32% greater floral species richness than mown sites. Abundance weighted turnover of flowering species was greater among mown and grazed calcareous grasslands than among sites of the same management. Synthesis and applications . Pollinator conservation in calcareous grasslands should prioritize enhancing local patch quality while promoting landscape heterogeneity, including woody SNH. To improve forage quality, our analytical approach supports targeted grassland management in selecting key forage plants, promoting complementary and diverse floral assemblages that support multiple pollinator taxa, including rare species, throughout the season. Extensive grazing can promote floral species richness, including key forage plants, whereas combining mowing and grazing across different patches of calcareous grassland better promotes beta diversity of floral resources.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Pollinator",
+        "Forage",
+        "Abundance (ecology)",
+        "Grassland",
+        "Habitat",
+        "Foraging",
+        "Calcareous"
+      ]
     },
     {
       "doi": "10.1111/gcb.70946",
@@ -105,7 +202,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70946",
       "abstract": "ABSTRACT Over the past century, extensive areas of northern peatlands have been drained for forestry. Today, concerns about their role as significant sources of greenhouse gases (GHG) have sparked growing interest in peatland rewetting as a climate mitigating strategy. However, empirical evidence for rewetting effects on ecosystem carbon (C) and GHG balances is still limited, particularly for minerogenic boreal peatland forests. Rewetting of peatland forests also involves decisions about tree harvest, which can have important but understudied consequences for the C cycle. In this study, we quantified tree growth and estimated carbon dioxide (CO 2 ) and methane (CH 4 ) fluxes in both peatland areas and ditches over 2 years before (2019–2020) and after (2021–2022) rewetting a low‐productive, minerogenic peatland forest in boreal Sweden. We also assessed effects of tree removal during rewetting by comparing harvest and non‐harvest areas. Our results suggest that the peatland forest was, on average, C‐neutral at the ecosystem‐scale during the drained years. After rewetting, the harvested area became a C source (79 g C m −2 year −1 ), while the treed area acted as a small C sink (−24 g C m −2 year −1 ), with the difference due to diverging responses in net CO 2 exchange. Furthermore, CH 4 emissions doubled after rewetting, resulting in a two‐ to threefold increase in total GHG emissions (expressed in CO 2 equivalents) over both 20‐ and 100‐year timeframes. While ditches functioned as significant CO 2 sinks and moderate CH 4 sources during the drained years, they became CO 2 ‐neutral and CH 4 emission hotspots after being infilled. Altogether, our findings suggest that rewetting low‐productive boreal peatland forests may have a negative short‐term climate impact. However, rewetting without tree harvest considerably meliorates ecosystem C and GHG balances. Overall, our study highlights the importance of tree harvesting decisions and the need for a deeper understanding of rewetting as a climate mitigation strategy.",
-      "keywords": []
+      "keywords": [
+        "Peat",
+        "Boreal",
+        "Greenhouse gas",
+        "Taiga",
+        "Sink (geography)",
+        "Climate change",
+        "Ecosystem",
+        "Carbon sink"
+      ]
     },
     {
       "doi": "10.1111/gcb.70956",
@@ -123,7 +229,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70956",
       "abstract": "ABSTRACT Spatial unevenness in observation sites may hinder accurate global soil respiration (R S ) quantification. We quantified site representativeness using Voronoi volumes within an environmental feature space and implemented an iterative pruning strategy to identify a representative‐optimal subset (1363 sites). Using process‐based models as benchmarks, we developed a Representative‐optimal Model (RM) to simulate global R S dynamics (1982–2022). Compared to the Full‐set model (FM), the RM significantly enhanced spatial consistency with benchmarks and improved alignment with FLUXNET observations and atmospheric CO 2 fluctuations. Neglecting representativeness led to a 6.4 PgC year −1 overestimation of global R S (94.1 vs. 100.5 PgC year −1 ), while simultaneously underestimating its long‐term trend and interannual variability. Arid zones contributed > 50% of this downward revision, reflecting corrected biases in water‐limited regions. These findings demonstrate that optimizing existing dataset representativeness can effectively mitigate systematic biases and refine global carbon budget accounting. While expanding observational networks remains a long‐term priority, we advocate routinely integrating spatial representativeness optimization into data‐driven workflows to immediately correct structural sampling biases.",
-      "keywords": []
+      "keywords": [
+        "Representativeness heuristic",
+        "Biome",
+        "Arid",
+        "Soil respiration",
+        "FluxNet",
+        "Carbon cycle",
+        "Sampling (signal processing)",
+        "Soil carbon"
+      ]
     },
     {
       "doi": "10.1111/gcb.70936",
@@ -141,7 +256,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70936",
       "abstract": "ABSTRACT Understanding how crop trait variability shapes genotype × environment × management (G × E × M) interactions remains a key uncertainty in predicting agricultural performance under a changing climate. Continental‐scale crop models commonly rely on spatially uniform parameters, limiting their ability to represent adaptive variation in phenology, allocation, and yield formation. Here we integrate the mechanistic agroecosystem model Ecosys with a deep learning‐enabled model‐data fusion inversion to infer spatially explicit physiological controls (trait proxies) of U.S. winter wheat directly from observations. By constraining simulations with satellite‐derived photosynthesis and county‐level yield records from 2008 to 2022 across ~1000 winter wheat–producing counties, the inversion recovers coherent patterns of maturity group, reproductive capacity, harvest index, and root–shoot allocation. The optimized simulations reproduce observed carbon uptake and yield variability (gross primary productivity r = 0.76–0.88; phenology bias < 2 weeks; > 90% of yields within ±20% of reports) and reveal distinct physiological profiles that align with the geographic distributions of major winter wheat market classes. The inferred controls explain class‐ and region‐specific climate sensitivities: warmer winters reduce vernalization success in late‐maturing cultivars, while elevated vapor pressure deficit causes strong yield losses in rainfed Hard Red Winter wheat. The results demonstrate that observation‐constrained trait inversion within model–data fusion framework reveals biologically meaningful crop‐class variation, thereby providing a scalable, physiologically grounded framework for diagnosing adaptive diversity and climate vulnerability across agroecosystems.",
-      "keywords": []
+      "keywords": [
+        "Phenology",
+        "Agroecosystem",
+        "Climate change",
+        "Inversion (geology)",
+        "Winter wheat",
+        "Trait",
+        "Ectotherm",
+        "Crop yield",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/gcb.70949",
@@ -159,7 +284,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70949",
       "abstract": "ABSTRACT Anthropogenic climate change is driving a convergence of rapid soil aridification and secondary salinization that threatens to degrade over half of the world's arable land. As conventional glycophytic crops reach their physiological limits, global food security depends on decoding the evolutionary adaptations of extremophytes. This review synthesizes the functional traits and ecosystem‐level impacts of extremophytes, the native flora of these marginal environments, and evaluates their potential as a biophysical buffer against land degradation. Here, we identify two cornerstone strategies that allow these plants to thrive where others fail: (i) the precise spatiotemporal orchestration of reactive oxygen species (ROS) as critical signaling molecules for developmental plasticity; and (ii) the active recruitment of stress‐protective microbiomes via targeted exudation, effectively transforming barren soil into a functional ecosystem. We argue that integrating extremophytes into diversified agroecosystems, through intercropping, phytoremediation rotations, and circular bioeconomy models, offers quantifiable results to enhance ecosystem multifunctionality and sustainably intensify production on degrading lands. By bridging profound mechanistic discovery with ecological engineering, this perspective provides an actionable plan for translating extremophyte biology into crops capable of withstanding a drier future.",
-      "keywords": []
+      "keywords": [
+        "Aridification",
+        "Restoration ecology",
+        "Sustainability",
+        "Climate change",
+        "Ecosystem",
+        "Arable land",
+        "Arid",
+        "Ecosystem services"
+      ]
     },
     {
       "doi": "10.1111/gcb.70927",
@@ -195,7 +329,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70943",
       "abstract": "ABSTRACT Climatic fluctuations can play a crucial role in shaping large‐scale patterns of biodiversity and biogeography. This study examines how climatic gradients and their variability influence family‐level temporal ecological processes that govern the balance between stochastic and deterministic processes that underlie community dynamics of riverine insects. This comparison, done across multiple continents but mostly in the Northern Hemisphere, used long‐term data from 302 sites mainly in Europe, ranging from 10 to 37 years, and with 4751 observations of family‐level riverine insect assemblages. We analyzed spatial patterns in family richness, family‐level temporal beta diversity, and associated ecological processes. Generalized additive models revealed high spatial heterogeneity, with family‐level richness declining with latitude, but total family‐level temporal beta‐diversity decreasing with increasing latitude and elevation across the continents studied. The cross‐continental results from generalized additive and dissimilarity models further showed spatial shifts in the proxy indicators of ecological processes (e.g., environmental variables and time‐series decomposition), with stochastic processes (e.g., ecological drift) increasing in importance towards higher latitudes. In contrast, deterministic processes (e.g., temperature) declined. At a cross‐continental perspective, these findings highlight how spatial asymmetry under fluctuating climates may shape riverine insect community dynamics and improve adaptive conservation strategies.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Species richness",
+        "Proxy (statistics)",
+        "Climate change",
+        "Spatial ecology",
+        "Beta diversity",
+        "Latitude",
+        "Temporal scales",
+        "Community",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03083-5",
