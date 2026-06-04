@@ -13,7 +13,7 @@ if (hamburger) {
         navMenu.style.left = '0';
         navMenu.style.right = '0';
         navMenu.style.flexDirection = 'column';
-        navMenu.style.backgroundColor = 'rgba(255, 255, 255, 0.96)';
+        navMenu.style.backgroundColor = 'rgba(255, 255, 255, 0.02)';
         navMenu.style.backdropFilter = 'blur(20px)';
         navMenu.style.gap = '1rem';
         navMenu.style.padding = '1rem';
