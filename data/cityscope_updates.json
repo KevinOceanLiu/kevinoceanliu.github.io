@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T00:02:34.513344+00:00",
+  "generated_at": "2026-06-04T00:01:32.725393+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105694",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105694",
-      "title": "Exploring the impact of map uncertainty on soil sealing versus conservation decisions",
+      "doi": "10.1016/j.landurbplan.2026.105715",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105715",
+      "title": "Perceptions of rewilding in European abandoned agricultural lands",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
@@ -43,14 +43,14 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001180",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001398",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107141",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107141",
-      "title": "Regional resilience and governance modes: Two great transformations of Dongguan in China's post-1978 reform era",
+      "doi": "10.1016/j.cities.2026.107199",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107199",
+      "title": "Spatial implications of remote work: insights from seven European case studies",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -60,9 +60,78 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003732",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004312",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105710",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105710",
+      "title": "How elevated-road design and adjacent building configuration shape vertical exposure to traffic-related particles in dense urban environments",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-06-03",
+      "published_date_display": "2026-06-03",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001349",
+      "abstract": "",
+      "keywords": [
+        "Urban environment",
+        "Field (mathematics)",
+        "Urban landscape",
+        "Spatial configuration"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105694",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105694",
+      "title": "Exploring the impact of map uncertainty on soil sealing versus conservation decisions",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001180",
+      "abstract": "Incorporating soil quality into land-planning decisions is considered a crucial initial step in minimizing the environmental and human well-being impacts of soil sealing. In recent years, land planners have gained greater access to soil quality maps and, in the best cases, to their associated uncertainty. However, it remains unclear how the representation of map uncertainty influences decision-making, and how this influence varies depending on the decision to be made (conservation/conversion) and land-planners’ backgrounds or socio-demographic characteristics. This paper presents the results of a map-based survey, in which respondents were shown soil quality maps with varying levels and representations of uncertainty, and asked to make either sealing or conservation decisions. We determined through a statistical analysis how the different factors (level of uncertainty, map resolution, type of visualization, self reported comfort, expertise, etc.) influence decision-making, and how their influence varies across decision scenarios (sealing vs. conservation). We showed that the main factors at play are soil quality and uncertainty level. Their effects, however, depend on the decision scenario. We also demonstrated that end-users were able to incorporate uncertainty information into their decisions, and quantified, in each scenario, the threshold above which uncertainty impedes decision-making. These results highlight the impact of map uncertainty on planners’ decisions and underline the need for clear representation, as many environmental maps used in land planning are inherently uncertain.",
+      "keywords": [
+        "Quality (philosophy)",
+        "Representation (politics)",
+        "Soil quality",
+        "Environmental quality",
+        "Soil map",
+        "Land use",
+        "Uncertainty analysis"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107141",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107141",
+      "title": "Regional resilience and governance modes: Two great transformations of Dongguan in China's post-1978 reform era",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-02",
+      "published_date_display": "2026-06-02",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003732",
+      "abstract": "",
+      "keywords": [
+        "Resilience (materials science)",
+        "Corporate governance",
+        "Psychological resilience",
+        "Perspective (graphical)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00456-6",
@@ -2656,7 +2725,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600449X",
-      "abstract": "",
+      "abstract": "In Denmark, national policies tackle housing segregation through transforming the built environment and changing the resident composition in non-profit housing areas. As the interventions include extensive renovations, demolitions and sale of housing blocks, these so-called ghetto-policies require relocation of a large number of current residents, including older adults. However, the success of these policies is measured on a neighbourhood scale, focusing on statistically measurable outcomes. Thus, the lived experiences of relocated residents in general, and relocated older adults in particular, fall under the radar.<br/><br/>Drawing on qualitative interviews with older adults and employees, this study aims to explore older adults' lived experiences of both relocation processes and outcomes. Combining place attachment theory with a spatial justice lens, we show how the empirical findings inform our understanding of spatial justice by foregrounding its social dimension, thereby introducing the notion of 'the sociality of spatial (in)justice'. The analysis reveals that older adults can experience relocations as decreasing their opportunities for social interaction and participation, thus affecting their social life and associated sense of safety. In addition, while local support can facilitate some degree of influence on the individual's relocation, national policies targeting selected neighbourhoods can affect the societal trust of older citizens, who experience socio-spatial exclusion.<br/><br/>Underscoring how the social dimension of spatial (in)justice is of particular significance to older adults, this article refines the spatial justice framework, contributes to urban and ageing studies and makes a societal contribution by offering policymakers and practitioners insights for more just approaches.",
       "keywords": [
         "Sociality",
         "Relocation",
@@ -6718,30 +6787,6 @@
         "Phylogenetic tree",
         "Global biodiversity",
         "Species richness"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106989",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106989",
-      "title": "Public interest or elite consensus? Contextualizing the construction of public interest in Tehran's urban planning system",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-07",
-      "published_date_display": "2026-04-07",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002210",
-      "abstract": "",
-      "keywords": [
-        "Public interest",
-        "Elite",
-        "Urban planning",
-        "National interest",
-        "Public participation",
-        "Special Interest Group"
       ]
     },
     {
