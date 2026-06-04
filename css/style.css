@@ -3825,3 +3825,19 @@ select {
 .others-page .others-card-compact + .others-card-compact {
     border-top: 1px solid var(--border-color);
 }
+
+.journal-page .journal-simple-header,
+.journal-page .journal-list,
+.journal-page .journal-entry,
+.journal-page .journal-entry:first-child,
+.journal-page .journal-entry:last-child,
+.journal-page .journal-entry + .journal-entry {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+}
+
+.journal-page .journal-entry + .journal-entry {
+    border-top: 1px solid var(--border-color);
+}
