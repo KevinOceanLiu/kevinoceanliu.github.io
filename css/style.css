@@ -345,7 +345,7 @@ body {
     border: 1px solid var(--border-color);
     border-radius: 8px;
     background: #fff;
-    color: var(--text-muted);
+    color: #000;
     font-family: SimSun, STSong, 'Songti SC', serif;
     font-size: 13px;
     font-weight: 700;
@@ -357,7 +357,7 @@ body {
 .language-button:focus-visible,
 .language-button.is-active {
     border-color: var(--border-color);
-    color: var(--text-muted);
+    color: #000;
     background: #fff;
 }
 
@@ -2317,22 +2317,22 @@ a.link-arrow:hover {
 }
 
 .nav-menu {
-    gap: 8px;
+    gap: 2rem;
 }
 
 .nav-menu a {
     color: var(--text-light);
     font-size: 14px;
     font-weight: 560;
-    padding: 8px 12px;
-    border-radius: 999px;
+    padding: 0;
+    border-radius: 0;
     text-decoration: none;
 }
 
 .nav-menu a:hover,
 .nav-menu a.active {
     color: var(--text-color);
-    background: var(--surface-muted);
+    background: transparent;
 }
 
 .nav-menu a.active::after {
@@ -2594,6 +2594,8 @@ a:hover {
 
 .publication-text-section + .publication-text-section {
     margin-top: 28px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border-color);
 }
 
 .publication-text-section h2 {
@@ -3269,10 +3271,14 @@ a.link-arrow:hover,
 }
 
 .others-card-description li::before {
-    content: "-";
+    content: "";
     position: absolute;
-    left: 0;
-    color: var(--text-muted);
+    left: 2px;
+    top: 0.7em;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #a7adb4;
 }
 
 .journal-simple-header {
@@ -3713,4 +3719,109 @@ select {
 .others-card-action:hover::after,
 .others-card-action:focus-visible::after {
     color: var(--accent-color);
+}
+
+.others-card-action,
+.others-card-action:visited,
+.others-card-action:hover,
+.others-card-action:focus-visible,
+.others-card-action::after,
+.others-card-action:hover::after,
+.others-card-action:focus-visible::after,
+.others-card:hover .others-card-action,
+.others-card:focus-visible .others-card-action,
+.others-card:hover .others-card-action::after,
+.others-card:focus-visible .others-card-action::after {
+    color: #000 !important;
+}
+
+.navbar .nav-menu a,
+.navbar .nav-menu a:visited,
+.navbar .nav-menu a:hover,
+.navbar .nav-menu a:focus-visible,
+.navbar .nav-menu a.active {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+
+.logo,
+.navbar .nav-menu a,
+.navbar .nav-menu a:visited,
+.navbar .nav-menu a:hover,
+.navbar .nav-menu a:focus-visible,
+.navbar .nav-menu a.active,
+.hero-name-line,
+.hero-subtitle-cjk,
+.hero-subtitle-katakana,
+.cv-page-title,
+.cv-line-section h2,
+.cv-line-section h3,
+.cv-subtitle,
+.cv-entry-head h3,
+.others-section-header h1,
+.others-card h2,
+.journal-filter-heading,
+.journal-label,
+.page-header h1,
+.featured h2,
+.featured-card h3,
+.blog-preview h2,
+.blog-card h3,
+.portfolio-item h3,
+.blog-post h2,
+.about-text h2,
+.skills-section h2,
+.skill-category h3,
+.experience-section h2,
+.timeline-content h3,
+.education-section h2,
+.education-item h3,
+.cta-section h2,
+.footer-section h4 {
+    color: #000 !important;
+}
+
+.home-page .home-main {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.home-page .home-sidebar,
+.home-page .profile-avatar-frame {
+    border: 0;
+    box-shadow: none;
+}
+
+.home-page .home-sidebar {
+    border-radius: 0;
+}
+
+.others-page .others-section-header,
+.others-page .others-card,
+.others-page .others-card-compact,
+.others-page .others-card:hover,
+.others-page .others-card:focus-visible {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+}
+
+.others-page .others-section {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    overflow: visible;
+}
+
+.others-page .others-card-image-wrap {
+    border-right: 0;
+}
+
+.others-page .others-card + .others-card,
+.others-page .others-card-compact + .others-card-compact {
+    border-top: 1px solid var(--border-color);
 }
