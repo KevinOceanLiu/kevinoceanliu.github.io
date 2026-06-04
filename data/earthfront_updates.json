@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T23:26:13.890518+00:00",
+  "generated_at": "2026-06-04T22:57:27.251787+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01849-0",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01849-0",
+      "title": "Energy-efficient electrified ethylene synthesis in CO-starved environment",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        6,
+        4
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01849-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01984-5",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01984-5",
+      "title": "Natural forest expansion is a larger carbon sink than secondary forests in moist tropics",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        6,
+        4
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01984-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01999-y",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01999-y",
+      "title": "Day–night shifts in microbial activity affecting arsenic and iron in the rice rhizosphere",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        6,
+        4
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01999-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02009-x",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02009-x",
+      "title": "Climate benefits of tropical forest expansion",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        6,
+        4
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02009-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01848-1",
       "doi_url": "https://doi.org/10.1038/s41893-026-01848-1",
       "title": "A circular hydrothermal refinery for sustainable aviation fuel from food waste",
@@ -41,7 +113,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01848-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hydrothermal liquefaction",
+        "Aviation fuel",
+        "Jet fuel",
+        "Refinery",
+        "Hydrodesulfurization",
+        "Food waste",
+        "Renewable fuels",
+        "Renewable energy",
+        "Oil refinery"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01989-0",
@@ -59,7 +141,15 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01989-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Extensional definition",
+        "Tectonics",
+        "Antarctic ice sheet",
+        "Extension (predicate logic)",
+        "Structural basin",
+        "Extensional tectonics",
+        "Ice sheet"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01991-6",
@@ -77,7 +167,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01991-6",
       "abstract": "Abstract Recent sub-ice topography investigations have imaged—with greatly improved detail—a set of low-elevation V-shaped basins hidden beneath a very large sector of the East Antarctic Ice Sheet. Here we jointly interpret sub-ice topography and geophysical data and show that these basins form a semi-continental-sized, fan-shaped physiographic unit that radiates from a focal point near the South Pole. We name this the East Antarctic Fan-Shaped Basin Province. We propose that the fan-like landscape is the product of distributed intraplate rotational extension before the breakup of Gondwana, with three continental-scale consequences. Laterally, to the west, it caused compression and the consequent uplift of the Gamburtsev Mountains. To the east, the northernmost Transantarctic Mountains segment was rotated clockwise by ~20°, overriding the West Antarctic Rift System’s hot lithosphere and causing segmentation of the mountain chain into three blocks and their differential uplift due to thermal buoyancy. To the north, the transcurrent edge of the fan formed the lithospheric weakness that controlled the breakup of Gondwana by driving the propagation of Antarctica–Australia separation and shaping the resulting semi-circular passive continental margins. These processes have influenced the present-day East Antarctica sub-ice landscape and the evolution of the overlying ice sheet, including the development of glacial troughs and outlet glaciers.",
-      "keywords": []
+      "keywords": [
+        "Gondwana",
+        "Lithosphere",
+        "Rift",
+        "Structural basin",
+        "Breakup",
+        "Passive margin",
+        "Cryosphere",
+        "Intraplate earthquake",
+        "Oceanic basin"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02660-7",
@@ -95,7 +195,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02660-7",
       "abstract": "Abstract Hailstorms cause damage across the globe and endanger crops, but their changes in a warming climate are not well quantified. Here we apply three hail proxies to an ensemble of global model projections to show divergent changes in hail-prone condition frequency worldwide. Changes depend on whether the proxy allows instability increases to be offset by temperature or moisture increases. Uncertainty on hail projections remains high, especially in the tropics. In projections with 2 °C and 3 °C of mean global warming, ensemble-mean hail-prone conditions shifted polewards, with decreases in hail hazard in the mid-latitudes and increases in colder regions. Across 26 crop types with fixed exposure and vulnerability, hail risk was generally projected to increase for winter crops such as wheat and decrease for summer crops such as maize. Poleward shifts in hail hazard may attenuate yield increases from similar shifts in crop regions under climate change.",
-      "keywords": []
+      "keywords": [
+        "Global warming",
+        "Climate change",
+        "Hazard",
+        "Crop",
+        "Proxy (statistics)",
+        "Climate extremes",
+        "Climate model",
+        "Crop yield"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02652-7",
@@ -112,8 +221,17 @@
         3
       ],
       "link": "https://www.nature.com/articles/s41558-026-02652-7",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The high-latitude (poleward of ~50° S) Southern Ocean is recognized as a region of delayed surface warming during periods of transient CO2 increase; however, the uniformity of this pattern remains unclear. Here, based on observational and reanalysis datasets, we identify locally (50° S–61° S, 80° E–130° E) accelerated surface warming of 1.5 °C per century for 1982–2023 in the high-latitude Indian Ocean sector. This warming rate is three times the average over the high-latitude Southern Ocean (0.5 °C per century) and close to the global mean of 1.6 °C per century. Analysis of a state-of-the-art high-resolution climate simulation suggests that the hotspot warming is primarily attributed to increased upward heat transport by mesoscale eddies in response to an enhanced Antarctic Circumpolar Current under anthropogenic climate change. Our findings underscore the important role of mesoscale eddies in regulating Southern Ocean warming and the need for their faithful representation in models to ensure reliable projections of future climate change. The Southern Ocean is important for anthropogenic heat uptake, and this regional analysis shows an area with enhanced warming in the high-latitude Indian sector. Model analyses indicate that mesoscale eddies drive upward heat transport, linked to a strengthening of the Antarctic Circumpolar Current.",
+      "keywords": [
+        "Hotspot (geology)",
+        "Effects of global warming on oceans",
+        "Mesoscale meteorology",
+        "Ocean heat content",
+        "Eddy",
+        "Global warming",
+        "Circumpolar star",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02663-4",
@@ -131,7 +249,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02663-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Grassland",
+        "Food security",
+        "Climate change",
+        "Ecosystem",
+        "Agriculture",
+        "Agricultural productivity",
+        "Crop yield",
+        "Ecosystem services"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01853-4",
@@ -221,14 +348,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600117X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate extremes",
+        "Climate change",
+        "Heat wave",
+        "Global warming",
+        "Ectotherm"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01840-9",
