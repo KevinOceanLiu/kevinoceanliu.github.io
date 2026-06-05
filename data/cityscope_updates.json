@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T23:37:39.673862+00:00",
+  "generated_at": "2026-06-05T23:38:30.823422+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,97 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105713",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105713",
-      "title": "A global review of urban bird conservation from ecological and planning perspectives under the Kunming–Montreal biodiversity framework Target 12",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
+      "doi": "10.1016/j.cities.2026.107248",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107248",
+      "title": "The role of price spillovers in the Australian housing crisis: A two-market analysis",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
       "published_date": "2026-10-01",
       "published_date_display": "2026-10",
       "published_parts": [
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001374",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004804",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00444-w",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00444-w",
+      "title": "Ideological divides soften near home",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-05",
+      "published_date_display": "2026-06-05",
+      "published_parts": [
+        2026,
+        6,
+        5
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00444-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00450-y",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00450-y",
+      "title": "Geographic proximity dampens ideological policy disagreement in urban politics",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-05",
+      "published_date_display": "2026-06-05",
+      "published_parts": [
+        2026,
+        6,
+        5
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00450-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107275",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107275",
+      "title": "Matters of caring for neglected spaces",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-05",
+      "published_date_display": "2026-06-05",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600507X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105713",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105713",
+      "title": "A global review of urban bird conservation from ecological and planning perspectives under the Kunming–Montreal biodiversity framework Target 12",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001374",
+      "abstract": "",
+      "keywords": [
+        "Biodiversity",
+        "Biodiversity conservation",
+        "Ecological planning",
+        "Urban planning",
+        "Wildlife conservation"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107182",
@@ -54,15 +130,24 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004142",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Wheelchair",
+        "Global Positioning System",
+        "Process (computing)",
+        "Analytic hierarchy process",
+        "Population",
+        "Perspective (graphical)",
+        "Key (lock)",
+        "Disabled people"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105715",
@@ -5178,33 +5263,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107033",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107033",
-      "title": "Environmental determinants of urban mental health in London derived from social media analytics and geospatial machine learning",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-21",
-      "published_date_display": "2026-04-21",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002659",
-      "abstract": "Rapid urbanization poses critical challenges to environmental quality, public health, and emotional well-being. This study presents a machine learning framework integrating longterm environmental pressure, socioeconomic, and health predictors with spatial analysis to model urban emotions and prioritize mental health interventions across Inner London. PM10 concentrations (8.5%), noise pollution (7.8%), and PM2.5 levels (5.3%) were identified as dominant drivers of negative emotions, particularly in eastern boroughs with socioeconomic disparities. Positive emotions, such as joy and trust, were associated with open space accessibility (8.2%) and normalised difference vegetation index (7.2%), indicating that green infrastructure corresponds to areas where more positive emotional expressions are observed. The Mental Health Prioritization Model identified 117 high-priority hexagons in environmentally stressed areas, offering actionable insights for targeted interventions. These findings offer a framework for examining spatial patterns of environmental inequality and emotional expressions, which may support broader discussions on urban sustainability. • Machine learning reveals how urban environments shape collective emotional well-being • Remote sensing metrics serve as robust predictors for localized emotional distress • Geospatial frameworks identify high-priority zones for targeted mental health interventions • Spatial analytics bridge the gap between urban planning and community psychological welfare",
-      "keywords": [
-        "Geospatial analysis",
-        "Mental health",
-        "Geocoding",
-        "Psychological intervention",
-        "Analytics",
-        "Urban planning",
-        "Social media",
-        "Environmental justice",
-        "Public health"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261438714",
       "doi_url": "https://doi.org/10.1177/00420980261438714",
       "title": "Is the city centre synonymous with (non-)cooperative innovation? Innovation in Knowledge -Intensive Services through intra-metropolitan space of Mexico City",
@@ -7802,30 +7860,6 @@
         "Urban sprawl",
         "Spatial ecology",
         "Common spatial pattern"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107021",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107021",
-      "title": "Rethinking public space design for people with visual disabilities: Towards an inclusive urban environment",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-30",
-      "published_date_display": "2026-03-30",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002532",
-      "abstract": "",
-      "keywords": [
-        "Public space",
-        "Urban design",
-        "Space (punctuation)",
-        "Urban space",
-        "Urban environment",
-        "Urban planning"
       ]
     },
     {
