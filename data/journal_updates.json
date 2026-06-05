@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T22:44:25.272087+00:00",
+  "generated_at": "2026-06-05T22:35:43.131117+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,72 +26,88 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.isprsjprs.2026.05.042",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.042",
+      "title": "FreqChange: Frequency-aware spatiotemporal learning with prior guidance for semantic change detection in remote sensing images",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002893",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2680024",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2680024",
+      "title": "DML-Geo: an ensemble double machine learning framework for estimating spatially heterogeneous causal effects",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-05",
+      "published_date_display": "2026-06-05",
+      "published_parts": [
+        2026,
+        6,
+        5
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2680024",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115509",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115509",
+      "title": "Towards physically consistent soil roughness for CIMR L-band soil moisture and VOD retrievals",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002798",
+      "abstract": "",
+      "keywords": [
+        "Water content",
+        "Moisture",
+        "Vegetation (pathology)",
+        "Surface finish",
+        "Scale (ratio)"
+      ]
+    },
+    {
       "doi": "10.1016/j.rse.2026.115515",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115515",
       "title": "Structure-preserving DEM void filling via optical imagery-guided diffusion",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002853",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115516",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115516",
-      "title": "Antarctic surface melt mapping using Tianmu-1 GNSS-R observations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002865",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.05.047",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.047",
-      "title": "LandslideSegFormer: A non-local context-aware dual-branch network for accurate small-scale landslide segmentation from remote sensing imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002947",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.001",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.001",
-      "title": "Fine-grained heterogeneous change detection in complex disaster response with wavelet-based spatial-frequency coupled learning",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003011",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Terrain",
+        "Digital elevation model",
+        "Ground truth",
+        "Interpolation (computer graphics)",
+        "Noise reduction",
+        "Clutter",
+        "Elevation (ballistics)",
+        "Prior probability"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115503",
@@ -133,6 +149,105 @@
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002907",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115516",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115516",
+      "title": "Antarctic surface melt mapping using Tianmu-1 GNSS-R observations",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002865",
+      "abstract": "",
+      "keywords": [
+        "Surface (topology)",
+        "Reflectivity",
+        "Satellite",
+        "Earth surface",
+        "Sea surface temperature"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.047",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.047",
+      "title": "LandslideSegFormer: A non-local context-aware dual-branch network for accurate small-scale landslide segmentation from remote sensing imagery",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002947",
+      "abstract": "",
+      "keywords": [
+        "Landslide",
+        "Segmentation",
+        "Feature (linguistics)",
+        "Encoder",
+        "Pairwise comparison",
+        "Image segmentation",
+        "Block (permutation group theory)",
+        "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.002",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.002",
+      "title": "Hemispheric-scale mapping of thaw slumps using a cloud-native and transferable deep learning framework",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003023",
+      "abstract": "",
+      "keywords": [
+        "Deep learning",
+        "Slump",
+        "Feature (linguistics)",
+        "Visualization"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.001",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.001",
+      "title": "Fine-grained heterogeneous change detection in complex disaster response with wavelet-based spatial-frequency coupled learning",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-04",
+      "published_date_display": "2026-06-04",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003011",
+      "abstract": "",
+      "keywords": [
+        "Change detection",
+        "Wavelet",
+        "Consistency (knowledge bases)",
+        "Feature (linguistics)",
+        "Encoder",
+        "Flood myth",
+        "Decoding methods",
+        "Encoding (memory)",
+        "Code (set theory)",
+        "Earth observation"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115507",
@@ -10824,30 +10939,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.004",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.004",
-      "title": "Multimodal remote sensing change detection: An image matching perspective",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-06",
-      "published_date_display": "2026-02-06",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000559",
-      "abstract": "Change Detection (CD) between images with different modalities is a fundamental capability for remote sensing. In this work, we pinpoint the commonalities between Multimodal Change Detection (MCD) and Multimodal Image Matching (MIM). Accordingly, we present a new unsupervised CD framework designed from the perspective of Image Matching (IM), called IM4CD. It unifies the IM and CD tasks into a single, coherent framework. In this framework, we abandon the prevalent strategy in MCD to compare per-pixel image features, since it is in practice quite difficult to design features that are truly invariant across modalities. Instead, we propose to compute similarity by local template matching and utilize the spatial offset of response peaks to represent change intensity between images with different modalities, and then to integrate it tightly with the co-registration of the two images, which anyway includes such a matching step. In this way, the same off-the-shelf descriptors used for MIM also support MCD. In other words, we first extract modality-independent features, then detect salient points to obtain initial pairs of corresponding Control Points (CP). When matching those points to accurately register the images, CP pairs located in unchanged areas show low residuals, whereas those in changed areas show high residuals. The CPs can then be connected into a Conditional Random Field (CRF), leveraging modality-independent structural relationships to estimate dense change maps. Experimental results show the effectiveness of our method, including robustness to registration errors, its compatibility with different image descriptors, and promising potential for challenging real-world disaster response scenarios.",
-      "keywords": [
-        "Perspective (graphical)",
-        "Matching (statistics)",
-        "Change detection",
-        "Remote sensing application",
-        "Image (mathematics)",
-        "Image matching"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.005",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.005",
       "title": "L2M-Reg: Building-level uncertainty-aware registration of outdoor LiDAR point clouds and semantic 3D city models",
@@ -11292,30 +11383,6 @@
         "Matching (statistics)",
         "Data set",
         "Feature (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.035",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.035",
-      "title": "An advanced decoupled polarimetric calibration method for the LuTan-1 hybrid- and quadrature-polarimetric modes",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-30",
-      "published_date_display": "2026-01-30",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000432",
-      "abstract": "",
-      "keywords": [
-        "Polarimetry",
-        "Calibration",
-        "Synthetic aperture radar",
-        "Inversion (geology)",
-        "Distortion (music)",
-        "Radar"
       ]
     },
     {
@@ -12566,30 +12633,6 @@
         "Bayesian probability",
         "Sample size determination",
         "Robustness (evolution)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115203",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115203",
-      "title": "Emulation-based self-supervised SIF retrieval in the O2-A absorption band with HyPlant",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-25",
-      "published_date_display": "2025-12-25",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006078",
-      "abstract": "",
-      "keywords": [
-        "Absorption (acoustics)",
-        "Absorption band",
-        "Absorption spectroscopy",
-        "Attenuation coefficient",
-        "Analytical Chemistry (journal)",
-        "Absorptance"
       ]
     },
     {
