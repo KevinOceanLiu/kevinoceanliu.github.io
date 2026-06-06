@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:38:30.823422+00:00",
+  "generated_at": "2026-06-06T23:16:59.728899+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,19 +31,19 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107248",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107248",
-      "title": "The role of price spillovers in the Australian housing crisis: A two-market analysis",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "doi": "10.1016/j.landurbplan.2026.105712",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105712",
+      "title": "Non-linear responses and biocultural buffering of ancient tree multi-dimensional diversity along an urbanisation gradient",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
       "published_parts": [
         2026,
-        10
+        11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004804",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001362",
       "abstract": "",
       "keywords": []
     },
@@ -63,7 +63,13 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00444-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ideology",
+        "Politics",
+        "Context (archaeology)",
+        "Government (linguistics)",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00450-y",
@@ -81,7 +87,45 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00450-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ideology",
+        "Politics",
+        "Context (archaeology)",
+        "Urban politics",
+        "Political science",
+        "Survey research",
+        "Sociology",
+        "Political economy",
+        "Positive economics",
+        "Law",
+        "Economics",
+        "Geography",
+        "Socioeconomics"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107248",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107248",
+      "title": "The role of price spillovers in the Australian housing crisis: A two-market analysis",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-05",
+      "published_date_display": "2026-06-05",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004804",
+      "abstract": "Australia's soaring housing prices have intensified affordability concerns, with a key emerging issue being the widening price gap between houses and units. While prior spillover studies primarily examined how housing booms spread between cities, this research introduces a novel two-market spillover model that augments the traditional Diebold-Yilmaz framework to capture both house-unit spillover disparities and cross-market interactions within and across capital cities. Our findings reveal that skyrocketing house prices generate significantly stronger spillovers than units, reinforcing their dominant role in driving market-wide fluctuations. Moreover, intercity house spillovers exceed intra-city effects, highlighting the systemic nature of price transmission across regions. Given these insights, policy efforts should focus on mitigating overheated intercity house spillovers (demand-side measures), rather than attributing affordability challenges solely to unit supply shortages. This study provides a new empirical foundation for understanding housing market volatility and guiding more effective regulatory interventions.",
+      "keywords": [
+        "Spillover effect",
+        "Boom",
+        "Volatility (finance)",
+        "Capital (architecture)",
+        "House price",
+        "Empirical evidence"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107275",
