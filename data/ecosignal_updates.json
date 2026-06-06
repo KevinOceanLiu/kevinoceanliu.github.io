@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T23:49:43.041846+00:00",
+  "generated_at": "2026-06-06T23:42:29.025592+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/gcb.70963",
+      "doi_url": "https://doi.org/10.1111/gcb.70963",
+      "title": "Soil Organic Carbon and <scp>pH</scp> Interactions Mediate N Impacts on Nematode Abundance and Composition",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-06",
+      "published_date_display": "2026-06-06",
+      "published_parts": [
+        2026,
+        6,
+        6
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70963",
+      "abstract": "ABSTRACT Human activities have dramatically increased nitrogen (N) inputs to terrestrial ecosystems, with cascading effects on soil biodiversity and function. Soil nematodes, the most abundant animals on Earth, play critical roles in nutrient cycling and ecosystem health. Although numerous studies have examined N effects on soil nematodes, crucial knowledge gaps remain regarding how these varying responses depend on fundamental soil properties like organic carbon (C) content and soil acidity, particularly across soils with contrasting baseline properties under identical fertilization regimes. Through a long‐term field experiment with soils differing in organic C contents, here we show that baseline soil conditions strongly affect the effects of N enrichment on soil nematode communities. Specifically, N addition increased nematode abundance in C‐rich soils, while significantly reducing it in C‐poor soils through inducing soil acidification. Soil pH emerged as a critical filter regulating nematode responses to N enrichment, determining which trophic groups thrived or declined and thereby reshaping soil C cycling pathways. Results from a global meta‐analysis further reveal that nematode abundance exhibited a hump‐shaped relationship with soil pH, peaking at 5.9–6.0, while increasing monotonically with SOC. Together, our results demonstrate that local soil properties mediate N impacts on soil food webs more strongly than N input alone. By linking N inputs with nematode community shifts through measurable soil properties, our work provides a framework for predicting how global changes might alter belowground ecosystems. This knowledge is crucial for developing sustainable agricultural practices that maintain soil biodiversity while meeting crop production demands.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70959",
+      "doi_url": "https://doi.org/10.1111/gcb.70959",
+      "title": "Rapid and Intense Declines of Forest Connectivity in the Amazon Arc of Deforestation Over Four Decades",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-06",
+      "published_date_display": "2026-06-06",
+      "published_parts": [
+        2026,
+        6,
+        6
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70959",
+      "abstract": "ABSTRACT The Amazon Arc of Deforestation is facing a silent decline in ecological functionality. Using four decades of high‐resolution land cover data, we reveal a dramatic decline in functional connectivity across deforested areas in the Brazilian Amazon. Analyzing 40 targeted large‐scale forest landscapes across Pará, Mato Grosso, and Rondônia, we quantified connectivity for key ecological processes—seed dispersal, pollen dispersal, and gap‐crossing capacity of animals—using graph theory metrics. Between 1990 and 2020, the connectivity dropped by up to 50% in highly deforested regions, even when accounting for stepping‐stones. Simultaneously, spatial modularity increased in nearly all study regions, in some by more than 25%, reflecting a more compartmentalized landscape structure. Forest fragment distances rose, and mean patch area fell sharply, compromising dispersal and potentially gene flow. Our results suggest a potential breakdown of spatial connectivity within the targeted zones of the Amazonian forests, except in the Western Pará region, where higher connectivity and lower modularity still prevail. Without urgent connectivity‐enhancing strategies, even remaining forest patches may become functionally isolated, threatening the maintenance of biodiversity.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03101-6",
       "doi_url": "https://doi.org/10.1038/s41559-026-03101-6",
       "title": "Pricing nature into sovereign debt",
@@ -51,7 +87,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03101-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Debt",
+        "Government (linguistics)",
+        "Replica",
+        "Sovereign debt",
+        "Sovereignty",
+        "Credit risk"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03103-4",
@@ -69,7 +112,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03103-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biogeochemical cycle",
+        "Root system",
+        "Ecosystem",
+        "Plant root",
+        "Phosphorus",
+        "Root (linguistics)",
+        "Ecophysiology",
+        "Plant physiology"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03081-7",
@@ -87,7 +139,18 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03081-7",
       "abstract": "Abstract Biodiversity loss and deforestation are increasingly recognized as systemic economic risks. Yet, their implications for financial markets remain poorly understood. Here we study how biodiversity and ecosystem service loss affect financial risk for the world’s largest asset class, sovereign debt. Environmental degradation undermines the natural foundations of economic activity, reducing productive capacity and the ability of governments to service debt. Currently, sovereign credit ratings ignore these risks, meaning that markets may be mispricing, mismanaging and misallocating US$83 trillion of financial assets. We incorporate biodiversity risk into sovereign credit assessments by extending S&P Global’s methodology to include scenarios for future tropical timber, wild pollination and marine fisheries services across 23 countries, representing 5.5 billion people. A partial ecosystem collapse scenario increases annual debt servicing costs by US$49 billion in India, equivalent to 2.4% of median post-tax income, and by US$70 billion in China. Across countries, additional annual interest payments could reach US$162 billion, nearly reaching the US$200 billion per year target for conservation support under the Global Biodiversity Framework. Angola, Bangladesh, the Democratic Republic of the Congo and Madagascar could face gross domestic product losses of more than 15% by 2030. Our results suggest that financial markets are systematically underpricing nature-related risks, with consequences for public finances, nature and financial stability.",
-      "keywords": []
+      "keywords": [
+        "Ecosystem services",
+        "Biodiversity",
+        "Deforestation (computer science)",
+        "Financial asset",
+        "Payment for ecosystem services",
+        "Payment",
+        "Debt",
+        "Asset (computer security)",
+        "Debt service coverage ratio",
+        "Gross domestic product"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70362",
@@ -105,7 +168,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70362",
       "abstract": "Abstract Quantifying the effects of habitat fragmentation presents challenges due to the complexity of landscape‐scale habitat configuration and its interaction with landscape and local processes. While patch‐scale studies contribute valuable insights, extrapolating their findings to landscape scales is problematic due to the influence of landscape‐scale processes. We used structural equation modelling to examine the direct and indirect effects of landscape‐scale attributes around sampled forest patches including forest amount, edge density, number of patches, mean patch size, and mean interpatch distance, and patch‐ or plot‐scale attributes including focal patch size, focal patch isolation, sample plot distance to forest edge, within‐plot microhabitat heterogeneity, and plot soil pH, on species richness of woodland specialist plants in 16 sample plots within each of 97 British woodlands (‘focal patches’). We find direct positive effects on woodland specialist richness of: (i) forest edge density in the landscape, suggesting positive effects of fragmentation per se, (ii) distance to forest edge of the sample plot, suggesting negative local edge effects, (iii) focal patch area, (iv) within‐plot heterogeneity and (v) within‐plot soil pH. We also find indirect positive effects of: (i) forest amount in the landscape through its indirect correlations to focal patch size and distance to forest edge, and (ii) number of forest patches in the landscape, through its correlation with edge density in the landscape. Synthesis. Our results suggest positive effects of fragmentation per se, that is fragmentation controlling for forest amount, on richness of specialist forest plants, despite their negative local edge response. This confirms that cross‐scale extrapolation is not valid in habitat fragmentation research: negative patch‐scale edge effects do not scale up to produce negative landscape‐scale fragmentation effects.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Woodland",
+        "Fragmentation (computing)",
+        "Habitat fragmentation",
+        "Habitat",
+        "Forest fragmentation",
+        "Old-growth forest",
+        "Forest plot",
+        "Forest ecology"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70354",
@@ -123,6 +196,33 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70354",
       "abstract": "Abstract Drylands face interrelated threats from invasion, altered fire regimes and climate change. In the Great Basin of the western U.S., more frequent fires are increasing the cover of invasive annual grasses and amplifying the grass‐fire cycle, wherein annual grasses build up fine fuels that lead to more fires. At the same time, rainfall in this region is projected to become more variable from year to year. As these changes can interact, it remains unclear how the combined effects of fire, plant community change and precipitation variability will alter net primary production (NPP). Here we assessed how fire has shifted the response of NPP to precipitation amount in the northern Great Basin between 1986 and 2015. We then asked whether changes in NPP response to precipitation (hereafter referred to as the precipitation‐NPP relationship) were driven by changes in the plant community. Finally, we assessed how fire altered climatic and elevational controls on precipitation‐NPP relationships. We used a quasi‐experimental approach combining difference‐in‐difference and matching methods to analyse remotely sensed cover, production and burn occurrence datasets with interpolated precipitation values across the 30‐year time series. We found that precipitation‐NPP relationships changed following fire: burned areas tended to be more productive for a given unit of precipitation, and NPP was more sensitive to interannual variation in precipitation after a fire compared to before a fire. These shifts in precipitation‐NPP relationships were mediated by shifts in community composition, primarily through increases in herbaceous annual cover. Additionally, fire led to greater changes in these relationships at higher elevations. Synthesis . These results highlight how fire can magnify the effects of increasingly variable precipitation on ecosystem functioning and amplify fire hazard in dryland ecosystems.",
+      "keywords": [
+        "Shrubland",
+        "Precipitation",
+        "Primary production",
+        "Grassland",
+        "Vegetation (pathology)",
+        "Climate change",
+        "Ecosystem",
+        "Biomass (ecology)"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70950",
+      "doi_url": "https://doi.org/10.1111/gcb.70950",
+      "title": "These Boots Are Made for Walking: Sex‐Specific Physiological and Metabolomic Strategies Reflect Male‐Skewed Vulnerability to Ocean Warming in a Keystone Amphipod",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-05",
+      "published_date_display": "2026-06-05",
+      "published_parts": [
+        2026,
+        6,
+        5
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70950",
+      "abstract": "ABSTRACT Sex‐specific variation can critically shape species' physiological responses to environmental change, with potentially strong implications during reproduction. Yet this source of variation is often overlooked. To help address this paucity, we investigated fitness and whole‐organism traits and metabolomic profiles to elevated temperature in males and females of Gammarus locusta , a keystone intertidal amphipod inhabiting thermally dynamic coastal environments. Individuals were gradually acclimated to four ecologically relevant temperatures (16°C, 21°C, 26°C and 31°C) and maintained at these conditions for 21 d under controlled laboratory settings. Survival declined at 26°C and 31°C in both sexes, and females exhibited consistently higher upper thermal limits, broader thermal safety margins, but lower thermal acclimation capacity compared to males. Whilst reproductive output was lower in elevated temperatures (26°C and 31°C), juveniles' body length increased, indicating a “quality‐over‐quantity” reproduction strategy. At the metabolomic level, females exhibited greater plasticity, with enhanced pathways linked to energy metabolism, amino acid biosynthesis, and cellular stress defence, suggesting adaptive activation rather than heightened vulnerability, consistent with their higher thermal tolerance and survival. Elevated temperatures also impaired amphipods' energetic status, with both glucose and ATP:ADP ratio decreasing, particularly at 31°C. Overall, we show that sex‐specific metabolomic strategies define different sex thermal tolerance levels in G. locusta . As ocean warming intensifies, males' greater vulnerability could skew population sex ratios toward females. This imbalance may limit mating opportunities and alter population operational sex ratio and therefore dynamics, if the number of males is insufficient to fertilise all females. Our study highlights the importance of considering sex‐specific physiological responses by integrating them with life‐history and fitness measures to build a mechanistic understanding of how thermal stress may shape reproductive dynamics and, ultimately, affect population viability. By linking cellular metabolism with organismal fitness, we provide the cross‐scale insight needed to more accurately forecast marine invertebrates' responses to global change.",
       "keywords": []
     },
     {
@@ -141,7 +241,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70952",
       "abstract": "ABSTRACT Tropospheric ozone (O 3 ) is a phytotoxic air pollutant. The stomatal uptake of O 3 is a substantial sink of O 3 , but it can create oxidative stress within plants, reducing photosynthesis and crop yields. In seasonally dry climates, stomatal regulation causes temporal decoupling between stomatal conductance and atmospheric O 3 concentrations protecting vegetation from high stomatal uptake of O 3 during peak ambient concentrations in the afternoon, but less is known about this temporal decoupling over agricultural fields in continental humid climates. Here, we investigate how maize ( Zea mays L.) ecophysiology impacts O 3 dry deposition and diurnal O 3 exposure‐dose dynamics at an agricultural field in the central Corn Belt of the United States. We measured the field‐scale eddy covariance flux of O 3 using a UV‐absorption based instrument, the NASA Rapid Ozone Experiment (ROZE). The stomatal component of total O 3 flux was estimated with an inversion of the Penman–Monteith equation using observed latent heat flux and a model of stomatal conductance using gross primary productivity. We found that maize stomatal conductance remained high as vapor pressure deficit increased during the afternoon. The diurnal synchrony between O 3 concentrations and stomatal conductance resulted in high stomatal uptake of O 3 during peak O 3 concentrations. The monthly mean stomatal flux reached > 70% of the total O 3 flux to the land surface during high leaf area index. Furthermore, the total deposition velocity of O 3 was tightly coupled with stomatal conductance. Our findings suggest that maize ecophysiology in our field in the Corn Belt of the United States couples high O 3 stomatal uptake with high O 3 exposure. Furthermore, our study demonstrates the first use of NASA ROZE to measure growing season O 3 flux over an agricultural field, and NASA ROZE will be crucial for expanding O 3 flux measurements necessary for studying O 3 dry deposition and field‐scale phytotoxic dose across other fields.",
-      "keywords": []
+      "keywords": [
+        "Stomatal conductance",
+        "Eddy covariance",
+        "Transpiration",
+        "Vapour Pressure Deficit",
+        "Ecophysiology",
+        "Ozone",
+        "Photosynthesis",
+        "Agroecosystem"
+      ]
     },
     {
       "doi": "10.1111/gcb.70958",
@@ -159,7 +268,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70958",
       "abstract": "ABSTRACT Canada's terrestrial ecosystems are critical to the global carbon cycle and are responding to unprecedented climate change and wildfire disturbance. However, our understanding of Canada's historical (~1920—present) carbon cycle is incomplete. There are also no published physically coherent (i.e., those that respect conservation laws) wall‐to‐wall estimates of all major carbon pools and fluxes for Canada. Existing assessments vary in spatial scale and methodology, yielding notable differences in the magnitude of Canada's land carbon sink. Moreover, inversions and data‐driven estimates do not disentangle the relative influence of disturbance, CO 2 fertilization, or climate change on Canada's carbon cycle. Here, we synthesize information from the site to Canada‐wide scale with a land surface model and the most comprehensive wildfire and wood harvest estimates available to provide the first physically coherent wall‐to‐wall estimates of all major carbon pools and fluxes for Canada. Using factorial model runs, we show that Canada's terrestrial ecosystems have been a carbon sink since the mid‐20th‐century, due to wildfire and timber harvest before 1940. Since the early 2000s, wildfire disturbance has been driving Canadian forests towards becoming a carbon source. Continued increases in wildfire activity will further weaken, and may ultimately reverse, Canada's role as a carbon sink.",
-      "keywords": []
+      "keywords": [
+        "Carbon cycle",
+        "Carbon sink",
+        "Climate change",
+        "Carbon flux",
+        "Carbon fibers",
+        "Ecosystem",
+        "Greenhouse gas",
+        "Sink (geography)",
+        "Atmospheric carbon cycle",
+        "Terrestrial ecosystem"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70437",
@@ -15879,34 +15999,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70765",
-      "doi_url": "https://doi.org/10.1111/gcb.70765",
-      "title": "Livestock Integration Into Cropping Systems Enhances Their Climate Change Resistance and Mitigation While Reducing Their Environmental Impacts",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-25",
-      "published_date_display": "2026-02-25",
-      "published_parts": [
-        2026,
-        2,
-        25
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70765",
-      "abstract": "ABSTRACT The sustainability of cropping systems is linked to their circularity, which is their ability to close resource cycles such as carbon and nitrogen through strategies for managing crop residues, byproducts, and other inputs. Here, we investigate three crop rotations—business‐as‐usual (BAU), vegan, and integrated crop‐livestock systems (ICLS)—varying in livestock integration, crop residue fate, and human diet sustained. Under ten climate change scenarios, we compare their impacts on multiple ecosystem services during 24 years over 541,800 ha in Belgium using a validated crop model. All three circularity scenarios are found to be net greenhouse gas (GHG) emitters, with increasing intensity under climate change. The BAU system, favoring cash crops such as sugarbeet or potato, demonstrates the highest productivity, which, however, is highly variable across years and comes with greater environmental impacts such as GHG emissions (+45% and +23% compared to ICLS and Vegan in average—i.e., across all sites and climate scenarios). The Vegan system has lower carbon sequestration than the ICLS due to the lack of pasture and livestock, which, however, is partly offset by the regular incorporation of crop residues into the soil. Finally, ICLS, which include temporary pastures and sheep, demonstrate intermediate productivity levels compared to the other systems. However, they offer the greatest stability and resistance to extreme weather (+43% and +86% for stability compared to BAU and Vegan, in average), with better environmental performance. Therefore, our study reveals the benefits of crop‐livestock systems in terms of climate change adaptation, through stability and resistance to extreme climate events, and mitigation, through soil carbon sequestration and reduced greenhouse gas emissions and nitrate leaching. Moreover, our findings highlight the critical links between farm‐level circularity, soil‐crop feedbacks, human diet, and climate change.",
-      "keywords": [
-        "Climate change",
-        "Greenhouse gas",
-        "Cropping",
-        "Sustainability",
-        "Livestock",
-        "Crop residue",
-        "Cropping system",
-        "Carbon sequestration",
-        "Cash crop"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-026-02983-w",
       "doi_url": "https://doi.org/10.1038/s41559-026-02983-w",
       "title": "Palaeoanthropological evidence from China is changing the picture of hominin evolutionary history",
@@ -16061,35 +16153,6 @@
         "Latitude",
         "Wildebeest",
         "Plant ecology"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70753",
-      "doi_url": "https://doi.org/10.1111/gcb.70753",
-      "title": "Trade‐Offs Between Carbon and Water Fluxes Along a Land Use Intensity Gradient in Southeast Asian Forests and Plantations",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-24",
-      "published_date_display": "2026-02-24",
-      "published_parts": [
-        2026,
-        2,
-        24
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70753",
-      "abstract": "ABSTRACT Land use intensity (LUI) significantly influences the biophysical and biogeochemical properties of the global landscape. The impact of LUI is exceptionally strong in Southeast Asia (SEA), where forests are increasingly being replaced by intensively managed plantations. Despite these transformations, comprehensive studies on how different LUI regulate carbon, energy, and water fluxes in this region remain scarce. In this study, we examine data from 16 eddy covariance (EC) flux tower sites in SEA, representing a total of 112 years of measurements. We aim to assess trade‐offs in carbon fluxes, light use efficiency (LUE), and water use efficiency (WUE) across a gradient of LUI: low (primary forests), medium (secondary forests), and high (plantations). Our findings reveal that mature high LUI sites on mineral soil act as carbon sinks; however, their high evapotranspiration rates often exceed site‐specific precipitation, making them susceptible to water stress. For example, mean annual carbon uptake at high LUI sites (ranged from −1.19 to −0.74 kg C m −2 year −1 ) outperformed low LUI sites (−0.85 to −0.02 kg C m −2 year −1 ). The strong carbon uptake on high LUI had an exception when the ecosystem was in the establishment phase and managed on peat soil (0.98 kg C m −2 year −1 ). However, WUE was greater at low LUI (mean annual: 2.63 to 6.50 g C kg −1 H 2 O −1 ) compared to high LUI sites (2.08 to 3.53 g C kg −1 H 2 O −1 ), illustrating a trade‐off between carbon uptake and water use. Additionally, while high LUI sites required less radiation to achieve maximum gross primary productivity, their mean daily LUE was not higher compared to low LUI sites. These findings underscore the importance of carefully balancing carbon sequestration goals with water resource considerations and drought resilience when promoting plantation systems. Conversely, forest conservation offers advantages for water security and ecosystem resilience to face climate change.",
-      "keywords": [
-        "Evapotranspiration",
-        "Eddy covariance",
-        "Carbon cycle",
-        "Carbon flux",
-        "Biogeochemical cycle",
-        "Peat",
-        "Carbon fibers",
-        "Water-use efficiency",
-        "Land use",
-        "Water use"
       ]
     },
     {
@@ -18627,34 +18690,6 @@
         "Woody plant",
         "Niche",
         "Community"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70733",
-      "doi_url": "https://doi.org/10.1111/gcb.70733",
-      "title": "Canopy Microclimate and Leaf Traits Shape Interspecies Variation in Photosynthetic Temperature Responses of Evergreen Tropical Trees in the Congo Basin",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-06",
-      "published_date_display": "2026-02-06",
-      "published_parts": [
-        2026,
-        2,
-        6
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70733",
-      "abstract": "ABSTRACT Tropical forests contribute disproportionately to global carbon cycling, yet their resilience under climate warming remains uncertain, partly due to limited understanding of leaf‐level temperature responses of photosynthesis. In particular, the role of fine‐scale canopy microclimate in shaping photosynthetic temperature responses in tropical trees has been overlooked. We quantified vertical microclimate variation and measured leaf‐level photosynthetic temperature responses in 13 coexisting evergreen tree species spanning the full canopy profile in a lowland Congo Basin forest. Leaf gas exchange measurements were integrated with structural leaf traits and high‐resolution microclimate profiles to assess how temperature conditions and ecological strategies shape photosynthetic responses. Photosynthetic traits, including the light‐saturated photosynthetic rate at the temperature optimum and stomatal conductance at the temperature optimum, increased with canopy height, with pioneer species showing steeper increases than non‐pioneers. The temperature optimum of photosynthesis ( T opt ) was positively related to both mean and maximum leaf temperature ( T leaf ), driven mainly by interspecific differences rather than intraspecific plasticity. This suggests that T opt reflects species‐level adaptation to the temperature conditions of their canopy niche rather than leaf‐level adjustment to local microclimate. Stomatal conductance influenced T leaf via transpiration and thereby contributed to shaping T opt . Leaves experiencing larger temperature fluctuations showed reduced sensitivity, reflected in a broader photosynthetic temperature‐response width ( Ω ). Ω was also positively associated with structural traits such as leaf mass per area and leaf dry matter content, both within and among species, indicating that greater structural investment helps sustain higher photosynthetic rates across wider temperature ranges and enhances tolerance to temperature variability. By linking canopy microclimate, physiological traits, and structural characteristics, our findings demonstrate how vertical microclimatic gradients and functional diversity jointly determine photosynthetic temperature responses in tropical forest trees. Incorporating leaf‐level temperature regimes, stomatal regulation, and trait variation into vegetation models could improve predictions of tropical forest carbon dynamics under climate change.",
-      "keywords": [
-        "Microclimate",
-        "Canopy",
-        "Evergreen",
-        "Stomatal conductance",
-        "Photosynthesis",
-        "Transpiration",
-        "Interspecific competition",
-        "Specific leaf area",
-        "Leaf area index"
       ]
     },
     {
