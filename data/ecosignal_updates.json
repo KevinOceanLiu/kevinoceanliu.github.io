@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T23:42:29.025592+00:00",
+  "generated_at": "2026-06-07T23:43:29.084652+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70963",
       "abstract": "ABSTRACT Human activities have dramatically increased nitrogen (N) inputs to terrestrial ecosystems, with cascading effects on soil biodiversity and function. Soil nematodes, the most abundant animals on Earth, play critical roles in nutrient cycling and ecosystem health. Although numerous studies have examined N effects on soil nematodes, crucial knowledge gaps remain regarding how these varying responses depend on fundamental soil properties like organic carbon (C) content and soil acidity, particularly across soils with contrasting baseline properties under identical fertilization regimes. Through a long‐term field experiment with soils differing in organic C contents, here we show that baseline soil conditions strongly affect the effects of N enrichment on soil nematode communities. Specifically, N addition increased nematode abundance in C‐rich soils, while significantly reducing it in C‐poor soils through inducing soil acidification. Soil pH emerged as a critical filter regulating nematode responses to N enrichment, determining which trophic groups thrived or declined and thereby reshaping soil C cycling pathways. Results from a global meta‐analysis further reveal that nematode abundance exhibited a hump‐shaped relationship with soil pH, peaking at 5.9–6.0, while increasing monotonically with SOC. Together, our results demonstrate that local soil properties mediate N impacts on soil food webs more strongly than N input alone. By linking N inputs with nematode community shifts through measurable soil properties, our work provides a framework for predicting how global changes might alter belowground ecosystems. This knowledge is crucial for developing sustainable agricultural practices that maintain soil biodiversity while meeting crop production demands.",
-      "keywords": []
+      "keywords": [
+        "Soil carbon",
+        "Soil food web",
+        "Soil biodiversity",
+        "Soil water",
+        "Soil biology",
+        "Ecosystem",
+        "Soil functions",
+        "Soil organic matter",
+        "Abundance (ecology)",
+        "Soil ecology"
+      ]
     },
     {
       "doi": "10.1111/gcb.70959",
@@ -69,7 +80,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70959",
       "abstract": "ABSTRACT The Amazon Arc of Deforestation is facing a silent decline in ecological functionality. Using four decades of high‐resolution land cover data, we reveal a dramatic decline in functional connectivity across deforested areas in the Brazilian Amazon. Analyzing 40 targeted large‐scale forest landscapes across Pará, Mato Grosso, and Rondônia, we quantified connectivity for key ecological processes—seed dispersal, pollen dispersal, and gap‐crossing capacity of animals—using graph theory metrics. Between 1990 and 2020, the connectivity dropped by up to 50% in highly deforested regions, even when accounting for stepping‐stones. Simultaneously, spatial modularity increased in nearly all study regions, in some by more than 25%, reflecting a more compartmentalized landscape structure. Forest fragment distances rose, and mean patch area fell sharply, compromising dispersal and potentially gene flow. Our results suggest a potential breakdown of spatial connectivity within the targeted zones of the Amazonian forests, except in the Western Pará region, where higher connectivity and lower modularity still prevail. Without urgent connectivity‐enhancing strategies, even remaining forest patches may become functionally isolated, threatening the maintenance of biodiversity.",
-      "keywords": []
+      "keywords": [
+        "Deforestation (computer science)",
+        "Amazon rainforest",
+        "Landscape connectivity",
+        "Biological dispersal",
+        "Amazonian",
+        "Land cover",
+        "Fragmentation (computing)",
+        "Land use",
+        "Landscape ecology"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03101-6",
@@ -223,7 +244,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70950",
       "abstract": "ABSTRACT Sex‐specific variation can critically shape species' physiological responses to environmental change, with potentially strong implications during reproduction. Yet this source of variation is often overlooked. To help address this paucity, we investigated fitness and whole‐organism traits and metabolomic profiles to elevated temperature in males and females of Gammarus locusta , a keystone intertidal amphipod inhabiting thermally dynamic coastal environments. Individuals were gradually acclimated to four ecologically relevant temperatures (16°C, 21°C, 26°C and 31°C) and maintained at these conditions for 21 d under controlled laboratory settings. Survival declined at 26°C and 31°C in both sexes, and females exhibited consistently higher upper thermal limits, broader thermal safety margins, but lower thermal acclimation capacity compared to males. Whilst reproductive output was lower in elevated temperatures (26°C and 31°C), juveniles' body length increased, indicating a “quality‐over‐quantity” reproduction strategy. At the metabolomic level, females exhibited greater plasticity, with enhanced pathways linked to energy metabolism, amino acid biosynthesis, and cellular stress defence, suggesting adaptive activation rather than heightened vulnerability, consistent with their higher thermal tolerance and survival. Elevated temperatures also impaired amphipods' energetic status, with both glucose and ATP:ADP ratio decreasing, particularly at 31°C. Overall, we show that sex‐specific metabolomic strategies define different sex thermal tolerance levels in G. locusta . As ocean warming intensifies, males' greater vulnerability could skew population sex ratios toward females. This imbalance may limit mating opportunities and alter population operational sex ratio and therefore dynamics, if the number of males is insufficient to fertilise all females. Our study highlights the importance of considering sex‐specific physiological responses by integrating them with life‐history and fitness measures to build a mechanistic understanding of how thermal stress may shape reproductive dynamics and, ultimately, affect population viability. By linking cellular metabolism with organismal fitness, we provide the cross‐scale insight needed to more accurately forecast marine invertebrates' responses to global change.",
-      "keywords": []
+      "keywords": [
+        "Intertidal zone",
+        "Ectotherm",
+        "Metabolomics",
+        "Population",
+        "Effects of global warming on oceans",
+        "Acclimatization",
+        "Global warming",
+        "Climate change",
+        "Reproduction",
+        "Fecundity"
+      ]
     },
     {
       "doi": "10.1111/gcb.70952",
