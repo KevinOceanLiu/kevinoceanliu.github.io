@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T22:15:39.460825+00:00",
+  "generated_at": "2026-06-07T22:17:14.385221+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,23 +26,6 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/s0924-2716(26)00307-2",
-      "doi_url": "https://doi.org/10.1016/s0924-2716(26)00307-2",
-      "title": "Editorial Board",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003072",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.rse.2026.115523",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115523",
       "title": "Satellite-observed legacy effects of autumn phenology improve predictions of spring green-up date",
@@ -63,6 +46,23 @@
         "Normalized Difference Vegetation Index",
         "Climate change"
       ]
+    },
+    {
+      "doi": "10.1016/s0924-2716(26)00307-2",
+      "doi_url": "https://doi.org/10.1016/s0924-2716(26)00307-2",
+      "title": "Editorial Board",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-06",
+      "published_date_display": "2026-06-06",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003072",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1080/13658816.2026.2680024",
