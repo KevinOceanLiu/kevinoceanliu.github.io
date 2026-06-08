@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:46:09.952040+00:00",
+  "generated_at": "2026-06-08T23:03:40.757086+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,60 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41893-026-01851-6",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01851-6",
+      "title": "Sustainable battery recycling through spatial and technological alignment",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        6,
+        8
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01851-6",
+      "abstract": "Abstract End-of-life (EOL) battery recycling is crucial for sustainable energy transition, yet existing systems often suffer from spatial, technological and policy mismatches that limit environmental benefits. Here we present a multi-scale analytical framework that integrates machine learning, life-cycle assessment and spatial integrated scenario modelling to evaluate the environmental footprint and resource recovery potential of battery recycling systems. This framework enables high-resolution projections of battery retirement trends, assessment of recycling technologies and optimization of supply–demand strategies. Using China as a case study, we analysed EOL battery flows across 364 cities and over 300 recycling projects involving 24 battery chemistries. The results reveal that, during 2020–2030, total EOL battery volumes amount to 16.67–19.99 Mt, with a northeast–southwest–northwest hotspot migration pattern. Interprovincial coordination can increase treatment capacity utilization by 67.12% but cannot eliminate spatial mismatches between EOL battery supply and available treatment capacity. Our optimization scenarios show that supply–demand planning could reduce emissions by up to 44% and increase lithium recovery by 53%. This work provides a scalable tool for designing low-carbon, high-efficiency battery recycling systems, contributing to the circular economy and energy transitions.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02607-y",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02607-y",
+      "title": "Early signs that the EU carbon border adjustment mechanism is reshaping EU–India steel trade",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        6,
+        8
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02607-y",
+      "abstract": "Abstract The EU Carbon Border Adjustment Mechanism (CBAM) aims to level carbon-related costs between domestic and foreign producers to avoid carbon leakage. Although most existing CBAM studies focus on country-level or sector-level aggregates, the policy is applied to individual goods, where emissions performance and trade strategies vary widely across producers. Item-level compliance therefore depends on facility-level characteristics, making firm-level analysis critical to understanding actual exposure and early behavioural adjustments. Here early signals of the CBAM on India’s iron and steel exporters are investigated by integrating firm-level export data with independent estimates of manufacturers’ emissions and production. The analysis reveals that high-emission firms significantly reduced both export quantities and revenues to the EU during the CBAM reporting phase, whereas low-emission firms maintained their export levels. Such supply chain adjustments are in line with EU policy intentions, creating opportunities for low-emission producers while reducing reliance on high-emission suppliers to the EU.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02642-9",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02642-9",
+      "title": "A global early warning system for predicting exposure of biodiversity to extreme heat",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        6,
+        8
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02642-9",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41893-026-01852-5",
       "doi_url": "https://doi.org/10.1038/s41893-026-01852-5",
@@ -611,6 +665,23 @@
         "Arctic ice pack",
         "Ice stream"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101714",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101714",
+      "title": "Unlocking microbial potential to advance nutritious and sustainable food systems",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001156",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101716",
