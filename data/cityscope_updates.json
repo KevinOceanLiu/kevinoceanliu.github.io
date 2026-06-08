@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T23:19:42.406759+00:00",
+  "generated_at": "2026-06-08T23:36:55.788372+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,101 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.compenvurbsys.2026.102463",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102463",
+      "title": "Presolving for spatially large general backup covering location problem with applications to urban security monitoring",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000657",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107162",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107162",
+      "title": "When residents appropriate the street: Management and conflict over public space in Francoist open block fabric in Madrid (Spain)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600394X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00458-4",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00458-4",
+      "title": "Madrid and the art of cities",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        6,
+        8
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00458-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00469-1",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00469-1",
+      "title": "A clearer picture of who lives in the world’s cities",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        6,
+        8
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00469-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.landurbplan.2026.105714",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105714",
       "title": "Predicting future Human-Wildlife conflict Zones: A process-oriented framework integrating climate connectivity and species distribution modelling",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-06-07",
+      "published_date_display": "2026-06-07",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001386",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Climate change",
+        "Habitat",
+        "Distribution (mathematics)",
+        "Agriculture",
+        "Disturbance (geology)",
+        "Biodiversity hotspot",
+        "Species distribution",
+        "Landscape connectivity"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105712",
@@ -8081,32 +8161,6 @@
         "Transition (genetics)",
         "Energy (signal processing)",
         "Energy transition"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106951",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106951",
-      "title": "Linkages between changes in communal space and evolving social capital: The mediating role of neighboring interaction frequency",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-27",
-      "published_date_display": "2026-03-27",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126001836",
-      "abstract": "",
-      "keywords": [
-        "Social capital",
-        "Restructuring",
-        "Space (punctuation)",
-        "Social relation",
-        "Social space",
-        "Social transformation",
-        "Social change",
-        "Social mobility"
       ]
     },
     {
