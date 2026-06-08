@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:17:14.385221+00:00",
+  "generated_at": "2026-06-08T22:49:09.008479+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,58 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115525",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115525",
+      "title": "Fine-grained hierarchical crop type classification from integrated hyperspectral EnMAP data and multispectral sentinel-2 time series: A large-scale dataset and dual-stream transformer method",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002956",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115512",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115512",
+      "title": "Estimating forest leaf area index using discrete point clouds from UAV-LiDAR systems with different canopy penetration capacities",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002828",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2671994",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2671994",
+      "title": "Movement Research in the Era of Big Data, AI, and Open Science",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        6,
+        8
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2671994",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.rse.2026.115523",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115523",
@@ -11769,30 +11821,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115249",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115249",
-      "title": "Global analysis of nitrogen dioxide and formaldehyde column densities from the Pandora global network: Variability and implications for satellite validation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-21",
-      "published_date_display": "2026-01-21",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000192",
-      "abstract": "",
-      "keywords": [
-        "Satellite",
-        "Formaldehyde",
-        "Nitrogen dioxide",
-        "Column (typography)",
-        "Carbon dioxide",
-        "Nitrogen"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2613291",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2613291",
       "title": "Georeferencing complex relative locality descriptions with large language models",
@@ -12642,33 +12670,6 @@
         "Bayesian probability",
         "Sample size determination",
         "Robustness (evolution)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115216",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115216",
-      "title": "A novel SIF framework for decoupling hierarchical water stress impacts on winter wheat photosynthesis",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-24",
-      "published_date_display": "2025-12-24",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006200",
-      "abstract": "",
-      "keywords": [
-        "Evapotranspiration",
-        "Transpiration",
-        "Climate change",
-        "Groundwater",
-        "Anomaly (physics)",
-        "Water cycle",
-        "Hydrology (agriculture)",
-        "Photosynthesis",
-        "Soil water"
       ]
     },
     {
