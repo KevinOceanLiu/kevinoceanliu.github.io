@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T22:49:09.008479+00:00",
+  "generated_at": "2026-06-09T22:48:42.626758+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115525",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115525",
-      "title": "Fine-grained hierarchical crop type classification from integrated hyperspectral EnMAP data and multispectral sentinel-2 time series: A large-scale dataset and dual-stream transformer method",
+      "doi": "10.1016/j.rse.2026.115510",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115510",
+      "title": "Thermodynamically constrained surface energy balance using medium-resolution remote sensing for efficient evapotranspiration mapping",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,90 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002956",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002804",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115524",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115524",
+      "title": "Immediate remote sensing: Dynamic context-adaptive fusion for himawari-8/9 10-minute wildfire detection",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002944",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.052",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.052",
+      "title": "Combining the time-series of vegetation index during the optimal window with dynamic canopy physiological features for soybean grain protein prediction",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002996",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115530",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115530",
+      "title": "Multispectral nighttime light remote sensing: Data, applications, and challenges",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003007",
+      "abstract": "",
+      "keywords": [
+        "Multispectral image",
+        "Reflectivity",
+        "Multispectral pattern recognition",
+        "Satellite",
+        "Radiometry"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.041",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.041",
+      "title": "TMF: Temporal multi-modal fusion framework for estimating wheat yield from multi-source satellite and environmental data across the European Union",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002881",
+      "abstract": "",
+      "keywords": [
+        "European union",
+        "Satellite",
+        "Yield (engineering)",
+        "Sensor fusion",
+        "Fusion",
+        "Satellite imagery"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115512",
@@ -49,15 +130,22 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002828",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Leaf area index",
+        "Canopy",
+        "Tree canopy",
+        "Penetration (warfare)",
+        "Index (typography)",
+        "Vegetation Index"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2671994",
@@ -74,8 +162,17 @@
         8
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2671994",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The increasing availability of movement data and rapid advancements in artificial intelligence have opened new frontiers in movement pattern analysis with implications for a wide range of domains such as urban planning, transportation management, public health, pandemic management, disaster response, and wildlife conservation. The sensitive nature and heterogeneity of novel movement data, however, create technical and methodological challenges around data governance and open movement analytics. This article explores these challenges and identifies key opportunities for the geography discipline to drive analytical advances in human mobility research and open science. In this vision, the geographic perspective is emphasized in future developments of artificial intelligence for movement research for its ability to enrich mobility analyses with spatial and temporal context. Strategies for effective governance of large-scale mobility data are discussed, with special attention to fostering open science and reproducible research practices to ensure transparency and transferability in this rapidly evolving field.",
+      "keywords": [
+        "Transparency (behavior)",
+        "Movement (music)",
+        "Transferability",
+        "Big data",
+        "Open data",
+        "Corporate governance",
+        "Open science",
+        "Perspective (graphical)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115523",
@@ -10997,31 +11094,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.008",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.008",
-      "title": "MMP-Mapper: Multi-modal priors enhancing vectorized HD road map construction from aerial imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-07",
-      "published_date_display": "2026-02-07",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000584",
-      "abstract": "",
-      "keywords": [
-        "Prior probability",
-        "Aerial imagery",
-        "Aerial image",
-        "Aerial photography",
-        "Road map",
-        "Aerial survey",
-        "Topographic map (neuroanatomy)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.005",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.005",
       "title": "L2M-Reg: Building-level uncertainty-aware registration of outdoor LiDAR point clouds and semantic 3D city models",
@@ -11274,31 +11346,6 @@
         "Similarity (geometry)",
         "Pattern recognition (psychology)",
         "Feature (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.039",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.039",
-      "title": "A novel transformer-based CO2 retrieval framework incorporating prior constraint and hierarchical features injection: assessment of transferability for Tansat-2",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-02",
-      "published_date_display": "2026-02-02",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600047X",
-      "abstract": "",
-      "keywords": [
-        "Extrapolation",
-        "Generalization",
-        "Mean squared error",
-        "Constraint (computer-aided design)",
-        "Transferability",
-        "Satellite",
-        "Mean absolute percentage error"
       ]
     },
     {
@@ -11943,33 +11990,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115243",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115243",
-      "title": "A snow properties-aware deep learning framework for penetration bias estimation of TanDEM-X DEMs over ice sheets",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-17",
-      "published_date_display": "2026-01-17",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000131",
-      "abstract": "The accurate assessment of glacier volume and mass changes as well as snow depth is crucial for understanding glaciological processes and the impact of climate change. TanDEM-X, an X-band spaceborne interferometric synthetic aperture radar (InSAR) mission, offers global, high-resolution digital elevation models (DEMs) that are invaluable for these studies. However, the inherent variability in radar wave penetration into snow and ice creates challenges in accurately estimating surface elevation changes and snow depth. Variations in the acquisition geometry and snow properties can affect the estimation of the radar mean phase center, leading to penetration bias and an underestimation of the surface topographic height. In this work, we propose a novel deep learning framework for estimating the penetration bias of TanDEM-X DEMs over ice sheets, by combining the knowledge of the physical properties of snow and the InSAR system for the development of a robust regression framework. Due to the lack of extended reference data, which jeopardizes the use of fully-supervised data-driven approaches, we propose a deep learning approach based on two intrinsically connected tasks: a first unsupervised snow facies segmentation model designed to capture the overall properties of the snowpack independently of the single-pass InSAR acquisition geometries; and a subsequent downstream penetration bias regression model. To ensure that the robustness against the InSAR geometries of the first model is preserved, we propose two approaches: first, we employ a fine-tuning approach to transfer the weights of the segmentation model for a downstream regression task, leveraging the knowledge acquired by the pretext segmentation task for the regression of the penetration bias of TanDEM-X DEMs; and second, a multitask learning approach for the downstream task by jointly training both the segmentation and regression models, ensuring that the snow-related feature representations identified during the segmentation task are consistently leveraged to improve the final regression performance. We demonstrate that utilizing the first model as a pretext task improves convergence and overall performance, whereas the multitask approach enables better generalization. Experimental results over the Greenland Ice Sheet during boreal winter, using IceBridge laser altimeter measurements as reference data, demonstrate that our method estimates the penetration bias with a coefficient of determination R 2 = 90% and RMSE of 0.65 m, independently of the InSAR acquisition geometry and snow properties. The work performed here is crucial for enhancing the accuracy of TanDEM-X DEMs over snow and ice-covered regions, thereby improving our understanding of glaciological processes and their climatic responses.",
-      "keywords": [
-        "Snow",
-        "Synthetic aperture radar",
-        "Interferometric synthetic aperture radar",
-        "Snowpack",
-        "Digital elevation model",
-        "Segmentation",
-        "Radar",
-        "Regression",
-        "Deep learning"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2601312",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2601312",
       "title": "Valorizing the Beach, Devaluing the People: Racial Capitalism and Coastal Development in Asbury Park, New Jersey",
@@ -12290,32 +12310,6 @@
         "Perception",
         "Data collection",
         "Feature (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115233",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115233",
-      "title": "Probabilistic mapping of high-intensity forest fire potential via time series machine learning and remote sensing-informed fire spread simulations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000039",
-      "abstract": "",
-      "keywords": [
-        "Random forest",
-        "Probabilistic logic",
-        "Bayesian network",
-        "Limiting",
-        "Bayesian probability",
-        "Fire protection",
-        "Fire control",
-        "Bayesian inference"
       ]
     },
     {
@@ -12857,32 +12851,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115170",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115170",
-      "title": "Constrained negentropy optimisation (CoNE-opt): Using independent components to merge satellite data products",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-05",
-      "published_date_display": "2025-12-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005747",
-      "abstract": "",
-      "keywords": [
-        "Negentropy",
-        "Merge (version control)",
-        "Mean squared error",
-        "Calibration",
-        "Principal component analysis",
-        "Product (mathematics)",
-        "Error function",
-        "Function (biology)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115156",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115156",
       "title": "Leveraging additional VIIRS information to improve wildfire tracking in the western US",
@@ -12903,6 +12871,31 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115525",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115525",
+      "title": "Fine-grained hierarchical crop type classification from integrated hyperspectral EnMAP data and multispectral sentinel-2 time series: A large-scale dataset and dual-stream transformer method",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2025-06-06",
+      "published_date_display": "2025-06-06",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002956",
+      "abstract": "Fine-grained crop type classification serves as the fundamental basis for large-scale crop mapping and plays a vital role in ensuring food security. It requires simultaneous capture of both phenological dynamics (obtained from multi-temporal satellite data like Sentinel-2) and subtle spectral variations (demanding nanometer-scale spectral resolution from hyperspectral imagery). Research combining these two modalities remains scarce currently due to challenges in hyperspectral data acquisition and crop types annotation costs. To address these issues, we construct a hierarchical hyperspectral crop dataset (H2Crop) by integrating 30m-resolution EnMAP hyperspectral data with Sentinel-2 time series. With over one million annotated field parcels organized in a four-tier crop taxonomy, H2Crop establishes a vital benchmark for fine-grained agricultural crop classification and hyperspectral image processing. We propose a dual-stream Transformer architecture that synergistically processes these modalities. It coordinates two specialized pathways: a spectral-spatial Transformer extracts fine-grained signatures from hyperspectral EnMAP data, while a temporal Swin Transformer extracts crop growth patterns from Sentinel-2 time series. The designed hierarchical classification head with hierarchical fusion then simultaneously delivers multi-level crop type classification across all taxonomic tiers. Experiments demonstrate that adding hyperspectral EnMAP data to Sentinel-2 time series yields a 4.2% average F1-scores improvement (peaking at 6.3%). Extensive comparisons also confirm our method's higher accuracy over existing deep learning approaches for crop type classification and the consistent benefits of hyperspectral data across varying temporal windows and crop change scenarios. Codes and dataset are available at https://github.com/flyakon/H2Crop.",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Multispectral image",
+        "Pattern recognition (psychology)",
+        "Precision agriculture",
+        "Sensor fusion",
+        "Contextual image classification",
+        "Data type"
       ]
     },
     {
