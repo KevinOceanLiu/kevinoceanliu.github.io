@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:50:24.052036+00:00",
+  "generated_at": "2026-06-09T23:58:46.648281+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03094-2",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03094-2",
+      "title": "The influence of reproductive mode on resource competition and diversity patterns in Ediacaran early animal communities",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        6,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03094-2",
+      "abstract": "Abstract The appearance of the oldest known animals during the late Ediacaran period (~574 million years ago) was followed by a phase of slow diversification, until a later burst of rapid diversification known as the Ediacaran ‘second wave’. The reasons behind the tempo of diversification are poorly understood. Here we investigate how reproductive mode mediated community dynamics and in turn Ediacaran macroevolutionary change. We show that widespread reproduction via stolon (namely via filaments connecting clones) limited within-species competition, leading to between-species competition acting at smaller spatial scales than within-species competition, a phenomenon called heteromyopia. Heteromyopia enables co-existence of suboptimal competitors because the dispersal limitation of the dominant species limits the occupation of the optimal habitat, so that lesser competitors can still exist within the same community, operating under reduced selection pressure. We explored the consequences of this dispersal limitation on community diversity using a mechanistic model showing that the change from stoloniferous to sexual reproduction that coincided with the second wave could explain the sudden increase in diversity observed in the fossil record. We conclude that widespread asexual reproduction via stolon probably constrained early animal evolution, limiting diversification until the onset of widespread sexual reproduction.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70961",
+      "doi_url": "https://doi.org/10.1111/gcb.70961",
+      "title": "Microbial Controls of Primed CO <sub>2</sub> and CH <sub>4</sub> Release From Soils and Sediments Under Warming",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        6,
+        9
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70961",
+      "abstract": "ABSTRACT Global warming is altering carbon (C) cycling in terrestrial and inland aquatic ecosystems. Yet it remains unclear how experimental warming and elevation (natural temperature gradient) jointly regulate priming effects (PEs) on organic matter decomposition in soils and sediments and thereby influence CO 2 and CH 4 emissions. We investigated temperature‐dependent priming induced by 13 C‐labelled glucose additions across a soil–sediment continuum in the Rongbuk River Basin on the Tibetan Plateau (3759–4550 m a.s.l.). Soil and sediment samples were incubated under two temperatures (7°C and 17°C) to quantify PE for CO 2 and CH 4 (i.e., PE‐CO 2 and PE‐CH₄). Labile C inputs induced consistently positive PE‐CO 2 in soils, with generally stronger responses in sediments. PE‐CO 2 ranged from 0.42 to 11 mg CO 2 g −1 SOC in soils and from 0.41 to 15 mg CO 2 g −1 SOC in sediments, whereas PE‐CH 4 ranged from −2.2 to 5.2 μg CH 4 g −1 SOC in soils and from 0.14 to 7.9 μg CH 4 g −1 SOC in sediments. Warming increased PE‐CO 2 but suppressed PE‐CH 4 . Higher‐elevation sites showed lower primed CO 2 efflux but larger primed CH 4 efflux than lower‐elevation sites. This indicates that warming effects on priming depend on the balance between oxidative and reductive C processing. High‐throughput amplicon sequencing targeting the 16S and ITS2 rDNA regions indicated specific effects on priming: bacterial community composition was closely correlated with rapid, substrate‐driven CO 2 priming, whereas fungal communities were indirectly linked to primed CH 4 through their depolymerization of organic matter. Together, CO 2 and CH 4 released by priming of organic matter decomposition arise from distinct but coupled microbial pathways across soils and sediments, whereas sensitivity to temperature decreased along elevation. These findings highlight the need to explicitly account for oxidative and reductive priming related processes when predicting C turnover and greenhouse‐gas feedbacks in high‐elevation terrestrial–aquatic interface systems under climate change.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2664.70439",
       "doi_url": "https://doi.org/10.1111/1365-2664.70439",
       "title": "Rewilding beyond the wilderness: Beavers can restore stream biodiversity from urban to agricultural to natural landscapes",
@@ -69,7 +105,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70957",
       "abstract": "ABSTRACT Mountain lakes are highly sensitive to climatic change, yet the extent to which alpine aquatic communities respond to recent warming remains uncertain. We used a palaeolimnological approach based on analysing the remains of non‐biting midge (chironomid) larvae preserved in surface sediments from 24 Swiss mountain lakes to assess species‐environment relationships of chironomids and compare our results to previous, detailed survey data from similar campaigns in 1993/2002. This allowed us to determine changes in chironomid assemblages relative to lake physicochemistry and increasing temperatures over the past decades. We show that high‐elevation oligo‐ to mesotrophic lakes generally experienced a shift towards warmer chironomid assemblages, expansion of taxa with larger thermal range, and a simultaneous reduction in cold‐stenothermic taxa, consistent with rising air and water temperatures. However, 9 out of 24 lakes, mainly in the lower‐elevational range, exhibited stable assemblages or, in some cases, shifts towards colder chironomid communities. This is likely related to local catchment and lake conditions such as shading, changing human activities such as pasturing or hydrological inputs from snow and ice, indicating highly individual, lake‐specific responses. Environmental parameters accounting for the highest variability in the modern distribution of chironomid assemblages include variables representing lakewater organic matter content and elevation, as well as oxygen, total nitrogen, and total phosphorus concentrations, demonstrating the sensitivity of chironomid assemblages to temperature and associated limnological variables. Overall, our findings highlight that both large‐scale climatic drivers and local environmental heterogeneity shape chironomid assemblages in alpine environments, and that the majority of Swiss mountain lakes are showing responses in aquatic insect communities due to increasing temperatures. We conclude that shifts in chironomid populations are expected to further increase in amplitude under continued warming in the Alps, as rising temperatures increasingly affect alpine ecosystems and progressively cross critical thermal thresholds and tipping points.",
-      "keywords": []
+      "keywords": [
+        "Chironomidae",
+        "Climate change",
+        "Lake ecosystem",
+        "Midge",
+        "Snow",
+        "Aquatic ecosystem",
+        "Paleolimnology",
+        "Hydrobiology",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1111/gcb.70941",
@@ -87,7 +133,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70941",
       "abstract": "ABSTRACT The multi‐faceted threats of habitat degradation and biological invasions are increasing concerns for the integrity of freshwater ecosystems and their associated services globally. Removal of anthropogenic riverine barriers has gained momentum over the last three decades, motivated by the maintenance requirements of the aging infrastructure, while also functioning as a primary means of restoring river connectivity to promote ecosystem recovery and native biodiversity. Although barrier removals are intended to benefit native species dispersal, these actions can simultaneously facilitate non‐native species spread and increase biological invasion risk, creating a conservation paradox. Using a systematic review and meta‐analysis, we synthesised the patterns and trends in responses between native and non‐native populations to riverine barrier removals globally. Since 1998, research interest in the effects of barrier removals has rapidly accumulated, but with a major geographic imbalance towards North America (80% of studies). Fishes were the most studied taxon (74%), followed by riparian and aquatic plants (24%) and invertebrates (15%). The removal of dams dominated (85%), compared to road culverts (7%) and weirs (2%). Results from 2840 reported effect sizes showed that both native and non‐native population sizes generally increased after barrier removal, but the positive effect was strongest for native species. Moreover, these population responses were highly context‐dependent, with taxonomic grouping, sampling directionality and time since removal affecting outcomes. Non‐native population growth outstripped that of native species in the first few years post‐removal and non‐native invertebrates responded the most favourably to barrier removal. While native species typically benefit from barrier removals overall, our analyses highlight context‐specific responses that can simultaneously benefit non‐native populations and erode long‐term conservation outcomes. As river restoration efforts continue to gain traction globally, further planning and research are required to anticipate and assess long term population recoveries, to reconcile conservation quagmires around interacting global environmental changes.",
-      "keywords": []
+      "keywords": [
+        "Riparian zone",
+        "Introduced species",
+        "Invertebrate",
+        "Habitat",
+        "Population",
+        "Invasive species",
+        "Ecosystem",
+        "Culvert"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70442",
@@ -17603,34 +17658,6 @@
         "Range (aeronautics)",
         "Empirical modelling",
         "Bayesian probability"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70745",
-      "doi_url": "https://doi.org/10.1111/gcb.70745",
-      "title": "Phenological Shifts in Wood Formation Tracked by Frost Rings Across Two Centuries",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-13",
-      "published_date_display": "2026-02-13",
-      "published_parts": [
-        2026,
-        2,
-        13
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70745",
-      "abstract": "ABSTRACT Accelerated warming, particularly in mountain regions, is altering plant phenology across ecosystems. However, the extent of these changes varies among species and regions. While phenophases in plant compartments such as leaves or flowers are relatively easy to observe, monitoring xylem phenology remains challenging due to the labour‐intensive methods required to capture intra‐annual growth dynamics. Here, we adopted an indirect retrospective approach to infer cambial phenology by analysing the timing and occurrence of frost damage in the growth rings of three Alpine conifer species. Increment cores were collected from 4481 individuals (1897 Larix decidua Mill., 980 Picea abies L. Karst., and 1604 Pinus cembra L.) at two high‐elevation sites in the Eastern Alps. Frost rings were identified, dated, and compared with long‐term (1774–2020) daily temperature records to determine their timing, using the 1.7°C threshold for cambial activity onset and subsequent episodes when minimum temperatures dropped below 0°C. We found that the cold spells responsible for frost ring formation remained consistent, typically involving temperatures dropping below freezing for an average of 4–5 consecutive days. However, the timing of frost ring formation, and thus cambial onset, has shifted over the past 200 years with no significant differences across taxa. This shift corresponds to about 7 days earlier per century or per °C of warming and is notably smaller than phenological shifts reported for other plant compartments in the same region. Given the critical role of cambial activity in forest carbon dynamics, these findings can help refine global vegetation models and improve predictions of ecosystem responses to climate change.",
-      "keywords": [
-        "Phenology",
-        "Frost (temperature)",
-        "Picea abies",
-        "Xylem",
-        "Climate change",
-        "Taiga",
-        "Dendrochronology",
-        "Ecosystem",
-        "Vegetation (pathology)"
       ]
     },
     {
