@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:03:40.757086+00:00",
+  "generated_at": "2026-06-09T23:04:51.738631+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02017-x",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02017-x",
+      "title": "Sea-level fall might increase ridge volcanism, iron fertilization and ocean carbon storage",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        6,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02017-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-01982-7",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01982-7",
+      "title": "Ocean iron fertilization from enhanced mid-ocean-ridge volcanism due to ice-age sea-level falls",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        6,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01982-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02001-5",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02001-5",
+      "title": "Experimental indications of superionic behaviour in iron hydride under Earth’s core conditions",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        6,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02001-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02683-0",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02683-0",
+      "title": "Current state of affairs",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        6,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02683-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01851-6",
       "doi_url": "https://doi.org/10.1038/s41893-026-01851-6",
       "title": "Sustainable battery recycling through spatial and technological alignment",
@@ -41,7 +113,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01851-6",
       "abstract": "Abstract End-of-life (EOL) battery recycling is crucial for sustainable energy transition, yet existing systems often suffer from spatial, technological and policy mismatches that limit environmental benefits. Here we present a multi-scale analytical framework that integrates machine learning, life-cycle assessment and spatial integrated scenario modelling to evaluate the environmental footprint and resource recovery potential of battery recycling systems. This framework enables high-resolution projections of battery retirement trends, assessment of recycling technologies and optimization of supply–demand strategies. Using China as a case study, we analysed EOL battery flows across 364 cities and over 300 recycling projects involving 24 battery chemistries. The results reveal that, during 2020–2030, total EOL battery volumes amount to 16.67–19.99 Mt, with a northeast–southwest–northwest hotspot migration pattern. Interprovincial coordination can increase treatment capacity utilization by 67.12% but cannot eliminate spatial mismatches between EOL battery supply and available treatment capacity. Our optimization scenarios show that supply–demand planning could reduce emissions by up to 44% and increase lithium recovery by 53%. This work provides a scalable tool for designing low-carbon, high-efficiency battery recycling systems, contributing to the circular economy and energy transitions.",
-      "keywords": []
+      "keywords": [
+        "Battery (electricity)",
+        "Scalability",
+        "Work (physics)",
+        "Sustainable energy",
+        "Ecological footprint",
+        "Resource (disambiguation)",
+        "Energy supply",
+        "Lithium battery",
+        "Sustainable development"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02607-y",
@@ -59,7 +141,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02607-y",
       "abstract": "Abstract The EU Carbon Border Adjustment Mechanism (CBAM) aims to level carbon-related costs between domestic and foreign producers to avoid carbon leakage. Although most existing CBAM studies focus on country-level or sector-level aggregates, the policy is applied to individual goods, where emissions performance and trade strategies vary widely across producers. Item-level compliance therefore depends on facility-level characteristics, making firm-level analysis critical to understanding actual exposure and early behavioural adjustments. Here early signals of the CBAM on India’s iron and steel exporters are investigated by integrating firm-level export data with independent estimates of manufacturers’ emissions and production. The analysis reveals that high-emission firms significantly reduced both export quantities and revenues to the EU during the CBAM reporting phase, whereas low-emission firms maintained their export levels. Such supply chain adjustments are in line with EU policy intentions, creating opportunities for low-emission producers while reducing reliance on high-emission suppliers to the EU.",
-      "keywords": []
+      "keywords": [
+        "Revenue",
+        "Carbon leakage",
+        "Greenhouse gas",
+        "Carbon fibers",
+        "Supply chain",
+        "Mechanism (biology)",
+        "Emissions trading"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02642-9",
@@ -77,7 +167,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02642-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Warning system",
+        "Biodiversity",
+        "Early warning system",
+        "Climate change",
+        "Extreme weather",
+        "Extreme heat",
+        "Heat wave"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01852-5",
@@ -674,14 +772,22 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001156",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Food systems",
+        "Sustainable agriculture",
+        "Food processing",
+        "Food security",
+        "Microbiome",
+        "Sustainability",
+        "Production (economics)"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101716",
@@ -705,6 +811,23 @@
         "Global warming",
         "Ectotherm"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101718",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101718",
+      "title": "Identifying drivers of antibiotic resistance: Mathematical model of One Health interventions spotlights transmission and environmental pathways",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001193",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1038/s41893-026-01840-9",
