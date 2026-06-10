@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T23:43:12.112413+00:00",
+  "generated_at": "2026-06-10T23:50:27.409364+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,76 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/s0198-9715(26)00073-6",
+      "doi_url": "https://doi.org/10.1016/s0198-9715(26)00073-6",
+      "title": "Editorial Board",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000736",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00457-5",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00457-5",
+      "title": "Roads less traveled converge at Bloomberg CityLab 2026",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00457-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00452-w",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00452-w",
+      "title": "Digging into the costs of urban soil rehabilitation",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00452-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.cities.2026.107267",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107267",
       "title": "Kashgar's revitalization: From ancient Silk Road crossroads to modern Belt and Road hub",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004993",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "SILK"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00458-4",
@@ -7626,7 +7681,7 @@
       "published_date_display": "2026-04-01",
       "published_parts": [
         2026,
-        4
+        9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600044X",
       "abstract": "",
