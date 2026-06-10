@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T22:48:42.626758+00:00",
+  "generated_at": "2026-06-10T22:56:16.954112+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115510",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115510",
-      "title": "Thermodynamically constrained surface energy balance using medium-resolution remote sensing for efficient evapotranspiration mapping",
+      "doi": "10.1016/j.rse.2026.115532",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115532",
+      "title": "UAS ecophysiology: Imaging spectroscopy can map canopy leaf water potential in a diverse forest ecosystem",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,14 +38,14 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002804",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003020",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.rse.2026.115524",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115524",
-      "title": "Immediate remote sensing: Dynamic context-adaptive fusion for himawari-8/9 10-minute wildfire detection",
+      "doi": "10.1016/j.rse.2026.115528",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115528",
+      "title": "SNSTFM: A novel data fusion approach based on spatial non-stationarity to generate fine-resolution land surface temperature",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -55,14 +55,14 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002944",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002981",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.05.052",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.052",
-      "title": "Combining the time-series of vegetation index during the optimal window with dynamic canopy physiological features for soybean grain protein prediction",
+      "doi": "10.1016/j.isprsjprs.2026.05.040",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.040",
+      "title": "CAH-VAE: Channel-aware hierarchical VAE for hyperspectral image compression",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -72,9 +72,50 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002996",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600287X",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.049",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.049",
+      "title": "Agricultural parcel polygon reconstruction using boundary line segment assembly",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002960",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115510",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115510",
+      "title": "Thermodynamically constrained surface energy balance using medium-resolution remote sensing for efficient evapotranspiration mapping",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002804",
+      "abstract": "",
+      "keywords": [
+        "Evapotranspiration",
+        "Energy balance",
+        "Water balance",
+        "Surface (topology)",
+        "Energy (signal processing)",
+        "Reflectivity"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115530",
@@ -100,6 +141,28 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115524",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115524",
+      "title": "Immediate remote sensing: Dynamic context-adaptive fusion for himawari-8/9 10-minute wildfire detection",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002944",
+      "abstract": "",
+      "keywords": [
+        "Fusion",
+        "Sensor fusion",
+        "Image fusion",
+        "Satellite"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.05.041",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.041",
       "title": "TMF: Temporal multi-modal fusion framework for estimating wheat yield from multi-source satellite and environmental data across the European Union",
@@ -121,6 +184,55 @@
         "Sensor fusion",
         "Fusion",
         "Satellite imagery"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.052",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.052",
+      "title": "Combining the time-series of vegetation index during the optimal window with dynamic canopy physiological features for soybean grain protein prediction",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002996",
+      "abstract": "",
+      "keywords": [
+        "Canopy",
+        "Leaf area index",
+        "Normalized Difference Vegetation Index",
+        "Index (typography)",
+        "Window (computing)",
+        "Vegetation (pathology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115525",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115525",
+      "title": "Fine-grained hierarchical crop type classification from integrated hyperspectral EnMAP data and multispectral sentinel-2 time series: A large-scale dataset and dual-stream transformer method",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002956",
+      "abstract": "Fine-grained crop type classification serves as the fundamental basis for large-scale crop mapping and plays a vital role in ensuring food security. It requires the simultaneous capture of both phenological dynamics (obtained from multi-temporal satellite data like Sentinel-2) and subtle spectral variations (demanding nanometer-scale spectral resolution from hyperspectral imagery). Research combining these two modalities remains scarce currently due to challenges in hyperspectral data acquisition and crop type annotation costs. To address these issues, we construct a hierarchical hyperspectral crop dataset (H 2 Crop) by integrating 30 m-resolution EnMAP hyperspectral data with Sentinel-2 time series. With over one million annotated field parcels organized in a four-tier crop taxonomy, H 2 Crop establishes a vital benchmark for fine-grained agricultural crop classification and hyperspectral image processing. We propose a dual-stream Transformer architecture that synergistically processes these modalities. It coordinates two specialized pathways: a spectral-spatial Transformer extracts fine-grained signatures from hyperspectral EnMAP data, while a temporal Swin Transformer extracts crop growth patterns from Sentinel-2 time series. The designed hierarchical classification head with hierarchical fusion then simultaneously delivers multi-level crop type classification across all taxonomic tiers. Experiments demonstrate that adding hyperspectral EnMAP data to Sentinel-2 time series yields a 4.2% average F1-score improvement (peaking at 6.3%). Extensive comparisons also confirm our method’s higher accuracy over existing deep learning approaches for crop type classification and the consistent benefits of hyperspectral data across varying temporal windows and crop change scenarios.",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Multispectral image",
+        "Pattern recognition (psychology)",
+        "Precision agriculture",
+        "Sensor fusion",
+        "Contextual image classification",
+        "Data type"
       ]
     },
     {
@@ -11400,30 +11512,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115274",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115274",
-      "title": "Transferring soil moisture estimation skills to evapotranspiration and streamflow modeling through remote sensing data assimilation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-31",
-      "published_date_display": "2026-01-31",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000441",
-      "abstract": "",
-      "keywords": [
-        "Streamflow",
-        "Evapotranspiration",
-        "Data assimilation",
-        "Ensemble Kalman filter",
-        "Surface runoff",
-        "Calibration"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115245",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115245",
       "title": "Microvibration detection and compensation for SDGSAT-1 based on line-by-line bundle adjustment",
@@ -11645,33 +11733,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.034",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.034",
-      "title": "RegScorer: Learning to select the best transformation of point cloud registration",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-27",
-      "published_date_display": "2026-01-27",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000420",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Robustness (evolution)",
-        "Transformation (genetics)",
-        "Image registration",
-        "Point set registration",
-        "Precision and recall",
-        "Consistency (knowledge bases)",
-        "Focus (optics)",
-        "Rigid transformation"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2617938",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2617938",
       "title": "Predicting risks of hemorrhagic fever with renal syndrome using a Bayesian spatiotemporal hierarchical model",
@@ -11838,33 +11899,6 @@
         "Water content",
         "Artificial neural network",
         "Pixel"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.017",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.017",
-      "title": "Knowledge distillation with spatial semantic enhancement for remote sensing object detection",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-22",
-      "published_date_display": "2026-01-22",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000171",
-      "abstract": "",
-      "keywords": [
-        "Focus (optics)",
-        "Feature (linguistics)",
-        "Object (grammar)",
-        "Object detection",
-        "Matching (statistics)",
-        "Benchmark (surveying)",
-        "Spatial contextual awareness",
-        "Pattern recognition (psychology)",
-        "Spatial relation"
       ]
     },
     {
@@ -12693,34 +12727,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115190",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115190",
-      "title": "A novel land surface temperature retrieval method using channel correlation for atmospheric parameter modeling from SDGSAT-1 data",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-18",
-      "published_date_display": "2025-12-18",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005942",
-      "abstract": "",
-      "keywords": [
-        "Mean squared error",
-        "Radiative transfer",
-        "Infrared window",
-        "Atmospheric correction",
-        "Atmospheric radiative transfer codes",
-        "Land cover",
-        "Robustness (evolution)",
-        "Root mean square",
-        "Channel (broadcasting)",
-        "Thermal"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115195",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115195",
       "title": "Highest quality remote sensing reflectance database compiled from 20+ years of MODIS-aqua measurements",
@@ -12871,31 +12877,6 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115525",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115525",
-      "title": "Fine-grained hierarchical crop type classification from integrated hyperspectral EnMAP data and multispectral sentinel-2 time series: A large-scale dataset and dual-stream transformer method",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-06-06",
-      "published_date_display": "2025-06-06",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002956",
-      "abstract": "Fine-grained crop type classification serves as the fundamental basis for large-scale crop mapping and plays a vital role in ensuring food security. It requires simultaneous capture of both phenological dynamics (obtained from multi-temporal satellite data like Sentinel-2) and subtle spectral variations (demanding nanometer-scale spectral resolution from hyperspectral imagery). Research combining these two modalities remains scarce currently due to challenges in hyperspectral data acquisition and crop types annotation costs. To address these issues, we construct a hierarchical hyperspectral crop dataset (H2Crop) by integrating 30m-resolution EnMAP hyperspectral data with Sentinel-2 time series. With over one million annotated field parcels organized in a four-tier crop taxonomy, H2Crop establishes a vital benchmark for fine-grained agricultural crop classification and hyperspectral image processing. We propose a dual-stream Transformer architecture that synergistically processes these modalities. It coordinates two specialized pathways: a spectral-spatial Transformer extracts fine-grained signatures from hyperspectral EnMAP data, while a temporal Swin Transformer extracts crop growth patterns from Sentinel-2 time series. The designed hierarchical classification head with hierarchical fusion then simultaneously delivers multi-level crop type classification across all taxonomic tiers. Experiments demonstrate that adding hyperspectral EnMAP data to Sentinel-2 time series yields a 4.2% average F1-scores improvement (peaking at 6.3%). Extensive comparisons also confirm our method's higher accuracy over existing deep learning approaches for crop type classification and the consistent benefits of hyperspectral data across varying temporal windows and crop change scenarios. Codes and dataset are available at https://github.com/flyakon/H2Crop.",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Multispectral image",
-        "Pattern recognition (psychology)",
-        "Precision agriculture",
-        "Sensor fusion",
-        "Contextual image classification",
-        "Data type"
       ]
     },
     {
