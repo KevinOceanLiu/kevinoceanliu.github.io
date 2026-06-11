@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:50:27.409364+00:00",
+  "generated_at": "2026-06-11T23:53:37.624230+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,20 +31,106 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/s0198-9715(26)00073-6",
-      "doi_url": "https://doi.org/10.1016/s0198-9715(26)00073-6",
+      "doi": "10.1016/j.landurbplan.2026.105717",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105717",
+      "title": "Research Note: Revealing the triple burden of spatial health inequities in urban communities: A built environment health vulnerability (BEHV) framework analysis of resource availability, risk exposure, and structural sensitivity",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001416",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0169-2046(26)00146-5",
+      "doi_url": "https://doi.org/10.1016/s0169-2046(26)00146-5",
       "title": "Editorial Board",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001465",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102480",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102480",
+      "title": "A computational framework for measuring dynamic vehicular exposure and equity in the 15-min city",
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000827",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107203",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107203",
+      "title": "Capturing urban activities and environment across time scales: Object detection and time-series analysis of 6.8 million images in Accra, Ghana",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600435X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0264-2751(26)00512-3",
+      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00512-3",
+      "title": "Editorial Board",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
       "published_date": "2026-09-01",
       "published_date_display": "2026-09",
       "published_parts": [
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000736",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005123",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261456062",
+      "doi_url": "https://doi.org/10.1177/00420980261456062",
+      "title": "Rethinking policy learning in urban policy mobility",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        6,
+        11
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261456062",
+      "abstract": "Since the ‘mobility turn’, urban researchers have advanced our understanding of the contentious and relational nature of cross-border policy learning. Extant research has revealed how policy ideas move through transnational networks, social interactions, and informal dialog, forming assemblages of policy learning. Despite this rich literature that centers policy learning on policy circulation, we know relatively little about how learning unfolds throughout the full trajectory of their localization as a policy process. We fill this gap by taking the policy cycle model as an analytical framework. We investigate the whole range of policy activities that shape and transform policy learning into concrete policy components through a series of interconnected, iterative stages of the policy cycle within urban policy mobility. Using the introduction of participatory budgeting in Vienna as an empirical case, we show how multiple types of learned lessons, drawn from diverse actors and sources of knowledge, become enmeshed, streamlined, and articulated into the formulation and implementation of an international best practice as a local policy. We conclude by highlighting some analytical advantages of this policy-oriented approach for researching urban policy mobility and suggest directions for future research.",
       "keywords": []
     },
     {
@@ -63,7 +149,10 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00457-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Work (physics)",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00452-w",
@@ -80,6 +169,33 @@
         10
       ],
       "link": "https://www.nature.com/articles/s44284-026-00452-w",
+      "abstract": "",
+      "keywords": [
+        "Digging",
+        "Rehabilitation",
+        "Urbanization",
+        "Soil functions",
+        "Flood myth",
+        "Ecosystem services",
+        "Surface runoff",
+        "Urban ecosystem",
+        "Sustainable development"
+      ]
+    },
+    {
+      "doi": "10.1016/s0198-9715(26)00073-6",
+      "doi_url": "https://doi.org/10.1016/s0198-9715(26)00073-6",
+      "title": "Editorial Board",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000736",
       "abstract": "",
       "keywords": []
     },
@@ -1824,7 +1940,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600377X",
-      "abstract": "Flipping the gentrification coin, we illuminate revitalization from below to explore how residents in a mid-sized Swedish city's working-class neighbourhoods visualize its potential outcomes. We aim to address residents' perceptions of the extent to which a proposed housing development would trigger gentrification pressure and, in this light, whether they are willing to endorse this development or not, and why. To achieve this, we need to know (1) the proportion of residents that are either positive or negative to the proposal of gentrification, and (2) how they explain their stance. The analysis draws on survey data gathered from three working-class neighbourhoods in the city of Västerås, Sweden. We find that class-conscious young residents share a negative attitude to gentrification because they are, inter alia, aware of an abundance of vacant, expensive apartments elsewhere in the city. We also find that this is particularly the case among the traditional working-class. Since these concerns often fall on deaf ears, the promises intrinsic to revitalization are sometimes empty. Subsequently, old criticisms resurface concerning how democratic Swedish housing policy is. We suggest, therefore, that municipal housing companies ought to become more sensitive to the fears and hopes of the city's working-class inhabitants.",
+      "abstract": "Flipping the gentrification coin, we illuminate revitalization from below to explore how residents in a mid-sized Swedish city's working-class neighbourhoods visualize its potential outcomes. We aim to address residents' perceptions of the extent to which a proposed housing development would trigger gentrification pressure and, in this light, whether they are willing to endorse this development or not, and why. To achieve this, we need to know (1) the proportion of residents that are either positive or negative to the proposal of gentrification, and (2) how they explain their stance. The analysis draws on survey data gathered from three working-class neighbourhoods in the city of Västerås, Sweden. We find that class-conscious young residents share a negative attitude to gentrification because they are, inter alia, aware of an abundance of vacant, expensive apartments elsewhere in the city. We also find that this is particularly the case among the traditional working-class. Since these concerns often fall on deaf ears, the promises intrinsic to revitalization are sometimes empty. Subsequently, old criticisms resurface concerning how democratic Swedish housing policy is. We suggest, therefore, that municipal housing companies ought to become more sensitive to the fears and hopes of the city's working-class inhabitants. © 2026 The Authors.",
       "keywords": [
         "Qualitative research",
         "Government (linguistics)",
@@ -7740,30 +7856,6 @@
         "Urban resilience",
         "Water sector",
         "Psychological resilience"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106987",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106987",
-      "title": "Bridging consumption divide: Digital inclusive finance and migrant consumption inequality in urban China",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002192",
-      "abstract": "",
-      "keywords": [
-        "Bridging (networking)",
-        "Consumption (sociology)",
-        "Inequality",
-        "China",
-        "Economic inequality",
-        "Access to finance"
       ]
     },
     {
@@ -15446,41 +15538,6 @@
         "Medicine",
         "Psychiatry",
         "Economics"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107048",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107048",
-      "title": "Striking the perfect balance: Integrating greenery and social infrastructure in downtown public spaces",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002805",
-      "abstract": "",
-      "keywords": [
-        "Downtown",
-        "Recreation",
-        "Impervious surface",
-        "Geography",
-        "Scale (ratio)",
-        "Microclimate",
-        "Environmental planning",
-        "Compact city",
-        "Urban planning",
-        "Environmental resource management",
-        "Regional science",
-        "Business",
-        "Civil engineering",
-        "Ecology",
-        "Environmental science",
-        "Cartography",
-        "Engineering"
       ]
     },
     {
