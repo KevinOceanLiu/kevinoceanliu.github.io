@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T22:56:16.954112+00:00",
+  "generated_at": "2026-06-11T22:58:07.585264+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115532",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115532",
-      "title": "UAS ecophysiology: Imaging spectroscopy can map canopy leaf water potential in a diverse forest ecosystem",
+      "doi": "10.1016/j.rse.2026.115529",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115529",
+      "title": "The Scaling Law in remote sensing mapping for model performance forecasting and reference sample optimization",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,172 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003020",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002993",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115505",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115505",
+      "title": "CAMS radiation service v4.6 for solar energy: Evaluation of Himawari based surface solar irradiance products",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002750",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.005",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.005",
+      "title": "Uncertainty-aware semi-supervised framework with supervised contrastive learning for sugarcane leaf disease detection",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003114",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.004",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.004",
+      "title": "Rectify-Match-Reconstruct (RMR): Framework for dense and accurate metric 3D reconstruction via neural homography alignment",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003102",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.053",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.053",
+      "title": "Multi-temporal calving front segmentation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600300X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.044",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.044",
+      "title": "GLoC: Global–local graph fusion and clique search for LiDAR place recognition",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002911",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2673231",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2673231",
+      "title": "The Military Violence of White Phosphorus: Geopower, Weathering, Inhabitability",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        6,
+        11
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2673231",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2672752",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2672752",
+      "title": "Bridging Critical Geographic Scholarship and Educational Infrastructure: Revisable StoryMaps and Public Circulation of Geographic Storytelling",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        6,
+        11
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2672752",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2673223",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2673223",
+      "title": "A Lifeline or Sinking Ship in Ocean Conservation? A Deep Dive into Value Creation of “Blue Bonds”",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        6,
+        11
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2673223",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115532",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115532",
+      "title": "UAS ecophysiology: Imaging spectroscopy can map canopy leaf water potential in a diverse forest ecosystem",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003020",
+      "abstract": "",
+      "keywords": [
+        "Canopy",
+        "Imaging spectroscopy",
+        "Forest ecology",
+        "Ecosystem",
+        "Tree canopy",
+        "Hyperspectral imaging"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115528",
@@ -49,13 +212,56 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002981",
+      "abstract": "",
+      "keywords": [
+        "Fusion",
+        "Sensor fusion",
+        "Surface (topology)",
+        "Image fusion",
+        "Image resolution",
+        "Synthetic aperture radar"
+      ]
+    },
+    {
+      "doi": "10.1080/13658816.2026.2682957",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2682957",
+      "title": "Spatial outliers as a pattern determinant for explaining heterogeneity",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2682957",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2682959",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2682959",
+      "title": "Pano2Cloud: enhancing street-view based point cloud by a dual-layer deep matching for 3D building façade reconstruction",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2682959",
       "abstract": "",
       "keywords": []
     },
@@ -66,15 +272,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600287X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hyperspectral imaging",
+        "Autoencoder",
+        "Pattern recognition (psychology)",
+        "Feature learning",
+        "Feature (linguistics)",
+        "Spatial analysis",
+        "Encoding (memory)",
+        "Full spectral imaging",
+        "Decoding methods"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.049",
@@ -83,15 +299,23 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002960",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Polygon (computer graphics)",
+        "Boundary (topology)",
+        "Line (geometry)",
+        "Line segment",
+        "Boundary line",
+        "Mathematical morphology",
+        "Rectilinear polygon"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115510",
@@ -107,7 +331,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002804",
-      "abstract": "",
+      "abstract": "Medium-resolution (10-100 m) satellite evapotranspiration (ET) products are rapidly advancing agricultural water resources research and management, but underperformance across non-agricultural land cover continues to limit broader hydrologic and ecosystem applications. These inconsistencies are often linked to model structure and representation of ET dynamics across space and time. In extensive natural ecosystems such as forests and shrublands, ET is primarily governed by equilibrium radiative energy exchange, whereas in croplands it is often enhanced by advective energy inputs. While some models represent these processes, recent intercomparison studies highlight persistent performance gaps across land covers. We hypothesize that model structure governing land–atmospheric coupling, rather than sensor limitations alone, remains a primary constraint on medium-resolution ET performance. Here, we introduce a diffusivity-independent equilibrium formulation that removes the need for explicit aerodynamic conductance parameterization and conditionally incorporates aerodynamic enhancement when advection is expected. Landsat thermal and optical observations are integrated with gridded meteorological data within the presented Radiation Advection Diffusivity-independent ET (RADET) modeling framework to predict ET. Performance is evaluated using 145 in situ flux stations across the contiguous United States and intercomparisons with OpenET and MODIS products. Results indicate that RADET achieves comparable performance to leading models in croplands while providing consistent improvements across natural ecosystems, including ∼35% lower mean absolute error and sustained positive Nash-Sutcliffe efficiency where ensemble models often showed reduced skill. Application of satellite-based equilibrium formulations with conditional transport enhancement enables computationally efficient generation of medium-resolution ET with robust cross-land cover performance, advancing research and operational applications emphasized in recent medium-resolution remote sensing initiatives.",
       "keywords": [
         "Evapotranspiration",
         "Energy balance",
@@ -9494,23 +9718,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115294",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115294",
-      "title": "Testing the accuracy and transferability of remotely sensed biomass models across heterogeneous grasslands",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-01",
-      "published_date_display": "2026-03",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000647",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.rse.2026.115344",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115344",
       "title": "Iceberg detection from global open ocean sentinel-1 wave mode SAR data with YOLO deep learning",
@@ -10875,29 +11082,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.012",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.012",
-      "title": "Minimizing sun glint impacts on Sentinel-2 Sargassum mapping",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-12",
-      "published_date_display": "2026-02-12",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000638",
-      "abstract": "",
-      "keywords": [
-        "Sargassum",
-        "Pixel",
-        "Multispectral image",
-        "Mean squared error",
-        "Subtropics"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2617563",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2617563",
       "title": "Referencing, Internalizing, or Activating Knowledge: A Comparative Analysis of Strategies for Enhancing LLM Performance in Cartography",
@@ -11076,33 +11260,6 @@
         "Urban planning",
         "Latin Americans",
         "Work (physics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.009",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.009",
-      "title": "EAV-DETR: Efficient Arbitrary-View oriented object detection with probabilistic guarantees for UAV imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-10",
-      "published_date_display": "2026-02-10",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000602",
-      "abstract": "",
-      "keywords": [
-        "Object detection",
-        "Inference",
-        "Probabilistic logic",
-        "Feature (linguistics)",
-        "Code (set theory)",
-        "Feature extraction",
-        "Object (grammar)",
-        "Lidar",
-        "Detector"
       ]
     },
     {
@@ -11485,33 +11642,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.040",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.040",
-      "title": "Comparative assessment of AI-based and classical DSAS approaches in multi-temporal shoreline prediction: A case study of Ras El-Bar coast, Egypt",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-01",
-      "published_date_display": "2026-02-01",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000481",
-      "abstract": "Along Ras El-Bar coast, NE Nile Delta of Egypt, intense human interventions and natural processes give rise to highly distinctive non-linear shoreline dynamics that challenge the stationarity assumptions of traditional forecasting. Classical methods, specifically the Digital Shoreline Analysis System Linear Regression Rate (DSAS-LRR), often fail to capture abrupt anthropogenic regime shifts induced by engineering structures. This study presents a comparative assessment of DSAS-LRR against two artificial intelligence (AI) recurrent neural networks, Long Short-Term Memory (LSTM) and Nonlinear Autoregressive Exogenous (NARX), using a multi-decadal satellite-derived shoreline record (1982–2024) to project shoreline evolution through 2050. Results show DSAS-LRR unrealistic projections, exceeding 250 m of displacement by 2050, due to its inability to account for rapid anthropogenic interventions. Conversely, AI models successfully captured complex temporal responses. While LSTM provided conservative estimates, the intervention-aware NARX model achieved the highest predictive accuracy and spatial consistency. Model performance was rigorously evaluated via Taylor diagrams, Performance Index Metric (PIm), and transect-based RMSE analysis, and was further validated by an independent 2025 “blind test”. NARX consistently outperformed both models, accurately reproducing accretion in breakwater shadow zones and moderate erosion between structures, with average RMSE values of 6–14 m. These findings underscore that for anthropogenically modified coasts, intervention-aware AI is no longer just an alternative, it is an essential tool for reliable prediction. The proposed framework provides a transferable roadmap for evidence-based coastal management and infrastructure planning in vulnerable deltaic systems worldwide.",
-      "keywords": [
-        "Shore",
-        "Nonlinear autoregressive exogenous model",
-        "Autoregressive model",
-        "Feature (linguistics)",
-        "Shadow (psychology)",
-        "Hydropower",
-        "Storm",
-        "Metric (unit)",
-        "Artificial neural network"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115245",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115245",
       "title": "Microvibration detection and compensation for SDGSAT-1 based on line-by-line bundle adjustment",
@@ -11821,32 +11951,6 @@
         "Radiative transfer",
         "Land cover",
         "Corner reflector"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.030",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.030",
-      "title": "A weakly supervised approach for large-scale agricultural parcel extraction from VHR imagery via foundation models and adaptive noise correction",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-23",
-      "published_date_display": "2026-01-23",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000304",
-      "abstract": "",
-      "keywords": [
-        "Segmentation",
-        "Scalability",
-        "Inference",
-        "Noise (video)",
-        "Conditional random field",
-        "Supervised learning",
-        "Deep learning",
-        "Face (sociological concept)"
       ]
     },
     {
@@ -12490,33 +12594,6 @@
         "Reading (process)",
         "Public space",
         "Social space"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115228",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115228",
-      "title": "Hyperspectral BRDF based on UAV measurements can characterize optical properties of flat desert surfaces: A comprehensive comparison with laboratory and satellite data",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-05",
-      "published_date_display": "2026-01-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006327",
-      "abstract": "Desert is a crucial component of terrestrial ecosystems, and its optical reflection properties are essential for understanding land surface radiative balance. Combining the hyperspectral and angular measurements has been considered as an effective method to characterize optical reflection properties of desert surfaces. However, the ground and satellite-based instruments cannot obtain both hyperspectral and angular reflectance of desert surfaces at appropriate scales due to the limitations of their measurement configurations. We employed an unmanned aerial vehicle (UAV) equipped with a spectrometer to perform hyperspectral BRDF measurements of six desert areas in Northwest China to overcome the limitations. In the comparison with those obtained from laboratory and satellite observations at the same geometries, it is found that UAV-measured hyperspectral reflectance has a spectral shape similar to that of spectra measured in laboratory settings, and UAV-measured angular reflectance shows a good match of BRDF characterization as the satellite observations in the hemispherical space. Moreover, we compared the modeled angular reflectance, which are derived from BRDF models, with measured angular reflectance of deserts at selected wavelengths from MODIS. The BRDF models using UAV-measured hyperspectral BRDF have superior performance in spectral BRDF simulation. The uncertainty analysis based on a Bayesian inversion further confirmed the reliability of the UAV data in effectively characterizing optical properties of the desert surface. These results demonstrate the robustness of UAV-based spectral and angular measurements in quantifying the hyperspectral BRDF, which provide comprehensive in-situ optical properties of desert surfaces. These data can serve as valuable validation for future studies on radiative balance of desert surfaces. • UAV equipped with a spectrometer can capture hyperspectral BRDF of desert surfaces. • Consistency with lab and satellite data confirms the validity of UAV observations. • Low uncertainty in BRDF model inversion indicates the stability of UAV measurements.",
-      "keywords": [
-        "Bidirectional reflectance distribution function",
-        "Hyperspectral imaging",
-        "Spectroradiometer",
-        "Radiative transfer",
-        "Satellite",
-        "Reflectivity",
-        "Spectrometer",
-        "Spectral signature",
-        "Inversion (geology)"
       ]
     },
     {
