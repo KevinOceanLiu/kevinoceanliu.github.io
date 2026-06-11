@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T23:58:46.648281+00:00",
+  "generated_at": "2026-06-11T00:03:40.718659+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,96 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03108-z",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03108-z",
+      "title": "A pitch in time",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03108-z",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70359",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70359",
+      "title": "Spatial pattern reveals process in a species‐rich seasonal tropical forest: Insights from a multi‐type point process model",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70359",
+      "abstract": "Abstract The spatial arrangement of individuals of multiple species of sessile organisms is thought to be driven by a variety of entangled biotic and abiotic mechanisms. In particular, segregation along environmental gradients causes long‐distance clustering within species and separation between species. Dispersal limitations result in intermediate‐scale clustering, solely within species. Physical packing, resource competition and natural enemies as agents of negative density dependence cause regularity at finer scales, with the latter only within species. Functional groups representing structure and dynamics have distinct associations, with gap and understorey species more clustered than canopy. We hypothesise the combined effect of these mechanisms on a forest spatial pattern. We test our hypotheses using the saturated pairwise interaction Gibbs point process model, fitted to individually mapped stems in a 50‐hectare plot located in species‐rich, seasonal evergreen forest in the Huai Kha Khaeng Wildlife Sanctuary in western Thailand. This approach allows for modelling species' distance‐dependent, signed pairwise interactions in addition to environmental responses. We found that many of the interactions were species‐agnostic, yet functional group‐dependent. In general, and for canopy trees particularly, interactions over short distances were negative, within and between species, while those over longer distances were positive. Understorey trees were overwhelmingly clustered, especially at fine scales, and showed positive short‐distance associations with other species. Gap species were distinct in displaying positive intraspecific interactions and generally negative interspecific interactions, irrespective of distance. Synthesis . The pairwise interaction Gibbs process provides a way to quantify the relative importance of the underlying ecological drivers via a static snapshot of plants' spatial pattern. Our approach may enhance our understanding of mixed‐species forests around the world and may also be applied in other mapped plots with over about 100 plants.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70955",
+      "doi_url": "https://doi.org/10.1111/gcb.70955",
+      "title": "Global Drivers of Phytoplankton Phenology Trends",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70955",
+      "abstract": "ABSTRACT Phytoplankton are key contributors to global primary production and serve as sensitive indicators of changes in marine ecosystems. Changes in phytoplankton phenology, and in particular the onset, termination, and duration of their growing period, have important implications for higher trophic levels that feed on them. Several local studies have provided evidence linking phenological shifts to climate change. However, global analyses have so far relied on time‐series observations of surface chlorophyll covering less than two decades, making it difficult to separate trends from variability and establish the coherence of underlying drivers at the global level. Here we use the OC‐CCIv5 satellite‐derived observations harmonised across satellite sensors and the NEMO‐PlankTOM12 global ocean biogeochemical model to revisit recent trends in phytoplankton phenology and identify their global drivers during the 1998–2020 period. Using statistical analysis to separate and control for covariance among underlying drivers, we show that SST warming trends are clearly associated with earlier initiation, later termination, and longer duration of the phytoplankton growing season. In contrast, changes in MLD, SST variability, and chlorophyll are associated with shifts in initiation and termination in the same direction, such that both boundaries move in parallel, partly cancelling their effect on duration. The PlankTOM12 model successfully reproduces most of the observed patterns in phenology and their association with the underlying drivers, providing evidence of the mechanistic relationships, and helping to ascertain the global significance of the drivers. Our findings suggest that trends towards earlier initiation, later termination, and longer duration of phytoplankton growing periods are likely associated with climate change, and may therefore persist in the near future under continued global warming.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70422",
+      "doi_url": "https://doi.org/10.1111/ele.70422",
+      "title": "Within‐Night Variation in Predictor Importance Highlights Dynamic Nature of Bird Migration",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70422",
+      "abstract": "ABSTRACT Ecological forecasting is increasingly important for conservation. Predicting nocturnal bird migration events is a promising vehicle for forecasts but isn't often explored at fine temporal scales. We use weather surveillance radar to examine dynamic drivers of migration in 2‐h periods throughout a night. We assess the relative importance of terrestrial, atmospheric and sampling predictors (which relate to radar position and scan timing) across spring and fall. Atmospheric conditions were consistently strong predictors. In contrast, terrestrial predictors contributed relatively little to explaining variation in activity. Sampling variables, such as time after sunset, varied in importance, with the highest influence shortly after sunset. We highlight the temporal variability in predictors of migration, emphasising it as a dynamic process, involving continuous decisions and adjustments rather than following fixed routes. We underscore the value of radar for capturing transitions between habitats while revealing key limitations and opportunities for understanding fine‐scale migratory behaviour.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70395",
+      "doi_url": "https://doi.org/10.1111/ele.70395",
+      "title": "General Predictions for the Effects of Warming on Competition",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        6,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70395",
+      "abstract": "ABSTRACT Understanding the effects of climate change on ecological communities has been limited by a lack of general theory for how temperature affects competition. To fill this knowledge gap, we integrated Modern Coexistence Theory and the Metabolic Theory of Ecology by incorporating empirically derived temperature sensitivities into Modern Coexistence Theory's central model. We then simulated warming in consumer‐resource systems and found that warming reduced both niche and fitness differences, making species more ecologically similar and competitive interactions more neutral. The greatest shifts in competition occurred when temperature sensitivities among species were highly asymmetrical. Effects of warming on competition via niche differences were comparable to those on fitness differences, suggesting that the emphasis on vital rates in global change research may overlook key biodiversity drivers. This general theory expands the domains of two prominent ecological theories and provides predictions for how warming may alter competition even in benign regions of species' thermal niches.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03094-2",
       "doi_url": "https://doi.org/10.1038/s41559-026-03094-2",
       "title": "The influence of reproductive mode on resource competition and diversity patterns in Ediacaran early animal communities",
@@ -51,7 +141,76 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03094-2",
       "abstract": "Abstract The appearance of the oldest known animals during the late Ediacaran period (~574 million years ago) was followed by a phase of slow diversification, until a later burst of rapid diversification known as the Ediacaran ‘second wave’. The reasons behind the tempo of diversification are poorly understood. Here we investigate how reproductive mode mediated community dynamics and in turn Ediacaran macroevolutionary change. We show that widespread reproduction via stolon (namely via filaments connecting clones) limited within-species competition, leading to between-species competition acting at smaller spatial scales than within-species competition, a phenomenon called heteromyopia. Heteromyopia enables co-existence of suboptimal competitors because the dispersal limitation of the dominant species limits the occupation of the optimal habitat, so that lesser competitors can still exist within the same community, operating under reduced selection pressure. We explored the consequences of this dispersal limitation on community diversity using a mechanistic model showing that the change from stoloniferous to sexual reproduction that coincided with the second wave could explain the sudden increase in diversity observed in the fossil record. We conclude that widespread asexual reproduction via stolon probably constrained early animal evolution, limiting diversification until the onset of widespread sexual reproduction.",
-      "keywords": []
+      "keywords": [
+        "Diversity (politics)",
+        "Competition (biology)",
+        "Resource (disambiguation)",
+        "Mode (computer interface)",
+        "Ecology",
+        "Geography",
+        "Biology",
+        "Environmental resource management",
+        "Environmental science",
+        "Political science",
+        "Computer science"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70364",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70364",
+      "title": "Climate‐induced shifts in plant investment strategies regulate ecosystem carbon cycling across alpine grasslands",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        6,
+        9
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70364",
+      "abstract": "Abstract Climate change can impact ecosystem carbon cycling directly by altering kinetic rates of biological processes and indirectly through climate‐induced changes in the functional composition of the plant community. Species dominance and complementarity are posed as important mechanisms underlying community regulation of ecosystem processes. Assessing processes regulating ecosystem carbon exchange along climatic gradients can provide crucial knowledge for understanding how carbon cycling can be affected by climate change. Our study was conducted in twelve semi‐natural grasslands spanning broad temperature and precipitation gradients. At each site, we conducted extensive measurements of net ecosystem exchange (NEE), gross primary production (GPP) and ecosystem respiration (R eco ). We measured plant functional traits related to plant size and the leaf economics spectrum at each site and computed community‐weighted mean trait values (CWM) to characterize the effect of dominant traits and various diversity measures (richness, diversity, evenness and functional dispersion; FDis) to assess effects of complementarity on ecosystem carbon exchange. Plant communities in warmer, drier sites characterized by tall species and high leaf N% had higher GPP and R eco compared to communities with shorter growing species with smaller leaves, high LDMC and lower N content in colder, wetter sites. This shows that a shift in plant investment strategy along climatic gradients drives ecosystem carbon exchange. Furthermore, more functionally diverse communities had lower further GPP and R eco further highlighting the importance of dominant traits for ecosystem carbon exchange. Species richness had moderate positive effects on ecosystem carbon exchange giving limited evidence for complementarity, but it may point to the importance of subordinate species for ecosystem stability. Direct effects of climate played a larger role in regulating R eco than GPP, where temperature enhanced R eco more than GPP, and high amounts of precipitation promoted GPP while it tended to lower R eco . Synthesis . Our study shows that shifts in plant functional composition along climatic gradients strongly mediate ecosystem carbon exchange. The greater importance of climate on R eco compared to GPP has important consequences for net ecosystem exchange and potential climate feedbacks, as plant community assemblage processes will lag behind changes in temperature and precipitation with climate change.",
+      "keywords": [
+        "Ecosystem",
+        "Primary production",
+        "Ecosystem respiration",
+        "Species richness",
+        "Carbon cycle",
+        "Dominance (genetics)",
+        "Plant community",
+        "Plant functional type",
+        "Climate change",
+        "Biomass (ecology)"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70413",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70413",
+      "title": "A Bayesian approach to include Indigenous Knowledge and satellite telemetry data in habitat selection functions",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-09",
+      "published_date_display": "2026-06-09",
+      "published_parts": [
+        2026,
+        6,
+        9
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70413",
+      "abstract": "Abstract Indigenous Knowledge (IK) of species‐habitat relationships provides in‐depth understanding of species presence. While this is the case, IK and ‘Western’ scientific data are rarely combined in the same modelling approaches and species management remains mostly within colonial frameworks with limited capacity to include different data sources, such as IK, in management decisions. In partnership with Iñupiat hunters, we developed a method to include IK in Bayesian habitat selection functions as priors and show how habitat variables mapped by IK holders can be included as covariates, with satellite telemetry data. We applied our methods in a case study for ringed seals ( natchiq in Iñupiaq; Pusa hispida ) in habitat selection function models that also include dynamic habitat types (e.g. ice concentration). We show, through our case study, that IK and Western scientific data can reflect similar ecological processes and how IK can provide extended insight into broad habitat use that are not captured by Western methods alone. We demonstrate that when spatial IK is included as new categorical variables it allows for the inclusion of environmental covariates that may not be available from other data sources at an appropriate scale and can account for complex habitat types that would not be possible to model otherwise. Through our case study, we show the importance of the inclusion of IK to provide fully informed models predicting spatial variation of ringed seal relative probability of use that can be used to inform critical habitat designations. Synthesis and applications . Our work points to the importance of both Western science and IK data sources in models used for conservation and management decisions. We show how the models that include the IK result in more informed predictions and the value of IK when predicting important areas for species that may be relied upon for conservation and management decisions. Our results highlight the impact that the inclusion of IK can have in modelling outputs, with IK providing needed insights into the potential limitations of Western scientific data, leading to a more informed understanding of species‐habitat use.",
+      "keywords": [
+        "Categorical variable",
+        "Habitat",
+        "Prior probability",
+        "Bayesian probability",
+        "Selection (genetic algorithm)",
+        "Scale (ratio)",
+        "Matching (statistics)",
+        "Bayesian inference",
+        "Covariate"
+      ]
     },
     {
       "doi": "10.1111/gcb.70961",
@@ -69,7 +228,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70961",
       "abstract": "ABSTRACT Global warming is altering carbon (C) cycling in terrestrial and inland aquatic ecosystems. Yet it remains unclear how experimental warming and elevation (natural temperature gradient) jointly regulate priming effects (PEs) on organic matter decomposition in soils and sediments and thereby influence CO 2 and CH 4 emissions. We investigated temperature‐dependent priming induced by 13 C‐labelled glucose additions across a soil–sediment continuum in the Rongbuk River Basin on the Tibetan Plateau (3759–4550 m a.s.l.). Soil and sediment samples were incubated under two temperatures (7°C and 17°C) to quantify PE for CO 2 and CH 4 (i.e., PE‐CO 2 and PE‐CH₄). Labile C inputs induced consistently positive PE‐CO 2 in soils, with generally stronger responses in sediments. PE‐CO 2 ranged from 0.42 to 11 mg CO 2 g −1 SOC in soils and from 0.41 to 15 mg CO 2 g −1 SOC in sediments, whereas PE‐CH 4 ranged from −2.2 to 5.2 μg CH 4 g −1 SOC in soils and from 0.14 to 7.9 μg CH 4 g −1 SOC in sediments. Warming increased PE‐CO 2 but suppressed PE‐CH 4 . Higher‐elevation sites showed lower primed CO 2 efflux but larger primed CH 4 efflux than lower‐elevation sites. This indicates that warming effects on priming depend on the balance between oxidative and reductive C processing. High‐throughput amplicon sequencing targeting the 16S and ITS2 rDNA regions indicated specific effects on priming: bacterial community composition was closely correlated with rapid, substrate‐driven CO 2 priming, whereas fungal communities were indirectly linked to primed CH 4 through their depolymerization of organic matter. Together, CO 2 and CH 4 released by priming of organic matter decomposition arise from distinct but coupled microbial pathways across soils and sediments, whereas sensitivity to temperature decreased along elevation. These findings highlight the need to explicitly account for oxidative and reductive priming related processes when predicting C turnover and greenhouse‐gas feedbacks in high‐elevation terrestrial–aquatic interface systems under climate change.",
-      "keywords": []
+      "keywords": [
+        "Soil water",
+        "Cycling",
+        "Microbial population biology",
+        "Organic matter",
+        "Sediment",
+        "Global warming",
+        "Soil carbon",
+        "Carbon cycle"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70439",
@@ -15496,7 +15664,7 @@
     {
       "doi": "10.1086/741119",
       "doi_url": "https://doi.org/10.1086/741119",
-      "title": "Positional intra-clutch variation in egg shape associated with maternal guarding in a shield bug",
+      "title": "Positional Intraclutch Variation in Egg Shape Associated with Maternal Guarding in a Shield Bug",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -18298,33 +18466,6 @@
         "Biodiversity",
         "Apex predator",
         "Habitat"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70742",
-      "doi_url": "https://doi.org/10.1111/gcb.70742",
-      "title": "Knowledge‐Guided Machine Learning for Global Change Ecology Research",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-10",
-      "published_date_display": "2026-02-10",
-      "published_parts": [
-        2026,
-        2,
-        10
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70742",
-      "abstract": "ABSTRACT Global change ecology demands predictive models that reconcile data‐driven learning with mechanistic theory to address complex, interconnected ecosystem challenges. Traditional process‐based approaches struggle with spatiotemporal parameterization, while purely data‐driven machine learning approaches suffer from extrapolation, interpretability, and physical consistency. Knowledge‐guided machine learning (KGML) bridges this divide by systematically integrating ecological principles (e.g., physical first principles, stoichiometry, process understanding, disturbance regimes) into how models are designed, trained, and adjusted to generalize across different ecosystems. The emerging KGML paradigm offers tremendous opportunities to advance the research of global change ecology. This review synthesizes KGML's transformative potential, showcasing its capacity to enhance the prediction of carbon‐water‐nutrient cycles and other ecological processes and lay groundwork for ecological foundation models. Emerging applications in decision support and symbolic regression further illustrate its role in deriving actionable insights and novel theoretical hypotheses. Future directions emphasize adaptive integration of data and knowledge, uncertainty quantification, causal embedding in foundation models, and interdisciplinary collaboration to align KGML innovations with sustainability goals. By uniting ecological theory with AI advances, KGML offers a robust pathway to encompass ecosystem responses to global change, fostering scientific discovery and actionable solutions.",
-      "keywords": [
-        "Transformative learning",
-        "Sustainability",
-        "Process (computing)",
-        "Foundation (evidence)",
-        "Theoretical ecology",
-        "Global change",
-        "Ecological systems theory",
-        "Climate change"
       ]
     },
     {
