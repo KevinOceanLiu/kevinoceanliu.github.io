@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:14:57.149874+00:00",
+  "generated_at": "2026-06-11T23:10:58.904378+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-01997-0",
+      "doi_url": "https://doi.org/10.1038/s41561-026-01997-0",
+      "title": "Perovskite’s structural dynasty",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        6,
+        11
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-01997-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02019-9",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02019-9",
+      "title": "Ontong Java Plateau formed by a thermochemical mantle plume",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        6,
+        11
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02019-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02022-0",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02022-0",
+      "title": "Formalization of co-review",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        6,
+        11
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02022-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-02007-z",
       "doi_url": "https://doi.org/10.1038/s41561-026-02007-z",
       "title": "Seamount volcanism associated with Earth’s basal mantle structures",
@@ -41,7 +95,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02007-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Seamount",
+        "Seafloor spreading",
+        "Intraplate earthquake",
+        "Mantle (geology)",
+        "Volcanism",
+        "Submarine volcano",
+        "Hotspot (geology)",
+        "Subduction",
+        "Mantle plume"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02006-0",
@@ -59,7 +123,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02006-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Intraplate earthquake",
+        "Hotspot (geology)",
+        "Seamount",
+        "Mantle plume",
+        "Mantle (geology)",
+        "Mantle convection",
+        "Volcanism",
+        "Plate tectonics"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02633-w",
@@ -77,7 +150,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02633-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Landslide",
+        "Tropical cyclone",
+        "Downscaling",
+        "Climate change",
+        "Tropical cyclone rainfall forecasting",
+        "Global warming",
+        "Sea surface temperature"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02659-0",
@@ -95,7 +176,11 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02659-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Sea level rise",
+        "Climate change",
+        "Climate extremes"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02689-8",
@@ -112,8 +197,12 @@
         10
       ],
       "link": "https://www.nature.com/articles/s41558-026-02689-8",
-      "abstract": "",
-      "keywords": []
+      "abstract": "In the version of this article initially published, there were typographical errors in the Discussion where current mentions of “NielsenIQ” data or datasets referred originally to “Nielsen” data or datasets. The text has been amended in the HTML and PDF versions of the article.",
+      "keywords": [
+        "Disadvantaged",
+        "Sugar",
+        "Current (fluid)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02017-x",
@@ -916,14 +1005,23 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001168",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Effective biodiversity conservation for coral reef ecosystems requires both climate mitigation and enhanced management. The current scale of reef management, and the resulting capacity to deliver ecosystem benefits, is limited by a lack of adequate, accessible, sustainable, and scalable funding. Our perspective explores the opportunities and challenges of emerging biodiversity frameworks and nature-based funding instruments (especially biodiversity credits) to catalyze investments needed to increase the scale, nature, and effectiveness of coral reef conservation. Foundational work needed to establish high-integrity coral reef biodiversity credits is under way, including the development of a robust biodiversity accounting framework relevant across a broad range of coral reef habitats and regions. Explicit focus on ecosystem structure, composition, and functions provides a clear direction and rationale for selecting relevant metrics for biodiversity accounting. However, ongoing targeted research and innovation are needed to increase efficacy and efficiency of coral reef management while adapting to changing conditions and demands.",
+      "keywords": [
+        "Biodiversity",
+        "Coral reef",
+        "Coral reef protection",
+        "Reef",
+        "Ecosystem services",
+        "Measurement of biodiversity",
+        "Coral reef organizations",
+        "Operationalization"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101716",
