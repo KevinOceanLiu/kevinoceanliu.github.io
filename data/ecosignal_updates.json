@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T00:03:40.718659+00:00",
+  "generated_at": "2026-06-12T00:08:55.458514+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03108-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Constructive",
+        "Line (geometry)",
+        "Time line",
+        "Focus (optics)",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70359",
@@ -69,7 +75,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70359",
       "abstract": "Abstract The spatial arrangement of individuals of multiple species of sessile organisms is thought to be driven by a variety of entangled biotic and abiotic mechanisms. In particular, segregation along environmental gradients causes long‐distance clustering within species and separation between species. Dispersal limitations result in intermediate‐scale clustering, solely within species. Physical packing, resource competition and natural enemies as agents of negative density dependence cause regularity at finer scales, with the latter only within species. Functional groups representing structure and dynamics have distinct associations, with gap and understorey species more clustered than canopy. We hypothesise the combined effect of these mechanisms on a forest spatial pattern. We test our hypotheses using the saturated pairwise interaction Gibbs point process model, fitted to individually mapped stems in a 50‐hectare plot located in species‐rich, seasonal evergreen forest in the Huai Kha Khaeng Wildlife Sanctuary in western Thailand. This approach allows for modelling species' distance‐dependent, signed pairwise interactions in addition to environmental responses. We found that many of the interactions were species‐agnostic, yet functional group‐dependent. In general, and for canopy trees particularly, interactions over short distances were negative, within and between species, while those over longer distances were positive. Understorey trees were overwhelmingly clustered, especially at fine scales, and showed positive short‐distance associations with other species. Gap species were distinct in displaying positive intraspecific interactions and generally negative interspecific interactions, irrespective of distance. Synthesis . The pairwise interaction Gibbs process provides a way to quantify the relative importance of the underlying ecological drivers via a static snapshot of plants' spatial pattern. Our approach may enhance our understanding of mixed‐species forests around the world and may also be applied in other mapped plots with over about 100 plants.",
-      "keywords": []
+      "keywords": [
+        "Interspecific competition",
+        "Understory",
+        "Biological dispersal",
+        "Abiotic component",
+        "Pairwise comparison",
+        "Intraspecific competition",
+        "Spatial ecology",
+        "Point pattern analysis",
+        "Point process"
+      ]
     },
     {
       "doi": "10.1111/gcb.70955",
@@ -87,7 +103,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70955",
       "abstract": "ABSTRACT Phytoplankton are key contributors to global primary production and serve as sensitive indicators of changes in marine ecosystems. Changes in phytoplankton phenology, and in particular the onset, termination, and duration of their growing period, have important implications for higher trophic levels that feed on them. Several local studies have provided evidence linking phenological shifts to climate change. However, global analyses have so far relied on time‐series observations of surface chlorophyll covering less than two decades, making it difficult to separate trends from variability and establish the coherence of underlying drivers at the global level. Here we use the OC‐CCIv5 satellite‐derived observations harmonised across satellite sensors and the NEMO‐PlankTOM12 global ocean biogeochemical model to revisit recent trends in phytoplankton phenology and identify their global drivers during the 1998–2020 period. Using statistical analysis to separate and control for covariance among underlying drivers, we show that SST warming trends are clearly associated with earlier initiation, later termination, and longer duration of the phytoplankton growing season. In contrast, changes in MLD, SST variability, and chlorophyll are associated with shifts in initiation and termination in the same direction, such that both boundaries move in parallel, partly cancelling their effect on duration. The PlankTOM12 model successfully reproduces most of the observed patterns in phenology and their association with the underlying drivers, providing evidence of the mechanistic relationships, and helping to ascertain the global significance of the drivers. Our findings suggest that trends towards earlier initiation, later termination, and longer duration of phytoplankton growing periods are likely associated with climate change, and may therefore persist in the near future under continued global warming.",
-      "keywords": []
+      "keywords": [
+        "Phytoplankton",
+        "Phenology",
+        "Trophic level",
+        "Climate change",
+        "Global warming",
+        "Biogeochemical cycle",
+        "Seasonality"
+      ]
     },
     {
       "doi": "10.1111/ele.70422",
@@ -105,7 +129,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70422",
       "abstract": "ABSTRACT Ecological forecasting is increasingly important for conservation. Predicting nocturnal bird migration events is a promising vehicle for forecasts but isn't often explored at fine temporal scales. We use weather surveillance radar to examine dynamic drivers of migration in 2‐h periods throughout a night. We assess the relative importance of terrestrial, atmospheric and sampling predictors (which relate to radar position and scan timing) across spring and fall. Atmospheric conditions were consistently strong predictors. In contrast, terrestrial predictors contributed relatively little to explaining variation in activity. Sampling variables, such as time after sunset, varied in importance, with the highest influence shortly after sunset. We highlight the temporal variability in predictors of migration, emphasising it as a dynamic process, involving continuous decisions and adjustments rather than following fixed routes. We underscore the value of radar for capturing transitions between habitats while revealing key limitations and opportunities for understanding fine‐scale migratory behaviour.",
-      "keywords": []
+      "keywords": [
+        "Bird migration",
+        "Nocturnal",
+        "Variation (astronomy)",
+        "Habitat",
+        "Radar",
+        "Sampling (signal processing)",
+        "Temporal scales"
+      ]
     },
     {
       "doi": "10.1111/ele.70395",
@@ -3043,16 +3075,11 @@
       "keywords": [
         "Pollinator",
         "Pollination",
-        "Trait",
-        "Diversity (politics)",
-        "Service (business)",
-        "Biology",
-        "Botany",
-        "Business",
-        "Computer science",
-        "Sociology",
-        "Pollen",
-        "Marketing"
+        "Species richness",
+        "Generalist and specialist species",
+        "Habitat",
+        "Biodiversity",
+        "Ecosystem services"
       ]
     },
     {
@@ -17219,7 +17246,7 @@
     {
       "doi": "10.1086/741060",
       "doi_url": "https://doi.org/10.1086/741060",
-      "title": "Asymmetric gene flow maintains range edges in a marine invertebrate",
+      "title": "Asymmetric Gene Flow Maintains Range Edges in a Marine Invertebrate",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
