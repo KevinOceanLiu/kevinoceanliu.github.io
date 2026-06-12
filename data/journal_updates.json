@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T22:58:07.585264+00:00",
+  "generated_at": "2026-06-12T22:46:41.216809+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115529",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115529",
-      "title": "The Scaling Law in remote sensing mapping for model performance forecasting and reference sample optimization",
+      "doi": "10.1016/j.rse.2026.115534",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115534",
+      "title": "An independent evaluation of global 1 km soil moisture products using in-situ and airborne observations",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,70 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002993",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003044",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.006",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.006",
+      "title": "Multimodal flow matching for large-scale human mobility flow generation using satellite imagery and social sensing data",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003126",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2659159",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2659159",
+      "title": "“The Ultimate Hustlers”: Markets, Single Mothers, and Radical Care Praxis in Kampala, Uganda",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-12",
+      "published_date_display": "2026-06-12",
+      "published_parts": [
+        2026,
+        6,
+        12
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659159",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115529",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115529",
+      "title": "The Scaling Law in remote sensing mapping for model performance forecasting and reference sample optimization",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002993",
+      "abstract": "",
+      "keywords": [
+        "Bottleneck",
+        "Scaling",
+        "Mean squared error",
+        "Sample (material)",
+        "Feature (linguistics)",
+        "Convergence (economics)",
+        "Trajectory",
+        "Sample size determination"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115505",
@@ -49,15 +110,23 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002750",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The Copernicus Atmospheric Monitoring Service (CAMS) offers solar radiation service (CRS) which provides time series of surface solar irradiance (SSI) as its primary product. As a first step towards the global evolution of the service for solar energy applications, the Himawari measurements by Japan Meteorological Agency (JMA) are integrated since version 4.6. This study introduces a hierarchical evaluation framework and evaluates CRS for 32 stations distributed in different climates inside the Himawari field of view (FOV). Besides standard all-sky validation the framework includes APOLLO_NG cloud-type specific evaluation as well as seasonal, diurnal and interannual variability. The assessment is further deepened with the establishment of an irradiance variability based classification as a diagnostic tool for SSI validation allowing quantitative evaluation of various error sources due to different cloud conditions on the retrieval performance. The rMBE and rRMSE in all-sky conditions are in the ranges −7.4 to 4.9% and 8 to 30% for hourly Global Horizontal Irradiance (GHI), and − 26.6 to 15.3% and 18 to 64.1% for Beam Normal Irradiance (BNI), respectively. The evaluations show very good performance of CRS schemes under clear-sky and nearly clear-sky conditions and good handlings of thin clouds in most stations. However, broken cloud fields are observed to introduce notable overestimation. While a direct comparison with other validation studies for the Himawari FOV is limited due to differences in temporal and spatial coverage, CRS v4.6 achieved overall performance levels comparable to or better than other published approaches.",
+      "keywords": [
+        "Irradiance",
+        "Solar irradiance",
+        "Cloud cover",
+        "Cloud computing",
+        "Solar energy",
+        "Cloud top",
+        "Satellite"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.005",
@@ -66,15 +135,24 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003114",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Preprocessor",
+        "Pattern recognition (psychology)",
+        "Supervised learning",
+        "Deep learning",
+        "Semi-supervised learning",
+        "Plant disease",
+        "Visibility",
+        "Hyperspectral imaging"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.004",
@@ -83,15 +161,26 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003102",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Homography",
+        "Photogrammetry",
+        "Metric (unit)",
+        "Structure from motion",
+        "3D reconstruction",
+        "Scalability",
+        "Image stitching",
+        "Field (mathematics)",
+        "Feature (linguistics)",
+        "Matching (statistics)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.053",
@@ -100,8 +189,8 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
       "published_parts": [
         2026,
         9
@@ -117,15 +206,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002911",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Point cloud",
+        "Simultaneous localization and mapping",
+        "Pattern recognition (psychology)",
+        "Graph",
+        "Odometry",
+        "Vertex (graph theory)",
+        "Key (lock)",
+        "Clique",
+        "Consistency (knowledge bases)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2673231",
@@ -142,8 +241,16 @@
         11
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2673231",
-      "abstract": "",
-      "keywords": []
+      "abstract": "White phosphorus munitions are known to produce significant thermal effects, burning bodies and scorching lands in multiple contexts of military violence (e.g., in Gaza, Lebanon, Syria). It is less widely discussed that white phosphorus munitions also drift into urban areas and farmlands; they deplete ecosystems and damage agricultural products, causing long-term toxifying effects for both human and nonhuman life. This article attends to accounts of such effects with the objective of understanding the extended temporal and spatial military violence of white phosphorus munitions. We first provide a history of the development of white phosphorus for military use before focusing on Israel’s recent deployment of white phosphorus munitions in southern Lebanon, where farmers and residents report enduring effects on health and the environment. Drawing on notions of geopower and weathering, we examine the temporalizing and spatializing dimensions of environmental harm to substantiate the article’s main argument: White phosphorus munitions effect enduring and dispersed forms and volumes of military violence by operating at the threshold of land and air—geos and meteora—to modulate inhabitability.",
+      "keywords": [
+        "White Phosphorus",
+        "White (mutation)",
+        "Harm",
+        "Software deployment",
+        "White paper",
+        "Poison control",
+        "Suicide prevention"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2672752",
@@ -160,8 +267,17 @@
         11
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2672752",
-      "abstract": "",
-      "keywords": []
+      "abstract": "This article examines how storytelling platforms like ArcGIS StoryMaps can integrate critical geographic scholarship into public and introductory geographic educational outlets. We position storytelling platforms as a mechanism for increased collaboration, faster integration of critical scholarship, and reaching broader audiences for geographic knowledge production and circulation. We argue that there is a disconnect between critical geographic research and introductory materials that public audiences encounter, limiting the impact of recent debates and knowledge in the discipline. In this article, multimedia is not just a teaching tool, but a revisable and more easily updatable method of integrating critical scholarship into foundational curriculum and digital knowledge infrastructures. Drawing from three examples designed in ArcGIS StoryMaps related to cartography and mapping, open educational resources, and collaborative, vignette-based examples, we show how multimedia design can more robustly integrate decolonial and critical perspectives in education.",
+      "keywords": [
+        "Scholarship",
+        "Storytelling",
+        "Bridging (networking)",
+        "Limiting",
+        "Digital scholarship",
+        "Curriculum",
+        "Geographic information system",
+        "Knowledge production"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2673223",
@@ -179,7 +295,12 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2673223",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Value (mathematics)",
+        "Value creation",
+        "Sustainability",
+        "Value proposition"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115532",
@@ -244,8 +365,17 @@
         10
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2682957",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Explaining spatial heterogeneity typically relies on first-dimension covariates that describe spatial gradients. However, many geographic phenomena also exhibit irregular and locally extreme structures that are difficult to capture using smooth relationships. This study proposed a second-dimension outlier-driven heterogeneity (SOH) model, in which the first dimension refers to covariate variation across space, while the second dimension represents spatial pattern information captured from local outlier configurations. SOH derives multi-scale spatial outlier patterns (SOPs) using a second-dimension outlier model and embeds them in a stratification-detection workflow, where decision tree-based stratification defines strata and the geographical detector evaluates explanatory power via the power of determinant (PD). The model supports evaluation of individual effects, SOP interactions, and SOP-variable interactions, with assessment of scale dependence across neighbourhood buffers. Application of this model to spatial heterogeneity in Australian barley production showed that SOPs strengthened heterogeneity explanation relative to original variables, and that SOP interactions and SOP-variable interactions yielded synergistic gains in PD. A scale threshold around 200 km was identified, beyond which SOP-only models approached the explanatory performance of combined models, indicating that multi-scale SOPs captured broad spatial context. Overall, SOH provides a unified approach for incorporating outlier-driven spatial patterns into spatial heterogeneity analysis.",
+      "keywords": [
+        "Outlier",
+        "Covariate",
+        "Spatial ecology",
+        "Explanatory power",
+        "Spatial heterogeneity",
+        "Scale (ratio)",
+        "Dimension (graph theory)",
+        "Spatial variability"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2682959",
@@ -263,7 +393,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2682959",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Point cloud",
+        "Matching (statistics)",
+        "Point (geometry)",
+        "Cloud computing",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.040",
@@ -11363,32 +11499,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.005",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.005",
-      "title": "L2M-Reg: Building-level uncertainty-aware registration of outdoor LiDAR point clouds and semantic 3D city models",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-06",
-      "published_date_display": "2026-02-06",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000560",
-      "abstract": "Accurate registration between LiDAR (Light Detection and Ranging) point clouds and semantic 3D city models is a fundamental topic in urban digital twinning and a prerequisite for downstream tasks, such as digital construction, change detection, and model refinement. However, achieving accurate LiDAR-to-Model registration at the individual building level remains challenging, particularly due to the generalization uncertainty in semantic 3D city models at the Level of Detail 2 (LoD2). This paper addresses this gap by proposing L2M-Reg, a plane-based fine registration method that explicitly accounts for model uncertainty. L2M-Reg consists of three key steps: establishing reliable plane correspondence, building a pseudo-plane-constrained Gauss–Helmert model, and adaptively estimating vertical translation. Overall, extensive experiments on five real-world datasets demonstrate that L2M-Reg is both more accurate and computationally efficient than current leading ICP-based and plane-based methods. Therefore, L2M-Reg provides a novel building-level solution regarding LiDAR-to-Model registration when model uncertainty is present. The datasets and code for L2M-Reg can be found: https://github.com/Ziyang-Geodesy/L2M-Reg . • A plane-based LiDAR-to-Model registration method, tailored for individual buildings. • Explicitly accounting for uncertainty in LoD2 models yields superior performance. • 2D–3D decoupled estimation to mitigate the impact of low-quality ground model data. • Lightweight plane correspondence strategy leverages semantics in LoD2 models.",
-      "keywords": [
-        "Point cloud",
-        "Lidar",
-        "3D city models",
-        "Semantics (computer science)",
-        "Key (lock)",
-        "Generalization",
-        "Digital elevation model",
-        "Point (geometry)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2608176",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2608176",
       "title": "Multiscale Kernel Function for Multiscale Geographical Weighted Regression",
@@ -11785,29 +11895,6 @@
         "Variety (cybernetics)",
         "Vulnerability (computing)",
         "Social risk"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115267",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115267",
-      "title": "Enhancing two-week live fuel moisture content forecasts through biophysical modelling and remote sensing data assimilation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-28",
-      "published_date_display": "2026-01-28",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000374",
-      "abstract": "",
-      "keywords": [
-        "Data assimilation",
-        "Satellite",
-        "Calibration",
-        "Generalized additive model",
-        "Mean squared error"
       ]
     },
     {
