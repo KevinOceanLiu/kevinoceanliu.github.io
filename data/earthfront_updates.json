@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T23:10:58.904378+00:00",
+  "generated_at": "2026-06-12T23:03:34.928234+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01888-7",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01888-7",
+      "title": "Author Correction: Global expansion of the ecological impact of extra-urban road traffic",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-12",
+      "published_date_display": "2026-06-12",
+      "published_parts": [
+        2026,
+        6,
+        12
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01888-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02004-2",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02004-2",
+      "title": "Large CO2 seeps and hydrate field on the seafloor offshore Mayotte Island",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-12",
+      "published_date_display": "2026-06-12",
+      "published_parts": [
+        2026,
+        6,
+        12
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02004-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-01997-0",
       "doi_url": "https://doi.org/10.1038/s41561-026-01997-0",
       "title": "Perovskite’s structural dynasty",
@@ -41,7 +77,11 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-01997-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Earth (classical element)",
+        "Palaeogeography",
+        "Earth structure"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02019-9",
@@ -59,7 +99,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02019-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Mantle (geology)",
+        "Mantle plume",
+        "Hotspot (geology)",
+        "Mantle convection",
+        "Plume",
+        "Earth's internal heat budget",
+        "Seafloor spreading",
+        "Crust",
+        "Mantle wedge"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02022-0",
@@ -77,7 +127,12 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02022-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Joins",
+        "Portfolio",
+        "Formal description",
+        "Climate science"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02007-z",
