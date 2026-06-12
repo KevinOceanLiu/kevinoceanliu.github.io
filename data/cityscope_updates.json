@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T23:53:37.624230+00:00",
+  "generated_at": "2026-06-12T23:50:57.707674+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105717",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105717",
-      "title": "Research Note: Revealing the triple burden of spatial health inequities in urban communities: A built environment health vulnerability (BEHV) framework analysis of resource availability, risk exposure, and structural sensitivity",
+      "doi": "10.1016/j.landurbplan.2026.105718",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105718",
+      "title": "Exploring a sampling-based IUGZA method to estimate and map the tree allergenic risk of urban green space: Case study of Beijing, China",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
@@ -43,48 +43,14 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001416",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001428",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/s0169-2046(26)00146-5",
-      "doi_url": "https://doi.org/10.1016/s0169-2046(26)00146-5",
-      "title": "Editorial Board",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001465",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.compenvurbsys.2026.102480",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102480",
-      "title": "A computational framework for measuring dynamic vehicular exposure and equity in the 15-min city",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000827",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107203",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107203",
-      "title": "Capturing urban activities and environment across time scales: Object detection and time-series analysis of 6.8 million images in Accra, Ghana",
+      "doi": "10.1016/j.cities.2026.107259",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107259",
+      "title": "Urban violence: An unrecognized chronic disaster for health systems in the Americas",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -94,24 +60,42 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600435X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004919",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/s0264-2751(26)00512-3",
-      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00512-3",
-      "title": "Editorial Board",
+      "doi": "10.1016/j.cities.2026.107137",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107137",
+      "title": "Determinants of perceived accessibility of public transport and implications for equity: Evidence, gaps, and a research agenda",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
       "published_parts": [
         2026,
-        9
+        10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005123",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003690",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00461-9",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00461-9",
+      "title": "Connecting the general and particular in interdisciplinary urban research",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-12",
+      "published_date_display": "2026-06-12",
+      "published_parts": [
+        2026,
+        6,
+        12
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00461-9",
       "abstract": "",
       "keywords": []
     },
@@ -131,7 +115,143 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261456062",
       "abstract": "Since the ‘mobility turn’, urban researchers have advanced our understanding of the contentious and relational nature of cross-border policy learning. Extant research has revealed how policy ideas move through transnational networks, social interactions, and informal dialog, forming assemblages of policy learning. Despite this rich literature that centers policy learning on policy circulation, we know relatively little about how learning unfolds throughout the full trajectory of their localization as a policy process. We fill this gap by taking the policy cycle model as an analytical framework. We investigate the whole range of policy activities that shape and transform policy learning into concrete policy components through a series of interconnected, iterative stages of the policy cycle within urban policy mobility. Using the introduction of participatory budgeting in Vienna as an empirical case, we show how multiple types of learned lessons, drawn from diverse actors and sources of knowledge, become enmeshed, streamlined, and articulated into the formulation and implementation of an international best practice as a local policy. We conclude by highlighting some analytical advantages of this policy-oriented approach for researching urban policy mobility and suggest directions for future research.",
+      "keywords": [
+        "Policy learning",
+        "Urban policy",
+        "Citizen journalism",
+        "Extant taxon",
+        "Policy analysis",
+        "Policy studies",
+        "Social policy",
+        "Public policy"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261452161",
+      "doi_url": "https://doi.org/10.1177/00420980261452161",
+      "title": "Daily routines, activity space, and third places: A big data approach to understand encounters",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        6,
+        11
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261452161",
+      "abstract": "Urban encounters often involve interactions with people we do not personally know and has been linked to positive mental, emotional, and physical well-being. While previous studies have focused on the associations between urban encounters, social networks, and mobility patterns, this study examines their dynamics through the lens of daily routines, activity spaces, and third places. Drawing on mobile cellular signaling data from Qingdao, China, the research analyzes the activities of more than 600,000 residents over a five-day period, offering unique insights into non-commute behaviors and spatial patterns. The findings indicate that third places—especially retail services and mixed-use residential and industrial areas—function as key venues for fostering social encounters. The built environment emerges as instrumental in facilitating these interactions, with factors such as proximity and amenity diversity playing crucial roles. Residents who occupied larger activity spaces and had greater access to third places experienced more frequent encounters with familiar strangers. These results underscore the value of thoughtful urban design in promoting social cohesion and community well-being. By integrating advanced spatial analysis with the “15-minute neighborhood” concept, this research provides actionable guidance for urban planners seeking to enhance passive social connectivity. The study broadens our understanding of urban social life beyond traditional commute-focused perspectives, highlighting the importance of everyday spaces in fostering meaningful, if subtle, forms of social engagement.",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105717",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105717",
+      "title": "Research Note: Revealing the triple burden of spatial health inequities in urban communities: A built environment health vulnerability (BEHV) framework analysis of resource availability, risk exposure, and structural sensitivity",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001416",
+      "abstract": "",
+      "keywords": [
+        "Operationalization",
+        "Vulnerability (computing)",
+        "Equity (law)",
+        "Built environment",
+        "Vulnerability assessment",
+        "Health equity",
+        "Resource (disambiguation)",
+        "Environmental justice"
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-2046(26)00146-5",
+      "doi_url": "https://doi.org/10.1016/s0169-2046(26)00146-5",
+      "title": "Editorial Board",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001465",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102480",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102480",
+      "title": "A computational framework for measuring dynamic vehicular exposure and equity in the 15-min city",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000827",
+      "abstract": "The 15-min city concept promises equitable access to essential services through walkable neighborhoods, yet traditional accessibility assessments fail to capture the dynamic impact of vehicular exposure on pedestrian experiences. This study introduces a novel computational framework that measures near-real-time, path-specific vehicular exposure during individual walking journeys by integrating large-scale mobility datasets including mobile phone trajectories (approximately 50% population coverage), GPS data from heavy trucks (75% coverage), and comprehensive public transit schedules in Beijing, China. We develop multi-scale exposure indices that distinguish between cars, trucks, and buses at road, location, and individual trip levels, revealing systematic inequities across socioeconomic groups: higher-income groups face intense car risks in amenity-rich urban areas, while lower-income groups are disproportionately burdened by truck traffic. Critically, we model an access gap that quantifies how traffic avoidance behavior constrains walkable access, revealing that vehicular exposure creates invisible barriers that systematically reduce the practical reach of the 15-min city. These findings compel a reinterpretation of walkability—from mere proximity to an experiential quality—and provide essential insights to identify and mitigate the environmental injustices that undermine equitable urban design.",
+      "keywords": [
+        "Pedestrian",
+        "Equity (law)",
+        "Public transport",
+        "Population",
+        "Mobile phone",
+        "Global Positioning System",
+        "Phone"
+      ]
+    },
+    {
+      "doi": "10.1016/s0264-2751(26)00512-3",
+      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00512-3",
+      "title": "Editorial Board",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005123",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107203",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107203",
+      "title": "Capturing urban activities and environment across time scales: Object detection and time-series analysis of 6.8 million images in Accra, Ghana",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-11",
+      "published_date_display": "2026-06-11",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600435X",
+      "abstract": "Cities have complex dynamics on timescales from hourly and daily changes to monthly shifts and annual trends. We used time-lapsed street-view imagery (SVI) to capture and analyse temporal trends of urban environmental features in Accra, Ghana. We collected a novel dataset of 6.8 million street-view images (SVI) at five-minute intervals over five years at ten representative locations in Accra, Ghana. We used a fine-tuned YOLOv7 object detection model to detect and obtain counts of people, large vehicles, small vehicles, two-wheelers, market-related objects, refuse and animals in all images. We used a mixed-effects zero-inflated negative binomial model with indicators for hour of day, day of week, week of year, and year to consistently and coherently identify temporal patterns of object counts across time scales and sites. People and small vehicles were most prevalent in mid-morning and early evening, and market-related objects peaked in early afternoon. The number of people, vehicles and market-related objects declined on weekends at most sites, although two residential sites showed an inverse trend, peaking in all three categories on weekends. Long-term trends over the years indicate a rise in people at high-density residential sites. Over the same period, market-related objects, two-wheelers and small vehicles declined at several locations with different land-use characteristics, suggesting broad shifts in transport and commercial activity. These results demonstrate the potential of SVI and computer vision for urban monitoring to support strategies for improving mobility, traffic congestion, pollution, access to goods and services, and waste management.",
+      "keywords": [
+        "Change detection",
+        "Negative binomial distribution",
+        "Object (grammar)",
+        "Object detection",
+        "Object based",
+        "Time of day"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00457-5",
@@ -5169,6 +5289,26 @@
       ]
     },
     {
+      "doi": "10.1016/j.compenvurbsys.2026.102442",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102442",
+      "title": "Corrigendum to “Leveraging sidewalk robots for walkability-related analyses Computers, Environment and Urban Systems” [Volume 124, March 2026, 102381]",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-04-26",
+      "published_date_display": "2026-04-26",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600044X",
+      "abstract": "",
+      "keywords": [
+        "Robot",
+        "Urban planning"
+      ]
+    },
+    {
       "doi": "10.1016/j.landurbplan.2026.105675",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105675",
       "title": "Treeless streets and sleepless nights: How cities overprotect infrastructure and underprotect citizens",
@@ -5796,32 +5936,6 @@
         "Survey data collection",
         "Structural equation modeling",
         "Multilevel model"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107103",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107103",
-      "title": "Effects of network dynamics of urban rail transit and built environment on housing values using explainable XGBoost model",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-17",
-      "published_date_display": "2026-04-17",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003355",
-      "abstract": "",
-      "keywords": [
-        "Rail transit",
-        "Built environment",
-        "Transit (satellite)",
-        "Urban rail transit",
-        "Rail network",
-        "Transit system",
-        "Transit-oriented development",
-        "Urban transit"
       ]
     },
     {
@@ -7343,29 +7457,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107028",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107028",
-      "title": "The role of ICT in fostering inclusive cities: A five-factor model from a mid-sized global South City (Hamadan, Iran)",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-06",
-      "published_date_display": "2026-04-06",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600260X",
-      "abstract": "",
-      "keywords": [
-        "Global South",
-        "Information and Communications Technology",
-        "Global city",
-        "ICTS",
-        "South asia"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107047",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107047",
       "title": "The hierarchical morphotope classification: A theory-driven framework for large-scale analysis of built form",
@@ -7784,26 +7875,6 @@
         "China",
         "Local government",
         "Government (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.compenvurbsys.2026.102442",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102442",
-      "title": "Corrigendum to “Leveraging sidewalk robots for walkability-related analyses Computers, Environment and Urban Systems” [Volume 124, March 2026, 102381]",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600044X",
-      "abstract": "",
-      "keywords": [
-        "Robot",
-        "Urban planning"
       ]
     },
     {
