@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T22:46:41.216809+00:00",
+  "generated_at": "2026-06-13T22:17:56.413477+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,26 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115534",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115534",
-      "title": "An independent evaluation of global 1 km soil moisture products using in-situ and airborne observations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003044",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.006",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.006",
-      "title": "Multimodal flow matching for large-scale human mobility flow generation using satellite imagery and social sensing data",
+      "doi": "10.1016/j.isprsjprs.2026.05.051",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.051",
+      "title": "Relative Energy Learning for LiDAR out-of-distribution detection",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,9 +38,96 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003126",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002984",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.013",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.013",
+      "title": "MiMNet-STASF: a spatiotemporal decoupled network for sub-pixel canopy structure retrieval of urban forests with multi-source long-term remote sensing time series",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003199",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.011",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.011",
+      "title": "Gaussian Mixture Distribution stereo matching network for satellite images",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003175",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115534",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115534",
+      "title": "An independent evaluation of global 1 km soil moisture products using in-situ and airborne observations",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-12",
+      "published_date_display": "2026-06-12",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003044",
+      "abstract": "",
+      "keywords": [
+        "Satellite",
+        "Water content",
+        "Image resolution",
+        "Range (aeronautics)",
+        "Moisture",
+        "Mean squared error",
+        "Precipitation",
+        "Scale (ratio)",
+        "Satellite imagery"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.006",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.006",
+      "title": "Multimodal flow matching for large-scale human mobility flow generation using satellite imagery and social sensing data",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-12",
+      "published_date_display": "2026-06-12",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003126",
+      "abstract": "",
+      "keywords": [
+        "Interpretability",
+        "Matching (statistics)",
+        "Generative model",
+        "Generative grammar",
+        "Inference",
+        "Process (computing)",
+        "Graph",
+        "Scalability"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2659159",
@@ -74,8 +144,19 @@
         12
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2659159",
-      "abstract": "",
-      "keywords": []
+      "abstract": "In this article, we examine precarious labor geographies via a feminist analysis of care and social reproduction. To do so, we center the lives of women traders working in the busy downtown market spaces of Kampala, Uganda. We examine their creative and collective business strategies, and the broader networks of family, friends, and other dependents they support. Through their testimonies, we trace the legacies of colonial capitalist histories and the more recent but connected impacts of neoliberal disenfranchisement. We argue that their hustle, grounded in and made possible via structures of care, not only makes life livable for low-income residents but is foundational to the national economy and the financing of city futures. We view hustle and care as connected practices of social reproduction in postcolonial African economies. In doing so, we aim to build on long-standing feminist Marxist economic geographies via Black and African feminist futurist scholarship. Doing so recognizes how women traders bear the burdens of aggressive neoliberal austerities as racialized women in the global economy. Yet it also traces the complex ways they manage, make do, navigate, and dream within and beyond its violences. Pairing the work on hustling with African and Black feminist theorizations of radical care, we foreground how women, their labor, and their sustained investments in the city are not only a strategy of survival but are integral to disruptive and transformative urban life.",
+      "keywords": [
+        "Neoliberalism (international relations)",
+        "Praxis",
+        "Social reproduction",
+        "Transformative learning",
+        "Precarity",
+        "Intersectionality",
+        "Colonialism",
+        "Marxist philosophy",
+        "Feminism",
+        "Feminist theory"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115529",
@@ -196,8 +277,18 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600300X",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The calving fronts of marine-terminating glaciers undergo constant changes. These changes significantly affect the glacier’s mass and dynamics, demanding continuous monitoring. To address this need, deep learning models were developed that can automatically delineate the calving front in Synthetic Aperture Radar imagery. However, these models often struggle to correctly classify areas affected by seasonal conditions such as ice mélange or snow-covered surfaces. To address this issue, we propose to process multiple frames from a satellite image time series of the same glacier in parallel and exchange temporal information between the corresponding feature maps to stabilize each prediction. We integrate our approach into the current state-of-the-art architecture Tyrion and accomplish a new state-of-the-art performance on the CaFFe benchmark dataset. In particular, we achieve a Mean Distance Error of 184.4 m and a mean Intersection over Union of 83.6 . Furthermore, we empirically demonstrate that our modifications are highly robust to seasonal conditions, achieving a Mean Distance Error of 213.0 m under adverse conditions and outperforming prior state-of-the-art methods, such as Tyrion, by more than 100 m. The CaFFe benchmark dataset is publicly available at https://doi.pangaea.de/10.1594/PANGAEA.940950 and the code at https://github.com/ki7077/Multi-Temporal-Tyrion .",
+      "keywords": [
+        "Benchmark (surveying)",
+        "Ice calving",
+        "Deep learning",
+        "Synthetic aperture radar",
+        "Feature (linguistics)",
+        "Glacier",
+        "Intersection (aeronautics)",
+        "Segmentation",
+        "Mean squared error"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.044",
@@ -294,7 +385,7 @@
         11
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2673223",
-      "abstract": "",
+      "abstract": "The 2018 issuance of Seychelles’ Debt for Nature blue bond raised new hopes for capital market solutions for conservation. Although there is growing excitement over the potential of blue bonds in channeling much needed investment for ocean conservation, as yet, blue bond uptake remains limited, and existing issuances have been criticized for their vague and unambitious environmental impact. This article analyzes the emergence of blue bonds as a new asset class and seeks to explain its development trend by tracking the processes of value creation, transfer, and distribution of every blue bond instrument issued since 2018 (n = 45). Supported by a mixed-method approach, we challenge the popular conception of blue bonds as a homogeneous asset class and reveal that the market has evolved into three categories: Ocean-based Debt for Nature Bonds, Blue Conservation Bonds, and Blue Economy Bonds. Across the categories, the market struggles to internalize long-term environmental value within bond structures. This article argues that the challenges facing blue bonds originate from the temporal and spatial mismatch between the long-term, dispersed value-delivery for ecosystem recovery and the short-term, structured demands of capital markets. Prevailing calls for improved disclosure cannot address the deeper challenges of aligning financial value accumulation with nature conservation and restoration. We conclude that rather than replicating the green bond market model, a rigorous rethinking of investment structures is necessary to effectively finance ocean conservation at scale.",
       "keywords": [
         "Value (mathematics)",
         "Value creation",
@@ -8801,23 +8892,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0924-2716(26)00111-5",
-      "doi_url": "https://doi.org/10.1016/s0924-2716(26)00111-5",
-      "title": "Editorial Board",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-11",
-      "published_date_display": "2026-03-11",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001115",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/s0034-4257(26)00127-6",
       "doi_url": "https://doi.org/10.1016/s0034-4257(26)00127-6",
       "title": "Editorial Board",
@@ -10403,30 +10477,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.002",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.002",
-      "title": "TLNet: A deep learning framework for tree detection in forest point clouds using multi-layered forest structure",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-23",
-      "published_date_display": "2026-02-23",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000535",
-      "abstract": "",
-      "keywords": [
-        "Forest structure",
-        "Deep learning",
-        "Point cloud",
-        "Tree (set theory)",
-        "Tree structure",
-        "Point (geometry)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.024",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.024",
       "title": "SpecAware: a spectral-content aware foundation model for unifying multi-sensor learning in hyperspectral remote sensing mapping",
@@ -11773,29 +11823,6 @@
         "Repeatability",
         "Control theory (sociology)",
         "Satellite"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.01.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.007",
-      "title": "A geometric Cross-Propagation-Calibration method for SAR constellation based on the graph theory",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-01-31",
-      "published_date_display": "2026-01-31",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000079",
-      "abstract": "",
-      "keywords": [
-        "Constellation",
-        "Graph",
-        "Graph theory",
-        "Synthetic aperture radar",
-        "Satellite constellation"
       ]
     },
     {
