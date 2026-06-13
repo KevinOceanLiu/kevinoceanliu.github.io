@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T00:04:57.569823+00:00",
+  "generated_at": "2026-06-13T23:45:26.985860+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/1365-2745.70371",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70371",
+      "title": "Trade‐offs and bet‐hedging in clonal offspring allocation",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-13",
+      "published_date_display": "2026-06-13",
+      "published_parts": [
+        2026,
+        6,
+        13
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70371",
+      "abstract": "Abstract Reproduction is vital to maintain populations and species, yet because of finite resources, organisms often specialise in their reproductive allocation strategies, such as with many plants prioritising seed size or number (i.e. size/number trade‐off). Alternatively, plants may make multiple types of seeds, as seed heteromorphism, a form of bet‐hedging to increase offspring survival under variable environmental conditions. Those strategies are well described for seeds, but many plants also reproduce clonally, and such reproductive allocation strategies remain unknown for clonal offspring because of difficulties in measuring and standardising allocation to individual offspring across a large number of species. To better understand potential trends in clonal offspring allocation, we studied the southern African clade of the genus Oxalis , where mature offspring bulbs are physiologically distinct from the mother plant. We assessed number, size, protection and placement of clonal offspring for 104 species grown from individual bulbs in pots in a greenhouse. We also measured investment (as dry mass) in below‐ground support structures: spacer stems and roots, tunics and contractile roots. We found a trade‐off between size and number of clonal offspring, where plants produce fewer large bulbs and more small bulbs, similar to the well‐known trade‐off between seed size and number. We also identified a trade‐off in distribution versus protection of offspring bulbs, as indicated by greater offspring bulb production correlated with investment in below‐ground spacers. For two thirds of the species, individual parental bulbs placed offspring in multiple locations simultaneously, here identified as clonal offspring heteromorphism. Offspring bulb size also varied with depth, with individual plants producing relatively larger bulbs deeper in the soil and smaller bulbs closer to or above the soil surface. Synthesis . This is the first study assessing trends in offspring allocation and protection across a large set of species. These trends indicate multiple coordinated trade‐offs and potential bet‐hedging, implying that investment in clonal reproduction is resource‐limited and adapted for unpredictable environmental conditions.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70366",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70366",
+      "title": "Earlier flowering, later fading: Plant diversity loss restructures alpine phenology via competitive release",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-13",
+      "published_date_display": "2026-06-13",
+      "published_parts": [
+        2026,
+        6,
+        13
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70366",
+      "abstract": "Abstract Understanding how plant phenology responds to rapid global change is critical for predicting vegetation dynamics and ecosystem functioning. While climate warming accelerates phenological shifts, particularly advancing flowering in alpine species, the role of biodiversity loss remains less clear. Drawing on theory suggesting that competition for resources among coexisting species can delay reproduction, we predicted that plant diversity loss would accelerate reproductive phenology via competitive release. Through a 12‐year plant species removal experiment in a Tibetan alpine meadow, we demonstrate that plant diversity loss restructured alpine phenology by driving earlier flowering (strongest in forbs) and later fading (i.e. delayed flowering senescence, strongest in grasses). These shifts extended flowering durations in most species, with stronger effects following the removal of dominant sedges or diverse forbs than after the loss of abundant grasses or proportional thinning of species across functional groups. Population‐level trends mirrored individual responses. Remaining species consistently faded later and extended their flowering durations across all removal treatments, although earlier flowering occurred specifically in grasses following forb loss. Phenological shifts correlated more strongly with declining species richness than with changes in soil temperature or nutrients. Across functional groups, earlier flowering was correlated with the number of species lost, whereas delayed senescence and extended flowering durations were observed in species‐poor communities. Synthesis. Our study provides robust experimental evidence that biodiversity loss restructures flowering phenology across scales—from the individual to the population and community levels—primarily through competitive release, regardless of whether a few dominant species, many common species, or a proportional thinning of species across functional groups are lost. These findings highlight a biotically driven mechanism of phenological change, with cascading implications for plant community assembly, species coexistence and ecosystem resilience under global change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70448",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70448",
+      "title": "Models reveal potential synergies in management actions for bull kelp forest resilience and restoration",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-13",
+      "published_date_display": "2026-06-13",
+      "published_parts": [
+        2026,
+        6,
+        13
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70448",
+      "abstract": "Abstract Heatwaves are a growing threat to marine ecosystems. Kelps are particularly vulnerable because they require cool, nutrient‐rich water to thrive. Heatwaves can also trigger increased herbivory by sea urchins. Management interventions—including re‐seeding kelp spores and manually removing urchins—could mitigate heatwave damage or aid recovery. However, we do not yet know the optimal timing of these management actions or whether combining them enhances their effectiveness. We used a stochastic, stage‐structured model of kelp‐urchin population dynamics, which included an urchin‐grazing behavioural switch and was parameterized to represent bull kelp ( Nereocystis luetkeana ) forests along the coast of Oregon, USA. We simulated a 2‐year heatwave and considered two urchin predator scenarios: one in which the sunflower seastar Pycnopodia helianthoides was driven to local extinction by seastar wasting disease during the heatwave (the historical reality), and the counterfactual where seastar densities remained constant. All management interventions individually were notably more effective when seastars were present. When each was enacted alone, kelp seeding was less effective than urchin removal. Both interventions improved kelp forest persistence most when begun before or during the heatwave, but were not effective if started and completed before the heatwave began. The effectiveness of both interventions increased with increasing effort (% biomass removed or added), but with diminishing returns. Combining urchin culling and kelp seeding was highly effective, and even more so if urchin culling started first, with large synergistic gains starting at low intensities of kelp seeding (5% of pre‐heatwave biomass) and higher intensities of urchin removal (25% of pre‐heatwave biomass). Those synergies can be achieved when actions start after a heatwave has begun, easing the need to anticipate heatwaves. Synthesis and applications . We found that urchin culling and kelp seeding interventions can be effective at rebuilding kelp forests, but require intensive effort (e.g. removing 25%–50% of urchins over multiple years), especially in the absence of predators. Our results provide recommendations for the magnitude and timing of culling and seeding that would be needed to provide desired levels of kelp forest resilience.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70969",
+      "doi_url": "https://doi.org/10.1111/gcb.70969",
+      "title": "Microbial Perspective: Regulatory Mechanisms of Interactions Between Microplastics and Dissolved Organic Matter on Greenhouse Gas Emissions in Aquatic Ecosystems",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-13",
+      "published_date_display": "2026-06-13",
+      "published_parts": [
+        2026,
+        6,
+        13
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70969",
+      "abstract": "ABSTRACT Microplastic (MP) pollution may influence aquatic greenhouse gas (GHG) emissions by altering dissolved organic matter (DOM)–microbe coupling, yet reported effects remain inconsistent across ecosystems and exposure regimes. Here, we synthesized evidence from 16 studies to quantify the net effects of MPs on CO 2 , CH 4 , and N 2 O fluxes under ambient DOM conditions. Our meta‐analysis indicates that MP exposure significantly increases CO 2 emissions and decreases N 2 O fluxes, whereas CH 4 responses show a non‐significant positive trend with high variability. Exposure duration and polymer identity emerge as key moderators, indicating that MP effects are context‐dependent rather than uniform. Short‐term exposure tends to suppress carbon mineralization, whereas long‐term exposure is more often associated with GHG production, consistent with a time‐dependent trajectory potentially shaped by polymer aging. Mechanistically, this pattern may reflect initial DOM adsorption and humification that reduce substrate availability, followed by the release of bioavailable MP‐derived compounds that may stimulate microbial respiration, methanogenesis, and denitrification. Overall, MPs reshape aquatic carbon and nitrogen cycling within the overarching framework of DOM, which may ultimately influence GHG emissions under certain conditions. These findings provide a quantitative basis for reconciling conflicting observations and improving predictions of the climate relevance of MP pollution in aquatic ecosystems.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2664.70444",
       "doi_url": "https://doi.org/10.1111/1365-2664.70444",
       "title": "Strategies for dry forest recovery: Fifteen years of Caribbean experimentation across scales",
@@ -51,7 +123,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70444",
       "abstract": "Abstract Dry tropical forests are the most threatened tropical biome. Restoring them on islands is essential for supporting ecosystem functions of interconnected terrestrial and marine ecosystems. Identifying the best strategies to stimulate dry forest recovery is urgently needed. We analysed passive and active restoration approaches conducted at different spatial and temporal scales within the same study system on the Caribbean island of Bonaire: (1) natural regeneration in experimental plots ( n = 14 paired fenced–unfenced plots, 9 × 9 m each, 15 years), (2) natural regeneration after removal of feral herbivores at landscape scales ( n = 24 plots, 10 × 10 m each, 4 years), (3) enrichment planting of seedlings under fenced remnant forest patches (7655 seedlings, 43 tree species, 8 reforestation sites; 100 × 100 m ha each). We monitored tree establishment, taxonomical and functional diversity, soil hydrology and fertility. We subsequently reflected on the participatory experiences that facilitated dry forest restoration. Tree seedling establishment increased when herbivores were excluded or their densities drastically reduced, especially during favourable climatic windows associated with rainy years. However, significant increases in the abundance of saplings and trees required up to 15 years of herbivore exclusion. Only one third of the dry forest tree species recruits naturally with slow shifts from conservative to acquisitive functional trait strategies as forest succession progresses without herbivores. Herbivore exclusion results in higher litter accumulation and lower amounts of organic matter in runoff, but no significant differences in soil nutrients, water runoff or infiltration capacity after 9 years. Planted seedlings in fenced remnant forest patches show high survival rates across species and sites. Synthesis and applications . Slow recovery of degraded Caribbean dry tropical forests can be accelerated by combining herbivore removal at landscape scales with enrichment planting of rare tree species under the cover of remnant forest patches. Long‐legacy effects on soils and forest taxonomical and functional diversity require long‐term management and community engagement.",
-      "keywords": []
+      "keywords": [
+        "Tropical and subtropical dry broadleaf forests",
+        "Herbivore",
+        "Reforestation",
+        "Ecosystem",
+        "Litter",
+        "Ecological succession",
+        "Secondary forest",
+        "Forest restoration",
+        "Restoration ecology"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70441",
@@ -69,7 +151,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70441",
       "abstract": "Abstract Substrate brightness can influence colonisation of marine surfaces, but is typically overlooked in the design of marine constructions for ecological co‐benefits. Many micro‐organisms, invertebrate larvae and algal spores are negatively phototactic, preferentially settling on dark surfaces. Brightness may also influence post‐settlement processes in the intertidal by influencing passive warming of substrates and by influencing the crypsis of organisms susceptible to visually feeding predators. To inform eco‐engineering designs, this study assessed how the brightness of settlement panels influenced biofilm establishment, passive warming of the substrate and microbial and macrobenthic community development on three seawalls in Sydney Harbour, Australia. Brightness was manipulated using greyscale customised concrete panels, spanning black, white and three intermediate brightness values matching seawalls constructed of local quarried sandstone and concrete, as well as Hawkesbury sandstone rocky shores—the most similar natural habitat analogue. Biofilms were sampled from one site after 6 weeks, and the temperature and macro‐community development were tracked across brightness treatments at all three sites quarterly for 2 years. Maximum temperatures were generally greater on darker (blacker) than brighter (whiter) tiles, with this pattern strengthening with tidal elevation and sun exposure. White tiles hosted distinct microbial and macrobiotic communities, which were generally more taxonomically rich and contained greater organism abundances/covers than darker tiles. Effects of brightness were greater in summer than winter, and at sunny than shaded sites, diminishing through time as tiles became fouled. Synthesis and applications . Our results suggest that brightness should be considered when designing marine structures for ecological co‐benefits. Particularly in environments exposed to high solar irradiance, bright surfaces can reduce thermal stress to organisms, resulting in more biodiverse communities. Where construction using dark materials at sun‐exposed orientations is unavoidable, timing the construction to occur in cooler, winter periods may allow establishment of communities that ameliorate thermal effects before peak summer temperatures occur.",
-      "keywords": []
+      "keywords": [
+        "Intertidal zone",
+        "Brightness",
+        "Substrate (aquarium)",
+        "Habitat",
+        "Colonisation",
+        "Algal mat",
+        "Intertidal ecology",
+        "Holdfast",
+        "Reef"
+      ]
     },
     {
       "doi": "10.1111/gcb.70967",
@@ -87,7 +179,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70967",
       "abstract": "ABSTRACT Extreme heat events have increased markedly over recent decades globally, with potentially severe impacts on soil carbon (C) cycling. Here, we conducted a mechanistic study to assess the impact of a single 3‐day extreme heat event (30°C, 40°C, 50°C) on C cycling in an arable soil in North Wales, exploring subsequent 200‐day potential legacy effects and shifts in microbial community structure. Soils exposed to 30°C or 40°C did not change microbial carbon use efficiency (CUE) of 14 C‐glucose, while soil exposed to 50°C showed a 48% increase in 14 C‐glucose mineralisation and halved CUE (0.33 vs. 0.66) compared with undisturbed soil. The legacy effect on soil C turnover was monitored following three additional repeated additions of 14 C‐glucose, showing that microbial C metabolism slowly recovered over 6 months. The introduction of a microbial inoculum from a non‐stressed soil failed to accelerate the recovery of microbial C metabolism in 50°C heated soil. Using soil containing a pre‐labelled 14 C native SOM pool, we found extreme heat caused a substantial loss of old C during the heat event but had no lasting impact on post‐disturbance native SOM turnover. Molecular analyses revealed that the extreme heat event decreased microbial diversity, microbial network complexity and community evenness. In conclusion, our study illustrates that extreme heat events have a substantial detrimental impact on the turnover of labile 14 C‐glucose rather than native 14 C‐SOM, with their legacy effects on soil microbial C processing lasting for a long period of time.",
-      "keywords": []
+      "keywords": [
+        "Microbial population biology",
+        "Soil carbon",
+        "Soil water",
+        "Extreme heat",
+        "Carbon cycle",
+        "Arable land",
+        "Extreme Cold",
+        "Extreme environment",
+        "Microbial metabolism"
+      ]
     },
     {
       "doi": "10.1111/ele.70416",
@@ -105,7 +207,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70416",
       "abstract": "ABSTRACT Understanding how temperature‐sensitive organisms respond to environmental change is central to addressing challenges in public health, biodiversity conservation and food security. For many ectotherms, abiotic and biotic factors shape their abundance and distribution by generating stage‐specific variation in life history traits. Although previous studies have examined temperature, rainfall, competition and habitat quality in relation to maximal population growth rate (), relative humidity has rarely been incorporated into trait‐based thermal performance frameworks. Using laboratory experiments, we show that relative humidity alters juvenile life history trait responses in Anopheles stephensi , an important malaria vector. We then integrate these humidity‐dependent juvenile trait responses into an analytic model to examine how relative humidity shifts the temperature dependence of projected population growth. Heuristic climate‐suitability comparisons further illustrate that temperature–humidity interactions acting through juvenile traits alone can alter qualitative inference about when and where temperature‐only models may over‐ or underestimate environmental suitability. These results highlight the importance of incorporating humidity alongside temperature when assessing ectotherm responses to climatic variation.",
-      "keywords": []
+      "keywords": [
+        "Ectotherm",
+        "Abiotic component",
+        "Biotic component",
+        "Population",
+        "Juvenile",
+        "Relative humidity",
+        "Trait",
+        "Climate change",
+        "Population growth"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03108-z",
@@ -10730,7 +10842,7 @@
         1
       ],
       "link": "https://www.nature.com/articles/s41559-026-03061-x",
-      "abstract": "",
+      "abstract": "In the version of the article initially published, the x axis of Fig. 2c was “Variation of δ 15 N” but should have been “Variation of δ 13 C”. This error has now been corrected in the HTML and PDF versions of the article.",
       "keywords": [
         "Trophic level",
         "Land use",
@@ -17003,7 +17115,7 @@
         20
       ],
       "link": "https://www.nature.com/articles/s41559-026-03019-z",
-      "abstract": "Correction to: <i>Nature Ecology & Evolution</i> https://doi.org/10.1038/s41559-025-02956-5, published online 23 January 2026. In the version of the article initially published, in the Fig. 3a key, the blue triangle was labelled “–1.95 to <0” but should have been “<0 to 1.95” and the red triangle was labelled “>0 to 3.3” but should have been “<0 to –3.3”. These corrections have been made to the HTML and PDF versions of the article. <p/>",
+      "abstract": "Correction to: Nature Ecology & Evolution https://doi.org/10.1038/s41559-025-02956-5 , published online 23 January 2026.",
       "keywords": [
         "Amazonian",
         "Global change",
@@ -17603,33 +17715,6 @@
         "PEST analysis",
         "Invasive species",
         "Pesticide"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70718",
-      "doi_url": "https://doi.org/10.1111/gcb.70718",
-      "title": "Climate Change Impacts the Structure and Nitrogen‐Fixing Activities of Subarctic Feather Moss Microbiomes Across a Precipitation Gradient",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-16",
-      "published_date_display": "2026-02-16",
-      "published_parts": [
-        2026,
-        2,
-        16
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70718",
-      "abstract": "ABSTRACT Associations between feather mosses and cyanobacteria are crucial sources of new biologically available nitrogen (N) in arctic and subarctic ecosystems. The physiology of both mosses and cyanobacteria is strongly influenced by environmental factors such as temperature and moisture, which directly affect N 2 fixation rates. These associations may be threatened by climate change, since it leads to warmer and drier conditions in polar regions. In this study, we investigated the N 2 ‐fixing microbial communities associated with two common feather mosses across a precipitation gradient in the subarctic tundra, followed by a temperature and moisture experiment. Using acetylene reduction assays, nifH gene sequencing and qPCR, we evaluated how shifts in temperature and moisture influence nitrogenase activity and N 2 ‐fixing community structure. Our results showed that N 2 fixation was highest in sites with greater precipitation and increased with both temperature and moisture. Cyanobacteria dominated N 2 ‐fixing communities, but currently unclassified bacteria also seemed to play a significant role, particularly at higher temperatures. The number of cyanobacterial nifH copies tended to remain stable or decrease with temperature, while the relative abundance of unclassified bacteria increased. These findings suggest that the N 2 ‐fixing activity, abundance, and diversity of cyanobacteria associated with feather mosses in the subarctic will decline under warmer and drier conditions, potentially leading to a shift in the composition of feather moss‐associated microbial communities in a warmer Arctic, with potential consequences for N input into the ecosystem.",
-      "keywords": [
-        "Subarctic climate",
-        "Moss",
-        "Climate change",
-        "Cyanobacteria",
-        "Bryophyte",
-        "Nitrogenase",
-        "Precipitation",
-        "Global change"
       ]
     },
     {
