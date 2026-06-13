@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T23:03:34.928234+00:00",
+  "generated_at": "2026-06-13T22:46:20.428365+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -40,8 +40,13 @@
         12
       ],
       "link": "https://www.nature.com/articles/s41893-026-01888-7",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Following publication of this article, an error has been identified in the code used to generate traffic volume predications for 1975 and 1990 as described by van Strien and Grêt-Regamey 1 . The predictions for 2000 and 2015 remain unaffected. The code has been corrected, and the following amendments have been made as a result.",
+      "keywords": [
+        "Code (set theory)",
+        "Traffic volume",
+        "Road traffic",
+        "Volume (thermodynamics)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02004-2",
@@ -58,8 +63,17 @@
         12
       ],
       "link": "https://www.nature.com/articles/s41561-026-02004-2",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Gas hydrates modulate methane and carbon dioxide benthic fluxes into the ocean and usually occur embedded in the sediment. Here we use acoustic surveys alongside optical and geochemical observations from remotely operated vehicles to show that CO2 hydrate mounds are forming directly on the seafloor atop a large liquid CO2 vent field offshore Mayotte Island. The venting, which initiated following volcanic activity in 2018, deleteriously impacts surrounding coral communities due to local acidification. Carbon dioxide hydrates on the seafloor are sustained by the venting of liquid CO2 associated with volcanic activity near Mayotte Island, according to observations from remotely operated vehicles and geochemical analyses.",
+      "keywords": [
+        "Seafloor spreading",
+        "Submarine pipeline",
+        "Benthic zone",
+        "Carbon dioxide",
+        "Volcano",
+        "Seabed",
+        "Methane",
+        "Coral"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-01997-0",
@@ -1115,7 +1129,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001193",
-      "abstract": "",
+      "abstract": "Antimicrobial resistance (AMR) is a global public health emergency. One Health interventions—an integrated approach recognizing AMR as driven by reciprocal interactions between humans, animals, and environment—are key to addressing this threat, but, without understanding relative contributions of selection and transmission in different settings, it is impossible to improve intervention targeting. While existing analysis focuses on data from one setting, modeling provides an opportunity to integrate multiple data sources and explore intervention impact. Here, we use a deterministic compartmental model calibrated to third-generation cephalosporin-resistant Escherichia coli in three countries (Denmark, England, and Senegal) to estimate the impact of intervention packages. We find that the biggest impact came from targeting bacterial spread and environment. We also show that there is, however, an urgent need to improve AMR surveillance: our model could only recreate AMR dynamics with high uncertainty due to lack of sufficient data across sectors. Without such data, it remains impossible to effectively prioritize interventions.",
       "keywords": [
         "Psychological intervention",
         "Transmission (telecommunications)",
@@ -3432,7 +3446,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001132",
-      "abstract": "Data and code availability: All data are available in the main text or the supplemental information. R code and raw data files used in our Monte Carlo analysis are accessible via Zenodo26: https://doi.org/10.5281/zenodo.14046868.",
+      "abstract": "Plastic pollution represents a pervasive global environmental challenge. However, the lack of globally harmonized monitoring hinders the development of targeted interventions. Here, we develop a rank-based approach combining over 5,300 shoreline surveys and Monte Carlo analysis to present a confidence-weighted global assessment of marine litter across seven continents, nine ocean systems, 13 regional seas, and 112 nations, representing 86% of the global population. The analysis shows that food and beverage plastics dominate shoreline debris globally, ranking among the top three most abundant usage types in 93% of nations, followed by plastic bags (39%) and cigarettes (38%). Specifically, plastic food packaging, caps/lids, and plastic bottles were among the top-ranked individual items in over half of all nations. By pinpointing the most prevalent items across national and regional scales, our framework provides critical policy-relevant evidence and associated levels of confidence, indicating the need for targeted upstream responses focused on short-lived plastics.",
       "keywords": [
         "Psychological intervention",
         "Food supply",
@@ -5337,7 +5351,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000606",
-      "abstract": "",
+      "abstract": "Multi-regional input-output (MRIO) models trace socioeconomic and environmental performance along complex global supply chains. However, the electricity sector, a major source of fossil fuel consumption and CO 2 emissions, remains insufficiently disaggregated in MRIO databases, hindering assessment of power generation structural change and renewable technology reforms, especially in emerging economies. Here, we establish EMERGING-E, an MRIO model covering 146 sectors across 245 economies, which disaggregates the electricity sector into one transmission sector, one distribution sector, and twelve technology-specific subsectors. Validation against officially reported country-level power generation mixes reveals that EXIOBASE 3 and GTAP-Power 11 tend to overestimate fossil-fuel-based generation (particularly gas and coal) and misrepresent renewables such as hydropower and wind power. By contrast, EMERGING-E aligns closely with official data, improving the accuracy of national electricity generation structures. EMERGING-E enables robust, transparent, and science-based assessments of energy transitions to help guide effective energy and climate governance across global supply chains.",
       "keywords": [
         "Renewable energy",
         "Electricity",
@@ -5384,7 +5398,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000771",
-      "abstract": "",
+      "abstract": "International financial institutions are increasingly expected to support environmental and climate goals. Among them, the International Monetary Fund (IMF) plays a central role in shaping economic policy across much of the Global South through its lending programs. However, little systematic evidence exists of the environmental consequences of these programs, including their potential effects on deforestation. Here, we show that the IMF rarely targets forest management: only 34 of 35,915 conditions administered to low- and middle-income countries in the last four decades pertain explicitly to forest management. We further show that IMF programs are associated with a 9.2% increase in annual tree cover loss between 2000 and 2020. These effects are driven by fiscal and external sector reforms, suggesting that IMF borrowers seek to consolidate fiscal spending, potentially on environmental protection, and extract economic value from natural resources. Our findings indicate that understanding national environmental outcomes requires greater attention to international determinants.",
       "keywords": [
         "Deforestation (computer science)",
         "Balance (ability)",
@@ -5408,8 +5422,18 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000229",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The Haber-Bosch process enabled the inexpensive production of ammonia for fertilizers, industrial materials, and explosives, resulting in population and economic growth. However, its use disrupted the global nitrogen cycle, causing environmental and climate impacts. Within the energy transition, ammonia is introduced as a sustainable energy carrier, while the use-phase nitrogen impacts (again) are largely neglected.",
+      "keywords": [
+        "Ammonia",
+        "Production (economics)",
+        "Ammonia production",
+        "Population",
+        "Sustainability",
+        "Sustainable energy",
+        "Food energy",
+        "Sustainable production",
+        "Nitrogen"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101650",
@@ -5812,7 +5836,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600045X",
-      "abstract": "",
+      "abstract": "An increased focus on the blue economy across coastal African countries requires effective strategies for reducing marine resource conflicts to achieve goals of sustainable, equitable ocean development. We created a spatial database documenting marine resource conflicts (2008–2018) and conducted an expert survey to analyze patterns in conflict types and how they relate to actors, drivers, and resolution. Our findings indicate that 73% of conflicts were associated with access disputes and 28% were between non-fisheries sectors. National governments, small-scale or industrial fishers, and state enforcement agents were the most frequent actors. Illegal fishing, inequitable benefit distribution, and inadequate regulations were commonly reported conflict drivers. Less than one third of conflicts were resolved, but increased governance was cited as important for resolution. These results suggest policymakers may need to focus on access and benefit sharing issues and increase engagement of key actors in governance processes to realize blue economy ambitions.",
       "keywords": [
         "Resource (disambiguation)",
         "Government (linguistics)",
@@ -6051,7 +6075,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000503",
-      "abstract": "Over the past four decades, China’s rapid urban expansion has been accompanied by a growing wave of housing supply, while also spawning a rising stock of unfinished building projects (UBPs) with unavoidable socio-environmental consequences. The magnitude and spatial concentration of these UBPs, and the resulting stranded materials, emissions, and investments, however, remain unclear. Here, we inventory 1,779 UBPs across 142 Chinese cities by the end of 2023. UBPs are found to have wasted 485 ± 42 Mt of building materials, raised the real-estate sector’s carbon intensity by 9.6%, and imposed ∼2.6 million disability-adjusted life years (DALYs) of fine particulate matter (PM2.5)-related health burden, causing 347 ± 32 billion USD in economic losses borne mainly by homebuyers, developers, and contractors. Driven by land-financing dependence and aggressive development, UBPs clustered in newly developed suburbs, where they deepen service shortfalls and social inequality. A systemic policy framework is needed to manage these “urban stranded assets” and reduce these non-negligible burdens.",
+      "abstract": "Over the past four decades, China's rapid urban expansion has been accompanied by a growing wave of housing supply, while also spawning a rising stock of unfinished building projects (UBPs) with unavoidable socio-environmental consequences. The magnitude and spatial concentration of these UBPs, and the resulting stranded materials, emissions, and investments, however, remain unclear. Here, we inventory 1,779 UBPs across 142 Chinese cities by the end of 2023. UBPs are found to have wasted 485 ± 42 Mt of building materials, raised the real-estate sector's carbon intensity by 9.6%, and imposed ∼2.6 million disability-adjusted life years (DALYs) of fine particulate matter (PM 2.5 )-related health burden, causing 347 ± 32 billion USD in economic losses borne mainly by homebuyers, developers, and contractors. Driven by land-financing dependence and aggressive development, UBPs clustered in newly developed suburbs, where they deepen service shortfalls and social inequality. A systemic policy framework is needed to manage these \"urban stranded assets\" and reduce these non-negligible burdens.",
       "keywords": [
         "Socioeconomic status",
         "Resource (disambiguation)",
@@ -6152,7 +6176,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000205",
-      "abstract": "",
+      "abstract": "Climate change is increasing the likelihood of extreme weather that can drive outbreaks of climate-sensitive diseases. For example, the dengue burden has recently increased rapidly with unusually warm and wet conditions. However, linkages between historical climate change, extreme weather, and mosquito-borne disease have not been traced quantitatively. Here, we analyze the contribution of extreme precipitation to dengue in northwestern Peru during Cyclone Yaku in March 2023. Using generalized synthetic control methods, we estimate that 60% of cases were attributable to extreme precipitation, and more cyclone-attributable dengue cases occurred in warmer, more flood-susceptible, and more urban districts. Historical climate forcing has increased the likelihood of concurrent extreme precipitation and warm temperatures suitable for dengue transmission in northwestern Peru in March by 189%. This case study is one of the first to estimate cases of mosquito-borne illness caused by extreme weather conditions and shows that those conditions were made more likely by climate change.",
       "keywords": [
         "Outbreak",
         "Climate change",
@@ -6878,7 +6902,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000242",
-      "abstract": "",
+      "abstract": "Freshwater megafauna are frequently introduced to new ecosystems for their perceived economic benefits. Meanwhile, these large alien animals can have unintended negative impacts on these ecosystems and the people who depend on them. However, socio-economic impacts of alien freshwater megafauna have not been systematically assessed at a global scale. Here, we integrate a novel scoring system with the nature's contributions to people framework to quantify by magnitude and categorize by type the detrimental and beneficial impacts of alien freshwater megafauna on people. Benefits include commercial opportunities such as sport fishing or aquaculture; detriments include ecosystem changes undermining people's livelihoods and health. Some detrimental effects were indirect and hence difficult to identify, suggesting that they may be underreported. Since introductions of freshwater megafauna are likely to continue due to their economic benefits, we call for risk assessments and communication of potential consequences for people reliant on freshwater ecosystems.",
       "keywords": [
         "Megafauna",
         "Alien",
@@ -9459,7 +9483,7 @@
         2
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000102",
-      "abstract": "<h2>Summary</h2> Compostable plastics are an alternative to conventional plastics, but their environmental value is debated. Although designed to biodegrade under controlled conditions, their real-world performance depends on both material properties and waste-management systems. This primer elaborates the development and deployment of compostable plastics as a conditional strategy for reducing plastic pollution and achieving broader waste-reduction goals by reviewing material-design considerations, system-performance challenges, and regulatory requirements that shape market entry and credibility, highlighting food-contact authorizations as a key example. By outlining these challenges and requirements, this primer aims to help researchers and developers align material innovation with regulatory pathways and end-of-life realities. This resource aims to support researchers, developers, and policymakers working to create and commercialize effective, safe, and fit-for-purpose compostable plastic solutions.",
+      "abstract": "Compostable plastics are an alternative to conventional plastics, but their environmental value is debated. Although designed to biodegrade under controlled conditions, their real-world performance depends on both material properties and waste-management systems. This primer elaborates the development and deployment of compostable plastics as a conditional strategy for reducing plastic pollution and achieving broader waste-reduction goals by reviewing material-design considerations, system-performance challenges, and regulatory requirements that shape market entry and credibility, highlighting food-contact authorizations as a key example. By outlining these challenges and requirements, this primer aims to help researchers and developers align material innovation with regulatory pathways and end-of-life realities. This resource aims to support researchers, developers, and policymakers working to create and commercialize effective, safe, and fit-for-purpose compostable plastic solutions.",
       "keywords": [
         "Software deployment",
         "Resource (disambiguation)",
@@ -9881,7 +9905,7 @@
         2
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332225003896",
-      "abstract": "Global mineral demand is rising faster than supply growth, driven by efforts to scale renewable energy, transport, digital, and defense infrastructure. Yet, new mine commissioning has slowed, with production growth sustained by “brownfield” mining—expanding and intensifying extraction at existing sites. Because mine expansion is considered routine industry practice, questions about the global scale and scope of brownfielding are not prominent in public discussion or scientific research, limiting our understanding of its socioecological risks. Here, we leverage global production, exploration, and capital-expenditure data from 1998 to 2024 to uncover a decade-long acceleration in brownfield mining. We identify 366 brownfield mines, with 20.5% in ecologically intact or mixed landscapes, 51.5% near biodiversity or protected areas, and 77.9% above multiple high-risk thresholds, with activity concentrated in copper, gold, and iron ore in Chile, the United States, and Australia. A greater dependency on brownfielding requires governance that accounts for cumulative impacts and intergenerational liabilities.",
+      "abstract": "Global mineral demand is rising faster than supply growth, driven by efforts to scale renewable energy, transport, digital, and defense infrastructure. Yet, new mine commissioning has slowed, with production growth sustained by \"brownfield\" mining—expanding and intensifying extraction at existing sites. Because mine expansion is considered routine industry practice, questions about the global scale and scope of brownfielding are not prominent in public discussion or scientific research, limiting our understanding of its socioecological risks. Here, we leverage global production, exploration, and capital-expenditure data from 1998 to 2024 to uncover a decade-long acceleration in brownfield mining. We identify 366 brownfield mines, with 20.5% in ecologically intact or mixed landscapes, 51.5% near biodiversity or protected areas, and 77.9% above multiple high-risk thresholds, with activity concentrated in copper, gold, and iron ore in Chile, the United States, and Australia. A greater dependency on brownfielding requires governance that accounts for cumulative impacts and intergenerational liabilities.",
       "keywords": [
         "Brownfield",
         "Environmental impact assessment",
@@ -10085,7 +10109,7 @@
         3
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332225003975",
-      "abstract": "",
+      "abstract": "Bioclimatic feedbacks, driven by anthropogenic warming, produce indirectly human-caused emissions that contribute to a significant discrepancy between models, quantification frameworks, and atmospheric change. This discrepancy threatens climate ambitions, but policy is ill equipped to quantify the threat. Under two scenarios (SSP 1-1.9, roughly aligned with Paris Agreement goals and SSP 2-4.5, roughly current trajectory), thawing permafrost, increasing circumboreal fires, and warming tropical wetlands increase CO 2 emissions by ∼15 to ∼300 Tg C year −1 and CH 4 by ∼17 to ∼50 Tg C year −1 above 2020 levels by 2050, lessening time to the 1.5°C and 2.0°C Paris thresholds by ∼21%–25%. Policy frameworks and tools for quantifying/reporting indirect emissions from managed and unmanaged lands should be developed. The Earth system modeling community could inform this effort and would benefit from additional data. Ultimately, increased mitigation ambition to compensate for indirect emissions will likely proceed only if processes are measured and reported.",
       "keywords": [
         "Timeline",
         "Ecosystem",
@@ -10132,7 +10156,7 @@
         3
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332225003999",
-      "abstract": "<h2>Summary</h2> Global crop production needs to increase to meet the growing demand for food. Rising atmospheric CO<sub>2</sub> concentration offers opportunities to increase global productivity via the CO<sub>2</sub> fertilization effect on C<sub>3</sub> crops (including rice, <i>Oryza sativa</i> L.). However, whether the CO<sub>2</sub> fertilization effect can be sustained over generations remains unclear. Here, we show that the CO<sub>2</sub> fertilization effects on aboveground biomass, aboveground nitrogen uptake, and yield strongly depends on the number of generations in maternal elevated CO<sub>2</sub> (eCO<sub>2</sub>) for rice cultivars Yangdao 6 (Y6; indica subspecies) and Wuyungeng 23 (W23; japonica subspecies) in free-air CO<sub>2</sub> enrichment (FACE) experiments. DNA methylation and transcriptome changes provided epigenetic evidence on the multigenerational effects of maternal eCO<sub>2</sub> on aboveground biomass, aboveground nitrogen uptake, and yield in both cultivars/subspecies. Our results highlight that data from multigenerational exposure to FACE experiments are needed to accurately predict crop production and food security in a future high-CO<sub>2</sub> world.",
+      "abstract": "Global crop production needs to increase to meet the growing demand for food. Rising atmospheric CO 2 concentration offers opportunities to increase global productivity via the CO 2 fertilization effect on C 3 crops (including rice, Oryza sativa L.). However, whether the CO 2 fertilization effect can be sustained over generations remains unclear. Here, we show that the CO 2 fertilization effects on aboveground biomass, aboveground nitrogen uptake, and yield strongly depends on the number of generations in maternal elevated CO 2 (eCO 2 ) for rice cultivars Yangdao 6 (Y6; indica subspecies) and Wuyungeng 23 (W23; japonica subspecies) in free-air CO 2 enrichment (FACE) experiments. DNA methylation and transcriptome changes provided epigenetic evidence on the multigenerational effects of maternal eCO 2 on aboveground biomass, aboveground nitrogen uptake, and yield in both cultivars/subspecies. Our results highlight that data from multigenerational exposure to FACE experiments are needed to accurately predict crop production and food security in a future high-CO 2 world.",
       "keywords": [
         "Human fertilization",
         "Crop yield",
@@ -11514,7 +11538,7 @@
         2
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332225003884",
-      "abstract": "Cutting global nitrogen emissions by one-third for balanced and achievable SDGs by 2030",
+      "abstract": "Achieving the Sustainable Development Goals (SDGs) by 2030 is becoming difficult as global progress lags. Nitrogen is key to food security and environmental sustainability, making its management crucial for advancing multiple goals within the timeline. Here, we introduce an SDG-driven framework to evaluate nitrogen management under sustainable shared socioeconomic pathways. We show that meeting balanced and achievable targets, defined as an average nitrogen-related SDG index score above 75 with individual target scores exceeding 60, requires reducing global nitrogen emissions by 50 million tonnes (Tg) by 2030, 32% of 2020 levels, entailing decreases of 30 Tg in the atmosphere and 20 Tg in aquatic ecosystems. Existing technological strategies can deliver only half of the required mitigation, even with investments of $176 billion that yield economic benefits of $291 billion. This highlights that technologies alone are insufficient, and meaningful progress toward the SDGs depends on integrating mitigation techniques with broader socioeconomic transitions.",
       "keywords": [
         "Production (economics)",
         "Sustainability",
@@ -11941,7 +11965,7 @@
         1
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332225003525",
-      "abstract": "<h2>Summary</h2> Reducing uncertainty in future temperature projections is crucial for understanding climate impacts of anthropogenic CO<sub>2</sub> emissions and for guiding effective climate policy. This remains a complex challenge, as uncertainty in temperature projections arises from both climate and carbon-cycle feedbacks. Here, we introduce an observational constraint that integrates these feedbacks into emissions-driven simulations, reducing uncertainties in projected global temperature and effective transient climate response to cumulative CO<sub>2</sub> emissions (eTCRE). Our approach lowers the projected mid-21st century eTCRE from 2.2°C (1.3°C–3.1°C) to 1.9°C (1.3°C–2.5°C) per 1,000 GtC. It also reduces projected end-of-century global temperature from 4.6°C (2.8–6.4°C) to 4.2°C (2.9°C–5.4°C) and refines estimates of the remaining carbon budget since 2020 for limiting warming to 2°C from 352.2 (2.1–702.3) to 458.9 (251.4–666.3) GtC under high-emission representative concentration pathway (RCP)8.5/shared socioeconomic pathway (SSP)5–8.5 scenarios. These refined projections provide critical insights for policymakers, enabling more effective mitigation strategies.",
+      "abstract": "Reducing uncertainty in future temperature projections is crucial for understanding climate impacts of anthropogenic CO 2 emissions and for guiding effective climate policy. This remains a complex challenge, as uncertainty in temperature projections arises from both climate and carbon-cycle feedbacks. Here, we introduce an observational constraint that integrates these feedbacks into emissions-driven simulations, reducing uncertainties in projected global temperature and effective transient climate response to cumulative CO 2 emissions (eTCRE). Our approach lowers the projected mid-21st century eTCRE from 2.2°C (1.3°C–3.1°C) to 1.9°C (1.3°C–2.5°C) per 1,000 GtC. It also reduces projected end-of-century global temperature from 4.6°C (2.8–6.4°C) to 4.2°C (2.9°C–5.4°C) and refines estimates of the remaining carbon budget since 2020 for limiting warming to 2°C from 352.2 (2.1–702.3) to 458.9 (251.4–666.3) GtC under high-emission representative concentration pathway (RCP)8.5/shared socioeconomic pathway (SSP)5–8.5 scenarios. These refined projections provide critical insights for policymakers, enabling more effective mitigation strategies.",
       "keywords": [
         "Global temperature",
         "Climate change",
