@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T23:45:26.985860+00:00",
+  "generated_at": "2026-06-14T23:49:36.000585+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/ele.70420",
+      "doi_url": "https://doi.org/10.1111/ele.70420",
+      "title": "Neighbourhood Diversity Effects on Tree Growth Shift Over Time in a Long‐Term Forest Biodiversity Experiment",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-14",
+      "published_date_display": "2026-06-14",
+      "published_parts": [
+        2026,
+        6,
+        14
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70420",
+      "abstract": "ABSTRACT Tree species richness–productivity relationships (SPRs) at community level are generally positive but can weaken at individual levels due to increased competition. Using 12 years of growth data from a large forest biodiversity experiment, we examined effects of neighbourhood tree species richness, basal area, and niche differences on focal tree growth over time. As stands aged, the effect of greater neighbourhood basal area in more species‐rich neighbourhoods on focal tree growth shifted from positive to negative, but this negative effect was offset by increasingly positive effects arising from greater niche differentiation between focal trees and their neighbours. Focal trees with acquisitive traits showed stronger growth responses to neighbourhood competition and niche difference; while the responses to neighbourhood richness were more positive in dry than in wet years. Our findings suggest that larger niche differences can balance increased competition in more species‐rich forest stands, thus allowing these stands to maintain a greater total biomass than less diverse forest stands.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2745.70371",
       "doi_url": "https://doi.org/10.1111/1365-2745.70371",
       "title": "Trade‐offs and bet‐hedging in clonal offspring allocation",
@@ -51,7 +69,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70371",
       "abstract": "Abstract Reproduction is vital to maintain populations and species, yet because of finite resources, organisms often specialise in their reproductive allocation strategies, such as with many plants prioritising seed size or number (i.e. size/number trade‐off). Alternatively, plants may make multiple types of seeds, as seed heteromorphism, a form of bet‐hedging to increase offspring survival under variable environmental conditions. Those strategies are well described for seeds, but many plants also reproduce clonally, and such reproductive allocation strategies remain unknown for clonal offspring because of difficulties in measuring and standardising allocation to individual offspring across a large number of species. To better understand potential trends in clonal offspring allocation, we studied the southern African clade of the genus Oxalis , where mature offspring bulbs are physiologically distinct from the mother plant. We assessed number, size, protection and placement of clonal offspring for 104 species grown from individual bulbs in pots in a greenhouse. We also measured investment (as dry mass) in below‐ground support structures: spacer stems and roots, tunics and contractile roots. We found a trade‐off between size and number of clonal offspring, where plants produce fewer large bulbs and more small bulbs, similar to the well‐known trade‐off between seed size and number. We also identified a trade‐off in distribution versus protection of offspring bulbs, as indicated by greater offspring bulb production correlated with investment in below‐ground spacers. For two thirds of the species, individual parental bulbs placed offspring in multiple locations simultaneously, here identified as clonal offspring heteromorphism. Offspring bulb size also varied with depth, with individual plants producing relatively larger bulbs deeper in the soil and smaller bulbs closer to or above the soil surface. Synthesis . This is the first study assessing trends in offspring allocation and protection across a large set of species. These trends indicate multiple coordinated trade‐offs and potential bet‐hedging, implying that investment in clonal reproduction is resource‐limited and adapted for unpredictable environmental conditions.",
-      "keywords": []
+      "keywords": [
+        "Offspring",
+        "Reproduction",
+        "Genus",
+        "Parental investment",
+        "Reproductive success",
+        "Parent–offspring conflict"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70366",
@@ -69,7 +94,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70366",
       "abstract": "Abstract Understanding how plant phenology responds to rapid global change is critical for predicting vegetation dynamics and ecosystem functioning. While climate warming accelerates phenological shifts, particularly advancing flowering in alpine species, the role of biodiversity loss remains less clear. Drawing on theory suggesting that competition for resources among coexisting species can delay reproduction, we predicted that plant diversity loss would accelerate reproductive phenology via competitive release. Through a 12‐year plant species removal experiment in a Tibetan alpine meadow, we demonstrate that plant diversity loss restructured alpine phenology by driving earlier flowering (strongest in forbs) and later fading (i.e. delayed flowering senescence, strongest in grasses). These shifts extended flowering durations in most species, with stronger effects following the removal of dominant sedges or diverse forbs than after the loss of abundant grasses or proportional thinning of species across functional groups. Population‐level trends mirrored individual responses. Remaining species consistently faded later and extended their flowering durations across all removal treatments, although earlier flowering occurred specifically in grasses following forb loss. Phenological shifts correlated more strongly with declining species richness than with changes in soil temperature or nutrients. Across functional groups, earlier flowering was correlated with the number of species lost, whereas delayed senescence and extended flowering durations were observed in species‐poor communities. Synthesis. Our study provides robust experimental evidence that biodiversity loss restructures flowering phenology across scales—from the individual to the population and community levels—primarily through competitive release, regardless of whether a few dominant species, many common species, or a proportional thinning of species across functional groups are lost. These findings highlight a biotically driven mechanism of phenological change, with cascading implications for plant community assembly, species coexistence and ecosystem resilience under global change.",
-      "keywords": []
+      "keywords": [
+        "Phenology",
+        "Forb",
+        "Biodiversity",
+        "Competition (biology)",
+        "Ecosystem",
+        "Species richness",
+        "Climate change",
+        "Alpine plant",
+        "Population"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70448",
@@ -87,7 +122,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70448",
       "abstract": "Abstract Heatwaves are a growing threat to marine ecosystems. Kelps are particularly vulnerable because they require cool, nutrient‐rich water to thrive. Heatwaves can also trigger increased herbivory by sea urchins. Management interventions—including re‐seeding kelp spores and manually removing urchins—could mitigate heatwave damage or aid recovery. However, we do not yet know the optimal timing of these management actions or whether combining them enhances their effectiveness. We used a stochastic, stage‐structured model of kelp‐urchin population dynamics, which included an urchin‐grazing behavioural switch and was parameterized to represent bull kelp ( Nereocystis luetkeana ) forests along the coast of Oregon, USA. We simulated a 2‐year heatwave and considered two urchin predator scenarios: one in which the sunflower seastar Pycnopodia helianthoides was driven to local extinction by seastar wasting disease during the heatwave (the historical reality), and the counterfactual where seastar densities remained constant. All management interventions individually were notably more effective when seastars were present. When each was enacted alone, kelp seeding was less effective than urchin removal. Both interventions improved kelp forest persistence most when begun before or during the heatwave, but were not effective if started and completed before the heatwave began. The effectiveness of both interventions increased with increasing effort (% biomass removed or added), but with diminishing returns. Combining urchin culling and kelp seeding was highly effective, and even more so if urchin culling started first, with large synergistic gains starting at low intensities of kelp seeding (5% of pre‐heatwave biomass) and higher intensities of urchin removal (25% of pre‐heatwave biomass). Those synergies can be achieved when actions start after a heatwave has begun, easing the need to anticipate heatwaves. Synthesis and applications . We found that urchin culling and kelp seeding interventions can be effective at rebuilding kelp forests, but require intensive effort (e.g. removing 25%–50% of urchins over multiple years), especially in the absence of predators. Our results provide recommendations for the magnitude and timing of culling and seeding that would be needed to provide desired levels of kelp forest resilience.",
-      "keywords": []
+      "keywords": [
+        "Kelp",
+        "Kelp forest",
+        "Overgrazing",
+        "Invasive species",
+        "Population",
+        "Marine protected area",
+        "Sea urchin",
+        "Psychological resilience"
+      ]
     },
     {
       "doi": "10.1111/gcb.70969",
@@ -105,7 +149,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70969",
       "abstract": "ABSTRACT Microplastic (MP) pollution may influence aquatic greenhouse gas (GHG) emissions by altering dissolved organic matter (DOM)–microbe coupling, yet reported effects remain inconsistent across ecosystems and exposure regimes. Here, we synthesized evidence from 16 studies to quantify the net effects of MPs on CO 2 , CH 4 , and N 2 O fluxes under ambient DOM conditions. Our meta‐analysis indicates that MP exposure significantly increases CO 2 emissions and decreases N 2 O fluxes, whereas CH 4 responses show a non‐significant positive trend with high variability. Exposure duration and polymer identity emerge as key moderators, indicating that MP effects are context‐dependent rather than uniform. Short‐term exposure tends to suppress carbon mineralization, whereas long‐term exposure is more often associated with GHG production, consistent with a time‐dependent trajectory potentially shaped by polymer aging. Mechanistically, this pattern may reflect initial DOM adsorption and humification that reduce substrate availability, followed by the release of bioavailable MP‐derived compounds that may stimulate microbial respiration, methanogenesis, and denitrification. Overall, MPs reshape aquatic carbon and nitrogen cycling within the overarching framework of DOM, which may ultimately influence GHG emissions under certain conditions. These findings provide a quantitative basis for reconciling conflicting observations and improving predictions of the climate relevance of MP pollution in aquatic ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Dissolved organic carbon",
+        "Aquatic ecosystem",
+        "Greenhouse gas",
+        "Ecosystem",
+        "Microplastics",
+        "Pollution",
+        "Organic matter",
+        "Freshwater ecosystem",
+        "Carbon fibers"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70444",
@@ -2473,7 +2527,7 @@
         25
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70938",
-      "abstract": "Antarctica is an extreme region in many ways and long term marine ice monitoring shows 2025 was the most of those extremes. Seasonal sea ice duration was observed daily at Rothera Research Station, Antarctica since 1985 and seabed markers were monitored for iceberg scour hits since 2002. Two decades of data showed that sea ice duration showed a strong inverse relationship with iceberg scouring. In 2025 sea ice duration was zero days, a record low and 68% of seabed markers were hit by icebergs, a record high. Long term monitoring data showed that ice scour responses to benthos were most significant after a two year lag period. Sustained seasonal sea ice losses in a warming world suggest these extremes may become normal in both levels in the coming decades and assemblages may take decades to recover and became pioneer dominated. A profound change in the polar oceans has been the drastic loss of seasonal sea ice. Such marine ice has been recorded daily at Ryder Bay, Adelaide Island (Antarctica) since 1985, and iceberg impacts on the seabed monitored by SCUBA divers annually since 2002. These showed an extreme event of low seasonal sea ice duration in 2007/8 (of just 9 days). However, in 2025, for the first time, zero days seasonal sea ice duration was recorded. Coincident with the 2007/8 extreme low seasonal sea ice event, an extreme high of iceberg scouring of the seabed was also recorded (53% of seabed at 5–25 m hit). As two decades before, the 2025 extreme low in seasonal sea ice was coincident with a record high of seabed iceberg impact; 68.4% of the seabed at 5–25 m depth was scoured. This was the most extreme of both marine measures and the biggest outlier recorded in the significant (r2 = 57, F = 31.5, p < 0.001) relationship between seasonal sea ice duration versus seabed iceberg scour (anomalies, see Figure 1a). Assessment of iceberg scouring has occurred annually since 2002 (Barnes et al. 2024), but as there are decades more seasonal sea ice duration than ice-scour data, we hindcast the relationship to generate likely past seasonal ice versus ice-scouring data span (grey circles in Figure 1a). Raw data of ice-scour impact frequency with time shows context of the ‘background’ variability measured in the last two decades with which to compare the 2025 data. This (2025) event was the second-most severe at 10 m depth and the most severe at both 5 m and 25 m (Figure 1b). Many icebergs with a wide range of keel sizes were involved. The effects of this extreme scouring event on local assemblages, ecology and biodiversity may not be calculable for many years. Effects of iceberg scouring on mortality of model species (the bryozoan Fenestrulina rugula) in years leading up to this event had a strong relationship between iceberg scour frequency and annual bryozoan mortality (r2 = 83.3, F = 70.6, p < 0.001, see also Barnes and Souster 2011). Likewise, monitoring of macro and mega-species richness (data extended from Zwerschke et al. 2021), showed a strong inverse relationship with ice-scour levels up to the extreme event timing (r2 = 55.8, F = 19.9, p = 0.005). However, to meaningfully assess how such extreme events impact local biodiversity after the event, we calculated when and how long monitoring must continue to account for lag time and/or cumulative impact. The significant relation between species richness (loss) and iceberg scour measured the same year explained 37.8% of data variability (r2). Model fit was higher the year after, and highest (60.2%) 2 years after the scouring, before declining (though still significant up to 6 years after). On that basis, it seems likely that only in late 2027 may reassessment of local biodiversity reveal the maximal impact of this extreme physical event. The strong inverse relationship between seasonal sea ice duration and iceberg scouring of the shallow seabed (figure 1a and Smale et al. 2008) is driven by the frozen sea surface hindering iceberg movement, reduces scouring. Thus, there is a continuous link from climate warming through to disturbance of seabed biodiversity. However, monitoring is very challenging because of site remoteness and the need for long-term data. Extreme events can span wide spatial and temporal scales, as is perhaps most obviously embodied by mass extinctions and their causes. The societal inescapability of many extreme events, such as meteorite impacts, volcanism and tsunamis, has been an important driver of research on their past impact and potential for prediction (Piotrowski et al. 2017). However, even rare events can occur often enough that more than one can happen at similar times to become multipliers (Rabinovich et al. 2025). The frequency and severity of extreme events are increasingly receiving societal and scientific attention and concern because of hazards they present to human welfare globally (Abatzoglou et al. 2025). Without such a direct human health link, and although the polar regions constitute a fifth of Earth, we have been much less aware of, or monitoring for extreme events there. It has taken multidecade monitoring to detect the increasing frequency of Arctic extreme events (Aalto et al. 2026) and a decade of diving the shallow Antarctic seabed to reveal a first-seen mass recruitment of polar invertebrates (Dayton 1989). Understandably, focus on sea ice losses has been on the impact on pagophilic vertebrates that depend on its surface for pups and chicks (e.g., Fretwell et al. 2023). Sea-ice and seabed ice-scour only monitored at two Antarctic research stations; Argentina's Carlini and UK's Rothera along the West Antarctic Peninsula. From the decades of data recorded at Rothera reported here, it is clear that 2025 seasonal sea ice data and ice scour are not only each the most extreme ever measured, but also the most extreme deviation from the normal relationship between these variables. Sean McLoughlin: methodology, investigation, writing – review and editing, data curation. Ali Hammond: data curation, writing – review and editing, methodology, investigation. David K. A. Barnes: conceptualization, investigation, writing – original draft, methodology, writing – review and editing, data curation, supervision, formal analysis. The authors thank Rothera Research Station marine team past and present for support in collecting this time series. The authors declare no conflicts of interest. The data that supports the findings of this study are available in the Supporting Information of this article. Data S1: gcb70938-sup-0001-Supinfo.ods. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.",
+      "abstract": "Antarctica is an extreme region in many ways and long term marine ice monitoring shows 2025 was the most of those extremes. Seasonal sea ice duration was observed daily at Rothera Research Station, Antarctica since 1985 and seabed markers were monitored for iceberg scour hits since 2002. Two decades of data showed that sea ice duration showed a strong inverse relationship with iceberg scouring. In 2025 sea ice duration was zero days, a record low and 68% of seabed markers were hit by icebergs, a record high. Long term monitoring data showed that ice scour responses to benthos were most significant after a two year lag period. Sustained seasonal sea ice losses in a warming world suggest these extremes may become normal in both levels in the coming decades and assemblages may take decades to recover and became pioneer dominated.",
       "keywords": [
         "Iceberg",
         "Sea ice",
@@ -4769,7 +4823,7 @@
         8
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70915",
-      "abstract": "",
+      "abstract": "Huang, X., L. Yang, S. Zhou, et al. 2025. “ Plastic Biofilms as Hotspots of Nitrogen Cycling in Estuarine Ecosystems: Comparative Ecological, Genomic, and Transcriptomic Analysis Across Substrates.” Global Change Biology, 31(7): e70329. https://doi.org/10.1111/gcb.70329. In the originally published article, the affiliation “University of the Chinese Academy of Sciences, Beijing, China” was incorrect. This should be revised as “University of Chinese Academy of Sciences, Beijing, China.” The same error is also present in the Supporting Information and should be corrected accordingly. We apologize for this error.",
       "keywords": [
         "Cycling",
         "Estuary",
@@ -9855,7 +9909,7 @@
         9
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70381",
-      "abstract": "",
+      "abstract": "Louchart, A.P., Drost, A.M., Lin, C. et al. “Individual-level trait responses in cyanobacterial populations and communities.” Ecology Letters 29:e70348. https://doi.org/10.1111/ele.70348. In the above article, the name of an author was incorrectly spelt in both references and in-text citations. The name ‘de Van Waal, D.B.’ should have read ‘Van de Waal, D.B’. Moreover, the journal, issue and page numbers for the reference Komárek and Komárková (2002) were missing. The full reference should be ‘Komárek, J. and Komárková, J. 2002. Review of the European Microcystis morphospecies (Cyanoprokaryotes) from nature. Czech Phycology 2: 1–24’. We apologise for these errors.",
       "keywords": [
         "Trait",
         "Cyanobacteria",
@@ -11407,7 +11461,7 @@
         30
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70350",
-      "abstract": "",
+      "abstract": "Alonso Chávez, V., Brown, N., Parnell, S., Combes, M., Dyke, A., Hall, C., Karlsdóttir, B., Marzano, M., Morris, J., O'Brien, L., Williams, D., & Milne, A. E. (2026). Surveillance of ash trees under multiple threats: Integrating emerald ash borer and ash dieback dynamics with stakeholder behaviour. Journal of Applied Ecology, 63, e70304. https://doi.org/10.1111/1365-2664.70304 In the article by Alonso Chávez et al. (2026), the author name Matt Combes was misspelt. This has now been corrected in the original article. We apologize for this error.",
       "keywords": [
         "Emerald ash borer",
         "Emerald",
@@ -21050,7 +21104,7 @@
         21
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70286",
-      "abstract": "",
+      "abstract": "Biasotto, L. D., Kindel, A., Pacífico, E. C., Filadelfo, T., Paschotto, F. R., Favoretto, G. R., Sousa, A. E. E. A., Scariot, A., & Ascensão, F. (2025). Mapping priority areas to mitigate the risk of electrocution of range-restricted bird species. Journal of Applied Ecology, 62, 2787–2799. https://doi.org/10.1111/1365-2664.70133 In the paper by Biasotto et al. (2025), one of the author's names was incorrect. The correct name is Antônio Emanuel B. A. Sousa, and this has been updated in the original article. We apologize for this error.",
       "keywords": [
         "Electrocution",
         "Risk assessment"
@@ -21649,7 +21703,7 @@
         14
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70266",
-      "abstract": "",
+      "abstract": "Knotková, K., Těšitelová, T., Knotek, A., Axmanová, I., Chytrý, K., Chytrá, H., Plesková, Z., Preislerová, Z., & Těšitel, J. (2025). Biocontrol by a native hemiparasite: Rapid suppression of noxious invasive plants in a field experiment. Journal of Applied Ecology, 62(12), 3514-3524. https://doi.org/10.1111/1365-2664.70183. In the originally published version of this article, the institutional affiliations of Adam Knotek and Kryštof Chytrý were incorrectly assigned. The correct affiliations are as follows: We apologize for this error.",
       "keywords": [
         "Invasive species",
         "Noxious weed",
@@ -22246,7 +22300,7 @@
         9
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70270",
-      "abstract": "",
+      "abstract": "Cover image: An Eastern Bluebird (Sialia sialis) perched on a photovoltaic (PV) solar panel at an ecovoltaic site in southern Michigan, USA. Ecovoltaic PV designs combine photovoltaic electricity generation with restoration of ecosystem function, including habitat enhancement for birds and other wildlife. Full details are available in the article by Walston et al., https://doi.org/10.1111/1365-2664.70208. Photo: © Leroy Walston.",
       "keywords": [
         "Nucleofection",
         "Gestational period",
