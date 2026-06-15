@@ -240,7 +240,9 @@ if (citationCount) {
 
         for (const source of sources) {
             try {
-                const response = await fetch(source, { cache: 'no-store' });
+                const url = new URL(source, window.location.href);
+                url.searchParams.set('t', Date.now().toString());
+                const response = await fetch(url, { cache: 'no-store' });
 
                 if (!response.ok) {
                     throw new Error(`Failed to load citations: ${response.status}`);
