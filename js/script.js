@@ -93,6 +93,7 @@ const homeTranslations = {
         researchEcosystem: '生态系统评估',
         researchRemote: '遥感',
         researchSpatial: '空间理论与方法',
+        researchGeoai: 'GeoAI',
         educationTitle: '教育背景',
         degreeBs: '<strong>本科</strong>',
         educationBs: '<a href="https://www.sxu.edu.cn/" target="_blank" rel="noreferrer">山西大学</a>，中国太原 / 环境与资源学院 / 自然地理与资源环境',
@@ -141,6 +142,7 @@ const homeTranslations = {
         researchEcosystem: '生態系評価',
         researchRemote: 'リモートセンシング',
         researchSpatial: '空間理論と方法',
+        researchGeoai: 'GeoAI',
         educationTitle: '学歴',
         degreeBs: '<strong>学士</strong>',
         educationBs: '<a href="https://www.sxu.edu.cn/" target="_blank" rel="noreferrer">山西大学</a>，中国・太原 / 環境資源学院 / 自然地理・資源環境',
@@ -227,14 +229,33 @@ if (citationCount) {
     const citationDataPath = window.location.pathname.includes('/pages/')
         ? '../data/citations.json'
         : 'data/citations.json';
+    const liveCitationDataPath = `${window.location.origin}/api/citations`;
 
-    fetch(citationDataPath, { cache: 'no-store' })
-        .then((response) => {
-            if (!response.ok) {
-                throw new Error(`Failed to load citations: ${response.status}`);
+    const loadCitationData = async () => {
+        const sources = window.location.protocol === 'http:' || window.location.protocol === 'https:'
+            ? [liveCitationDataPath, citationDataPath]
+            : [citationDataPath];
+
+        let lastError;
+
+        for (const source of sources) {
+            try {
+                const response = await fetch(source, { cache: 'no-store' });
+
+                if (!response.ok) {
+                    throw new Error(`Failed to load citations: ${response.status}`);
+                }
+
+                return response.json();
+            } catch (error) {
+                lastError = error;
             }
-            return response.json();
-        })
+        }
+
+        throw lastError;
+    };
+
+    loadCitationData()
         .then((data) => {
             const citations = Number(data.citations);
             citationCount.textContent = Number.isFinite(citations)
@@ -247,7 +268,7 @@ if (citationCount) {
         });
 }
 
-// ==================== 
+// ====================
 // Subscribe Form
 // ====================
 

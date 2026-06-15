@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Liu Haiyang CV</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 12mm;
+        }
+
+        :root {
+            --text: #000000;
+            --muted: #6f7782;
+            --border: #e6e5e1;
+            --surface: #ffffff;
+            --page: #fbfbfa;
+            --accent: #1a5fb4;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            color: var(--text);
+            background: var(--page);
+            font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            font-size: 10pt;
+            line-height: 1.5;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: underline;
+            text-underline-offset: 2px;
+        }
+
+        .page {
+            width: 186mm;
+            margin: 0 auto;
+            padding: 8mm;
+            background: var(--surface);
+        }
+
+        .hero {
+            display: grid;
+            grid-template-columns: 30mm 1fr;
+            gap: 8mm;
+            align-items: center;
+            padding-bottom: 7mm;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .portrait {
+            width: 30mm;
+            height: 30mm;
+            object-fit: cover;
+            border: 1px solid var(--border);
+            border-radius: 50%;
+            background: var(--surface);
+        }
+
+        .name-block {
+            margin: 0;
+        }
+
+        .name {
+            display: block;
+            margin: 0;
+            color: var(--text);
+            font-size: 10pt;
+            line-height: 1.5;
+            font-weight: 650;
+            letter-spacing: 0;
+        }
+
+        .summary {
+            margin: 4mm 0 0;
+            max-width: 135mm;
+            color: var(--text);
+        }
+
+        .contact {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.2mm 6mm;
+            margin-top: 4mm;
+            color: var(--text);
+        }
+
+        .contact span {
+            overflow-wrap: anywhere;
+        }
+
+        .label {
+            font-weight: 700;
+        }
+
+        section {
+            margin-top: 5mm;
+        }
+
+        h2 {
+            margin: 0 0 3mm;
+            padding-bottom: 1.8mm;
+            border-bottom: 1px solid var(--border);
+            color: var(--muted);
+            font-size: 10pt;
+            line-height: 1.3;
+            font-weight: 700;
+            letter-spacing: 0;
+        }
+
+        h3 {
+            margin: 0;
+            color: var(--text);
+            font-size: 10pt;
+            line-height: 1.35;
+            font-weight: 700;
+        }
+
+        p {
+            margin: 0 0 1.6mm;
+        }
+
+        ul,
+        ol {
+            margin: 0;
+            padding-left: 5mm;
+        }
+
+        li {
+            margin: 0 0 1.5mm;
+            padding-left: 0.5mm;
+        }
+
+        .entry {
+            margin-bottom: 3.2mm;
+            padding-bottom: 3.2mm;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .entry:last-child {
+            margin-bottom: 3.2mm;
+            padding-bottom: 3.2mm;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .entry-head {
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            gap: 6mm;
+            margin-bottom: 1mm;
+        }
+
+        .date {
+            flex: 0 0 auto;
+            color: var(--muted);
+            font-size: 10pt;
+            white-space: nowrap;
+        }
+
+        .section-grid {
+            display: grid;
+            gap: 4mm;
+        }
+
+        .publication-list li {
+            margin-bottom: 3mm;
+        }
+    </style>
+</head>
+<body>
+    <article class="page">
+        <header class="hero">
+            <img class="portrait" src="../images/profile.png" alt="Portrait of Liu Haiyang">
+            <div>
+                <h1 class="name-block">
+                    <span class="name">Liu Haiyang</span>
+                    <span class="name">刘 海洋</span>
+                    <span class="name">リユウ カイヨウ</span>
+                </h1>
+                <p class="summary">Ph.D. student in Forest Field Science at Hokkaido University, working across landscape ecology, ecosystem assessment, remote sensing, and spatial theory.</p>
+                <div class="contact">
+                    <span><span class="label">Email:</span> haiyang.liu.q6@elms.hokudai.ac.jp</span>
+                    <span><span class="label">Website:</span> kevinoceanliu.github.io</span>
+                    <span><span class="label">Google Scholar:</span> Pup0q0gAAAAJ</span>
+                    <span><span class="label">ORCID:</span> 0009-0009-8701-0538</span>
+                    <span><span class="label">GitHub:</span> KevinOceanLiu</span>
+                </div>
+            </div>
+        </header>
+
+        <section>
+            <h2>Education and Research Experience</h2>
+            <div class="section-grid">
+                <div class="entry">
+                    <div class="entry-head">
+                        <h3>Ph.D. Student, Hokkaido University</h3>
+                        <span class="date">2025/04-2028/04</span>
+                    </div>
+                    <p>Graduate School of Environmental Science / Forest Field Science, Sapporo, Japan.</p>
+                </div>
+                <div class="entry">
+                    <div class="entry-head">
+                        <h3>Visiting Scholar, Curtin University</h3>
+                        <span class="date">2026/10-2026/12</span>
+                    </div>
+                    <p>School of Design and the Built Environment, Perth, Australia.</p>
+                </div>
+                <div class="entry">
+                    <div class="entry-head">
+                        <h3>Research Assistant, The Hong Kong Polytechnic University</h3>
+                        <span class="date">2024/07-2025/03</span>
+                    </div>
+                    <p>Shenzhen Research Institute, Shenzhen, China.</p>
+                </div>
+                <div class="entry">
+                    <div class="entry-head">
+                        <h3>M.S., University of Chinese Academy of Sciences</h3>
+                        <span class="date">2020/09-2023/06</span>
+                    </div>
+                    <p>Chengdu Institute of Biology / Biology and Medicine, landscape ecology and restoration ecology.</p>
+                </div>
+                <div class="entry">
+                    <div class="entry-head">
+                        <h3>B.S., Shanxi University</h3>
+                        <span class="date">2015/09-2019/06</span>
+                    </div>
+                    <p>School of Environment and Resources / Physical Geography and Resource Environment.</p>
+                </div>
+                <div class="entry">
+                    <div class="entry-head">
+                        <h3>Member, Curtin University Geospatial Intelligence Lab</h3>
+                        <span class="date">2025/07-present</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <h2>Skills, Languages, and Professional Service</h2>
+            <ul>
+                <li><strong>GIS:</strong> ENVI, ArcGIS, QGIS, Google Earth Engine, GeoDa</li>
+                <li><strong>Ecology:</strong> Fragstats</li>
+                <li><strong>Programming:</strong> R</li>
+                <li><strong>Languages:</strong> Chinese (Native), English (Fluent), Japanese (Beginner)</li>
+                <li><strong>Peer Reviewer:</strong> International Journal of Applied Earth Observation and Geoinformation (Q1, 5 reviews); All Earth (Q2, 1 review); GIScience &amp; Remote Sensing (Q1, 1 review).</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Selected Publications</h2>
+            <ol class="publication-list">
+                <li><strong>Liu, H.</strong>, Song, Y., &amp; Yi, W. (2026). Degree of spatial interpretability. <em>International Journal of Geographical Information Science</em> (Q1, IF 5.1).</li>
+                <li><strong>Liu, H.</strong>, Song, Y., Yi, W., &amp; Zhang, P. (2026). Degree of geocomplexity for diagnosing spatial pattern loss beyond prediction accuracy. <em>GIScience &amp; Remote Sensing</em> (Q1, IF 6.9).</li>
+                <li><strong>Liu, H.</strong>, Tang, Y., Wang, H., &amp; Bao, W. (2024). Forty-two-year dynamics of vegetation landscape restoration pattern and its characteristics in Dagou basin, Maoxian County, Sichuan Province. <em>Acta Ecologica Sinica</em>.</li>
+                <li><strong>Liu, H.</strong> (2022). Dynamics of vegetation landscape restoration and its ecological effects. <em>Journal of West China Forestry Science</em>.</li>
+                <li>Sun, Y., Wu, G., Song, Y., <strong>Liu, H.</strong>, Wang, L., Zhang, Z., &amp; Hu, J. (2026). Local effects of pattern interactions in driving urbanization. <em>International Journal of Applied Earth Observation and Geoinformation</em> (Q1, IF 8.6).</li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>Academic Conference</h2>
+            <ul>
+                <li>Effects of Sasa mass-flowering and dieback on forest tree regeneration: Preliminary results from a seedling survey (2024-2025) in the Nakagawa Experimental Forest.</li>
+                <li>Poster presented at the JaLTER Open Science Meeting 2025 (JaLTER-OSM), Nakagawa, Hokkaido, Japan, October 7-8, 2025.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Awards</h2>
+            <ul>
+                <li>Hokkaido University EXEX Doctoral Fellowship (2025-2028)</li>
+                <li>EXEX Doctoral Fellowship Overseas Co-Learning Program Grant, Hokkaido University, 2026</li>
+                <li>JASSO Scholarship for Privately-Financed International Students (2025.5-2026.5)</li>
+                <li>Outstanding Communist Party Member, Chengdu Institute of Biology, Chinese Academy of Sciences (2023)</li>
+                <li>Outstanding Student Award, Chengdu Institute of Biology, Chinese Academy of Sciences (2023)</li>
+                <li>Scholarship for the Second Year of Studies, School of Environment and Resources, Shanxi University (2017)</li>
+            </ul>
+        </section>
+    </article>
+</body>
+</html>
