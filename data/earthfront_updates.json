@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:50:42.457051+00:00",
+  "generated_at": "2026-06-15T23:25:15.992489+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,96 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41893-026-01854-3",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01854-3",
+      "title": "Rooftop photovoltaic-powered electric vehicle charging for accelerated decarbonization",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01854-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01869-w",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01869-w",
+      "title": "Human health effects of amine-based carbon capture and storage in the US electricity sector",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01869-w",
+      "abstract": "Abstract Postcombustion carbon capture and storage (CCS) can reduce CO 2 emissions from coal and natural gas combined cycle (NGCC) power plants. Integrating CCS affects other air pollutant emissions as well. Flue gas must be pretreated to avoid undesirable reactions between pollutants and solvents, whereas amine-based solvents can degrade, leading to NH 3 emissions. Here we explore the air pollution and CO 2 emissions impacts of national-scale postcombustion CCS adoption at coal and NGCC plants using monoethanolamine and a mixture of 2-amino-2-methyl-1 propanol and piperazine (CESAR1) as representative solvents. If CCS retrofits are only viable on newer facilities, 97% of NGCC plant emissions are addressable versus 27% of coal plant emissions. Potential human health benefits of CCS retrofits are concentrated at coal plants, where the net benefits of added flue gas pretreatment are substantial, regardless of solvent. NGCC plants, however, require NH 3 emissions controls and/or modern solvents, as using monoethanolamine without NH 3 emissions controls could increase net human health burdens fourfold. Thus, the human health impacts from adopting postcombustion CCS using amine-based solvents depend on solvent choice, fuel type, existing flue gas concentration and NH 3 emission controls. Careful consideration of such factors can maximize the climate and health benefits of postcombustion CCS deployment.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01875-y",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01875-y",
+      "title": "Association of mortality and combined oxidative capacity of ozone and nitrogen dioxide",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01875-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02000-6",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02000-6",
+      "title": "Tracking hydrogen migration in iron under Earth’s core conditions",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02000-6",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02013-1",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02013-1",
+      "title": "Major contribution of anaplerosis to inorganic carbon fixation in the dark ocean",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02013-1",
+      "abstract": "Abstract While CO 2 fixation by photo- and chemolithoautotrophs is a central process of the global carbon cycle, many organisms also incorporate inorganic carbon into organic compounds through anaplerotic carbon fixation, a process that replenishes intermediates of central metabolic pathways. However, the active drivers and quantitative importance of anaplerotic carbon fixation in the oceanic carbon cycling remain poorly understood. Here, through analysis of global ocean multi-omics datasets, we identified widespread expression of enzymes involved in this process, especially phosphoenolpyruvate carboxylase. The heterotrophic bacterial genus Alteromonas , a globally distributed marine taxon lacking genes for autotrophic carbon fixation pathways, exhibited particularly high transcriptional and proteomic activity for this enzyme. Laboratory incubations confirmed that Alteromonas assimilated dissolved inorganic carbon (DIC) into biomass, with rates regulated by temperature and organic matter availability. Single-cell tracer analyses of the deep ocean microbial communities quantified Alteromonas ’s contribution at about 17% of total dark DIC fixation (median; confidence interval, 10–28%), equivalent to a potential global flux of about 0.2 PgC yr −1 . These results reveal substantial DIC fixation via anaplerosis, indicating that dark carbon fixation is partly supported by heterotrophic metabolism and modulated by environmental conditions, with responses that may differ from those of canonical autotrophic processes.",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41893-026-01888-7",
       "doi_url": "https://doi.org/10.1038/s41893-026-01888-7",
@@ -1067,6 +1157,23 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101740",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101740",
+      "title": "Reforestation increases water inequality under low warming but reduces water availability under high warming",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001417",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.oneear.2026.101715",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101715",
       "title": "Operationalizing biodiversity credits to catalyze coral reef management and investment",
@@ -1114,6 +1221,23 @@
         "Global warming",
         "Ectotherm"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101739",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101739",
+      "title": "Joint compliance with food security and environmental constraints limits the global potential of energy crops",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001405",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101718",
