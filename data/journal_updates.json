@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T22:23:26.471725+00:00",
+  "generated_at": "2026-06-15T23:07:59.720908+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -60,6 +60,23 @@
       "keywords": []
     },
     {
+      "doi": "10.1016/j.isprsjprs.2026.06.009",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.009",
+      "title": "DCMArb: Decoupled-Collaborative Mamba for Arbitrary-scale Hyperspectral Super-resolution",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003151",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.06.014",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.014",
       "title": "All-in-one texture restoration of building Façade with generative diffusion prior",
@@ -73,6 +90,60 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003205",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2684650",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2684650",
+      "title": "3D environments require 3D visualisations: the limitations of 2D sketch maps in capturing spatial knowledge",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2684650",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2681728",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2681728",
+      "title": "Introduction: Forum on Aerial Bombing and Urban Destruction",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681728",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2679292",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2679292",
+      "title": "From Spatial Breach to Spatial Recovery: Affective Atmospheres, Mobility Rhythms, and Social Infrastructures during Housing Relocation",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2679292",
       "abstract": "",
       "keywords": []
     },
@@ -10275,33 +10346,6 @@
         "Cryosphere",
         "Peninsula",
         "Algal bloom"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.029",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.029",
-      "title": "Automatic tree-level based forest inventories retrieval via ultra-high resolution UAV images and deep learning",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-25",
-      "published_date_display": "2026-02-25",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000882",
-      "abstract": "Forest inventories play an essential role in managing and protecting forest resources as well as quantifying carbon stocks. Recent advances in Uncrewed Aerial Vehicles (UAVs) have enhanced capabilities for efficiently monitoring forest dynamics across large geographic areas. RGB cameras are typically preferred for rapid and scalable forest inventory missions owing to three distinct advantages, including low cost, ease of use, and high resolution. However, compared with multispectral or hyperspectral sensors, the limited spectral signals of RGB cameras pose challenges for tree crown detection and classification. The ability of deep learning methods to capture structural and contextual cues from imagery helps alleviate some of the limitations of RGB data. In this study, we propose an Individual Tree Crown (ITC)-based framework leveraging UAV data and advanced deep learning models for inventories of individual trees in dense and natural forests. First, we develop the ITC-based Multi-Task Convolutional Neural Network (ITCMNet), which incorporates multi-scale contexts to simultaneously and accurately identify individual tree crowns, discriminate tree species, and assess tree vitality. Second, structural parameters for each individual crown are extracted to estimate forest carbon storage using species-specific allometric models. Unlike conventional pixel-based methods, our proposed ITCMNet enables precise forest investigations at the ITC level, enhancing both performance and interpretability. We collected a comprehensive dataset consisting of 2456 ultra-high resolution (1.6 cm) UAV RGB images and 27,160 labeled trees across 105 plots distributed in three dense forests and one city park in Germany to evaluate our framework. The ITCMNet demonstrated robust tree crown delineation performance, achieving an F1 score of 0.81. Additionally, our method attained an F1 score in species classification (i.e., 0.54 for angiosperms and 0.76 for gymnosperms) and vitality identification (0.66). Utilizing precise tree parameters, species information, and species-specific allometric models, our carbon storage estimation surpassed current satellite-based carbon products. The carbon stock estimation achieved an R 2 of 0.83 and the carbon storage range in the Bamberg forests is approximately 50 to 110 Mg C/ha. These results show that our proposed framework provides detailed, cost-effective forest inventories, highlighting its potential to support various downstream forestry applications. The dataset and source code are available ( https://www.dlr.de/en/eoc/about-us/remote-sensing-technology-institute/photogrammetry-and-image-analysis/public-datasets/bamforests ; https://github.com/WendyFan52/ITCMNet ).",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Deep learning",
-        "RGB color model",
-        "Multispectral image",
-        "Tree (set theory)",
-        "Convolutional neural network",
-        "Satellite imagery",
-        "Scalability",
-        "Crown (dentistry)"
       ]
     },
     {
