@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T23:49:36.000585+00:00",
+  "generated_at": "2026-06-16T00:16:32.046716+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,78 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1086/742679",
+      "doi_url": "https://doi.org/10.1086/742679",
+      "title": "Common goods and specific bads promote pathogen diversity",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/742679",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70446",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70446",
+      "title": "Do ecosystem types tell the full biodiversity story? Potentials of ecosystem types as indicators of plant species richness",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70446",
+      "abstract": "Abstract The expansion of human activities in natural areas continues to drive unprecedented biodiversity loss. Management based on ecosystem‐level assessment is replacing management focusing on individual species, with promises of offering an efficient, general framework for authorities to prioritize conservation actions to areas important for biodiversity. However, the success of the approach depends on whether ecosystem characteristics (e.g. productivity and geographical extent) reflect species‐level biodiversity patterns. Here, we investigate how ecosystem types following IUCN standards relate to species richness of vascular plants using large‐scale monitoring data from central Norway. We assess whether commonness and red‐list status of the ecosystem are associated with higher richness of the total species pool, threatened species and the number of ecosystem‐exclusive species. We also compare two nested hierarchical levels of ecosystem types in how they may help in the identification of areas with high biodiversity value based on species distributions across ecosystem types and ecosystem–occupancy relationships. Our results showed that common ecosystem types had higher regional, but not local, species richness, including exclusive and red‐listed species richness, regardless of their red‐list status. Yet, threatened ecosystem types, which tended to be rarer, had higher local and lower regional species richness than non‐threatened counterparts. As species became more common, they occupied an increasing number of ecosystem types, although this was lower than expected under random distributions. Although common major ecosystem types contained more minor ecosystem types, species occurred less in such fine‐scale ecosystem types than expected from their occurrences in coarse‐scale ecosystem types. Synthesis and applications . Our study demonstrates that the commonness and red‐list status of ecosystem types can be informative of biodiversity measures in terms of species richness at selected spatial scales. The scale‐dependence of these indicators and the inverse relationship between red‐list status and commonness illustrate that conservation strategies must consider several ecosystem characteristics to efficiently protect species of conservation concern. Furthermore, we show that fine‐scale ecosystem types represent more informative units for biodiversity measures at the species level for vascular plants, possibly because coarse‐scale ecosystem types differ more largely in their geographical extents and consequently account for community drivers at different scales.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70462",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70462",
+      "title": "Cutting the invaders and then what? Livestock exclusion after invasive shrub management promotes re‐invasion",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70462",
+      "abstract": "Abstract Terrestrial ecosystems degraded by overgrazing and plant invasions challenge restoration programmes that must remain compatible with local livelihoods. Invasive shrub control often relies on livestock, which suppresses resprouting but generates woody debris that may function as inadvertent herbivore exclusions, with unclear effects on woody plant recruitment. Understanding these effects is critical for guiding restoration. We conducted a field experiment modifying livestock access using standardized exclosures intentionally assembled from woody debris generated by cutting invasive Pyracantha angustifolia . These debris piles also may provide perching sites for frugivorous birds, offering a unique opportunity to explore assisted natural regeneration pathways following invasive management. By comparing woody plant recruitment inside and outside woody debris patches, we tested their ability to promote native regeneration and potential facilitation of invasives. We selected 28 cuts from 2020 and 28 from 2022, each paired with a control, and measured recruit identity and height in 2024 to evaluate short and medium‐term dynamics under contrasting grazing pressure. Woody debris patches reduced livestock browsing and increased woody establishment and growth of invasives, showing rapid growth and higher likelihood of being bird‐dispersed, particularly under 4‐year exclusions. Community composition shifted among treatments, reflecting species‐specific responses and within‐site variability. Synthesis and applications. Woody debris patches prevented observable livestock browsing, facilitating invasive species under prolonged exclusion. Grazing thus operates as a strong biotic filter against invasives, highlighting the need to combine exclusion with targeted management of woody debris. Effective strategies include maintaining livestock access through partial or rotational exclusion, strategically redistributing woody debris to avoid persistent refuges for invasives and selectively using thorny debris to protect native saplings. Our results offer practical guidance for invasive control and livestock production, contributing to integrated restoration frameworks that consider ecological and socioeconomic dimensions.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70429",
+      "doi_url": "https://doi.org/10.1111/ele.70429",
+      "title": "A Century of Shifting Native Species‐Accumulation Curves Reveals Long‐Term Biodiversity Loss",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70429",
+      "abstract": "ABSTRACT The species‐area relationship is a cornerstone of biodiversity theory and conservation. Yet, its temporal stability remains largely untested. Using nearly a century of disjunct vegetation‐plot data from the Netherlands, we assess changes in the species‐area relationship by constructing species‐accumulation curves (SACs). We show that SACs have flattened significantly over time, indicating widespread biodiversity decline driven by habitat degradation and spatial homogenization, even within protected areas. Although grassland biodiversity has rebounded, forest biodiversity continues to decline, suggesting a greater extinction debt. These findings provide unprecedented evidence that biodiversity patterns captured by SACs shift over time. They also reveal a critical limitation of conservation strategies that rely solely on protected area expansion. As global biodiversity goals aim to halt biodiversity loss by 2030, our results emphasise the need for adaptive conservation strategies that integrate area‐based protection with large‐scale habitat restoration and improved ecosystem management.",
+      "keywords": []
+    },
     {
       "doi": "10.1111/ele.70420",
       "doi_url": "https://doi.org/10.1111/ele.70420",
