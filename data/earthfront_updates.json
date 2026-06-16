@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T23:25:15.992489+00:00",
+  "generated_at": "2026-06-16T23:09:57.437698+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,114 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02016-y",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02016-y",
+      "title": "Vigorous mantle convection triggered the Cretaceous Pacific large igneous provinces",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02016-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02008-y",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02008-y",
+      "title": "The pace of stratospheric circulation",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02008-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02011-3",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02011-3",
+      "title": "Observed stratospheric mean age decrease consistent with circulation acceleration",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02011-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02012-2",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02012-2",
+      "title": "Enhanced marine burial of terrestrial organic carbon through the Palaeocene–Eocene Thermal Maximum",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02012-2",
+      "abstract": "Abstract The Palaeocene–Eocene Thermal Maximum (PETM) occurred ~56 million years ago and was characterized by large-scale carbon release and transient warming. Erosion and subsequent burial of terrestrial organic carbon in marine sediments could have sequestered organic carbon during the PETM—stabilizing global carbon and climate systems—yet direct evidence for this process is lacking. Here we present source-specific biomarker records from five globally distributed shallow marine sites and show that vascular plant and soil organic carbon contributed ~40–95% of total organic carbon in coastal sediments during the PETM. This is higher than modern marine sediments (~12–20% of total organic carbon) and indicates greater terrestrial organic carbon delivery to marine environments during warmer climates. We find that terrestrial organic carbon burial fluxes can increase ~10-to-50-fold during the PETM due to enhanced physical erosion and higher coastal sedimentation rates, implying that marine burial of terrestrial organic carbon sequestered excess carbon released during the PETM. Palaeoclimate model simulations do not account for enhanced delivery of terrestrial organic carbon into the marine realm and are thus missing an important carbon sink. Terrestrial organic carbon burial could act as a negative feedback during other hyperthermals and may aid the long-term (>10,000-year) recovery of the Earth system.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02666-1",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02666-1",
+      "title": "Asymmetric intensification increases global disparities in cropland use and emissions",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02666-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02641-w",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02641-w",
+      "title": "An early warning system to forecast biodiversity risks of extreme temperatures",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02641-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01854-3",
       "doi_url": "https://doi.org/10.1038/s41893-026-01854-3",
       "title": "Rooftop photovoltaic-powered electric vehicle charging for accelerated decarbonization",
@@ -41,7 +149,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01854-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Photovoltaic system",
+        "Renewable energy",
+        "Electric vehicle",
+        "Electricity generation",
+        "Photovoltaics",
+        "Electricity",
+        "Electrification",
+        "Energy transition",
+        "Revenue"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01869-w",
@@ -59,7 +177,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01869-w",
       "abstract": "Abstract Postcombustion carbon capture and storage (CCS) can reduce CO 2 emissions from coal and natural gas combined cycle (NGCC) power plants. Integrating CCS affects other air pollutant emissions as well. Flue gas must be pretreated to avoid undesirable reactions between pollutants and solvents, whereas amine-based solvents can degrade, leading to NH 3 emissions. Here we explore the air pollution and CO 2 emissions impacts of national-scale postcombustion CCS adoption at coal and NGCC plants using monoethanolamine and a mixture of 2-amino-2-methyl-1 propanol and piperazine (CESAR1) as representative solvents. If CCS retrofits are only viable on newer facilities, 97% of NGCC plant emissions are addressable versus 27% of coal plant emissions. Potential human health benefits of CCS retrofits are concentrated at coal plants, where the net benefits of added flue gas pretreatment are substantial, regardless of solvent. NGCC plants, however, require NH 3 emissions controls and/or modern solvents, as using monoethanolamine without NH 3 emissions controls could increase net human health burdens fourfold. Thus, the human health impacts from adopting postcombustion CCS using amine-based solvents depend on solvent choice, fuel type, existing flue gas concentration and NH 3 emission controls. Careful consideration of such factors can maximize the climate and health benefits of postcombustion CCS deployment.",
-      "keywords": []
+      "keywords": [
+        "Flue gas",
+        "Human health",
+        "Coal",
+        "Natural gas",
+        "Pollutant",
+        "Air pollution",
+        "Power station",
+        "Natural-gas processing",
+        "Greenhouse gas"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01875-y",
@@ -77,7 +205,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01875-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Nitrogen dioxide",
+        "Ozone",
+        "Pollutant",
+        "Oxidative phosphorylation",
+        "Air pollutants",
+        "Respiratory system",
+        "Oxidizing agent"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02000-6",
@@ -95,7 +231,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02000-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hydrogen",
+        "Core (optical fiber)",
+        "Diamond anvil cell",
+        "Hydride",
+        "Diffraction",
+        "Tracking (education)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02013-1",
@@ -113,7 +256,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02013-1",
       "abstract": "Abstract While CO 2 fixation by photo- and chemolithoautotrophs is a central process of the global carbon cycle, many organisms also incorporate inorganic carbon into organic compounds through anaplerotic carbon fixation, a process that replenishes intermediates of central metabolic pathways. However, the active drivers and quantitative importance of anaplerotic carbon fixation in the oceanic carbon cycling remain poorly understood. Here, through analysis of global ocean multi-omics datasets, we identified widespread expression of enzymes involved in this process, especially phosphoenolpyruvate carboxylase. The heterotrophic bacterial genus Alteromonas , a globally distributed marine taxon lacking genes for autotrophic carbon fixation pathways, exhibited particularly high transcriptional and proteomic activity for this enzyme. Laboratory incubations confirmed that Alteromonas assimilated dissolved inorganic carbon (DIC) into biomass, with rates regulated by temperature and organic matter availability. Single-cell tracer analyses of the deep ocean microbial communities quantified Alteromonas ’s contribution at about 17% of total dark DIC fixation (median; confidence interval, 10–28%), equivalent to a potential global flux of about 0.2 PgC yr −1 . These results reveal substantial DIC fixation via anaplerosis, indicating that dark carbon fixation is partly supported by heterotrophic metabolism and modulated by environmental conditions, with responses that may differ from those of canonical autotrophic processes.",
-      "keywords": []
+      "keywords": [
+        "Carbon fixation",
+        "Autotroph",
+        "Heterotroph",
+        "Carbon cycle",
+        "Total inorganic carbon",
+        "Dissolved organic carbon",
+        "Carbon fibers",
+        "Alteromonas",
+        "Cyanobacteria"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01888-7",
@@ -1164,14 +1317,23 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001417",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Land management plays a critical role in climate mitigation and local water security. Reforestation, as a key land management strategy, is widely implemented to sequester carbon, and it also alters local water availability through biophysical effects. However, how the same reforestation activity affects water availability under different climate states remains unclear, a gap critical for adaptive land management and water policy. Here, we show that the hydrological consequences of reforestation depend on the background climate state. Using Earth system model simulations, we find that under a low-warming scenario, reforestation causes an insignificant increase in global mean water availability but increases spatial inequality (stronger wetting over wet regions). In contrast, under a high-warming scenario, reforestation reduces global water availability while weakening spatial inequality (drying over wet regions). A moisture budget analysis attributes these differences to circulation responses in wet regions. Our findings reveal that climate context shapes reforestation outcomes, providing practical insights for policymakers designing climate-adaptive land management strategies.",
+      "keywords": [
+        "Reforestation",
+        "Context (archaeology)",
+        "Global warming",
+        "Climate change",
+        "Afforestation",
+        "Land use",
+        "Hydrology (agriculture)",
+        "Water use"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101715",
@@ -1230,14 +1392,24 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001405",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Sustainability",
+        "Bioenergy",
+        "Food security",
+        "Energy security",
+        "Ecosystem services",
+        "Production (economics)",
+        "Greenhouse gas",
+        "Land use",
+        "Energy crop"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101718",
