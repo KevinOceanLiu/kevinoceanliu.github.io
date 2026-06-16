@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T00:02:24.700462+00:00",
+  "generated_at": "2026-06-16T23:48:28.166556+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,72 +31,81 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105716",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105716",
-      "title": "Urban ponds as nature-based solutions for heat mitigation and temperature regulation in highly urbanised regions",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "doi": "10.1038/s44284-026-00443-x",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00443-x",
+      "title": "Urban congestion relief experiments through routing-app interventions",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
       "published_parts": [
         2026,
-        11
+        6,
+        16
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001404",
+      "link": "https://www.nature.com/articles/s44284-026-00443-x",
+      "abstract": "Abstract Traffic congestion remains a persistent challenge for urban mobility, increasing travel delays and elevating CO 2 emissions. The widespread use of smartphones and GPS navigation creates new opportunities to mitigate congestion through routing optimizations in apps, yet real-world evidence for the effectiveness of such interventions is limited. Here we report large-scale empirical experiments evaluating routing-based traffic interventions on ~100 highly congested road segments across 10 major US cities. By rerouting a small share of Google Maps trips from targeted congested highway and arterial segments to less congested alternatives of equivalent road-classes with comparable travel times, we observe a city-average 2% increase in vehicle speeds on the intervened segments, along with improved travel times 0.7% and potential annual reductions exceeding 1,000 tons of CO 2 -equivalent emissions per city in the majority of studied locations. These findings provide evidence that marginal routing interventions involving a small proportion of vehicles can measurably enhance overall road network efficiency, offering a practical pathway to easing congestion and advancing urban sustainability.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00464-6",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00464-6",
+      "title": "Proxy datasets to identify city boundaries",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00464-6",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.landurbplan.2026.105725",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105725",
-      "title": "Unveiling urban heat exposure risk networks: a network analysis approach for mitigating thermal discomfort",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "doi": "10.1038/s44284-026-00459-3",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00459-3",
+      "title": "City racial segregation statistics are robust to aggregation bias",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
       "published_parts": [
         2026,
-        11
+        6,
+        16
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001490",
+      "link": "https://www.nature.com/articles/s44284-026-00459-3",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102481",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102481",
-      "title": "Spatiotemporal machine learning for building demolition risk modelling",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000839",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107246",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107246",
-      "title": "The long-run evolution of city size distribution in China: A distribution dynamics approach",
+      "doi": "10.1016/j.cities.2026.107265",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107265",
+      "title": "Identifying subnetworks and driving factors of intercity mobility in mega-urban agglomeration areas: A case study in the Yangtze River Delta, China",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
       "published_parts": [
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004786",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600497X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Yangtze river",
+        "China",
+        "Urban agglomeration",
+        "Economies of agglomeration",
+        "Mode (computer interface)"
+      ]
     },
     {
       "doi": "10.1177/00420980261453767",
@@ -114,6 +123,70 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261453767",
       "abstract": "Research in some agrarian regions of India points to new forms of urbanization involving demographic densification led by natural population growth and employment shifts out of agriculture in the absence of standard drivers of structural transformation. Research into the local economic dynamics of this “urbanization from within” remains nascent, but scholarship offers two contrasting frameworks for interpretation—one emphasizing the agency of actors in emerging towns and another highlighting dependence on larger cities via translocal migration and remittances. Against this backdrop, this article investigates places urbanizing from within through qualitative interviews with non-farm firms in small towns of Bihar, India. Translocality in these sites not only increases local consumption of non-farm goods and services, but it also mitigates the risks of non-farm entrepreneurship and furnishes soft skills helpful to starting and running non-farm firms. The interviews also highlight the importance of other mechanisms: inter-firm credit, flowing from larger to smaller settlements, and low social barriers to entry in growing tertiary activities. These findings support a complex reading of economic dependence and agency. Even as the interviews highlight the hierarchical economic relations between small towns and larger cities, they also illuminate the ways in which local agents act inside structures of uneven development to carve narrow opportunity pathways in the burgeoning non-farm economy.",
+      "keywords": [
+        "Agency (philosophy)",
+        "Agrarian society",
+        "Urbanization",
+        "Scholarship",
+        "Entrepreneurship",
+        "Population",
+        "Consumption (sociology)",
+        "Urban economics",
+        "Structure and agency"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261452502",
+      "doi_url": "https://doi.org/10.1177/00420980261452502",
+      "title": "Superstar wealth inequalities and the role of housing: A regional perspective from Britain",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261452502",
+      "abstract": "This article examines the evolution of wealth inequalities across regions in Britain, and in particular the role of house price inflation, homeownership and mortgage debt in driving these wealth inequalities. Drawing on descriptive and regression analysis of eight waves of the UK Wealth and Assets Survey from 2006 to 2022, our findings indicate that (net) wealth inequalities rose more rapidly (and from higher levels) in London than in the rest of Britain. We argue that that this discrepancy can be significantly attributed to housing: not only did London experience higher rates of house price inflation but these gains were shared amongst a smaller subset of property owners and were levered with relatively high levels of mortgage debt. Moreover, London also has a disproportionately large number of asset-poor, low-income renters, which further exacerbates wealth inequalities. We also find that increases in homeownership rates at the regional scale are consistently associated with a compression of (net) wealth inequalities. Our findings highlight the need for more research that considers the distinctive features of different regions, and particularly ‘superstar cities’, in conditioning the relationships between house price inflation and wealth inequalities.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261451120",
+      "doi_url": "https://doi.org/10.1177/00420980261451120",
+      "title": "Practicing urban Métis heritage sovereignty in Edinburgh, Scotland in (and beyond) the National Museum of Scotland",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261451120",
+      "abstract": "This article examines the often-overlooked urban presence of the Métis people, one of three Indigenous groups recognized in Canada’s 1982 Constitution Act, outside the geographical boundaries of Canada and/or the Métis homeland. Focusing instead on the UK, the article centers the dynamic interplay between Métis representation within the National Museum of Scotland (NMS) and their historical and contemporary urban presences in Edinburgh. In doing so, we highlight the limitations of the museum’s narrative by juxtaposing it with the broader, more dynamic context of Métis heritage in Edinburgh beyond the museum, focusing on the power of Metis kinscapes for shaping Metis mobility to 19th century Edinburgh. As such, the article argues for the recognition of Métis urban heritage outside of the conventional geographical boundaries of the Metis nation. We conclude by proposing the potential of digital heritage tours to offer a mobile, interactive approach that contrasts with the static displays of the museum, enabling deeper connections to the Métis’ historical and contemporary urban presences in Edinburgh.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261452057",
+      "doi_url": "https://doi.org/10.1177/00420980261452057",
+      "title": "Places that matter: Reproducing inequality in manufactured home communities",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261452057",
+      "abstract": "Social scientists have documented the harm associated with manufactured home community (MHC) redevelopment, however, relatively few studies consider the extent to which popular sociocultural beliefs about “trailers” and “trailer parks” shape policy decisions in ways that exacerbate, rather than alleviate the challenges they face. Drawing on ethnographic data collected over a period of 28 months (2011–2016), we present a case study of a community mapping project in Lincoln, Nebraska to examine the influence of dominant cultural beliefs that consider MHCs to be inherently poor, unsafe, and unhealthy on housing policy and programs. Our analysis reveals three key dynamics: (1) data were often interpreted in ways that confirmed preexisting biases among non-MHC stakeholders; (2) there was a sizable disconnect between the lived experiences of MHC residents and the assumptions embedded in broader policy and service systems; and (3) prevailing narratives framed the long-term decline of MHCs as inevitable, rather than the result of under regulation, systemic disinvestment, and corporate malpractice. This case study highlights how well-intentioned policy initiatives driven by objective data can unintentionally reproduce the disparities they aim to address when they are shaped by unexamined sociocultural beliefs and biases.",
       "keywords": []
     },
     {
@@ -132,7 +205,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261446268",
       "abstract": "This article examines the discursive practices through which actors produce and negotiate representations of Rotterdam, the Netherlands, as a tech city. We approach the tech city as a discursive construct and argue that its ongoing remaking can be obscured when scholarship centers on dominant governmental and corporate institutions as coherent, top-down discourse producers. Instead, we show how tech city institutions function as enacted assemblages shaped by individuals’ interstitial practices. We examine such practices through text-elicited, in-depth interviews with actors involved in those institutions. Our findings identify four clusters of practices through which individuals professionally engaged in the tech city (i) critically addressed rhetorical gaps and positioned themselves as bridges, (ii) expressed skepticism and dissent, (iii) reproduced narratives tactically, and (iv) resignified dominant representations.",
-      "keywords": []
+      "keywords": [
+        "Construct (python library)",
+        "Negotiation",
+        "Rhetorical question",
+        "Scholarship",
+        "Discourse analysis",
+        "Skepticism",
+        "Function (biology)",
+        "Narrative"
+      ]
     },
     {
       "doi": "10.1177/00420980261452557",
@@ -150,7 +232,11 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261452557",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Agency (philosophy)",
+        "Global city",
+        "Structure and agency"
+      ]
     },
     {
       "doi": "10.1177/00420980261446108",
@@ -168,7 +254,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261446108",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Sociology",
+        "Epistemology",
+        "Cognitive science",
+        "Social science",
+        "Artificial intelligence",
+        "Management science",
+        "Engineering ethics",
+        "Environmental ethics"
+      ]
     },
     {
       "doi": "10.1177/00420980261452062",
@@ -186,7 +281,111 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261452062",
       "abstract": "In the production of vertical suburbanization in Toronto, Canada, urban-coded aesthetic signifiers are mobilized in policy, housing advertisements, and interviews to constitute an aspirational urbanity. These planning and development discourses communicate not only envisioned built forms and land use functions but also the anticipated “urban vibes” of a planned suburban future that looks and feels on trend, modern, vibrant, and sustainable—thus desirable for living and investment. This article argues that these representations work to reposition peripheral land within metropolitan circuits of value. Conceptualized through a Lefebvrian lens, urban-coded conceived space actively mediates material investment and suburban spatial transformation. The article further argues that these representational aestheticizations of urbanity provide socially symbolic resolutions to persistent suburban contradictions, stabilizing tensions between the promises of urban life and the realities of built form. These representations and resolutions operate affectively, providing relief for key actors in suburbanization processes (planners, politicians, and developers) by sustaining the sense that urbanity remains achievable even while underlying structures and morphology remain unchallenged. Advancing an aesthetic dimension of ideological-political analyses of (post-)suburbanization, the article demonstrates how the aestheticization of urbanity operates as a mediating force in the circulation of capital through vertical suburbanization.",
-      "keywords": []
+      "keywords": [
+        "Urbanity",
+        "Suburbanization",
+        "Metropolitan area",
+        "Gentrification",
+        "Built environment",
+        "Capital (architecture)",
+        "Urbanism",
+        "Space (punctuation)",
+        "Human geography",
+        "Localism"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105716",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105716",
+      "title": "Urban ponds as nature-based solutions for heat mitigation and temperature regulation in highly urbanised regions",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001404",
+      "abstract": "",
+      "keywords": [
+        "Urban heat island",
+        "Hydrology (agriculture)",
+        "Air temperature",
+        "Water pollution",
+        "Urban planning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102481",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102481",
+      "title": "Spatiotemporal machine learning for building demolition risk modelling",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000839",
+      "abstract": "",
+      "keywords": [
+        "Demolition",
+        "Risk assessment",
+        "Risk model",
+        "Statistical learning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107246",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107246",
+      "title": "The long-run evolution of city size distribution in China: A distribution dynamics approach",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004786",
+      "abstract": "",
+      "keywords": [
+        "Population size",
+        "Distribution (mathematics)",
+        "Census",
+        "Population",
+        "Polarization (electrochemistry)",
+        "Population growth",
+        "Chinese city"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105725",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105725",
+      "title": "Unveiling urban heat exposure risk networks: a network analysis approach for mitigating thermal discomfort",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-06-14",
+      "published_date_display": "2026-06-14",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001490",
+      "abstract": "",
+      "keywords": [
+        "Urban heat island",
+        "Network analysis",
+        "Thermal analysis",
+        "Risk assessment",
+        "Thermal"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107283",
@@ -3094,7 +3293,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000578",
-      "abstract": "Urban policy transfer has the potential to enhance urban systems by applying successful strategies from one city to another. However, existing models for predicting policy impacts are often context-specific and lack generalisability across different urban settings. This study introduces TransGM, a novel framework that enables the transfer of spatial interaction models between cities via adaptive transfer learning. The framework employs: (1) spatial Kullback–Leibler divergence to quantify structural differences across urban contexts; (2) production-constrained gravity models for flow prediction, accounting for residues in urban features; and (3) feature-specific regularisation weights that adapt parameters based on the degree of spatial pattern similarity between source and target cities. TransGM is demonstrated through a case study of workplace attractiveness and its impact on commuting flows transferred from Birmingham to Coventry. The adapted transfer model replicates Birmingham's urban configuration in Coventry rather than learning Coventry's own priority structure. Transfer process is jointly governed by spatial divergence between the two cities and the data sufficiency: where spatial patterns align, local data dominate parameter estimation, while in data-sparse contexts, source-city regularisation guides model behaviour. This balance between place-specific urban structure and cross-city mobility and amenity transferability positions adaptive transfer learning as an effective tool for evaluating the feasibility of replicating one city's development model in another, offering simulation-based evidence to inform urban planning and policy decisions. • Novel TransGM framework enables adaptive inter-city transport policy transfer. • A modular gravity model framework with adaptive regularisation. • Effective adaptation of pre-trained models to new cities with limited data. • A case study of transferring the mixed-use strategy between Birmingham and Coventry. • Adaptive digital urban and transport models applicable to various cities.",
+      "abstract": "Urban policy transfer has the potential to enhance urban systems by applying successful strategies from one city to another. However, existing models for predicting policy impacts are often context-specific and lack generalisability across different urban settings. This study introduces TransGM, a novel framework that enables the transfer of spatial interaction models between cities via adaptive transfer learning. The framework employs: (1) spatial Kullback–Leibler divergence to quantify structural differences across urban contexts; (2) production-constrained gravity models for flow prediction, accounting for residues in urban features; and (3) feature-specific regularisation weights that adapt parameters based on the degree of spatial pattern similarity between source and target cities. TransGM is demonstrated through a case study of workplace attractiveness and its impact on commuting flows transferred from Birmingham to Coventry. The adapted transfer model replicates Birmingham's urban configuration in Coventry rather than learning Coventry's own priority structure. Transfer process is jointly governed by spatial divergence between the two cities and the data sufficiency: where spatial patterns align, local data dominate parameter estimation, while in data-sparse contexts, source-city regularisation guides model behaviour. This balance between place-specific urban structure and cross-city mobility and amenity transferability positions adaptive transfer learning as an effective tool for evaluating the feasibility of replicating one city's development model in another, offering simulation-based evidence to inform urban planning and policy decisions.",
       "keywords": [
         "Transfer (computing)",
         "Current (fluid)",
@@ -3356,7 +3555,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004610",
-      "abstract": "Coastal cities have experienced an increasingly extensive built-up development owing to the growth of tourism in recent decades. Property developers and local authorities have often prioritized the expansion of built-up areas, often overlooking the effects on the quality of life of residents and the additional management costs incurred. In this study, we examine how rapid housing development affects resident satisfaction in a new neighbourhood in Năvodari, a town that borders Constanța, the city that hosts the largest harbour in the Black Sea. We highlight the rapid pace of urban expansion using diachronic maps and assess residents' satisfaction with their new neighbourhoods through semi-structured surveys. Our results reveal that, although residents generally appreciate living in a seaside environment, they express considerable dissatisfaction with public amenities provision, planning policies, and the influx of tourists during the summer months. The study's findings demonstrate that attractive scenery can partially offset the challenges associated with high density. Nevertheless, this visual appeal cannot resolve the complex issues residents face daily. We hypothesise that, once the novelty of the landscape wears off, planning shortcomings may prompt inhabitants to reconsider their choice of residence, potentially leading to a decline in property values. Such insights may assist planners and policymakers in adopting more sustainable approaches to urban development. • Post EU accession led to rapid urbanization in Romania's coastline. • Volatile planning regulations led to dysfunctional and unsustainable neighbourhoods. • Overcrowding and scarce amenities influence residents' perception on quality of life. • The proximity of the sea mitigates the dissatisfaction levels, keeping people to buy properties.",
+      "abstract": "Coastal cities have experienced an increasingly extensive built-up development owing to the growth of tourism in recent decades. Property developers and local authorities have often prioritized the expansion of built-up areas, often overlooking the effects on the quality of life of residents and the additional management costs incurred. In this study, we examine how rapid housing development affects resident satisfaction in a new neighbourhood in Năvodari, a town that borders Constanța, the city that hosts the largest harbour in the Black Sea. We highlight the rapid pace of urban expansion using diachronic maps and assess residents' satisfaction with their new neighbourhoods through semi-structured surveys. Our results reveal that, although residents generally appreciate living in a seaside environment, they express considerable dissatisfaction with public amenities provision, planning policies, and the influx of tourists during the summer months. The study's findings demonstrate that attractive scenery can partially offset the challenges associated with high density. Nevertheless, this visual appeal cannot resolve the complex issues residents face daily. We hypothesise that, once the novelty of the landscape wears off, planning shortcomings may prompt inhabitants to reconsider their choice of residence, potentially leading to a decline in property values. Such insights may assist planners and policymakers in adopting more sustainable approaches to urban development.",
       "keywords": [
         "Urbanization",
         "Black sea",
@@ -3881,7 +4080,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004452",
-      "abstract": "Income segregation has traditionally been studied through residential patterns, yet growing evidence points to its dynamic manifestation in the everyday mobility of individuals. Using large-scale mobile phone data from 12 U.S. metropolitan areas, we examine segregation in population congregation – defined as the unequal distribution of income groups across micro-geographic units during daily movement – and identify its structural and behavioral origins. We propose a decomposition framework that distinguishes the contributions of static income disparities and dynamic mobility heterogeneity to observed segregation levels. Segregation is operationalized via disparities in visitation patterns at the Census Block Group level, while mobility heterogeneity captures variations in the spatial concentration of individual travel flows. Shapley–Owen decomposition shows that segregation is dominated by income-group-specific mobility heterogeneity before COVID-19 response measures, led by the lower-middle income component. After the implementation of response measures, mobility heterogeneity remains the dominant channel and explains most of the between-period change, whereas structural inequality contributes a secondary background effect. These findings reveal how economic stratification and adaptive mobility patterns jointly configure urban inequality, underscoring the need for policy responses that integrate both structural and behavioral dimensions in times of disruption. • Proposes a decomposition framework linking income inequality and mobility behavior. • Identifies income groups driving segregation in daily population congregation. • Mobility heterogeneity dominates pre/post COVID response and drives change. • Lower-middle income (Q2) destinations are leverage points for cross-group mixing.",
+      "abstract": "Income segregation has traditionally been studied through residential patterns, yet growing evidence points to its dynamic manifestation in the everyday mobility of individuals. Using large-scale mobile phone data from 12 U.S. metropolitan areas, we examine segregation in population congregation – defined as the unequal distribution of income groups across micro-geographic units during daily movement – and identify its structural and behavioral origins. We propose a decomposition framework that distinguishes the contributions of static income disparities and dynamic mobility heterogeneity to observed segregation levels. Segregation is operationalized via disparities in visitation patterns at the Census Block Group level, while mobility heterogeneity captures variations in the spatial concentration of individual travel flows. Shapley–Owen decomposition shows that segregation is dominated by income-group-specific mobility heterogeneity before COVID-19 response measures, led by the lower-middle income component. After the implementation of response measures, mobility heterogeneity remains the dominant channel and explains most of the between-period change, whereas structural inequality contributes a secondary background effect. These findings reveal how economic stratification and adaptive mobility patterns jointly configure urban inequality, underscoring the need for policy responses that integrate both structural and behavioral dimensions in times of disruption.",
       "keywords": [
         "Household income",
         "Low income",
@@ -4040,7 +4239,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004397",
-      "abstract": "Artificial intelligence functions as a vital catalyst for urban green and sustainable development. Utilizing a staggered difference-in-differences (DID) methodology, this study examines the effects of the National New Generation Artificial Intelligence Innovation and Development Pilot Zone policy on urban inclusive green growth. Results indicate that this policy significantly promotes urban inclusive green growth by stimulating green production, green innovation, and employment creation. Additionally, dose-effect analysis reveals that a U-shaped relationship exists between policy intensity and effects, while quantile regressions show that the impact peaks in cities with a moderate level of inclusive green growth. Causal forest and SHAP analyses further identify that investment in education and technology are primary drivers of policy heterogeneity. Sub-index regressions suggest this policy has positive effects on economic development, distributive equity, and welfare sharing, though the influence on pollution reduction is not yet significant. Spatial analysis reveals that beneficial spillovers primarily occur within a 50-km radius. Moreover, AI and the digital economy synergistically promote inclusive green growth, but this impact becomes fully evident only when urban digital economy development level exceeds a specific threshold. • AI pilot zone policy promotes inclusive green growth via green production, green innovation, and employment creation. • Policy effects follow a U-shape with intensity, peaking in moderate inclusive green growth cities. • Causal forest and SHAP analyses identify investment in education and technology as drivers of policy heterogeneity. • Positive spillover effects are spatially bounded, occurring primarily within a 50-km radius. • AI pilot zone policy synergy with digital economy unlocks only past a critical digital development threshold.",
+      "abstract": "Artificial intelligence functions as a vital catalyst for urban green and sustainable development. Utilizing a staggered difference-in-differences (DID) methodology, this study examines the effects of the National New Generation Artificial Intelligence Innovation and Development Pilot Zone policy on urban inclusive green growth. Results indicate that this policy significantly promotes urban inclusive green growth by stimulating green production, green innovation, and employment creation. Additionally, dose-effect analysis reveals that a U-shaped relationship exists between policy intensity and effects, while quantile regressions show that the impact peaks in cities with a moderate level of inclusive green growth. Causal forest and SHAP analyses further identify that investment in education and technology are primary drivers of policy heterogeneity. Sub-index regressions suggest this policy has positive effects on economic development, distributive equity, and welfare sharing, though the influence on pollution reduction is not yet significant. Spatial analysis reveals that beneficial spillovers primarily occur within a 50-km radius. Moreover, AI and the digital economy synergistically promote inclusive green growth, but this impact becomes fully evident only when urban digital economy development level exceeds a specific threshold.",
       "keywords": [
         "Green growth",
         "Green economy",
@@ -4328,7 +4527,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003987",
-      "abstract": "As public health crises like COVID-19 exacerbate urban suicide risks, understanding their spatial and temporal dynamics and environment association mechanisms is increasingly critical in high-density metropolis. While existing research often examines isolated pandemic periods or limited environment factors, integrated spatiotemporal perspectives on suicide rates (SuR), particularly across full pandemic cycles, remain underexplored. This study addresses this gap by developing a multiscale framework to assess dynamics patterns of SuR during the pandemic and their associations with multidimensional urban environment factors in Hong Kong. Our approach integrates dynamic time warping (DTW) to detect temporal synchronization with confirmed cases, Getis-Ord Gi* for hotspot evolution, and geographically and temporally weighted regression to quantify varying associations across social, micro built, and macro built environment factors. Analysis reveals phased temporal patterns: synchronization in the first and fifth waves, driven by initial shock, mid-term social cohesion buffering, and late rebounds from cumulative stressors. Spatially, persistent hotspots in Kowloon contrasted with after-pandemic reconfiguration and emerging peripheral risks. Regression models highlighted dynamic heterogeneity, with micro built environment factors showing peak period sensitivity and functional reversal, protective global factors like residential density and POI diversity fostering buffering, and macro built environment factors related with functional zoning providing structural stability diluted by full cycle adaptation. These findings illuminate specific reshaping of environment-SuR linkages, providing planning insights for phased suicide prevention: early psychological support and transparency, midterm community cohesion and employment linked stability, and post peak enhancements in socioeconomic relief, mixed use accessibility, and restorative environments to enhance suicide prevention resilience of citizens during public health crisis. • Spatial and temporal dynamics of SuR in Hong Kong are analyzed in relation to CAL across full pandemic periods. • Multi-dimensional framework integrates social, built, and cyber factors associated with SuR during the pandemic. • SuR declined in early phases then rebounded, with spatially disturbed distribution correlated with environmental factors. • Findings offer insights for urban suicide prevention management and public health strategies in post-crisis recovery.",
+      "abstract": "As public health crises like COVID-19 exacerbate urban suicide risks, understanding their spatial and temporal dynamics and environment association mechanisms is increasingly critical in high-density metropolis. While existing research often examines isolated pandemic periods or limited environment factors, integrated spatiotemporal perspectives on suicide rates (SuR), particularly across full pandemic cycles, remain underexplored. This study addresses this gap by developing a multiscale framework to assess dynamics patterns of SuR during the pandemic and their associations with multidimensional urban environment factors in Hong Kong. Our approach integrates dynamic time warping (DTW) to detect temporal synchronization with confirmed cases, Getis-Ord Gi* for hotspot evolution, and geographically and temporally weighted regression to quantify varying associations across social, micro built, and macro built environment factors. Analysis reveals phased temporal patterns: synchronization in the first and fifth waves, driven by initial shock, mid-term social cohesion buffering, and late rebounds from cumulative stressors. Spatially, persistent hotspots in Kowloon contrasted with after-pandemic reconfiguration and emerging peripheral risks. Regression models highlighted dynamic heterogeneity, with micro built environment factors showing peak period sensitivity and functional reversal, protective global factors like residential density and POI diversity fostering buffering, and macro built environment factors related with functional zoning providing structural stability diluted by full cycle adaptation. These findings illuminate specific reshaping of environment-SuR linkages, providing planning insights for phased suicide prevention: early psychological support and transparency, midterm community cohesion and employment linked stability, and post peak enhancements in socioeconomic relief, mixed use accessibility, and restorative environments to enhance suicide prevention resilience of citizens during public health crisis.",
       "keywords": [
         "Dynamics (music)",
         "Suicide rates",
@@ -4423,7 +4622,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003689",
-      "abstract": "Slums are characterized by precariousness of infrastructure and land tenure security, and their specific morphological patterns must be understood in order to provide better living conditions to their residents. This study focuses on how street patterns change when the surrounding street grid is taken into account. Using complex network theory, we analyze over 1000 slums in São Paulo. We use a multilayer network model to group favelas that present similar street network patterns inside and around them in terms of size, edge density, orientation entropy, and average circuity. Our key findings reveal that orientation entropy reaches a maximum value for most slums regardless of their sizes, and the relationship between edge density and the number of edges undergoes a shift with increasing buffer around slums. Additionally, favelas with similar orientation entropies and average circuities tend to occupy areas with comparable declivities. Our study may provide insights for public policies aiming to provide more desirable mobility flows or urban integration to slum residents. • Provides a multilayer network model to describe similarities between favelas. • Favelas with similar sizes tend to display similar topologies. • Favelas with similar orientation entropy tend to present similar declivities. • Convergence to maximum orientation entropy happens independently of size. • The relation between density and size changes when incorporating the surroundings.",
+      "abstract": "Slums are characterized by precariousness of infrastructure and land tenure security, and their specific morphological patterns must be understood in order to provide better living conditions to their residents. This study focuses on how street patterns change when the surrounding street grid is taken into account. Using complex network theory, we analyze over 1000 slums in São Paulo. We use a multilayer network model to group favelas that present similar street network patterns inside and around them in terms of size, edge density, orientation entropy, and average circuity. Our key findings reveal that orientation entropy reaches a maximum value for most slums regardless of their sizes, and the relationship between edge density and the number of edges undergoes a shift with increasing buffer around slums. Additionally, favelas with similar orientation entropies and average circuities tend to occupy areas with comparable declivities. Our study may provide insights for public policies aiming to provide more desirable mobility flows or urban integration to slum residents.",
       "keywords": [
         "Slum",
         "Urban morphology",
@@ -5016,7 +5215,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003641",
-      "abstract": "The transportation sector is crucial for modern economies but also a significant source of greenhouse gas (GHG) emissions and air pollutants, especially in urban areas. This study explores the environmental impact of road transport in Budapest, forecasting warm-vehicle emissions for 2020, 2030, and 2050. We analyze future emissions across vehicle technologies and fuel types using advanced emission modeling tools, including HBEFA and COPERT, within the PTV VISUM software framework. Our research (i) assesses how future changes in vehicle technology, emission standards, and traffic demand influence GHG and air pollutant emissions, (ii) analyzes the spatiotemporal patterns of emissions in urban versus rural zones, (iii) evaluates the extent to which projected emissions align with EU climate targets for 2030 and 2050. The analysis excludes heavy-duty trucks and includes only hot exhaust emissions, without cold-start or evaporative components. Results indicate significant reductions in emissions. By 2050, CO 2 -equivalent emissions will decline from 7 million tons annually in 2020 to 4.24 million tons, primarily due to fleet electrification and improved vehicle efficiency. Exhaust pollutants such as NOₓ, CO, and PM 2.5 are expected to decrease by over 90%, enhancing urban air quality. However, non-exhaust emissions from tire and brake wear show minimal reductions, necessitating further policy measures. Spatial analysis shows that urban areas currently have higher emissions than rural zones. By 2050, targeted interventions, including electrification and infrastructure improvements, are expected to reduce these disparities. This research supports evidence-based transportation policies aligned with EU climate goals and provides an analysis framework adaptable to similar urban areas for sustainable transport. • Integrated HBEFA, COPERT, and VISUM for urban emission forecasting • Projected Budapest Road emissions for 2020–2050 scenarios • CO₂-equivalent emissions decline from 7.0 to 4.24 Mt. by 2050 • Exhaust pollutants fall by >90%, but non-exhaust persists • Urban–rural emission gaps narrow under electrification",
+      "abstract": "The transportation sector is crucial for modern economies but also a significant source of greenhouse gas (GHG) emissions and air pollutants, especially in urban areas. This study explores the environmental impact of road transport in Budapest, forecasting warm-vehicle emissions for 2020, 2030, and 2050. We analyze future emissions across vehicle technologies and fuel types using advanced emission modeling tools, including HBEFA and COPERT, within the PTV VISUM software framework. Our research (i) assesses how future changes in vehicle technology, emission standards, and traffic demand influence GHG and air pollutant emissions, (ii) analyzes the spatiotemporal patterns of emissions in urban versus rural zones, (iii) evaluates the extent to which projected emissions align with EU climate targets for 2030 and 2050. The analysis excludes heavy-duty trucks and includes only hot exhaust emissions, without cold-start or evaporative components. Results indicate significant reductions in emissions. By 2050, CO 2 -equivalent emissions will decline from 7 million tons annually in 2020 to 4.24 million tons, primarily due to fleet electrification and improved vehicle efficiency. Exhaust pollutants such as NOₓ, CO, and PM 2.5 are expected to decrease by over 90%, enhancing urban air quality. However, non-exhaust emissions from tire and brake wear show minimal reductions, necessitating further policy measures. Spatial analysis shows that urban areas currently have higher emissions than rural zones. By 2050, targeted interventions, including electrification and infrastructure improvements, are expected to reduce these disparities. This research supports evidence-based transportation policies aligned with EU climate goals and provides an analysis framework adaptable to similar urban areas for sustainable transport.",
       "keywords": [
         "Road transport",
         "Road traffic",
@@ -5547,7 +5746,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600099X",
-      "abstract": "• Significant ‘no plant’ distances are enforced near cables, poles and hydrants. • This is to limit the risk of issues such as obstructions or root issues. • With widespread use of this approach, greening becomes very difficult. • The health risks of the resulting under-provision of nature are considerable. • More balanced regimes of risk management, using resilience thinking, are preferable. Urban landscapes must provide residents with a range of infrastructure, both grey and green. However, current regimes of risk management for utilities and transport infrastructure tend to prohibit the planting of trees and other greenery within fairly large distances of cables, pipes, hydrants and poles, among other features. This precautionary approach has sought to mitigate minor risks such as root intrusions, but has inadvertently had the cumulative effect of making significant areas of the public realm ‘leafless’. This exclusion of nature exposes residents to an array of quite serious health risks, which we outline. Drawing on medical evidence, contemporary examples and a narrative of lived experience, we argue that this is a badly imbalanced regime of risk management. This perspective illuminates the unintended health and social consequences of risk-averse infrastructure policies and advocates resilience-based approaches to urban tree integration, which will require significant reform to governance structures.",
+      "abstract": "Urban landscapes must provide residents with a range of infrastructure, both grey and green. However, current regimes of risk management for utilities and transport infrastructure tend to prohibit the planting of trees and other greenery within fairly large distances of cables, pipes, hydrants and poles, among other features. This precautionary approach has sought to mitigate minor risks such as root intrusions, but has inadvertently had the cumulative effect of making significant areas of the public realm ‘leafless’. This exclusion of nature exposes residents to an array of quite serious health risks, which we outline. Drawing on medical evidence, contemporary examples and a narrative of lived experience, we argue that this is a badly imbalanced regime of risk management. This perspective illuminates the unintended health and social consequences of risk-averse infrastructure policies and advocates resilience-based approaches to urban tree integration, which will require significant reform to governance structures.",
       "keywords": [
         "Urban planning",
         "Field (mathematics)",
@@ -5929,7 +6128,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000939",
-      "abstract": "• Proposes a transferable entropy–centrality method for urban stability analysis. • Combines reachability (HA 2 /P) with Shannon entropy in a composite stability index. • Validates the method using nationwide data on population, POIs, and enterprises. • Identifies resilient multifunctional cores and fragmented peripheral structures. This Research Note presents a proof-of-concept methodology for evaluating urban stability by integrating entropy with a novel graph-based centrality measure. We propose the HA2/P index, where the squared convex hull area of a street segment’s reachable zone is divided by its perimeter, capturing both extent and compactness of accessibility. Weighted by indicators such as building area, population, greenery, and water, this index was calculated for every street segment across Lithuania using the sDNA toolbox and ArcGIS Pro. Shannon entropy was then applied to the distribution of values within 400-m hexagons, producing a composite “stability index” that balances configurational diversity and structural coherence. Results show that historical and multifunctional cores demonstrate high stability, while fragmented or monofunctional modernist areas display low stability. This method, transferable to different contexts, offers a scalable tool for detecting resilient, multifunctional urban structures and contributes to international debates on sustainable urban form and the 15-Minute City.",
+      "abstract": "This Research Note presents a proof-of-concept methodology for evaluating urban stability by integrating entropy with a novel graph-based centrality measure. We propose the HA2/P index, where the squared convex hull area of a street segment’s reachable zone is divided by its perimeter, capturing both extent and compactness of accessibility. Weighted by indicators such as building area, population, greenery, and water, this index was calculated for every street segment across Lithuania using the sDNA toolbox and ArcGIS Pro. Shannon entropy was then applied to the distribution of values within 400-m hexagons, producing a composite “stability index” that balances configurational diversity and structural coherence. Results show that historical and multifunctional cores demonstrate high stability, while fragmented or monofunctional modernist areas display low stability. This method, transferable to different contexts, offers a scalable tool for detecting resilient, multifunctional urban structures and contributes to international debates on sustainable urban form and the 15-Minute City.",
       "keywords": [
         "Stability (learning theory)",
         "Urban planning",
@@ -7580,7 +7779,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003239",
-      "abstract": "The transition to carbon neutrality by 2050 requires energy retrofits of existing residential stock, yet Spain's retrofit rate remains at 0.1% annually—far below the 1% required to meet national climate targets. Due to their aging, the residential sector also faces accessibility and habitability issues. High upfront costs represent the primary barrier to comprehensive retrofits, while current financing mechanisms suffer from limited accessibility and sustainability. This paper explores the potential of adapting Transfer of Development Rights (TDRs) as a financing mechanism for multifamily private housing retrofits in Spain. While TDRs have been used internationally to support heritage preservation and acquire land for public purposes, their application to fund housing retrofits remains largely underexplored. To address this gap, the study investigates two questions: (1) whether the Spanish planning system provides a favorable regulatory framework for the implementation of TDRs, and (2) what key factors should be considered for their potential adaptation. Based on a diverse literature review, our findings show that Spain has historically included instruments that separate development rights from land ownership, suggesting regulatory compatibility with TDRs. The case review further identifies five key stages in TDRs implementation—planning integration, area designation, transactions design, monitoring, and evaluation—each involving critical design decisions. These include not only operational factors but also safeguards against speculative practices. This approach introduces a meaningful innovation: leveraging the planning system itself to manage planning gains as a viable financing mechanism for private multifamily housing retrofits. • Spain's legal framework supports separating development rights from land ownership • Land readjustment provides historical precedent for TDRs adaptation • Selling DRs from vulnerable areas funds retrofits, redistributing urban value fairly • A potential TDRs implementation must take care to prevent speculative practices • TDRs allow shifting focus from public-space retrofits to private housing upgrades",
+      "abstract": "The transition to carbon neutrality by 2050 requires energy retrofits of existing residential stock, yet Spain's retrofit rate remains at 0.1% annually—far below the 1% required to meet national climate targets. Due to their aging, the residential sector also faces accessibility and habitability issues. High upfront costs represent the primary barrier to comprehensive retrofits, while current financing mechanisms suffer from limited accessibility and sustainability. This paper explores the potential of adapting Transfer of Development Rights (TDRs) as a financing mechanism for multifamily private housing retrofits in Spain. While TDRs have been used internationally to support heritage preservation and acquire land for public purposes, their application to fund housing retrofits remains largely underexplored. To address this gap, the study investigates two questions: (1) whether the Spanish planning system provides a favorable regulatory framework for the implementation of TDRs, and (2) what key factors should be considered for their potential adaptation. Based on a diverse literature review, our findings show that Spain has historically included instruments that separate development rights from land ownership, suggesting regulatory compatibility with TDRs. The case review further identifies five key stages in TDRs implementation—planning integration, area designation, transactions design, monitoring, and evaluation—each involving critical design decisions. These include not only operational factors but also safeguards against speculative practices. This approach introduces a meaningful innovation: leveraging the planning system itself to manage planning gains as a viable financing mechanism for private multifamily housing retrofits.",
       "keywords": [
         "Technology transfer",
         "Transfer (computing)",
@@ -7751,29 +7950,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107071",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107071",
-      "title": "Beyond proximity: A three-dimensional assessment of urban park green space equity in Seoul",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-06",
-      "published_date_display": "2026-04-06",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003033",
-      "abstract": "",
-      "keywords": [
-        "Urban park",
-        "Urban green space",
-        "Space (punctuation)",
-        "Equity (law)",
-        "Urban space"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105648",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105648",
       "title": "Local and landscape effects on ant functional and taxonomic compositions across green spaces of a tropical metropolis",
@@ -7887,7 +8063,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000384",
-      "abstract": "Urban environments exhibit intricate spatial and visual structures that complicate efforts to model and interpret human-environment interactions. This complexity challenges our ability to capture how perceptual and spatial factors jointly shape movement and exposure patterns in cities, particularly under low-light conditions. However, most spatial analytics frameworks lack high-resolution nighttime visual data and rely on context-insensitive models that overlook spatiotemporal heterogeneity. This study developed an integrated computational framework that combines Generative AI-based visual synthesis with causal-spatial machine learning to characterize urban visual environments and their influence on pedestrian crash risk. To this end, a citywide dataset of AI-synthesized nighttime street view imagery was established using a CycleGAN model fine-tuned on local Hong Kong data, enabling a realistic representation of street-level illumination and visibility. The derived visual metrics were then incorporated into a geographically weighted causal random forest integrated with double machine learning to estimate localized causal effects while addressing confounding and nonlinearity. The results reveal that visual overload from dense built structures increases pedestrian crash risk, whereas clear spatial boundaries and balanced lighting contrast reduce hazards in low-light conditions. Nighttime visibility of walking paths shows stronger protective effects than overall brightness, suggesting that excessive illumination may impair rather than enhance safety. The study highlights the value of combining generative visual analytics with causal-spatial inference for large-scale, perception-aware analysis of urban environments. The proposed framework advances computational urban analytics and provides transferable tools for data-driven, context-sensitive street design and pedestrian safety planning. • AI-synthesized nighttime imagery for citywide pedestrian risk modeling. • Causal machine learning integrated with geographically weighted modeling. • Visual overload from dense infrastructure linked to higher daytime risk. • Path visibility outperforms brightness in modeling nighttime perception. • Localized causal effects reveal spatially uneven pedestrian vulnerability patterns.",
+      "abstract": "Urban environments exhibit intricate spatial and visual structures that complicate efforts to model and interpret human-environment interactions. This complexity challenges our ability to capture how perceptual and spatial factors jointly shape movement and exposure patterns in cities, particularly under low-light conditions. However, most spatial analytics frameworks lack high-resolution nighttime visual data and rely on context-insensitive models that overlook spatiotemporal heterogeneity. This study developed an integrated computational framework that combines Generative AI-based visual synthesis with causal-spatial machine learning to characterize urban visual environments and their influence on pedestrian crash risk. To this end, a citywide dataset of AI-synthesized nighttime street view imagery was established using a CycleGAN model fine-tuned on local Hong Kong data, enabling a realistic representation of street-level illumination and visibility. The derived visual metrics were then incorporated into a geographically weighted causal random forest integrated with double machine learning to estimate localized causal effects while addressing confounding and nonlinearity. The results reveal that visual overload from dense built structures increases pedestrian crash risk, whereas clear spatial boundaries and balanced lighting contrast reduce hazards in low-light conditions. Nighttime visibility of walking paths shows stronger protective effects than overall brightness, suggesting that excessive illumination may impair rather than enhance safety. The study highlights the value of combining generative visual analytics with causal-spatial inference for large-scale, perception-aware analysis of urban environments. The proposed framework advances computational urban analytics and provides transferable tools for data-driven, context-sensitive street design and pedestrian safety planning.",
       "keywords": [
         "Pedestrian",
         "Generative grammar",
@@ -8556,7 +8732,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002167",
-      "abstract": "Recreational Active Travel (RAT), including walking and jogging for leisure, provides substantial health benefits, yet its gender disparities remain underexplored, particularly in high-density Asian cities. We examine gender-specific RAT patterns in Hong Kong using crowdsourced Strava data, integrating macro-level built environment (BE) and micro-level street environment (SE) attributes. We analyze about one million RAT activities recorded in October 2023, disaggregated by gender across 280,000 street segments citywide. Street view images are employed to extract objective and subjective SE features including perceived qualities. We revealed pronounced spatiotemporal gender disparities. Male RAT volume is five times higher than female RAT volume, with the gap widening at night as female activity declines by 26% compared to 21% for males. On weekends, however, female activity increases sharply by 24%, while male activity rises only 2%, suggesting that women face greater weekday constraints. Females also exhibit stronger environmental sensitivity, while footbridges and POI density positively influence RAT for both genders. Micro-SE features such as ocean views and sidewalks promote RAT, whereas signboards and floor-level barriers deter it, disproportionately affecting females. Interestingly, building density and proximity to MTR stations suppress activity particularly among males. Unexpectedly, perceived safety and proximity to police stations exert limited influence, diverging from findings in low-density Western contexts. This study introduces a scalable framework for analyzing gender-specific urban design, underscoring the need to move beyond crime-prevention paradigms. It highlights strategies for gender-inclusive urban design that prioritize accessibility, comfort, and design quality to foster active mobility in compact Asian cities. • Male outdoor exercise volume is 5× (6.5×) higher than female day (night). • Female outdoor exercise rises 42.3% on weekends vs. 26.2% for males. • Footbridges, POIs, ocean views & sidewalks boost outdoor exercise across genders. • Visual clutter and floor-level barriers disproportionately deter females. • Police stations and perceived safety are insignificant, challenging prior findings.",
+      "abstract": "Recreational Active Travel (RAT), including walking and jogging for leisure, provides substantial health benefits, yet its gender disparities remain underexplored, particularly in high-density Asian cities. We examine gender-specific RAT patterns in Hong Kong using crowdsourced Strava data, integrating macro-level built environment (BE) and micro-level street environment (SE) attributes. We analyze about one million RAT activities recorded in October 2023, disaggregated by gender across 280,000 street segments citywide. Street view images are employed to extract objective and subjective SE features including perceived qualities. We revealed pronounced spatiotemporal gender disparities. Male RAT volume is five times higher than female RAT volume, with the gap widening at night as female activity declines by 26% compared to 21% for males. On weekends, however, female activity increases sharply by 24%, while male activity rises only 2%, suggesting that women face greater weekday constraints. Females also exhibit stronger environmental sensitivity, while footbridges and POI density positively influence RAT for both genders. Micro-SE features such as ocean views and sidewalks promote RAT, whereas signboards and floor-level barriers deter it, disproportionately affecting females. Interestingly, building density and proximity to MTR stations suppress activity particularly among males. Unexpectedly, perceived safety and proximity to police stations exert limited influence, diverging from findings in low-density Western contexts. This study introduces a scalable framework for analyzing gender-specific urban design, underscoring the need to move beyond crime-prevention paradigms. It highlights strategies for gender-inclusive urban design that prioritize accessibility, comfort, and design quality to foster active mobility in compact Asian cities.",
       "keywords": [
         "Recreation",
         "Built environment",
@@ -10348,7 +10524,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600040X",
-      "abstract": "• Urbanization decreased the abundance of soil biota in deep soils. • Urbanization changed the community composition of soil biota. • Urbanization decreased the complexity and stability of soil micro-food web ecological networks. • Deeper soils exhibited higher network complexity than surface soils. • Response of soil micro-food web to urbanization were depth-dependent. Urbanization greatly shapes wetland environment and affects its ecosystem functions. Soil micro-food web, through energy flows, plays a vital role in regulating wetland ecosystem processes and functions. However, little is known about how urbanization affects the composition and energetic structure of soil micro-food webs across different soil depths in wetlands. This knowledge gap limits our understanding of ecological processes throughout the soil profile and hinders the formulation of effective management policies for wetland conservation in urban areas. In this study, soil samples were collected from 46 wetlands along a rural-suburban-urban gradient at three soil depths (0–10, 10–20 and 20–30 cm). The abundances and community compositions of soil biota (i.e. bacteria, fungi and nematodes) were investigated using real-time quantitative PCR and Illumina Miseq sequencing, respectively. Results showed that the surface soils (0–10 cm) showed no significant changes in overall soil biota abundance, while the abundance of nematodes in subsurface layers (10–30 cm) decreased significantly along the urbanization gradient. In addition, the relative abundances of bacterivores and predators decreased, whereas fungivores and herbivores increased along the urbanization gradient. Notably, energy channel analysis showed that urbanization amplified the energy flux through the herbivorous and fungivorous pathways in surface soils but reduced it in deeper layers. Co-occurrence network analysis showed that urbanization reduced the number of network edges and nodes at each soil depth, indicating a decline in soil micro-food web complexity and stability. However, deeper soil (10–30 cm) networks exhibited unexpected higher complexity and potential resilience relative to surface soils. The main factors affecting ecological networks were plant diversity, soil structure, pH, organic carbon and ammonium nitrogen. These results indicate a distinct depth-dependent response of soil micro-food web to urbanization. Our findings highlight the essential role of deep soil biota in wetland resistance to urbanization. Future researches should employ depth-stratified approach and integrate deep soil micro-food web into biogeochemical models for accurate prediction of urban wetland ecosystem functions.",
+      "abstract": "Urbanization greatly shapes wetland environment and affects its ecosystem functions. Soil micro-food web, through energy flows, plays a vital role in regulating wetland ecosystem processes and functions. However, little is known about how urbanization affects the composition and energetic structure of soil micro-food webs across different soil depths in wetlands. This knowledge gap limits our understanding of ecological processes throughout the soil profile and hinders the formulation of effective management policies for wetland conservation in urban areas. In this study, soil samples were collected from 46 wetlands along a rural-suburban-urban gradient at three soil depths (0–10, 10–20 and 20–30 cm). The abundances and community compositions of soil biota (i.e. bacteria, fungi and nematodes) were investigated using real-time quantitative PCR and Illumina Miseq sequencing, respectively. Results showed that the surface soils (0–10 cm) showed no significant changes in overall soil biota abundance, while the abundance of nematodes in subsurface layers (10–30 cm) decreased significantly along the urbanization gradient. In addition, the relative abundances of bacterivores and predators decreased, whereas fungivores and herbivores increased along the urbanization gradient. Notably, energy channel analysis showed that urbanization amplified the energy flux through the herbivorous and fungivorous pathways in surface soils but reduced it in deeper layers. Co-occurrence network analysis showed that urbanization reduced the number of network edges and nodes at each soil depth, indicating a decline in soil micro-food web complexity and stability. However, deeper soil (10–30 cm) networks exhibited unexpected higher complexity and potential resilience relative to surface soils. The main factors affecting ecological networks were plant diversity, soil structure, pH, organic carbon and ammonium nitrogen. These results indicate a distinct depth-dependent response of soil micro-food web to urbanization. Our findings highlight the essential role of deep soil biota in wetland resistance to urbanization. Future researches should employ depth-stratified approach and integrate deep soil micro-food web into biogeochemical models for accurate prediction of urban wetland ecosystem functions.",
       "keywords": [
         "Urbanization",
         "Wetland",
@@ -10947,7 +11123,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000290",
-      "abstract": "• There is a difference between planning theorists and practitioners values and landscape users values. • Experts tend to follow materialistic valuation of tangible landscape values. • Landscape users tend to follow non-material valuation of intangible landscape values. • Landscape valuation is driven by theory and practice coming mostly by Europe, North America, Oceania and recently from China. • There is a need for more comprehensive valuation systems to accommodate both material and non-material landscape values. Planning theory and practice has placed considerable attention on the conservation of ecologically and culturally significant landscapes (ECSLs). A broad range of valuation systems have been proposed and implemented. This study performed a systematic literature review of 112 articles addressing the valuation of ECSLs to identify the landscape features that are most valued and why. The findings indicate that planning theorists and practitioners tend to follow material valuation approaches that prioritise the conservation and management of tangible landscape values. This trend has been traditionally driven by research and practice based in Europe, North America, Australia and Japan, and more recently from China. It follows more structured valuation systems such as the ecosystems services approach proposed by many international frameworks. In contrast, local landscape users assign value to landscape features depending on context-based experiences and aspirations that are underpinned by non-material valuation systems. The consideration of such intangible values could determine the extent to which stakeholders engage in landscape conservation. There is a need to develop more comprehensive valuation systems that can accommodate both material and non-material landscape values.",
+      "abstract": "Planning theory and practice has placed considerable attention on the conservation of ecologically and culturally significant landscapes (ECSLs). A broad range of valuation systems have been proposed and implemented. This study performed a systematic literature review of 112 articles addressing the valuation of ECSLs to identify the landscape features that are most valued and why. The findings indicate that planning theorists and practitioners tend to follow material valuation approaches that prioritise the conservation and management of tangible landscape values. This trend has been traditionally driven by research and practice based in Europe, North America, Australia and Japan, and more recently from China. It follows more structured valuation systems such as the ecosystems services approach proposed by many international frameworks. In contrast, local landscape users assign value to landscape features depending on context-based experiences and aspirations that are underpinned by non-material valuation systems. The consideration of such intangible values could determine the extent to which stakeholders engage in landscape conservation. There is a need to develop more comprehensive valuation systems that can accommodate both material and non-material landscape values.",
       "keywords": [
         "Valuation (finance)",
         "Landscape assessment",
@@ -13435,7 +13611,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000034",
-      "abstract": "• Visual green exposure (>30 %) increases park stay duration and walking distance. • Integration of mobility data, panoramic imagery, and propensity score matching for causal inference. • VGE boosts engagement most in dense city centers but less in peri -urban settings. • VGE effects peak during weekends, mornings, and midday, declining by evening. • Seasonal analysis reveals stronger VGE influence in spring and fall months. Urban green spaces are vital components of city landscapes, yet the role of visible greenery in promoting park use remains poorly understood due to limitations of static, correlational evidence. This study provides quasi-experimental evidence linking visual green exposure (VGE) to urban park engagement, specifically visit duration and physical activity intensity, using large-scale human mobility data and panoramic imagery across Tokyo’s 23 special wards. Employing propensity score matching (PSM), inverse probability weighting (IPW), and overlap weighting (OW), the analysis reveals that park visits with average VGE exceeding 30% are result in 3.36 min longer stays and 116.95 m additional walking distance relative to lower-exposure visits. However, these effects exhibit systematic spatial and temporal heterogeneity. Spatially, urban density mediates VGE’s impact, high VGE boosts engagement in dense city centers but shortens walking distance in peri -urban areas. Temporally, the positive influence of VGE on stat duration is most pronounced on weekends and during morning to midday hours, while declines in evenings. Seasonally, spring and fall amplify the influence of VGE’s on physical activity, while winter shows minimal effects despite year-round accessibility. These findings demonstrate VGE is influential yet context-dependent driver of park usage. By translating visibility into quantifiable engagement metrics, this study offers actionable guidance for planners, including optimized canopy placement and strategic vegetation configuration, to enhance public interaction with nature in dense urban settings.",
+      "abstract": "Urban green spaces are vital components of city landscapes, yet the role of visible greenery in promoting park use remains poorly understood due to limitations of static, correlational evidence. This study provides quasi-experimental evidence linking visual green exposure (VGE) to urban park engagement, specifically visit duration and physical activity intensity, using large-scale human mobility data and panoramic imagery across Tokyo’s 23 special wards. Employing propensity score matching (PSM), inverse probability weighting (IPW), and overlap weighting (OW), the analysis reveals that park visits with average VGE exceeding 30% are result in 3.36 min longer stays and 116.95 m additional walking distance relative to lower-exposure visits. However, these effects exhibit systematic spatial and temporal heterogeneity. Spatially, urban density mediates VGE’s impact, high VGE boosts engagement in dense city centers but shortens walking distance in peri -urban areas. Temporally, the positive influence of VGE on stat duration is most pronounced on weekends and during morning to midday hours, while declines in evenings. Seasonally, spring and fall amplify the influence of VGE’s on physical activity, while winter shows minimal effects despite year-round accessibility. These findings demonstrate VGE is influential yet context-dependent driver of park usage. By translating visibility into quantifiable engagement metrics, this study offers actionable guidance for planners, including optimized canopy placement and strategic vegetation configuration, to enhance public interaction with nature in dense urban settings.",
       "keywords": [
         "Propensity score matching",
         "Duration (music)",
@@ -13720,7 +13896,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971525001498",
-      "abstract": "Residential differentiation reflects the complex patterns by which social groups distribute themselves across urban spaces, fundamentally shaping social, economic, and spatial structures. This paper reviews the methodological development of geodemographic classification, tracing its evolution from early social area analysis and factorial ecology through to contemporary approaches. We critically evaluate this lineage of methods for quantifying residential patterns, and identifying persistent limitations in capturing the non-linear complexities of contemporary urban environments. Building on this review, we explore potential future directions involving learned representations of the social landscape, which may offer alternatives to traditional linear dimensionality reduction techniques. Drawing on recent empirical work applying deep learning to geodemographic classification, we consider how such approaches might address identified limitations while acknowledging that their advantages over established methods remain context-dependent and require further empirical validation. We emphasise that any adoption of these techniques must prioritise transparency and interpretability. The paper concludes by outlining potential directions for future research, including how learned representations might be integrated within existing geodemographic workflows. • Critiques legacy geodemographic methods and traces their historical evolution. • Proposes learned representations as a potential approach that can capture non-linear urban residential patterns. • Calls for exploration of enriched multi-source data to enhance geodemographic feature learning. • Advocates for transparent, fair and explainable GeoAI in policy-relevant urban applications.",
+      "abstract": "Residential differentiation reflects the complex patterns by which social groups distribute themselves across urban spaces, fundamentally shaping social, economic, and spatial structures. This paper reviews the methodological development of geodemographic classification, tracing its evolution from early social area analysis and factorial ecology through to contemporary approaches. We critically evaluate this lineage of methods for quantifying residential patterns, and identifying persistent limitations in capturing the non-linear complexities of contemporary urban environments. Building on this review, we explore potential future directions involving learned representations of the social landscape, which may offer alternatives to traditional linear dimensionality reduction techniques. Drawing on recent empirical work applying deep learning to geodemographic classification, we consider how such approaches might address identified limitations while acknowledging that their advantages over established methods remain context-dependent and require further empirical validation. We emphasise that any adoption of these techniques must prioritise transparency and interpretability. The paper concludes by outlining potential directions for future research, including how learned representations might be integrated within existing geodemographic workflows.",
       "keywords": [
         "Transparency (behavior)",
         "Empirical research",
@@ -13798,7 +13974,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971525001449",
-      "abstract": "Accessibility metrics often fail to align with actual human behavior due to incomplete spatial knowledge and perceptual biases. The digital era has intensified this gap. Platforms like real-time navigation and social media fundamentally reshape how people acquire information and perceive their spatial options. However, conventional accessibility metrics overlook this digital mediation and struggle to capture large-scale human perception. This study bridges this gap by proposing a novel framework to analyze accessibility through the lens of digital information acquisition and perception. Focusing on discretionary activities, we use restaurant access in Shenzhen as a case study. Specifically, we leverage data from Baidu Map (navigation) and Dianping (ratings) to quantify digitally acquired attributes like travel time, price, and reviews. We then employ a two-stage method to model public perception: first, a human survey identifies how people perceive these digital attributes; second, these findings are integrated with Generative AI (GenAI) in a few-shot learning approach to model city-wide perceptions. Finally, these perceptions are incorporated into the calculation of the digitally mediated accessibility metric, which integrates digital information acquisition and perception. Our findings reveal that the digitally mediated accessibility metric uncovers geographic inequalities in restaurant access that conventional metrics overlook. This research advances accessibility theory by introducing a framework for quantifying digitally mediated accessibility and demonstrates the potential of GenAI in scaling human perception modeling for spatial analysis. • Introduces a novel accessibility metric that integrates digital information acquisition and human perception. • Combines human surveys with Generative AI to model large-scale public perceptions of digital platform information. • Reveals overlooked geographic inequalities in restaurant accessibility in Shenzhen when incorporating digital perception. • Highlights the potential of GenAI for spatial analysis and the role of digitally mediated accessibility in urban planning.",
+      "abstract": "Accessibility metrics often fail to align with actual human behavior due to incomplete spatial knowledge and perceptual biases. The digital era has intensified this gap. Platforms like real-time navigation and social media fundamentally reshape how people acquire information and perceive their spatial options. However, conventional accessibility metrics overlook this digital mediation and struggle to capture large-scale human perception. This study bridges this gap by proposing a novel framework to analyze accessibility through the lens of digital information acquisition and perception. Focusing on discretionary activities, we use restaurant access in Shenzhen as a case study. Specifically, we leverage data from Baidu Map (navigation) and Dianping (ratings) to quantify digitally acquired attributes like travel time, price, and reviews. We then employ a two-stage method to model public perception: first, a human survey identifies how people perceive these digital attributes; second, these findings are integrated with Generative AI (GenAI) in a few-shot learning approach to model city-wide perceptions. Finally, these perceptions are incorporated into the calculation of the digitally mediated accessibility metric, which integrates digital information acquisition and perception. Our findings reveal that the digitally mediated accessibility metric uncovers geographic inequalities in restaurant access that conventional metrics overlook. This research advances accessibility theory by introducing a framework for quantifying digitally mediated accessibility and demonstrates the potential of GenAI in scaling human perception modeling for spatial analysis.",
       "keywords": [
         "Perception",
         "Leverage (statistics)",
@@ -14367,7 +14543,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204625002749",
-      "abstract": "• We created maps of walking and driving access to parks for the contiguous U.S. • 151 million people lack walking access, mostly in low-income and rural areas. • Park access is associated with health benefits; driving access has a stronger link. • New parks near cities can save billions of dollars annually in health care costs. Parks provide significant benefits to well-being, however previous assessments of park access have often ignored suburban and rural areas and used coarse measures of proximity alone. We address these limitations with a novel conceptual model that is adaptable to any location globally, framing park access as the area of parks reachable within residents’ uniquely constrained travel range for a given transportation mode. We demonstrate the model’s application by estimating both walking and driving access to public parks in the contiguous U.S., considering social barriers and trail and road network analysis. Both walking and driving access to parks are associated with better community health and happiness, including lower modeled rates of obesity, high blood pressure, and diabetes in adults. However, driving access has a stronger association, suggesting that park benefits extend beyond their immediate surroundings. Our dataset also reveals that 151 million people, or 46 % of the population, live in “park deserts,” lacking walking access to a park, with lower-income and rural individuals having the least access. While urban parks remain essential, investing in larger parks outside cities but within driving distance may yield greater public health benefits. These strategically located new parks (increasing public land by 0.2 %) might save $2.2 billion annually in health costs, outweighing park management costs and recouping initial investment costs within two years.",
+      "abstract": "Parks provide significant benefits to well-being, however previous assessments of park access have often ignored suburban and rural areas and used coarse measures of proximity alone. We address these limitations with a novel conceptual model that is adaptable to any location globally, framing park access as the area of parks reachable within residents’ uniquely constrained travel range for a given transportation mode. We demonstrate the model’s application by estimating both walking and driving access to public parks in the contiguous U.S., considering social barriers and trail and road network analysis. Both walking and driving access to parks are associated with better community health and happiness, including lower modeled rates of obesity, high blood pressure, and diabetes in adults. However, driving access has a stronger association, suggesting that park benefits extend beyond their immediate surroundings. Our dataset also reveals that 151 million people, or 46 % of the population, live in “park deserts,” lacking walking access to a park, with lower-income and rural individuals having the least access. While urban parks remain essential, investing in larger parks outside cities but within driving distance may yield greater public health benefits. These strategically located new parks (increasing public land by 0.2 %) might save $2.2 billion annually in health costs, outweighing park management costs and recouping initial investment costs within two years.",
       "keywords": [
         "Health benefits",
         "Rural area",
@@ -14394,7 +14570,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971525001450",
-      "abstract": "",
+      "abstract": "Traffic speed is a significant indicator for evaluating road network performance and supporting intelligent transportation systems, as it informs congestion management, routing, and operational decisions. Although traffic information is available from commercial platforms and sensor-based monitoring systems, such data are often costly, proprietary, or spatially limited, which restricts their broader usability. To overcome these limitations, we designed a spatial prediction model based on the Graph Sample and Aggregation (GraphSAGE) to infer traffic speeds in unobserved areas. Instead of predicting continuous speed values, we classified traffic into speed classes, which enhanced model robustness in the absence of historical observations and better reflected long-term typical traffic patterns relevant to downstream applications such as routing, emission assessment, and traffic management. Taking Berlin as a case study, the model incorporated multi-source features, including topological features, OpenStreetMap-based road features, and semantic Street View imagery indicators. Uber Movement average speed data were used as supervised learning labels. Results showed that the multi-source feature fusion improved the prediction performance, with the F1 score increasing from 0.6228 to 0.6917. Feature analysis revealed that OSM contextual features contributed the most under limited label coverage, while Street View imagery added complementary information to facilitate model discrimination. Despite only 28 % of road segments being covered by Uber observations, similar feature patterns between labeled and unlabeled areas enabled the model to generalize and infer missing speed data citywide. The framework makes scalable and low-cost speed class inference available for urban traffic monitoring and modeling.",
       "keywords": [
         "Missing data",
         "Imputation (statistics)",
@@ -14443,7 +14619,7 @@
         4
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204625002592",
-      "abstract": "• Urbanisation and habitat type shape bird diets and ecological patterns. • Dietary changes reflect prey availability, vegetation, and feeding practices. • Urban great tits show more diet diversity but lower arthropod intake. • Blue tits compensate for fewer moths by eating more spiders and aphids. • Landscape management should support arthropod diversity and habitat connectivity. Urbanisation affects bird ecology and evolution through multiple pathways, including changes in habitat structure, temperature, pollution, and food availability. Among these, diet shifts likely play a central role, yet evidence on how adult birds adjust their diets across urban mosaics remains scarce. To address this gap, we investigated the year-round diet of two common songbirds—the great tit ( Parus major ) and the blue tit ( Cyanistes caeruleus )—across an urbanised landscape in Innsbruck, Austria. Using a dual-marker metabarcoding approach on fecal samples from 370 individuals captured at 147 locations, we identified both plant and arthropod dietary components. Urbanisation was associated with species- and season-specific changes in diet, demonstrating dietary flexibility in both species: urban great tits showed higher diet diversity and consumed a wider range of miscellaneous food items. During the breeding season, they often ate sunflower seeds—commonly provided at bird feeders—while less frequently consuming arthropods such as moths, spiders, and weevils. In contrast, urban blue tits more frequently consumed crab spiders and aphids, potentially compensating for reduced moth intake. These shifts are likely to contribute to urbanisation-driven variation in fitness. Moreover, they reflect broader changes in prey availability, vegetation and bird feeding practices. Specifically, urban green spaces increased plant-based food diversity, while residential areas promoted frequent use of bird feeders. Our findings suggest that urban management should focus on supporting diverse arthropod communities by promoting native vegetation, encourage wildlife-friendly gardening in residential areas, and preserve forest remnants and green corridors to enhance habitat connectivity.",
+      "abstract": "Urbanisation affects bird ecology and evolution through multiple pathways, including changes in habitat structure, temperature, pollution, and food availability. Among these, diet shifts likely play a central role, yet evidence on how adult birds adjust their diets across urban mosaics remains scarce. To address this gap, we investigated the year-round diet of two common songbirds—the great tit ( Parus major ) and the blue tit ( Cyanistes caeruleus )—across an urbanised landscape in Innsbruck, Austria. Using a dual-marker metabarcoding approach on fecal samples from 370 individuals captured at 147 locations, we identified both plant and arthropod dietary components. Urbanisation was associated with species- and season-specific changes in diet, demonstrating dietary flexibility in both species: urban great tits showed higher diet diversity and consumed a wider range of miscellaneous food items. During the breeding season, they often ate sunflower seeds—commonly provided at bird feeders—while less frequently consuming arthropods such as moths, spiders, and weevils. In contrast, urban blue tits more frequently consumed crab spiders and aphids, potentially compensating for reduced moth intake. These shifts are likely to contribute to urbanisation-driven variation in fitness. Moreover, they reflect broader changes in prey availability, vegetation and bird feeding practices. Specifically, urban green spaces increased plant-based food diversity, while residential areas promoted frequent use of bird feeders. Our findings suggest that urban management should focus on supporting diverse arthropod communities by promoting native vegetation, encourage wildlife-friendly gardening in residential areas, and preserve forest remnants and green corridors to enhance habitat connectivity.",
       "keywords": [
         "Habitat",
         "Urbanization",
@@ -14656,7 +14832,7 @@
         3
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462500249X",
-      "abstract": "• Social media data and surveys were combined to assess social value of landscape in municipalities. • Instagram data reveal seasonal and spatial trends in public landscape engagement. • Instagram images highlight aesthetic values; surveys reveal deeper concerns and insights. • Forest and historic urban landscapes are most frequently valued by the public. • The mixed-method approach offers a richer understanding of landscape preferences. Understanding public preferences regarding landscapes is vital for effective spatial planning and landscape management. This study investigates the combined use of social media data (specifically Instagram images) and traditional surveys to identify socially valued landscapes in six diverse municipalities in Poland. A total of 48,386 Instagram images published in 2022 tagged with the names of selected localities in Lower Silesia were collected, of which 7,022 landscape-related, geolocated images were selected for content analysis. These data were complemented by a survey conducted among 126 residents. The results indicate a clear and consistent preference for forested and historic urban landscapes. Across the study area, 15,183 landscape elements were identified, with technical infrastructure being the most frequently occurring (3,271 instances, or 22%), followed by vegetation (19%), buildings (16%), and forest (11%). While Instagram users tended to highlight visual and aesthetic qualities, survey participants expressed a broader range of views, including concerns about environmental degradation and infrastructural shortcomings. This dual-method approach offers a more nuanced and comprehensive perspective on how different landscape types meet social, cultural, and recreational needs. By combining crowd-sourced visual data with residents’ qualitative insights, the study provides a robust evaluation of the most socially valued landscape types. The findings demonstrate the potential of integrating digital and conventional methods to support landscape policy development and participatory planning practices.",
+      "abstract": "Understanding public preferences regarding landscapes is vital for effective spatial planning and landscape management. This study investigates the combined use of social media data (specifically Instagram images) and traditional surveys to identify socially valued landscapes in six diverse municipalities in Poland. A total of 48,386 Instagram images published in 2022 tagged with the names of selected localities in Lower Silesia were collected, of which 7,022 landscape-related, geolocated images were selected for content analysis. These data were complemented by a survey conducted among 126 residents. The results indicate a clear and consistent preference for forested and historic urban landscapes. Across the study area, 15,183 landscape elements were identified, with technical infrastructure being the most frequently occurring (3,271 instances, or 22%), followed by vegetation (19%), buildings (16%), and forest (11%). While Instagram users tended to highlight visual and aesthetic qualities, survey participants expressed a broader range of views, including concerns about environmental degradation and infrastructural shortcomings. This dual-method approach offers a more nuanced and comprehensive perspective on how different landscape types meet social, cultural, and recreational needs. By combining crowd-sourced visual data with residents’ qualitative insights, the study provides a robust evaluation of the most socially valued landscape types. The findings demonstrate the potential of integrating digital and conventional methods to support landscape policy development and participatory planning practices.",
       "keywords": [
         "Recreation",
         "Social media",
@@ -15409,7 +15585,7 @@
         1
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204625002117",
-      "abstract": "• Wildfire risks are increasing with climate change in and around National Forests. • National study testing equity in location of hazardous fuel treatments for wildfire. • Quantitative results show tribal lands were half as likely to be treated. • Census blocks with high shares Black, Hispanic, or American Indian had less treatments. • Qualitative results suggest forest managers don’t usually consider social vulnerability. This paper used a mixed methods approach to examine whether socially vulnerable populations near U.S. National Forest lands received fuel treatments to reduce wildfire risk. We tested whether the location of recent treatments was related to neighborhood demographics using logistic regression with a National Forest level random intercept and regional fixed effects. Findings showed differential outcomes by race/ethnicity and tribal governance. Tribal lands were about half as likely to be treated, after controlling for biophysical risk, urbanity, land area, National Forest, and region. Neighborhoods with relatively high shares of Hispanic and Black populations were also associated with lower likelihoods of fuel treatment, compared to blocks with lower concentrations of these populations. Qualitative findings from interviews with forest managers, field work, and coding relevant government documents suggested several potential explanations. Resources for doing fuel treatments were limited, and decisions about where to do them were complex, balancing multiple priorities. Forest land management plans, environmental conditions, and environmental regulations guided decision-making about where to do fuel treatments, yet managers had discretion in prioritizing treatment locations. We found no consistent process for integrating social vulnerability– whether and how managers considered vulnerability depended on their personalities, background, and relationships. Some managers dismissed or diminished the importance of considering vulnerability, while others felt there was too much uncertainty and not enough information available to be able to consider populations that might face special risks. Decisions were often made in cooperation with already-invested partners who were knowledgeable about fire risk and could share resources, which may have directed federal resources towards relatively privileged neighborhoods.",
+      "abstract": "",
       "keywords": [
         "Equity (law)",
         "Government (linguistics)",
@@ -15834,7 +16010,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003483",
-      "abstract": "This study examines how citizens' willingness to share personal data can become a strategic lever for the digital transformation and sustainable development of smart cities in contexts characterized by volatility, uncertainty, complexity and ambiguity. Crises such as the COVID-19 pandemic exemplify how turbulent conditions accelerate the use of digital technologies while emphasizing the importance of trust, privacy protection, and social cohesion as foundations of urban resilience. The research investigates whether the openness to data disclosure observed during emergencies can extend to long-term smart city initiatives aimed at enhancing collective well-being. Based on a survey of Chinese citizens in Wuhan analyzed using partial least squares structural equation modeling (PLS-SEM), the findings provide support for the mediating role played by trust in governmental and private organizations' data management between data-sharing intentions during crises and the willingness to disclose information for smart city development. Trust in government data management was found to reduce privacy concerns, while heightened privacy concerns weaken the positive effect of crisis-induced data sharing on subsequent trust. The study contributes to the debate on innovative urban planning by linking trust and privacy with digital transformation, and provides policy insights for designing inclusive, and resilient smart cities that enhance social well-being. • Trust, both in government and firms, drives data disclosure for the development of smart cities. • When there is trust, privacy concern does not influence data disclosure intention for the development of smart cities • Trust reduces the impact of privacy concerns, revealing a privacy paradox.",
+      "abstract": "This study examines how citizens' willingness to share personal data can become a strategic lever for the digital transformation and sustainable development of smart cities in contexts characterized by volatility, uncertainty, complexity and ambiguity. Crises such as the COVID-19 pandemic exemplify how turbulent conditions accelerate the use of digital technologies while emphasizing the importance of trust, privacy protection, and social cohesion as foundations of urban resilience. The research investigates whether the openness to data disclosure observed during emergencies can extend to long-term smart city initiatives aimed at enhancing collective well-being. Based on a survey of Chinese citizens in Wuhan analyzed using partial least squares structural equation modeling (PLS-SEM), the findings provide support for the mediating role played by trust in governmental and private organizations' data management between data-sharing intentions during crises and the willingness to disclose information for smart city development. Trust in government data management was found to reduce privacy concerns, while heightened privacy concerns weaken the positive effect of crisis-induced data sharing on subsequent trust. The study contributes to the debate on innovative urban planning by linking trust and privacy with digital transformation, and provides policy insights for designing inclusive, and resilient smart cities that enhance social well-being.",
       "keywords": [
         "Data sharing",
         "Smart city",
