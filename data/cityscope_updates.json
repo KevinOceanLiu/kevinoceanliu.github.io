@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T23:37:47.489446+00:00",
+  "generated_at": "2026-06-16T00:02:24.700462+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,6 +31,23 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.landurbplan.2026.105716",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105716",
+      "title": "Urban ponds as nature-based solutions for heat mitigation and temperature regulation in highly urbanised regions",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001404",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.landurbplan.2026.105725",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105725",
       "title": "Unveiling urban heat exposure risk networks: a network analysis approach for mitigating thermal discomfort",
@@ -45,6 +62,130 @@
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001490",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102481",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102481",
+      "title": "Spatiotemporal machine learning for building demolition risk modelling",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000839",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107246",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107246",
+      "title": "The long-run evolution of city size distribution in China: A distribution dynamics approach",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004786",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261453767",
+      "doi_url": "https://doi.org/10.1177/00420980261453767",
+      "title": "What shapes urban economies in transitioning agrarian regions? Evidence from places “urbanizing from within” in India",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261453767",
+      "abstract": "Research in some agrarian regions of India points to new forms of urbanization involving demographic densification led by natural population growth and employment shifts out of agriculture in the absence of standard drivers of structural transformation. Research into the local economic dynamics of this “urbanization from within” remains nascent, but scholarship offers two contrasting frameworks for interpretation—one emphasizing the agency of actors in emerging towns and another highlighting dependence on larger cities via translocal migration and remittances. Against this backdrop, this article investigates places urbanizing from within through qualitative interviews with non-farm firms in small towns of Bihar, India. Translocality in these sites not only increases local consumption of non-farm goods and services, but it also mitigates the risks of non-farm entrepreneurship and furnishes soft skills helpful to starting and running non-farm firms. The interviews also highlight the importance of other mechanisms: inter-firm credit, flowing from larger to smaller settlements, and low social barriers to entry in growing tertiary activities. These findings support a complex reading of economic dependence and agency. Even as the interviews highlight the hierarchical economic relations between small towns and larger cities, they also illuminate the ways in which local agents act inside structures of uneven development to carve narrow opportunity pathways in the burgeoning non-farm economy.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261446268",
+      "doi_url": "https://doi.org/10.1177/00420980261446268",
+      "title": "Interstitiality as practice: Exploring the discursive practices producing the tech city",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261446268",
+      "abstract": "This article examines the discursive practices through which actors produce and negotiate representations of Rotterdam, the Netherlands, as a tech city. We approach the tech city as a discursive construct and argue that its ongoing remaking can be obscured when scholarship centers on dominant governmental and corporate institutions as coherent, top-down discourse producers. Instead, we show how tech city institutions function as enacted assemblages shaped by individuals’ interstitial practices. We examine such practices through text-elicited, in-depth interviews with actors involved in those institutions. Our findings identify four clusters of practices through which individuals professionally engaged in the tech city (i) critically addressed rhetorical gaps and positioned themselves as bridges, (ii) expressed skepticism and dissent, (iii) reproduced narratives tactically, and (iv) resignified dominant representations.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261452557",
+      "doi_url": "https://doi.org/10.1177/00420980261452557",
+      "title": "Book review forum: <i>City Agency and Global Governance: A Study of Migration City Diplomacy</i> Edited by DanielPejic, City Agency and Global Governance: A Study of Migration City Diplomacy, Bristol: Bristol University Press, 2026; 156 pp.: ISBN 978-1-5292-4802-9 (hbk).",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261452557",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261446108",
+      "doi_url": "https://doi.org/10.1177/00420980261446108",
+      "title": "Book review forum: <i>Artificial Intelligence and the City: Urbanistic Perspectives on AI</i> CugurulloFedericoCaprottiFedericoCookMatthewKarvonenAndrewMcGuirkPaulineMarvinSimon, Artificial Intelligence and the City: Urbanistic Perspectives on AI, London and New York: Routledge, 2023; 420 pp.: ISBN: 9781003365877.",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261446108",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261452062",
+      "doi_url": "https://doi.org/10.1177/00420980261452062",
+      "title": "Aspirational urban vibes and vertical suburbanization in Toronto, Canada",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261452062",
+      "abstract": "In the production of vertical suburbanization in Toronto, Canada, urban-coded aesthetic signifiers are mobilized in policy, housing advertisements, and interviews to constitute an aspirational urbanity. These planning and development discourses communicate not only envisioned built forms and land use functions but also the anticipated “urban vibes” of a planned suburban future that looks and feels on trend, modern, vibrant, and sustainable—thus desirable for living and investment. This article argues that these representations work to reposition peripheral land within metropolitan circuits of value. Conceptualized through a Lefebvrian lens, urban-coded conceived space actively mediates material investment and suburban spatial transformation. The article further argues that these representational aestheticizations of urbanity provide socially symbolic resolutions to persistent suburban contradictions, stabilizing tensions between the promises of urban life and the realities of built form. These representations and resolutions operate affectively, providing relief for key actors in suburbanization processes (planners, politicians, and developers) by sustaining the sense that urbanity remains achievable even while underlying structures and morphology remain unchallenged. Advancing an aesthetic dimension of ideological-political analyses of (post-)suburbanization, the article demonstrates how the aestheticization of urbanity operates as a mediating force in the circulation of capital through vertical suburbanization.",
       "keywords": []
     },
     {
@@ -7538,32 +7679,6 @@
         "Perspective (graphical)",
         "Aggregate (composite)",
         "Common spatial pattern"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107047",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107047",
-      "title": "The hierarchical morphotope classification: A theory-driven framework for large-scale analysis of built form",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-06",
-      "published_date_display": "2026-04-06",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002799",
-      "abstract": "Built environment, formed of a plethora of patterns of building, streets, and plots, has a profound impact on how cities are perceived and function. While various methods exist to classify urban patterns, they often lack a strong theoretical foundation, are not scalable beyond a local level, or sacrifice detail for broader application. This paper introduces the Hierarchical Morphotope Classification (HiMoC), a novel, theory-driven, and computationally scalable method of classification of built form. HiMoC operationalises the idea of a morphotope - the smallest locality with a distinctive character - using a bespoke regionalisation method SA3 (Spatial Agglomerative Adaptive Aggregation), to delineate contiguous, morphologically distinct localities. These are further organised into a hierarchical taxonomic tree reflecting their dissimilarity based on morphometric profile derived from buildings and streets retrieved from open data, allowing flexible, interpretable classification of built fabric, that can be applied beyond a scale of a single country. The method is tested on a subset of countries of Central Europe, grouping over 90 million building footprints into over 500,000 morphotopes. The method extends the capabilities of available morphometric analyses, while offering a complementary perspective to existing large scale data products, which are focusing primarily on land use or use conceptual definition of urban fabric types. This theory-grounded, reproducible, unsupervised and scalable method facilitates a nuanced understanding of urban structure, with broad applications in urban planning, environmental analysis, and socio-spatial studies.",
-      "keywords": [
-        "Bespoke",
-        "Hierarchical clustering",
-        "Locality",
-        "Scalability",
-        "Scale (ratio)",
-        "Regionalisation",
-        "Perspective (graphical)",
-        "Cluster analysis"
       ]
     },
     {
