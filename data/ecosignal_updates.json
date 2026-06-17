@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T00:16:32.046716+00:00",
+  "generated_at": "2026-06-17T00:04:23.013924+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,186 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03104-3",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03104-3",
+      "title": "Dwarf mongooses pre-emptively alter their behaviour relative to the threat posed by different rival groups",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03104-3",
+      "abstract": "Abstract Intergroup conflict is a potent evolutionary force across taxa, but little research has investigated how social animals pre-emptively change their behaviour in scenarios where contests with rivals are more likely. Moreover, the few studies examining this aspect of intergroup conflict fail to consider rival characteristics despite them determining contest outcomes and interaction costs, which define the threat level different groups pose. Here we show how non-human animals can tailor their anticipatory behaviour to the specific threat posed by rivals, using 10 years of detailed behavioural observations and GPS data. We demonstrate that dwarf mongooses ( Helogale parvula ) adjust their space use, information provisioning and resource defence dependent on the relative group size of neighbours to help them mitigate the threat from both well-matched competitors and more dangerous larger rivals. By contrast, behavioural differences between the core and edge of home ranges were more equivocal, highlighting the importance of considering rival characteristics rather than just spatial location as an indicator of threat level. Our results showcase how animals have evolved to be best prepared for a key part of their ecology, potential future contests, indicating abilities that allow them to survive and thrive in a landscape of intergroup conflict.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70365",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70365",
+      "title": "Ubiquitous local differentiation in effects of climate on growth of temperate trees: Implications for forest carbon under climate change",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70365",
+      "abstract": "Abstract Temperate tree species are notable for their broad distributions along climate gradients and their ability to tolerate highly variable conditions on diurnal to interannual time scales. This reflects the aggregate effects of genetic adaptation, morphological and physiological acclimation, and physiological tolerance. Understanding differentiation in the responses of local populations to spatial and temporal climate variability and incorporating its effects in models of forest dynamics remains a significant challenge in forecasting the effects of future climate change on tree species distributions and ecosystem processes. To test for and quantify the strength of local differentiation in the 50 most common tree species in forests of the eastern United States, we compiled data on tree growth from forest inventory plots and used imputation methods to fit statistical models for growth that incorporate both regional variation in long‐term mean temperature and precipitation, and local interannual variation in climate relative to the long‐term mean. The best supported models for 41 of the 50 species include local differentiation in response to climate. Most species showed roughly linear increases in growth as a function of precipitation along regional rainfall gradients, but with even stronger increases in growth when rainfall in a given year was greater than the long‐term mean at a location. Responses of species to regional and interannual variation in temperature were more varied, with regional variation often exceeding interannual variation in growth at a given location. Synthesis . Failure to incorporate these patterns of local differentiation in the SORTIE‐ND model of forest dynamics under an intermediate emissions pathway (RCP 4.5) results in a significant over‐estimate of future carbon stocks and sequestration. The degree of reduction in forest carbon stocks predicted when local differentiation is included depends on whether the differentiation reflects a rapid ability to acclimate to changing climate or a much slower genetic adaptation.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70372",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70372",
+      "title": "New landscapes, new connections: How ecological network mesostructure responds to novel landscapes?",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70372",
+      "abstract": "Abstract Novel ecosystems created by non‐native trees cause changes in the structure of ecosystems. These changes cause disruption in ecological processes such as pollination and seed dispersion, jeopardizing these two processes that are vital for native plant communities and forest dynamics. The introduction of non‐native tree species, such as Eucalyptus globulus and Acacia dealbata , has significantly altered forests in the central region of Portugal. The resulting landscape configuration, now dominated by these two species, provides a unique setting to study how highly altered landscapes and novel ecosystems affect functional species diversity and interactions at a regional scale. Using regional data on bird‐mediated seed dispersal and pollination by birds and insects, we applied a spatial multilayer network approach to assess how these animal‐driven processes occur across different forest types (Native, Acacia and Eucalyptus ) and vary with distance between sites. By representing sites as layers connected through shared species and their interaction partners, this framework captures how interactions are linked across space and how spatial turnover in species interactions shapes network mesostructure. This network approach also allowed us to examine how landscape variables influence functional biodiversity and biotic interactions across the region. Our results show that forest type and landscape attributes are significantly associated with differences in species connectivity, functional diversity and interaction patterns across animal‐mediated processes. Specifically, connectivity and species composition varied between native and non‐native forests, while landscape complexity and land‐cover composition were associated with differences in species and interaction dissimilarity across spatial scales. These associations differed between pollination and seed dispersal networks, reflecting differences in mobility and resource use among animal groups. Synthesis: Our study suggests that landscape complexity influences functional biodiversity in pollen transport and seed dispersal at a regional scale. These findings underscore the importance of accounting for these dynamics in regional conservation and ecosystem management efforts.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70463",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70463",
+      "title": "When conservation meets contagion: Mapping yellow fever risk to guide vaccination in an endangered primate",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70463",
+      "abstract": "Abstract Emerging infectious diseases pose a growing threat to global biodiversity. During Brazil's 2017–2019 yellow fever (YF) outbreak, approximately 30% of the endangered golden lion tamarin (GLT) ( Leontopithecus rosalia ) population was lost—highlighting the vulnerability of wildlife to such epidemics. YF is a vector‐borne disease transmitted by forest‐dwelling mosquitoes, with landscape structure and human modification potentially influencing transmission dynamics. However, the environmental drivers of YF mortality in wild primate populations, and how they shift between outbreak and non‐outbreak periods, remain largely unknown. In this study, we investigated the impact of YF outbreak on GLT mortality and examined the environmental factors that may have facilitated the spread and severity of the disease. Using data derived from three decades of monitoring (1989–2022) and modelling approaches (e.g. generalized linear models and spatial mapping), we compared survival patterns during the 2017–2019 YF outbreak to those from an immediately preceding outbreak‐free period (2014–2016). We modelled the probability that GLTs survived each year as a function of forest cover, fragment connectivity, human population density, road proximity and group size. Landscape and demographic factors showed different effects during outbreak versus non‐outbreak years. While habitat connectivity enhanced survival before the outbreak, it amplified mortality during the YF outbreak, highlighting the context‐dependent effects of landscape features on wildlife populations. Human‐modified environments had minimal impact on GLTs prior to the outbreak, but promoted mortality during the outbreak, likely by facilitating contact with infected mosquito vectors in edge habitats and disturbed forest patches. In contrast, climatic variables did not emerge as significant predictors of survival. Synthesis and applications : Spatial projections revealed high‐risk areas for YF transmission, highlighting priority zones for targeted vaccination efforts in GLTs. By integrating disease ecology into conservation planning, this study offers a scalable framework for spatially informed interventions aimed at mitigating disease‐driven declines in threatened species.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70449",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70449",
+      "title": "Slow recovery of stable carbon constrains long‐term soil carbon restoration in China's restored wetlands",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70449",
+      "abstract": "Abstract Wetland restoration is widely implemented to rebuild soil organic carbon (SOC); however, success is still commonly assessed using bulk SOC, which integrates carbon pools with distinct turnover times and stabilization mechanisms, and may therefore misrepresent the recovery of stable carbon. To address this limitation, we compiled a national‐scale dataset of restored wetlands across China (452 paired comparisons from 43 sites) to quantify the recovery trajectories of labile organic carbon (LOC) and recalcitrant organic carbon (ROC), with ROC defined as SOC minus LOC and used as a proxy for the relatively stable SOC pool. LOC and ROC showed distinct associations with restoration drivers: LOC recovery was closely associated with plant biomass and gross primary productivity, whereas ROC recovery was primarily constrained by clay content, pH and salinity. After 60 years of restoration, LOC recovered to approximately 50% of natural wetland levels, ROC reached only ~37%, and overall SOC recovered to ~39%; all three pools exhibited pronounced deceleration within the observed restoration period. Recovery magnitudes of LOC and ROC varied across restoration contexts. Among converted land‐use types, bareland‐derived restorations showed the largest relative increases in LOC and ROC but remained furthest from natural wetland levels, whereas paddy‐derived restorations exhibited the smallest gains yet were closest to natural levels. Across restored wetland types, peatlands showed greater ROC accumulation but more limited LOC accumulation, whereas coastal wetlands showed greater LOC accumulation but more constrained ROC accumulation. Among restoration strategies, combined restoration produced the most sustained increases in both carbon pools over time compared with either planted or rewetted restoration alone. Synthesis and applications . These findings show that the slow recovery of the relatively stable SOC pool constrains long‐term soil carbon restoration in wetlands, underscoring the need to integrate ROC‐based metrics into the evaluation of long‐term carbon sequestration during restoration.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70454",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70454",
+      "title": "Moderately thinning encroaching shrub species is key to balancing rangeland restoration and arthropod biodiversity conservation in Namibia",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70454",
+      "abstract": "Abstract Bush encroachment poses a critical threat to rangeland productivity and ecosystem functioning worldwide, with particularly severe impacts in southern Africa. Although bush thinning (‘debushing’) is widely employed as a control measure, its ecological consequences for arthropod communities remain poorly understood. We assess how bush thinning methods (manual vs. chemical) and intensities (50% vs. 100% removal) affect arthropod community composition, abundance and diversity in bush‐encroached rangeland savannah ecosystems dominated by three common encroaching shrub species: Dichrostachys cinerea , Senegalia mellifera and Terminalia sericea in Namibia. Arthropods were sampled from ground, canopy and aerial strata across 135 plots representing five treatment combinations during wet and dry seasons. Complete shrub removal (100% thinning through felling) induced the strongest ecological changes, reducing overall arthropod abundance by up to 30%, double the effect observed under moderate felling (50%). Solifugae were highly abundant in fully cleared plots. Functionally significant groups, including pollinators (Thysanoptera), herbivores (Curculionidae), decomposers (Psocodea) and predators (Araneae), responded positively to moderate compared with complete manual thinning. Complete chemical treatments significantly suppressed common herbivorous (Auchenorrhyncha) and sensitive taxa including Coccinellidae and Opiliones. The soil properties further mediated the responses of arthropods among shrub species. The abundance of arthropods increased with near‐neutral soil pH, reaching peak in the S . mellifera plots, but declined under elevated phosphorus and organic matter. Synthesis and applications : Moderate manual thinning (50F) maintained arthropod diversity comparable to untreated controls while reducing shrub dominance, demonstrating that structural heterogeneity buffers biodiversity loss during rangeland restoration in Namibian bush‐encroached systems. These findings advocate mosaic debushing strategies that preserve vegetation complexity and edaphic mosaics, reconciling bush control with arthropod conservation to ensure long‐term savannah ecosystem resilience.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70968",
+      "doi_url": "https://doi.org/10.1111/gcb.70968",
+      "title": "Satellite Remote Sensing of Alpine Vegetation Dynamics: Challenges and Perspectives",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70968",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70966",
+      "doi_url": "https://doi.org/10.1111/gcb.70966",
+      "title": "Rethinking Plant Litter Decomposition Across Global Drylands",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70966",
+      "abstract": "ABSTRACT The carbon (C) balance in terrestrial ecosystems is primarily determined by inputs from net primary productivity and C outputs to the atmosphere through organic matter. Understanding the global C balance is crucial for predicting their current and future roles of terrestrial ecosystems as C sources or sinks in the context of global change. Drylands, covering nearly 45% of Earth's land surface, contribute significantly to net primary production (NPP) and influence the interannual variability of the terrestrial C sink. However, the controls on plant litter decomposition, a major pathway of C release, remain unclear in these ecosystems. Here, we present a global analysis of plant litter decomposition in drylands, using a dataset from 116 sites across six continents spanning diverse climates and ecosystems. We found that litter decomposition did not correlate with mean annual precipitation (MAP) or aridity at the global scale, challenging the paradigm that the quantity of rainfall received annually is the primary constraint on ecological processes in drylands. Instead, our analysis identifies mean annual temperature (MAT), precipitation–temperature synchrony, precipitation variability, and cloud‐cover frequency as key drivers. Specifically, our model predicted faster decomposition rates in drylands with higher MAT, more synchrony between wet and warm seasons (monsoonal climate), larger precipitation variability, and litter with higher N content. Across drylands, decomposition correlated positively with both nitrogen and lignin content, in contrast to the negative lignin–decomposition relationship commonly observed in mesic ecosystems. Because MAT and solar irradiance strongly covary, apparent temperature effects may in part reflect radiation‐driven processes, highlighting photodegradation as an important control, particularly in very arid zones. Given the ongoing expansion of drylands, rising temperatures and changes in precipitation variability under climate change, our results underscore the need to refine decomposition models beyond traditional aridity frameworks to accurately predict dryland contributions to the global C balance.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70954",
+      "doi_url": "https://doi.org/10.1111/gcb.70954",
+      "title": "Impacts of Precipitation Variability on Carbon Flux Dynamics of Global Semi‐Arid Savannas",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70954",
+      "abstract": "ABSTRACT With global warming, precipitation variability is increasing, affecting water availability and consequently ecosystem functioning and carbon uptake. Semi‐arid ecosystems are very sensitive to changes in water availability since both gross primary productivity (GPP) and ecosystem respiration (R eco ) are strongly linked to it, contributing most to the interannual variability and trend of the global land carbon sink. However, their carbon‐dioxide (CO 2 ) flux dynamics and specifically R eco are not well understood and poorly represented in models. Here we compiled a long‐term global dataset of eight eddy‐covariance sites located in semi‐arid savannas to analyze the effects of precipitation variability on their net ecosystem exchange (NEE, with NEE = R eco —GPP). We assessed the effects of precipitation variability, represented by precipitation amount, frequency, intensity, and dry spell length, on both annual and seasonal CO 2 fluxes. We used linear mixed effect models to identify relationships between the precipitation metrics, environmental factors, and CO 2 fluxes. We further employed structural equation models to identify direct and indirect effects of precipitation variability on ecosystem CO 2 fluxes in different phenological seasons. The results indicate that precipitation amount and intensity mostly lead to increasing GPP and R eco on the annual scale, with different net effects on NEE depending on the sites. On the seasonal scale, both precipitation frequency and intensity explained more NEE variations than precipitation amount only, while the contribution of dry spell length was negligible. The three precipitation metrics together lead to highest model improvement. Across seasons, soil water content was the main mediator of precipitation impacts on CO 2 fluxes, with air temperatures co‐dominating in the drydown season. Overall, this study shows that precipitation intensity, frequency, and their seasonal timing are crucial for explaining ecosystem CO 2 flux dynamics of semi‐arid savannas. This can help improve predictions of the effects of increasing precipitation variability on the global carbon cycle.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70970",
+      "doi_url": "https://doi.org/10.1111/gcb.70970",
+      "title": "Hyperdominance and Rarity in Amazonian Secondary Forests",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70970",
+      "abstract": "ABSTRACT Recent studies have shown that a few tree species dominate abundance and carbon storage in undisturbed Amazonian forests. However, this pattern remains poorly understood in forests regrowing after deforestation. Understanding dominance patterns in secondary forests is important as it could improve insights into their functioning and guide management and restoration efforts. We used unweighted and novel plot‐weighted approaches to assess hyperdominance in abundance and carbon storage of trees and palms during secondary forest recovery, using data from 102 plots across four regions in the eastern Amazon, separated by an average distance of 600 km (range: 150–1000 km). Secondary forests show high levels of hyperdominance in all approaches, with just 15–25 species (3%–6%) accounting for over 50% of abundance and carbon storage. A small subset of species (~9%) were found across all regions and successional stages, highlighting their key role in ecosystem structure and function during forest regrowth. Annona exsucca , Cecropia palmata , Tapirira guianensis , and Inga alba formed a consistent core of hyperdominant species across stem size classes, metrics, and approaches, jointly accounting for roughly 16%–27% of total abundance and carbon storage. For larger stems ≥ 10 cm DBH, hyperdominant species exhibited lower wood density compared to non‐hyperdominant species across all successional stages, suggesting these specialist pioneers have distinct ecological strategies from the rest of the community. Our findings indicate that secondary forest functioning may be largely predicted by a relatively limited set of species, providing a framework for future research ranging from ecophysiology to remote sensing of canopy traits and restoration planning.",
+      "keywords": []
+    },
+    {
       "doi": "10.1086/742679",
       "doi_url": "https://doi.org/10.1086/742679",
       "title": "Common goods and specific bads promote pathogen diversity",
@@ -51,6 +231,29 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/742679",
       "abstract": "",
+      "keywords": [
+        "Diversity (politics)",
+        "Pathogen",
+        "Work (physics)",
+        "Biodiversity"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70436",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70436",
+      "title": "Red‐listed species under threat: Unexpectedly high deadwood thresholds for their presence in managed boreal forests",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70436",
+      "abstract": "Abstract Red‐listed species form an important basis for conservation action, yet their specific habitat requirements often remain elusive due to their rarity and cryptic nature. We address this gap by testing whether commonly used indirect measures of forest biodiversity can also indicate the presence of red‐listed species and yield informative threshold values. We conducted a fieldwork campaign covering 120 plots along a gradient of structural availability and forest management intensity in Sweden. In these plots, we inventoried epixylic fungi and bryophytes, epixylic and epiphytic lichens, and tree‐related attributes. Using logistic regression, we tested whether taxon‐specific structural thresholds related to deadwood, broad‐leaved trees, and large trees could be identified for the probability of presence of an increasing number of red‐listed species. We found that deadwood volume, which strongly correlated with deadwood diversity, indicated a significantly increased probability of presence of red‐listed epixylic fungi and bryophytes. The threshold values, for a 50% probability of presence of one red‐listed species ranged from 36 to 63 m 3 /ha of total deadwood for fungi and 31 to 58 m 3 /ha of lying deadwood for bryophytes. For lichens, we were unable to find significant predictors of their presence. Synthesis and applications . We show that deadwood volume is a reliable, taxon‐specific indicator of the presence of red‐listed bryophytes and fungi but not lichens. By explicitly focusing on threatened species and deriving statistically defined thresholds from managed boreal forests, our study provides empirical benchmarks that go beyond commonly used biodiversity indicators. The threshold values identified here substantially exceed widely cited recommendations, demonstrating that deadwood requirements for red‐listed species in contemporary managed landscapes are higher than previously assumed. This underscores the strong context dependence of structural thresholds and highlights a critical mismatch between current deadwood availability and the levels needed to sustain threatened epixylic species, reinforcing the importance of protecting deadwood‐rich forests.",
       "keywords": []
     },
     {
@@ -69,7 +272,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70446",
       "abstract": "Abstract The expansion of human activities in natural areas continues to drive unprecedented biodiversity loss. Management based on ecosystem‐level assessment is replacing management focusing on individual species, with promises of offering an efficient, general framework for authorities to prioritize conservation actions to areas important for biodiversity. However, the success of the approach depends on whether ecosystem characteristics (e.g. productivity and geographical extent) reflect species‐level biodiversity patterns. Here, we investigate how ecosystem types following IUCN standards relate to species richness of vascular plants using large‐scale monitoring data from central Norway. We assess whether commonness and red‐list status of the ecosystem are associated with higher richness of the total species pool, threatened species and the number of ecosystem‐exclusive species. We also compare two nested hierarchical levels of ecosystem types in how they may help in the identification of areas with high biodiversity value based on species distributions across ecosystem types and ecosystem–occupancy relationships. Our results showed that common ecosystem types had higher regional, but not local, species richness, including exclusive and red‐listed species richness, regardless of their red‐list status. Yet, threatened ecosystem types, which tended to be rarer, had higher local and lower regional species richness than non‐threatened counterparts. As species became more common, they occupied an increasing number of ecosystem types, although this was lower than expected under random distributions. Although common major ecosystem types contained more minor ecosystem types, species occurred less in such fine‐scale ecosystem types than expected from their occurrences in coarse‐scale ecosystem types. Synthesis and applications . Our study demonstrates that the commonness and red‐list status of ecosystem types can be informative of biodiversity measures in terms of species richness at selected spatial scales. The scale‐dependence of these indicators and the inverse relationship between red‐list status and commonness illustrate that conservation strategies must consider several ecosystem characteristics to efficiently protect species of conservation concern. Furthermore, we show that fine‐scale ecosystem types represent more informative units for biodiversity measures at the species level for vascular plants, possibly because coarse‐scale ecosystem types differ more largely in their geographical extents and consequently account for community drivers at different scales.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Ecosystem",
+        "Biodiversity",
+        "Threatened species",
+        "Ecosystem health",
+        "Ecosystem services",
+        "Ecosystem management",
+        "Ecosystem diversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70462",
@@ -87,7 +299,41 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70462",
       "abstract": "Abstract Terrestrial ecosystems degraded by overgrazing and plant invasions challenge restoration programmes that must remain compatible with local livelihoods. Invasive shrub control often relies on livestock, which suppresses resprouting but generates woody debris that may function as inadvertent herbivore exclusions, with unclear effects on woody plant recruitment. Understanding these effects is critical for guiding restoration. We conducted a field experiment modifying livestock access using standardized exclosures intentionally assembled from woody debris generated by cutting invasive Pyracantha angustifolia . These debris piles also may provide perching sites for frugivorous birds, offering a unique opportunity to explore assisted natural regeneration pathways following invasive management. By comparing woody plant recruitment inside and outside woody debris patches, we tested their ability to promote native regeneration and potential facilitation of invasives. We selected 28 cuts from 2020 and 28 from 2022, each paired with a control, and measured recruit identity and height in 2024 to evaluate short and medium‐term dynamics under contrasting grazing pressure. Woody debris patches reduced livestock browsing and increased woody establishment and growth of invasives, showing rapid growth and higher likelihood of being bird‐dispersed, particularly under 4‐year exclusions. Community composition shifted among treatments, reflecting species‐specific responses and within‐site variability. Synthesis and applications. Woody debris patches prevented observable livestock browsing, facilitating invasive species under prolonged exclusion. Grazing thus operates as a strong biotic filter against invasives, highlighting the need to combine exclusion with targeted management of woody debris. Effective strategies include maintaining livestock access through partial or rotational exclusion, strategically redistributing woody debris to avoid persistent refuges for invasives and selectively using thorny debris to protect native saplings. Our results offer practical guidance for invasive control and livestock production, contributing to integrated restoration frameworks that consider ecological and socioeconomic dimensions.",
-      "keywords": []
+      "keywords": [
+        "Coarse woody debris",
+        "Overgrazing",
+        "Shrub",
+        "Woody plant",
+        "Herbivore",
+        "Livestock",
+        "Grazing",
+        "Debris",
+        "Native plant"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70455",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70455",
+      "title": "Artificial intelligence and decision support in applied ecology",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        6,
+        15
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70455",
+      "abstract": "Abstract Artificial intelligence (AI) is bringing ecological inference closer to decision‐making, producing detections, alerts, trends, and prioritisation outputs. Yet, consensus on how to interpret or act on these remains limited. We synthesise AI adoption in applied ecology and identify governance pressures as models become multimodal, transferable, edge‐deployable, and increasingly shaped by large language models. We highlight cross‐cutting risks where uptake outpaces oversight, including limits in explainability, validation, data sovereignty, environmental costs, cognitive off‐loading, and evidence integrity. Using the British Bat Survey as a representative case study, we show how AI can be operationalised through governance principles spanning benchmarking, transparency, auditability, data governance, equity, and sustainability. Policy implications : We propose a roadmap for responsible AI in applied ecology linking evaluation to decision context, clarifying responsibility, and ensuring AI strengthens rather than displaces accountable decision‐making. Read the free Plain Language Summary for this article on the journal's blog .",
+      "keywords": [
+        "Corporate governance",
+        "Inference",
+        "Decision support system",
+        "Environmental governance",
+        "Decision tree"
+      ]
     },
     {
       "doi": "10.1111/ele.70429",
@@ -105,7 +351,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70429",
       "abstract": "ABSTRACT The species‐area relationship is a cornerstone of biodiversity theory and conservation. Yet, its temporal stability remains largely untested. Using nearly a century of disjunct vegetation‐plot data from the Netherlands, we assess changes in the species‐area relationship by constructing species‐accumulation curves (SACs). We show that SACs have flattened significantly over time, indicating widespread biodiversity decline driven by habitat degradation and spatial homogenization, even within protected areas. Although grassland biodiversity has rebounded, forest biodiversity continues to decline, suggesting a greater extinction debt. These findings provide unprecedented evidence that biodiversity patterns captured by SACs shift over time. They also reveal a critical limitation of conservation strategies that rely solely on protected area expansion. As global biodiversity goals aim to halt biodiversity loss by 2030, our results emphasise the need for adaptive conservation strategies that integrate area‐based protection with large‐scale habitat restoration and improved ecosystem management.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Extinction (optical mineralogy)",
+        "Habitat destruction",
+        "Measurement of biodiversity",
+        "Threatened species",
+        "Habitat",
+        "Ecosystem",
+        "Conservation biology",
+        "Biodiversity hotspot"
+      ]
     },
     {
       "doi": "10.1111/ele.70420",
@@ -123,7 +379,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70420",
       "abstract": "ABSTRACT Tree species richness–productivity relationships (SPRs) at community level are generally positive but can weaken at individual levels due to increased competition. Using 12 years of growth data from a large forest biodiversity experiment, we examined effects of neighbourhood tree species richness, basal area, and niche differences on focal tree growth over time. As stands aged, the effect of greater neighbourhood basal area in more species‐rich neighbourhoods on focal tree growth shifted from positive to negative, but this negative effect was offset by increasingly positive effects arising from greater niche differentiation between focal trees and their neighbours. Focal trees with acquisitive traits showed stronger growth responses to neighbourhood competition and niche difference; while the responses to neighbourhood richness were more positive in dry than in wet years. Our findings suggest that larger niche differences can balance increased competition in more species‐rich forest stands, thus allowing these stands to maintain a greater total biomass than less diverse forest stands.",
-      "keywords": []
+      "keywords": [
+        "Niche",
+        "Neighbourhood (mathematics)",
+        "Biodiversity",
+        "Basal area",
+        "Species richness",
+        "Niche differentiation",
+        "Competition (biology)",
+        "Interspecific competition"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70371",
@@ -11049,7 +11314,7 @@
         1
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70357",
-      "abstract": "",
+      "abstract": "Retez, G., Oeser, J., Bluhm, H., Chistopolova, M., Hernandez-Blanco, J. A., Klich, D., Olech, W., Perzanowski, K., Pkhitikov, A., Kowalczyk, R., Quétier, F., Skorupski, J., Aldea, A., Borowik, T., Catanoiu, S., Grancea, A., Heidelberg, A., Iosif, R., Kamiński, T., … Kuemmerle, T. (2026). Habitat preferences of European bison in contemporary European landscapes. Journal of Applied Ecology, 63, e70233. https://doi.org/10.1111/1365-2664.70233 The affiliation for Tomasz Kamiński was incorrect in the list of authors. It should read: 7Mammal Research Institute, Polish Academy of Sciences, Białowieża, Poland. This has been corrected in the original article. We apologize for this error.",
       "keywords": [
         "George (robot)",
         "Preference"
@@ -11556,7 +11821,7 @@
         30
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70351",
-      "abstract": "",
+      "abstract": "Fu, Y. M., Oduor, A. M. O., Jiang, M., & Liu, Y. J. (2024). Soil biota modulate the effects of microplastics on biomass and diversity of plant communities. Journal of Applied Ecology, 61(11): 2653–2665. https://doi.org/10.1111/1365-2664.14777 In the last paragraph of the ‘Materials and Methods’ section, the text ‘Then, the fungal primers ITS1-1F-F (5′-GGAAGTAAAAGTCGTAACAAGG-3′) and ITS1-1F-R (5′-GCTGCGTTCTTCATCGATGC-3′) were used to amplify the ribosomal internal transcribed spacer of the ITS rDNA gene’. was incorrect. This should have read as follows: ‘Then, the fungal primers gITS7 (5′-GTGARTCATCGARTCTTTG-3′) and ITS4 (5′-TCCTCCGCTTATTGATATGC-3′) were used to amplify the fungal ITS2 region. We apologize for this error.",
       "keywords": [
         "Microplastics",
         "Biomass (ecology)",
@@ -13973,7 +14238,7 @@
         13
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70293",
-      "abstract": "",
+      "abstract": "Codina, G., Sánchez-Pinillos, M., Lloret, F., Lecina-Diaz, J., & Batllori, E. (2026). Climatic niche position determines post-fire resilience in Mediterranean forests. Journal of Ecology, 114, e70261. https://doi.org/10.1111/1365-2745.70261. In Correspondence, the email ‘[email protected]’ was incorrect. This should have read as follows: ‘[email protected]’ We apologize for this error.",
       "keywords": [
         "Resilience (materials science)",
         "Niche",
@@ -14158,7 +14423,7 @@
         12
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70792",
-      "abstract": "",
+      "abstract": "Garen J. C., and Michaletz S. T. 2025. “Rapid Climate Acclimation (Not Traits or Phylogeny) Drives Variation in Photosynthesis Temperature Response.” Global Change Biology 31, no. 9: e70474. https://doi.org/10.1111/gcb.70474. We verified that this typo was only present in the printed form of the equation; the correct form was used in the scripted analysis, and none of the results are affected by this error. We apologize for this error.",
       "keywords": [
         "Variation (astronomy)",
         "Photosynthesis",
@@ -14738,7 +15003,7 @@
         11
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70356",
-      "abstract": "",
+      "abstract": "Harvey, A. C., Ø. Skaala, F. Besnier, et al. 2026. “Domestication-Admixed Atlantic Salmon (Salmo salar) Establish a Productive Population in the Wild.” Ecology Letters 29, no. 2: e70319. https://doi.org/10.1111/ele.70319. In the Discussion in paragraph 2, the text ‘Fleming et al. (2000) observed that mature adult domesticated salmon released within a river containing a wild salmon population had a lower breeding success compared to the wild population and that their offspring displayed lower survival in comparison with the offspring of wild salmon during the early freshwater phase.’ is not correct. It should read: ‘Fleming et al. (2000) observed that mature adult domesticated salmon entering a river containing a wild salmon population had a lower breeding success compared to the wild population and that their offspring displayed lower survival in comparison with the offspring of wild salmon during the early freshwater phase.’ In the Discussion in paragraph 6, the text ‘The strayers entering Guddal are thus likely to be the result of up to 5–6 several generations of the agonistic processes of introgression versus natural selection purging mal-adapted individuals.’ had a typo. This should read: ‘The strayers entering Guddal are thus likely to be the result of several generations of the agonistic processes of introgression versus natural selection purging mal-adapted individuals.’ In the Discussion in paragraph 6, the text ‘For example, assuming a generation time of 5–6 years (Hutchings and Jones 1998; Jensen et al. 2022), the most direct explanation of the presence of individuals with an admixture estimate of 0.5 is an escaped farmed salmon crossing with a wild salmon one generation prior, while an admixture event four generations back in time will result in individuals with an admixture estimate of approximately 0.125.’ is wrong and should read: ‘For example, assuming a generation time of 5–6 years (Hutchings and Jones 1998; Jensen et al. 2022), the most direct explanation of the presence of individuals with an admixture estimate of 0.5 is an escaped farmed salmon crossing with a wild salmon one generation prior, while an admixture event of at least three generations after the first intercross will result in individuals with an admixture estimate of approximately 0.125.’ We apologise for this error.",
       "keywords": [
         "Population",
         "Population growth",
@@ -16467,7 +16732,7 @@
         27
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70283",
-      "abstract": "",
+      "abstract": "Wang, X., Liang, X., Cheng, R., Chen, J., Li, H., Song, Y., Yi, Y., Li, Y., Iversen, L. L., Yang, Y., García-Girón, J., Alahuhta, J., Pan, Y., & Xu, X. (2026). Novel high-resolution data to unravel distribution, mechanisms and anthropogenic threats to freshwater macrophytes worldwide. Journal of Ecology, 114, e70255. https://doi.org/10.1111/1365-2745.70255. The Funding Information presented on the first page was incorrect, with discrepancies in the order and naming of the funding sources when compared to the Funding Information detailed in the Acknowledgement Section of the article. The correct Funding Information on the first page, consistent with the Acknowledgement Section, should be as follows: National Key Research and Development Program of China, Grant/Award Number: 2023YFF1304502; National Natural Science Foundation of China, Grant/Award Number: 31770566; Fundamental Research Funds for the Central Universities, Grant/Award Number: SCU2024D003; Natural Science Foundation of Sichuan Province, China, Grant/Award Number: 2023NSFSC1280; the Chinese Academy of Sciences, Grant/Award Number: E429S10101; the Innovation Team Project of Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, Grant/Award Number: 2023CXTD03; Natural Sciences and Engineering Research Council of Canada Discovery Program, Grant/Award Number: DGECR-2022-00328; ‘Unraveling the effects of contemporary and historical changes in climate and land use on freshwater biodiversity in high-latitude regions of Europe and North America’ project from the Kvantum Institute. We apologize for this error.",
       "keywords": [
         "Macrophyte",
         "Climate change",
@@ -17000,7 +17265,7 @@
         23
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70319",
-      "abstract": "",
+      "abstract": "Martello, F., Aguirre-Gutierrez, J.,Andrino, C. O., Barbosa-Silva, R. G., Paracampo, A., Borges, R. C., Maia, U. M., Dantas, S. M., Miranda, L. d. S., Zanin, M., Zappi, D. C., Malhi, Y., & Giannini, T. C. (2026). Multitaxa functional diversity increases the resilience of biological natural capital in the Amazon. Journal of Applied Ecology, 63, e70269. https://doi.org/10.1111/1365-2664.70269. In the paper by Martello et al. (2026), Tereza Cristina Giannini's affiliation was shown incorrectly. The correct affiliation is: 4Instituto Tecnológico Vale, Belem, Para, Brazil The article has been corrected. We apologize for this error.",
       "keywords": [
         "Resilience (materials science)",
         "Natural capital",
@@ -18107,31 +18372,6 @@
         "Range (aeronautics)",
         "Empirical modelling",
         "Bayesian probability"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70752",
-      "doi_url": "https://doi.org/10.1111/gcb.70752",
-      "title": "Global Trends in Drought Impacts on Wildlife—A Review",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-13",
-      "published_date_display": "2026-02-13",
-      "published_parts": [
-        2026,
-        2,
-        13
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70752",
-      "abstract": "ABSTRACT Drought is expected to increase in frequency and severity due to climate change, highlighting the urgency of understanding drought impacts on wildlife across geographies and taxonomic groups. We conducted a review of peer‐reviewed articles from 1982 to 2024, focusing on the impacts of anomalous drought on terrestrial vertebrates. We recorded 3324 total wildlife responses, 188 from single‐species studies and 3136 from multi‐species studies. Within single‐species studies, 66% of responses were negative, 32% were unclear, and 2% were positive, illustrating the widespread threat of increasing drought to global wildlife. Within multi‐species studies, 24% of responses were negative, and 5% were positive. Notably, 71% of responses within multi‐species papers were categorized as “unclear”, highlighting the need for additional investigation and the complexity of synthesizing a diverse literature. Drought impacts are not evenly tested across taxa, with birds being the most frequently studied (51% of documented responses), followed by mammals (28%), amphibians (16%), and reptiles (5%). Geographically, studies tended to occur most often where recent increases in anomalous drought have been observed (e.g., the Southwestern United States, South Africa, and Southeastern Australia). The sophistication of how drought is measured has increased over time, whereby studies increasingly defined drought as an anomalous event in comparison to a long‐term average through the use of drought indices, rather than as a short‐term weather event. However, we did not see consistency in indices used across the literature, which has the potential to present challenges for interpretation and synthesis. This review summarizes the predominantly negative impacts of drought on terrestrial vertebrates and the growing challenge of conserving wildlife in a changing world, while also highlighting gaps in our understanding of drought‐wildlife relationships that can guide future research.",
-      "keywords": [
-        "Wildlife",
-        "Climate change",
-        "Global warming",
-        "Extreme weather",
-        "Sophistication",
-        "Global change"
       ]
     },
     {
@@ -19249,63 +19489,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70734",
-      "doi_url": "https://doi.org/10.1111/gcb.70734",
-      "title": "Tree Regeneration After Unprecedented Forest Disturbances in Central Europe Is Robust but Maladapted to Future Climate Change",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-06",
-      "published_date_display": "2026-02-06",
-      "published_parts": [
-        2026,
-        2,
-        6
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70734",
-      "abstract": "ABSTRACT Central Europe has been a hotspot of forest disturbance during 2018–2020, with large pulses of tree mortality from drought and bark beetles. Post‐disturbance recovery is crucial for forest resilience and the continued provision of ecosystem services. We surveyed 849 plots in disturbance hotspots across 10 Central European countries to assess the state of early (3–5 years) post‐disturbance tree regeneration. Our specific objectives were to quantify post‐disturbance tree recovery, identify key drivers, and assess future trajectories using model‐based analyses. We found robust tree recovery throughout Central Europe, with median stem densities of 4750 n ha −1 . Only 7% of plots had no regeneration. Regeneration density increased with precipitation, particularly at warm sites, and decreased with disturbance size. The most frequently regenerating tree species was Picea abies (present on 48% of plots), a species that is poorly adapted to future heat and drought. Overall, we found that 75% of the currently established trees are projected to be outside of their climatic niche by the end of the century under moderate climate change (RCP4.5). We conclude that while Central European forests recover well from recent disturbances, they lack sufficient post‐disturbance reorganization to enable sufficient adaptation to future climate.",
-      "keywords": [
-        "Climate change",
-        "Disturbance (geology)",
-        "Picea abies",
-        "Ecosystem",
-        "Global change",
-        "Forest ecology",
-        "Regeneration (biology)",
-        "Psychological resilience",
-        "Tree (set theory)"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70707",
-      "doi_url": "https://doi.org/10.1111/gcb.70707",
-      "title": "The Ecology of Encroachment: Identifying the Species and Plant Ecological Strategies Driving African Savanna Vegetation Change",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-06",
-      "published_date_display": "2026-02-06",
-      "published_parts": [
-        2026,
-        2,
-        6
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70707",
-      "abstract": "ABSTRACT Woody encroachment threatens African savanna and grassland biodiversity and ecosystem function. Prior studies have focused on the drivers and rates, yet encroacher ecology remains underexplored. We synthesized data across six dominant woody savanna genera ( Combretum, Dichrostachys, Prosopis, Senegalia, Terminalia and Vachellia ) to test whether encroachers represent a non‐random subset of species with life history strategies and functional traits that facilitate establishment and dominance in changing ecosystems. Species were classified as encroachers based on documented ecosystem impacts and compared to non‐encroachers across climatic niches, geographic range size and traits linked to survival in disturbance‐prone ecosystems, including maximum height, plant habit, spinescence and capacity for nitrogen fixation. We identified 63 encroacher species, which occupied broader temperature (11°C–29°C vs. 17°C–27°C) and precipitation (50–2100 mm vs. 444–2300 mm) niches and larger geographic ranges (600,000 km 2 vs. 100,000 km 2 ) than non‐encroachers. Encroachers were generally taller and exhibited plasticity in habit at individual and community scales. Our results suggest that encroachment is driven by ecologically versatile woody species with wide environmental tolerances, large ranges and high phenotypic plasticity. These advantageous attributes may enhance responsiveness to global change factors characteristic of African savannas and grasslands, including altered fire and herbivory regimes, along with rising atmospheric CO 2 . Understanding the ecology of the species driving encroachment could improve early monitoring and management.",
-      "keywords": [
-        "Ecosystem",
-        "Biodiversity",
-        "Dominance (genetics)",
-        "Grassland",
-        "Ecological niche",
-        "Range (aeronautics)",
-        "Plant ecology",
-        "Woody plant",
-        "Niche",
-        "Community"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70330",
       "doi_url": "https://doi.org/10.1111/ele.70330",
       "title": "The Critical Role of Coefficients: Updating Allometric Normalisation Constants for Modern Ecology and Modelling",
@@ -19515,33 +19698,6 @@
         "Annual plant",
         "Old field",
         "Plant cover"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70720",
-      "doi_url": "https://doi.org/10.1111/gcb.70720",
-      "title": "Beyond Climate Change: The Role of Integrated Soil Fertility Management for Sustaining Future Maize Yield in Sub‐Saharan Africa",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-03",
-      "published_date_display": "2026-02-03",
-      "published_parts": [
-        2026,
-        2,
-        3
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70720",
-      "abstract": "ABSTRACT Climate change is projected to exacerbate food insecurity in sub‐Saharan Africa (SSA) by reducing crop yields and soil fertility. Many climate change impact studies in SSA have overlooked long‐term effects of soil fertility on crop yield. We evaluated maize yields under different scenarios of soil fertility (using soil organic carbon as a proxy) and climate change (considering changes in temperature, rainfall, and CO 2 ) at four sites in SSA. Using an ensemble of 15 calibrated soil‐crop models, we found a strong consensus that, without fertilization, soil fertility declines over time, impacting maize yields more strongly than changes in temperature, rainfall, or CO 2 . The model ensemble indicated that when accounting for soil fertility changes, the yield benefits of combined application of organic and mineral inputs increase over time, even under climate change. These findings highlight the importance of considering long‐term change in soil fertility when assessing impacts of climate change and integrated nutrient management on crop production in SSA.",
-      "keywords": [
-        "Soil fertility",
-        "Climate change",
-        "Soil carbon",
-        "Crop yield",
-        "Soil organic matter",
-        "Soil biodiversity",
-        "Soil management",
-        "Crop rotation"
       ]
     },
     {
@@ -20941,7 +21097,7 @@
         23
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70294",
-      "abstract": "",
+      "abstract": "Lovell, C., Williams, J., Mondolini, S., & Pettorelli, N. (2026). Individual-based models allow accurate prediction of introduced large herbivore populations in rewilded landscapes. Journal of Applied Ecology, 63, e70264. https://doi.org/10.1111/1365-2664.70264. In the paper by Lovell et al. (2025), an author's name was spelled incorrectly. The correct name should be Stevan Mondoloni. This has been corrected in the original article. We apologize for this error.",
       "keywords": [
         "Herbivore",
         "Population",
@@ -22713,7 +22869,7 @@
         5
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70285",
-      "abstract": "",
+      "abstract": "Desallais, M., Arnoldi, J.-F. and Loreau, M. 2025. “Partitioning Net Biodiversity Effects on Ecosystem Resistance and Resilience.” Ecology Letters 28, no. 11: e70249. https://doi.org/10.1111/ele.70249. In the author byline of the above published article, the last author (Michel Loreau) was only affiliated with Peking University and had only a (2) in superscript next to his name, even though he is affiliated with both institutions listed in the article. He should therefore have (1) added next to his name to indicate his affiliation with the CNRS and be listed as ‘Michel Loreau 1,2’. The published article has also been updated to reflect this correction. We apologise for this error.",
       "keywords": [
         "Biodiversity",
         "Ecosystem",
