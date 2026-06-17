@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T22:57:22.600227+00:00",
+  "generated_at": "2026-06-17T22:52:40.513785+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,26 +26,26 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.isprsjprs.2026.06.012",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.012",
-      "title": "R3LIO: Robust reflectivity-assisted rotating LiDAR-inertial odometry for degenerate and unstructured environments",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "doi": "10.1016/j.rse.2026.115533",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115533",
+      "title": "Developing 30 m resolution monthly burned area products in Africa (2017–2025)",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
       "published_parts": [
         2026,
-        9
+        10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003187",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003032",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.06.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.007",
-      "title": "CIDA: A context-informed decoupling approach for soil trace element estimation using spaceborne cross-sensor data",
+      "doi": "10.1016/j.isprsjprs.2026.05.029",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.029",
+      "title": "Integrating cloud motion information: A deep learning approach for real-time wind field retrieval using geostationary satellite imagery",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,7 +55,66 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003138",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002765",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2686261",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2686261",
+      "title": "A unified LLM-assisted framework for extracting and classifying geographical study areas from article metadata",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        6,
+        17
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2686261",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.018",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.018",
+      "title": "Integration of satellite monitoring and 3D modelling approach for multi-scale analysis of existing tunnel infrastructures",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003242",
+      "abstract": "",
+      "keywords": [
+        "Satellite",
+        "Data integration",
+        "Earth observation satellite",
+        "3D modeling",
+        "Key (lock)"
+      ]
+    },
+    {
+      "doi": "10.1080/24694452.2026.2679296",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2679296",
+      "title": "Transformative Capacity of Vulnerable Populations in Indonesia and Myanmar for Adapting to Coastal Flooding",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        6,
+        17
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2679296",
       "abstract": "",
       "keywords": []
     },
@@ -74,8 +133,69 @@
         16
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2687121",
+      "abstract": "Spatial cross-sectional data encapsulate rich information on spatial processes, forming a critical foundation for examining causation between variables. Detecting and quantifying such causation is essential for understanding complex natural and human phenomena. Measuring causal strengths from spatial cross sectional data, however, remains challenging, as existing methods often suffer from high false positive rates when quantifying causation. To address this gap, we propose a Geographical Cross Mapping Cardinality (GCMC) model that quantifies causal strength based on the intersectional cardinality of neighborhoods in reconstructed state space, and incorporates the DeLong placement method to evaluate the statistical significance of causal strength estimates. We validate GCMC using a simulated three variable causal benchmark and three representative spatial cross sectional datasets with known causal structures, and further assess its sensitivity to observational noise. Results demonstrate that GCMC effectively captures causation across weak, moderate, and strong coupling regimes while maintaining a low false positive rate and robust performance under noise. As a new extension of empirical dynamic modeling for spatial cross sectional data, GCMC complements existing methods and enables more reliable spatial causal inference.",
+      "keywords": [
+        "Causation",
+        "Cardinality (data modeling)",
+        "Causality (physics)",
+        "Pairwise comparison",
+        "Spatial analysis",
+        "Sensitivity (control systems)",
+        "Variable (mathematics)",
+        "Causal inference",
+        "Causal model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.012",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.012",
+      "title": "R3LIO: Robust reflectivity-assisted rotating LiDAR-inertial odometry for degenerate and unstructured environments",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003187",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Robustness (evolution)",
+        "Odometry",
+        "Visual odometry",
+        "Lidar",
+        "Kinematics",
+        "Degenerate energy levels",
+        "Structure from motion",
+        "Simultaneous localization and mapping",
+        "Pose"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.007",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.007",
+      "title": "CIDA: A context-informed decoupling approach for soil trace element estimation using spaceborne cross-sensor data",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003138",
+      "abstract": "",
+      "keywords": [
+        "Decoupling (probability)",
+        "Trace element",
+        "TRACE (psycholinguistics)",
+        "Estimation",
+        "Hyperspectral imaging",
+        "Earth observation"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2684650",
@@ -11081,33 +11201,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.021",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.021",
-      "title": "Integrating spatiotemporal similarity for robust gap-filling in continuous surface water mapping with uncertainty quantification",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-18",
-      "published_date_display": "2026-02-18",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000729",
-      "abstract": "",
-      "keywords": [
-        "Probabilistic logic",
-        "Similarity (geometry)",
-        "Uncertainty reduction theory",
-        "Uncertainty quantification",
-        "Reliability (semiconductor)",
-        "Uncertainty analysis",
-        "Propagation of uncertainty",
-        "Satellite",
-        "Surface water"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.018",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.018",
       "title": "Quantitative comparison of fine-tuning techniques for pretrained latent diffusion models in the generation of unseen SAR images",
@@ -11180,34 +11273,6 @@
         "Feature (linguistics)",
         "Term (time)",
         "Component (thermodynamics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.007",
-      "title": "Surface reflectance in homogeneous regions follows a Gamma distribution: principles, validation and applications",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-16",
-      "published_date_display": "2026-02-16",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000596",
-      "abstract": "",
-      "keywords": [
-        "Interpretability",
-        "Gaussian",
-        "Bayesian probability",
-        "Gamma distribution",
-        "Mixture model",
-        "Bidirectional reflectance distribution function",
-        "Land cover",
-        "Gaussian process",
-        "Statistical model",
-        "Random forest"
       ]
     },
     {
@@ -12230,32 +12295,6 @@
         "Data collection",
         "Food systems",
         "Citizen science"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115259",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115259",
-      "title": "Physics-guided deep learning for geostationary satellite-based estimation of dead fuel moisture content in Southwest China",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-22",
-      "published_date_display": "2026-01-22",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000295",
-      "abstract": "",
-      "keywords": [
-        "Geostationary orbit",
-        "Deep learning",
-        "Satellite",
-        "Geostationary Operational Environmental Satellite",
-        "Mean squared error",
-        "Water content",
-        "Artificial neural network",
-        "Pixel"
       ]
     },
     {
