@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:48:28.166556+00:00",
+  "generated_at": "2026-06-17T23:50:54.307289+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,6 +31,77 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.landurbplan.2026.105729",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105729",
+      "title": "Aligning green spaces with human activity: uncovering opportunity-realization mismatches in urban green exposure",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001532",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261457514",
+      "doi_url": "https://doi.org/10.1177/00420980261457514",
+      "title": "Urban Studies Best Article 2025",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261457514",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261456879",
+      "doi_url": "https://doi.org/10.1177/00420980261456879",
+      "title": "The aesthetic politics of memory anchoring in urban redevelopment at Shibati, Chongqing, China",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261456879",
+      "abstract": "Drawing on Jacques Rancière’s theory of aesthetic politics of the distribution of the sensible, this paper proposes the concept of the agency of memory and a framework of the economisation of memory politics through a tracking study of the whole urban redevelopment process of Shibati in Chongqing. They are not only a socio-cultural construct, but also an aesthetic-political pathway embedded in material interests and institutional arrangements. Memory and counter-memory can be either co-opted as a form of policing or serve as a pathway to politics. They have porous and fluid boundaries, the shifting of which is deeply constrained by the ‘transitional identity’ of political subjectivity. Hence, in Shibati’s urban redevelopment, the politicisation of memory that questioned the established order is converted into an economisation of memory for positional optimisation, and socially and culturally constructed memory evolves into a redistribution at the economic-cultural interface. Once endowed with economic value, memory and counter-memory are transformed into a form of capital that is calculable, tradable, and manipulable, which poses a significant challenge to memory justice. This study elucidates that the gradual mechanism of inclusion–co-optation, guided by the thread of memory and counter-memory, holds significant potential and promise for urban spatial governance in China.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261448485",
+      "doi_url": "https://doi.org/10.1177/00420980261448485",
+      "title": "Book review forum: <i>Governing Urban Development in China: Critical Urban Studies</i> WuFulongZhangFangzhu, Governing Urban Development in China: Critical Urban Studies, Routledge: London, 2025; 222 pp.: ISBN: 9781032408934, £145.00 (hbk), ISBN: 9781032408965, £37.99 (pbk), ISBN: 9781003355175 (ebook, Open Access)",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261448485",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s44284-026-00443-x",
       "doi_url": "https://doi.org/10.1038/s44284-026-00443-x",
       "title": "Urban congestion relief experiments through routing-app interventions",
@@ -46,7 +117,14 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00443-x",
       "abstract": "Abstract Traffic congestion remains a persistent challenge for urban mobility, increasing travel delays and elevating CO 2 emissions. The widespread use of smartphones and GPS navigation creates new opportunities to mitigate congestion through routing optimizations in apps, yet real-world evidence for the effectiveness of such interventions is limited. Here we report large-scale empirical experiments evaluating routing-based traffic interventions on ~100 highly congested road segments across 10 major US cities. By rerouting a small share of Google Maps trips from targeted congested highway and arterial segments to less congested alternatives of equivalent road-classes with comparable travel times, we observe a city-average 2% increase in vehicle speeds on the intervened segments, along with improved travel times 0.7% and potential annual reductions exceeding 1,000 tons of CO 2 -equivalent emissions per city in the majority of studied locations. These findings provide evidence that marginal routing interventions involving a small proportion of vehicles can measurably enhance overall road network efficiency, offering a practical pathway to easing congestion and advancing urban sustainability.",
-      "keywords": []
+      "keywords": [
+        "Psychological intervention",
+        "TRIPS architecture",
+        "Traffic congestion",
+        "Global Positioning System",
+        "Routing (electronic design automation)",
+        "Travel time"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00464-6",
@@ -64,7 +142,12 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00464-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Conceptualization",
+        "Proxy (statistics)",
+        "Population",
+        "Perspective (graphical)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00459-3",
@@ -82,7 +165,17 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00459-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Census",
+        "Census tract",
+        "Robustness (evolution)",
+        "Boundary (topology)",
+        "Aggregate (composite)",
+        "Redistricting",
+        "Aggregate data",
+        "Probabilistic logic",
+        "Summary statistics"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107265",
@@ -151,7 +244,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261452502",
       "abstract": "This article examines the evolution of wealth inequalities across regions in Britain, and in particular the role of house price inflation, homeownership and mortgage debt in driving these wealth inequalities. Drawing on descriptive and regression analysis of eight waves of the UK Wealth and Assets Survey from 2006 to 2022, our findings indicate that (net) wealth inequalities rose more rapidly (and from higher levels) in London than in the rest of Britain. We argue that that this discrepancy can be significantly attributed to housing: not only did London experience higher rates of house price inflation but these gains were shared amongst a smaller subset of property owners and were levered with relatively high levels of mortgage debt. Moreover, London also has a disproportionately large number of asset-poor, low-income renters, which further exacerbates wealth inequalities. We also find that increases in homeownership rates at the regional scale are consistently associated with a compression of (net) wealth inequalities. Our findings highlight the need for more research that considers the distinctive features of different regions, and particularly ‘superstar cities’, in conditioning the relationships between house price inflation and wealth inequalities.",
-      "keywords": []
+      "keywords": [
+        "Inequality",
+        "Inflation (cosmology)",
+        "Debt",
+        "House price",
+        "Perspective (graphical)",
+        "Wealth elasticity of demand",
+        "National wealth",
+        "Household debt"
+      ]
     },
     {
       "doi": "10.1177/00420980261451120",
@@ -169,7 +271,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261451120",
       "abstract": "This article examines the often-overlooked urban presence of the Métis people, one of three Indigenous groups recognized in Canada’s 1982 Constitution Act, outside the geographical boundaries of Canada and/or the Métis homeland. Focusing instead on the UK, the article centers the dynamic interplay between Métis representation within the National Museum of Scotland (NMS) and their historical and contemporary urban presences in Edinburgh. In doing so, we highlight the limitations of the museum’s narrative by juxtaposing it with the broader, more dynamic context of Métis heritage in Edinburgh beyond the museum, focusing on the power of Metis kinscapes for shaping Metis mobility to 19th century Edinburgh. As such, the article argues for the recognition of Métis urban heritage outside of the conventional geographical boundaries of the Metis nation. We conclude by proposing the potential of digital heritage tours to offer a mobile, interactive approach that contrasts with the static displays of the museum, enabling deeper connections to the Métis’ historical and contemporary urban presences in Edinburgh.",
-      "keywords": []
+      "keywords": [
+        "Metis",
+        "Indigenous",
+        "Sovereignty",
+        "Context (archaeology)",
+        "Narrative",
+        "Representation (politics)",
+        "Constitution",
+        "Cultural heritage",
+        "Power (physics)"
+      ]
     },
     {
       "doi": "10.1177/00420980261452057",
@@ -187,7 +299,15 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261452057",
       "abstract": "Social scientists have documented the harm associated with manufactured home community (MHC) redevelopment, however, relatively few studies consider the extent to which popular sociocultural beliefs about “trailers” and “trailer parks” shape policy decisions in ways that exacerbate, rather than alleviate the challenges they face. Drawing on ethnographic data collected over a period of 28 months (2011–2016), we present a case study of a community mapping project in Lincoln, Nebraska to examine the influence of dominant cultural beliefs that consider MHCs to be inherently poor, unsafe, and unhealthy on housing policy and programs. Our analysis reveals three key dynamics: (1) data were often interpreted in ways that confirmed preexisting biases among non-MHC stakeholders; (2) there was a sizable disconnect between the lived experiences of MHC residents and the assumptions embedded in broader policy and service systems; and (3) prevailing narratives framed the long-term decline of MHCs as inevitable, rather than the result of under regulation, systemic disinvestment, and corporate malpractice. This case study highlights how well-intentioned policy initiatives driven by objective data can unintentionally reproduce the disparities they aim to address when they are shaped by unexamined sociocultural beliefs and biases.",
-      "keywords": []
+      "keywords": [
+        "Sociocultural evolution",
+        "Harm",
+        "Inequality",
+        "Ethnography",
+        "Narrative",
+        "Public policy",
+        "Social constructionism"
+      ]
     },
     {
       "doi": "10.1177/00420980261446268",
@@ -308,7 +428,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001404",
-      "abstract": "",
+      "abstract": "Understanding of the role of urban blue spaces in mitigating heat risks is increasingly important as the climate changes, cities densify and the urban population, and ages, all of which heighten population exposure to extreme heat. Although urban ponds and other water bodies are a common feature of many cities, changes in the quantity, areal extent and cooling ability of urban ponds and subsequent implications for heat exposure are rarely explored. We examined this issue in the East Harima region of Japan, where urbanisation and industrialisation have progressed in recent years, using remote sensing imagery from early summer in 1985 and 2022 and spatial statistical analysis. Urban expansion increased impervious surfaces, while water bodies and forested areas decreased. The number and patch size of urban ponds decreased, but changes in their cooling effect varied. Of 337 ponds identified in 1985, 306 (90.80%) provided cooling effects. Average cooling was 2.95 °C and the mean cooling effect was 0.0230 °C/m. Of 274 ponds that remained in 2022, 206 (75.18%) provided cooling effects. Average cooling was 3.70 °C and mean cooling was 0.01855 °C/m. In central areas, the thermal gradient between water bodies and impervious surfaces enhanced the cooling effect due to an increase in buildings and reduction of green spaces. However, pond fragmentation or disappearance and installation of floating solar panels undermined cooling, turning ponds into local surface heat islands. These findings demonstrate that small urban ponds which are meaningful to urban heat mitigation, particularly in densely populated areas. Where pond quantity and size remain constant, and the density of impervious surfaces increases, cooling benefits derived from these urban blue spaces can increase. However, increased impervious surfaces often accompany pond deterioration. Further research is needed to fully understand and maximise the potential of urban ponds in enhancing urban resilience.",
       "keywords": [
         "Urban heat island",
         "Hydrology (agriculture)",
