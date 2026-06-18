@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T23:08:06.332298+00:00",
+  "generated_at": "2026-06-18T23:24:25.091536+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01867-y",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01867-y",
+      "title": "Broad-spectrum insecticide detoxification for the protection of managed pollinators",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
+      "published_parts": [
+        2026,
+        6,
+        18
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01867-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02669-y",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02669-y",
+      "title": "Temperate local extinctions from climate change are outpacing tropical extinctions",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
+      "published_parts": [
+        2026,
+        6,
+        18
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02669-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01842-7",
       "doi_url": "https://doi.org/10.1038/s41893-026-01842-7",
       "title": "Neighbourhood design and the environmental and social costs of suburbanization",
@@ -41,7 +77,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01842-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Suburbanization",
+        "Neighbourhood (mathematics)",
+        "Sustainability",
+        "Matching (statistics)",
+        "Greenhouse gas",
+        "Compact city",
+        "Urban sprawl",
+        "Construct (python library)",
+        "Built environment"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01861-4",
@@ -59,7 +105,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01861-4",
       "abstract": "Abstract Many companies have adopted zero-deforestation commitments (ZDCs) to remove products linked to forest loss from their supply chains. A common concern is that such policies may lead to the supply chain exclusion of smallholder farmers. Here, in this study of the Indonesian palm oil sector, we draw on surveys with 1,541 farm households and 53 interviews with supply chain actors to assess whether and how ZDCs reach non-industrial producers, including effects on market access, prices, training and village-level deforestation. We find that access to ZDC markets depends largely on location within company sourcing areas, while active exclusion appears to be limited. Certification-based engagement reaches some tied smallholders, but ZDC awareness remains low, with weak policy dissemination, limited bottom-up traceability and almost no ZDC-focused capacity building or price differentiation for producers, especially independent smallholders. Deforestation levels in villages within the sourcing areas of ZDC firms are low but similar to patterns elsewhere. These findings highlight effectiveness and equity gaps in current ZDC approaches.",
-      "keywords": []
+      "keywords": [
+        "Palm oil",
+        "Indonesian",
+        "Supply chain",
+        "Traceability",
+        "Equity (law)",
+        "Transparency (behavior)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01893-w",
@@ -76,8 +129,15 @@
         17
       ],
       "link": "https://www.nature.com/articles/s41893-026-01893-w",
-      "abstract": "",
-      "keywords": []
+      "abstract": "In the version of the article initially published, ref. 34 was incorrect, and has been changed to ‘Bennett, L., Tamang, S., Onta, P. & Thapa, M. Unequal Citizens: Gender, Caste and Ethnic Exclusion in Nepal (The World Bank, 2006),’ which was ref. 31 in the initial article. Some references have been renumbered due to this correction.",
+      "keywords": [
+        "Decentralization",
+        "Caste",
+        "Ethnic group",
+        "Inequality",
+        "Rural development",
+        "Community forestry"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02018-w",
@@ -95,7 +155,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02018-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Heat flow",
+        "Heat flux",
+        "Convection",
+        "Mantle (geology)",
+        "Flux (metallurgy)",
+        "Convective heat transfer",
+        "Flow (mathematics)",
+        "Heat transfer"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02677-y",
@@ -113,7 +182,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02677-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Vapour Pressure Deficit",
+        "Dryness",
+        "Climate change",
+        "Global warming",
+        "Land use",
+        "land-use change and forestry",
+        "Effects of global warming"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02662-5",
@@ -131,7 +208,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02662-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Greenhouse gas",
+        "Asset (computer security)",
+        "Capital (architecture)",
+        "Production (economics)",
+        "Distribution (mathematics)",
+        "Inequality",
+        "Global warming",
+        "Emerging markets"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02693-y",
@@ -149,7 +235,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02693-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Paragraph",
+        "Carbon fibers",
+        "Carbon sequestration",
+        "Climate change",
+        "Carbon dioxide",
+        "Significant difference",
+        "Sample (material)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02654-5",
@@ -167,7 +261,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02654-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Greenhouse gas",
+        "Capital (architecture)",
+        "Carbon fibers",
+        "Climate change",
+        "Capital accumulation",
+        "Carbon capture and storage (timeline)",
+        "Carbon market"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02016-y",
@@ -3005,7 +3107,7 @@
         12
       ],
       "link": "https://www.nature.com/articles/s41561-026-01972-9",
-      "abstract": "",
+      "abstract": "Wildfires emit large quantities of brown carbon, a class of light-absorbing organic aerosols whose climate effects remain poorly constrained. Brown carbon displays a broad spectrum of absorptivity, ranging from weakly absorbing chromophores in the near-ultraviolet to strongly absorbing species that extend into the visible spectrum—yet its optical properties, global distribution and radiative influence remain largely uncertain. Here we assess the global prevalence and optical characteristics of dark brown carbon through an integrated analysis of aircraft measurements, ground-based observations and satellite retrievals. We show that this strongly absorbing aerosol is widespread in wildfire plumes around the world. Measured dark brown carbon mass absorption efficiencies range from 0.5 to 1.5 m2 g−1 at 500 nm, with absorption frequently comparable to—or even exceeding—that of black carbon. When these observationally constrained optical properties are incorporated into a global aerosol–climate model, we estimate a direct radiative effect of +0.097 W m−2 (spanning +0.050 to +0.276 W m−2) attributable to wildfire-derived brown carbon, with the upper bound surpassing black carbon’s contribution and extending into mid- and high-latitude regions, including the Arctic. These results position dark brown carbon as a critical yet underrecognized contributor to wildfire radiative forcing, highlighting the need to account for its substantial warming influence in climate assessments. According to a data model analysis, dark brown carbon emitted by wildfires exerts radiative effects that can rival or exceed those of black carbon, extending into mid- and high-latitude regions, including the Arctic.",
       "keywords": [
         "Radiative transfer",
         "Carbon fibers",
@@ -3165,7 +3267,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01775-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Phosphorus",
+        "Wastewater",
+        "Sustainability",
+        "Carbon fibers",
+        "Sewage treatment",
+        "Total organic carbon"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01807-w",
@@ -5628,7 +5737,7 @@
         2
       ],
       "link": "https://www.nature.com/articles/s41561-026-01959-6",
-      "abstract": "",
+      "abstract": "The meridional overturning circulation makes a dominant contribution to the transport and budgets of heat, carbon and nutrients in the global ocean, with broad consequences for climate affecting terrestrial, oceanic and human ecosystems. Evidence is growing that the overturning circulation in both the Atlantic and Southern Oceans has slowed in recent decades and is projected to slow further as the planet warms. However, the significance of trends based on short instrumental records is debated, and models vary widely in the projected response of the circulation to changes in forcing. Here we use proxy records in deep-sea corals from the southwest Pacific to reconstruct Southern Ocean circulation over the past 1,300 years. We show that the Southern Ocean overturning circulation has declined irregularly over the past millennium and correlates on decadal to millennial timescales with a meridional overturning of the North Atlantic. Our results indicate that variability in Southern Ocean overturning historically precedes changes in the Atlantic, that overturning in both hemispheres is the weakest it has been over the past millennium and that local (North Atlantic) forcing since the mid-1900s has exacerbated an Atlantic overturning already preconditioned by Southern Ocean dynamics to remain weak. Changes in Southern Ocean circulation have preceded shifts in the Atlantic Meridional Overturning Circulation in the North Atlantic over the past 1,300 years, according to an analysis of bamboo coral records from the southwest Pacific.",
       "keywords": [
         "Shutdown of thermohaline circulation",
         "Thermohaline circulation",
@@ -7873,7 +7982,14 @@
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000527",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Offset (computer science)",
+        "Key (lock)",
+        "Climate change",
+        "Carbon fibers",
+        "Carbon offset",
+        "Dream"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101648",
