@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T00:04:23.013924+00:00",
+  "generated_at": "2026-06-18T00:03:08.039903+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,114 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03107-0",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03107-0",
+      "title": "Rewiring of two conserved signalling hubs into one axis underlies convergent female-specific wing regression in insects",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        6,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03107-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03095-1",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03095-1",
+      "title": "Landscape quality drives ecological responses to habitat loss and fragmentation",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        6,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03095-1",
+      "abstract": "Abstract Studies have suggested that the quality of the lands surrounding habitat patches can modify the effects of habitat loss and fragmentation on species and influence biodiversity predictions across regions. As landscape matrices tend to be complex and vary with habitat change, isolating such effects is challenging. Here we disentangle the effects of habitat loss, fragmentation and surrounding landscape quality in a large, multiscale manipulative experiment on a plant–herbivore system. We find that habitat loss, fragmentation and surrounding matrix quality all affect survival rates, with the greatest negative effects of fragmentation and lower matrix quality under high habitat loss. Demographic rate changes resulted in strong negative effects of habitat loss, fragmentation and low matrix quality on population size at the landscape scale. Our findings indicate that the benefits of high landscape quality are greater in landscapes with low habitat fragmentation, contesting the common expectation that the surrounding matrix matters only in the most fragmented landscapes. This underscores that the quality of the surrounding landscape can have outsized effects on biodiversity in remaining habitats.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70373",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70373",
+      "title": "Tree growth phenology shifts in response to trait‐based neighbourhood effects in a large subtropical forest biodiversity experiment",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        6,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70373",
+      "abstract": "Abstract Seasonal dynamics of tree growth, specifically intra‐annual variation in growth timing and rates, are critical for forest carbon sequestration. However, the mechanisms by which neighbourhood interaction affects these responses remain unclear in species‐rich subtropical forests. We monitored radial growth of 2478 trees from 35 species over 3 years in the BEF‐China experiment to examine how neighbourhood functional composition, that is functional dominance and diversity influence growth phenology and annual growth. We used gradients of traits related to resource acquisition (e.g. specific leaf area, leaf phosphorus, xylem conductivity) and water‐use control (e.g. wood density, stomatal density/index) to quantify functional dominance (community‐weighted means; CWM) and functional diversity (Rao' Q ) in 8‐tree neighbourhoods. Our results showed that neighbourhood effects depended on focal‐tree trait syndromes. Trees with resource‐acquisitive traits started and ended fast growth earlier but reached a lower maximum daily growth rate. In contrast, conservative water‐use trees delayed the end of fast growth and achieved a higher maximum daily growth rate, consistent with temporal niche differentiation. Functional diversity interacted with focal traits: in acquisitive trees, higher functional diversity along both trait axes tended to delay the start and end of fast growth, whereas in conservative water‐use trees, higher functional diversity advanced start and increased maximum daily growth rate, particularly in neighbourhoods dominated by such water‐conserving traits (high CWM on the water‐use axis). Structural equation models showed that earlier start, later end and higher maximum daily growth rate together increased annual growth. Among these, the effect of maximum daily growth rate was the strongest. Fixed effects of focal and neighbourhood traits accounted for relatively limited 8–19% of variation in phenology metrics (marginal R 2 : start = 0.082, end = 0.191, maximum rate = 0.131). These findings suggest that neighbourhood functional composition is one of multiple factors driving phenological timing and productivity. Synthesis . Shaped by focal‐tree trait syndromes, neighbourhood functional diversity was associated with growth phenology and annual productivity in subtropical forests, which points to temporal niche complementarity as a contributing mechanism in biodiversity–productivity relationships.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70377",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70377",
+      "title": "Structural differences in individual pollinator networks across bee species reveal the importance of population‐level processes in the assembly of species interactions",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        6,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70377",
+      "abstract": "Abstract Patterns of community‐wide interactions have been typically evaluated at the species level while overlooking how differences in individual behaviour within a species may influence the structure of species interactions. Characterising and comparing individual‐level interaction network structure across multiple species could help reveal the role that population‐level processes (e.g. intraspecific competition and individual niche redundancy) play in structuring species‐wide interactions. We characterised individual‐ and species‐level plant–pollinator networks using pollen loads of over 500 insects that foraged on ~40 plant species. We further compared individual‐level network properties among three well‐sampled pollinator species to uncover signals of population‐level processes structuring species interactions. We also evaluated the role of two potential drivers (body size and sex differences) mediating differences in pollinator foraging niche breadth and individual network structure. Individual pollinators were more specialised compared with ‘random samplers’ of their overall species' diet (based on null model expectations), suggesting high individual niche partitioning. We also observed differences in patterns of individual‐level network structure and degree of individual specialisation among pollinator species. These differences suggest that both niche differentiation and redundancy at the population level may contribute to the structure of species‐wide interactions, with unknown consequences for pollination success. Intraspecific variation in body size did not affect pollinator niche at the species level. However, female bees were more specialised than males, suggesting sex‐based differences contribute to variation in individual specialisation. Synthesis. By using individual‐level networks within a comparative framework, this study advances our understanding of how individual foraging patterns may scale up to structure species‐level plant–pollinator networks. In doing so, this study further aids in helping resolve perceived conflicts between specialisation and generalisation in plant–pollinator communities.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70368",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70368",
+      "title": "Same damage, different story: Vertical decoupling of herbivore abundance and beech herbivory across forest layers",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        6,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70368",
+      "abstract": "Abstract Invertebrate herbivory is a key ecological process shaping ecosystem multifunctionality, especially in forest habitats. The vertical stratification of forests is characterised by unique structural niches, microclimatic conditions, the availability of resources for organisms and biotic assemblages. Nevertheless, a comprehensive understanding of the processes driving plant–herbivore interactions across forests' complex three‐dimensional systems remains poorly understood. We selected forest stands along physiological and structural axes and used high‐resolution LiDAR data on stand structure, together with microclimate and biodiversity data, to investigate patterns of invertebrate herbivory on European beech ( Fagus sylvatica ) leaves and herbivore abundance across different spatial scales, in the canopy and understorey of a beech‐dominated forest. Herbivore abundance in the canopy was 67% higher than in the understorey, yet relative herbivory did not differ between layers. This decoupling between herbivore abundance and herbivory suggests a resource dilution effect: greater foliage availability in canopies leads to herbivore aggregation but proportionally dilutes relative leaf damage. We found layer‐specific drivers, with herbivore abundance responding negatively to vertical structure and positively to microclimate in both layers, while woody plant diversity had contrasting effects across layers. Relative herbivory was only influenced positively by woody plant diversity in the understorey. Stand‐specific factors explained substantial variance in both metrics, suggesting that important drivers operate simultaneously across stands and vertical layers. Synthesis . This study shows that the relationship between herbivore abundance and herbivory can be decoupled across vertical forest layers through resource dilution, challenging the assumption that more herbivores result in more per‐leaf damage. The effects of woody plant diversity and structure depend on whether a stratum functions as a resource‐rich or resource‐limited environment for beech leaf herbivores. These findings highlight that understanding the mechanisms of resource availability as drivers of herbivory in forests requires vertically resolved, multi‐scale approaches.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70374",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70374",
+      "title": "Divergent evolution of traits and plasticity across climate gradients in a widespread tree species",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        6,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70374",
+      "abstract": "Abstract Species with large distributions that span significant environmental gradients have evolved complex mechanisms to adapt to different environments. This adaptation can be achieved both through the direct selection on traits that convey higher fitness under local environmental conditions, or through the evolution of phenotypic plasticity. Under a common‐garden experimental setup, we tested for the keystone African tree species Acacia tortilis how the interaction between direct selection on traits and evolution of plasticity has led to its widespread distribution to two contrasting environments: deserts and tropical savannas. In addition, we tested the predictability of evolution by comparing populations in opposing deserts of its distribution, the Sahara and Kalahari deserts. We observed significant differences in how various phenotypes responded to the harsh desert environment compared with the more moderate tropical‐savanna environment, with a stronger among‐population differentiation expressed under desert conditions. We found an isolation‐by‐environment signal mainly for phenotypic plasticity, with a strong association to precipitation gradients, suggesting that differentiation across the tropic‐desert gradient occurs in this species primarily through selection on trait plasticity rather than trait means. Interestingly, the two desert‐edge populations showed similar plastic responses, despite the large geographical distances between them, suggesting convergence in plasticity. Synthesis . Taken together, our results suggest that phenotypic plasticity plays an important role in differentiation across the tropical‐savanna to desert gradient in Acacia tortilis , with similar phenotypic responses observed between climatically comparable populations at opposing range edges.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03104-3",
       "doi_url": "https://doi.org/10.1038/s41559-026-03104-3",
       "title": "Dwarf mongooses pre-emptively alter their behaviour relative to the threat posed by different rival groups",
@@ -51,7 +159,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03104-3",
       "abstract": "Abstract Intergroup conflict is a potent evolutionary force across taxa, but little research has investigated how social animals pre-emptively change their behaviour in scenarios where contests with rivals are more likely. Moreover, the few studies examining this aspect of intergroup conflict fail to consider rival characteristics despite them determining contest outcomes and interaction costs, which define the threat level different groups pose. Here we show how non-human animals can tailor their anticipatory behaviour to the specific threat posed by rivals, using 10 years of detailed behavioural observations and GPS data. We demonstrate that dwarf mongooses ( Helogale parvula ) adjust their space use, information provisioning and resource defence dependent on the relative group size of neighbours to help them mitigate the threat from both well-matched competitors and more dangerous larger rivals. By contrast, behavioural differences between the core and edge of home ranges were more equivocal, highlighting the importance of considering rival characteristics rather than just spatial location as an indicator of threat level. Our results showcase how animals have evolved to be best prepared for a key part of their ecology, potential future contests, indicating abilities that allow them to survive and thrive in a landscape of intergroup conflict.",
-      "keywords": []
+      "keywords": [
+        "CONTEST",
+        "Competitor analysis",
+        "Provisioning",
+        "Territoriality",
+        "Social animal",
+        "Resource (disambiguation)",
+        "Social relation",
+        "Scramble competition"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70365",
@@ -69,7 +186,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70365",
       "abstract": "Abstract Temperate tree species are notable for their broad distributions along climate gradients and their ability to tolerate highly variable conditions on diurnal to interannual time scales. This reflects the aggregate effects of genetic adaptation, morphological and physiological acclimation, and physiological tolerance. Understanding differentiation in the responses of local populations to spatial and temporal climate variability and incorporating its effects in models of forest dynamics remains a significant challenge in forecasting the effects of future climate change on tree species distributions and ecosystem processes. To test for and quantify the strength of local differentiation in the 50 most common tree species in forests of the eastern United States, we compiled data on tree growth from forest inventory plots and used imputation methods to fit statistical models for growth that incorporate both regional variation in long‐term mean temperature and precipitation, and local interannual variation in climate relative to the long‐term mean. The best supported models for 41 of the 50 species include local differentiation in response to climate. Most species showed roughly linear increases in growth as a function of precipitation along regional rainfall gradients, but with even stronger increases in growth when rainfall in a given year was greater than the long‐term mean at a location. Responses of species to regional and interannual variation in temperature were more varied, with regional variation often exceeding interannual variation in growth at a given location. Synthesis . Failure to incorporate these patterns of local differentiation in the SORTIE‐ND model of forest dynamics under an intermediate emissions pathway (RCP 4.5) results in a significant over‐estimate of future carbon stocks and sequestration. The degree of reduction in forest carbon stocks predicted when local differentiation is included depends on whether the differentiation reflects a rapid ability to acclimate to changing climate or a much slower genetic adaptation.",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Temperate climate",
+        "Ecosystem",
+        "Temperate forest",
+        "Temperate rainforest",
+        "Precipitation",
+        "Forest dynamics",
+        "Forest ecology",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70372",
@@ -87,7 +214,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70372",
       "abstract": "Abstract Novel ecosystems created by non‐native trees cause changes in the structure of ecosystems. These changes cause disruption in ecological processes such as pollination and seed dispersion, jeopardizing these two processes that are vital for native plant communities and forest dynamics. The introduction of non‐native tree species, such as Eucalyptus globulus and Acacia dealbata , has significantly altered forests in the central region of Portugal. The resulting landscape configuration, now dominated by these two species, provides a unique setting to study how highly altered landscapes and novel ecosystems affect functional species diversity and interactions at a regional scale. Using regional data on bird‐mediated seed dispersal and pollination by birds and insects, we applied a spatial multilayer network approach to assess how these animal‐driven processes occur across different forest types (Native, Acacia and Eucalyptus ) and vary with distance between sites. By representing sites as layers connected through shared species and their interaction partners, this framework captures how interactions are linked across space and how spatial turnover in species interactions shapes network mesostructure. This network approach also allowed us to examine how landscape variables influence functional biodiversity and biotic interactions across the region. Our results show that forest type and landscape attributes are significantly associated with differences in species connectivity, functional diversity and interaction patterns across animal‐mediated processes. Specifically, connectivity and species composition varied between native and non‐native forests, while landscape complexity and land‐cover composition were associated with differences in species and interaction dissimilarity across spatial scales. These associations differed between pollination and seed dispersal networks, reflecting differences in mobility and resource use among animal groups. Synthesis: Our study suggests that landscape complexity influences functional biodiversity in pollen transport and seed dispersal at a regional scale. These findings underscore the importance of accounting for these dynamics in regional conservation and ecosystem management efforts.",
-      "keywords": []
+      "keywords": [
+        "Seed dispersal",
+        "Biodiversity",
+        "Pollination",
+        "Ecological network",
+        "Biological dispersal",
+        "Ecosystem",
+        "Beta diversity",
+        "Acacia",
+        "Species diversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70463",
@@ -105,7 +242,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70463",
       "abstract": "Abstract Emerging infectious diseases pose a growing threat to global biodiversity. During Brazil's 2017–2019 yellow fever (YF) outbreak, approximately 30% of the endangered golden lion tamarin (GLT) ( Leontopithecus rosalia ) population was lost—highlighting the vulnerability of wildlife to such epidemics. YF is a vector‐borne disease transmitted by forest‐dwelling mosquitoes, with landscape structure and human modification potentially influencing transmission dynamics. However, the environmental drivers of YF mortality in wild primate populations, and how they shift between outbreak and non‐outbreak periods, remain largely unknown. In this study, we investigated the impact of YF outbreak on GLT mortality and examined the environmental factors that may have facilitated the spread and severity of the disease. Using data derived from three decades of monitoring (1989–2022) and modelling approaches (e.g. generalized linear models and spatial mapping), we compared survival patterns during the 2017–2019 YF outbreak to those from an immediately preceding outbreak‐free period (2014–2016). We modelled the probability that GLTs survived each year as a function of forest cover, fragment connectivity, human population density, road proximity and group size. Landscape and demographic factors showed different effects during outbreak versus non‐outbreak years. While habitat connectivity enhanced survival before the outbreak, it amplified mortality during the YF outbreak, highlighting the context‐dependent effects of landscape features on wildlife populations. Human‐modified environments had minimal impact on GLTs prior to the outbreak, but promoted mortality during the outbreak, likely by facilitating contact with infected mosquito vectors in edge habitats and disturbed forest patches. In contrast, climatic variables did not emerge as significant predictors of survival. Synthesis and applications : Spatial projections revealed high‐risk areas for YF transmission, highlighting priority zones for targeted vaccination efforts in GLTs. By integrating disease ecology into conservation planning, this study offers a scalable framework for spatially informed interventions aimed at mitigating disease‐driven declines in threatened species.",
-      "keywords": []
+      "keywords": [
+        "Outbreak",
+        "Wildlife",
+        "Endangered species",
+        "Population",
+        "Yellow fever",
+        "Habitat",
+        "Vaccination",
+        "Transmission (telecommunications)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70449",
@@ -123,7 +269,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70449",
       "abstract": "Abstract Wetland restoration is widely implemented to rebuild soil organic carbon (SOC); however, success is still commonly assessed using bulk SOC, which integrates carbon pools with distinct turnover times and stabilization mechanisms, and may therefore misrepresent the recovery of stable carbon. To address this limitation, we compiled a national‐scale dataset of restored wetlands across China (452 paired comparisons from 43 sites) to quantify the recovery trajectories of labile organic carbon (LOC) and recalcitrant organic carbon (ROC), with ROC defined as SOC minus LOC and used as a proxy for the relatively stable SOC pool. LOC and ROC showed distinct associations with restoration drivers: LOC recovery was closely associated with plant biomass and gross primary productivity, whereas ROC recovery was primarily constrained by clay content, pH and salinity. After 60 years of restoration, LOC recovered to approximately 50% of natural wetland levels, ROC reached only ~37%, and overall SOC recovered to ~39%; all three pools exhibited pronounced deceleration within the observed restoration period. Recovery magnitudes of LOC and ROC varied across restoration contexts. Among converted land‐use types, bareland‐derived restorations showed the largest relative increases in LOC and ROC but remained furthest from natural wetland levels, whereas paddy‐derived restorations exhibited the smallest gains yet were closest to natural levels. Across restored wetland types, peatlands showed greater ROC accumulation but more limited LOC accumulation, whereas coastal wetlands showed greater LOC accumulation but more constrained ROC accumulation. Among restoration strategies, combined restoration produced the most sustained increases in both carbon pools over time compared with either planted or rewetted restoration alone. Synthesis and applications . These findings show that the slow recovery of the relatively stable SOC pool constrains long‐term soil carbon restoration in wetlands, underscoring the need to integrate ROC‐based metrics into the evaluation of long‐term carbon sequestration during restoration.",
-      "keywords": []
+      "keywords": [
+        "Wetland",
+        "Restoration ecology",
+        "Soil carbon",
+        "Biomass (ecology)",
+        "Total organic carbon",
+        "Carbon fibers"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70454",
@@ -141,7 +294,46 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70454",
       "abstract": "Abstract Bush encroachment poses a critical threat to rangeland productivity and ecosystem functioning worldwide, with particularly severe impacts in southern Africa. Although bush thinning (‘debushing’) is widely employed as a control measure, its ecological consequences for arthropod communities remain poorly understood. We assess how bush thinning methods (manual vs. chemical) and intensities (50% vs. 100% removal) affect arthropod community composition, abundance and diversity in bush‐encroached rangeland savannah ecosystems dominated by three common encroaching shrub species: Dichrostachys cinerea , Senegalia mellifera and Terminalia sericea in Namibia. Arthropods were sampled from ground, canopy and aerial strata across 135 plots representing five treatment combinations during wet and dry seasons. Complete shrub removal (100% thinning through felling) induced the strongest ecological changes, reducing overall arthropod abundance by up to 30%, double the effect observed under moderate felling (50%). Solifugae were highly abundant in fully cleared plots. Functionally significant groups, including pollinators (Thysanoptera), herbivores (Curculionidae), decomposers (Psocodea) and predators (Araneae), responded positively to moderate compared with complete manual thinning. Complete chemical treatments significantly suppressed common herbivorous (Auchenorrhyncha) and sensitive taxa including Coccinellidae and Opiliones. The soil properties further mediated the responses of arthropods among shrub species. The abundance of arthropods increased with near‐neutral soil pH, reaching peak in the S . mellifera plots, but declined under elevated phosphorus and organic matter. Synthesis and applications : Moderate manual thinning (50F) maintained arthropod diversity comparable to untreated controls while reducing shrub dominance, demonstrating that structural heterogeneity buffers biodiversity loss during rangeland restoration in Namibian bush‐encroached systems. These findings advocate mosaic debushing strategies that preserve vegetation complexity and edaphic mosaics, reconciling bush control with arthropod conservation to ensure long‐term savannah ecosystem resilience.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Decomposer",
+        "Herbivore",
+        "Thinning",
+        "Shrub",
+        "Abundance (ecology)",
+        "Ecosystem",
+        "Rangeland",
+        "Shrubland"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70945",
+      "doi_url": "https://doi.org/10.1111/gcb.70945",
+      "title": "The Integration of Fire Ecology and Freshwater Ecosystems in North America: Knowledge Gaps and Research Needs",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-16",
+      "published_date_display": "2026-06-16",
+      "published_parts": [
+        2026,
+        6,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70945",
+      "abstract": "ABSTRACT Wildfires, unplanned fires that start and spread under the influence of weather and fuel composition, are increasing in frequency, duration, and severity across North America. While wildfires are one component of wildland fire, a broader natural process in many ecosystems, their changing behavior poses growing ecological and management challenges. Although wildfire is widely recognized as an important disturbance, empirical research quantifying its impacts on freshwater ecosystems remains limited and fragmented. As a result, our understanding of how wildfire affects imperiled freshwater systems remains underdeveloped. The objective of this review was to synthesize the existing empirical literature and identify key knowledge gaps to guide future research on wildfire–freshwater interactions across both biotic and abiotic components. At the biological scale, uncertainties remain around species‐ and community‐level responses (e.g., direct and indirect effects on biota). Freshwater habitat dimensions should also be the focus of further research, including alterations to physical structure (e.g., vegetation) and physicochemical conditions (e.g., temperature). From a management perspective, critical questions relate to fire‐informed restoration (e.g., specialized techniques, role of managed burns) and strategies for enhancing ecosystem resilience (e.g., identifying relevant indicators, links to watershed health). Understanding how land‐use change (e.g., forestry) and climate change interact to influence wildfire regimes and generate cumulative effects across landscapes is also essential in this new wildfire reality. To advance research and practice, we recommend comprehensive monitoring, standardization of methods and indicators, recognition of the role of cultural and prescribed burns, meaningful knowledge co‐production, and bridging the gap between scientific knowledge and management action.",
+      "keywords": [
+        "Abiotic component",
+        "Climate change",
+        "Ecosystem",
+        "Psychological resilience",
+        "Resilience (materials science)",
+        "Watershed",
+        "Habitat",
+        "Freshwater ecosystem",
+        "Ecosystem management",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1111/gcb.70968",
@@ -158,8 +350,15 @@
         16
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70968",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Satellite greening has become a key tool for monitoring alpine vegetation change, but a positive vegetation-index trend is not an ecological observation in itself. This perspective shows that interpreting alpine greening requires addressing two sequential challenges: methodological complexity, which can bias trends during image processing, and phenomenological complexity, because different ecological processes can produce similar spectral signals. Progress now depends less on producing more greening maps than on linking robust satellite trends to ground-based ecological processes.",
+      "keywords": [
+        "Greening",
+        "Vegetation (pathology)",
+        "Satellite",
+        "Satellite imagery",
+        "Climate change",
+        "Perspective (graphical)"
+      ]
     },
     {
       "doi": "10.1111/gcb.70966",
@@ -177,7 +376,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70966",
       "abstract": "ABSTRACT The carbon (C) balance in terrestrial ecosystems is primarily determined by inputs from net primary productivity and C outputs to the atmosphere through organic matter. Understanding the global C balance is crucial for predicting their current and future roles of terrestrial ecosystems as C sources or sinks in the context of global change. Drylands, covering nearly 45% of Earth's land surface, contribute significantly to net primary production (NPP) and influence the interannual variability of the terrestrial C sink. However, the controls on plant litter decomposition, a major pathway of C release, remain unclear in these ecosystems. Here, we present a global analysis of plant litter decomposition in drylands, using a dataset from 116 sites across six continents spanning diverse climates and ecosystems. We found that litter decomposition did not correlate with mean annual precipitation (MAP) or aridity at the global scale, challenging the paradigm that the quantity of rainfall received annually is the primary constraint on ecological processes in drylands. Instead, our analysis identifies mean annual temperature (MAT), precipitation–temperature synchrony, precipitation variability, and cloud‐cover frequency as key drivers. Specifically, our model predicted faster decomposition rates in drylands with higher MAT, more synchrony between wet and warm seasons (monsoonal climate), larger precipitation variability, and litter with higher N content. Across drylands, decomposition correlated positively with both nitrogen and lignin content, in contrast to the negative lignin–decomposition relationship commonly observed in mesic ecosystems. Because MAT and solar irradiance strongly covary, apparent temperature effects may in part reflect radiation‐driven processes, highlighting photodegradation as an important control, particularly in very arid zones. Given the ongoing expansion of drylands, rising temperatures and changes in precipitation variability under climate change, our results underscore the need to refine decomposition models beyond traditional aridity frameworks to accurately predict dryland contributions to the global C balance.",
-      "keywords": []
+      "keywords": [
+        "Primary production",
+        "Ecosystem",
+        "Terrestrial ecosystem",
+        "Context (archaeology)",
+        "Litter",
+        "Plant litter",
+        "Precipitation",
+        "Carbon cycle",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1111/gcb.70954",
@@ -195,7 +404,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70954",
       "abstract": "ABSTRACT With global warming, precipitation variability is increasing, affecting water availability and consequently ecosystem functioning and carbon uptake. Semi‐arid ecosystems are very sensitive to changes in water availability since both gross primary productivity (GPP) and ecosystem respiration (R eco ) are strongly linked to it, contributing most to the interannual variability and trend of the global land carbon sink. However, their carbon‐dioxide (CO 2 ) flux dynamics and specifically R eco are not well understood and poorly represented in models. Here we compiled a long‐term global dataset of eight eddy‐covariance sites located in semi‐arid savannas to analyze the effects of precipitation variability on their net ecosystem exchange (NEE, with NEE = R eco —GPP). We assessed the effects of precipitation variability, represented by precipitation amount, frequency, intensity, and dry spell length, on both annual and seasonal CO 2 fluxes. We used linear mixed effect models to identify relationships between the precipitation metrics, environmental factors, and CO 2 fluxes. We further employed structural equation models to identify direct and indirect effects of precipitation variability on ecosystem CO 2 fluxes in different phenological seasons. The results indicate that precipitation amount and intensity mostly lead to increasing GPP and R eco on the annual scale, with different net effects on NEE depending on the sites. On the seasonal scale, both precipitation frequency and intensity explained more NEE variations than precipitation amount only, while the contribution of dry spell length was negligible. The three precipitation metrics together lead to highest model improvement. Across seasons, soil water content was the main mediator of precipitation impacts on CO 2 fluxes, with air temperatures co‐dominating in the drydown season. Overall, this study shows that precipitation intensity, frequency, and their seasonal timing are crucial for explaining ecosystem CO 2 flux dynamics of semi‐arid savannas. This can help improve predictions of the effects of increasing precipitation variability on the global carbon cycle.",
-      "keywords": []
+      "keywords": [
+        "Precipitation",
+        "Ecosystem",
+        "Primary production",
+        "Ecosystem respiration",
+        "Terrestrial ecosystem",
+        "Carbon cycle",
+        "Flux (metallurgy)",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1111/gcb.70970",
@@ -254,7 +472,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70436",
       "abstract": "Abstract Red‐listed species form an important basis for conservation action, yet their specific habitat requirements often remain elusive due to their rarity and cryptic nature. We address this gap by testing whether commonly used indirect measures of forest biodiversity can also indicate the presence of red‐listed species and yield informative threshold values. We conducted a fieldwork campaign covering 120 plots along a gradient of structural availability and forest management intensity in Sweden. In these plots, we inventoried epixylic fungi and bryophytes, epixylic and epiphytic lichens, and tree‐related attributes. Using logistic regression, we tested whether taxon‐specific structural thresholds related to deadwood, broad‐leaved trees, and large trees could be identified for the probability of presence of an increasing number of red‐listed species. We found that deadwood volume, which strongly correlated with deadwood diversity, indicated a significantly increased probability of presence of red‐listed epixylic fungi and bryophytes. The threshold values, for a 50% probability of presence of one red‐listed species ranged from 36 to 63 m 3 /ha of total deadwood for fungi and 31 to 58 m 3 /ha of lying deadwood for bryophytes. For lichens, we were unable to find significant predictors of their presence. Synthesis and applications . We show that deadwood volume is a reliable, taxon‐specific indicator of the presence of red‐listed bryophytes and fungi but not lichens. By explicitly focusing on threatened species and deriving statistically defined thresholds from managed boreal forests, our study provides empirical benchmarks that go beyond commonly used biodiversity indicators. The threshold values identified here substantially exceed widely cited recommendations, demonstrating that deadwood requirements for red‐listed species in contemporary managed landscapes are higher than previously assumed. This underscores the strong context dependence of structural thresholds and highlights a critical mismatch between current deadwood availability and the levels needed to sustain threatened epixylic species, reinforcing the importance of protecting deadwood‐rich forests.",
-      "keywords": []
+      "keywords": [
+        "Threatened species",
+        "Biodiversity",
+        "Boreal",
+        "Taiga",
+        "Habitat",
+        "Coarse woody debris",
+        "Temperate rainforest",
+        "Global biodiversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70446",
@@ -18530,33 +18757,6 @@
         "Carbon sequestration",
         "Carbon cycle",
         "Climate change"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70750",
-      "doi_url": "https://doi.org/10.1111/gcb.70750",
-      "title": "Fertilization Diversity Induces Trophic Asymmetry in Ecosystem Responses to Extreme Drought",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-12",
-      "published_date_display": "2026-02-12",
-      "published_parts": [
-        2026,
-        2,
-        12
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70750",
-      "abstract": "ABSTRACT The role of fertilization diversity (the variety of nutrient types added) in modulating the effects of extreme drought on multi‐trophic communities and their functions remains a critical unknown in ecology. We conducted a multi‐nutrient factorial experiment (control, N, NP, and NPK additions) under simulated extreme drought in an alpine meadow on the Qinghai‐Tibetan Plateau. We assessed the responses of soil abiotic properties, plant communities, soil microbial (bacteria and fungi) and nematode communities, and ecosystem multifunctionality (EMF). Our results reveal that fertilization diversity induces a trophic asymmetry in ecosystem responses to drought: increasing fertilization diversity (and total nutrient load) significantly altered the response of the plant community to drought by promoting the competitive dominance of drought‐tolerant grasses, which in turn modulated ecosystem function of aboveground net primary productivity. Conversely, fertilization diversity amplified the negative effects of drought on soil bacterial and fungal biomass, likely due to exacerbating microbial carbon limitation. For soil nematodes, fertilization diversity modified the response of community composition to drought and simplified nematode communities. Consequently, despite these compensatory and contrasting responses across trophic levels, fertilization diversity led to a net decline in EMF under drought. This net loss occurred because the positive contributions from the plant pathway were decisively outweighed by the substantial suppression of microbial processes, revealing a fundamental decoupling between above‐ and below‐ground components. Our findings demonstrate that the balance and diversity of nutrient inputs, rather than nitrogen dose alone, is a critical factor modulating ecosystem responses to drought, creating contrasting responses across trophic levels that necessitate a holistic, multi‐trophic perspective for effective ecosystem management under global change.",
-      "keywords": [
-        "Trophic level",
-        "Ecosystem",
-        "Dominance (genetics)",
-        "Biodiversity",
-        "Abiotic component",
-        "Human fertilization",
-        "Species diversity",
-        "Nutrient"
       ]
     },
     {
