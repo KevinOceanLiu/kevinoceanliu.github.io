@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T22:52:40.513785+00:00",
+  "generated_at": "2026-06-18T23:04:21.035503+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,26 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115533",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115533",
-      "title": "Developing 30 m resolution monthly burned area products in Africa (2017–2025)",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003032",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.05.029",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.029",
-      "title": "Integrating cloud motion information: A deep learning approach for real-time wind field retrieval using geostationary satellite imagery",
+      "doi": "10.1016/j.isprsjprs.2026.06.017",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.017",
+      "title": "T2Net: Taxonomy-Guided Tree-Structured Prompt Learning for Few-Shot Remote Sensing Scene Classification",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,9 +38,90 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002765",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003230",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.015",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.015",
+      "title": "Dim moving target detection with hyperspectral image sequences",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003217",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.016",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.016",
+      "title": "Quantifying grassland fire spread via UAV videogrammetry: boundary-precise segmentation and EDT-based vector field estimation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003229",
+      "abstract": "",
+      "keywords": [
+        "Segmentation",
+        "Field (mathematics)",
+        "Image segmentation",
+        "Estimation",
+        "Grassland"
+      ]
+    },
+    {
+      "doi": "10.1080/24694452.2026.2679291",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2679291",
+      "title": "Linking Streetscape Atmosphere with Social Vulnerability and Community Resilience",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
+      "published_parts": [
+        2026,
+        6,
+        18
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2679291",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115533",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115533",
+      "title": "Developing 30 m resolution monthly burned area products in Africa (2017–2025)",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003032",
+      "abstract": "",
+      "keywords": [
+        "Resolution (logic)",
+        "High resolution",
+        "Image resolution",
+        "Radiometry",
+        "Temporal resolution"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2686261",
@@ -74,8 +138,16 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2686261",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Geographical study areas (GSAs) anchor empirical research to specific locations and are essential for geographically aware knowledge organization, retrieval and spatial meta-analysis. However, GSA information is rarely stored in structured form in bibliographic databases and instead appears as unstructured text in article titles and abstracts, hindering large-scale spatial analyses of scientific knowledge production. This study proposes an LLM-assisted unified framework to systematically extract, disambiguate and classify multidimensional GSA information from large-scale article metadata. The proposed method follows an ‘Expert–Teacher–Student’ framework. First, a dual-dimensional GSA taxonomy integrating spatial scale and spatial attributes was constructed through expert–LLM collaboration. Second, a retrieval-augmented annotation pipeline generated high-quality supervision data by combining LLM ensemble reasoning with external geospatial knowledge verification. Third, a lightweight unified model was developed via parameter-efficient fine-tuning to jointly perform GSA extraction and classification, reducing annotation costs and mitigating error propagation. Experiments demonstrate strong performance with high computational efficiency. Applying the framework to 163,781 geography-related articles (2010–2024) reveals significant research attention–population mismatch, epistemic biases and scale disparities in global knowledge production. The proposed framework advances geographically aware literature mining and provides a scalable foundation for spatial bibliometrics and GIScience.",
+      "keywords": [
+        "Geospatial analysis",
+        "Metadata",
+        "Scalability",
+        "Annotation",
+        "Knowledge extraction",
+        "Information extraction",
+        "Spatial analysis"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.018",
@@ -91,13 +163,40 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003242",
-      "abstract": "",
+      "abstract": "Existing tunnel infrastructures are increasingly exposed to external geomorphological processes and progressive structural degradation, highlighting the need for integrated monitoring approaches. This study proposes a multi-scale framework combining satellite-based interferometric data and high-resolution image-based inspections to assess the condition of existing tunnels. Interferometric Synthetic Aperture Radar (InSAR) analysis was used to detect and quantify ground deformation in the surroundings of two tunnel sites in Southern Italy, while three-dimensional (3D) reconstructions of tunnel linings were generated from high-resolution imagery acquired with a mobile system. The integration of both datasets was implemented in a 3D visualization environment, enabling the joint interpretation of external slope deformation and internal defect distribution. Results reveal deformation areas that spatially correspond to tunnel sectors showing defects, e.g. , cracked joints and minor water seepages. Although the correlations are qualitative, the integrated analysis provided preliminary evidence of geomorphological control on tunnel degradation, particularly near the portals. The combined use of InSAR and very high-resolution images thus offered complementary perspectives, long-term surface monitoring and detailed internal diagnosis − within a unified georeferenced framework. This study demonstrates the potential of integrating remote sensing and digital inspection tools for preventive maintenance and risk assessment of existing tunnels, enhancing operator safety and minimizing highway closure. The proposed workflow represents a step toward a digital, data-driven approach to tunnel asset management, consistent with national regulations for infrastructure safety evaluation.",
       "keywords": [
         "Satellite",
         "Data integration",
         "Earth observation satellite",
         "3D modeling",
         "Key (lock)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.029",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.029",
+      "title": "Integrating cloud motion information: A deep learning approach for real-time wind field retrieval using geostationary satellite imagery",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002765",
+      "abstract": "",
+      "keywords": [
+        "Geostationary orbit",
+        "Deep learning",
+        "Cloud computing",
+        "Satellite",
+        "Field (mathematics)",
+        "Satellite imagery",
+        "Temporal resolution",
+        "Data retrieval",
+        "Weather forecasting"
       ]
     },
     {
@@ -116,7 +215,17 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2679296",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Flooding (psychology)",
+        "Vulnerability (computing)",
+        "Transformative learning",
+        "Adaptive capacity",
+        "Climate change",
+        "Food security",
+        "Sustainability",
+        "Coastal flood",
+        "Population"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2687121",
@@ -851,7 +960,7 @@
         10
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2682959",
-      "abstract": "",
+      "abstract": "Street-view images (SVI) provide promising data for 3D building façade reconstruction, which commonly relies on multi-view geometric relationships among adjacent images. However, public SVIs are captured with large distances between adjacent viewpoints, which significantly reduces the overlap extent and increases the distortion of the same buildings, leading to unreliable cross-view matching and sparse, incomplete, and unevenly distributed point clouds. To address these challenges, we propose Pano2Cloud, a geospatial inference framework under constrained observation geometry for façade reconstruction. The initial point clouds were estimated by ZoeDepth. To enhance geometric accuracy, the dual-layer deep matching (DLDM) method was designed, in which attention bounding boxes between adjacent SVIs are matched by semantic-spatial clustering in layer I, and feature points are matched by attention-constrained deep-learning network in layer II for point cloud registration. Finally, a contour-driven enrichment process completes the façades by snake algorithm. Pano2Cloud was examined in Wuhan, demonstrating high reconstruction accuracy, with mean cloud-to-cloud distance of 1.85 m, relative geometric errors below 2% and façade reconstruction quality reaching the LoD2 level. Furthermore, the proposed DLDM maintained a high matching rate with increasing baseline distances, while the enrichment process improved building contour completeness to 93.16%.",
       "keywords": [
         "Point cloud",
         "Matching (statistics)",
@@ -995,7 +1104,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002881",
-      "abstract": "",
+      "abstract": "Accurate large-scale crop yield estimation is critical for agricultural management and advance warning of potentially compromised food security. While recent advances in remote sensing provide diverse data sources for crop monitoring, effectively integrating these data sources for accurate yield estimation at the continental scale remains challenging due to complex crop-environment interactions and high spatial heterogeneity. In this study, we developed a Temporal Multi-modal Fusion (TMF) framework for end-of-season wheat yield estimation at the sub-national level across the European Union from 2001 to 2019. Our framework integrated time-series data across the entire growing season from climate variables, satellite-based remote sensing measurements including vegetation indices (e.g., Enhanced Vegetation Index) and productivity indicators (e.g., Solar-Induced Fluorescence, Gross Primary Productivity), and static soil properties. By employing parallel transformer encoders followed by a late-fusion strategy, our architecture preserves modality-specific temporal dynamics before explicitly anchoring them against static spatial constraints. Leave-one-year-out cross-validation demonstrated that the TMF framework achieved accurate yield estimation with an RMSE of 0.75 Mg·ha −1 , 7–38% lower than baseline models (LSTM, GBRT, RF, and ANN). The model demonstrated better spatial stability and captured severe yield anomalies during extreme climate events (e.g., the 2003 and 2018 droughts). The ablation study and SHAP-based interpretability analysis revealed that while fusing more input modalities consistently improved model performance, substantial information redundancy exists among multi-modal inputs. Although satellite-derived measurements effectively capture seasonal canopy dynamics and interannual yield fluctuations, static soil properties provide complementary spatially structured information for yield estimation. Their integration reduced RMSE by 28–33% compared to climate-only inputs and improved prediction stability across the study domain. Furthermore, the model’s temporal contribution patterns aligned with wheat phenology, with feature importance peaking during reproductive and grain-filling stages. These findings highlight that the TMF framework provides a robust and scalable approach for continental-scale crop monitoring across highly diverse agroecosystems.",
       "keywords": [
         "European union",
         "Satellite",
@@ -1257,7 +1366,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002737",
-      "abstract": "",
+      "abstract": "Accurate detection of retrogressive thaw slumps (RTSs) remains a significant challenge due to their complex morphological features and subtle spectral contrasts with surrounding landscapes. This study presents a robust deep learning framework to improve RTS identification by integrating multi-source remote sensing data. Focusing on the permafrost-dominated central Qinghai-Tibet Plateau, we conducted three pioneering investigations: (i) a detailed RTS inventory integrated with topographic, environmental, spectral, and thermal analyses to uncover spatio-temporal distribution patterns; (ii) a comprehensive evaluation of twelve leading-edge semantic segmentation models for RTS identification; and (iii) the formulation of an innovative FusionSA-SegFormer model, which employs dual-level (pixel-level and feature-level) heterogeneous feature fusion of optical, spectral, thermal, and topographic remote sensing datasets. Our results highlight prominent RTS clustering within the 4700–4800 m elevation range, on moderate slopes (3–7°), in mid - slope to valley settings, and in proximity to water bodies. Temporally, the active evolution of RTSs from 2019 to 2024 was characterized by sustained degradation patterns, manifested as a continuous decline in vegetation indices and a concurrent rise in land surface temperatures. Comparative model assessments identified SA-SegFormer as the most effective baseline architecture. Building upon this, the proposed FusionSA-SegFormer demonstrated significant improvements, showing 8.8% IoU and 10.9% recall enhancements on the validation set, and achieving a superior F1-score of 0.843 (Precision: 0.838, Recall: 0.899) on the test set. Crucially, independent spatial and temporal transferability evaluations confirmed the framework's robust generalization capacity across unseen regions and varying years, maintaining consistent identification performance and high overall accuracies (>0.90). Furthermore, feature importance analysis emphasized the critical influence of spectral bands, particularly the blue band, alongside notable contributions from thermal indices. This work establishes a new benchmark for mapping permafrost disturbances and provides a valuable tool for monitoring thermokarst dynamics in warming climates.",
       "keywords": [
         "Feature (linguistics)",
         "Plateau (mathematics)",
@@ -1660,7 +1769,7 @@
         2
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2670296",
-      "abstract": "",
+      "abstract": "Over 40 percent of the global population lives in rural areas, making rural issues central to debates on development and sustainability. Yet, rural studies have long been dominated by urban-centered, representational perspectives that overlook how rurality is materially and relationally practiced in everyday life. This article draws on more than three years of participatory action research in a remote village on China’s southwestern frontier, documenting the cocreation of household gardens by local people and a group of rural geographers. These gardens transformed household spaces by layering productive, aesthetic, and ecological functions onto traditional farming landscapes, while also reshaping relations among households, the village, and external actors, giving rise to a hybrid form of rurality. By materializing these changes in marginal settings, this study reveals how participatory action research enables the coproduction of rural knowledge and highlights remote villages as sites of social innovation with broader relevance for the Global South.",
       "keywords": [
         "Rurality",
         "China",
@@ -3495,7 +3604,7 @@
         12
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2667807",
-      "abstract": "",
+      "abstract": "Urban greenery is 3D volumetric and provides visual benefits to billions of urban dwellers. Although high-rise buildings and drones are expanding urban activities vertically, most greenery studies are limited to street-level observations, relying on 2D/2.5D view imagery. This paper presents a greenery volume visibility (GVV) assessment method by integrating 3D deep learning and city information models (CIMs). A 3D GVV index (GVVI) is defined for three groups of observing perspectives: the street, window, and drone. Semantic segmentation using deep learning detects greenery volumes in photorealistic 3D models, then GVVIs are calculated across all perspective groups. Hot spot maps and disparity analysis comparing the three sub-indices reveal the urban greenery volumes overlooked in traditional ground-level studies. Experimental results on a 4.92 km2 area of Kowloon, Hong Kong, showcased the proposed method’s efficiency (23,490 GVVIs in 256.45 hours); Comparative results between street and drone/window perspectives revealed 37.6% and 31.7% greenery entirely overlooked in traditional ground-level spatial analysis. This paper contributes in three aspects: a 3D GVV index definition, an efficient deep-learning-based geospatial analysis method, and novel quantitative 3D evidence for informed urban greenery planning and maintenance, optimal building designs, and low-altitude drone route planning.",
       "keywords": [
         "Drone",
         "Deep learning",
@@ -3517,7 +3626,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002315",
-      "abstract": "",
+      "abstract": "Individual tree skeletonization is a fundamental task in forestry remote sensing, which serves as a crucial prerequisite for various downstream applications, ranging from tree structural attribute estimation to carbon cycle modeling. Nevertheless, most existing skeletonization approaches struggle to generate a compact, centered tree skeleton while preserving detail fidelity and topological rationality. To this end, this paper proposes a water droplet model-driven entropy optimization approach (WDTS) for individual tree skeletonization from Terrestrial Laser Scanning (TLS) point clouds. WDTS models an individual tree TLS point cloud as a system of water droplets with varying masses, by progressively generating the skeleton through simulated droplet contraction, merging, and evaporation processes. Key to our approach is an entropy reduction framework that progressively drives droplets toward compact skeletons. To further enhance the centeredness of the generated tree skeleton, WDTS employs a geometric and topological interwoven optimization strategy, explicitly aligning the skeleton within the center of the branch point clouds by minimizing the sum of the squared residuals. Experiments conducted on three individual tree TLS point cloud datasets with different data acquisition strategies have demonstrated the effectiveness and robustness of the proposed WDTS. Compared with previous methods, especially the state-of-the-art Dijkstra-enhanced L1-medial method, WDTS remarkably improves the compactness and centeredness of the skeletons with well-preserved local branch details, reducing the averaged M A E by 0 . 011 m , 0 . 002 m , and 0 . 030 m on the single-scan, multi-scan, and simulated dataset, respectively. The generated tree skeletons, including not only the tree skeleton points but also topologically coherent edges, provide a robust foundation for downstream tasks, including precise tree geometry modeling, biomass estimation, and forestry-related sustainable development applications. The code of the proposed WDTS is available at https://github.com/Putaonjfu/WDTS .",
       "keywords": [
         "Skeletonization",
         "Point cloud",
@@ -3831,7 +3940,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600211X",
-      "abstract": "",
+      "abstract": "Hydraulic stress is a primary driver of tree decline and mortality, yet its spectral detectability remains poorly characterized. In particular, no study has directly quantified hydraulic failure in conifers and linked this physiological collapse to canopy-level spectral responses. Here, we provide the first continuous measurements of hydraulic failure in Norway spruce and evaluate how well UAV-based hyperspectral imagery captures the onset and progression of this decline. The hydraulic stress was caused by attacks from spruce bark beetles ( Ips typographus ) in 56 trees under a controlled infestation experiment, and we evaluate their detectability against 227 healthy trees using physio-spectral indicators before brood emergence, a critical window for controlling beetle spread. Sap flow measurements revealed a cascading decline in infested trees, with hydraulic stress emerging 3–4 weeks after attack and occasionally advancing to hydraulic failure within 4–10 weeks. Biweekly UAV hyperspectral acquisitions were used to assess spectral sensitivity to hydraulic collapse. Physio-spectral indices from the green-shoulder region (∼530 nm), linked to carotenoid dynamics and photosynthetic downregulation, were the most responsive to hydraulic stress, detecting stressed trees up to twice as effectively (e.g. 70% vs. 30%) and 2–6 weeks earlier than chlorophyll-sensitive indices. The spectral trajectory of GSCR1 MS closely mirrored the magnitude and timing of sap flow decline, and detected hydraulic failure in near-real time. These results provide mechanistic evidence that green-shoulder hyperspectral metrics are sensitive, physiologically grounded indicators of impending mortality. The findings strengthen the remote sensing basis for early detection of hydraulic stress and improve the interpretation of spectral stress signals in mature spruce forests.",
       "keywords": [
         "Hyperspectral imaging",
         "Bark beetle",
@@ -3907,7 +4016,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600235X",
-      "abstract": "",
+      "abstract": "Grasslands are biodiversity hotspots and provide a wide range of ecosystem services in the agricultural landscape. One important factor that drives ecosystem services is grassland age, as it influences the carbon sequestration potential but also supports biodiversity and the resilience of grassland to disturbances. Satellite image time series enable grassland age estimates, given the long-term coverage of virtual constellations and methodologies able to deal with variable satellite data availability. We present an approach to estimate grassland age in temperate regions of intensive agriculture using multidecadal time series of Landsat and Sentinel-2 data and bare soil occurrence to indicate agricultural land use periods. Every clear-sky satellite observation from 1986 to 2023 in grassland is classified as bare soil or non-bare soil and normalized to seasonal bare soil occurrence frequency. We then calibrate a rule set to derive grassland age based on the temporal bare soil frequency patterns. We demonstrate our approach at national scale for Germany. Grassland establishment was detected with an F-score of 78.92 ± 0.64, and differentiated from grassland persistent throughout all analyzed years with 99.21 ± 0.02% overall accuracy. The mean absolute error for grassland age is 1.3 years, and estimates remain reliable throughout low observation densities. Regional and temporal patterns align with political changes due to the collapse of the German Democratic Republic and adaptations in European agricultural policies since the 1990s. Our study demonstrates the potential of long-term image time series from satellite constellations to generate reliable data on grassland age for e.g., biodiversity or ecosystem service modelling.",
       "keywords": [
         "Scale (ratio)",
         "Series (stratigraphy)",
@@ -4305,7 +4414,7 @@
         4
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2662374",
-      "abstract": "",
+      "abstract": "Geographically weighted regression model with a spatially autoregressive term of the response variable (abbreviated to GWR-SAR model) is a powerful tool to tackle spatial nonstationarity in spatial autocorrelation and regression relationships. Generally, its estimation uses the weighted least squares. However, these weights are usually determined by the predetermined function in simple forms, which may compromise estimation accuracy for complex spatial relationships. The variable selection is important for the GWR-SAR model to decide whether the SAR term should be included to account for spatial autocorrelation and whether some of its coefficients should be identified as zero for constructing a more appropriate model. Taking these two issues into consideration, we design a data-driven model–the geographically neural network weighted regression with spatial autoregressive (GNNWR-SAR) model. Our model combines the spatial two-stage least squares and neural networks to adaptively capture complex spatial relationships for better estimation, and uses the adaptive Lasso to select variables for model specification. A simulation study demonstrates that our proposed GNNWR-SAR model outperforms the GWR-SAR model in fit, estimation, identifying the pre-designed zero coefficients for the data generated with multicollinearity, and handling spatial autocorrelation. The Boston housing price analysis justifies the applicability of our proposed GNNWR-SAR model.",
       "keywords": [
         "Feature selection",
         "Artificial neural network",
@@ -4468,7 +4577,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002269",
-      "abstract": "",
+      "abstract": "Passive optical satellite products have long been used to trace drought effects. Effective mitigation and understanding land–atmosphere interactions require variables reflecting plant physiological status under water scarcity. One such variable is Solar-Induced Chlorophyll Fluorescence (SIF), emitted directly from the photosynthetic apparatus. It provides direct information on vegetation functioning and can reveal stress within days. Spaceborne SIF observations have been available for over a decade and have been widely applied for vegetation stress detection. However, robust daily drought monitoring remains challenging because top-of-canopy SIF is strongly modulated by canopy structure and illumination, and retrieval noise can obscure short-term drought responses. This motivates normalization approaches that better isolate the physiological component of the fluorescence signal for near-real-time drought monitoring. To address this limitation, we estimated leaf-level fluorescence quantum efficiency (ΦF) by integrating TROPOMI SIF with photosynthetically active radiation (PAR) from the Breathing Earth Simulator (BESS), generating a daily 0.05° dataset for Germany (2018–2023). We evaluated ΦF as an early drought indicator in agricultural and forest ecosystems by comparing it with a subsurface water storage anomaly (SSWS) product from the coupled ParFlow/CLM model. Drought periods were identified as prolonged negative SSWS anomalies. Daily ΦF was aggregated, smoothed with a two-day rolling average, and analyzed via lagged cross-correlation with surrogate-based significance testing. ΦF consistently tracked negative SSWS anomalies with a two-day lag. This pattern was consistent across across the two analyzed land-cover classes, indicating that ΦF detects emerging reductions in subsurface water storage with a short delay. MODIS land surface temperature (LST) exhibited a complementary inverse response, peaking at 1–2 days underscoring that the correlation found was in fact linked to water availability. In contrast, TOC SIF and common vegetation indices (NIRv, NDVI) showed weak or inconsistent correlations. These results demonstrate that ΦF enables near-real-time detection of vegetation water stress and outperforms traditional optical indices for this purpose. The study highlights the need for downscaling and normalization to transform canopy SIF observations into an effective signal for early drought detection.",
       "keywords": [
         "Subsurface flow",
         "Fluorescence",
@@ -4517,7 +4626,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002166",
-      "abstract": "",
+      "abstract": "Arctic and boreal regions (ABRs) are experiencing rapid warming and increasingly severe wildfires, threatening their roles as global carbon sinks. High quality time series maps of aboveground biomass (AGB) are key for characterizing and attributing spatiotemporal dynamics of carbon stocks in these regions. However, existing maps at regional to global scales often lack the spatial resolution or temporal coverage needed to capture the heterogeneous and dynamic nature of Arctic-boreal AGB change. To address these limitations, we developed annual (1984-2022) 30-m resolution AGB density maps for Alaska and Canada (11.2 x 10 6 km 2 ). The maps were produced by using extensive training datasets, including 45,002 unique ground plots and 100,000 km 2 of airborne lidar data, and time-series spectral features derived from the Continuous Change Detection and Classification (CCDC) algorithm fitted on Landsat Collection 2 Surface Reflectance. Using the eXtreme Gradient Boosting model, we generated annual wall-to-wall maps of AGB along with associated uncertainties. Our maps suggest a ∼ 41 Pg stock of AGB at 2022, representing a 12% increase from 1984. Our maps achieve high accuracy and low bias on holdout testing data (R 2 = 0.72, Bias= -5.03%, RMSE% = 62.7%), representing an average of 16.0 percentage points increase in R 2 values and 22.7 percentage points decrease in relative bias compared to six existing AGB products. We show using repeat ground measurements that these maps effectively capture AGB loss and recovery due to fire and harvest, gradual AGB changes, and both live and dead tree AGB components in boreal regions. By integrating extensive calibration data with multi-decadal satellite observations and advanced machine learning techniques, these map products provide a robust tool for advancing the understanding of carbon dynamics under global change in Arctic-boreal North America.",
       "keywords": [
         "Arctic",
         "Boreal",
@@ -4540,7 +4649,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002170",
-      "abstract": "",
+      "abstract": "For nearly half a century, ocean color remote sensing has reshaped our understanding of marine ecosystems. This review synthesizes the 50-year journey of the field, focusing on the evolution of spectral, spatial, and temporal observational capabilities and core algorithms. We highlight how these advancements enabled critical applications, from monitoring the biological carbon pump to managing coastal water quality. Looking forward, we identify three technological frontiers: 1) The leap from 2D surface observation to quantitative 3D profile detection via spaceborne Lidar; 2) The synergistic use of polarization to enhance atmospheric correction and in-water discrimination; and 3) The rise of Artificial Intelligence as an integrative engine for multi-source data fusion. We conclude that the future lies in an integrated, multi-dimensional global observing system to tackle 21st-century environmental challenges.",
       "keywords": [
         "Ocean color",
         "Earth observation satellite",
@@ -4701,7 +4810,7 @@
         30
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654481",
-      "abstract": "",
+      "abstract": "Understanding how place influences human behavior is a central and enduring question in geography, yet quantifying spatial contextual effects remains challenging due to unmeasured confounders and endogeneity. Multiscale geographically weighted regression (MGWR) can measure behavioral and intrinsic contextual effects but assumes exogeneity, overlooking how spatial context could also influence covariate levels—an indirect contextual effect that could bias parameter estimates. This study introduces multiscale geographically weighted fixed effects regression (MGWFER), a local panel modeling framework that integrates MGWR with individual fixed effects to address all three contextual influences while allowing coefficients to vary across space and scale. A two-stage estimation algorithm is developed to first remove time-invariant spatial confounding from covariates and then recover local intrinsic contextual effects. In simulation, MGWFER outperforms MGWR and a pooled MGWR (PMGWR) and yields locally differentiated estimates that admit a causal interpretation under the stated assumptions. A case study on educational attainment in the state of Georgia further demonstrates that MGWFER reveals substantially stronger spatial contextual effects and corrects misleading conditioned relationships from standard local models. Findings suggest that place might exert a far greater causal influence on human behavior than previously recognized, underscoring the importance of integrating causal inference into spatial analysis.",
       "keywords": [
         "Extension (predicate logic)",
         "Context (archaeology)",
@@ -4812,7 +4921,7 @@
         29
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2660985",
-      "abstract": "",
+      "abstract": "Spatially embedded graphs derived from human mobility data are usually sparse and noisy, making it difficult for existing statistical methods to detect underlying spatial communities. Graph embedding techniques have been used to obtain low-dimensional representations for community detection; however, they often fail to preserve modular structure and rarely incorporate spatial constraints inherent in spatially embedded graphs. To overcome these limitations, we proposed an Unsupervised Spatial Graph Transformer (USGT) for spatial community detection. To incorporate spatial constraints into the model, we designed a spatial encoding scheme that explicitly encodes spatial proximity between spatial units. To preserve the modular structure in graphs, we developed a structure-aware self-attention mechanism that captures both global and local information. A data masking strategy was further employed to facilitate unsupervised learning. Experiments on synthetic datasets, evaluated using Adjusted Rand Index and Normalized Mutual Information, demonstrated that USGT outperformed six state-of-the-art methods. A case study on taxi GPS trajectory data in Beijing further showed that the spatial communities identified by USGT can enhance the understanding of mobility patterns and offer insights into the polycentric urban structure.",
       "keywords": [
         "Graph",
         "Pattern recognition (psychology)",
@@ -4836,7 +4945,7 @@
         29
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654480",
-      "abstract": "",
+      "abstract": "Space–time prism (STP) is a core concept in time geography and has been widely adopted to analyze an individual’s accessibility for conducting a single flexible activity using a single transport mode. Real-world daily mobility, however, often involves participation in multiple activities through multimodal trip chains. The construction of STPs enveloping such flexible activity-travel patterns has not been addressed in the literature due to the combinatorial complexity in space and time. To tackle the challenges of representation and geo-computation, we propose novel strategies to construct STPs of multimodal multiactivity trip chains within concise multistate supernetwork representations. The essence is to eliminate activity-travel trip chains that contribute little to space–time accessibility. A two-stage bidirectional search method subject to time window constraints is proposed for constructing the augmented STPs and measuring state-dependent space–time accessibility. Experimental results demonstrate that the proposed method significantly reduces computational time with only a minor accuracy loss in accessibility measures. The proposed method is validated with scenario-based experiments conducted in a large spatial area.",
       "keywords": [
         "Prism",
         "Field (mathematics)",
@@ -4859,7 +4968,7 @@
         29
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654479",
-      "abstract": "",
+      "abstract": "Spatiotemporal prediction (STP) is a fundamental research topic in GIScience, providing estimations of unobserved phenomena across space and time. Geospatial effects—spatial dependence, heterogeneity, and geographical similarity—underpin established spatially explicit learning frameworks, namely spatial dependence learning, regional learning, and transfer learning. A theoretical framework is lacking, however, to quantify these effects’ contributions to the learning process and to guide their optimal utilization in a spatially explicit learning framework construction. To fill this gap, we develop a novel predictability framework that integrates STP learning with geospatial effects. In this framework, we propose geographic entropy methods to quantify data predictability under geospatial effects. Using these predictability values, we construct predictability structures (autocorrelation, stratification, and teleconnection). Then, a knowledge graph and its corresponding knowledge services are established from these predictability structures. The knowledge services provide predictability knowledge to optimize spatially explicit learning frameworks, thereby enhancing STP performance. Experiments on a human-activity data set show that our framework significantly improves spatially explicit learning frameworks, achieving average accuracy gains of 4.40 percent for dependence learning, 20.99 percent for regional learning, and 18.21 percent for transfer learning.",
       "keywords": [
         "Geospatial analysis",
         "Predictability",
@@ -4884,7 +4993,7 @@
         29
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2654491",
-      "abstract": "",
+      "abstract": "This article critically assesses the utility of the classical statistical technique of canonical correlation analysis (CCA) to study spatial associations and proposes a new approach to enhance it. Unlike bivariate correlation analysis, which focuses on the relationship between two individual variables, CCA investigates associations between two sets of variables by finding pairs of linear combinations that are maximally correlated. CCA has great potential for uncovering complex multivariate relationships that vary across geographic space. We propose geographically weighted canonical correlation analysis (GWCCA) as a new technique to explore local spatial associations between two sets of variables. GWCCA localizes standard CCA by weighting each observation according to its spatial distance from a target location, thereby estimating location-specific canonical correlations. GWCCA’s effectiveness in recovering spatial structure and capturing spatial effects has been evaluated with synthetic data. A case study of U.S. county-level health outcomes and social determinants of health is conducted to demonstrate GWCCA’s capabilities empirically. It is concluded that GWCCA has the potential for a wide range of applications in spatial data-intensive fields such as urban planning, environmental science, public health, and transportation, where understanding local spatial associations in multivariate dimensions is crucial.",
       "keywords": [
         "Canonical correlation",
         "Correlation",
@@ -5877,7 +5986,7 @@
         16
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2656269",
-      "abstract": "",
+      "abstract": "Road slopes shape mobility patterns and drive the reliability of urban simulations. Yet in most cities, road-level slope information remains scarce. We introduce Vision2Slope, a framework that leverages panoramic street view imagery to estimate road slopes using computer vision techniques. The workflow consists of three steps: (i) projecting panoramic images into road-aligned views; (ii) semantic-prompted image deskewing to correct geometric distortion induced by camera orientation; and (iii) a two-level slope estimation strategy that extracts point- and segment-level slope and relief characteristics from road-edge geometry and iterative regression to reduce outliers. Using Google Street View images from San Francisco and New York City, the framework estimates slopes for over 60,000 locations and 17,000 street segments. Point- and segment-level MAEs are 0.81°/0.57° and 0.72°/0.78°, respectively, with segment relief errors of 1.70 and 1.66 m. Conditional bias analysis reveals the influence of street-level environmental features on estimation accuracy. The proposed framework significantly outperforms the omnipresent 30 m digital elevation models and maintains robustness under simulated changes in camera orientation and imaging conditions. As an open and scalable workflow, Vision2Slope emphasizes the potential of street view imagery for cost-effective, detailed urban road slope mapping, enriching foundational data for vertical-aware urban analytics.",
       "keywords": [
         "Vegetation (pathology)",
         "Field (mathematics)",
@@ -6307,7 +6416,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001793",
-      "abstract": "",
+      "abstract": "Synthetic aperture radar interferometry (InSAR)-derived land surface deformation serves as indication for potential permafrost degradation and identification of its drivers. Long-term (multi-annual) as well as seasonal (unfrozen period) deformation are of interest in this context. Primarily data from the first decade of Sentinel-1 (C-band) were investigated but for long-term deformation a combination with PALSAR-2 (Phased Array type L-band Synthetic Aperture Radar-2) observations needed to be considered to account for Sentinel-1 availability limitations and to compile a dataset representing different Arctic lowland permafrost landscapes. Seasonal deformation patterns were found to differ significantly from long-term patterns. Spatial filtering, applied to correct for atmospheric and ionospheric disturbances, led to centring of the density distribution around zero. The resulting positive deformation patterns largely coincided with dry and barren tundra types, which are likely stable areas. A Random Forest (RF) regressor analysis was used to identify driving features for both seasonal and long-term deformation. Considered features included land cover, soil properties, terrain, and disturbances. Both deformation types reflected land cover (vegetation patterns) in addition to disturbances (fires). Mean annual ground temperature was of relatively high importance in case of long-term deformation, for both C- and L-band. The predictive potential was higher for seasonal than for long-term rates, particularly when considering multiple parameters. Parameter importance sequence was more uniform for multi-annual deformation across the analyzed regions. Overall, model fitting scores were only weak to moderate underscoring the need for continuous monitoring with InSAR. Sentinel-1 and PALSAR-2 provided comparable deformation information as well as RF scores which substantiates their combined use.",
       "keywords": [
         "Permafrost",
         "Copernicus",
@@ -6382,7 +6491,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001450",
-      "abstract": "",
+      "abstract": "Sinkholes in railway subgrades pose a significant risk to infrastructure safety and require reliable early detection to support maintenance planning. This study presents a point-cloud–based detection framework that combines synthetic data generation with graph-based deep learning. Two augmentation strategies are investigated: parametric inverted elliptical Gaussian models and samples generated by a flow-matching model. These synthetic sinkholes are inserted into LiDAR-derived digital elevation models (DEMs) to train a SuperPoint Transformer (SPT) for binary segmentation. Detected regions are subsequently refined using geometry-driven filtering and railway domain–aware proximity weighting. Experiments on high-density railway LiDAR datasets acquired by SNCF demonstrate strong detection performance. At region level, the geometric augmentation strategy achieves a recall of 95% after refinement with near-perfect precision and an F 1 -score of 97.4%, whereas the flow-based strategy reaches a recall of 70% with similarly high precision and an F 1 -score of 82.4%. These results show that the refinement stage effectively suppresses false positives while preserving true detections, with geometrically consistent synthetic data leading to more stable outcomes. Compared to a raster-based U-Net baseline trained on the same datasets, the proposed 3D transformer framework substantially reduces false positives and delivers performance aligned with operational railway monitoring requirements.",
       "keywords": [
         "Sinkhole",
         "Segmentation",
@@ -6549,7 +6658,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001586",
-      "abstract": "",
+      "abstract": "Dissolved organic carbon (DOC) plays a crucial role in ecological and biogeochemical processes. Many regional satellite algorithms for DOC in coastal waters have been developed. However, there is currently no global algorithm capable of addressing the variability and complexity of DOC dynamics in coastal waters. We address this gap by developing a global DOC satellite retrieval algorithm for coastal waters by using daily, 4-km resolution data from the European Space Agency (ESA) Ocean Colour Climate Change Initiative (OC-CCI) from 1997 to 2023, combined with sea surface salinity (GLORYS12v1 database) and temperature (ESA SST-CCI, version 3.0 database). For model development, we matched these satellite datasets with in situ DOC concentration data from the CoastDOM v1 database. A pairwise correlation between different variables was used to identify the most relevant predictor variables of coastal DOC concentrations. Several statistical methods, including multiple linear regression (MLR), random forest regression (RF), and extreme gradient boosting (XGBoost), were tested. The best performance was achieved by a RF model using sea surface salinity and temperature, the remote sensing reflectance at 560 nm and total absorption at 412 nm, with cross-validation metrics of R 2 = 0.91, RMSE = 0.52 mg C L −1 , and MAPE = 13.01%, and independent validation on unseen data giving R 2 = 0.83, RMSE = 0.64 mg C L −1 , and MAPE = 23.15%. Although the developed algorithm showed high performance, the relatively coarse resolution of OC-CCI poses challenges, as it may fail to resolve sharp DOC gradients in dynamic coastal waters such as river plumes and estuaries, potentially reducing accuracy in those areas. Still, OC-CCI offers climate-quality data for a longer period of time compared to individual ocean-colour sensors. Expanding in situ observations, especially in underrepresented areas, will further enhance model accuracy and applicability. The results help to understand carbon dynamics in coastal ecosystems and offer a robust tool for satellite-based assessments of DOC in coastal waters globally.",
       "keywords": [
         "Dissolved organic carbon",
         "Total organic carbon",
@@ -6817,7 +6926,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001565",
-      "abstract": "",
+      "abstract": "This paper addresses the challenge of missing optical image generation, i.e., generating unavailable optical images, for instance, due to cloud cover. We propose CRGenNet, an image generation network that incorporates innovative modules, for instance the DownUp Block and Fusion Attention to enhance accuracy. Furthermore, we constructed the TCSEN12 dataset, which includes multi-temporal SAR and optical observations in a flood-affected region, offering a benchmark for evaluating image generation methods under challenging conditions, characterized by cloud-contaminated auxiliary imagery and substantial temporal change. Experimental results validate the effectiveness, achieving superior visual effects and quantitative evaluation results that exceed those produced by comparison methods. On the TCSEN12 dataset, it achieved a Peak Signal-to-Noise Ratio (PSNR) of 26.978 and Structural Similarity Index Measure (SSIM) of 0.648, as compared to 26.225 and 0.622, using MTS2ONet, while on the public DTSEN1-2 dataset, it achieved a PSNR of 88.9263 and SSIM of 0.9999, as compared to 36.0435 PSNR and 0.9896 SSIM, respectively, for MTS2ONet. The study concludes that CRGenNet provides a robust method for integrating multi-modal data with complex temporal dynamics, while TCSEN12 establishes a more realistic benchmark by focusing on future-scene prediction under challenging cloud and post-disaster conditions.",
       "keywords": [
         "Synthetic aperture radar",
         "Optical image",
@@ -6867,7 +6976,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001747",
-      "abstract": "",
+      "abstract": "Ice-snow storm (ISS) is one of the most destructive natural disasters impacting forest ecosystems in temperate, frigid, and mountainous plateau regions. Due to the increasing global climate extremes, a notable rise of frequency and magnitude of ISS was observed in the mid- and low-latitude subtropical climate zones. Specifically, in February 2024, Central-Eastern China experienced persistent low temperatures, rain, snow, and ice events (i.e., ISS), and the forest canopy experienced substantial damage. This research, based on the ICESat-2 data points (i.e., ATL08 data) and multi-source remote sensing data, employs a point-to-surface (PTS) approach to monitor spatio-temporal changes in forest canopy height caused by the 2024 ISS in Central-Eastern China. Firstly, PTS used the canopy height differences calculated from repeated ICESat-2 ATL08 points in 2023 and 2024 to assess canopy height reductions at various spatial distances within 50 m. The results indicated that approximately 70% of the repeated ICESat-2 points experienced a significant canopy height reduction ranging from 0 to 10 m. Secondly, PTS integrated the ICESat-2 ATL08 canopy height points and multi-source remote sensing data to construct Random Forest (RF) regression models. The wall-to-wall canopy height maps for 2023 and 2024 in Central-Eastern China were predicted based on the RF regression models and five-fold cross-validation, and the R 2 of the estimated canopy height maps in 2023 and 2024 are 0.658 ± 0.004 and 0.648 ± 0.004, respectively. The median forest canopy height decreased by 2.56 m from 2023 to 2024, corresponding to 10.11% of the 2023 median canopy height. Furthermore, only 0.1% of the total forest area in 2023 experienced serious damage after the 2024 ISS, whereas nearly 30% of the total forest area exhibited canopy height reductions exceeding 10%. Furthermore, we analyzed the environmental and climate drivers of forest canopy reduction, indicating that regions with severe forest canopy reduction were primarily located in areas with gentler terrain, lower elevation and canopy height, and higher temperature and precipitation. The results of interpretable machine learning-based method (i.e., RF-SHAP) showed that elevation and original canopy height were the two most important variables affecting canopy height reduction in Central-Eastern China. This study contributes to improving the monitoring and assessment of forest canopy damage caused by ISS in mid- and low-latitude regions of subtropical climate zone.",
       "keywords": [
         "Storm",
         "Canopy",
@@ -7488,7 +7597,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001541",
-      "abstract": "",
+      "abstract": "We present an innovative Phase Unwrapping (PhU) method for multi-temporal, small baseline differential interferogram sequences that benefits from the Minimum Cost Flow (MCF) algorithm and the Compressive Sensing (CS) theory. The developed algorithm advances the Extended MCF (EMCF) method by (1) introducing a new approach for the temporal PhU operation and (2) enhancing the retrieval capability of the existing spatial PhU procedure. In particular, the temporal PhU exploits the sparsity of the phase gradient signal and efficiently searches for a minimum L 1 -norm solution in the temporal/perpendicular baseline plane with no need, unlike the EMCF method, of any Delaunay triangulation in this domain. Furthermore, the spatial PhU capitalizes on the obtained temporal solution and performs a multi-trial PhU operation of each interferogram by exploiting different cost functions; the final unwrapped interferograms are then obtained through a pixel-by-pixel weighted average of the unwrapped solutions retrieved in each trial. To evaluate the performance of the proposed algorithm, which is tailored to multi-look interferograms, we carry out a comparative analysis with the results of the original EMCF technique by using simulated and real SAR data. In particular, we process a SAOCOM-1 (L-band) SAR dataset acquired over the Stromboli Island, characterized by intense and fast deformation signals, to assess the algorithm effectiveness when dealing with challenging DInSAR interferogram sequences obtained from a limited number of SAR acquisitions. Subsequently, the performance of the proposed PhU approach is further investigated by processing two large Sentinel-1 (C-band) datasets acquired over the Stromboli Island and the Etna Volcano, both sites located in southern Italy. The obtained results clearly show the robustness and effectiveness of the developed technique in retrieving the detected displacement signals, even when characterized by fast and highly nonlinear behaviors.",
       "keywords": [
         "Baseline (sea)",
         "Phase unwrapping",
@@ -8221,7 +8330,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600146X",
-      "abstract": "",
+      "abstract": "Dune field patterns change spatially and temporally in response to the environmental boundary conditions in which they form. Dune morphology reflects complex system interactions at various scales that shape dune topography. We developed an object-oriented topographic framework based on slope attitude, curvature, and contextual analysis to map and analyze dune morphology, reducing reliance on empiricism and prior knowledge of dune field structure and dynamics. The algorithm segments the DEM into slope-steepness and slope-azimuth units using ISODATA clustering, then combines them into slope-facet terrain units. It applies spatial rules to partition dune and interdune areas via substrate interpolation and elevation thresholding. Within dune areas, a Height–Divergence Index identifies dune-part units, which are hierarchically grouped into complete dunes based on boundary divisiveness and adjacency. Using eight LiDAR-derived digital elevation models, we segmented dunes and characterized dune morphology from 2007 to 2020, assessing dune-field behavior and response to environmental changes. The segmentation achieved 92% accuracy compared to manual mapping. From this, we derived dune statistics, including height, width, length, area, volume, area-to-surface-area ratio, circularity, migration rate, and aggradation rate, which aligned well with previous research.The dune field maintained structural coherence and a positive sediment budget despite dynamic migration, possibly indicating dune-field maturation or short-term fluctuations influenced by weather and dune processes. Variations in dune migration rates and sand fluxes depended on the strength and direction of seasonal southwesterly winds, as well as periods of heavy rain or drought. This study emphasizes the need to quantitatively formalize current geomorphological concepts.",
       "keywords": [
         "Aeolian processes",
         "Topographic map (neuroanatomy)",
@@ -8465,7 +8574,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001409",
-      "abstract": "",
+      "abstract": "Sun-induced chlorophyll fluorescence (SIF) is used to infer canopy photosynthesis, yet its ability to isolate physiological from canopy structural signals remains uncertain. We aimed at testing whether SIF can disentangle the onset and progression of physiological drought stress amidst concurrent canopy biochemical/physical changes, and to evaluate links between leaf- and canopy-scale fluorescence. To this end, a mesocosm experiment manipulating water availability (control vs. drought) in two herbaceous canopies with contrasting leaf angle distributions (planophile vs. erectophile) was conducted. We monitored environmental conditions, chlorophyll fluorescence at leaf- and canopy-scale using an active and passive approach, canopy biochemical/physical properties, and used the SCOPE model to upscale from leaf- to canopy-scale and analyse drivers. Drought progressively reduced soil water content, depressed stomatal conductance, and upregulated non-photochemical quenching, yielding lower fluorescence yields at leaf and canopy scales. TOC SIF showed a significant response to drought; however, neither TOC SIF nor down-scaled SIF detected stress earlier than NIRv. Modelling and observations indicated strong non-physiological influences on TOC SIF, especially as drought altered biochemical/physical canopy attributes. Leaf-scale TOC fluorescence yields were higher and poorly correlated with canopy-scale yields, whereas SCOPE-based upscaling improved agreement. We conclude that SIF robustly captures drought onset, but offers limited early-detection advantage over greenness indices when concurrent canopy structural/biochemical changes are substantial.",
       "keywords": [
         "Drought stress",
         "Chlorophyll",
@@ -10504,29 +10613,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.023",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.023",
-      "title": "Corrigendum to “Multispectral airborne laser scanning for tree species classification: A benchmark of machine learning and deep learning algorithms” [ISPRS J. Photogramm. Remote Sens. 233 (2026) 278–309]",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-26",
-      "published_date_display": "2026-02-26",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000742",
-      "abstract": "",
-      "keywords": [
-        "Benchmark (surveying)",
-        "Deep learning",
-        "Laser scanning",
-        "Tree (set theory)",
-        "Pattern recognition (psychology)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115328",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115328",
       "title": "Robust reconstruction of seamless daily VIIRS nighttime light imagery with cloud mask refinement and multi-strategy spatiotemporal gap-filling",
@@ -10547,30 +10633,6 @@
         "Satellite imagery",
         "Satellite",
         "Radiometry"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.026",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.026",
-      "title": "Mapping snow algae in West Antarctic Peninsula from Sentinel-2 images using a machine learning based approach",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-25",
-      "published_date_display": "2026-02-25",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000857",
-      "abstract": "",
-      "keywords": [
-        "Snow",
-        "Algae",
-        "Bloom",
-        "Cryosphere",
-        "Peninsula",
-        "Algal bloom"
       ]
     },
     {
@@ -10925,32 +10987,6 @@
         "Graph",
         "Pattern recognition (psychology)",
         "Deep neural networks"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.028",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.028",
-      "title": "Enhanced remote sensing of surface water Chlorophyll-a: Coupling dynamic algae vertical movement modeling with multi-spectral satellite images",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-20",
-      "published_date_display": "2026-02-20",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000870",
-      "abstract": "Remote sensing plays an increasingly critical role in water quality monitoring due to its capacity for consistent observations on both large and small water bodies. However, current remote sensing approaches face limitations in aligning satellite observations with in-situ measurements, largely due to the dynamic vertical behavior of algae and the temporal constraints of satellite overpasses. Consequently, many studies rely on large water bodies, space–time substitution, or opportunistic imaging of blooms, which restricts the applicability of remote sensing for routine monitoring tasks such as periodic chlorophyll-a (Chl-a) estimation. With near-daily global coverage, PlanetScope imagery presents new opportunities to overcome these constraints. In this study, we propose a novel field-sampling augmentation framework that integrates satellite observations with in-situ data by modeling the diurnal vertical migration of algae through an Algal Behavior Function (ABF). This function enables the temporal adjustment of in-situ measurements, generating refined field-to-satellite matchups that enhance the robustness of Chl-a estimation models. We applied this method using PlanetScope imagery from 2022 to 2023 and co-located sonde measurements, incorporating vertical profile and timestamp information to correct for field-to-satellite temporal mismatches at two lakes in Ohio (Grand Lake St. Marys, samples = 84, Del-Co reservoirs, samples = 333). The augmented model improved Chl-a prediction accuracy (RMSE reduce) by 5.8%-18.0% compared to baseline models without refinement, with notable gains during non-bloom periods, offering potential for earlier bloom detection. Furthermore, the ABF demonstrated moderate geographic transferability: models using ABFs derived from a reservoir successfully improved Chl-a predictions at two additional lakes located 156 km (western Lake Erie) and 383 km (Saginaw Bay, Lake Huron) away, with accuracy gains (RMSE reduce) of 28.5%-35.3%. Collectively, these results position ABF as a practical, sensor-agnostic pre-processing step that can be embedded in operational workflows to improve high-resolution Chl-a retrievals, enable earlier harmful algal bloom alerts, and support cross-basin trend analyses for management.",
-      "keywords": [
-        "Satellite",
-        "Robustness (evolution)",
-        "Satellite imagery",
-        "Radiance",
-        "Algal bloom",
-        "Water quality",
-        "Algae",
-        "Reflectivity"
       ]
     },
     {
@@ -12335,7 +12371,7 @@
         21
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2599846",
-      "abstract": "",
+      "abstract": "This article reconceptualizes enclave industrial parks (EIPs), moving beyond their conventional portrayal as territorially bounded areas for cross-jurisdictional material exchanges. Instead, it posits them as open, relationally produced spaces fundamentally shaped by networked politics. Drawing on the case of the Quzhou Inno-Industrial Park (QIIP), Zhejiang Province’s pioneering innovation-focused EIP, this study argues that the construction of EIPs transcends mere material flows, such as land, labor, and industries. Rather, it centers on the strategic mobilization of talent, innovation resources, and institutional linkages through dynamic interactor relations, thereby foregrounding the relational logic underpinning enclave building. Furthermore, the operation and governance of EIPs are both shaped by and constitutive of networked politics, encompassing intricate intercity cooperation, multilevel interactions within state hierarchy, and the evolving state–market interplay. The development of EIPs also reflects an adaptive alignment between localized development imperatives and broader national strategies, serving as a distinct spatial mechanism to mitigate uneven development orchestrated by economic globalization. By situating EIPs within these broader processes of territorial restructuring and networked politics, this article advances theoretical debates in political geography concerning the relational production of urban space and the coconstitution of state and market in shaping spatial development.",
       "keywords": [
         "Politics",
         "China",
@@ -12359,7 +12395,7 @@
         21
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2025.2600638",
-      "abstract": "",
+      "abstract": "Transportation is a major driver of the urban heat island (UHI) effect, significantly contributing to higher urban temperatures through vehicle emissions and heat generated by traffic congestion. Our work aims to quantify the impact of transportation on the UHI effect using thermal satellite data and in situ meteorological measurements. The research focuses on the San Francisco Bay Area and Greater Los Angeles, analyzing MODIS data in the morning and afternoon during equivalent periods in 2019 and 2020. Additionally, in situ meteorological data aid in constructing urban surface energy budgets and developing statistical models linking solar radiation to heat intensity. The study investigates the impact of reductions in traffic flow on UHI using the period of recommended and mandated movement restrictions by California during COVID-19 as a natural experiment. The implementation of movement restrictions (lockdown) corresponds to a 0.068 °C and 0.072 °C decrease in mean morning and afternoon temperatures, respectively, for Los Angeles with smaller decreases in surrounding counties. Northern California showed more mixed results, which could be due to the specific geomorphology and microclimates found in the Bay Area. Our findings provide valuable insights into the relationship between human mobility, urban thermal dynamics, and climate variability.",
       "keywords": [
         "Urban heat island",
         "Climate change",
