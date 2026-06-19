@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T00:14:22.361984+00:00",
+  "generated_at": "2026-06-19T23:46:32.558136+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -260,6 +260,84 @@
       ]
     },
     {
+      "doi": "10.1111/1365-2745.70378",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70378",
+      "title": "Global meta‐analysis of litter addition effects on plant performance and ecosystem functions",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70378",
+      "abstract": "Abstract Plant litter is a critical component of terrestrial ecosystems, yet its effects on plant performance and ecosystem functioning at the global scale remain poorly understood. Our global meta‐analysis (1802 comparisons, 156 studies) of litter addition studies revealed significant heterogeneity in effects across organizational levels (populations, communities and ecosystems). Notably, litter quantity emerged as the primary driver of these outcomes, outweighing the influence of climatic factors. For example, litter addition reduced plant growth by 12.57% and survival by 31.48% at the population level, with these effects exacerbated at higher litter quantities, regardless of climatic conditions. Conversely, litter addition positively influenced the soil carbon and nitrogen content at the ecosystem level. Synthesis . Our findings demonstrate how litter addition affects diverse population‐, community‐ and ecosystem‐level processes, while underscoring the importance of litter quantity in mediating these effects. Inclusion of litter quantity data will therefore be crucial for the accurate prediction of population dynamics and biogeochemical cycles under climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70382",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70382",
+      "title": "Contrasting direct and indirect effects of roe deer on herb layer vegetation in gaps and closed canopies",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70382",
+      "abstract": "Abstract Browsing by ungulates directly influences understorey plant communities through selective removal of certain species and indirectly by modifying plant competition, environmental conditions and successional dynamics. In Central Europe, roe deer ( Capreolus capreolus ) are the most widely distributed ungulate species forming locally dense populations. Understanding the effects of roe deer is essential for sustainable forest management, particularly in the context of changing environmental conditions such as increased tree mortality and expanding canopy gaps. To disentangle the direct effects of roe deer from indirect environmental modifications, we investigated the herb layer (vascular plants <1 m), shrub layer (woody plants 1–6 m) and environmental variables inside and outside 75 exclosures (6 m × 6 m) in a temperate mixed deciduous forest in Central Germany. These exclosures were located either under a closed canopy ( n = 54) or within experimental gaps ( n = 21) and were surveyed 5 years after their establishment. Roe deer increased herb layer species richness overall, but reduced functional diversity in closed forests. Canopy gaps decreased herb layer species richness but increased shrub layer cover. Soil pH was independently positively associated with herb layer species richness, but not with functional diversity and to a lesser extent with shrub layer cover. Structural equation models showed that canopy gaps increased light availability 1 m aboveground, but this effect was counteracted by already increased shrub layer cover. By reducing shrub layer cover, roe deer indirectly increased herb layer species richness. Roe deer presence directly reduced herb layer functional diversity, but also indirectly mitigated this negative effect by lowering shrub cover and thereby increasing light availability. Synthesis . Forest gaps primarily reshape herb layer composition by increasing light availability and shrub layer encroachment. Roe deer influence herb layer community assembly both directly and indirectly via modification of the shrub layer and light availability and thus shifting plant–plant competition. These findings emphasize the complex role of browsers in structuring herb layer communities and help to understand how changes in roe deer populations and canopy gaps will shape the future of temperate European forests.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70445",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70445",
+      "title": "Parachutes, partnerships and pilots: Indigenous people re‐setting research in a jointly managed protected area",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70445",
+      "abstract": "Abstract Research is integral to protected area (PA) management, but to be effective, it should be responsive to local needs, priorities and expertise. Recent research has highlighted the risks of ‘parks parachuting’, where research is done by external researchers without collaboration with, or even acknowledgment of, the national park agency (NPA). Indigenous peoples are increasingly recognised for their role in conservation and PA management and should be an integral party in research, particularly where this occurs in jointly managed PAs. We use Kakadu National Park (northern Australia) as a case study, and we used an analysis of authorship patterns of peer‐reviewed publications to demonstrate the need for more inclusive research collaborations with Indigenous people. We then describe an Indigenous‐led collaborative research project that developed a strategy to improve collaboration and we identify key decisions and actions that demonstrate the positive role that external researchers played in empowering Indigenous people in research. Synthesis and applications . We make 10 general recommendations to foster equitable and inclusive research collaborations centred on Indigenous‐led partnerships, applicable across a range of contexts.",
+      "keywords": [
+        "Indigenous",
+        "National park",
+        "Agency (philosophy)",
+        "Protected area",
+        "Traditional knowledge"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70459",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70459",
+      "title": "<scp>eDNA</scp> signals improve local predictions of fish abundances in Mediterranean coastal ecosystems",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70459",
+      "abstract": "Abstract Predicting marine species distribution and abundance is essential for effective conservation and management. Yet, it remains challenging in data‐limited regions where traditional biodiversity surveys are logistically or financially constrained. Combining underwater visual census and eDNA fish sampling across the northwestern Mediterranean Sea, we tested a novel modelling framework that uses eDNA metabarcoding sequences to complement socio‐environmental covariates in predicting species‐specific local abundances. The eDNA‐derived community proxies revealed ecological gradients complementary to visual census data, helping to distinguish sites dominated by coastal demersal fishes versus offshore predators, territorial reef fishes versus mobile dispersers and benthic versus pelagic species. Using joint Species Distribution Models (jSDMs), within the Hierarchical Modelling of Species Communities (HMSC) framework, we compared the predictive performance of models based solely on socio‐environmental covariates with those that additionally incorporated eDNA‐based information. Including eDNA information significantly improved model fit for 16 out of 26 species, including the endangered dusky grouper ( Epinephelus marginatus ), and contributed to one‐third of explained variance in species local abundances on average. Synthesis and applications . This study demonstrates that integrating eDNA metabarcoding data into species distribution models can improve fish abundance predictions, especially for site‐attached and reef‐associated species. This approach provides a scalable and cost‐effective tool for monitoring, impact assessment, spatial planning and adaptive management of marine resources. Read the free Plain Language Summary for this article on the journal's blog .",
+      "keywords": []
+    },
+    {
       "doi": "10.1086/742751",
       "doi_url": "https://doi.org/10.1086/742751",
       "title": "Species interactions, divergence, and the rapid evolution of ecological sexual dimorphism in threespine sticklebacks",
@@ -274,8 +352,19 @@
         18
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/742751",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Abstract Variation in ecological sexual dimorphism (ESD), defined as differences between the sexes in ecologically-relevant traits, is a common feature of adaptive radiation, yet its causes remain unclear. Competition between the sexes for alternative resources can promote evolution of ESD when interspecific competition is reduced (competition hypothesis). Alternatively, sex-specific selection on ecological traits might weaken under strong directional selection in new environments (divergence hypothesis). We tested these hypotheses via their expected evolutionary outcomes in threespine stickleback populations from southwestern Canada. We found striking among-population variation in magnitude of ESD. Consistent with the divergence hypothesis, dimorphism along the main axis of body shape variation was reduced in recently derived freshwater populations compared to their contemporary marine ancestor. However, dimorphism only weakly declined with increasing phenotypic divergence. Average dimorphism along major freshwater body shape axes was similar between solitary populations and those coexisting with a competing species, contrary to the competition hypothesis. Instead, sympatry with a Benthic ecotype led to increased sexual size dimorphism in Limnetics, and total shape dimorphism was elevated in the sympatric stickleback species compared with solitary populations. In contrast to the mechanisms considered in existing theory, interactions in sympatry might produce elevated ESD by generating novel sex-specific selection pressures.",
+      "keywords": [
+        "Sexual dimorphism",
+        "Sympatry",
+        "Sympatric speciation",
+        "Interspecific competition",
+        "Stickleback",
+        "Competition (biology)",
+        "Ecotype",
+        "Sexual selection",
+        "Adaptive radiation",
+        "Intraspecific competition"
+      ]
     },
     {
       "doi": "10.1086/742786",
@@ -293,7 +382,11 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/742786",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Dilution",
+        "Ectotherm",
+        "Indicator dilution"
+      ]
     },
     {
       "doi": "10.1086/742753",
@@ -311,7 +404,71 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/742753",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Allometry",
+        "Scaling",
+        "Ectotherm",
+        "Enhanced Data Rates for GSM Evolution",
+        "Biological evolution",
+        "Population"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70960",
+      "doi_url": "https://doi.org/10.1111/gcb.70960",
+      "title": "Global Bias‐Aware Synthesis of Meta‐Analyses Reveals Agroforestry's Potential for Improving Soil Health",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
+      "published_parts": [
+        2026,
+        6,
+        18
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70960",
+      "abstract": "ABSTRACT Agroforestry systems (AFS), which integrate trees into agricultural landscapes, offer a promising strategy for climate change mitigation and biodiversity restoration. The trees can access additional resources, improving soil functions and contributing to soil regeneration through increased organic matter inputs. However, evidence is scattered and thus hindering unified global quantification of impacts. Here, we present the first bias‐adjusted global quantitative synthesis of agroforestry effects on distinct soil and water attributes, drawing on 1590 primary studies summarized in 26 meta‐analyses. We evaluated each meta‐analysis against 16 standardized quality criteria. Less than half of the meta‐analyses met > 75% of these criteria, while most did not weigh effect‐sizes or assess heterogeneity and publication bias. We quantified primary studies overlap, finding an overall redundancy of 18% across all soil parameters, most of which arise from studies reporting on soil carbon. Accounting for meta‐analysis quality and bias, AFS tend to increase soil organic carbon by 20%, improve chemical soil quality by 59%, physical soil quality by 22%, and enhance water regulation by 71%. Biological soil quality (86%), nutrient leaching reduction (67%), and erosion control (6%) also benefit from AFS, though with higher heterogeneity. Evidence is extensive for soil organic carbon and chemical properties (73% of studies), whereas it remains limited for AFS effects on biological (< 12%), physical (< 19%), and water‐regulation traits (< 27%). 58% of meta‐analyses report no details at all on system characteristics, such as stand age, species diversity, or tree density, limiting the identification of AFS management practices that maximize soil health attributes and highlight the need for standardized definitions of agroforestry and consistent sampling protocols. By systematically evaluating meta‐analysis quality and study overlap, this synthesis provides a robust framework to distinguish reliable from uncertain outcomes and demonstrates the capacity of agroforestry to deliver multifunctional benefits, particularly regarding soil health.",
+      "keywords": [
+        "Soil quality",
+        "Soil health",
+        "Soil functions",
+        "Soil biodiversity",
+        "Soil carbon",
+        "Soil organic matter",
+        "Soil management",
+        "Soil retrogression and degradation",
+        "Leaching (pedology)",
+        "Agriculture"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70951",
+      "doi_url": "https://doi.org/10.1111/gcb.70951",
+      "title": "<scp>IAM</scp> ‐ <scp>FIRE</scp> : A Climate Emulator–Based Framework to Project Wildfire Impacts and Risks for Integrated Assessment Models",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
+      "published_parts": [
+        2026,
+        6,
+        18
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70951",
+      "abstract": "ABSTRACT Most Integrated Assessment Models (IAMs) underrepresent dynamic feedbacks from climate‐driven disturbances such as wildfires, potentially overestimating the permanence of land‐based carbon sinks. In particular, representing the impacts of forest fires is becoming increasingly important, as these are expected to intensify in the future. We introduce IAM‐FIRE (Integrated Assessment Model—Fire Impacts & Risks Emulator), a novel framework that enables the projection of wildfire burned area (BA) and carbon emissions (CE) directly from IAM outputs. IAM‐FIRE combines a spatial climate emulator, land‐use downscaling, vegetation productivity modelling, and an empirical fire model to generate global annual wildfire impacts for arbitrary socioeconomic and emissions scenarios at 0.5° resolution for the period 2020–2100. Calibrated against GFEDv5 observations and using inputs from the Global Change Analysis Model (GCAM), BA and CE projections are reported for four scenarios: SSP1‐2.6, SSP2‐4.5, SSP3‐6.6 and SSP5‐7.6. The model reproduces historical global trends for both total BA—including the observed global decline since the early 2000s—and forest BA. Projected fire trajectories differ strongly among scenarios: by 2100, total BA range from 441 Mha year −1 under SSP1‐2.6 (decline of −2.22 Mha year −2 relative to 2020) to 794 Mha year −1 under SSP3‐6.6 (increase of +2.3 Mha year −2 relative to 2020). Corresponding total CE show a similar divergence by 2100 ranging from 1.8 PgC year −1 in SSP1‐2.6 (decline of −9.15 TgC year −2 relative to 2020) to 3.6 PgC year −1 in SSP5‐7.6 (increase of +12.70 TgC year −2 relative to 2020). Socioeconomic development exerts a dominant suppressing effect on wildfire impacts while climate change and CO 2 ‐driven increases in vegetation productivity amplify fire risk. Compared to CMIP6 and FireMIP, IAM‐FIRE exhibits greater sensitivity to radiative forcing and a stronger role for human‐driven fire suppression, highlighting structural uncertainties in fire projections. IAM‐FIRE enables systematic exploration of fire–climate–land feedbacks and supports improved assessments of mitigation permanence and climate risks in future integrated scenarios.",
+      "keywords": [
+        "Climate change",
+        "Greenhouse gas",
+        "Vegetation (pathology)",
+        "Global change",
+        "Representative Concentration Pathways",
+        "Carbon cycle",
+        "Impact assessment",
+        "Land cover",
+        "Range (aeronautics)"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03107-0",
@@ -541,7 +698,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70431",
       "abstract": "Abstract Worldwide, vehicle collisions with large ungulates such as deer ( Odocoileus spp.) and wild pigs ( Sus scrofa ) cause billions of dollars in damages and injure thousands of drivers, with most collisions occurring during low‐light conditions. Recent research evaluating increased frontal vehicle illumination with a rear‐facing lightbar has shown promise, but its effectiveness when paired with different headlight types remains unexplored. Furthermore, light‐emitting diode (LED) headlights have grown in popularity compared to tungsten‐halogen (halogen), yet no study has investigated their effects on free‐ranging wildlife behaviour. Compared to halogen headlights, LED headlights produce more blue light, which more closely matches the peak sensitivities of deer and wild pig photoreceptors, potentially affecting their responses. In this study, we investigated how headlight type, increased frontal vehicle illumination via a rear‐facing lightbar, and vehicle speed influenced white‐tailed deer ( Odocoileus virginianus ) and wild pig responses to an approaching vehicle using infrared videography and GPS data. We evaluated flight probability, flight initiation distance (FID) and each encounter's danger level. Over 2 years, we conducted 95 weekly nighttime drives along a 75‐km paved route in South Carolina, USA. For deer, LED headlights had no effect on their avoidance behaviour, whereas for wild pigs, LED headlights increased FIDs by 88.5 m. Lightbar illumination mitigated the effects of increased freezing and dangerously close FIDs by deer at faster vehicle speeds, when crash severity is usually highest. For wild pigs, lightbar illumination increased FIDs at faster vehicle speeds, providing drivers with more time to respond. Synthesis and applications. Generally, LED headlights had neutral or beneficial effects on wildlife responses, suggesting they could reduce collisions given the increased illumination levels they provide drivers. Additionally, our results support previous research indicating increased frontal vehicle illumination can reduce dangerous encounters with wildlife. Our findings suggest that simple modifications to vehicles, such as increased frontal vehicle illumination and the use of LED headlights, can result in large economic and driver safety benefits when scaled to the millions of wildlife–vehicle collisions that occur yearly. Read the free Plain Language Summary for this article on the journal's blog .",
-      "keywords": []
+      "keywords": [
+        "Odocoileus",
+        "Wildlife",
+        "Videography",
+        "Crash",
+        "Animal behavior",
+        "Avoidance response",
+        "Predation"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70450",
@@ -559,7 +724,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70450",
       "abstract": "Abstract Snake–human encounters may lead to snakebite, a neglected tropical disease affecting 5.4 million people each year. Anthropogenic land use has major impacts on terrestrial biodiversity; however, its role in species diversity of snake and snake–human encounters remains poorly documented. We used snake rescue data collected over a 4‐year period across the country of Eswatini to test the effects of landscape heterogeneity and human population densities on snake–human encounters. We isolated the potential effects of configurational (patch density) and compositional (Shannon's diversity index) heterogeneity on encounter rates, and we assessed the scale(s) at which these potential effects occurred. As both the configurational and compositional heterogeneity of land use increased, there was a greater chance of snake–human encounters, but effects of compositional heterogeneity interacted with human population density where effects of landscape diversity weakened at very high human population densities. Similar patterns generally occurred for both medically important and non‐medically important snake species. Overall, landscape effects were most supported at a scale of 500‐m surrounding snake encounter locations. Synthesis and applications . Our results suggest that large‐scale land use changes, such as disintegration of natural habitat into smaller patches of habitat, are associated with a significant increased likelihood of encountering a snake. This has important implications for both snakebite prevention and landscape conservation in southern Africa as habitats change and populations grow. Considerate and informed land use design and planning need to be developed to minimise impact on biodiversity and reduce the incidence of snake encounters.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Habitat",
+        "Diversity (politics)",
+        "Population",
+        "Land use",
+        "Spatial heterogeneity",
+        "Habitat destruction",
+        "Natural (archaeology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70456",
@@ -577,7 +751,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70456",
       "abstract": "Abstract Parasites can suppress host populations through parasite‐induced mortality. However, the negative effects of parasites are difficult to measure in wild populations and we have few tools for quantifying the magnitude of parasite‐induced mortality. This is especially true for many ‘misfit’ parasites that do not fit into standard classifications (e.g. fungal‐like parasites and myxozoans). As such, we are limited in our ability to include the effects of parasites in fish and wildlife management strategies. Chinook salmon ( Oncorhynchus tshawytscha ) are a species of immense cultural and ecological significance but populations are declining across much of their range. In the Yukon River, Alaska, USA, episodic outbreaks of the ichthyosporean parasite Ichthyophonus have been linked to declines, but population‐level effects of Ichthyophonus on Yukon Chinook salmon remain largely unknown. We developed a novel model that leverages changes in parasite intensity distributions to quantify the magnitude of disease‐induced mortality occurring in host populations. We used it to address two questions to inform management of Yukon Chinook salmon: (i) Is parasite‐induced mortality occurring in Chinook salmon and at what magnitude? (ii) What are the drivers of spatio‐temporal variability in parasite‐induced mortality? Using 3 years of surveys, we quantified the evidence for the presence, magnitude, and variability in Ichthyophonus ‐induced mortality in Chinook salmon. Our model predicted that Ichthyophonus was responsible for between 8% and 15% mortality of the migrating Chinook salmon population prior to reaching the Canadian border and could describe nearly 35% of unaccounted for mortality at the border. The model predicted that variability in mortality among years could largely be explained by differences in parasite acquisition in the marine environment rather than differences in infection dynamics in the river. Synthesis and applications . Alaska Department of Fish and Game is implementing an annual monitoring program at the mouth of the Yukon River where our model will estimate the proportion of fish at risk from parasite‐induced mortality to inform annual management. Moreover, the model is broadly applicable to other fungal‐like and myxozoan parasites of conservation concern, where improved estimates of parasite‐induced mortality could be used to predict parasite suppression of wild and managed host populations.",
-      "keywords": []
+      "keywords": [
+        "Chinook wind",
+        "Oncorhynchus",
+        "Wildlife",
+        "Outbreak",
+        "Population",
+        "Wildlife management",
+        "Host (biology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70467",
@@ -595,7 +777,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70467",
       "abstract": "Abstract Urbanization is rapidly transforming landscapes and reshaping wildlife communities, yet it remains unclear whether assemblages along urban gradients are structured mainly by processes of selective species loss/colonization that generate nestedness or by species replacement that generates turnover; we tested these alternative mechanisms with a multi‐taxa approach in a major European Metropolitan area. Data from three vertebrate taxa characterized by contrasting ecological traits, dispersal ability and spatial scales of response—bats, small mammals and birds—were collected along an urbanization gradient in the Metropolitan City of Milan (Italy) and analysed to quantify beta diversity and its turnover and nestedness‐resultant components. We disentangled environmental and spatial drivers of all beta components using distance‐based redundancy analyses and variation partitioning. Finally, we evaluated whether community patterns were shaped by species‐specific responses to environmental predictors and/or interspecific associations using Joint Species Distribution Models. Beta diversity was high and consistently dominated by turnover across all taxa. Bat and small‐mammal communities were primarily driven by environmental predictors, with bats additionally reflecting broad‐scale spatial structuring of environmental conditions along the urban gradient, whereas small mammals responded mainly to local habitat characteristics. In birds, strong broad‐scale spatial components also emerged. Consistently, community‐ and species‐level analyses showed that bats mainly responded to a gradient of distance from the city centre associated with changes in vegetation structure; small mammals to urban‐fabric characteristics and local habitat features such as grass cover; and birds to a broad‐scale urbanization gradient and to a combination of green area extent, patch age, local landscape composition and vegetation features such as dead wood and fallen branches. Credible residual species associations were consistently absent across all taxa. Synthesis and applications . Our results indicate that species turnover is a general ecological mechanism shaping vertebrate communities along the urban gradient, driven by taxon‐ and species‐specific responses to environmental and spatial features. Community differences primarily reflect habitat suitability rather than dispersal limitation, highlighting the potential of targeted habitat restoration to support disturbance‐sensitive species within urban landscapes. Such actions would help maintain a broader range of ecological niches and overall urban ecosystem functioning.",
-      "keywords": []
+      "keywords": [
+        "Beta diversity",
+        "Nestedness",
+        "Biodiversity",
+        "Habitat",
+        "Biological dispersal",
+        "Urbanization",
+        "Environmental gradient",
+        "Spatial ecology",
+        "Vegetation (pathology)",
+        "Metacommunity"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03104-3",
@@ -17818,34 +18011,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70770",
-      "doi_url": "https://doi.org/10.1111/gcb.70770",
-      "title": "Soil Invertebrate Body Size Groups and Effect Magnitude Jointly Influence Global Soil <scp> CO <sub>2</sub> </scp> Emissions",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-23",
-      "published_date_display": "2026-02-23",
-      "published_parts": [
-        2026,
-        2,
-        23
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70770",
-      "abstract": "ABSTRACT Soil invertebrates represent vital components of belowground biodiversity and play pivotal roles in regulating key carbon (C) cycling processes, particularly soil respiration. Despite the recognised effects of invertebrates on soil respiration, previous studies suffer from a major blind spot: a lack of global‐scale interpretations of inferred associations describing how these organisms mediate C release. In this study, we integrated 556 datasets spanning 90 publications to systematically assess the global patterns and inferred associations by which soil invertebrates influence soil respiration. The results revealed that soil invertebrates, on average, enhanced soil respiration by 52%. Across climatic zones, the magnitude of this positive effect tended to decline from tropical to temperate regions. When classified by body size, among the large‐bodied soil invertebrates, ants and termites increased soil respiration by 60% and 62%, respectively, whereas earthworms stimulated it by 47%. In contrast, small‐to‐medium‐bodied soil invertebrates exerted no significant effect. Across ecosystem types, soil invertebrates stimulated soil respiration more strongly in forest ecosystems, with an increase of 55%, compared to a 44% increase in grassland ecosystems. The pathways through which soil invertebrates influence respiration varied markedly among body‐size groups and ecosystem types. Overall, soil invertebrates primarily influenced soil microbial biomass C, fungal biomass and bacterial biomass, as well as soil organic N, soil organic C and soil pH, which in turn were closely associated with soil respiration. These findings underscore the key role of soil invertebrates in influencing soil CO 2 emissions and provide insights essential for improving Earth system models under ongoing climate change.",
-      "keywords": [
-        "Invertebrate",
-        "Soil carbon",
-        "Soil biology",
-        "Soil ecology",
-        "Ecosystem",
-        "Soil respiration",
-        "Soil biodiversity",
-        "Biomass (ecology)",
-        "Terrestrial ecosystem"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70343",
       "doi_url": "https://doi.org/10.1111/ele.70343",
       "title": "No Evidence for Pace of Life Evolution Along Elevational Gradients in Squamate Reptiles",
@@ -19044,34 +19209,6 @@
         "Aerial survey",
         "Distribution (mathematics)",
         "Citizen science"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70746",
-      "doi_url": "https://doi.org/10.1111/gcb.70746",
-      "title": "Wetland Expansion Reduces <scp> CO <sub>2</sub> </scp> ‐Equivalent Emissions and Strengthens the Congo Basin's Role as a Net Carbon Sink",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-12",
-      "published_date_display": "2026-02-12",
-      "published_parts": [
-        2026,
-        2,
-        12
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70746",
-      "abstract": "ABSTRACT Wetlands are the largest natural source of methane, yet their desiccation releases substantial amounts of carbon dioxide. Changing wetland emissions provide the greatest source of uncertainty in global emissions estimates due to limited data for key tropical carbon sources and sinks, including the Congo Basin. Here we quantified changing swamp forest hydrology, forest productivity and greenhouse gas emissions between 2007 and 2024 using satellite Earth observation and emissions datasets. We show that swamp forests expanded from 195,345 km 2 to 222,467 km 2 between 2007 and 2024, demonstrating a reversal of previously reported long‐term drying trends. The observed wetting trend increased productivity in both swamp and terra firme forests. Despite increasing methane emissions, wetland expansion reduced CO 2 ‐equivalent emissions by 2 (95% CI; −2.94 to −1.12) million tonnes per year since 2007, highlighting the region's increasing role as a net carbon sink and its significance for global carbon budgets.",
-      "keywords": [
-        "Swamp",
-        "Wetland",
-        "Carbon sink",
-        "Greenhouse gas",
-        "Sink (geography)",
-        "Primary production",
-        "Carbon sequestration",
-        "Carbon cycle",
-        "Climate change"
       ]
     },
     {
