@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T23:24:25.091536+00:00",
+  "generated_at": "2026-06-19T22:38:09.264179+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,101 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01880-1",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01880-1",
+      "title": "Synergistic pathways to mitigate climate and water scarcity risks",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01880-1",
+      "abstract": "",
+      "keywords": [
+        "Water scarcity",
+        "Climate change",
+        "Scarcity",
+        "Sustainability",
+        "Water pollution",
+        "Water resources"
+      ]
+    },
+    {
+      "doi": "10.1038/s41893-026-01870-3",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01870-3",
+      "title": "A versatile sustainable biosubstrate stabilizing metal conductors for soft sensors",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01870-3",
+      "abstract": "",
+      "keywords": [
+        "Electrical conductor",
+        "Metal",
+        "Copper",
+        "Key (lock)"
+      ]
+    },
+    {
+      "doi": "10.1038/s41558-026-02665-2",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02665-2",
+      "title": "Comprehensive national climate damage assessments framework applied to the UK",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02665-2",
+      "abstract": "",
+      "keywords": [
+        "Climate change",
+        "Climate policy",
+        "Climate system",
+        "Climate extremes"
+      ]
+    },
+    {
+      "doi": "10.1038/s41558-026-02672-3",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02672-3",
+      "title": "Climate change drives ecological novelty and new social challenges",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02672-3",
+      "abstract": "",
+      "keywords": [
+        "Climate change",
+        "Novelty",
+        "Political economy of climate change",
+        "Climate policy",
+        "Ecological forecasting"
+      ]
+    },
+    {
       "doi": "10.1038/s41893-026-01867-y",
       "doi_url": "https://doi.org/10.1038/s41893-026-01867-y",
       "title": "Broad-spectrum insecticide detoxification for the protection of managed pollinators",
@@ -41,7 +136,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01867-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Pollinator",
+        "Detoxification (alternative medicine)",
+        "Neonicotinoid",
+        "Beneficial insects",
+        "Insect",
+        "Pollination"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02669-y",
@@ -59,7 +161,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02669-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Temperate climate",
+        "Climate change",
+        "Extinction (optical mineralogy)",
+        "Tropics",
+        "Global warming",
+        "Tropical climate",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01842-7",
@@ -1582,6 +1692,23 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101749",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101749",
+      "title": "Wetlands at the interface of ambition and action",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001508",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.oneear.2026.101714",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101714",
       "title": "Unlocking microbial potential to advance nutritious and sustainable food systems",
@@ -1605,6 +1732,23 @@
         "Sustainability",
         "Production (economics)"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101738",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101738",
+      "title": "Smart Wetlands",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001399",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101740",
@@ -1631,6 +1775,23 @@
         "Hydrology (agriculture)",
         "Water use"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101742",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101742",
+      "title": "Q&A with Dr. Musonda Mumba: Protecting wetlands for people, nature, and climate",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001430",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101715",
@@ -1730,6 +1891,57 @@
         "Antibiotics",
         "Work (physics)"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101743",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101743",
+      "title": "Greenhouse gas flux measurements in wetlands",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001442",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101719",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101719",
+      "title": "Climate-smart wetlands can mitigate the wetland-methane feedback loop",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600120X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101745",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101745",
+      "title": "Beyond inundation: A water-table-driven framework is needed to quantify tropical wetland methane emissions",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001466",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1038/s41893-026-01840-9",
@@ -3800,7 +4012,7 @@
       "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
-        5
+        6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001053",
       "abstract": "The Kunming-Montreal Global Biodiversity Framework calls for restoring at least 30% of degraded ecosystems by 2030, while the IPCC and IPBES emphasize restoration as central to addressing climate change and biodiversity loss. Rewilding, defined as the promotion of self-sustaining, complex ecosystems through minimal human intervention, has emerged as a prominent restoration strategy, yet its climate change mitigation potential is often underexplored. Here, we propose a climate-smart rewilding framework that explicitly integrates biodiversity recovery with climate mitigation, climate adaptation, and socio-economic considerations. Using Europe as a case study, we map potential synergies and trade-offs among carbon sequestration, ecosystem resilience to climate change, wildlife-based tourism opportunities, and the risk of livestock predator conflict. We argue that this integrative framework provides a practical basis for identifying and assessing restoration strategies that deliver multiple benefits across regional and continental scales.",
@@ -3856,7 +4068,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001028",
-      "abstract": "",
+      "abstract": "China's booming electric vehicle (EV) sector is generating a rapidly growing stream of retired batteries, most of which still enter pollution-intensive informal recycling channels. How to redirect these batteries into formal recycling remains unclear, particularly given the complex and dynamic interactions among governments, producers, consumers, and informal recyclers. Here, we develop an integrated framework combining evolutionary game theory, system dynamics (SD), Global Change Analysis Model (GCAM)-based stock-flow projections, and life cycle impact assessment (LCIA) to capture stakeholders' co-evolution under expanded extended producer responsibility (EPR) policies. Under business as usual, formal recycling stagnates at around 53% after 2030. By contrast, a consolidated EPR strategy—combining early enforcement, targeted incentives, and stronger market conditions—could raise the formal recycling share above 92% by 2060 while reducing environmental damage by 44%–73%. These findings highlight the urgency of strengthening EPR systems, repositioning informal recyclers as flexible collectors, and aligning with stricter international regulations to build a robust formal recycling system.",
       "keywords": [
         "Sustainability",
         "Electric vehicle",
@@ -4043,7 +4255,7 @@
       "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
-        5
+        6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001132",
       "abstract": "Plastic pollution represents a pervasive global environmental challenge. However, the lack of globally harmonized monitoring hinders the development of targeted interventions. Here, we develop a rank-based approach combining over 5,300 shoreline surveys and Monte Carlo analysis to present a confidence-weighted global assessment of marine litter across seven continents, nine ocean systems, 13 regional seas, and 112 nations, representing 86% of the global population. The analysis shows that food and beverage plastics dominate shoreline debris globally, ranking among the top three most abundant usage types in 93% of nations, followed by plastic bags (39%) and cigarettes (38%). Specifically, plastic food packaging, caps/lids, and plastic bottles were among the top-ranked individual items in over half of all nations. By pinpointing the most prevalent items across national and regional scales, our framework provides critical policy-relevant evidence and associated levels of confidence, indicating the need for targeted upstream responses focused on short-lived plastics.",
@@ -4112,7 +4324,7 @@
       "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
-        5
+        6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001181",
       "abstract": "",
@@ -5850,7 +6062,7 @@
       "published_date_display": "2026-04-01",
       "published_parts": [
         2026,
-        4
+        6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000801",
       "abstract": "",
@@ -5924,7 +6136,7 @@
       "published_date_display": "2026-04-01",
       "published_parts": [
         2026,
-        4
+        6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000813",
       "abstract": "",
@@ -5948,7 +6160,7 @@
       "published_date_display": "2026-04-01",
       "published_parts": [
         2026,
-        4
+        6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226000606",
       "abstract": "Multi-regional input-output (MRIO) models trace socioeconomic and environmental performance along complex global supply chains. However, the electricity sector, a major source of fossil fuel consumption and CO 2 emissions, remains insufficiently disaggregated in MRIO databases, hindering assessment of power generation structural change and renewable technology reforms, especially in emerging economies. Here, we establish EMERGING-E, an MRIO model covering 146 sectors across 245 economies, which disaggregates the electricity sector into one transmission sector, one distribution sector, and twelve technology-specific subsectors. Validation against officially reported country-level power generation mixes reveals that EXIOBASE 3 and GTAP-Power 11 tend to overestimate fossil-fuel-based generation (particularly gas and coal) and misrepresent renewables such as hydropower and wind power. By contrast, EMERGING-E aligns closely with official data, improving the accuracy of national electricity generation structures. EMERGING-E enables robust, transparent, and science-based assessments of energy transitions to help guide effective energy and climate governance across global supply chains.",
