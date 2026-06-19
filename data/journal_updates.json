@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T23:04:21.035503+00:00",
+  "generated_at": "2026-06-19T22:12:50.310427+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,38 +26,81 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115537",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115537",
+      "title": "Waveform-adaptive estimation of canopy heights using GEDI data in dense Amazonian forests",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600307X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.050",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.050",
+      "title": "CanadaFireSat: Towards high-resolution wildfire forecasting with multiple modalities",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002972",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.021",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.021",
+      "title": "A multi-modal dataset and A multi-task network integrating SAR interferometric data for semantic segmentation and height estimation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003278",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.06.017",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.017",
       "title": "T2Net: Taxonomy-Guided Tree-Structured Prompt Learning for Few-Shot Remote Sensing Scene Classification",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003230",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.015",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.015",
-      "title": "Dim moving target detection with hyperspectral image sequences",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003217",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Leverage (statistics)",
+        "Semantics (computer science)",
+        "Generalization",
+        "Contextual image classification",
+        "Remote sensing application",
+        "Similarity (geometry)",
+        "Construct (python library)",
+        "Semantic similarity"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.016",
@@ -83,6 +126,34 @@
       ]
     },
     {
+      "doi": "10.1016/j.isprsjprs.2026.06.015",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.015",
+      "title": "Dim moving target detection with hyperspectral image sequences",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003217",
+      "abstract": "",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Block (permutation group theory)",
+        "Discriminative model",
+        "Convolution (computer science)",
+        "Object detection",
+        "Pattern recognition (psychology)",
+        "Feature (linguistics)",
+        "Wavelet",
+        "Representation (politics)",
+        "Haar wavelet"
+      ]
+    },
+    {
       "doi": "10.1080/24694452.2026.2679291",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2679291",
       "title": "Linking Streetscape Atmosphere with Social Vulnerability and Community Resilience",
@@ -97,8 +168,17 @@
         18
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2679291",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Social vulnerability and community resilience are essential frameworks for disaster risk management. Environmental perception quality also affects disaster outcomes by shaping social capital and postdisaster psychological recovery. As existing research seldom examines how perception quality is associated with the resilience–vulnerability system, however, practitioners cannot determine whether and how perception quality might interact with resilience-related configurations and social vulnerability. Furthermore, analyzing these associations requires clarification of perception quality, as this concept lacks a distinct ontological position between subjective experience and objective environment, hindering its coherent theoretical linkage with resilience–vulnerability systems. Therefore, we redefine street-view perception quality as streetscape atmosphere, a presubjective cross-scale perceptual background that exists between subject and object, possesses materiality and sociality, and can be quantified using aggregated crowdsourced judgments. Our case study of the Northeastern United States uses a controlled spatial lag model with decomposition analysis. The findings reveal three patterns. First, high social vulnerability is systematically associated with less beautiful and more depressing atmospheres. This pattern signals accumulated disadvantages in streetscape atmosphere that compound structural inequalities. Second, housing and infrastructure resilience aligns with less beautiful and more depressing atmosphere, whereas institutional resilience aligns with less depressing atmosphere. Third, these atmosphere signatures are materially expressed through both the visible composition and the maintained condition of public-space environments. This study is one of the first to clarify the ontology of street-view perception quality and to pioneer the integration of streetscape atmosphere into resilience–vulnerability frameworks. It provides an empirical basis for disaster risk management and policy design.",
+      "keywords": [
+        "Perception",
+        "Vulnerability (computing)",
+        "Psychological resilience",
+        "Social vulnerability",
+        "Urban resilience",
+        "Risk perception",
+        "Social capital",
+        "Quality (philosophy)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115533",
@@ -114,7 +194,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003032",
-      "abstract": "",
+      "abstract": "Accurate burned area (BA) mapping is essential for quantifying wildfire extent, estimating carbon emissions, and assessing ecosystems, particularly in sub-Saharan Africa (SSA), which contributes the largest portion of BA and fire-related carbon emissions in the globe. However, there is still a lack of multi-year high spatial resolution (≥30 m) monthly BA products for SSA. To address this issue, this study presents a novel optical and SAR data coupling framework for producing multi-year 30 m resolution monthly BA in SSA from integrated Landsat 8/9, Sentinel-2, and Sentinel-1 data. We evaluated pre-/post-fire and change metrics including thermal infrared, red-edge, and SAR-derived indicators to select optimal features, input them into a random forest model to compute burned probabilities. Following the refinement of the initial probability map via SAR-based BA detection, soft suppression of cropland misclassifications, active fire confirmation, and vegetation filtering, region growing was performed to delineate the final BA map. Leveraging this framework, the novel 30 m resolution Monthly Burned Area products for SSA from 2017 to 2025 (MBA-SSA1725) were generated and can be freely downloaded. Validation against two existing reference datasets and a specifically designed reference dataset (RBA-SSA1725) showed Dice Coefficient (DC) of 0.8462, 0.8614 and 0.8751, respectively, with lower omissions and higher precision compared to the existing BA products. We further analyzed the spatiotemporal patterns of BA in SSA, including seasonal fluctuations, and interannual variations. This work fills critical gaps in multi-year, high-resolution monthly BA monitoring for Africa, which is important for enhancing fire-induced carbon emissions estimation, trend evaluation, and ecosystem assessment in the most fire-prone region on the earth.",
       "keywords": [
         "Resolution (logic)",
         "High resolution",
@@ -214,7 +294,7 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2679296",
-      "abstract": "",
+      "abstract": "Transformative adaptation interventions protect vulnerable populations from the dreadful consequences of climate change. Current debates emphasize system change and collective agency, leaving the concept of transformative individual adaptation undefined. This article aims to present a fuller account of transformative action and capacity at the microlevel (i.e., individual and household). Our study examines adaptation responses of different levels of disruptive impact and their relationships with the inherent and acquired capacities of individuals. Evidence was collected from coastal areas in Indonesia and Myanmar through structured questionnaire surveys. Results show that voluntary migration and social mobilization are a function of transformative capacity. Incremental action is only predicted by indicators of coping capacity, representing assets, capabilities, and entitlements. These findings suggest that enabling transformative individual adaptation requires the strengthening of individual agency, encompassing perception of change, flexibility, interest in undertaking significant change, and autonomy. A conceptual framework is presented in this article, integrating these considerations with other contextual factors, including socioeconomic characteristics, values, and power relations. This study reveals key determinants for capacity-building initiatives to facilitate transformative individual adaptation. Fostering collective agency through participatory and bottom-up processes is important. Research, policy, and practice can expedite microlevel transitions by orienting these processes toward the enhancement of individual agency for transformation.",
       "keywords": [
         "Flooding (psychology)",
         "Vulnerability (computing)",
@@ -3893,7 +3973,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002385",
-      "abstract": "",
+      "abstract": "Accurate estimation of gross primary production (GPP) is essential for understanding the carbon cycle in terrestrial ecosystems. Although numerous models have been developed to estimate GPP, many require a large number of input variables and parameters. For example, light-use efficiency (LUE) models typically rely on multiple inputs, such as photosynthetically active radiation (PAR), the fraction of absorbed PAR, air temperature, vapor pressure deficit, and biome-specific parameters. This dependence on multiple data sources can introduce additional uncertainties into GPP estimates. Here, we developed and evaluated an efficient chlorophyll-based canopy photosynthesis model (CPM) for estimating GPP using the Sentinel-3 OLCI-derived canopy chlorophyll content (CCC) and the canopy chlorophyll absorption coefficient in the red-edge band ( α RE ). In the CPM framework, GPP is estimated from the product of potential incident PAR (PAR pot ) and remotely sensed indicators of photosynthetic capacity, such as CCC or α RE . By using PAR pot instead of actual PAR, CPM reduces its dependence on ancillary environmental inputs. We evaluated the CCC-based and α RE -based CPM models using data from 301 eddy covariance flux sites distributed globally. Based on leave-one-site-out cross-validation, the global CPM models accurately estimated GPP using CCC × PAR pot (R 2 = 0.76, RMSE = 1.79 gC·m −2 ·d −1 , nRMSE = 6.73%) and α RE ×PAR pot (R 2 = 0.73, RMSE = 1.91 gC·m −2 ·d −1 , nRMSE = 7.15%). The CPM models outperformed the widely used near-infrared reflectance of vegetation (NIRv)-based method and the MODIS GPP product. We further evaluated the ability of CCC × PAR pot to capture global photosynthetic patterns using TROPOMI sun-induced chlorophyll fluorescence (SIF) as a benchmark and found a strong correlation between CCC × PAR pot and SIF (R 2 > 0.80). These findings demonstrate that the CPM framework relying solely on CCC and α RE provides accurate and consistent estimates of GPP, offering a practical approach for improving assessments of the global carbon cycle and ecosystem responses to climate change.",
       "keywords": [
         "Canopy",
         "Photosynthesis",
@@ -3916,7 +3996,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002154",
-      "abstract": "",
+      "abstract": "The European spruce bark beetle ( Ips typographus ) has driven unprecedented forest losses in Europe. Detecting infested trees before brood emergence is crucial for control. We present the first multi-country benchmark of pre-emergence detection using drone remote sensing. Data span Sweden, Finland, Italy, and Czechia (12 areas; 6 time series), with 26 multispectral and 16 hyperspectral image sets, covering 1798 infested and 13,020 healthy trees. We compare detection performance across remote sensing factors and tree-decline dynamics. Hyperspectral sensors performed best due to access to green-shoulder bands (∼530 nm): the Green Shoulder Curvature Ratio (GSCRms) index detected up to twice as many infestations as the next-best spectral index (VI). Without these bands, hyperspectral and multispectral sensors were comparable using narrow- or broadband VIs. Within the red-edge, the 705–712 nm bands were 2–4 times more sensitive to stress than the 730–740 nm bands, guiding the choice of multispectral sensors. Normalizing red-edge VIs to pre-attack values markedly improved early detection and reduced false positives; green-shoulder VI was inherently stable and required no normalization. Outbreak timing was broadly similar among countries, but the decline progressed faster for trees attacked at outbreak peak. Decline was highly localized: adjacent plots often differed largely in decline rate (e.g., 50% vs. 17%). Localized decline rate dominated detectability, followed by outbreak phase, green-shoulder-band availability, red-edge wavelength, and VI normalization.",
       "keywords": [
         "Bark beetle",
         "Bark (sound)",
@@ -4600,7 +4680,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002233",
-      "abstract": "Droughts in Africa's drylands threaten regional food security and global agricultural markets. Early-warning systems increasingly rely on Earth Observation (EO), yet precipitation-based indicators often fail to detect emerging vegetation water stress. With new low-Earth-orbit missions, evapotranspiration (ET), which represents actual land-surface water flux, and ET-derived metrics such as the Evaporative Stress Index (ESI) have become essential. ECOSTRESS provides ∼70 m sub-daily land surface temperature observations for ET estimation via the Priestley–Taylor Jet Propulsion Laboratory (PT-JPL) model. However, PT-JPL often exhibits positive ET bias in drylands, increasing the risk of drought omission errors. We evaluated whether hyperspectral vegetation indices (HVIs) can reduce these biases using multi-year field spectrometry, eddy covariance fluxes, and EnMAP/PRISMA imagery in a Kenyan dryland experiment. On the independent validation subset, the standard PT-JPL overestimated ET by 21.8% (mean observed latent heat = 4.86 MJ m−2 d−1). Incorporating HVIs reduced bias to 3.5% when constraining soil evaporation and to −6.4% when applied to both canopy and soil components, while also improving other goodness-of-fit metrics. Bias reduction occurred through two mechanisms: (i) alleviating NDVI saturation, which strengthened canopy constraints under wetter conditions, and (ii) reformulating the soil-moisture constraint using hyperspectral reflectance, thereby limiting soil-evaporation inflation under humid and transitional conditions. These improvements were consistent across hydrological periods and sensor platforms. The findings demonstrate that narrowband spectral information enhances ET partitioning and directly support upcoming narrowband–thermal missions (e.g., CHIME, Landsat Next, LSTM, S2NG, SBG) by improving ET-based drought early-warning in moisture-limited environments.",
+      "abstract": "Droughts in Africa's drylands threaten regional food security and global agricultural markets. Early-warning systems increasingly rely on Earth Observation (EO), yet precipitation-based indicators often fail to detect emerging vegetation water stress. With new low-Earth-orbit missions, evapotranspiration (ET), which represents actual land-surface water flux, and ET-derived metrics such as the Evaporative Stress Index (ESI) have become essential. ECOSTRESS provides ∼70 m sub-daily land surface temperature observations for ET estimation via the Priestley–Taylor Jet Propulsion Laboratory (PT-JPL) model. However, PT-JPL often exhibits positive ET bias in drylands, increasing the risk of drought omission errors. We evaluated whether hyperspectral vegetation indices (HVIs) can reduce these biases using multi-year field spectrometry, eddy covariance fluxes, and EnMAP/PRISMA imagery in a Kenyan dryland experiment. On the independent validation subset, the standard PT-JPL overestimated ET by 21.8% (mean observed latent heat = 4.86 MJ m −2 d −1 ). Incorporating HVIs reduced bias to 3.5% when constraining soil evaporation and to −6.4% when applied to both canopy and soil components, while also improving other goodness-of-fit metrics. Bias reduction occurred through two mechanisms: (i) alleviating NDVI saturation, which strengthened canopy constraints under wetter conditions, and (ii) reformulating the soil-moisture constraint using hyperspectral reflectance, thereby limiting soil-evaporation inflation under humid and transitional conditions. These improvements were consistent across hydrological periods and sensor platforms. The findings demonstrate that narrowband spectral information enhances ET partitioning and directly support upcoming narrowband–thermal missions (e.g., CHIME, Landsat Next, LSTM, S2NG, SBG) by improving ET-based drought early-warning in moisture-limited environments.",
       "keywords": [
         "Evapotranspiration",
         "Hyperspectral imaging",
@@ -4694,7 +4774,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600225X",
-      "abstract": "",
+      "abstract": "Mining activities play a critical role in industrial and economic development but are also a major driver of land surface degradation, including deforestation, soil erosion, and water contamination. Effective environmental governance therefore requires consistent, long-term monitoring of mining-induced land surface changes, yet existing remote sensing datasets are often limited either in temporal depth or in their focus on mining activities. In this paper, we present EuroMineNet, a multiyear benchmark for mining footprint mapping and change detection based on Sentinel-2 multispectral imagery. EuroMineNet covers 133 mining sites across the European Union and provides annual expert-verified mining footprint annotations from 2015 to 2024, enabling year-by-year analysis of mining activity dynamics at regional scale. The benchmark supports two complementary tasks: (1) multitemporal footprint mapping, which aims to generate temporally consistent annual maps of mining areas, evaluated using a proposed Change-Aware Temporal Intersection-over-Union (CA-TIoU) metric; and (2) cross-temporal change detection, which targets the identification of mining-induced changes across arbitrary temporal intervals. We benchmark 31 state-of-the-art deep learning models on these tasks. Our results show that while current GeoAI methods reliably capture long-term mining expansion, they continue to struggle with detecting subtle short-term changes. By providing a decade-long, consistently annotated dataset and a standardized evaluation protocol, EuroMineNet establishes a reference benchmark for advancing robust and temporally consistent mining footprint mapping and change detection using Earth observation data. The dataset and code are released following FAIR and open science principles at https://github.com/EricYu97/EuroMineNet .",
       "keywords": [
         "European union",
         "Footprint",
@@ -6099,7 +6179,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001768",
-      "abstract": "",
+      "abstract": "Forest aboveground biomass Density (AGBD) maps provide important constraints on climate and carbon cycle models and enable the long-term monitoring of carbon stocks. NASA's latest spaceborne lidar instruments provide unprecedented observations of forest structure that are used to compile spatially continuous, locally trained maps of circa 2020 AGB density and stock. To address a geographical limitation of the International Space Station deployed GEDI instrument, herein we map high northern latitude forests with a fusion of NASA's ICESat-2 mission, Harmonized Landsat Sentinel-2 (HLS), and Copernicus GLO-30 topographic data. We report a domain-wide estimate for boreal forests of 72.96 +/− 0.61 Pg AGB. Combining these maps with those of tropical and temperate forests from GEDI products provides a global estimate of 2020 biomass stocks of 593.49 +/− 11.47 Pg AGB. We analyze biomass means and totals across the boreal domain in different land cover types, slope classes, and ecoregions. We compare these products to national estimates of AGB stocks for high latitude countries, finding good general agreement between national reports and EO-based estimates, particularly for countries with robust National Forest Inventories (NFIs) and boreal forests, while underestimation of high AGBD in tall, dense forests remains a challenge for AGBD mapping. Satellite products can be used to support wide area estimation of aboveground biomass, and the maps described here provide insights into carbon stocks, patterns, and dynamics at scales relevant to forest management. These open access data products serve as a baseline to assess future changes associated with drought, fire, insects, deforestation, and degradation.",
       "keywords": [
         "Taiga",
         "Boreal",
@@ -6395,7 +6475,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001668",
-      "abstract": "",
+      "abstract": "Accurate and robust localization is essential for high-precision mobile mapping and autonomous navigation. Despite advances in LiDAR-, visual-, and inertial-based odometry, achieving long-term, drift-free localization in complex urban environments remains challenging. Map-based localization offers global consistency without GNSS reliance by registering online LiDAR scans to pre-built maps. However, absolute scan-to-map matching remains computationally expensive and highly sensitive to initialization and map discrepancies. These challenges are amplified with low-resolution LiDAR sensors from mobile mapping systems on sloped or multi-layered roads, where sparse vertical geometry exacerbates vertical drift and reduces localization reliability. To address these limitations, this work offers a new perspective on map-based localization by introducing a computationally efficient multi-layer localization framework that harmonizes local odometry with innovative map-derived constraints. We proposed a novel map-guided differential motion factor that uses a pre-built queried map as a relative-motion regularizer rather than an absolute pose anchor and injects a map-derived inter-keyframe motion constraint as a binary between-factor into the factor graph with an alignment-reliability adaptive covariance to down-weight partial-overlap and degenerate matches. This design substantially reduces computational cost while maintaining comparable accuracy and robustness of absolute map-aided localization approaches. However, reliance solely on our relative map constraints cannot entirely suppress vertical drift, particularly on sloped or multi-layered terrain. To overcome this, we introduce a slope-aware, multi-layer adaptive ground segmentation module, followed by a corresponding ground-constraint factor to strengthen vertical observability across frames. The fusion of these modules achieves decimeter-level, drift-resilient localization with 0.85 m RMSE, while reducing runtime by over 50% compared to absolute scan-to-map localization, providing an effective accuracy–efficiency trade-off for localization performance in complex urban environments.",
       "keywords": [
         "Constraint (computer-aided design)",
         "Robustness (evolution)",
@@ -6515,7 +6595,7 @@
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001772",
-      "abstract": "",
+      "abstract": "Unlike traditional ship detection, polarimetric synthetic aperture radar (PolSAR) intelligent ship detection faces the following critical challenges: inaccurate revelation of polarimetric responses, insufficient physical interpretable network and lack of consideration of complex electromagnetic environment. To address these issues, this paper proposes a physical mechanism coupled MambaOut-CNN network for PolSAR ship detection under complex interference scenarios. First , by arduously collecting six types of spaceborne and airborne real PolSAR data covering three mainstream frequency bands, this paper releases an interference polarized ship detection (IPSD) dataset for the first time, wherein four types of typical interferences are involved and a total of 934 samples are presented. Second , a regularized systematic polarimetric decomposition (RSPD) framework for ship targets is proposed. On the basis of introducing rotated dihedral and planar resonator scattering models unique to ships, by defining the hierarchical absolute dominant scattering principle and designing a simultaneous model inversion strategy, this decomposition framework achieves fine characterization of ship target scattering in terms of emphasis of its exclusive scattering. Finally , with physical prior of the RSPD, a physical mechanism coupled MaOutCNN ship detection network by designing CNN and MambaOut dual-branch inputs is proposed, which integrates multi-scale parallel, multi-branch convolution and dynamic feature fusion modules, and introduces a collaborative perception loss function. This guarantees a generalized and reliable detection of dense targets in near-port areas and widespread targets in open seas. Experimental results show that the proposed RSPD accurately reveals and outlines prominent the global and local structural scattering of ship targets. Moreover, compared with 12 advanced ship detection networks, MaOutCNN achieves the optimal detection performance on both the IPSD and non-interference datasets, with average detection accuracies of 89.7% and 94.2% respectively, which are 3.6% and 3.1% higher than the baseline model. In addition, the results of ablation experiments and heatmap visualization are also discussed. The dataset and benchmark are publicly available at https://github.com/zzandcc/ipsd.git .",
       "keywords": [
         "Interference (communication)",
         "Mechanism (biology)",
@@ -8233,7 +8313,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001501",
-      "abstract": "",
+      "abstract": "Soil moisture is a key variable in hydrological and climate studies. The Optical Trapezoid Model (OPTRAM) enables high-resolution soil moisture retrieval using only reflective bands, but most implementations still rely on manual edge/parameter selection and have not been systematically evaluated across diverse ecosystems. Here, we integrate an extended Adaptive Sliding Window (ASW) edge-detection algorithm into an automated OPTRAM (aOPTRAM) workflow to assess its performance using Sentinel-2 imagery and in-situ measurements from 10 networks (130 stations) spanning bare soil, shrubland, grassland, and tree cover. We compared vegetation indices (NDVI, SAVI), edge-fitting functions (linear, exponential, polynomial), and spatial scales (network vs. station), and evaluated accuracy using Pearson's correlation coefficient (R), unbiased root-mean-square error (ubRMSE), bias, and Kling-Gupta efficiency (KGE). aOPTRAM performance is sensitive to vegetation index, land cover, edge functional form, and export scale. SAVI with linear edges performs best in shrublands, whereas NDVI with exponential edges is generally preferred in grasslands and tree cover. Bare-soil remains challenging because the STR dynamic range is small, leading to weak wet–dry separability and amplified retrieval uncertainty. Station-scale export consistently improves accuracy relative to the network scale and better captures seasonal soil-moisture dynamics. Overall, aOPTRAM achieves performance comparable to optimal OPTRAM while providing a fast, edge-calibration-free framework for high-resolution soil moisture monitoring across heterogeneous landscapes.",
       "keywords": [
         "Vegetation (pathology)",
         "Water content",
@@ -8503,7 +8583,7 @@
         5
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001380",
-      "abstract": "",
+      "abstract": "Plastic mulching films are widely utilized in agriculture around the globe to increase soil temperature, retain soil moisture, and prevent pests. However, its large-scale and long-term application causes several environmental issues, including soil microplastic accumulation and “white pollution”. Therefore, obtaining reliable spatial distribution data on plastic-mulched farmlands (PMFs) is essential, particularly at a large scale. This study aimed to provide the first national-scale PMFs map of China with a high resolution of 10 m. Specifically, this study proposed a hybrid framework for PMFs mapping, which employed the Vision Mamba UNet (VM-UNet) semantic segmentation model for both updating weak labels and national-scale PMFs mapping. First, a web crawler was used to gather news and academic literature related to China's PMFs, extracting temporal and spatial distribution data on plastic mulch films. Afterwards, a national 1° grid system was established for data organization, where initial weak labels were generated via Google Earth Engine and Sentinel-2 imagery. These labels were subsequently refined through an active learning strategy within a transfer learning framework. Finally, VM-UNet was adopted for the national-scale prediction of China's plastic-mulched farmland. Experimental results demonstrate that China-PMF-10 dataset achieved a user's and producer's accuracies of 85.90 ± 1.25% and 78.48 ± 5.37% for PMFs, respectively. China's total PMFs area in 2020 was estimated at approximately 6.06 ± 0.42 Mha (95% CI). Furthermore, statistical significance testing confirmed that the Hu Line emerged as a critical boundary, with more extensive PMFs and higher PMFs-to-cropland ratios to its west. This study provides a scientific basis for sustainable agricultural management and plastic pollution mitigation in China, and offers methodological insights for large-scale PMFs monitoring in other regions.",
       "keywords": [
         "Segmentation",
         "China",
@@ -10942,32 +11022,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.017",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.017",
-      "title": "Neural network based on high freedom dynamic collaboration of flows for meteorological data temporal downscaling",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-20",
-      "published_date_display": "2026-02-20",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000699",
-      "abstract": "Temporal refinement of meteorological fields is a critical yet challenging task, as it requires reconstructing physically consistent intermediate states from sparsely sampled observations. Conventional approaches either rely on computationally intensive numerical simulations or exhibit limited generalization when applied to complex atmospheric conditions. Recent advances in deep learning-based frame interpolation offer a data-driven alternative for modeling temporal evolution, providing new opportunities for meteorological time downscaling. This study proposes a deep neural network specifically designed to perform temporal downscaling of multivariate meteorological fields. The model independently estimates spatially adaptive kernel parameters for each variable and location, while dynamically integrating information across multiple meteorological fields. It generates output frames under the guidance of the feature space. Compared with existing approaches, the proposed framework demonstrates enhanced flexibility in capturing complex and heterogeneous atmospheric dynamics. Experiments conducted on 2 m temperature, surface pressure, specific humidity at 1000 hPa, and total precipitation demonstrate that the proposed method achieves high accuracy, robustness, computational efficiency, strong scalability and transferability.",
-      "keywords": [
-        "Downscaling",
-        "Interpolation (computer graphics)",
-        "Generalization",
-        "Frame (networking)",
-        "Artificial neural network",
-        "Scalability",
-        "Flexibility (engineering)",
-        "Kernel (algebra)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.016",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.016",
       "title": "Heterogeneous graph neural networks for building attribute prediction from hierarchical urban features and cross-view imagery",
@@ -11309,32 +11363,6 @@
         "Feature (linguistics)",
         "Term (time)",
         "Component (thermodynamics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.003",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.003",
-      "title": "STNet: A spatio-temporal network for binary change detection in high-resolution remote sensing images",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-16",
-      "published_date_display": "2026-02-16",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000547",
-      "abstract": "",
-      "keywords": [
-        "Change detection",
-        "Boundary (topology)",
-        "Context (archaeology)",
-        "Feature (linguistics)",
-        "Binary number",
-        "Code (set theory)",
-        "Pattern recognition (psychology)",
-        "Joint (building)"
       ]
     },
     {
@@ -12176,34 +12204,6 @@
         "Field (mathematics)",
         "Government (linguistics)",
         "Perspective (graphical)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115261",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115261",
-      "title": "Characterizing diurnal variability in power plant carbon emissions in Asia: A top-down estimation approach constrained by geostationary NO2 and OCO-3 CO2 observations",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-27",
-      "published_date_display": "2026-01-27",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000313",
-      "abstract": "",
-      "keywords": [
-        "Geostationary orbit",
-        "Temporal resolution",
-        "Satellite",
-        "Plume",
-        "Greenhouse gas",
-        "Daytime",
-        "Flux (metallurgy)",
-        "Divergence (linguistics)",
-        "Geostationary Operational Environmental Satellite",
-        "Emission inventory"
       ]
     },
     {
