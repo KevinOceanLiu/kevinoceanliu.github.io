@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T00:00:34.466531+00:00",
+  "generated_at": "2026-06-19T23:15:26.104065+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,108 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s44284-026-00439-7",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00439-7",
+      "title": "Wuliangye and Yibin",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00439-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00471-7",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00471-7",
+      "title": "Rethinking urban nature as technonature",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00471-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00463-7",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00463-7",
+      "title": "Divergent surface urban heat island responses to background aerosol mitigation",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00463-7",
+      "abstract": "",
+      "keywords": [
+        "Aerosol",
+        "Urban heat island",
+        "Sea surface temperature",
+        "Surface (topology)"
+      ]
+    },
+    {
+      "doi": "10.1038/s44284-026-00460-w",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00460-w",
+      "title": "Advancing a biocultural vision for Nusantara",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        6,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00460-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.landurbplan.2026.105727",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105727",
       "title": "Co-designing urban soundscapes with citizens and experts: Evidence from a field experiment",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-06-18",
+      "published_date_display": "2026-06-18",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001519",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The growing role of expert input in participatory environmental planning and design has raised concerns about citizen voice. However, there remains limited causal evidence on how expert input, combined with public involvement, influences deliberation and trust. We address this democratic tension through a citizen–driven soundscape co-design experiment embedded in a soundscape investigation in central London. In this work, participants were presented with a range of aural–visual scenarios, including emerging acoustic–metamaterial (AMM) and acoustic–wall interventions for a public space, and collaboratively generated 144 alternative soundscape proposals. We evaluated these proposals using the Soundscape Perception Index (SPI) against ‘Vibrant’ and ‘Calm’ targets to assess how group deliberation and expert input affect design performance. We found that the designs created by citizens in groups consistently outperformed those developed individually, highlighting the value of group deliberation in participatory soundscape design. Structured expert input further improved group outcomes, particularly for the more challenging ‘Calm’ target, while showing minimal influence on individual designs. These findings suggest that expert contributions are most effective when embedded in a partnership model that promotes citizen agency. Building on these insights, we propose an SPI-based, engineering-informed evaluation framework for participatory soundscape design that makes the effects of participatory process conditions on design outcomes measurable and comparable while transparently integrating expertise with citizen deliberation.",
+      "keywords": [
+        "Soundscape",
+        "Deliberation",
+        "Citizen journalism",
+        "Participatory design",
+        "General partnership",
+        "Public participation",
+        "Deliberative democracy",
+        "Perception",
+        "Citizen science"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105729",
@@ -3625,7 +3712,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600452X",
-      "abstract": "",
+      "abstract": "This study investigates the impact of social integration on immigrants' housing behaviours from a temporal perspective, using Singapore's differential public housing policies on immigrants as a quasi-natural experiment. With the support of a local town council, we conducted a survey on social integration among 1128 immigrant and local households living in public housing estates. In the public open rental housing market—primarily accommodating yet-to-integrate immigrants—we find immigrant renters live up to 3.04% farther from their workplace and pay lower rents up to 0.67% per additional year of residency. Such impacts are more substantial among minority ethnic groups. The results remain robust when using alternative subjective or objective measures of social integration. However, in the public resale housing market—primarily accommodating native and well-integrated naturalised citizens—we find that naturalised citizens face no price premiums relative to native homebuyers, implying no further effect of integration on housing prices after well-integration. This study extends the literature of spatial assimilation focusing on ethnic residential segregations and is generalizable to cities with few ethnic enclaves.",
       "keywords": [
         "Public housing",
         "Social integration",
@@ -3901,7 +3988,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600449X",
-      "abstract": "In Denmark, national policies tackle housing segregation through transforming the built environment and changing the resident composition in non-profit housing areas. As the interventions include extensive renovations, demolitions and sale of housing blocks, these so-called ghetto-policies require relocation of a large number of current residents, including older adults. However, the success of these policies is measured on a neighbourhood scale, focusing on statistically measurable outcomes. Thus, the lived experiences of relocated residents in general, and relocated older adults in particular, fall under the radar.<br/><br/>Drawing on qualitative interviews with older adults and employees, this study aims to explore older adults' lived experiences of both relocation processes and outcomes. Combining place attachment theory with a spatial justice lens, we show how the empirical findings inform our understanding of spatial justice by foregrounding its social dimension, thereby introducing the notion of 'the sociality of spatial (in)justice'. The analysis reveals that older adults can experience relocations as decreasing their opportunities for social interaction and participation, thus affecting their social life and associated sense of safety. In addition, while local support can facilitate some degree of influence on the individual's relocation, national policies targeting selected neighbourhoods can affect the societal trust of older citizens, who experience socio-spatial exclusion.<br/><br/>Underscoring how the social dimension of spatial (in)justice is of particular significance to older adults, this article refines the spatial justice framework, contributes to urban and ageing studies and makes a societal contribution by offering policymakers and practitioners insights for more just approaches.",
+      "abstract": "In Denmark, national policies tackle housing segregation through transforming the built environment and changing the resident composition in non-profit housing areas. As the interventions include extensive renovations, demolitions and sale of housing blocks, these so-called ghetto-policies require relocation of a large number of current residents, including older adults. However, the success of these policies is measured on a neighbourhood scale, focusing on statistically measurable outcomes. Thus, the lived experiences of relocated residents in general, and relocated older adults in particular, fall under the radar. Drawing on qualitative interviews with older adults and employees, this study aims to explore older adults' lived experiences of both relocation processes and outcomes. Combining place attachment theory with a spatial justice lens, we show how the empirical findings inform our understanding of spatial justice by foregrounding its social dimension, thereby introducing the notion of 'the sociality of spatial (in)justice'. The analysis reveals that older adults can experience relocations as decreasing their opportunities for social interaction and participation, thus affecting their social life and associated sense of safety. In addition, while local support can facilitate some degree of influence on the individual's relocation, national policies targeting selected neighbourhoods can affect the societal trust of older citizens, who experience socio-spatial exclusion. Underscoring how the social dimension of spatial (in)justice is of particular significance to older adults, this article refines the spatial justice framework, contributes to urban and ageing studies and makes a societal contribution by offering policymakers and practitioners insights for more just approaches.",
       "keywords": [
         "Sociality",
         "Relocation",
@@ -4433,7 +4520,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004269",
-      "abstract": "",
+      "abstract": "Traditional definitions of quality in architecture and the built environment have been increasingly challenged over the past decades, particularly through critical perspectives on spatial justice, equity, diversity, inclusion, and postcolonialism. Standardized definitions may reassure decision-makers but ignore evolving values reshaping quality. A Canadian SSHRC-funded research partnership is used as a testbed to examine how diverse stakeholders challenge conventional definitions of quality and propose new dimensions. This partnership functions as a living lab, bringing together representatives of citizens, municipalities, professionals, and academics to examine barriers to quality beyond traditional expertise. Drawing on the partnership's open-access reports, the paper asks: What barriers to built environment quality do participants perceive when they convene around “partnership roundtables”? To address this question, the study develops a semantic inventory of key themes and barriers to quality using two methods: (1) a qualitative content analysis of the 2022 Montreal Convention reports, and (2) analysis of the extracted themes using a researcher-developed framework—disciplinary, managerial, and critical—to examine shifts in definitions of quality. A total of 96 “barriers to quality” were identified and grouped into seven themes. The most discussed included a) Communication and Engagement, b) Sustainability and Inclusivity (EDIA), and c) Programming, Design, Building, and Management. The findings show that the themes align mainly with critical definitions of quality, with little to no disciplinary representation. This suggests that citizens and public-sector stakeholders seek a broader redefinition of quality, and that these expectations are at odds with the traditional disciplinary values of architecture and related disciplines.",
       "keywords": [
         "Built environment",
         "Quality (philosophy)",
@@ -5133,7 +5220,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001143",
-      "abstract": "",
+      "abstract": "Urban parks are essential infrastructure for public health and environmental resilience, yet systematic comparative evidence on how distance constrains recreational access across metropolitan areas remains scarce. This study analyzes 60 million park visits across 20 U.S. metropolitan areas to establish mathematical relationships governing park visitation and their determinants. Park visitation universally follows exponential decay (V = αe -βd ) rather than power law scaling, with exceptional model fits (R 2 > 0.95) across diverse urban contexts. However, decay parameters vary substantially, from β = 0.090 (Minneapolis) to β = 0.211 (Detroit), creating a 2.34-fold difference in distance sensitivity. This variation produces markedly different accessibility patterns: residents in high-constraint cities experience 50% visitation decay within 3.3 km, while those in low-constraint cities maintain equivalent access to 7.7 km. Regression analysis reveals that transportation infrastructure, built environment characteristics, and sociodemographic factors collectively explain 56.3% of variation in median travel distance to parks. Transit proximity, street network design, and regional employment accessibility emerge as primary associations, while minority-predominant and car-free neighborhoods face compound disadvantages through both restricted mobility ranges and heightened distance sensitivity. These findings establish exponential decay as a consistent mathematical relationship for recreational mobility while demonstrating how local context shapes its parameters. For planning practice, uniform park service area standards may inadequately reflect actual visitation patterns, as the empirically measured half-distance at which visitation drops by 50% varies more than twofold across metropolitan areas. Calibrating park spacing to locally measured decay rates and coordinating green space provision with transportation investment could improve both the efficiency and equity of urban park systems.",
       "keywords": [
         "Metropolitan area",
         "Recreation",
@@ -5641,7 +5728,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000414",
-      "abstract": "",
+      "abstract": "While research on route choice behaviour in cities has focused extensively on the role of urban form, including street configuration and meaningful urban elements, in shaping pedestrians’ decisions, less attention has been given to the role of dynamic factors . These are phenomena arising from social (e.g. crowding and noise) and natural environments (e.g. weather conditions) that vary across space and time. Agent-Based Models (ABMs) of pedestrian movement, simulation tools that allow researchers to observe the emergence of macro-level patterns (e.g. pedestrian flows) from micro-level mechanisms, have been widely influenced by research on static urban elements. However, dynamic factors remain underrepresented in such modelling frameworks. The aim of this paper is to incorporate the effects of crowding and noise on route choice behaviour into an empirically grounded and evaluated ABM of pedestrian movement. In the ABM, route choice behaviour is conceptualised as emerging from the interplay between individual preferences and environmental attractors and repellers previously identified in empirical work. Poznań (Poland) was selected as the study area. First, we conducted a Sensitivity Analysis (SA) to assess the impact of specific model inputs on both micro-level (characteristics of individual routes) and macro-level (agent volumes across the street network) outputs. Then, based on individual behavioural differences identified in the empirical study and the results of the SA, we parametrised the ABM and derived five agent types, each characterised by a distinct set of preferences. Lastly, we assessed the incorporation of crowding and noise into the agent behavioural mechanisms to evaluate the extent to which these dynamic factors shaped the ABM results. The analysis revealed that both urban form and dynamic factors influence pedestrian route choice in complex, non-linear ways, with several interaction effects. Although urban form played an important role in shaping pedestrian routes, dynamic factors also affected route choice: they reduced route length and spatial dispersion, leading agents to concentrate across a narrower set of street segments. Furthermore, we found significant differences in the movement patterns generated by the different agent types. Finally, we observed that agents often traversed green spaces, squares, and other relatively open routes to alleviate the sense of overcrowding in busier parts of the network.",
       "keywords": [
         "Pedestrian",
         "Movement (music)",
@@ -7350,7 +7437,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000873",
-      "abstract": "Despite the well-documented benefits of engaging with nature, up to a quarter of the UK population rarely utilises their urban greenspaces. This is despite evidence that those who engage the least with greenspace could derive the most significant health benefits from such interactions. Addressing this gap is a focus of the GroundsWell consortium, a large research programme that aims to transform access to urban green and blue spaces to improve health and reduce inequalities. As part of this initiative, this paper presents the development of a novel theoretical framework designed to identify and map the modifiable multilevel factors influencing non and low use.<br/><br/>Employing an iterative process, the framework was developed through literature review, expert consultation, and stakeholder collaboration across practice, policy and research. It conceptualises barriers and facilitators across four interconnected domains: individual, social and community, physical environment, and political and societal. The framework illustrates how these domains interact to influence engagement, providing a tool for understanding the complex reasons behind non and low use of urban greenspace. Drawing on academic and non-academic sources, it demonstrates that urban greenspace planning, and design alone are insufficient if societal and social barriers persist.<br/><br/>This framework has the potential to inform future policy, urban planning and management strategies, and research aimed at reducing inequalities in access to greenspace. It is designed as a dynamic tool that evolves in response to ongoing empirical research and practical applications, inviting further refinement by researchers, policymakers and practitioners to address health inequalities effectively.",
+      "abstract": "Despite the well-documented benefits of engaging with nature, up to a quarter of the UK population rarely utilises their urban greenspaces. This is despite evidence that those who engage the least with greenspace could derive the most significant health benefits from such interactions. Addressing this gap is a focus of the GroundsWell consortium, a large research programme that aims to transform access to urban green and blue spaces to improve health and reduce inequalities. As part of this initiative, this paper presents the development of a novel theoretical framework designed to identify and map the modifiable multilevel factors influencing non and low use. Employing an iterative process, the framework was developed through literature review, expert consultation, and stakeholder collaboration across practice, policy and research. It conceptualises barriers and facilitators across four interconnected domains: individual, social and community, physical environment, and political and societal. The framework illustrates how these domains interact to influence engagement, providing a tool for understanding the complex reasons behind non and low use of urban greenspace. Drawing on academic and non-academic sources, it demonstrates that urban greenspace planning, and design alone are insufficient if societal and social barriers persist. This framework has the potential to inform future policy, urban planning and management strategies, and research aimed at reducing inequalities in access to greenspace. It is designed as a dynamic tool that evolves in response to ongoing empirical research and practical applications, inviting further refinement by researchers, policymakers and practitioners to address health inequalities effectively.",
       "keywords": [
         "Urban heat island",
         "Vegetation (pathology)",
@@ -7987,7 +8074,7 @@
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000824",
-      "abstract": "Urban agriculture (UA) is a multifunctional land use that is thought to enhance urban resilience and sustainability while promoting community cohesion and connection to nature. However, its spatial emergence may have led to an inequitable distribution of these services due to largely unexplained factors driving its development. This study aims to uncover the conditions that might enable UA at a 1 km<sup>2</sup> scale in 11 large European cities. UA initiatives were mapped for each city based on a systematic manual web scrape. Negative binomial regression models were used to test the spatial relationship between UA count per km<sup>2</sup> and 14 socio-economic, land use, and urban form explanatory variables. The model was run separately for each city and then on the full dataset, uncovering differences within and between the cities. The intercity model suggests that UA is more likely found in greener, central neighbourhoods with lower property prices and lower proportions of locally born residents. The cities vary notably in their individual models, although the most common predictors also indicate that UA is found closer to the city centre and is often associated with urban green spaces (UGS). This may imply that coexistence of UA and UGS enhances and diversifies ecosystem services while protecting UA as a temporary land use. It also suggests that UA benefits community-seeking people living in the dense city centre without private gardens. However, there is not a consistent set of factors that imply UA presence, indicating other social and policy factors might be at play.",
+      "abstract": "Urban agriculture (UA) is a multifunctional land use that is thought to enhance urban resilience and sustainability while promoting community cohesion and connection to nature. However, its spatial emergence may have led to an inequitable distribution of these services due to largely unexplained factors driving its development. This study aims to uncover the conditions that might enable UA at a 1 km 2 scale in 11 large European cities. UA initiatives were mapped for each city based on a systematic manual web scrape. Negative binomial regression models were used to test the spatial relationship between UA count per km 2 and 14 socio-economic, land use, and urban form explanatory variables. The model was run separately for each city and then on the full dataset, uncovering differences within and between the cities. The intercity model suggests that UA is more likely found in greener, central neighbourhoods with lower property prices and lower proportions of locally born residents. The cities vary notably in their individual models, although the most common predictors also indicate that UA is found closer to the city centre and is often associated with urban green spaces (UGS). This may imply that coexistence of UA and UGS enhances and diversifies ecosystem services while protecting UA as a temporary land use. It also suggests that UA benefits community-seeking people living in the dense city centre without private gardens. However, there is not a consistent set of factors that imply UA presence, indicating other social and policy factors might be at play.",
       "keywords": [
         "Urban agriculture",
         "Urban ecosystem",
@@ -9646,7 +9733,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626000642",
-      "abstract": "",
+      "abstract": "Creating liveable cities is a central ambition of contemporary urban planning, yet the determinants of urban life satisfaction (a widely recognised indicator of urban liveability) remain contested, particularly across different urban and regional contexts. This study examines the determinants of life satisfaction through a comparative lens, focusing on Hong Kong and Shenzhen, two neighbouring cities that represent distinct urban typologies within China’s Greater Bay Area. Drawing on survey data from 3,066 residents, we employ partial proportional odds and restricted cubic spline models to assess how built environment features, individual and household characteristics, subjective perceptions, and regional mobility each contribute to life satisfaction. The findings reveal both universal principles and context-specific mechanisms shaping life satisfaction. While factors such as greater living space and participation in cross-border leisure are positively associated with life satisfaction in both cities, effects of variables like gender, marital status, and homeownership are significant only in Shenzhen. Preferences for the built environment also diverge: Hong Kong residents place greater emphasis on urban form and access to green and blue spaces, whereas Shenzhen residents value functional diversity, transport accessibility, and lower development intensity. Analysis of non-linear relationships further shows that planning-related associations vary across intensity ranges, with distinct saturation points and trade-offs emerging in each city. Together, these findings highlight the importance of planning strategies that are sensitive to local context and attentive to both social and physical dimensions of urban life. The positive association between cross-border leisure and life satisfaction also underscores the growing relevance of regional connectivity for well-being in increasingly networked urban regions.",
       "keywords": [
         "Life satisfaction",
         "China",
