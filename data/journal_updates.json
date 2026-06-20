@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T22:12:50.310427+00:00",
+  "generated_at": "2026-06-20T22:34:12.695195+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -39,6 +39,57 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600307X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115535",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115535",
+      "title": "Retrieving vertical profiles of forest fAPAR by integrating airborne optical reflectance and LiDAR data",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003056",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.027",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.027",
+      "title": "Integrating physical modeling and data-driven learning: A DCNN for InSAR phase filtering and applications",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003333",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.05.048",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.048",
+      "title": "Detecting intact forests in a highly fragmented landscape: Complementary insights from Landsat and GEDI",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002959",
       "abstract": "",
       "keywords": []
     },
@@ -11291,33 +11342,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.018",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.018",
-      "title": "Quantitative comparison of fine-tuning techniques for pretrained latent diffusion models in the generation of unseen SAR images",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-17",
-      "published_date_display": "2026-02-17",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000687",
-      "abstract": "We present a framework for adapting a large pretrained latent diffusion model to very high-resolution Synthetic Aperture Radar (SAR) image generation. The approach enables controllable synthesis of rare or unseen scenes beyond the training set. Rather than training a task-specific small model from scratch, we adapt an open-source text-to-image foundation model to the SAR modality, using its semantic prior to align prompts with SAR imaging physics (side-looking geometry, slant-range projection, and coherent speckle with heavy-tailed statistics). Using a 100k-image SAR dataset at 40 cm resolution, we compare full fine-tuning and parameter-efficient Low-Rank Adaptation (LoRA) across the UNet diffusion backbone, the Variational Autoencoder (VAE), and the Text Encoders. Evaluation combines (i) statistical distances to real SAR amplitude distributions, (ii) GLCM-based textural similarity, (iii) semantic alignment with a SAR-specialized CLIP model, and (iv) SAR-specific analyses, including layover–shadow geometry on ∼ 150 buildings and Point Spread Function (PSF) fidelity via spectral main-lobe widths. Our results show that a hybrid strategy — full U-Net tuning with LoRA on the text encoders and a learned token embedding — best preserves SAR geometry and texture while maintaining prompt fidelity reducing the KL divergence. The framework supports text-based control and multimodal conditioning (e.g., segmentation maps, TerraSAR-X, or optical guidance), opening new paths for large-scale SAR scene data augmentation and unseen scenario simulation in Earth observation.",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Autoencoder",
-        "Embedding",
-        "Pattern recognition (psychology)",
-        "Segmentation",
-        "Fidelity",
-        "Speckle noise",
-        "Speckle pattern",
-        "Encoder"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2025.2608173",
       "doi_url": "https://doi.org/10.1080/24694452.2025.2608173",
       "title": "Is a Life Circle a Circle? Topological Data Analysis on Activity Space Delineation",
@@ -11442,33 +11466,6 @@
         "Renewable energy",
         "Image segmentation",
         "Identification (biology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.020",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.020",
-      "title": "Epistemic and aleatoric uncertainty in optical vegetation trait retrieval: Concepts, Methods, and Outlook",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-14",
-      "published_date_display": "2026-02-14",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000717",
-      "abstract": "Remote sensing of vegetation traits, such as leaf area index, chlorophyll content, and canopy nitrogen content, underpins assessments of ecosystem health, crop productivity, and climate impacts. Yet the uncertainty of these retrievals is often under-reported or ambiguously defined. This scoping review clarifies and operationalizes the distinction between aleatoric (sensor- and observation-driven, irreducible) and epistemic (model- and knowledge-driven, reducible) uncertainty, a conceptual framework that is only beginning to gain traction in vegetation-trait mapping. It highlights how both components originate and propagate through the full Earth-observation processing chain, from top-of-atmosphere radiance (L1) to surface reflectance (L2A) and vegetation traits (L2B), and how they can be consistently quantified and combined. We synthesize methodologies to quantify and, where possible, disentangle these contributions: analytical and Monte Carlo propagation for aleatoric error; Gaussian process regression, Bayesian neural networks, ensembles, and quantile-based methods for epistemic uncertainty; and their integration into retrieval frameworks such as hybrid approaches that couple radiative transfer models with machine learning regression algorithms. We further review diagnostics (coverage, scoring rules, reliability diagrams, probability-integral-transform histograms), out-of-distribution detection, and strategies to reduce epistemic uncertainty via active learning, domain adaptation, and improved priors and models. Looking ahead, upcoming optical ESA missions such as S2NG, FLEX, and CHIME place increasing emphasis on traceable uncertainty budgets and are expected to provide either per-pixel L2A uncertainty layers or the metadata required for their derivation. Such information will be critical for propagating measurement-driven (aleatoric) error into L2B trait products and for interpreting total predictive uncertainty, including prediction intervals. We advocate routine release of L2B uncertainty layers (components and totals) with transparent calibration, benchmarking, and interoperable metadata to support data assimilation, operational monitoring, and risk-aware decision-making.",
-      "keywords": [
-        "Uncertainty quantification",
-        "Bayesian probability",
-        "Gaussian process",
-        "Uncertainty analysis",
-        "Propagation of uncertainty",
-        "Bayesian inference",
-        "Prior probability",
-        "Probabilistic logic",
-        "Climate change"
       ]
     },
     {
@@ -11831,33 +11828,6 @@
         "Regression analysis",
         "Kernel method",
         "Pattern recognition (psychology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115293",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115293",
-      "title": "Seasonal vertical surface thaw displacement in 2018 on Samoylov Island (Lena Delta, northeastern Siberia) measured by satellite SAR interferometry with X-, C- and L-band sensors",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-05",
-      "published_date_display": "2026-02-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000635",
-      "abstract": "",
-      "keywords": [
-        "Permafrost",
-        "Subsidence",
-        "Vertical displacement",
-        "Displacement (psychology)",
-        "Satellite",
-        "Frost heaving",
-        "Snow",
-        "Thermokarst",
-        "Interferometric synthetic aperture radar"
       ]
     },
     {
