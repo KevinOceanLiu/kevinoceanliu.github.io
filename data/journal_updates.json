@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T22:34:12.695195+00:00",
+  "generated_at": "2026-06-21T22:35:31.186883+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,19 +26,19 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115537",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115537",
-      "title": "Waveform-adaptive estimation of canopy heights using GEDI data in dense Amazonian forests",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "doi": "10.1016/j.isprsjprs.2026.06.024",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.024",
+      "title": "Open-source optical–radar data fusion for mapping invasive tree species: A scalable framework for regional LULC applications",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
       "published_parts": [
         2026,
-        10
+        9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600307X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003308",
       "abstract": "",
       "keywords": []
     },
@@ -49,15 +49,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-20",
+      "published_date_display": "2026-06-20",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003056",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Lidar",
+        "Reflectivity",
+        "Atmospheric correction",
+        "Atmospheric optics",
+        "Radiometry"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.027",
@@ -66,15 +72,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-20",
+      "published_date_display": "2026-06-20",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003333",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Interferometric synthetic aperture radar",
+        "Phase unwrapping",
+        "Synthetic aperture radar",
+        "Phase (matter)",
+        "Earth observation",
+        "Shuttle Radar Topography Mission"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.048",
@@ -83,15 +96,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-20",
+      "published_date_display": "2026-06-20",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002959",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Canopy",
+        "Basal area",
+        "Biodiversity",
+        "Footprint",
+        "Deciduous",
+        "Forest structure",
+        "Biomass (ecology)",
+        "Scale (ratio)",
+        "Threatened species"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.050",
@@ -100,15 +123,24 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002972",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Canada experienced in 2023 one of the most severe wildfire seasons in recent history, causing damage across ecosystems, destroying communities, and emitting large quantities of CO 2 . This extreme wildfire season is symptomatic of a climate-change-induced increase in length and severity of fire seasons affecting the boreal ecosystem. Therefore, it is critical to empower wildfire management in boreal communities with better monitoring solutions. Wildfire probability maps are an important tool for understanding the likelihood of wildfire occurrence and the potential severity of future wildfires. Fire forecasting tools based on Earth observation data exist, but they are limited both by the lack of label information and by their reliance on coarse-resolution environmental drivers and satellite products, which leads to wildfire occurrence prediction of reduced resolution, typically around ∼ 0 . 1 °. To tackle these two limitations, this paper presents a benchmark dataset, CanadaFireSat available on the Hugging Face Hub , and baseline methods for high-resolution wildfire forecasting. We model wildfire forecasting as a binary patch classification task at 100 m, where each patch is labeled as fire if at least one pixel within the patch has burned at the native label resolution (10 m). CanadaFireSat leverages multi-modal data from high-resolution multi-spectral satellite images (Sentinel-2), mid-resolution satellite products (MODIS), and environmental factors (ERA5). We experiment with convolutional (CNN) and transformer (ViT) architectures. We observe that using multi-modal temporal inputs outperforms single-modal temporal inputs across all metrics, achieving a peak performance of 60.3% in F1 score for the 2023 wildfire season, a season never seen during model training. This demonstrates the potential of multi-modal deep learning for wildfire forecasting at high-resolution and continental scale. The code is available on GitHub for the data generation and the model benchmarking .",
+      "keywords": [
+        "Boreal",
+        "Satellite",
+        "Satellite imagery",
+        "Taiga",
+        "Baseline (sea)",
+        "Benchmark (surveying)",
+        "Fire regime",
+        "Random forest"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.021",
@@ -117,15 +149,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003278",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Synthetic aperture radar",
+        "Segmentation",
+        "Feature (linguistics)",
+        "Pattern recognition (psychology)",
+        "Feature extraction",
+        "Interferometry",
+        "Ground truth",
+        "Deep learning",
+        "Interferometric synthetic aperture radar"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.017",
@@ -10185,31 +10227,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.032",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.032",
-      "title": "Towards operational tracking of weekly crop progress using VIIRS land surface phenology product across the continental United States",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000912",
-      "abstract": "",
-      "keywords": [
-        "Agriculture",
-        "Phenology",
-        "Crop",
-        "Crop yield",
-        "Agricultural land",
-        "Growing season",
-        "Climate change"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.037",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.037",
       "title": "SuperSTF: A latent diffusion model for cloud-free spatiotemporal remote sensing image fusion",
@@ -13226,6 +13243,30 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115537",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115537",
+      "title": "Waveform-adaptive estimation of canopy heights using GEDI data in dense Amazonian forests",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600307X",
+      "abstract": "",
+      "keywords": [
+        "Amazonian",
+        "Canopy",
+        "Estimation",
+        "Tree canopy",
+        "Vegetation (pathology)",
+        "Calibration"
       ]
     },
     {
