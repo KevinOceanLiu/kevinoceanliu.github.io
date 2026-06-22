@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T22:35:31.186883+00:00",
+  "generated_at": "2026-06-22T22:54:42.306565+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,21 +26,118 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115543",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115543",
+      "title": "National-scale tidal flat DEM reconstruction using optical satellite imagery",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003135",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2681727",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2681727",
+      "title": "South by Southwest: Shifting Streamflow Drought in Catchments with an Intermittent Streamflow Regime in the Conterminous United States",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        6,
+        22
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681727",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2679736",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2679736",
+      "title": "Linking Aging in Place to Happiness among Older Adults in Seoul: The Mediating Roles of Perceived Security and Social Support",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        6,
+        22
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2679736",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2684212",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2684212",
+      "title": "Introduction: New Messages/New Media",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        6,
+        22
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2684212",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2683547",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2683547",
+      "title": "Documenting and Preventing Place Annihilation: Geographers and the War on Cities",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        6,
+        22
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2683547",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.06.024",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.024",
       "title": "Open-source optical–radar data fusion for mapping invasive tree species: A scalable framework for regional LULC applications",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-21",
+      "published_date_display": "2026-06-21",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003308",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Invasive alien species (IAS) of the genus Acacia threaten forest management worldwide, altering ecosystem composition and contributing to fire-management concerns. Despite their impact, invasive tree species remain poorly represented in regional land use and land cover (LULC) products, limiting their management value. This study presents an open-source remote sensing workflow for regional mapping of invasive Acacia spp. by fusing Sentinel-2 imagery with Sentinel-1 radar composites, Machine Learning (ML) models and spatial cross-validation. Sentinel data for 2023–2024 were split into three phenological windows tied to the reproductive cycle of A. dealbata and A. melanoxylon and merged into 22-band optical-SAR stacks at 20 m resolution, yielding a continuous regional map across Galicia. A reference dataset of 5,308 polygons (0.46% of the territory) was used to train six Optuna-tuned Random Forest classifiers across phases and years ; models were combined by soft-voting and evaluated with a five-fold Group K-Fold to minimise spatial leakage. The ensemble achieved an area-adjusted Overall Accuracy of 0.87 and a Cohen’s kappa of 0.84 across nine LULC classes. For the Acacia class, the F1 reached 0.91, confirming reliable detection despite its patchy distribution. The final map identifies invasion hotspots along the Miño River basin, major transport corridors, and peri -urban areas. Based on UA = 0.84, about 16% of the raw mapped Acacia area may be commission error, corresponding to a potential avoided-treatment cost of €0.52–3.04 million under the assumed treatment scenarios. The phenology-aware Sentinel-2/Sentinel-1 workflow provides a reproducible regional mapping framework, with near-domain transferability evaluated in Northern Portugal.",
+      "keywords": [
+        "Land cover",
+        "Random forest",
+        "Vegetation (pathology)",
+        "Land use",
+        "Transferability",
+        "Limiting",
+        "Acacia"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115535",
@@ -12414,32 +12511,6 @@
         "Causal inference",
         "Causal model",
         "Key (lock)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115244",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115244",
-      "title": "Characterizing mangrove forest succession in Suriname using GEDI waveform metrics",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-19",
-      "published_date_display": "2026-01-19",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000143",
-      "abstract": "",
-      "keywords": [
-        "Mangrove",
-        "Ecological succession",
-        "Biomass (ecology)",
-        "Ecosystem",
-        "Shore",
-        "Canopy",
-        "Lidar",
-        "Structural complexity"
       ]
     },
     {
