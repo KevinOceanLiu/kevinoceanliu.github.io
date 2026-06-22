@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T23:45:01.472013+00:00",
+  "generated_at": "2026-06-22T23:43:08.612921+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -30,6 +30,43 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102476",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102476",
+      "title": "Assessment of individualised dynamic environmental exposures within The World Avatar",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000785",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102475",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102475",
+      "title": "Inferring urban functions from Google Maps reviews: A multi-scale, multi-modal and cross-city approach",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000773",
+      "abstract": "",
+      "keywords": [
+        "Urban planning",
+        "Context (archaeology)"
+      ]
+    },
     {
       "doi": "10.1038/s44284-026-00439-7",
       "doi_url": "https://doi.org/10.1038/s44284-026-00439-7",
