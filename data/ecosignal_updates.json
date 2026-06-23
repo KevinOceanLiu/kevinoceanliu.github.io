@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:54:33.395263+00:00",
+  "generated_at": "2026-06-23T23:40:16.932578+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -260,6 +260,60 @@
       ]
     },
     {
+      "doi": "10.1038/s41559-026-03114-1",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03114-1",
+      "title": "Top-down effects dominate the relationship between plant–herbivorous insect interactions and ecosystem stability",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        6,
+        23
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03114-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70369",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70369",
+      "title": "Fecundity and terrain‐climate interactions that shape tree niche differences across North America and Europe",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        6,
+        23
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70369",
+      "abstract": "Abstract If niche differences contribute to biodiversity, then landscapes must vary and species must respond differently to that variation. Terrain, through its effects on solar radiation and moisture, is an important contributor to habitat variation, but its effects on demography are largely unknown. Understanding fecundity responses to this landscape heterogeneity could provide insights on niche differences and on how terrain buffers climate change effects. Here, we use a hierarchical Bayesian state‐space model to quantify how topographic features buffer tree fecundity from intensifying climate change. We estimate the effects of slope, aspect and drainage on tree fecundity across North America and Europe while accounting for individual condition and climate. We analysed 2,874,955 tree‐years from 292 species across forest inventory plots spanning mountainous regions in North America and Europe. We fitted species‐specific fecundity responses to terrain variables and climate interactions, then constructed predictive distributions of terrain effects at landscape scales. We quantified community‐level hypervolume to assess how diversity in fecundity responses across species relates to topographic heterogeneity. Topography influences tree fecundity, with terrain as an important contributor for most species. In dry portions of their ranges, tree species in southeastern North America and south‐central Europe increase fecundity towards northeast aspects, while highest fecundity of species in southwestern North America shifts towards south‐facing aspects. Terrain‐sensitive species (terrain explains >20% of fecundity variance) are most abundant in southwestern North America (~42% of species), but southeastern North America shows the strongest terrain effects on fecundity and highest per‐species fecundity variance, despite having the gentlest slopes. Community hypervolume is exceptionally high in southeastern United States. Whether this variation maintains diversity depends on how fecundity combines with other demographic rates. Synthesis : Fine‐scale terrain variation creates reproductive differences through species‐specific fecundity responses. The effectiveness of topographic heterogeneity as a climate refuge depends on regional landscape structure and species sensitivity to terrain. In topographically diverse regions, species may buffer climate change through fine‐scale redistribution to favourable microsites. Quantifying these differences helps identify factors limiting reproduction and habitat features with greatest potential as local refuges.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70367",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70367",
+      "title": "Decadal drivers of quaking aspen decline across the Western United States",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        6,
+        23
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70367",
+      "abstract": "Abstract Although forests serve critical roles maintaining biodiversity and provisioning ecosystem services, many tree species world‐wide have experienced population declines due to climate change and other related factors. One such species is quaking aspen ( Populus tremuloides ), the most widely distributed tree species in North America, which has undergone reductions in survival, growth, and/or recruitment in many parts of its range. To understand the patterns in and drivers of aspen performance across its range in six western US states, we evaluated the importance of 44 climatic, topographic, and forest structure variables in explaining mortality, growth and adult recruitment rates in 263 plots over a 9‐to‐13‐year period. Aspen experienced substantial mortality during this study, with 4% of trees on average dying each year. In addition, aspen performed differently from co‐occurring conifers, with their dominance declining during the study while conifers increased. Mortality rates for aspen increased with higher aspen canopy dieback and dead aspen in the initial sampling and decreased with increased initial dominance of aspen and conifers as well as increased precipitation and reduced aridity. Growth rates of aspen increased with higher temperatures and winter precipitation, in more upland and south‐facing locations, and decreased with warmer and drier conditions relative to the historic baseline, greater initial aspen canopy dieback, higher initial dead aspen and greater initial dominance of aspen and conifers. Increased adult recruitment was associated with higher temperatures and winter precipitation as well as more upland and south‐facing locations, whereas reduced recruitment occurred with higher initial aspen and conifer dominance, greater amounts of initial dead aspen, and hotter and drier conditions relative to the historic baseline. Synthesis . Across the western United States, the health and dominance of aspen declined during a decade‐long study, with annual mortality being three times greater than the recruitment of new adults. We frequently detected long‐lasting effects, where areas that were challenging or optimal for aspen at the outset of our study continued to be so over the next decade. Intra‐ and interspecific competition as well as hotter and drier conditions associated with climate change adversely influenced aspen populations.",
+      "keywords": []
+    },
+    {
       "doi": "10.1086/742754",
       "doi_url": "https://doi.org/10.1086/742754",
       "title": "Harnessing gene knockouts to study selection and aid conservation",
@@ -275,7 +329,14 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/742754",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Selection (genetic algorithm)",
+        "Gene knockout",
+        "Gene",
+        "Set (abstract data type)",
+        "Genomics",
+        "Genome"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70376",
@@ -293,7 +354,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70376",
       "abstract": "Abstract Making predictions about the persistence of plant populations under climate change requires explicitly incorporating environmental drivers into population models. However, local density and demographic processes, including reproductive trade‐offs, that may influence how populations respond to environmental drivers are rarely incorporated into these models. For plant species that reproduce both clonally and sexually, trade‐offs between reproductive modes can have important demographic consequences, affect the strength of density dependence and ultimately influence population‐level responses to climate. We used a manipulated rainfall experiment (experimentally imposed drought and irrigation) across 4 years on an in situ population of a long‐lived forb, Primula hendersonii , to examine the influence of rainfall, seasonal variation in ambient temperature and local conspecific density on: (1) demographic rates (survival, growth, sexual and clonal reproduction), (2) trade‐offs between clonal and sexual reproduction and (3) density‐dependent population growth. In addition to observed density in the field experiment, we paired a manipulative density and watering experiment in pots to confirm the observational effects of density on demographic rates. We detected a reproductive trade‐off where prior flowering reduced the probability of making clonal offspring, but prior clonality did not affect future flowering. Clonality was also lowest for plants growing at high density. When these effects were scaled to the population level using integral projection models, population growth rates were reduced when flowering did not reduce clonal reproduction (no trade‐off), at high density and under simulated drought. Manipulated density in a separate pot experiment resulted in a similar negative effect of local conspecific density on clonal reproduction compared to field observations, as well as for plant growth under both ambient and reduced water availability, supporting that density effects can be detected in observational demographic datasets where environmental drivers are explicitly examined. Synthesis . Our results demonstrate that interactive effects of clonal reproduction and intraspecific density are important contributors to plant demography and that high local density increases the negative impact of drought on population growth rates. We show that quantifying density‐dependent responses to climate while considering the role of clonal reproduction is necessary to understand the consequences of future climate conditions.",
-      "keywords": []
+      "keywords": [
+        "Population density",
+        "Wildflower",
+        "Density dependence",
+        "Population",
+        "Sexual reproduction",
+        "Vital rates",
+        "Reproduction",
+        "Reproductive success",
+        "Phenology"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70470",
@@ -311,7 +382,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70470",
       "abstract": "Abstract Marine forests play a vital role in shaping seascape complexity worldwide. In the Mediterranean Sea, they are mainly formed by macroalgal species belonging to the Cystoseira sensu lato group (i.e. Cystoseira , Ericaria and Gongolaria ). These species are declining throughout Mediterranean coastlines due to multiple, often synergistic stressors. Among the principal biotic drivers of this regression is grazing by herbivores (i.e. the sea urchins Paracentrotus lividus and Arbacia lixula and the teleost Sarpa salpa ), which can transform luxuriant marine forests into urchin barrens—ecosystems of reduced complexity, lower species richness and limited ecological function. A widely used management tool to preserve marine ecosystems is the implementation of Marine Protected Areas (MPAs), often including no‐take zones (NTZs). In this context, we assessed the effectiveness of MPAs and NTZs in preserving Ericaria brachycarpa forests. To this end, two large‐scale monitoring campaigns were conducted in the Nature Reserve of the Strait of Bonifacio (Corsica, France), the first in 2011 and the second in 2025. Sea urchin populations, algal cover and fish communities (in 2025 only) were surveyed using SCUBA diving. Our results revealed a drastic decline in E. brachycarpa cover, accompanied by a steady increase in urchin barrens and sea urchin abundance in NTZs between the two campaigns. Conversely, in fishing zones, E. brachycarpa populations remained stable while both urchin barrens and sea urchin abundance decreased. Synthesis and applications . This study demonstrates that NTZs can be counterproductive, as they may exacerbate the decline of marine forests by protecting sea urchins that are not effectively controlled by predators. We therefore call for a reassessment of management policies, including the targeted harvesting of herbivores where natural top‐down control is absent.",
-      "keywords": []
+      "keywords": [
+        "Paracentrotus lividus",
+        "Sea urchin",
+        "Kelp forest",
+        "Marine protected area",
+        "Marine reserve",
+        "Mediterranean sea",
+        "Biodiversity",
+        "Marine ecosystem",
+        "Mediterranean climate",
+        "Species richness"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70473",
@@ -329,7 +411,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70473",
       "abstract": "Abstract The widespread agricultural use of biodegradable plastics may cause the persistence of biodegradable microplastics (BMPs) in afforested soils, which could compromise the soil organic carbon (SOC) sequestration in shelterbelts through priming effects. However, the influence of BMPs on SOC priming effects across different afforestation gradients remains unclear. Polyhydroxyalkanoates (PHA) and polylactic acid (PLA), two typical BMPs, were investigated for their influence on the priming effect in soils collected from abandoned farmland and poplar shelterbelts aged 5, 10, 15 and 20 years (5‐, 10‐, 15‐ and 20‐year stands). The difference in isotopic values (δ 13 C) between BMPs and SOC (>10‰) was employed to differentiate the sources of CO 2 emissions. Our results showed that PHA and PLA induced positive priming effects across the afforestation gradient through modifying soil physicochemical and aggregate properties, as well as reshaping bacterial community composition via these changes. The priming effects of PHA and PLA ranged from 83.00% to 295.41% and from 9.79% to 80.91%, respectively. Both effects initially increased and then decreased along the afforestation gradient, a trend that may be partly explained by the contrasting patterns of SOC content and the C/N ratio. Synthesis and applications . This short‐term experiment demonstrated that BMPs induced stronger positive priming in 5‐, 10‐ and 15‐year stands than in abandoned farmland, peaking at 10‐ and 15‐year stands. Therefore, to minimize BMP‐induced SOC loss in afforested soils, we recommend: (1) assess BMP contamination pre‐afforestation, prioritizing low‐risk sites and applying remediation where needed; (2) enhance post‐afforestation monitoring of BMP contamination, particularly in 10‐ and 15‐year stands.",
-      "keywords": []
+      "keywords": [
+        "Afforestation",
+        "Windbreak",
+        "Priming (agriculture)",
+        "Microplastics",
+        "Soil carbon",
+        "Carbon sequestration"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70468",
@@ -347,7 +436,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70468",
       "abstract": "Abstract Standard spatial capture–recapture (SCR) models routinely discard a large fraction of non‐invasive genetic detections that fail genotyping, wasting costly field effort and undermining the precision of population estimates. In environmental impact assessments (EIA), where conclusions must withstand regulatory scrutiny under fixed monitoring budgets, this data loss is a problem that can be solved. We applied the random‐thinning SCR framework (RT‐SCR) to a three‐year Iberian wolf ( Canis lupus signatus ) EIA monitoring programme in northern Portugal. We treat genotyping failure as a stochastic thinning process within a multisession Bayesian model with covariates on density and detection. Of 173 confirmed wolf scats, 56 (32%) lacked individual identity, and rather than discarding them, we analysed them alongside 117 identified samples. We benchmarked RT‐SCR against standard SCR, evaluated model fit using posterior predictive checks and used simulation to test whether gains generalised beyond this specific dataset. Incorporating unidentified detections improved precision for the habitat effect on density (15% CV improvement), estimates of space use (8% CV improvement) and detection parameter (up to 5% CV improvement). Wolves had stable year‐to‐year density (2.89–5.07 wolves/100 km 2 ). Simulations showed that RT‐SCR yielded consistent precision gains and restored near‐nominal coverage for detection parameters, whereas excluding unidentified samples produced overconfident credible intervals under standard SCR (0.920 vs. 0.505; nominal 0.89). Posterior predictive checks found no strong evidence of systematic lack of fit, even for a pack‐living species. Synthesis and applications . RT‐SCR provides a principled and cost‐effective way to recover information from samples that are usually discarded, improving both precision and the reliability of parameter estimates without extra field or laboratory investment. Gains were strongest for shared ecological parameters, including detection, space use and habitat associations, and are expected to be even greater where genotyping success is lower. This makes the framework especially valuable for EIA and other conservation monitoring programmes where every hard‐won sample matters.",
-      "keywords": []
+      "keywords": [
+        "Covariate",
+        "Bayesian probability",
+        "Canis",
+        "Population",
+        "Bayes' theorem",
+        "Bayesian inference",
+        "Replicate",
+        "Mark and recapture"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70474",
@@ -365,7 +463,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70474",
       "abstract": "Abstract Soil microbiota are fundamental ecosystem components that can accelerate ecosystem recovery, yet their deliberate integration into restoration practice remains limited. Despite growing interest, there are few experimental assessments on how to effectively implement soil translocations to inoculate whole microbial communities into degraded sites as an ecosystem restoration intervention. We embedded a replicated field experiment into a large ecosystem restoration project in a global biodiversity hotspot in southwest Western Australia to compare three soil translocation methods: intact soil cores, mixed soil cores and surface spreading. Microbial communities were tracked for 1‐year post‐translocation at two restoration sites using high‐throughput sequencing of bacterial and fungal communities to assess microbial establishment in translocated soils and dispersal into surrounding soils. We show that installing soils as either intact or mixed cores within the soil profile consistently resulted in greater retention of donor‐like microbial communities than surface spreading. Installing soils within the soil profile likely protected microbiota from environmental exposure and accordingly retained more donor‐like communities. Intact soil cores achieved the highest similarity to donor communities overall. Intact cores consistently outperformed surface spreading compared to mixed cores, suggesting that retaining soil structural integrity during translocation can provide additional benefits. Surface spreading—a widespread method of soil translocation used in restoration—showed limited retention of donor‐like microbiota. Communities diverged from donor profiles and were more strongly influenced by abiotic legacies in recipient soils, underscoring the limitations of this approach. Synthesis and applications: Microbial inoculation can be substantially improved by using core‐based soil translocation approaches. While intact cores may maximise the establishment of donor‐like communities, both intact and mixed cores consistently outperformed surface spreading, suggesting that core‐based installation of soils within the soil profile can improve inoculation outcomes. Preserving soil structural integrity may further improve establishment of donor‐like microbial communities. Adoption of core‐based installation approaches can increase the effectiveness of restoration interventions, helping to meet the rising demand for methods that accelerate soil biodiversity recovery and restore associated ecosystem functions.",
-      "keywords": []
+      "keywords": [
+        "Ecosystem",
+        "Soil water",
+        "Biodiversity",
+        "Restoration ecology",
+        "Abiotic component",
+        "Biological dispersal",
+        "Soil microbiology",
+        "Soil biodiversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70443",
@@ -383,7 +490,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70443",
       "abstract": "Abstract Research Highlight discussing: Ng et al. (2026). A call for evidence‐based conservation: securing the future of waterbirds along the East Asian‐Australasian Flyway. Journal of Applied Ecology , 63, e70389. https://doi.org/10.1111/1365‐2664.70389 . Migratory species are declining globally. This challenge is particularly urgent in the East Asian‐Australasian Flyway (EAAF), where many waterbird populations are decreasing, and where rapid human development overlaps with key habitats. It is timely to evaluate whether conservation practices are effective across the flyway covering the full annual cycle. Ng et al. adapted the Pressure‐State‐Response framework to connect practitioner‐identified threats, site‐level conservation actions and scientific evidence on conservation effectiveness. Using a multilingual questionnaire and the Conservation Evidence database, they showed that habitat loss and human disturbance were the highest‐ranked concerns among managers, but several widely used actions, including vegetation management, water‐level control, food‐habitat enhancement and bird hides, were supported by mixed, indirect or absent evidence. Furthermore, there is a limited proportion of assessed Conservation Evidence that included EAAF‐based evidence, limiting their transferability to local management decisions. The study highlights the need to better connect science, policy and frontline action in flyway conservation. Future implementation should prioritize regionally relevant tests of management actions, strengthen communication among researchers and practitioners and expand evidence databases to better represent EAAF species, sites and management contexts. More broadly, conservation planning should adopt a collaborative flyway‐network perspective that accounts for spatially heterogeneous threats, interactions among drivers and cumulative effects across the annual cycle.",
-      "keywords": []
+      "keywords": [
+        "Flyway",
+        "Bridging (networking)",
+        "Limiting",
+        "Habitat conservation",
+        "Habitat",
+        "Transferability",
+        "Empirical evidence",
+        "Wildlife conservation"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70464",
@@ -401,7 +517,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70464",
       "abstract": "Abstract Kelp forests are declining globally under warming seas, altered predator–prey dynamics and intensified herbivory, with sea urchins often driving shifts from canopy‐dominated forests to persistent urchin barrens. Management commonly relies on labour‐intensive urchin removals, with variable success, underscoring the need for complementary, ecosystem‐based tools that directly reduce urchin grazing pressure. Focussing on declining far northern California kelp forests, emblematic of general trends in global kelp loss, we combined subtidal surveys, field experiments and laboratory feeding assays to assess whether the understorey seaweed Desmarestia herbacea can provide associational defence for the canopy‐forming kelp ( Nereocystis luetkeana ) by physically deterring sea urchin ( Strongylocentrotus purpuratus ) grazing and offering low nutritional pay‐off for these grazers. Surveys in intact forests revealed a strong positive association between D. herbacea and N. luetkeana . In urchin barrens, live D. herbacea and algal‐mimic barriers reduced urchins by up to 98% inside plots and by >60% in the surrounding area extending 0.25 m from the plot boundary, and decreased kelp tissue loss at the higher‐grazing site. In a 6‐week experiment, natural D. herbacea stands sustained protection of N. luetkeana from urchin grazing relative to removals, depressing urchin densities over time and reducing encroachment from nearby barrens, yielding a net increase in N. luetkeana abundance by Week 4, and extending kelp survival by ~1.7 weeks. In 24‐h feeding assays, urchins consumed D. herbacea and another understorey alga ( Pterygophora californica ) at roughly half the rate of N. luetkeana . Over 30 days, urchins consumed similar amounts of D. herbacea and P. californica , but urchin gonadosomatic indices were lower on the D. herbacea diet, indicating reduced energetic payoff. Synthesis and application. Together, these results show that D. herbacea can protect N. luetkeana by limiting urchin access in the field and by depressing urchin condition when consumed. Incorporating D. herbacea and functionally similar understorey seaweeds into kelp forest restoration strategies highlights the value of more holistic, nature‐based approaches, such as leveraging associational defences to maximize recovery of focal foundational species and improve restoration outcomes in northern California and elsewhere.",
-      "keywords": []
+      "keywords": [
+        "Kelp forest",
+        "Kelp",
+        "Grazing",
+        "Sea urchin",
+        "Understory",
+        "Strongylocentrotus droebachiensis",
+        "Strongylocentrotus purpuratus"
+      ]
     },
     {
       "doi": "10.1111/gcb.70964",
@@ -447,7 +571,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70432",
       "abstract": "ABSTRACT Speciation is the ultimate source of biodiversity, yet because most species arise in spatial isolation (allopatry), it remains unclear how speciation history shapes patterns of sympatric species richness. Here, we examine how the timing of past speciation events influences the maximum sympatric species richness attained across 40 families of passerine birds. Using a phylogenetic model, we infer that the average waiting time for species to assemble in sympatry is remarkably long (~8 million years), occurring over macroevolutionary timescales comparable to the pace of speciation itself. Consequently, we find that the proportion of species in sympatry varies substantially across families, peaking in ancient or small clades comprised of older species, while remaining low in large, rapidly diversifying clades. Our analysis shows that macroevolutionary delays in colonisation are sufficient for speciation history to leave an indelible legacy on present‐day assemblages, challenging the view that richness is strictly limited by contemporary environmental capacity.",
-      "keywords": []
+      "keywords": [
+        "Sympatry",
+        "Sympatric speciation",
+        "Species richness",
+        "Genetic algorithm",
+        "Ecological speciation",
+        "Character displacement",
+        "Allopatric speciation",
+        "Incipient speciation",
+        "Parapatric speciation"
+      ]
     },
     {
       "doi": "10.1111/ele.70421",
