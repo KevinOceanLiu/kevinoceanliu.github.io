@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:43:08.612921+00:00",
+  "generated_at": "2026-06-23T23:30:59.469359+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,26 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102476",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102476",
-      "title": "Assessment of individualised dynamic environmental exposures within The World Avatar",
+      "doi": "10.1016/j.landurbplan.2026.105730",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105730",
+      "title": "A multi-scale identification and optimization framework of ecological sources for different conservation objectives",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001544",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102479",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102479",
+      "title": "System optimality versus self-organization in metro networks: An optimal transport analysis",
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
@@ -43,8 +60,101 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000785",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000815",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102482",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102482",
+      "title": "City function matters: Identifying influential factors of urban thermal comfort",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000840",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107250",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107250",
+      "title": "Research perspectives and networked framework of urban spatial structure in the digital age",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004828",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102467",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102467",
+      "title": "A benchmark of large language models for spatially informed proposal generation in local search for the p-median problem",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000694",
+      "abstract": "",
+      "keywords": [
+        "Benchmark (surveying)",
+        "Local search (optimization)",
+        "Language model",
+        "Local language",
+        "Key (lock)"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261456140",
+      "doi_url": "https://doi.org/10.1177/00420980261456140",
+      "title": "Enclosure and exit in new tech urbanisms",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        6,
+        22
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261456140",
+      "abstract": "The growing political and economic influence of tech elites is not limited to computerising the city, but more territorial and monumental strategies, emblematised by lavish ‘future cities’ like Praxis Nation. These speculative urban projects advance a logic of radical separation from public space, visibility and accountability, underwritten by tech elites’ consistent and increasingly explicit denunciation of the very idea of democratic governance. I examine two distinct and interlinked genres of these speculative projects. First, enclosures for the tech industry’s coding elite carve out effectively privatised communities away from public governance and scrutiny. Apple Park thus features a lush artificial garden, literally severed from the surrounding neighbourhood, while Elon Musk incorporates a new town of Starbase, Texas under de facto corporate governance. Echoing American company towns of the 19th century, like Lowell and Pullman, these are model utopias that seek to bypass public infrastructure and oversight, towards paternalistic control of the worker population. Second, ‘escape pods’ seek more radical forms of exit from the planetary commons. I examine the tech billionaire space race as the pursuit of a literally blank canvas for sketching a hyper-technological urban future. Meanwhile, the same elite quietly invest in doomsday bunkers as individualised escape from fears of social breakdown and ecological collapse. The rockets and bunkers thus serve as ‘temples of the future’, materialising deeply nonpublic visions at both societal and individual scales.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261456471",
+      "doi_url": "https://doi.org/10.1177/00420980261456471",
+      "title": "Contemplating obstacles: Experiences of indigenising urban spaces. The case of Ōtepoti Dunedin, Aotearoa New Zealand",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        6,
+        22
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261456471",
+      "abstract": "Conventional urban planning and development praxis in Aotearoa New Zealand has fallen short of consistently providing Indigenous Māori communities the opportunity to grow and develop their culture within urban environments. In the paper, we report on reflections from our research participants about the barriers that they deduce are continuing to hinder Indigenous visibility within urban environments. We establish a conceptual framework centred on three key Indigenous concepts relevant to this kaupapa (purpose): mana motuhake (self-determination), tuakiritanga (cultural identity), and kotahitanga (collective orientation). The investigation is primarily based on kōwetewete (a conversational method) with research collaborators comprising the urban professionals and mana whenua (local tribal group) most directly involved in Indigenous urban transformation in the city of Ōtepoti Dunedin. Our research demonstrates that participants perceive that significant barriers from historical and ongoing inattentiveness, combined with strong colonial dominance of planning practices, underpin the extensive cultural marginalisation of Māori in the built environment.",
       "keywords": []
     },
     {
@@ -65,6 +175,27 @@
       "keywords": [
         "Urban planning",
         "Context (archaeology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102476",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102476",
+      "title": "Assessment of individualised dynamic environmental exposures within The World Avatar",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000785",
+      "abstract": "",
+      "keywords": [
+        "Avatar",
+        "Affect (linguistics)",
+        "Exposure assessment"
       ]
     },
     {
@@ -627,7 +758,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000839",
-      "abstract": "",
+      "abstract": "In the context of a circular economy, the built environment can be regarded as a reservoir of future recoverable resources. Early identification of buildings at risk of demolition enables targeted reuse and recycling strategies, contributing to global warming mitigation and waste avoidance. Most existing studies rely on spatially explicit analyses and lifetime distribution functions for demolition forecasting, yet do not comprehensively account for the multiple interacting drivers influencing demolition at the building level. This study proposes a spatiotemporal machine learning framework for modelling building demolition risk across large geographic areas. A consolidated dataset is constructed by integrating Geographical Information System (GIS)-based spatial data with building characteristics, surrounding built environment attributes, local demolition dynamics, and statistical socioeconomic indicators. Using this dataset, several machine learning models are employed and evaluated for predicting demolition events and estimating building-level risk scores across Switzerland over different time horizons. Extreme class imbalance is identified as a major challenge, and several strategies are evaluated to address this issue. Model performance is evaluated based on ranking capability and effectiveness in identifying high-risk buildings. The results demonstrate strong performance despite the low base rate of demolition events, with the models effectively prioritising buildings at elevated risk. To enhance interpretability, this study applies Shapley Additive Explanations (SHAP) to quantify the contribution of different features to model predictions. The findings provide insights into the key drivers of demolition, supporting data-driven decision-making for urban planners and policymakers. This study advances the development of data-driven tools for sustainable urban planning and establishes a benchmark for building-level demolition prediction.",
       "keywords": [
         "Demolition",
         "Risk assessment",
@@ -8155,33 +8286,6 @@
         "Urban ecosystem",
         "Urbanization",
         "Urban climate"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107036",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107036",
-      "title": "Uncovering the spatial patterns and internal vitality heterogeneity of bedroom communities: Evidence from Guangzhou",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-06",
-      "published_date_display": "2026-04-06",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002684",
-      "abstract": "",
-      "keywords": [
-        "Bedroom",
-        "Vitality",
-        "Spatial ecology",
-        "Urbanization",
-        "Identification (biology)",
-        "Occupancy",
-        "Perspective (graphical)",
-        "Aggregate (composite)",
-        "Common spatial pattern"
       ]
     },
     {
