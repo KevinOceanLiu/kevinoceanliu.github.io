@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T23:30:59.469359+00:00",
+  "generated_at": "2026-06-24T23:34:54.747372+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,156 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.compenvurbsys.2026.102466",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102466",
+      "title": "UST-GNN: A unified spatial–topological graph neural network framework for urban analytics demonstrated through a case study on urban health prediction",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000682",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261453290",
+      "doi_url": "https://doi.org/10.1177/00420980261453290",
+      "title": "Shifting elemental bodies in the city: Towards thermal and daylight justice",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261453290",
+      "abstract": "While thermal comfort and daylight exposure are subjective and context specific, and in some cases even counterpoised, we show how individual and communal efforts to reduce exposure (in the case of heat) or increase exposure (in the case of sunlight) center the elemental as a point of struggle for just urban living and citizenship. The two examples of Delhi and London that we present demonstrate how heat and daylight are encountered in the face of changing climate realities and top-down planning and housing development. With a focus on the asymmetrical vulnerabilities of exposure within thermal and luminous milieu, we contribute to calls for urban justice amidst rapidly changing and unstable climatic futures that demand pressing attention to urban social stratification and livability.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261448070",
+      "doi_url": "https://doi.org/10.1177/00420980261448070",
+      "title": "Owning modernity: Indigenous architecture, fashion, and the aesthetics of modernity in La Paz and El Alto, Bolivia",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261448070",
+      "abstract": "This article explores how popular markets and cultural aesthetics challenge colonial binaries of tradition versus modernity, focusing on La Paz and El Alto during a period of Indigenous political power and economic expansion (2006–2019). Drawing on fieldwork and Bolivian scholarship, I show how two visible formations—Freddy Mamani’s “ cholet ” buildings and la moda de la chola paceña —enact plural, ch’ixi modernities rather than simple incorporations of “tradition” into consumer spectacle. The trends examined demonstrate how popular aesthetic practices disrupt binaries (modern/traditional, rural/urban, gift/commerce), and demonstrate the importance of understanding the institutions which channel capital, as well as cultural dynamics and the power of confidence, shame, and recognition in shaping urban space. I also analyze the institutional reception—in Bolivia and internationally—to show how Indigenous designers reframe what counts as art, expertise, and contemporaneity. The discussion relocates debates on the “Indigenous city” to the Andes and connects them to Latin American work on plurality, livelihoods, baroque economies, and settler-colonial urbanism. Rather than reading architecture and fashion as evidence of a growing consuming middle class, I show how they organize belonging and redistribute visibility in the city on their own terms. The case invites a reworking of urban theory attuned to Indigenous economic and cultural logics and to forms of modernity and contemporaneity that are not derivative of northern trajectories.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261450022",
+      "doi_url": "https://doi.org/10.1177/00420980261450022",
+      "title": "Informal smart urbanism: A case study of digital resilience in Mathare informal settlement",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261450022",
+      "abstract": "Informal smart urbanism is an emerging field that explores how digital technologies shape urban development in contexts marked by informality. We understand informality as a dynamic set of interactions that arise when formal regulations fail to meet people’s needs. Our study analyses digital resilience practices—the everyday ways households respond to shocks through digital technologies. These practices are widespread but often overlooked, especially given the vulnerabilities inherent in informal settings. We explore how repetitive digital practices form extra-legal rules. In Mathare, Kenya, four forms of digital resilience practices emerge: (1) belt tightening: households with low resilience use digital networks to receive digital gifts, replacing non-digital support; (2) maladaptive: digital tools are used in ways that undermine community resilience; (3) adaptive: digital platforms are used to strengthen household resilience in the short term; and (4) transformative: digital technologies systemically improve household resilience in the long term.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00465-5",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00465-5",
+      "title": "Intercity inequality in carbon emission reductions from vehicle electrification in China",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00465-5",
+      "abstract": "Abstract The rapid expansion of plug-in electric vehicles (PEVs) offers substantial potential for reducing nationwide carbon emissions, yet benefits vary across cities due to differing PEV adoption trajectories and spatial disconnects between vehicle use and power-plant emissions. Leveraging over 245 million vehicle registration records, we quantify PEV-related fuel-cycle carbon transfers across 285 Chinese cities. Here we show that economically developed cities transferred 41.8% of their PEV-related emissions to less developed cities in 2020, causing per-PEV emissions in the latter exceeding those of non-PEVs by 16.9%–52.0%. This outsourced carbon burden is projected to substantially increase climate mitigation costs for recipient cities. Furthermore, such intercity inequality in emission reductions is projected to remain elevated through 2030 due to growing disparities in PEV stocks across cities, before declining as the grid decarbonizes. Our findings highlight the importance of tailored, city-level decarbonization policies to promote an equitable and effective transition toward vehicle electrification.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00467-3",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00467-3",
+      "title": "Intercity carbon transfers from vehicle electrification",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00467-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00468-2",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00468-2",
+      "title": "Algorithms and the mountain",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00468-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.landurbplan.2026.105730",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105730",
       "title": "A multi-scale identification and optimization framework of ecological sources for different conservation objectives",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001544",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Metropolitan area",
+        "Scale (ratio)",
+        "Flexibility (engineering)",
+        "Ecosystem services",
+        "Ecosystem",
+        "Yangtze river",
+        "Urban planning",
+        "Spatial ecology",
+        "Ecological planning"
+      ]
     },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102479",
@@ -54,15 +189,18 @@
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000815",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Public transport",
+        "Data collection"
+      ]
     },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102482",
@@ -71,32 +209,24 @@
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000840",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107250",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107250",
-      "title": "Research perspectives and networked framework of urban spatial structure in the digital age",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004828",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Thermal comfort",
+        "Pedestrian",
+        "Identification (biology)",
+        "Land cover",
+        "Function (biology)",
+        "Urban planning",
+        "Urban design",
+        "Land use"
+      ]
     },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102467",
@@ -122,6 +252,28 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107250",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107250",
+      "title": "Research perspectives and networked framework of urban spatial structure in the digital age",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004828",
+      "abstract": "",
+      "keywords": [
+        "Urban spatial structure",
+        "Urban structure",
+        "Key (lock)",
+        "Digital mapping"
+      ]
+    },
+    {
       "doi": "10.1177/00420980261456140",
       "doi_url": "https://doi.org/10.1177/00420980261456140",
       "title": "Enclosure and exit in new tech urbanisms",
@@ -137,7 +289,18 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261456140",
       "abstract": "The growing political and economic influence of tech elites is not limited to computerising the city, but more territorial and monumental strategies, emblematised by lavish ‘future cities’ like Praxis Nation. These speculative urban projects advance a logic of radical separation from public space, visibility and accountability, underwritten by tech elites’ consistent and increasingly explicit denunciation of the very idea of democratic governance. I examine two distinct and interlinked genres of these speculative projects. First, enclosures for the tech industry’s coding elite carve out effectively privatised communities away from public governance and scrutiny. Apple Park thus features a lush artificial garden, literally severed from the surrounding neighbourhood, while Elon Musk incorporates a new town of Starbase, Texas under de facto corporate governance. Echoing American company towns of the 19th century, like Lowell and Pullman, these are model utopias that seek to bypass public infrastructure and oversight, towards paternalistic control of the worker population. Second, ‘escape pods’ seek more radical forms of exit from the planetary commons. I examine the tech billionaire space race as the pursuit of a literally blank canvas for sketching a hyper-technological urban future. Meanwhile, the same elite quietly invest in doomsday bunkers as individualised escape from fears of social breakdown and ecological collapse. The rockets and bunkers thus serve as ‘temples of the future’, materialising deeply nonpublic visions at both societal and individual scales.",
-      "keywords": []
+      "keywords": [
+        "Elite",
+        "Bunker",
+        "Politics",
+        "Vision",
+        "Public space",
+        "Rhetorical question",
+        "Corporate governance",
+        "Architecture",
+        "Democracy",
+        "High tech"
+      ]
     },
     {
       "doi": "10.1177/00420980261456471",
@@ -155,7 +318,15 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261456471",
       "abstract": "Conventional urban planning and development praxis in Aotearoa New Zealand has fallen short of consistently providing Indigenous Māori communities the opportunity to grow and develop their culture within urban environments. In the paper, we report on reflections from our research participants about the barriers that they deduce are continuing to hinder Indigenous visibility within urban environments. We establish a conceptual framework centred on three key Indigenous concepts relevant to this kaupapa (purpose): mana motuhake (self-determination), tuakiritanga (cultural identity), and kotahitanga (collective orientation). The investigation is primarily based on kōwetewete (a conversational method) with research collaborators comprising the urban professionals and mana whenua (local tribal group) most directly involved in Indigenous urban transformation in the city of Ōtepoti Dunedin. Our research demonstrates that participants perceive that significant barriers from historical and ongoing inattentiveness, combined with strong colonial dominance of planning practices, underpin the extensive cultural marginalisation of Māori in the built environment.",
-      "keywords": []
+      "keywords": [
+        "Aotearoa",
+        "Indigenous",
+        "Praxis",
+        "Conceptual framework",
+        "Urban planning",
+        "Colonialism",
+        "Traditional knowledge"
+      ]
     },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102475",
