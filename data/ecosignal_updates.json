@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T23:40:16.932578+00:00",
+  "generated_at": "2026-06-24T23:48:59.663287+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -260,6 +260,186 @@
       ]
     },
     {
+      "doi": "10.1038/s41559-026-03133-y",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03133-y",
+      "title": "Supergenes shape ant societies",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03133-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03106-1",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03106-1",
+      "title": "A unified analysis of global riverine eDNA reveals common associations of fish biodiversity with drainage characteristics",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03106-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70965",
+      "doi_url": "https://doi.org/10.1111/gcb.70965",
+      "title": "Cities at Sea: Coastal Urbanization Generates Local Biodiversity Hotspots but Homogenizes Marine Fish Communities Regionally",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70965",
+      "abstract": "ABSTRACT Urbanization is rapidly expanding along the world's coasts, transforming natural ecosystems into increasingly uniform artificial environments. Yet, the patterns and processes shaping marine biodiversity under urban pressure remain poorly understood. We investigated whether coastal urbanization drives marine communities toward greater similarity, a process well documented in terrestrial and freshwater systems as urban biotic homogenization but rarely examined in the sea. We analyzed fish communities using 222 seawater environmental DNA samples collected across Mediterranean seaports and less urbanized coastal sites. Seaports exhibited higher local species richness than less urbanized sites, yet their communities were markedly more similar to one another, revealing a local‐regional decoupling paradox in which gains in local diversity coincided with biotic homogenization at the regional scale. This pattern emerged in the absence of non‐indigenous species, which are commonly invoked as main drivers of homogenization. Instead, homogenization was primarily driven by increased occupancy (i.e., the proportion of sites occupied) of disturbance‐tolerant native taxa, half of which showed occupancy levels approximately 2.6 times higher in seaports than elsewhere. Biotic homogenization was evident at both taxonomic and phylogenetic levels, indicating that disturbance‐tolerant taxa are phylogenetically clustered. Overall, urban pressure emerged as the dominant driver of community similarity, exceeding spatial and environmental predictors. Together, these results show that coastal urbanization emerges as a fundamental and underappreciated driver of marine biodiversity reorganization.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70424",
+      "doi_url": "https://doi.org/10.1111/ele.70424",
+      "title": "Using Modern Coexistence Theory to Understand Community Disassembly",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70424",
+      "abstract": "ABSTRACT Community disassembly examines how species extinction alters ecological communities. Sometimes, the extinction of one species can trigger the loss of others, known as secondary extinction. These secondary extinctions often result from complex species interactions, complicating the identification of underlying mechanisms. Here, we leverage Modern Coexistence Theory to identify when and why secondary extinctions occur. To identify when secondary extinctions occur, we introduce the community disassembly graph that uses invasion growth rates (IGRs) to identify transitions between coexisting communities due to extinction. When a secondary extinction is identified, we decompose the IGRs associated with the secondary extinction to understand why it occurs. We demonstrate the utility of this framework by applying it to models in which different species interactions–competition, facilitation and predation–contribute significantly to secondary extinctions. Our results show that Modern Coexistence Theory offers a flexible and interpretable approach to understanding when and why secondary extinctions occur.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70433",
+      "doi_url": "https://doi.org/10.1111/ele.70433",
+      "title": "Towards Key Principles of Host‐Associated Microbiome Assembly",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70433",
+      "abstract": "ABSTRACT Symbiotic relationships between microbes and hosts frequently involve the assembly of complex microbial communities. Community‐level patterns influence life‐history traits, ecological trajectories of partners, and are often critical for host health. These patterns are driven by mechanisms acting at the individual level, including microbial dispersal, host selection, and microbe–resource interactions. Critically, we still lack a clear picture of how these mechanisms interact to shape microbiome assembly. We present a model that describes how distinct community structures arise from those underlying mechanisms. To illustrate the approach, we simulate microbiome data from marine sponges, thereby bridging mechanistic models and empirical patterns. We further apply the model to human data to explore its relevance across systems, proposing that a small set of general mechanisms may govern diverse patterns of diversity and abundance. Our findings advance ecological theory by linking individual‐level processes to community‐scale patterns, illuminating key drivers of microbiome assembly.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70437",
+      "doi_url": "https://doi.org/10.1111/ele.70437",
+      "title": "Temperature and Resource Supply Drive Continental Variation in Size Structure of Freshwater Food Webs",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70437",
+      "abstract": "ABSTRACT Biological communities follow a remarkably consistent negative relationship between individual mass (M) and abundance (N), represented by a power law ( N ~ M λ ). The parameter λ denotes the rate of decline in relative abundance from small to large individuals and serves as a proxy for energy transfer efficiency in food webs. Although warming is expected to affect λ, its influence remains uncertain, possibly due to interactions with resource supply. Using ~670,000 individual body sizes from stream food webs, we tested how temperature and resources shape λ. Temperature effects depended on resource supply (gross primary production [GPP] and organic matter standing stock [OM]) but contradicted expectations that λ becomes more negative with warming. At medium and high resources, λ becomes less negative under warming while no change occurred at low resources. Variation in OM, not GPP, drove these patterns, highlighting the role of external energy inputs and challenging the idea that large organisms are rarer at higher temperatures.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70434",
+      "doi_url": "https://doi.org/10.1111/ele.70434",
+      "title": "Predictors of Food Web Resistance to Environmental Change",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70434",
+      "abstract": "ABSTRACT Impacts of environmental change on ecosystems are seemingly highly context‐dependent and contingent on details. Here, we provide mathematical and numerical evidence that there is some generality to the resistance of food webs to species loss. To this end, we mathematically analyse simple food web models, run simulations with randomly wired food webs, develop a spatially explicit meta‐community model for realistic macroinvertebrate communities inhabiting European streams, and analyse field data. These approaches jointly support three general rules for food web resistance: (1) all else equal, predators are more vulnerable than prey, and predator diversity declines before prey diversity; (2) food webs with higher prey diversity tend to be less resistant to environmental change; and (3) food web resistance decreases with the mean taxon tolerance and reaches a maximum at an optimal ratio of predator to prey tolerance. Our findings elucidate characteristics that make food webs vulnerable, fostering more effective conservation practices.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70425",
+      "doi_url": "https://doi.org/10.1111/ele.70425",
+      "title": "Niche Overlap Is Not Enough: Same Overlap, Contrasting Fluctuations",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70425",
+      "abstract": "ABSTRACT Niche overlap (NO) is a cornerstone of coexistence theory, summarising the strength of competitive coupling among species. Yet NO collapses distinct mechanisms into a single value and may miss key dynamical features. We quantify this limitation by examining temporal correlations in species abundances, a key out‐of‐equilibrium observable in microbial ecology. Using a MacArthur‐type consumer‐resource model, we show that communities with identical NO can display opposite dynamical patterns. Within the resource‐mediated fluctuation regime studied here, a yield‐depletion mismatch (YDM)—the difference between depletion and yield dissimilarities—consistently predicts the sign and magnitude of abundance correlations across analytical approximations, stochastic simulations, and a reanalysis of microbial time series. In contrast, growth‐rate correlations are governed by NO. More broadly, our results show that dynamical observables can depend on mechanistic details beyond those summarised by niche overlap.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70427",
+      "doi_url": "https://doi.org/10.1111/ele.70427",
+      "title": "<scp>AI</scp> , Comparative Advantage, and the Next Decade of Ecological Research",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70427",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70435",
+      "doi_url": "https://doi.org/10.1111/ele.70435",
+      "title": "(In)determinacy in Woody Plants: Limits and Opportunities for Timing Growth in a Changing Climate",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70435",
+      "abstract": "ABSTRACT When and how much plants grow under environmental constraints are fundamental questions in biology and increasingly important for predicting biomass production and carbon sequestration under climate change. While temperature and water availability directly regulate plant growth, the timing and rate of growth are also shaped by internal developmental programming, though this is rarely considered in predictions of tree growth responses to future climates. Here, we revisit a concept central to this internal programming—(in)determinacy. Focusing on woody plants, we define it as the extent to which annual shoot growth is deployed from preformed organs versus produced de novo during the current season. We argue that this trait is best understood as a continuum and that it can help explain contrasting growth responses in a changing climate. More determinate species concentrate growth within a narrow seasonal window, which may reduce exposure to late‐season stress but also limit their ability to exploit longer growing seasons. More indeterminate species retain greater flexibility to extend or resume growth when conditions remain favourable, which may be advantageous under climate change, but this same flexibility may also increase exposure to frost, drought and incomplete tissue maturation. Because primary shoot growth also shapes canopy development and is linked to other growth processes, variation in (in)determinacy could help explain broader differences in whole‐plant performance, carbon gain and species responses to climate change.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03114-1",
       "doi_url": "https://doi.org/10.1038/s41559-026-03114-1",
       "title": "Top-down effects dominate the relationship between plant–herbivorous insect interactions and ecosystem stability",
@@ -275,7 +455,17 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03114-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Trophic level",
+        "Ecosystem",
+        "Ecological stability",
+        "Resistance (ecology)",
+        "Temperate climate",
+        "Trophic cascade",
+        "Food web",
+        "Psychological resilience",
+        "Ecological network"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70369",
@@ -293,7 +483,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70369",
       "abstract": "Abstract If niche differences contribute to biodiversity, then landscapes must vary and species must respond differently to that variation. Terrain, through its effects on solar radiation and moisture, is an important contributor to habitat variation, but its effects on demography are largely unknown. Understanding fecundity responses to this landscape heterogeneity could provide insights on niche differences and on how terrain buffers climate change effects. Here, we use a hierarchical Bayesian state‐space model to quantify how topographic features buffer tree fecundity from intensifying climate change. We estimate the effects of slope, aspect and drainage on tree fecundity across North America and Europe while accounting for individual condition and climate. We analysed 2,874,955 tree‐years from 292 species across forest inventory plots spanning mountainous regions in North America and Europe. We fitted species‐specific fecundity responses to terrain variables and climate interactions, then constructed predictive distributions of terrain effects at landscape scales. We quantified community‐level hypervolume to assess how diversity in fecundity responses across species relates to topographic heterogeneity. Topography influences tree fecundity, with terrain as an important contributor for most species. In dry portions of their ranges, tree species in southeastern North America and south‐central Europe increase fecundity towards northeast aspects, while highest fecundity of species in southwestern North America shifts towards south‐facing aspects. Terrain‐sensitive species (terrain explains >20% of fecundity variance) are most abundant in southwestern North America (~42% of species), but southeastern North America shows the strongest terrain effects on fecundity and highest per‐species fecundity variance, despite having the gentlest slopes. Community hypervolume is exceptionally high in southeastern United States. Whether this variation maintains diversity depends on how fecundity combines with other demographic rates. Synthesis : Fine‐scale terrain variation creates reproductive differences through species‐specific fecundity responses. The effectiveness of topographic heterogeneity as a climate refuge depends on regional landscape structure and species sensitivity to terrain. In topographically diverse regions, species may buffer climate change through fine‐scale redistribution to favourable microsites. Quantifying these differences helps identify factors limiting reproduction and habitat features with greatest potential as local refuges.",
-      "keywords": []
+      "keywords": [
+        "Fecundity",
+        "Niche",
+        "Climate change",
+        "Habitat",
+        "Ecological niche",
+        "Niche differentiation"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70367",
@@ -311,6 +508,50 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70367",
       "abstract": "Abstract Although forests serve critical roles maintaining biodiversity and provisioning ecosystem services, many tree species world‐wide have experienced population declines due to climate change and other related factors. One such species is quaking aspen ( Populus tremuloides ), the most widely distributed tree species in North America, which has undergone reductions in survival, growth, and/or recruitment in many parts of its range. To understand the patterns in and drivers of aspen performance across its range in six western US states, we evaluated the importance of 44 climatic, topographic, and forest structure variables in explaining mortality, growth and adult recruitment rates in 263 plots over a 9‐to‐13‐year period. Aspen experienced substantial mortality during this study, with 4% of trees on average dying each year. In addition, aspen performed differently from co‐occurring conifers, with their dominance declining during the study while conifers increased. Mortality rates for aspen increased with higher aspen canopy dieback and dead aspen in the initial sampling and decreased with increased initial dominance of aspen and conifers as well as increased precipitation and reduced aridity. Growth rates of aspen increased with higher temperatures and winter precipitation, in more upland and south‐facing locations, and decreased with warmer and drier conditions relative to the historic baseline, greater initial aspen canopy dieback, higher initial dead aspen and greater initial dominance of aspen and conifers. Increased adult recruitment was associated with higher temperatures and winter precipitation as well as more upland and south‐facing locations, whereas reduced recruitment occurred with higher initial aspen and conifer dominance, greater amounts of initial dead aspen, and hotter and drier conditions relative to the historic baseline. Synthesis . Across the western United States, the health and dominance of aspen declined during a decade‐long study, with annual mortality being three times greater than the recruitment of new adults. We frequently detected long‐lasting effects, where areas that were challenging or optimal for aspen at the outset of our study continued to be so over the next decade. Intra‐ and interspecific competition as well as hotter and drier conditions associated with climate change adversely influenced aspen populations.",
+      "keywords": [
+        "Dominance (genetics)",
+        "Canopy",
+        "Ecosystem",
+        "Biodiversity",
+        "Climate change",
+        "Coppicing",
+        "Population"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70452",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70452",
+      "title": "Persisting, emerging and contracting: The dynamic nature of non‐native hotspots and their implications for management",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        6,
+        23
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70452",
+      "abstract": "Abstract Non‐native species threaten coral reefs by altering ecosystem structure and resilience, particularly on isolated tropical islands experiencing strong local and global stressors. In Hawaiʻi, native reef communities face cumulative impacts from the incursions of multiple non‐native fishes. We combined species distribution models and hotspot analyses to identify potential high‐risk areas where environmental conditions favour co‐occurrences of non‐native species under present and future scenarios. While predicted non‐native richness was similar across islands, sub‐island patterns were highly heterogeneous, with areas near ports and developed shorelines consistently exhibiting elevated co‐occurrence risk. Baseline hotspot analyses indicated that Oʻahu and Hawaiʻi Island host the majority of high‐risk areas, followed by Kauaʻi and Molokaʻi. Crucially, we identified three hotspot trajectories across time and emission scenarios: persisting hotspots remaining high‐risk (e.g. Pearl Harbour on Oʻahu; western Molokaʻi), emerging hotspots developing by mid‐ to late‐century (e.g. Poʻipū on Kauaʻi) and contracting hotspots disappearing under future ocean conditions (e.g. Kailua‐Kona on Hawaiʻi Island). These patterns demand differentiated management strategies: (i) early detection and rapid response (also including biosecurity measures) in emerging hotspots, (ii) a combined approach that encompasses removal, monitoring and targeted outreach when non‐native threats remain and (iii) habitat restoration or rehabilitation where invasion risk contracts. Synthesis and applications . By linking explicit hotspot projections to distinct management phases, this study provides a proactive framework for non‐native species control, transitioning from reactive eradication efforts to future‐oriented planning that optimizes managers' often limited resources. This predictive framework is readily adaptable to other tropical island ecosystems facing similar biological and environmental pressures.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70471",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70471",
+      "title": "Abundant and morphologically large birds underpin top‐down control in rewired trophic networks of restored forests",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        6,
+        23
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70471",
+      "abstract": "Abstract Forest restoration is rapidly transforming landscapes worldwide and is expected to restore associated ecosystem services. However, the complex trophic interactions that underpin forest ecosystem integrity remain poorly understood, especially where the reconfiguration or loss of core predators can trigger cascading top‐down effects, despite increasing emphasis on process‐based conservation. Using faecal DNA metabarcoding of 494 samples from 44 bird species, we reconstructed 2282 unique bird–arthropod trophic interactions. We compared network structure among plantations, secondary and primary forests, partitioned network dissimilarity into interaction rewiring and species turnover relative to primary forests, tested how species characteristics and rewiring probability shape species' role reconfiguration, and evaluated the functional robustness of avian top‐down control under characteristic‐driven extinctions. Plantations exhibited higher connectance than secondary forests, whereas nestedness and modularity did not differ among forest types. The network dissimilarity was primarily driven by interaction rewiring, which reshaped the network structure by lowering the connectance in plantations but increasing the modularity in secondary forests. Species' roles were differentially reconfigured between restored forests through contrasting mechanisms, with the effects of abundance dominating in plantations, whereas abundance together with the rewiring probability of morphologically large birds shaped core roles in secondary forests. The functional robustness of bird top‐down control on herbivorous insects was especially fragile to the simulated loss of abundant species in plantations, while the loss of morphologically large birds consistently weakened the robustness across all forest types. Synthesis and applications : As restoration increasingly reshapes terrestrial food webs, our findings highlight the importance of incorporating trophic roles that underpin avian ecosystem services such as top‐down control. Although forest restoration can rebuild trophic network structure, different restoration strategies reconfigure species' roles through distinct characteristic‐driven mechanisms, with asymmetric functional consequences. Restoration success should therefore be enhanced by emphasizing the protection of abundant and large birds, while prioritizing mixed vegetation structure and well‐connected forest patches to promote the persistence or recolonization of functionally important avian predators.",
       "keywords": []
     },
     {
@@ -19063,32 +19304,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70751",
-      "doi_url": "https://doi.org/10.1111/gcb.70751",
-      "title": "Low N Deposition Coupled With Climate Warming Promote Soil Asymbiotic N Fixation via Increasing Microbial Specialists in Alpine Grassland",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-18",
-      "published_date_display": "2026-02-18",
-      "published_parts": [
-        2026,
-        2,
-        18
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70751",
-      "abstract": "ABSTRACT Biological nitrogen fixation (BNF) is a vital process for introducing new N into natural ecosystems, and this process has been demonstrated to be suppressed by high N deposition. However, the net ecological effect and underlying mechanisms of BNF under chronic low‐level N deposition, characteristic of terrestrial ecosystems, remain highly uncertain. Given that climate warming is a key environmental change factor concurrent with N deposition, it is important to investigate whether climate warming can change BNF activity and alter the effects of N deposition on BNF. To fill these knowledge gaps, we implemented a decade‐long‐term manipulation experiment in an alpine grassland ecosystem with 5 treatments, that is, experimental warming (W), low‐level N deposition (N L ), high‐level N deposition (N H ), combination of climate warming and low‐level N deposition (WN L ) and the control (CK). BNF rate was measured by 15 N 2 isotope discrimination. We found that N L significantly stimulated BNF by 112%, contrasting sharply with the complete suppression under N H . Climate warming alone increased the BNF rate by 123%, while the WN L amplified this effect, stimulating BNF by 234%. Structural equation modeling revealed that WN L selectively favored specific diazotrophic groups ( Desulfovibrio ), whose proliferation directly drove the observed BNF shifts. In this N‐limited alpine grassland, low‐level chronic N deposition, especially when combined with warming, fundamentally shifts the diazotrophic community structure by driving a process of niche contraction. This selection process functionally enriches specialized diazotrophs, resulting in a dramatic, positive feedback that significantly promotes the overall biological nitrogen input. Our findings highlight the potential for increased N inputs under realistic future climate scenarios and provide a scientific basis for precision N management in alpine grasslands, both on the Qinghai‐Tibetan Plateau and worldwide.",
-      "keywords": [
-        "Grassland",
-        "Climate change",
-        "Global warming",
-        "Deposition (geology)",
-        "Ecosystem",
-        "Nitrogen fixation",
-        "Terrestrial ecosystem"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70340",
       "doi_url": "https://doi.org/10.1111/ele.70340",
       "title": "The Evolution and Ecology of Host Manipulation in Helminth Parasites: A Phylogenetic Meta‐Analysis",
@@ -22329,31 +22544,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70278",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70278",
-      "title": "Managing polyploid complexity in grassland restoration: Cytotype differentiation and implications for seed zones",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        1,
-        20
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70278",
-      "abstract": "Abstract Regional seed sources are increasingly used in ecological restoration. Polyploid complexes, i.e. taxa comprising multiple ploidy levels, are often part of regional seed mixtures, where ploidy levels are often not distinguished. However, mixing ploidy levels may foster their hybridisation, severely reduce offspring fitness and disrupt existing patterns of the geographic distribution of individual ploidy levels. Furthermore, ploidy levels may represent distinct genetic lineages. Yet, the exact geographic distribution of the ploidy levels and their genetic differentiation are rarely known. Here, we focus on six polyploid complexes commonly used for the restoration of species‐rich grasslands. We present high‐resolution, national‐scale geographic distributions of their ploidy levels, test their association with environmental gradients and quantify genetic differentiation between ploidy levels. Ploidy levels within polyploid complexes were more differentiated than seed zones within individual ploidy levels. The abundance, spatial distribution and levels of sympatry versus parapatry of ploidy levels varied widely among polyploid complexes. Nevertheless, the spatial distribution of ploidy levels was always associated with environmental gradients. Mixed‐ploidy populations were generally rare. Campanula rotundifolia , Euphorbia cyparissias , and Pimpinella saxifraga showed regional parapatry of ploidy levels, whereas Achillea millefolium agg., Knautia arvensis , and Leucanthemum vulgare agg. showed rather sympatric distribution patterns. Diploid K. arvensis was very rare and potentially non‐native to Germany. Using these datasets as case studies, we present a management decision framework for polyploid complexes in seed zone‐based grassland restoration, requiring only cytotype distribution data that can be acquired at reasonable cost. The framework recommends four different per‐zone management options based on data availability, cytotype presence, distribution, and frequency. Synthesis and applications . Our decision framework enables seed producers and managers to take consistent action on the challenge of polyploid complexes in restoration. Different ploidy levels should not be mixed to avoid fitness losses. Depending on abundance and distribution, either the dominant ploidy level should be prioritised, or multiple ploidy levels need to be managed independently at the seed zone level.",
-      "keywords": [
-        "Polyploid",
-        "Ploidy",
-        "Parapatric speciation",
-        "Sympatric speciation",
-        "Sympatry",
-        "Species distribution"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2745.70239",
       "doi_url": "https://doi.org/10.1111/1365-2745.70239",
       "title": "Biodiversity, climate anomalies and human activities drive structural diversity–productivity relationships",
@@ -22571,35 +22761,6 @@
         "Peer review",
         "Modularity (biology)",
         "Diversity index"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70257",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70257",
-      "title": "Intensive post‐fire management drives ecosystem degradation but does not prevent tree regeneration",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-17",
-      "published_date_display": "2026-01-17",
-      "published_parts": [
-        2026,
-        1,
-        17
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70257",
-      "abstract": "Abstract In recent years, wildfires have affected relatively large areas of managed forests in Central Europe. Often, forestry uses intensive post‐fire management practices, which can have negative effects on various components of the ecosystem. Fire ecology has been largely neglected in Central Europe and strategies for appropriate management and successful reforestation of burned areas are urgently needed. We have studied the effects of different post‐fire forest management treatments (including different levels of salvage logging and soil disturbances such as ploughing or raking) on soil parameters (phosphorus, nitrogen, calcium, potassium, magnesium, pH), microclimate (temperatures, vapour pressure deficit (VPD), heat and drought stress), deadwood, regrowth (biomass of tree regeneration, herb and bryophyte layer) and species richness (plants and saproxylic beetles) 3 years after wildfire in a Central European Scots pine forest (northeast Germany). Intensive forest management led to more unfavourable abiotic conditions, including stronger temperature extremes and elevated VPD. Consequently, vegetation on these sites experienced increased heat and drought stress and reduced nutrient availability. The biomass of the herb and bryophyte layer, as well as the species richness of plants and saproxylic beetles, was lower on completely salvage logged sites. Tree biomass recovered on all sites, including sites with intensive forest management. Tree regeneration in our study area was mainly driven by the recolonization of the pioneer species European aspen ( Populus tremula) , which can tolerate a wide range of site conditions. Synthesis and applications . We recommend avoiding intensive management on burned sites, such as complete salvage logging or ploughing, as this creates extreme site conditions that could inhibit the regeneration of more sensitive tree species and result in a long‐term legacy of degradation. In addition, herb and bryophyte layers, as well as the species richness of vegetation and saproxylic beetles, which are important components of forest ecosystems, are negatively affected by intense forest management.",
-      "keywords": [
-        "Salvage logging",
-        "Reforestation",
-        "Species richness",
-        "Biomass (ecology)",
-        "Microclimate",
-        "Scots pine",
-        "Forest management",
-        "Bryophyte",
-        "Windthrow",
-        "Vegetation (pathology)"
       ]
     },
     {
