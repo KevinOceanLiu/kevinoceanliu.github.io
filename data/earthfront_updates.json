@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:52:18.435172+00:00",
+  "generated_at": "2026-06-24T22:52:58.376576+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,24 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41893-026-01858-z",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01858-z",
+      "title": "Resource consumption in global concrete production",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01858-z",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41893-026-01838-3",
       "doi_url": "https://doi.org/10.1038/s41893-026-01838-3",
@@ -59,7 +77,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01871-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Electrolyte",
+        "Battery (electricity)",
+        "Electrochemistry",
+        "Solvation",
+        "Lithium (medication)",
+        "Ionic conductivity",
+        "Ionic bonding",
+        "Ion",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02678-x",
@@ -77,7 +105,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02678-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Grassland",
+        "Sink (geography)",
+        "Carbon sink",
+        "Global change",
+        "Global warming",
+        "Nitrogen",
+        "Soil carbon",
+        "Nitrogen cycle"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01887-8",
@@ -1940,14 +1977,23 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001478",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Periods of anomalous ocean heat are becoming more intense and persistent, with consequences for biodiversity, food systems, and coastal resilience. Yet ocean impact assessments often emphasize summer, creating a seasonal bias that can underrepresent the year-round consequences of marine heat extremes. In 2023–2024, ocean surface warming exceeded 1.0°C above pre-industrial levels, coinciding with year-round marine heat extremes across much of the ocean. Here, we provide a rapid global assessment of marine impacts during this exceptional year. We show that summer impacts were frequent and severe, but 29% of non-tropical impacts occurred in cooler seasons. Events involving compound hazards occurred across seasons, though their timing varied by hazard type. Summer assessments alone are therefore insufficient to capture when, where, and how ocean heat threatens marine ecosystems. Rapid, year-round assessments are needed to understand how anomalous heat affects marine ecosystems and dependent societies, while informing preparedness plans for inevitable future extremes.",
+      "keywords": [
+        "Marine ecosystem",
+        "Climate change",
+        "Marine life",
+        "Global warming",
+        "Marine debris",
+        "Effects of global warming on oceans",
+        "Sea surface temperature",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101749",
@@ -6047,7 +6093,7 @@
         10
       ],
       "link": "https://www.nature.com/articles/s41558-026-02610-3",
-      "abstract": "Global average sea level has risen this much since 2011 2 .This is roughly the equivalent of the height of an AA battery.",
+      "abstract": "This month, Nature Climate Change turns 15 years old. In this infographic we show some of the ways the world has changed since we started.",
       "keywords": []
     },
     {
