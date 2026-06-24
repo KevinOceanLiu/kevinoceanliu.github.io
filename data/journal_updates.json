@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T22:38:02.600145+00:00",
+  "generated_at": "2026-06-24T22:40:10.560507+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115545",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115545",
-      "title": "DeepGrass: A transformer-based approach for enhanced grassland management through Sentinel-2 time series spectral signature and vegetation indices forecasting",
+      "doi": "10.1016/j.rse.2026.115536",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115536",
+      "title": "Super-resolved canopy height mapping from Sentinel-2 time series using airborne LiDAR HD reference data across metropolitan France",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,31 +38,14 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003159",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003068",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.rse.2026.115538",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115538",
-      "title": "A spaceborne lidar guided TanDEM-X InSAR phase height histogram approach for robust ground elevation and canopy height mapping considering canopy penetration capability",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003081",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.025",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.025",
-      "title": "WaveUNet: An efficient deep network based on discrete wavelet transform and attention mechanism for InSAR phase unwrapping",
+      "doi": "10.1016/j.isprsjprs.2026.05.013",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.05.013",
+      "title": "Weakly supervised learning for snow cover segmentation in mountainous areas from Sentinel-1 SAR images using interpolated NDSI time series",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -72,9 +55,138 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600331X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002558",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.028",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.028",
+      "title": "SGMS-Fusion: Semantic guided multi-scale fusion towards accurate vehicle localization via ground-aerial cross-view matching",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003345",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2681726",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2681726",
+      "title": "Quantifying Wildfire Heavy-Dense Smoke’s Persistent Effects on PM <sub>2.5</sub> Speciation across U.S. Regions: Evidence from 2007 to 2023 Smoke Events",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681726",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2683548",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2683548",
+      "title": "Discovering the Temporal Evolution of Spatial Spillovers of Green Innovation: An Innovative Approach Using Dynamic Spatial-Temporal Weight Matrices",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2683548",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115545",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115545",
+      "title": "DeepGrass: A transformer-based approach for enhanced grassland management through Sentinel-2 time series spectral signature and vegetation indices forecasting",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003159",
+      "abstract": "",
+      "keywords": [
+        "Vegetation (pathology)",
+        "Time series",
+        "Spectral signature",
+        "Series (stratigraphy)",
+        "Normalized Difference Vegetation Index",
+        "Signature (topology)",
+        "Vegetation Index"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115538",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115538",
+      "title": "A spaceborne lidar guided TanDEM-X InSAR phase height histogram approach for robust ground elevation and canopy height mapping considering canopy penetration capability",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003081",
+      "abstract": "",
+      "keywords": [
+        "Interferometric synthetic aperture radar",
+        "Lidar",
+        "Elevation (ballistics)",
+        "Canopy",
+        "Synthetic aperture radar",
+        "Histogram",
+        "Digital elevation model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.025",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.025",
+      "title": "WaveUNet: An efficient deep network based on discrete wavelet transform and attention mechanism for InSAR phase unwrapping",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600331X",
+      "abstract": "",
+      "keywords": [
+        "Interferometric synthetic aperture radar",
+        "Phase unwrapping",
+        "Wavelet",
+        "Discrete wavelet transform",
+        "Mechanism (biology)",
+        "Synthetic aperture radar",
+        "Phase (matter)",
+        "Wavelet transform"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115543",
@@ -10315,30 +10427,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.038",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.038",
-      "title": "Predictability of Earth’s greenness",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-04",
-      "published_date_display": "2026-03-04",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000973",
-      "abstract": "",
-      "keywords": [
-        "Predictability",
-        "Vegetation (pathology)",
-        "Sustainability",
-        "Land cover",
-        "Latitude",
-        "Land use"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.035",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.035",
       "title": "Label-free mangrove mapping from temporally consistent PlanetScope imagery with interpretable deep unfolding network",
@@ -10434,33 +10522,6 @@
         "Reliability (semiconductor)",
         "Feature (linguistics)",
         "Encoding (memory)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.027",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.027",
-      "title": "Spatiotemporal CNN framework for quantifying crop-specific salinity damage in coastal agriculture",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000869",
-      "abstract": "Coastal delta agricultural systems are facing severe threats from saltwater intrusion (SWI), which further impacts global food security. However, how to accurately and timely assess the vulnerability of coastal agriculture to SWI at a regional scale remains challenging. Most existing methods rely on either manually-designed multi-index systems or the identification of severely salinized areas, resulting in high uncertainties and more granular crop-scale evaluations. Meanwhile, they remain inadequate for early-risk warning, as initial crop canopy obscures the underlying soil spectral signatures critical for early SWI detection. Critically, two unresolved issues persist regarding the effects of crop cover on SWI: the objective quantification of early-stage SWI impacts at the field scale under crop cover conditions, and the variation along with precise measurement of differential SWI responses across crop types. Taking the Po Delta in Italy as an example-a well-known hotspot affected by SWI but with unknown quantification, we proposed a crop damage probability assessment framework fully driven by machine learning and satellite imageries. Based on crop classification, a Convolutional Neural Network (CNN) was employed to quantify the probability of SWI effects. Furthermore, this method enables crop damage probability mapping during early-stage SWI upon each satellite revisit. This study presents the first application of CNN to generate crop-specific, monthly mappings of SWI impacts on coastal agriculture, addressing a critical gap in early and objective damage quantification. The results indicated that the CNN-based algorithm enabled quantitative risk assessment of crop damage from saltwater intrusion on a monthly scale. During the saltwater intrusion period (May-September), the CNN-based model achieved an identification accuracy of 82.4% to 92.5% in damaged agricultural areas based on known episodes of salinization, and the quantitative risk maps of crop damage can be used to reveal agricultural hotspots threatened by saltwater intrusion. Analysis of crop-specific damage probability showed that the highest risk occurs in June and July, followed by a gradual decline, with alfalfa in the Po River Delta experiencing the greatest risk. The proposed framework avoided subjective judgment while delivering crop-scale quantification of potential SWI effects on agricultural systems, serving as a preliminary tool for early detection of vulnerable areas and supporting timely management and mitigation strategies.",
-      "keywords": [
-        "Agriculture",
-        "Identification (biology)",
-        "Vulnerability (computing)",
-        "Saltwater intrusion",
-        "Crop",
-        "Scale (ratio)",
-        "Satellite",
-        "Salinity",
-        "Crop diversity"
       ]
     },
     {
@@ -13273,32 +13334,6 @@
         "High resolution",
         "Mean squared error",
         "Root mean square"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115162",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115162",
-      "title": "RayExtract: A fast, scalable method for tree volume reconstruction from terrestrial laser scanning",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-05",
-      "published_date_display": "2025-12-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005668",
-      "abstract": "Accurate tree volume and structure are crucial for forest biomass estimation and ecosystem investigations. While terrestrial laser scanning (TLS) offers non-destructive pathways for the detailed three-dimensional tree reconstruction, current methods overestimate small branch volumes and often require tree segmentation and leaf–wood separation as a priori. This study introduces and validates RayExtract, a novel method for reconstructing woody volume from TLS data, utilising tools from the RayCloudTools library, to automate the extraction of tree structural metrics from point clouds. Our method incorporates two key morphological rules — Self-Similarity and Leonardo’s Rule — to aid branch radius and taper calculations. Likewise, it enables rapid and automated plot-scale reconstruction by integrating tree segmentation and woody structure modelling without requiring leaf point classification. In this study, RayExtract demonstrated high accuracy across four high-quality destructive harvest reference sets with concordance correlation coefficient (CCC) values ranging from 0.82 to 0.97 (n=124). To explore algorithm behaviours under different leaf conditions and point densities, we implement a framework using TLS simulation of highly realistic synthetic trees. Results from the simulation framework show consistent high accuracy of total woody volume, with CCC ranging from 0.97 to 0.98 (n=18) across four distinct scanning configurations. Fine-scale volumetric analysis revealed that incorporating simple morphological rules can effectively inform branch taper and reduce woody volume overestimation, particularly in smaller components. Furthermore, it identifies a limitation in volumetric accuracy in trees exhibiting significant taper in the lower stem. Analysis of RayExtract’s computational efficiency demonstrates that runtime and memory usage scale predictably with input data size, primarily driven by point count and the associated structural complexity within the point cloud, positioning the algorithm as well suited for large-scale applications. RayExtract represents a significant advancement in forest reconstruction, biomass estimation, and vegetation structural analysis. The method’s efficiency, accuracy, and robustness across varied forest conditions mark a substantial improvement in forest structural assessment techniques using laser scanning and have broad implications for improving regional biomass estimations, and contributing to the calibration and validation of broad-scale remote sensing observations.",
-      "keywords": [
-        "Ranging",
-        "Tree (set theory)",
-        "Laser scanning",
-        "Volume (thermodynamics)",
-        "Segmentation",
-        "Point cloud",
-        "Scalability",
-        "Lidar"
       ]
     },
     {
