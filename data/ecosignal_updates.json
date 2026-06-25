@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T23:48:59.663287+00:00",
+  "generated_at": "2026-06-25T23:57:53.223118+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -260,6 +260,96 @@
       ]
     },
     {
+      "doi": "10.1038/s41559-026-03135-w",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03135-w",
+      "title": "Bacterial genes rescue starving giants",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03135-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70457",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70457",
+      "title": "Effective fine‐scale drone monitoring of wild Asian elephants for conflict mitigation and ecological research",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70457",
+      "abstract": "Abstract Obtaining high‐resolution spatiotemporal data on animal behaviour is critical for both ecological research and conflict mitigation, yet it remains difficult for large species in dense habitats. In May–June 2021, a herd of 17 wild Asian elephants ( Elephas maximus ) entered and remained at the Xishuangbanna Tropical Botanical Garden, a popular tourist destination and research facility in south‐western Yunnan, China. We took advantage of this rare and unforeseen incursion to test the effectiveness of small unmanned aerial vehicles (or drones) equipped with infrared cameras for monitoring wildlife at high spatiotemporal resolution in tropical forests near human activity. To monitor the elephants during this sensitive period, we aimed to locate the elephants and record their behaviours on an hourly basis over 20 days. Our drone‐based monitoring achieved a 62.7% success rate in locating elephants, with detection rates peaking at night (~95% at midnight). Generalized linear models showed that detection declined with rising temperature, rainfall and solar radiation, but improved with higher humidity and visibility. Elephants spent 45.9% of their time feeding, 27.2% resting, 19.9% moving and 7% drinking. Step‐selection functions revealed a strong preference for habitats near water sources and on gentle slopes, while canopy structure had negligible effects. Synthesis and applications : Our results demonstrate that drone‐based monitoring can feasibly track large mammals in complex field environments while providing quantitative benchmarks for elephant behaviour under real‐world conditions. In turn, these findings underscore the potential of drone technology to enhance wildlife monitoring and support effective human–elephant conflict management. Specifically, we recommend prioritizing night flights when detection probability peaks, taking advantage of short clear‐weather windows, avoiding periods of heavy rain and intense solar radiation, and concentrating search efforts along riparian corridors and gentle slopes where elephants are most likely to occur.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70423",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70423",
+      "title": "Cover Picture and Issue Information",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70423",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70971",
+      "doi_url": "https://doi.org/10.1111/gcb.70971",
+      "title": "Prioritizing Conservation of Trailing‐Edge Populations for Future Climate‐Resilient Forests",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70971",
+      "abstract": "ABSTRACT Trailing edge tree populations, located at the warm or dry margins of species' ranges, often harbor unique genetic adaptations to marginal environments. These populations face heightened risks from climate change, potentially threatening the persistence of valuable adaptive traits. Here we identify trailing‐edge populations for the 100 most common North American tree species using spatially explicit climate and forest inventory data, and prioritize conservation actions based on projected forest cover loss, climate velocity, and species richness. Assisted migration initiatives for these populations could safeguard the long‐term persistence of their adaptive traits, ensuring that valuable genotypes are maintained within future forest ecosystems. Trailing‐edge populations were geographically concentrated in the Appalachian region, the Midwest, and southern boreal forests. Areas bordering the central plains faced the highest projected forest cover loss and climate velocity, while the Great Lakes basin and eastern Canada emerged as promising recipient regions. Our findings support targeted conservation and assisted migration strategies to maintain genetic diversity and enhance forest resilience under future climates, facilitated by an online tool for climate‐informed seed collection and planning ( https://tinyurl.com/past‐nam ).",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70417",
+      "doi_url": "https://doi.org/10.1111/ele.70417",
+      "title": "Plants That Evolved Under High Phylogenetic Diversity Have Higher Invasion Success, Particularly in Undisturbed Communities",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70417",
+      "abstract": "ABSTRACT The evolutionary imbalance hypothesis predicts that species from ecologically stable regions of high genetic potential and intense competition are more likely to be invasive, while regions with the opposite characteristics are more likely to be invasible. Relative phylogenetic diversity (PD) of species' indigenous ranges could indicate evolutionary imbalance and help identify high‐risk invaders and vulnerable communities. We tested this with three seed addition experiments where 166 species of varying origins were sown into disturbed and undisturbed grassland plots. Species with high relative indigenous‐PD had high colonisation and first‐year survival regardless of disturbance, whereas species with low relative indigenous‐PD only colonised disturbed communities and at a lower rate. Species' indigenous‐PD did not appear to affect second‐year survival. Although long‐term outcomes are unknown, evidence suggests that species with high relative indigenous‐PD pose a high invasion risk, even to intact communities. Regional PD could help indicate species invasiveness and community invasibility, informing biosecurity.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03133-y",
       "doi_url": "https://doi.org/10.1038/s41559-026-03133-y",
       "title": "Supergenes shape ant societies",
@@ -275,7 +365,12 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03133-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Formicoidea",
+        "Ant colony",
+        "Aloe vera",
+        "Natural (archaeology)"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03106-1",
@@ -293,7 +388,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03106-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Drainage basin",
+        "Aquatic biodiversity research",
+        "Phylogenetic diversity",
+        "Global biodiversity",
+        "Environmental DNA",
+        "Measurement of biodiversity",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1111/gcb.70965",
@@ -311,7 +415,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70965",
       "abstract": "ABSTRACT Urbanization is rapidly expanding along the world's coasts, transforming natural ecosystems into increasingly uniform artificial environments. Yet, the patterns and processes shaping marine biodiversity under urban pressure remain poorly understood. We investigated whether coastal urbanization drives marine communities toward greater similarity, a process well documented in terrestrial and freshwater systems as urban biotic homogenization but rarely examined in the sea. We analyzed fish communities using 222 seawater environmental DNA samples collected across Mediterranean seaports and less urbanized coastal sites. Seaports exhibited higher local species richness than less urbanized sites, yet their communities were markedly more similar to one another, revealing a local‐regional decoupling paradox in which gains in local diversity coincided with biotic homogenization at the regional scale. This pattern emerged in the absence of non‐indigenous species, which are commonly invoked as main drivers of homogenization. Instead, homogenization was primarily driven by increased occupancy (i.e., the proportion of sites occupied) of disturbance‐tolerant native taxa, half of which showed occupancy levels approximately 2.6 times higher in seaports than elsewhere. Biotic homogenization was evident at both taxonomic and phylogenetic levels, indicating that disturbance‐tolerant taxa are phylogenetically clustered. Overall, urban pressure emerged as the dominant driver of community similarity, exceeding spatial and environmental predictors. Together, these results show that coastal urbanization emerges as a fundamental and underappreciated driver of marine biodiversity reorganization.",
-      "keywords": []
+      "keywords": [
+        "Urbanization",
+        "Biodiversity",
+        "Homogenization (climate)",
+        "Species richness",
+        "Ecosystem",
+        "Marine ecosystem",
+        "Mediterranean climate",
+        "Occupancy",
+        "Habitat",
+        "Mediterranean sea"
+      ]
     },
     {
       "doi": "10.1111/ele.70424",
@@ -365,7 +480,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70437",
       "abstract": "ABSTRACT Biological communities follow a remarkably consistent negative relationship between individual mass (M) and abundance (N), represented by a power law ( N ~ M λ ). The parameter λ denotes the rate of decline in relative abundance from small to large individuals and serves as a proxy for energy transfer efficiency in food webs. Although warming is expected to affect λ, its influence remains uncertain, possibly due to interactions with resource supply. Using ~670,000 individual body sizes from stream food webs, we tested how temperature and resources shape λ. Temperature effects depended on resource supply (gross primary production [GPP] and organic matter standing stock [OM]) but contradicted expectations that λ becomes more negative with warming. At medium and high resources, λ becomes less negative under warming while no change occurred at low resources. Variation in OM, not GPP, drove these patterns, highlighting the role of external energy inputs and challenging the idea that large organisms are rarer at higher temperatures.",
-      "keywords": []
+      "keywords": [
+        "Stock (firearms)",
+        "Climate change",
+        "Resource (disambiguation)",
+        "Global warming",
+        "Abundance (ecology)",
+        "Ecosystem",
+        "Food supply",
+        "Environmental change",
+        "Relative species abundance"
+      ]
     },
     {
       "doi": "10.1111/ele.70434",
@@ -383,7 +508,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70434",
       "abstract": "ABSTRACT Impacts of environmental change on ecosystems are seemingly highly context‐dependent and contingent on details. Here, we provide mathematical and numerical evidence that there is some generality to the resistance of food webs to species loss. To this end, we mathematically analyse simple food web models, run simulations with randomly wired food webs, develop a spatially explicit meta‐community model for realistic macroinvertebrate communities inhabiting European streams, and analyse field data. These approaches jointly support three general rules for food web resistance: (1) all else equal, predators are more vulnerable than prey, and predator diversity declines before prey diversity; (2) food webs with higher prey diversity tend to be less resistant to environmental change; and (3) food web resistance decreases with the mean taxon tolerance and reaches a maximum at an optimal ratio of predator to prey tolerance. Our findings elucidate characteristics that make food webs vulnerable, fostering more effective conservation practices.",
-      "keywords": []
+      "keywords": [
+        "Food web",
+        "Predation",
+        "Resistance (ecology)",
+        "Generality",
+        "Predator",
+        "Apex predator",
+        "Environmental change",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/ele.70425",
@@ -401,7 +535,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70425",
       "abstract": "ABSTRACT Niche overlap (NO) is a cornerstone of coexistence theory, summarising the strength of competitive coupling among species. Yet NO collapses distinct mechanisms into a single value and may miss key dynamical features. We quantify this limitation by examining temporal correlations in species abundances, a key out‐of‐equilibrium observable in microbial ecology. Using a MacArthur‐type consumer‐resource model, we show that communities with identical NO can display opposite dynamical patterns. Within the resource‐mediated fluctuation regime studied here, a yield‐depletion mismatch (YDM)—the difference between depletion and yield dissimilarities—consistently predicts the sign and magnitude of abundance correlations across analytical approximations, stochastic simulations, and a reanalysis of microbial time series. In contrast, growth‐rate correlations are governed by NO. More broadly, our results show that dynamical observables can depend on mechanistic details beyond those summarised by niche overlap.",
-      "keywords": []
+      "keywords": [
+        "Niche",
+        "Observable",
+        "Sign (mathematics)",
+        "Key (lock)",
+        "Abundance (ecology)",
+        "Niche construction",
+        "Magnitude (astronomy)",
+        "Ecological niche"
+      ]
     },
     {
       "doi": "10.1111/ele.70427",
@@ -419,7 +562,12 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70427",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Applied ecology",
+        "Environmental research",
+        "Research methodology",
+        "Research program"
+      ]
     },
     {
       "doi": "10.1111/ele.70435",
@@ -437,7 +585,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70435",
       "abstract": "ABSTRACT When and how much plants grow under environmental constraints are fundamental questions in biology and increasingly important for predicting biomass production and carbon sequestration under climate change. While temperature and water availability directly regulate plant growth, the timing and rate of growth are also shaped by internal developmental programming, though this is rarely considered in predictions of tree growth responses to future climates. Here, we revisit a concept central to this internal programming—(in)determinacy. Focusing on woody plants, we define it as the extent to which annual shoot growth is deployed from preformed organs versus produced de novo during the current season. We argue that this trait is best understood as a continuum and that it can help explain contrasting growth responses in a changing climate. More determinate species concentrate growth within a narrow seasonal window, which may reduce exposure to late‐season stress but also limit their ability to exploit longer growing seasons. More indeterminate species retain greater flexibility to extend or resume growth when conditions remain favourable, which may be advantageous under climate change, but this same flexibility may also increase exposure to frost, drought and incomplete tissue maturation. Because primary shoot growth also shapes canopy development and is linked to other growth processes, variation in (in)determinacy could help explain broader differences in whole‐plant performance, carbon gain and species responses to climate change.",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Biomass (ecology)",
+        "Flexibility (engineering)",
+        "Canopy",
+        "Indeterminate growth",
+        "Trait",
+        "Production (economics)",
+        "Exploit"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03114-1",
@@ -534,7 +691,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70452",
       "abstract": "Abstract Non‐native species threaten coral reefs by altering ecosystem structure and resilience, particularly on isolated tropical islands experiencing strong local and global stressors. In Hawaiʻi, native reef communities face cumulative impacts from the incursions of multiple non‐native fishes. We combined species distribution models and hotspot analyses to identify potential high‐risk areas where environmental conditions favour co‐occurrences of non‐native species under present and future scenarios. While predicted non‐native richness was similar across islands, sub‐island patterns were highly heterogeneous, with areas near ports and developed shorelines consistently exhibiting elevated co‐occurrence risk. Baseline hotspot analyses indicated that Oʻahu and Hawaiʻi Island host the majority of high‐risk areas, followed by Kauaʻi and Molokaʻi. Crucially, we identified three hotspot trajectories across time and emission scenarios: persisting hotspots remaining high‐risk (e.g. Pearl Harbour on Oʻahu; western Molokaʻi), emerging hotspots developing by mid‐ to late‐century (e.g. Poʻipū on Kauaʻi) and contracting hotspots disappearing under future ocean conditions (e.g. Kailua‐Kona on Hawaiʻi Island). These patterns demand differentiated management strategies: (i) early detection and rapid response (also including biosecurity measures) in emerging hotspots, (ii) a combined approach that encompasses removal, monitoring and targeted outreach when non‐native threats remain and (iii) habitat restoration or rehabilitation where invasion risk contracts. Synthesis and applications . By linking explicit hotspot projections to distinct management phases, this study provides a proactive framework for non‐native species control, transitioning from reactive eradication efforts to future‐oriented planning that optimizes managers' often limited resources. This predictive framework is readily adaptable to other tropical island ecosystems facing similar biological and environmental pressures.",
-      "keywords": []
+      "keywords": [
+        "Hotspot (geology)",
+        "Habitat",
+        "Species richness",
+        "Ecosystem",
+        "Biodiversity hotspot",
+        "Ecosystem services",
+        "Coral reef",
+        "Biosecurity",
+        "Reef",
+        "Invasive species"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70471",
@@ -552,7 +720,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70471",
       "abstract": "Abstract Forest restoration is rapidly transforming landscapes worldwide and is expected to restore associated ecosystem services. However, the complex trophic interactions that underpin forest ecosystem integrity remain poorly understood, especially where the reconfiguration or loss of core predators can trigger cascading top‐down effects, despite increasing emphasis on process‐based conservation. Using faecal DNA metabarcoding of 494 samples from 44 bird species, we reconstructed 2282 unique bird–arthropod trophic interactions. We compared network structure among plantations, secondary and primary forests, partitioned network dissimilarity into interaction rewiring and species turnover relative to primary forests, tested how species characteristics and rewiring probability shape species' role reconfiguration, and evaluated the functional robustness of avian top‐down control under characteristic‐driven extinctions. Plantations exhibited higher connectance than secondary forests, whereas nestedness and modularity did not differ among forest types. The network dissimilarity was primarily driven by interaction rewiring, which reshaped the network structure by lowering the connectance in plantations but increasing the modularity in secondary forests. Species' roles were differentially reconfigured between restored forests through contrasting mechanisms, with the effects of abundance dominating in plantations, whereas abundance together with the rewiring probability of morphologically large birds shaped core roles in secondary forests. The functional robustness of bird top‐down control on herbivorous insects was especially fragile to the simulated loss of abundant species in plantations, while the loss of morphologically large birds consistently weakened the robustness across all forest types. Synthesis and applications : As restoration increasingly reshapes terrestrial food webs, our findings highlight the importance of incorporating trophic roles that underpin avian ecosystem services such as top‐down control. Although forest restoration can rebuild trophic network structure, different restoration strategies reconfigure species' roles through distinct characteristic‐driven mechanisms, with asymmetric functional consequences. Restoration success should therefore be enhanced by emphasizing the protection of abundant and large birds, while prioritizing mixed vegetation structure and well‐connected forest patches to promote the persistence or recolonization of functionally important avian predators.",
-      "keywords": []
+      "keywords": [
+        "Nestedness",
+        "Trophic level",
+        "Ecological network",
+        "Trophic cascade",
+        "Ecosystem",
+        "Predation",
+        "Robustness (evolution)",
+        "Herbivore",
+        "Abundance (ecology)"
+      ]
     },
     {
       "doi": "10.1086/742754",
@@ -8037,7 +8215,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03036-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Germline",
+        "Gene",
+        "Somatic cell",
+        "Gene silencing",
+        "Mutation",
+        "Reverse genetics"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03079-1",
@@ -18559,30 +18744,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70772",
-      "doi_url": "https://doi.org/10.1111/gcb.70772",
-      "title": "Extreme, Cold‐Season Climatic Events Can Decimate Wildlife and Imperil Population Persistence",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-02-24",
-      "published_date_display": "2026-02-24",
-      "published_parts": [
-        2026,
-        2,
-        24
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70772",
-      "abstract": "The coalescent processes that define ecological systems, such as population dynamics, community structure, and species composition, can be fundamentally modified by environmental changes. These changes range from gradual, predictable gradations to extreme, stochastic events. Extreme climatic events are, by definition, rare and substantial environmental perturbations. However, under global climate change, they are becoming more frequent and severe (Ummenhofer and Meehl 2017). These phenomena occur in a wide array of ecological systems and take many forms (e.g., wildfires, floods, heat waves, hurricanes, ice storms). Despite the growing pervasiveness of extreme climatic events, their long-term ecological effects are poorly understood and remain a critical uncertainty when predicting vulnerability to climate change (Ummenhofer and Meehl 2017; Maxwell et al. 2019). Climate regions characterized by seasonal or perennial snow (i.e., Arctic, Subarctic, Continental, Temperate) are undergoing some of the planet's most drastic changes due to rapid, high-latitude warming. For example, climate change is altering the timing, frequency, and intensity of storm cycles and rain-on-snow events; the means, maxima, and minima of daily temperature and snowfall; and wind regime dynamics (Hansen et al. 2014; Ummenhofer and Meehl 2017; Maxwell et al. 2019). Resultant extreme climatic events are emerging as a potentially devastating source of mortality for wildlife experiencing snow and cold-weather processes, and multiple extreme climatic events in succession can compound one another to be especially disastrous. For example, in 2020, a sudden winter cold snap, following a malnutrition-inducing summer of severe drought and wildfires, resulted in a mass mortality event for hundreds of thousands of migratory passerines across the southwestern United States (Irannezhad et al. 2022). Extreme cold-weather events have proven similarly detrimental for ungulate populations. A record-breaking snow season in the western United States during the winter of 2022–2023 caused a 3.7-fold increase in mortality rates for pronghorn (Antilocapra americana) in Wyoming, USA (Aikens et al. 2025). Likewise, an extreme rain-on-snow event during the winter of 2011–2012 in Svalbard, Norway created extensive, thick ground-icing that precipitated widespread starvation of reindeer (Rangifer tarandus platyrhynchus) (Hansen et al. 2014). Finally, avalanches, which are powerful and destructive events in which snow abruptly releases and flows downslope (Eckert et al. 2024), have emerged as a significant source of mortality for mountain goats (Oreamnos americanus) in coastal Alaska, USA (White et al. 2024). Although recent research has illuminated many immediate effects of extreme climatic events on individual survival, knowledge of how stochastic conditions influence protracted demographic responses has proven more elusive (Maxwell et al. 2019), especially in snowy environments. Concurrent, long-term monitoring of both populations and environmental conditions is inherently challenging in many snow-covered regions because of their remoteness, harsh conditions, and possibly high topographic variability. The difficulty of quantifying snow properties in situ across space and time, especially in remote environments, impedes the ability to track historic trends, understand spatiotemporal variation in current conditions, or predict future snow patterns with confidence (Revuelto et al. 2025). Usually, ecologically relevant snow information covering the areas and time periods of interest at the ideal spatiotemporal resolution is simply not available. Similarly, extensive and detailed wildlife monitoring datasets that closely track many individuals and span generations require significant, sustained resource investment and are, therefore, rare. These shortcomings limit our capacity to gain new insights by mechanistically linking wildlife and cold-weather condition data (Reinking et al. 2022). Long-standing studies that contextualize stochastic, extreme climatic events within broader climate patterns, and relate these events to population dynamics, remain critical to adequately understand demographic responses and resilience to climate change. A new Research Article published by White et al. (2025) in Global Change Biology provides a quantitative modeling framework to evaluate how extreme climatic events influence population dynamics of a long-lived ungulate species occupying remote, snowy environments. White and colleagues paired a sex- and age-structured population model, based on a robust, 44-year mountain goat monitoring dataset, with cause-specific mortality information to simulate the effects of avalanche-related mortality on mountain goat population trajectories. Building upon initial findings of the surprisingly dominant role of avalanches in directly causing coastal Alaskan mountain goat deaths (White et al. 2024), likely through physical trauma during the slide or asphyxiation after burial under snow, White et al. (2025) evaluated how variability in observed rates of annual, avalanche-related mortality influenced population growth, viability, and recovery time. Across both short (2-year) and long (30-year) time scales, annual, avalanche-related mortality rates significantly influenced annual population growth. Mountain goat populations were estimated to increase moderately if no animals died in avalanches, increase only marginally under current, average avalanche mortality conditions (i.e., 7% of population killed by avalanches annually—considered compensatory mortality), and decline under severe avalanche mortality (i.e., 23% of population killed by avalanches annually—considered additive mortality). Under the most severe, annual, avalanche-caused mortality rate of 23%, estimated population recovery time was 11.2 years, or roughly 1.5 times one mountain goat generation. Under a slightly lower annual, avalanche-caused mortality rate of 19%, population recovery was estimated to require 7.2 years, or one mountain goat generation. This study's findings indicate that severe avalanche conditions, resulting in the highest observed annual mortality rates, are likely to produce significant population declines via additive mortality and require extensive population recovery times. Additional extreme climatic events, including non-avalanche disturbances, occurring within those recovery periods would further exacerbate the demographic impacts, jeopardizing long-term population persistence. Although climate change studies have primarily focused on shifting means of environmental conditions, or chronic, unidirectional change (e.g., steady temperature increase), there is mounting evidence that extreme climatic events may have greater potential to create significant, long-lasting consequences for ecological systems (Maxwell et al. 2019). White et al. (2025) utilized a rare, long-term, population-monitoring dataset to address questions about demographic consequences of such stochastic disturbances. These questions are uncommonly answered but increasingly pressing under current environmental change. A particularly salient component of this research is that many extreme climatic events, including avalanches, equally impact individuals with varying life history traits (e.g., age class, life stage, reproductive status), rather than disproportionately acting on the most vulnerable individuals within a population (White et al. 2024, 2025). Climate change is generally expected to increase the proportion of wet relative to dry avalanches (except at lower elevations, where snowpacks are typically declining), but information on future trends in avalanche frequency and magnitude remains sparse (Eckert et al. 2024). More avalanche activity could result in the precipitous decline of relatively small, isolated populations of species such as mountain goats or others inhabiting similar environments (e.g., Dall's sheep [Ovis dalli]). Such population losses have the potential to cause cascading effects on community and ecosystem dynamics, including plant biodiversity, predator–prey relationships, and nutrient cycling (Ummenhofer and Meehl 2017). More broadly, this research casts disturbing prospects for many different ecological systems and their inhabitant wildlife communities experiencing increasingly severe, stochastic weather and climate conditions. White et al. (2025) highlight the critical need for datasets that not only facilitate holistic, mechanistic understandings in rapidly changing systems and populations, but also allow their contextualization over broader spatial domains, historically and into the future. Because of the paucity of information regarding historic and current avalanche regimes, White et al. (2025) were unable to directly investigate how avalanche frequency and severity have changed through time in their study areas. Nor did they explore relative effects of different avalanche types (e.g., wet vs. dry, slab vs. point release, caused by new snowfall vs. wind-loading vs. recent melt) that could aid understanding of the precise conditions posing the greatest threat to mountain goats, or how the frequency and severity of those particular conditions might be changing (Eckert et al. 2024). Improved local assessments, long-term monitoring, and weather and snow models are required to better understand climate change impacts on avalanche conditions and the ecological outcomes of these disruptive events (Reinking et al. 2022; Eckert et al. 2024). Such information would enhance knowledge regarding how avalanche-mountain goat relationships have changed over time, and perhaps more critically, could facilitate quantitative prediction of their character into the future. Promising avenues to expand weather and snow data coverage, quality, and ecological relevance, such as the merging of point observations, remote sensing, and modeling tools (i.e., “data-model fusion”) to produce spatiotemporally continuous weather and snow data, are a burgeoning area of interest (Reinking et al. 2022; Revuelto et al. 2025). Similar datasets and modeling systems across other climate regions are equally critical. For example, improved flood prediction tools or more comprehensive characterization of the range of possible temperatures in a system (accounting for extreme heat or cold waves) could elucidate exposure and sensitivity to these climatic events, two critical metrics in formal vulnerability assessments for species and communities of conservation concern (Maxwell et al. 2019). With such information in-hand, the opportunities for groundbreaking research and novel insights into extreme climatic events and their demographic ramifications for wildlife are multiplied. The recent work of White and colleagues exemplifies the power of robust, long-term datasets for advancing our understanding of population vulnerability in the face of global climate change and presents a framework for analyzing these relationships, when and where the required supporting data exist. Adele K. Reinking: supervision, project administration, conceptualization, writing – review and editing, funding acquisition. Katherine B. Gura: writing – original draft preparation, writing – review and editing, funding acquisition. We thank Drs. Kelly Elder, Glen Liston, and George Wittemyer for their thoughtful review and excellent insights, which improved this commentary tremendously. We are also grateful to Heather Thamm for sharing her extensive avalanche expertise, which was equally critical for this effort. This commentary was written with financial support from National Science Foundation Award #2402348. This work was supported by the National Science Foundation, 2402348. The authors declare no conflicts of interest. The authors have nothing to report.",
-      "keywords": [
-        "Wildlife",
-        "Population",
-        "Wildlife management",
-        "Wildlife conservation",
-        "Waterfowl"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-026-02993-8",
       "doi_url": "https://doi.org/10.1038/s41559-026-02993-8",
       "title": "Comparative analysis of deep mutational scanning datasets in enteroviruses A and B identifies functional divergence and therapeutic targets",
@@ -19736,7 +19897,7 @@
     {
       "doi": "10.1086/740888",
       "doi_url": "https://doi.org/10.1086/740888",
-      "title": "Interactions between mechanisms of reproductive isolation",
+      "title": "Interactions between Mechanisms of Reproductive Isolation",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -22737,33 +22898,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70254",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70254",
-      "title": "Room for optimism: Editor–reviewer interaction networks reveal positive outcomes of enhanced board diversity",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-17",
-      "published_date_display": "2026-01-17",
-      "published_parts": [
-        2026,
-        1,
-        17
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70254",
-      "abstract": "Abstract Scientific publishing has been historically dominated by a limited number of countries and demographics. Here we examine whether diversification of the editorial board of Journal of Applied Ecology propagates to its reviewer community. Using data from 2004, 2014 and 2024, we constructed tripartite networks linking senior editors, associate editors and reviewers and quantified gender ratios, geographic diversity and network modularity. We also fitted generalized linear mixed models to test whether associate editors preferentially invited reviewers of the same gender or region and whether these patterns changed over time. As associate editors became more gender‐balanced and geographically diverse, reviewer diversity increased: the reviewer gender ratio (number of men divided by number of women) halved, the number of countries represented rose from 33 to 52, and the Simpson's index for geographic diversity increased from 0.60 to 0.75. Network modularity and the number of smaller modules increased, indicating a more segmented and specialized editor–reviewer structure. Men editors showed a declining tendency to invite men reviewers, while women increasingly invited women; only Western European editors showed significant regional homophily, although effect sizes were small. Overall, increased diversity among associate editors was associated with a more globally representative, structurally complex reviewer network. Synthesis and applications . Our results show that editorial diversification is a practical lever for making peer review more inclusive and better aligned with the global distribution of ecological research. These changes make the publication process fairer and improve the quality and global impact of the papers published.",
-      "keywords": [
-        "Diversity (politics)",
-        "Diversification (marketing strategy)",
-        "Publishing",
-        "Editorial board",
-        "Gender diversity",
-        "Peer review",
-        "Modularity (biology)",
-        "Diversity index"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-026-02975-w",
       "doi_url": "https://doi.org/10.1038/s41559-026-02975-w",
       "title": "Related microorganisms occupy similar ecological communities",
@@ -23060,32 +23194,6 @@
         "Noxious weed",
         "Field (mathematics)",
         "Introduced species"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70273",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70273",
-      "title": "Beyond urban introduction hubs: Accounting for rural legacies in plant invasions",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-14",
-      "published_date_display": "2026-01-14",
-      "published_parts": [
-        2026,
-        1,
-        14
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70273",
-      "abstract": "Abstract Plant invasions are a growing threat to biodiversity, and effective prevention depends on identifying their underlying drivers. Urban areas are often assumed to be the main sources of non‐native plant introductions and spread, prompting conservation policies that restrict their use in cities to prevent escape into surrounding landscapes. However, the mechanisms driving spread across the urban–rural gradient remain poorly understood. Historical analysis of urban ornamentals that have become widespread invasive species—such as Ailanthus altissima —shows that many invasions attributed to urban escape can originate, at least in part, from rural sources. Plantings for beautification, landscaping, erosion control, timber production and other purposes can substantially increase propagule pressure in rural settings, a key determinant of invasion risk. Spread from such deliberate rural introductions can mimic or reinforce urban‐driven invasions, and may precede them. However, most invasion models estimate propagule pressure indirectly using urban‐based proxies, such as distance from cities. This urban‐centred approach systematically overlooks rural legacy sources, introducing bias into model outputs, inflating perceived spread rates and overstating the role of cities as invasion foci. The ‘Diffuse Legacy Source Model’, established here for deliberately planted species, integrates spatially distributed and historically layered planting data—both urban and rural—into invasion analyses, enabling more accurate attribution of introduction pathways and improving predictive performance. Combining ecological data with cultural‐historical research and other social science perspectives provides a comprehensive basis for evaluating the legacies of past introductions. Synthesis and applications . Addressing both urban and rural planting legacies in invasion models advances understanding of spread dynamics across landscapes. A transdisciplinary approach that links ecological methods with cultural‐historical perspectives is essential for accessing, interpreting and incorporating historical data into predictive tools. Broadening the analytical lens beyond urban sources will enable more spatially informed and historically grounded strategies, improving resource allocation for prevention, targeted management and sustainable use of non‐native plants in both urban and rural contexts.",
-      "keywords": [
-        "Propagule pressure",
-        "Propagule",
-        "Invasive species",
-        "Introduced species",
-        "Rural area",
-        "Biodiversity",
-        "Urban ecology"
       ]
     },
     {
