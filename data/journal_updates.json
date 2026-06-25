@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:40:10.560507+00:00",
+  "generated_at": "2026-06-25T22:44:52.309444+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115536",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115536",
-      "title": "Super-resolved canopy height mapping from Sentinel-2 time series using airborne LiDAR HD reference data across metropolitan France",
+      "doi": "10.1016/j.rse.2026.115541",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115541",
+      "title": "The first map of planted mangrove forests in China derived from time-series Landsat and Google Satellite Embeddings",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,123 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003068",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003111",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.022",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.022",
+      "title": "MASt3R-Fusion: Integrating feed-forward visual model with IMU, GNSS for high-functionality SLAM",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600328X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.029",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.029",
+      "title": "Allroad-SLAM: Factor graph-based 3D reconstruction in diverse road scenarios with a consumer-grade GNSS-LiDAR-inertial system",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003357",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.023",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.023",
+      "title": "A transfer learning-based contourlet residual-driven terrain-aware method for Arctic seafloor DEM super-resolution",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003291",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2693888",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2693888",
+      "title": "GCMCNN: a geographically conditioned multiscale convolutional neural network for downscaling land surface temperature",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2693888",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2681736",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2681736",
+      "title": "Brokered by Place: How Spatial Capital Shapes Companionship and Care in Later Life",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681736",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115536",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115536",
+      "title": "Super-resolved canopy height mapping from Sentinel-2 time series using airborne LiDAR HD reference data across metropolitan France",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003068",
+      "abstract": "Fine-scale forest monitoring is essential for understanding canopy structure and its dynamics, which are key indicators of carbon stocks, biodiversity, and forest health. Deep learning is particularly effective for this task, as it integrates spectral, temporal, and spatial signals that jointly reflect the canopy structure. To address this need, we introduce THREASURE-Net, a novel end-to-end framework for Tree Height REgression And SUper-REsolution. The model is trained on Sentinel-2 time series using reference height metrics derived from LiDAR HD data at multiple spatial resolutions over Metropolitan France to produce annual height maps. We evaluate three model variants, producing tree-height predictions at 10 m, 5 m, and 2.5 m resolution. THREASURE-Net does not rely on any pretrained model, nor on reference very high resolution optical imagery to train its super-resolution module; instead, it learns solely from LiDAR-derived height information. Our approach outperforms existing state-of-the-art methods based on Sentinel data and is competitive with methods based on very high resolution imagery. It can be deployed to generate high-precision annual canopy-height maps, achieving mean absolute errors of 2.63 m, 2.70 m, and 2.89 m at 10 m, 5 m, and 2.5 m resolution, respectively. These results highlight the potential of THREASURE-Net for scalable and cost-effective structural monitoring of temperate forests using only freely available satellite data. The source code for THREASURE-Net is available at: https://github.com/Global-Earth-Observation/threasure-net .",
+      "keywords": [
+        "Lidar",
+        "Reference data",
+        "Canopy",
+        "Satellite",
+        "Tree canopy",
+        "Temporal resolution",
+        "Key (lock)",
+        "Series (stratigraphy)",
+        "Image resolution"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.05.013",
@@ -49,15 +163,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626002558",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Snow cover plays a fundamental role in climate regulation and hydrological processes. Existing snow products are mainly based on optical imagery. Yet, snow monitoring remains challenging in mountainous regions due to frequent cloud cover. Synthetic Aperture Radar (SAR) imagery, unaffected by clouds, enables regular wet snow observations. However dry snow remains mostly transparent to SAR. In this study, we propose a fully automated framework that uses optical-derived labels to train a SAR-based model, combining the ability of optical sensors to detect snow with the cloud-penetrating capability of SAR. At inference time, our method only requires SAR images to predict snow maps, encompassing wet and dry snow. A convolutional neural network is trained to predict a binary snow cover map from a Sentinel-1 Single Look Complex (SLC) dual-pol amplitude image and a snow-free reference image. We generate binary training labels from thresholded MODIS Normalized Difference Snow Index (NDSI). Our model is trained in a weakly supervised manner by filling the cloud-induced gaps via temporal interpolation to generate pseudo-labels from sparse observations. We first evaluate the influence of the input SAR channels configuration and show that concatenating the acquisition of the day with the reference image is preferable to more complex preprocessing. Then, we compare the Closest Neighbours Interpolation and the Kalman smoother to fill the cloud-induced gaps in the MODIS NDSI time series. We show that increasing the level of supervision improves the model performance. By removing all the gaps and the noise in the NDSI time series, the Kalman smoother yields the best model performance. However the regularization strength of the Kalman smoother is shown to be critical. To validate our method, we compare it to existing snow products. By comparing with the THEIA L2B Snow product, we show that our method gives comparable results to Sentinel-2 based snow cover maps. The comparison with the Copernicus Wet/Dry Snow product shows that our model can detect both wet and dry snow solely from Sentinel-1 dual-pol amplitude images. Overall, this study highlights how the snow detection capabilities of optical sensor can be transferred to SAR images thanks to a deep learning framework, to ensure a robust monitoring of snow in cloud-prone alpine regions.",
+      "keywords": [
+        "Snow",
+        "Interpolation (computer graphics)",
+        "Synthetic aperture radar",
+        "Convolutional neural network",
+        "Segmentation",
+        "Land cover",
+        "Inference",
+        "Deep learning",
+        "Pixel"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.028",
@@ -66,15 +190,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003345",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Segmentation",
+        "Matching (statistics)",
+        "Global Positioning System",
+        "Feature (linguistics)",
+        "Reliability (semiconductor)",
+        "Feature matching",
+        "Aerial image",
+        "Sensor fusion",
+        "Code (set theory)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2681726",
@@ -91,8 +225,17 @@
         24
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681726",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Wildfire smoke substantially degrades air quality by increasing total PM2.5 concentrations and altering their chemical speciation. Although existing research has documented PM2.5 during active fires, the spatiotemporal persistence of these pollutants across U.S. regions remains insufficiently quantified. Leveraging quasi-experimental variation arising from 2007 to 2023 wildfire smoke events, we employ difference-in-differences (DID) and event study approaches to estimate the causal effects on both PM2.5 concentrations and their chemical speciation, while assessing their duration. Our analysis reveals that smoke events increase PM2.5 concentrations by 35 percent nationally, with pronounced regional heterogeneity: Western states experience the most severe impacts (+50 percent persisting for three days), whereas northeastern and southern regions exhibit weaker and shorter lived effects. Chemical speciation analysis reveals distinct temporal dynamics: Heavy metals (chromium, manganese) and inorganic compounds exhibit transient spikes (one day), whereas lead, vanadium, and organic carbon remain elevated for three days. Our findings underscore the urgent need to integrate chemical speciation into air quality monitoring systems to better assess composition-specific health risks under climate-driven intensification of wildfires.",
+      "keywords": [
+        "Smoke",
+        "Air quality index",
+        "Genetic algorithm",
+        "Pollutant",
+        "Chemical transport model",
+        "Air pollution",
+        "Aerosol",
+        "Human health"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2683548",
@@ -109,8 +252,18 @@
         24
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2683548",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Understanding how spatial spillovers evolve over time—strengthening, weakening, or reversing—is a fundamental challenge in spatial econometrics, yet most empirical studies rely on static weight matrices that assume time-invariant spatial dependence. This article proposes a broadly applicable spatial-temporal weight matrix (STWM) framework in which temporal weights are derived from annual ratios of Moran’s I and Geary’s C, enabling the matrix to incorporate year-to-year changes in spatial autocorrelation without imposing ad hoc decay assumptions. The temporal and geographic-economic weight structures are integrated via the Kronecker product, and the resulting STWMs are formally shown to satisfy all admissibility conditions for spatial econometric estimation. Exogeneity is confirmed through Hausman tests, and Granger causality tests; finite-sample reliability is validated via Monte Carlo simulation. Applying the framework to green innovation across 276 Chinese cities from 2008 to 2021 reveals strong positive spillovers at the national level alongside substantial spatiotemporal heterogeneity: The Yangtze River Delta has entered the interactive stage, Beijing–Tianjin–Hebei is transitioning from polarization toward diffusion, and the Greater Bay Area, Chengdu–Chongqing, and the Yangtze River Middle Reaches remain in polarization or stalled transitions. A structural break in 2017 further documents a regime shift from intercity competition to nascent regional synergy in green innovation. The STWM methodology and all associated estimation and validation tools are released as an open-source Python package, providing researchers across disciplines with a replicable and theoretically grounded instrument for analyzing dynamic spatial dependence in any panel setting.",
+      "keywords": [
+        "Spatial econometrics",
+        "Endogeneity",
+        "Spatial analysis",
+        "Monte Carlo method",
+        "Autocorrelation",
+        "Spatial dependence",
+        "Spatial heterogeneity",
+        "Panel data",
+        "Granger causality"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115545",
@@ -126,7 +279,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003159",
-      "abstract": "",
+      "abstract": "Grasslands are vital ecosystems that offer numerous ecological services, including water regulation, carbon storage, climate mitigation, and pollination. They support diverse flora and fauna, serving as essential habitats for many species, and are fundamental to livestock grazing, thereby contributing to food production and rural economies. Accurate forecasting of grassland productivity aids in setting appropriate stocking rates, ensuring sustainable grazing practices, and assists in planning for forage availability and water resources, enhancing overall management efficiency and environmental sustainability. In this study, we developed DeepGrass, an encoder-decoder transformer model designed to forecast all 10 Sentinel-2 spectral bands (SBs) and 28 vegetation indices (VIs) over the coming 15 days at field-level. The model was trained and validated using data from grasslands across Sweden, spanning three phenological seasons (2020−2022) for a total of 565,614 grassland fields, with additional inference testing on 2023 data (for a total of 87,738 grassland fields in Sweden and 44,764 in Finland) to simulate real-world and generalization applicability. DeepGrass achieved competitive results with respect to other state-of-the-art approaches, focused solely on NDVI forecasting, and demonstrated consistent results across all VIs and SBs, for example: NDVI with RMSE ranging from 0.028 ( t + 1 ) to 0.105 ( t + 15 ); NDMI with RMSE ranging from 0.038 ( t + 1 ) to 0.115 ( t + 15 ); Red band with RMSE ranging from 0.0075 ( t + 1 ) to 0.0205 ( t + 15 ); and NIR band with RMSE ranging from 0.028 ( t + 1 ) to 0.073 ( t + 15 ). Notably, VIs derived from forecasted SBs exhibited performance comparable to that of directly forecasted VIs. This finding implies that, in practice, all desired VIs can be computed a posteriori from the forecasted SBs without necessitating separate model retraining for each specific VI. Additionally, the model trained on field-average time series performed reasonably well on pixel-level data, suggesting computational efficiency without compromising accuracy. The availability of satellite observations in the input time series was crucial, especially for long-term forecasts, emphasizing the need to assess cloud coverage to evaluate model output reliability. This advanced forecasting approach provides a valuable tool for monitoring grassland dynamics. Accurate forecasting of SBs and VIs is vital for effective grassland management, enabling informed decisions for grazing, mowing, and conservation practices.",
       "keywords": [
         "Vegetation (pathology)",
         "Time series",
@@ -151,7 +304,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003081",
-      "abstract": "",
+      "abstract": "This paper presents a method to estimate ground elevation and forest height using spaceborne lidar data guided TanDEM-X Synthetic Aperture Radar (SAR) Interferometry (InSAR) with complete modeling analysis of canopy penetration capability. The InSAR phase height histogram is an efficient means for characterizing vertical forest structure by assigning each pixel of InSAR phase height to a specific height bin. Taking into account the penetration constraints of high-frequency spaceborne InSAR in dense forests, an extended modeling analysis of the statistical behavior of InSAR phase height histograms reveals one key insight: the standard deviation of the InSAR phase height histogram as a key radar-driven feature of forest vertical structure for both detecting penetration-limited regions in tall tropical forests and assisting ground finding. Leveraging this insight and integrating the spaceborne lidar samples for calibration, we develop an innovative processing workflow for the retrieval of ground elevation and forest height, which is designed to accommodate varying lidar sampling densities and penetration conditions using three strategies. Specifically, lidar-measured terrain elevation and the phase height histogram’s standard deviation is utilized to identify penetration-limited regions and then guide ground finding process. In areas with penetration limitations, forest height is more accurately estimated by directly extracting a lidar-like relative height metric from the histogram, while in full-penetration areas, forest height is retrieved using the Random Volume over Ground (RVoG) model. The theoretical modeling analysis and processing framework were validated across three representative sites (i.e., Tapajós, Howland, and Lopé forests) under different climate and penetration conditions. Across these sites, ground elevation was best estimated with accuracies of 3.16 m, 2.32 m, and 7.37 m, and the forest height was best inverted with RMSEs of 4.52 m, 3.56 m, and 7.17 m at one-hectare pixel size. This study presents a lightweight method for retrieving forest biophysical parameters from single-baseline, single-polarization X-band InSAR data. The developed model and approach also show promise for enhancing biophysical parameter retrieval in tropical regions using X-band InSAR data and for improving the BIOMASS mission’s coarsely gridded biophysical products through integrating fine-scale information, provided penetration biases are corrected with BIOMASS Digital Terrain Model (DTM) products.",
       "keywords": [
         "Interferometric synthetic aperture radar",
         "Lidar",
@@ -10605,34 +10758,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.030",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.030",
-      "title": "Towards automated laser triangulation with stereo and planar constraints in refractive environments",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-02",
-      "published_date_display": "2026-03-02",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000894",
-      "abstract": "This paper presents two automated correspondence-search algorithms for stereo laser triangulation in multimedia (refractive) environments, enforcing coplanarity through forward ray tracing without iterative back-projection. By shifting computations from image to object space, the methods directly minimize either the skew distance between refracted rays or the distance between their intersections with a laser plane, yielding strict refractive geometry within a single optimization loop. The methods are validated on an automated wood conservation monitoring system, where a stereo camera system with a line laser operates over a water-filled conservation tank. This application provides the environment for both algorithmic efficiency and accuracy requirements, demanding sub-millimeter precision over extended monitoring periods. Both algorithms reconstruct timber structures with high quality with the added planar constraint substantially reducing noise and edge outliers while slightly lowering point density. Water-surface estimation achieves plane-fit RMS of about 0.2 mm with a similar ground sample distance (GSD) and agrees with independent ruler measurements within 2 mm, enabling water-level monitoring over 14 epochs and cross-validation with calibration-derived plane parameters. Reference measurements on a 230 × 230 mm plane and three 50 mm spheres yield sub-millimeter residuals, with the plane constraint providing higher precision and fewer outliers. Finally, the computational efficiency is evaluated, showing favorable results for one of the algorithms compared to a standard procedure for correspondence search. Results demonstrate efficient, accurate, and transferable stereo laser triangulation through water and straightforward extensibility to multi-camera systems or non-perpendicular laser–water incidence angles. • Two novel correspondence search approaches for refractive stereo laser triangulation. • Application of the approaches on an automated wood conservation monitoring system. • Evaluation of the proposed approach against reference shapes. • Measurement of water planes with a stereo laser triangulation system. • Validation of water plane parameters with independent measurements.",
-      "keywords": [
-        "Triangulation",
-        "Point cloud",
-        "Laser",
-        "Laser scanning",
-        "Planar",
-        "Computation",
-        "Coplanarity",
-        "Skew",
-        "Line (geometry)",
-        "Noise (video)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.02.014",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.014",
       "title": "Global mapping of tidal wetlands and adjacent environments using tidal analysis and multi-source Earth observations",
@@ -11456,30 +11581,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.01.033",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.01.033",
-      "title": "Corrigendum to “SmartQSM: a novel quantitative structure model using sparse-convolution-based point cloud contraction for reconstruction and analysis of individual tree architecture” [ISPRS J. Photogramm. Remote Sens. 232 (2026), 712–739]",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-19",
-      "published_date_display": "2026-02-19",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000390",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Tree (set theory)",
-        "Contraction (grammar)",
-        "Cloud computing",
-        "k-d tree",
-        "Point (geometry)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115304",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115304",
       "title": "Assessment of the potential of sub-diurnal in situ C-band radar data for monitoring maize crop in semi-arid regions",
@@ -11702,33 +11803,6 @@
         "Ranging",
         "Pattern recognition (psychology)",
         "Data set"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.015",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.015",
-      "title": "RoofX-Net: A tailored approach to accurate multi-type rooftop segmentation in remote sensing images using edge and scale awareness",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-14",
-      "published_date_display": "2026-02-14",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000663",
-      "abstract": "",
-      "keywords": [
-        "Segmentation",
-        "Scale (ratio)",
-        "Software deployment",
-        "Photovoltaic system",
-        "Enhanced Data Rates for GSM Evolution",
-        "Key (lock)",
-        "Renewable energy",
-        "Image segmentation",
-        "Identification (biology)"
       ]
     },
     {
@@ -12755,30 +12829,6 @@
         "Government (linguistics)",
         "Field (mathematics)",
         "Capitalism"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115197",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115197",
-      "title": "Estimating the upper depth of subsurface water on the Greenland Ice Sheet using multi-frequency passive microwave remote sensing, radiative transfer modeling, and machine learning",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006017",
-      "abstract": "International audience",
-      "keywords": [
-        "Radiative transfer",
-        "Ice sheet",
-        "Greenland ice sheet",
-        "Atmospheric radiative transfer codes",
-        "Microwave",
-        "Subsurface flow"
       ]
     },
     {
