@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:52:58.376576+00:00",
+  "generated_at": "2026-06-25T23:02:49.456561+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,114 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02029-7",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02029-7",
+      "title": "Reply to: AMOC response to historical freshwater increase",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02029-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02028-8",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02028-8",
+      "title": "AMOC response to historical freshwater increase",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02028-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02664-3",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02664-3",
+      "title": "Multi-channel analysis suggests the UK faces large climate-related losses",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02664-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02686-x",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02686-x",
+      "title": "Multi-centennial response of marine carbon pumps to global warming",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02686-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02684-z",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02684-z",
+      "title": "Declining tropical sea surface temperature variability under post-2050s greenhouse warming",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02684-z",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02671-4",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02671-4",
+      "title": "Climate change is causing more local extinction of temperate species than tropical species",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02671-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01858-z",
       "doi_url": "https://doi.org/10.1038/s41893-026-01858-z",
       "title": "Resource consumption in global concrete production",
@@ -41,7 +149,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01858-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Resource (disambiguation)",
+        "Production (economics)",
+        "Energy consumption",
+        "Consumption (sociology)",
+        "Water resources",
+        "Resource productivity",
+        "Supply chain",
+        "Ecosystem",
+        "Water consumption"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01838-3",
@@ -59,7 +177,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01838-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Interdependence",
+        "Population",
+        "Global population",
+        "Sustainability",
+        "Globalization",
+        "Virtual water"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01871-2",
