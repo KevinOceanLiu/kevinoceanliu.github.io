@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T23:34:54.747372+00:00",
+  "generated_at": "2026-06-25T23:45:54.279966+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,20 +31,59 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102466",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102466",
-      "title": "UST-GNN: A unified spatial–topological graph neural network framework for urban analytics demonstrated through a case study on urban health prediction",
+      "doi": "10.1016/j.landurbplan.2026.105731",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105731",
+      "title": "Intensifying drought threatens the heat-regulating capacity of urban vegetation",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001556",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102483",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102483",
+      "title": "Rainfall reshapes intra-urban activity patterns: Multi-level insights from human mobility in China",
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
       "published_parts": [
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000682",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000852",
       "abstract": "",
+      "keywords": [
+        "China",
+        "Chine",
+        "Geographic mobility"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261454569",
+      "doi_url": "https://doi.org/10.1177/00420980261454569",
+      "title": "The unbearable resilience of Medellín: Violent recovery and contested representations of (post-)conflict",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        6,
+        24
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261454569",
+      "abstract": "This article critically examines the complex and ambiguous relationship between resilience and violence in the recovery of conflict-affected cities. Focusing on Medellín, Colombia’s second-largest city, it traces its transformation from a hotspot of intense urban conflict to a celebrated hub of tourism and innovation. Once labeled the world’s “murder capital,” Medellín has become a flagship for resilience initiatives, frequently lauded for its recovery from decades of violence. Yet beneath the celebrated narrative of the “Medellín Miracle,” extortion and forced displacement continue to permeate life in marginalized neighborhoods. Everyday violence challenges dominant accounts of postwar success and blurs the boundaries between wartime and the post-conflict period. To unpack these contested dynamics, the article advances a twofold framework—examining the resilience of violence and the violence of resilience —as a lens to rethink how urbanization and conflict mutually shape one another. By doing so, it demonstrates how recovery efforts, while promising stability and security, can also reproduce entrenched inequalities, consolidate marginalization, and generate new forms of victimization. By highlighting these tensions, the article contributes to broader debates on the politics of resilience, the afterlives of violence, and the uneven geographies of urban transformation in post-conflict settings.",
       "keywords": []
     },
     {
@@ -63,7 +102,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261453290",
       "abstract": "While thermal comfort and daylight exposure are subjective and context specific, and in some cases even counterpoised, we show how individual and communal efforts to reduce exposure (in the case of heat) or increase exposure (in the case of sunlight) center the elemental as a point of struggle for just urban living and citizenship. The two examples of Delhi and London that we present demonstrate how heat and daylight are encountered in the face of changing climate realities and top-down planning and housing development. With a focus on the asymmetrical vulnerabilities of exposure within thermal and luminous milieu, we contribute to calls for urban justice amidst rapidly changing and unstable climatic futures that demand pressing attention to urban social stratification and livability.",
-      "keywords": []
+      "keywords": [
+        "Daylight",
+        "Environmental justice",
+        "Context (archaeology)",
+        "Futures contract",
+        "Economic Justice",
+        "Thermal comfort",
+        "Climate justice",
+        "Urban planning"
+      ]
     },
     {
       "doi": "10.1177/00420980261448070",
@@ -81,7 +129,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261448070",
       "abstract": "This article explores how popular markets and cultural aesthetics challenge colonial binaries of tradition versus modernity, focusing on La Paz and El Alto during a period of Indigenous political power and economic expansion (2006–2019). Drawing on fieldwork and Bolivian scholarship, I show how two visible formations—Freddy Mamani’s “ cholet ” buildings and la moda de la chola paceña —enact plural, ch’ixi modernities rather than simple incorporations of “tradition” into consumer spectacle. The trends examined demonstrate how popular aesthetic practices disrupt binaries (modern/traditional, rural/urban, gift/commerce), and demonstrate the importance of understanding the institutions which channel capital, as well as cultural dynamics and the power of confidence, shame, and recognition in shaping urban space. I also analyze the institutional reception—in Bolivia and internationally—to show how Indigenous designers reframe what counts as art, expertise, and contemporaneity. The discussion relocates debates on the “Indigenous city” to the Andes and connects them to Latin American work on plurality, livelihoods, baroque economies, and settler-colonial urbanism. Rather than reading architecture and fashion as evidence of a growing consuming middle class, I show how they organize belonging and redistribute visibility in the city on their own terms. The case invites a reworking of urban theory attuned to Indigenous economic and cultural logics and to forms of modernity and contemporaneity that are not derivative of northern trajectories.",
-      "keywords": []
+      "keywords": [
+        "Modernity",
+        "Indigenous",
+        "Colonialism",
+        "Latin Americans",
+        "Power (physics)",
+        "Politics",
+        "Cognitive reframing",
+        "Urbanism"
+      ]
     },
     {
       "doi": "10.1177/00420980261450022",
@@ -99,7 +156,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261450022",
       "abstract": "Informal smart urbanism is an emerging field that explores how digital technologies shape urban development in contexts marked by informality. We understand informality as a dynamic set of interactions that arise when formal regulations fail to meet people’s needs. Our study analyses digital resilience practices—the everyday ways households respond to shocks through digital technologies. These practices are widespread but often overlooked, especially given the vulnerabilities inherent in informal settings. We explore how repetitive digital practices form extra-legal rules. In Mathare, Kenya, four forms of digital resilience practices emerge: (1) belt tightening: households with low resilience use digital networks to receive digital gifts, replacing non-digital support; (2) maladaptive: digital tools are used in ways that undermine community resilience; (3) adaptive: digital platforms are used to strengthen household resilience in the short term; and (4) transformative: digital technologies systemically improve household resilience in the long term.",
-      "keywords": []
+      "keywords": [
+        "Resilience (materials science)",
+        "Settlement (finance)",
+        "Psychological resilience",
+        "Everyday life",
+        "Set (abstract data type)",
+        "Informal sector",
+        "Emerging technologies",
+        "Informal settlements"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00465-5",
@@ -117,7 +183,15 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00465-5",
       "abstract": "Abstract The rapid expansion of plug-in electric vehicles (PEVs) offers substantial potential for reducing nationwide carbon emissions, yet benefits vary across cities due to differing PEV adoption trajectories and spatial disconnects between vehicle use and power-plant emissions. Leveraging over 245 million vehicle registration records, we quantify PEV-related fuel-cycle carbon transfers across 285 Chinese cities. Here we show that economically developed cities transferred 41.8% of their PEV-related emissions to less developed cities in 2020, causing per-PEV emissions in the latter exceeding those of non-PEVs by 16.9%–52.0%. This outsourced carbon burden is projected to substantially increase climate mitigation costs for recipient cities. Furthermore, such intercity inequality in emission reductions is projected to remain elevated through 2030 due to growing disparities in PEV stocks across cities, before declining as the grid decarbonizes. Our findings highlight the importance of tailored, city-level decarbonization policies to promote an equitable and effective transition toward vehicle electrification.",
-      "keywords": []
+      "keywords": [
+        "Electrification",
+        "Greenhouse gas",
+        "China",
+        "Climate change",
+        "Inequality",
+        "Carbon fibers",
+        "Electric vehicle"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00467-3",
@@ -135,7 +209,14 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00467-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Electrification",
+        "Electricity",
+        "Geospatial analysis",
+        "Carbon fibers",
+        "Electric vehicle",
+        "Public transport"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00468-2",
@@ -153,7 +234,12 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00468-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Terrain",
+        "Digital elevation model",
+        "Field (mathematics)",
+        "Digital mapping"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105730",
@@ -10132,7 +10218,11 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00417-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Chen",
+        "Key (lock)",
+        "Government (linguistics)"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105637",
@@ -16323,6 +16413,32 @@
         "Mental health",
         "Systematic review",
         "Data extraction"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102466",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102466",
+      "title": "UST-GNN: A unified spatial–topological graph neural network framework for urban analytics demonstrated through a case study on urban health prediction",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2025-04-07",
+      "published_date_display": "2025-04-07",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000682",
+      "abstract": "Understanding how social, demographic, environmental, and spatial factors jointly shape urban outcomes is essential for sustainable urban development and evidence-based policy. Traditional statistical approaches often struggle to capture complex non-linear relationships, while many machine learning methods overlook the joint roles of spatial autocorrelation and network topology in urban systems. Recent advances in GeoAI have addressed these challenges only partially, often treating spatial effects, graph structure, evaluation, and interpretability separately. We present \\textbf{UST-GNN}, a unified spatial--topological graph neural network framework that integrates neighbourhood connectivity, heterogeneous urban features, and positional/locational embeddings into a single representation. Using the MedSAT dataset, which contains over 150 environmental and socio-demographic variables and six prescription outcomes across 4,835 neighbourhoods in Greater London, UST-GNN outperforms strong statistical, geographically enhanced, and graph Machine Learning baselines, improving out-of-sample $R^2$ by 8.4--13.2\\% under strict spatial cross-validation. We further introduce a lightweight principal-component module to interpret learned node embeddings geographically and relate them to policy-relevant covariates. The resulting analyses recover established patterns, offer new perspectives on debated associations, and reveal novel predictors warranting further causal investigation. Together, these findings demonstrate the value of graph-based spatial machine learning for urban health analytics, environmental inequality assessment, and evidence-based urban policy. Beyond predictive gains, UST-GNN provides a unified GeoAI analytical pipeline that can be embedded into urban digital twin workflows for scenario testing, monitoring, and data-informed decision-making for healthier, more sustainable cities.",
+      "keywords": [
+        "Medical prescription",
+        "Warrant",
+        "Baseline (sea)",
+        "Public health",
+        "Graph",
+        "Node (physics)",
+        "White paper",
+        "Artificial neural network"
       ]
     },
     {
