@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T23:45:54.279966+00:00",
+  "generated_at": "2026-06-26T23:34:58.955689+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,94 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.cities.2026.107286",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107286",
+      "title": "Analysis of driving factors of infectious diseases in Guangdong Province, China based on machine learning and causal inference",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005184",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00472-6",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00472-6",
+      "title": "Gods in the gaps",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-06-26",
+      "published_date_display": "2026-06-26",
+      "published_parts": [
+        2026,
+        6,
+        26
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00472-6",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261454771",
+      "doi_url": "https://doi.org/10.1177/00420980261454771",
+      "title": "Beyond the binary: Hybrid urbanism and the limits of the (in)formal in Accra",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        6,
+        25
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261454771",
+      "abstract": "Contemporary cities in the Global South operate through regulatory complexities that exceed the binary distinction between formal and informal urbanism. Drawing on ethnographic fieldwork in Accra, Ghana, including narrative interviews and spatial observation, this analysis engages the concept of hybrid urbanism to illuminate how self-built housing and unregulated livelihoods are produced, organized, and governed through overlapping systems of authority, accountability, and spatial regulation. While existing scholarship successfully challenges the formal/informal binary, it has largely treated hybrid urbanism as a static condition rather than a dynamic process. This article addresses that gap by theorizing the temporality of hybrid urbanism: how it emerges through graduated integration and how it can be destroyed through planning without integration . Both in inner-city markets and within self-built settlements on the urban fringe, actors such as tenant coordinators, market women’s associations, and unelected informal leaders mediate disputes, enforce land-use norms, and regulate access to space, services, and income-generating opportunities. These practices sometimes involve consultations with and acknowledgments from municipal officials, thereby blurring the lines between legality and illegality, between planned and unplanned, and between formal and informal, revealing a regulatory multiplicity embedded in everyday urban life. The comparison between Old Fadama (where hybrid governance emerged organically over decades) and Adjen Kotoku (where relocated residents must rapidly reconstruct governance systems after state-imposed displacement) reveals what is at stake when planning interventions fail to recognize existing regulatory arrangements. This analysis introduces the concept of social infrastructural acknowledgment as a framework for planning practices that build upon, rather than destroy, existing hybrid governance systems. By theorizing hybrid urbanism from the ground up, this article contributes to an ongoing effort to reframe how cities are understood, built, and governed in a time of widening inequality, infrastructural fragmentation, and state withdrawal.",
+      "keywords": [
+        "Urbanism",
+        "Corporate governance",
+        "Governmentality",
+        "Scholarship",
+        "Livelihood",
+        "Urban planning",
+        "Informal settlements",
+        "Informal sector",
+        "Temporality",
+        "Urban studies"
+      ]
+    },
+    {
       "doi": "10.1016/j.landurbplan.2026.105731",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105731",
       "title": "Intensifying drought threatens the heat-regulating capacity of urban vegetation",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001556",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Urban vegetation is critical in regulating urban heat, yet the stability of this regulatory effect under drought has not been well measured at a global scale. Using satellite observations during 2003–2024 across 2911 cities, we found that vegetation greening reduced urban land surface temperature (LST) with the strongest global mean daytime reduction of 0.405°C in summer and the weakest of 0.066°C in winter. Nighttime effects were weaker, averaging 0.049°C in summer and 0.008°C in winter. Critically, vegetation-related cooling exhibited pronounced nonlinear and threshold-limited responses to drought. During daytime in spring, summer, and autumn, cooling was generally stronger under wetter conditions but declined after crossing drought thresholds, occurring at Palmer Drought Severity Index (PDSI) values of −0.925, −0.827, and −0.754, respectively. Beyond these thresholds, cooling declined rapidly, with the drought-cooling relationship shifting from positive to negative, and the steepest post-threshold change observed in summer, where the slope changed from 0.201 to −0.205°C per unit PDSI. At night, threshold responses also occurred but with weaker magnitudes, with PDSI thresholds ranging from −0.943 in spring to −2.057 in winter. Statistical pathway analysis showed that drought-LST associations shifted across thresholds, consistent with expected drought-related changes in estimated evapotranspiration and constrained by vegetation shading and seasonal radiation-moisture conditions. Together, these results demonstrate that the heat-regulating capacity of urban vegetation is not linear or unlimited, but constrained by interacting water and energy conditions. This highlights the need for awareness of thresholds and water-constraints when using urban vegetation to mitigate warming temperatures under climate change.",
+      "keywords": [
+        "Vegetation (pathology)",
+        "Evapotranspiration",
+        "Daytime",
+        "Urban heat island",
+        "Climate change",
+        "Shading",
+        "Greening",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102483",
@@ -84,7 +157,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261454569",
       "abstract": "This article critically examines the complex and ambiguous relationship between resilience and violence in the recovery of conflict-affected cities. Focusing on Medellín, Colombia’s second-largest city, it traces its transformation from a hotspot of intense urban conflict to a celebrated hub of tourism and innovation. Once labeled the world’s “murder capital,” Medellín has become a flagship for resilience initiatives, frequently lauded for its recovery from decades of violence. Yet beneath the celebrated narrative of the “Medellín Miracle,” extortion and forced displacement continue to permeate life in marginalized neighborhoods. Everyday violence challenges dominant accounts of postwar success and blurs the boundaries between wartime and the post-conflict period. To unpack these contested dynamics, the article advances a twofold framework—examining the resilience of violence and the violence of resilience —as a lens to rethink how urbanization and conflict mutually shape one another. By doing so, it demonstrates how recovery efforts, while promising stability and security, can also reproduce entrenched inequalities, consolidate marginalization, and generate new forms of victimization. By highlighting these tensions, the article contributes to broader debates on the politics of resilience, the afterlives of violence, and the uneven geographies of urban transformation in post-conflict settings.",
-      "keywords": []
+      "keywords": [
+        "Narrative",
+        "Urbanization",
+        "Precarity",
+        "Psychological resilience",
+        "Politics",
+        "Everyday life",
+        "Modernity",
+        "Resilience (materials science)"
+      ]
     },
     {
       "doi": "10.1177/00420980261453290",
@@ -239,6 +321,32 @@
         "Digital elevation model",
         "Field (mathematics)",
         "Digital mapping"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102466",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102466",
+      "title": "UST-GNN: A unified spatial–topological graph neural network framework for urban analytics demonstrated through a case study on urban health prediction",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-06-24",
+      "published_date_display": "2026-06-24",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000682",
+      "abstract": "Understanding how social, demographic, environmental, and spatial factors jointly shape urban outcomes is essential for sustainable urban development and evidence-based policy. Traditional statistical approaches often struggle to capture complex non-linear relationships, while many machine learning methods overlook the joint roles of spatial autocorrelation and network topology in urban systems. Recent advances in GeoAI have addressed these challenges only partially, often treating spatial effects, graph structure, evaluation, and interpretability separately. We present UST-GNN , a unified spatial–topological graph neural network framework that integrates neighbourhood connectivity, heterogeneous urban features, and positional/locational embeddings into a single representation. Using the MedSAT dataset, which contains over 150 environmental and socio-demographic variables and six prescription outcomes across 4835 neighbourhoods in Greater London, UST-GNN outperforms strong statistical, geographically enhanced, and graph Machine Learning baselines, improving out-of-sample R 2 by 8.4–13.2% under strict spatial cross-validation. We further introduce a lightweight principal-component module to interpret learned node embeddings geographically and relate them to policy-relevant covariates. The resulting analyses recover established patterns, offer new perspectives on debated associations, and reveal novel predictors warranting further causal investigation. Together, these findings demonstrate the value of graph-based spatial machine learning for urban health analytics, environmental inequality assessment, and evidence-based urban policy. Beyond predictive gains, UST-GNN provides a unified GeoAI analytical pipeline that can be embedded into urban digital twin workflows for scenario testing, monitoring, and data-informed decision-making for healthier, more sustainable cities.",
+      "keywords": [
+        "Medical prescription",
+        "Warrant",
+        "Baseline (sea)",
+        "Public health",
+        "Graph",
+        "Node (physics)",
+        "White paper",
+        "Artificial neural network"
       ]
     },
     {
@@ -8008,26 +8116,6 @@
         "Global Positioning System",
         "Key (lock)",
         "Data collection"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107043",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107043",
-      "title": "Evaluating spatial accessibility based on varying travel choices: A case study of accessing vaccine sites in Greater London",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-10",
-      "published_date_display": "2026-04-10",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002751",
-      "abstract": "",
-      "keywords": [
-        "Travel time",
-        "Public transport"
       ]
     },
     {
@@ -16413,32 +16501,6 @@
         "Mental health",
         "Systematic review",
         "Data extraction"
-      ]
-    },
-    {
-      "doi": "10.1016/j.compenvurbsys.2026.102466",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102466",
-      "title": "UST-GNN: A unified spatial–topological graph neural network framework for urban analytics demonstrated through a case study on urban health prediction",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2025-04-07",
-      "published_date_display": "2025-04-07",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000682",
-      "abstract": "Understanding how social, demographic, environmental, and spatial factors jointly shape urban outcomes is essential for sustainable urban development and evidence-based policy. Traditional statistical approaches often struggle to capture complex non-linear relationships, while many machine learning methods overlook the joint roles of spatial autocorrelation and network topology in urban systems. Recent advances in GeoAI have addressed these challenges only partially, often treating spatial effects, graph structure, evaluation, and interpretability separately. We present \\textbf{UST-GNN}, a unified spatial--topological graph neural network framework that integrates neighbourhood connectivity, heterogeneous urban features, and positional/locational embeddings into a single representation. Using the MedSAT dataset, which contains over 150 environmental and socio-demographic variables and six prescription outcomes across 4,835 neighbourhoods in Greater London, UST-GNN outperforms strong statistical, geographically enhanced, and graph Machine Learning baselines, improving out-of-sample $R^2$ by 8.4--13.2\\% under strict spatial cross-validation. We further introduce a lightweight principal-component module to interpret learned node embeddings geographically and relate them to policy-relevant covariates. The resulting analyses recover established patterns, offer new perspectives on debated associations, and reveal novel predictors warranting further causal investigation. Together, these findings demonstrate the value of graph-based spatial machine learning for urban health analytics, environmental inequality assessment, and evidence-based urban policy. Beyond predictive gains, UST-GNN provides a unified GeoAI analytical pipeline that can be embedded into urban digital twin workflows for scenario testing, monitoring, and data-informed decision-making for healthier, more sustainable cities.",
-      "keywords": [
-        "Medical prescription",
-        "Warrant",
-        "Baseline (sea)",
-        "Public health",
-        "Graph",
-        "Node (physics)",
-        "White paper",
-        "Artificial neural network"
       ]
     },
     {
