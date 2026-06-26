@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T22:44:52.309444+00:00",
+  "generated_at": "2026-06-26T22:35:58.283975+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115541",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115541",
-      "title": "The first map of planted mangrove forests in China derived from time-series Landsat and Google Satellite Embeddings",
+      "doi": "10.1016/j.rse.2026.115550",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115550",
+      "title": "Characterizing effects of tree mortality from wildfire and bark beetles using satellite observations of solar-induced chlorophyll fluorescence",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,60 +38,93 @@
         2026,
         10
       ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003202",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.026",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.026",
+      "title": "BIM-vSLAM: Bridging BIM and visual SLAM with plane-based representation for automated registration and image-based reconstruction",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-26",
+      "published_date_display": "2026-06-26",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003321",
+      "abstract": "",
+      "keywords": [
+        "Bridging (networking)",
+        "Representation (politics)",
+        "Visualization",
+        "Data association",
+        "Mode (computer interface)"
+      ]
+    },
+    {
+      "doi": "10.1080/24694452.2026.2686204",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2686204",
+      "title": "The Politics of Water Vapor: Mold and Moisture in London Homes",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-26",
+      "published_date_display": "2026-06-26",
+      "published_parts": [
+        2026,
+        6,
+        26
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686204",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2686207",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2686207",
+      "title": "Responding to Maladaptation in Israel’s Desalination: Stakeholders’ Perspectives on Second-Order Adaptation",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-26",
+      "published_date_display": "2026-06-26",
+      "published_parts": [
+        2026,
+        6,
+        26
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686207",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115541",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115541",
+      "title": "The first map of planted mangrove forests in China derived from time-series Landsat and Google Satellite Embeddings",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        10
+      ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003111",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.022",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.022",
-      "title": "MASt3R-Fusion: Integrating feed-forward visual model with IMU, GNSS for high-functionality SLAM",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600328X",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.029",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.029",
-      "title": "Allroad-SLAM: Factor graph-based 3D reconstruction in diverse road scenarios with a consumer-grade GNSS-LiDAR-inertial system",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003357",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.023",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.023",
-      "title": "A transfer learning-based contourlet residual-driven terrain-aware method for Arctic seafloor DEM super-resolution",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003291",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Mangrove",
+        "Afforestation",
+        "Natural (archaeology)",
+        "Reforestation",
+        "Satellite imagery",
+        "Satellite",
+        "China"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2693888",
@@ -109,7 +142,65 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2693888",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Downscaling",
+        "Artificial neural network",
+        "Convolutional neural network",
+        "Surface (topology)",
+        "Feature (linguistics)",
+        "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.029",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.029",
+      "title": "Allroad-SLAM: Factor graph-based 3D reconstruction in diverse road scenarios with a consumer-grade GNSS-LiDAR-inertial system",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003357",
+      "abstract": "",
+      "keywords": [
+        "Point cloud",
+        "GNSS applications",
+        "Odometry",
+        "Segmentation",
+        "Factor graph",
+        "Advanced driver assistance systems",
+        "Consistency (knowledge bases)",
+        "Graph",
+        "3D reconstruction"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.023",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.023",
+      "title": "A transfer learning-based contourlet residual-driven terrain-aware method for Arctic seafloor DEM super-resolution",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003291",
+      "abstract": "Arctic seafloor Digital Elevation Models (DEMs) serve as fundamental data for marine scientific research, navigation route planning, and submarine resource exploration. However, high-resolution bathymetric measurement data are extremely scarce in Arctic regions due to severe environmental constraints. Additionally, the Arctic mid-ocean ridges and their peripheries exhibit diverse highly fragmented landforms, including rift structures, fault scarps, and iceberg plough marks. These conditions pose significant challenges for DEM super-resolution reconstruction. To address this issue, we propose a contourlet residual-driven terrain-aware super-resolution framework for Arctic seafloor DEMs. It first pre-trains on a global coastal terrain dataset to acquire generic terrain representation capabilities. Subsequently, it fine-tunes on the Arctic mid-ocean ridge dataset with hierarchical learning rates to adapt to specific tectonic-glacial geomorphic patterns and mitigate overfitting caused by data scarcity. For network design, we propose the Terrain-Aware Feature Aggregation Block (TAFAB), which explicitly embeds the spatial continuity and multi-attribute correlation characteristics of DEMs into a dual-branch attention mechanism to achieve collaborative extraction of multi-scale terrain structures. Meanwhile, we construct the Contourlet Refinement Gating module (CRG), which enhances direction-sensitive high-frequency edge information in the frequency domain through terrain complexity-adaptive Laplacian pyramid decomposition and learnable directional filter banks. Furthermore, we construct a joint optimization loss function for elevation-slope-structure and introduce an adaptive weight learning mechanism based on homoscedastic uncertainty to dynamically balance the optimization contributions of different terrain features. Experimental results on the Arctic mid-ocean ridge dataset demonstrate that compared to current state-of-the-art methods, our framework achieves 3.5% − 4.7% reduction in RMSE, 17.5% − 25.6% reduction in MAE, and 0.17–0.44 dB improvement in PSNR, providing an effective technical approach for refined seafloor terrain modeling in data-scarce regions.",
+      "keywords": [
+        "Terrain",
+        "Arctic",
+        "Digital elevation model",
+        "Bathymetry",
+        "Bathymetric chart",
+        "Ridge"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2681736",
@@ -126,8 +217,18 @@
         25
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681736",
-      "abstract": "",
-      "keywords": []
+      "abstract": "As care systems face capacity strains, the “community turn” in the geographies of care has redirected attention to the role of informal care networks. Central to these networks is social capital, encompassing benefits of trust, resources, and belonging derived from social relations. Yet, how place shapes these interactions remains underexplored. This article develops spatial capital to recognize how places themselves function as brokers within social networks. Spatial capital is defined as the accumulated stock of informational, practical, and emotional benefits generated when everyday places broker social connections. Drawing on mixed-method social network analysis (SNA) combining survey data (n = 646) with in-depth interviews (n = 30) among older adults in Singapore, this study extends beyond SNA’s traditional actor-centric focus to examine how third places broker relationship formation. The study develops three sociospatial typologies—Communal Gazers, Seeking Groupies, and Traversing Nomads—reflecting distinct patterns in how older adults leverage places to build connections. Neighborhood (e.g., corridors, pavilions) and extralocal spaces (e.g., eateries, friends’ homes) foster bridging across unconnected circles and bonding within existing ties. The analysis also highlights the significance of fleeting encounters, brief yet consequential interactions that supplement durable ties within older adults’ care assemblages. Moreover, older adults exhibit spatial adaptability by selectively frequenting places to minimize strain in social relationships. Findings reveal how place is co-constitutive of the social in care relationship formation. This reconceptualization of spatial capital as generated through place-based brokerage advances spatially attuned SNA and contributes to care assemblage scholarship by demonstrating how informal, place-mediated relationships constitute crucial resources in later life.",
+      "keywords": [
+        "Social capital",
+        "Interpersonal ties",
+        "Scholarship",
+        "Leverage (statistics)",
+        "Bridging (networking)",
+        "Social relation",
+        "Function (biology)",
+        "Social network (sociolinguistics)",
+        "Neighbourhood (mathematics)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115536",
@@ -11461,28 +11562,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.016",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.016",
-      "title": "Heterogeneous graph neural networks for building attribute prediction from hierarchical urban features and cross-view imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-02-20",
-      "published_date_display": "2026-02-20",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000675",
-      "abstract": "",
-      "keywords": [
-        "Artificial neural network",
-        "Graph",
-        "Pattern recognition (psychology)",
-        "Deep neural networks"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115322",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115322",
       "title": "SWOT based intertidal topography mapping: A standalone method validated in a complex coastal region",
@@ -12930,31 +13009,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115230",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115230",
-      "title": "High-resolution annual desertification mapping in northern China using a novel comprehensive desertification index and unsupervised algorithm",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006340",
-      "abstract": "",
-      "keywords": [
-        "Desertification",
-        "Scope (computer science)",
-        "Cluster analysis",
-        "Index (typography)",
-        "China",
-        "Normalized Difference Vegetation Index",
-        "Field survey"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2025.2603586",
       "doi_url": "https://doi.org/10.1080/13658816.2025.2603586",
       "title": "The computational reproducibility of articles published under the Open Data + FAIR policy of IJGIS",
@@ -13407,6 +13461,32 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.022",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.022",
+      "title": "MASt3R-Fusion: Integrating feed-forward visual model with IMU, GNSS for high-functionality SLAM",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2025-09-25",
+      "published_date_display": "2025-09-25",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600328X",
+      "abstract": "",
+      "keywords": [
+        "Robustness (evolution)",
+        "GNSS applications",
+        "Simultaneous localization and mapping",
+        "Graph",
+        "Prior probability",
+        "Sensor fusion",
+        "Probabilistic logic",
+        "Factor graph"
       ]
     },
     {
