@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T23:34:58.955689+00:00",
+  "generated_at": "2026-06-27T23:16:58.843947+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107286",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107286",
-      "title": "Analysis of driving factors of infectious diseases in Guangdong Province, China based on machine learning and causal inference",
+      "doi": "10.1016/j.cities.2026.107226",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107226",
+      "title": "Spatiotemporal ripple effect in the evolution of urban economic vitality",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -43,7 +43,7 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005184",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004580",
       "abstract": "",
       "keywords": []
     },
@@ -63,7 +63,36 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00472-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carry (investment)",
+        "Action (physics)",
+        "Jungle",
+        "Government (linguistics)",
+        "Ethnography"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107286",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107286",
+      "title": "Analysis of driving factors of infectious diseases in Guangdong Province, China based on machine learning and causal inference",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-26",
+      "published_date_display": "2026-06-26",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005184",
+      "abstract": "",
+      "keywords": [
+        "China",
+        "Causal inference",
+        "Inference",
+        "Causal analysis",
+        "Driving factors"
+      ]
     },
     {
       "doi": "10.1177/00420980261454771",
@@ -8565,25 +8594,6 @@
         "Transfer (computing)",
         "International development",
         "Key (lock)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107031",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107031",
-      "title": "A seat at the table: Unveiling gender-inequality in the architecture sector in Rotterdam",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-07",
-      "published_date_display": "2026-04-07",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002635",
-      "abstract": "The architectural profession in the Netherlands continues to reflect deep-rooted gender inequalities, despite the increasing presence of women in architectural education. While women enter the field in equal numbers to men, their career progression remains systematically constrained by entrenched barriers that limit access to leadership roles, fair financial compensation, and professional recognition. Although existing research acknowledges these disparities, there is a lack of critical engagement from an academic perspective with the ways in which gendered power structures shape both architectural practice and the built environment itself. Given architecture's fundamental role in designing spaces that serve diverse communities, the exclusion of women raises urgent questions about whose perspectives shape the cities we inhabit—and at what cost to social sustainability. This study examines gender inequality in architecture through a case study in Rotterdam-based firms, uncovering a profession dominated by rigid hierarchies, inflexible work cultures, and implicit biases that favour masculine norms. Long working hours, limited career support, and a persistent undervaluation of women's contributions create a profession where exclusion is systemic rather than incidental. As a result, architecture continues to be shaped through a narrow lens, restricting the diversity of ideas and perspectives that inform urban development. Challenging these ingrained inequalities is essential to fostering a more inclusive and socially responsive architectural field—one that truly reflects the communities it seeks to serve.",
-      "keywords": [
-        "Architecture"
       ]
     },
     {
