@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://kevinoceanliu.github.io/pages/letter-n-back.html">
+    <meta property="og:url" content="https://kevinoceanliu.github.io/pages/letter-n-back.html">
+    <title>Letter n-Back - Liu Haiyang</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">Liu Haiyang</div>
+            <ul class="nav-menu">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="my-news.html">My News</a></li>
+                <li><a href="about.html" class="active">Others</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="game-page page-with-closing">
+        <section class="game-shell" aria-label="Letter n-Back">
+            <div class="game-letter" id="current-letter" aria-live="polite">?</div>
+            <p class="game-stage-status" id="game-status" aria-live="polite"></p>
+
+            <form class="game-controls" id="nback-form" autocomplete="off">
+                <label class="game-field">
+                    <span>n-back</span>
+                    <select id="nback-level">
+                        <option value="1">1</option>
+                        <option value="2" selected>2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </label>
+
+                <label class="game-field">
+                    <span>Seconds</span>
+                    <select id="seconds-count">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3" selected>3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </label>
+
+                <label class="game-field">
+                    <span>Letters</span>
+                    <select id="letter-count">
+                        <option value="1" selected>1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                        <option value="6">6</option>
+                        <option value="7">7</option>
+                        <option value="8">8</option>
+                        <option value="9">9</option>
+                        <option value="10">10</option>
+                    </select>
+                </label>
+
+                <label class="game-field game-answer-field">
+                    <span>Your answer</span>
+                    <input id="answer-input" type="text" inputmode="latin" maxlength="1" aria-label="Your answer" disabled>
+                </label>
+
+                <button type="button" class="game-button game-button-primary" id="start-game">Start</button>
+                <button type="button" class="game-button" id="reset-game">Reset</button>
+                <button type="button" class="game-button" id="history-toggle">History</button>
+            </form>
+
+            <section class="game-stats" aria-label="Game statistics">
+                <div>
+                    <span>Score</span>
+                    <strong id="score-stat">0</strong>
+                </div>
+                <div>
+                    <span>Accuracy</span>
+                    <strong id="accuracy-stat">0%</strong>
+                </div>
+            </section>
+
+            <section class="game-history" id="game-history" aria-label="Score history" hidden>
+                <ol id="history-list"></ol>
+            </section>
+        </section>
+
+        <section class="page-closing">
+            <p class="page-closing-motto page-closing-motto-cjk">仁 · 勇 · 韧</p>
+            <p class="page-closing-copyright">Copyright © Liu Haiyang. All rights reserved.</p>
+            <img src="../images/ocean-muted.png" alt="" class="page-closing-logo" aria-hidden="true">
+        </section>
+    </main>
+
+    <script src="../js/script.js"></script>
+    <script src="../js/letter-n-back.js"></script>
+    <div class="visitor-tracker" aria-hidden="true">
+        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=D2VNqooHs-Re2IYCGltrggAK9kmAw3nJRSd9dMaY1oA&cl=ffffff&w=a"></script>
+    </div>
+</body>
+</html>
