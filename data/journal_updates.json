@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T22:35:58.283975+00:00",
+  "generated_at": "2026-06-27T22:15:40.023759+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,23 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-26",
+      "published_date_display": "2026-06-26",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003202",
-      "abstract": "",
-      "keywords": []
+      "abstract": ": Satellite observations of solar-induced chlorophyll fluorescence (SIF) represent a promising remote sensing tool for estimating disturbance impacts to forest photosynthetic productivity. However, the ability to characterize tree mortality from forest disturbance events using SIF remains unexplored, particularly across different disturbance types and mortality severities. Here, we investigated the sensitivity of SIF observed by the Sentinel-5 Precursor satellite’s Tropospheric Monitoring Instrument (TROPOMI) to tree mortality from wildfires and bark beetle outbreaks using gridded datasets of tree mortality for the western United States from 2018-2023. We analyzed TROPOMI SIF observations at 0.05° (∼5 km) spatial resolution together with vegetation products from NASA’s Moderate-Resolution Imaging Spectroradiometer (MODIS) by implementing a bootstrapping methodology to compare wildfire- and bark beetle-affected pixels with biogeographically matched controls. We found that SIF declined sharply in response to wildfire, with differences from control increasing with burn severity, and SIF declining to as low as 20% of pre-fire levels. Moderate-to-severe bark beetle-induced mortality showed declines in growing season SIF to 60-70% of pre-drought levels over multiple years. Bark beetle-related declines in SIF were 10-20% greater in magnitude than those of control areas, exhibiting statistical significance from the control two to three years prior to visible detection from aircraft surveys. Similar declines were observed in a physiological SIF yield metric, suggesting that fluorescence efficiency responses were a key driver of SIF changes. SIF was more sensitive to bark beetle mortality than MODIS vegetation products prior to visible mortality onset as marked by aircraft surveys, suggesting that SIF may outperform other vegetation indices as an early warning tool for drought and mortality. Future efforts to characterize forest disturbance effects using SIF will likely be enhanced as forthcoming satellite missions such as the European Space Agency's Fluorescence Explorer (FLEX) provide SIF observations at substantially higher spatial resolutions.",
+      "keywords": [
+        "Bark beetle",
+        "Vegetation (pathology)",
+        "Bark (sound)",
+        "Moderate-resolution imaging spectroradiometer",
+        "Chlorophyll fluorescence",
+        "Satellite",
+        "Disturbance (geology)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.026",
@@ -80,8 +88,17 @@
         26
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686204",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Mold has become a growing public health concern. This article approaches mold, a health hazard carried by the air, through a focus on something else that is carried by the air: water vapor. Tracing water vapor through the homes of economically and racially marginalized residents in West London, I examine how the growth of mold is shaped by three hydrosocial dynamics: vaporization, the production of water vapor through practices of inhabitation; advection, the movement of water vapor out of homes through ventilation; and condensation, the transformation of water vapor into a liquid as it meets cold, unheated surfaces. I argue that there is a politics to water vapor, which is manifest as water cycles through homes and bodies. A focus on water vapor highlights the phase change as a key moment in socioenvironmental relations and the stakes surrounding efforts to control the movement of an invisible, gaseous substance. Water in its vaporous form is just as culturally embedded, technologically mediated, socioeconomically unjust, and politically fraught as its liquid counterpart.",
+      "keywords": [
+        "Politics",
+        "Water vapor",
+        "Health hazard",
+        "Moisture",
+        "Hazard",
+        "Focus (optics)",
+        "Public health",
+        "Vapor phase"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2686207",
@@ -98,8 +115,15 @@
         26
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686207",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Adaptation is critical to alleviate the adverse impacts of climate change on societies worldwide, yet often entails maladaptive effects that increase climate risk or impinge on broader societal objectives. Although many maladaptive effects are difficult to prevent proactively, research focuses on insufficient preventive measures. Here, we analyze second-order adaptation—responses to adaptation’s maladaptive consequences—by examining the ramifications of seawater desalination, a prevalent adaptation in water-stressed regions. To this end, we embed second-order adaptation within the Intergovernmental Panel on Climate Change’s risk framework and elicit stakeholders’ assessment of desalination impacts and the potential responses in desalination-dependent Israel. We then examine their evaluation of the institutional effort required to undertake second-order adaptation relative to the effort of implementing desalination, concentrating on the complexity of planning and implementation, the necessary financial investment, and the need to develop new knowledge and capacities. We find that desalination leads to a broad range of maladaptive effects across social, environmental, and economic systems, thereby necessitating a similarly broad range of second-order adaptations. Stakeholders’ assessment indicates that such responses might require a smaller financial investment than desalination, yet necessitate new knowledge and capacities. Their evaluation of the relative complexity showed considerable disagreement. We also identify different perspectives on the need for second-order adaptation and expose different approaches to planning for second-order adaptation, ranging from holistic approaches to viewing second-order and first-order adaptation as distinct and unrelated. The findings underscore the need to incorporate second-order adaptation into policy and planning.",
+      "keywords": [
+        "Maladaptation",
+        "Adaptation (eye)",
+        "Climate change",
+        "Accommodation",
+        "Climate risk",
+        "Climate change adaptation"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115541",
@@ -141,7 +165,7 @@
         25
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2693888",
-      "abstract": "",
+      "abstract": "Methods such as multi-factor geographically weighted machine learning (MFGWML), geographically neural network weighted regression (GNNWR), and its enhanced version—geographically convolutional neural network weighted regression (GCNNWR)—have improved spatial non-stationarity modeling. However, they are over-reliant on spatial proximity weighting and underutilize spatial neighborhood information. Therefore, this study proposes a novel Geographically Conditioned Multiscale Convolutional Neural Network (GCMCNN) that downscales MODIS land surface temperature (LST) data to 100 m resolution by integrating two- and three-dimensional surface features. GCMCNN enhances the capture of spatial heterogeneity through a geographically aware (geo-aware) mechanism conditioned by location and attributes, while improving the characterization of spatial correlation by developing a multiscale convolutional neural network (CNN). GCMCNN model outperformed four benchmark models (random forest, MFGWML, GNNWR, and GCNNWR) in LST downscaling, reducing RMSE by 15.4–26.16% and MAE by 15.05–23.59%, and increasing R2 by 39.81–148.09%. GCMCNN improved the model performance of CNN through its geo-aware mechanism and multi-level spatial feature extraction and fusion, reducing RMSE and MAE by 6.6% and 8%, respectively, and increasing R2 by 7.5%. Furthermore, spatial block cross-validation better reflects the model’s true generalization ability than random cross-validation. This study highlights the importance of accurately modeling spatial heterogeneity and correlation in LST downscaling.",
       "keywords": [
         "Downscaling",
         "Artificial neural network",
@@ -149,6 +173,32 @@
         "Surface (topology)",
         "Feature (linguistics)",
         "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.022",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.022",
+      "title": "MASt3R-Fusion: Integrating feed-forward visual model with IMU, GNSS for high-functionality SLAM",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-25",
+      "published_date_display": "2026-06-25",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600328X",
+      "abstract": "",
+      "keywords": [
+        "Robustness (evolution)",
+        "GNSS applications",
+        "Simultaneous localization and mapping",
+        "Graph",
+        "Prior probability",
+        "Sensor fusion",
+        "Probabilistic logic",
+        "Factor graph"
       ]
     },
     {
@@ -13461,32 +13511,6 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.022",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.022",
-      "title": "MASt3R-Fusion: Integrating feed-forward visual model with IMU, GNSS for high-functionality SLAM",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-09-25",
-      "published_date_display": "2025-09-25",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600328X",
-      "abstract": "",
-      "keywords": [
-        "Robustness (evolution)",
-        "GNSS applications",
-        "Simultaneous localization and mapping",
-        "Graph",
-        "Prior probability",
-        "Sensor fusion",
-        "Probabilistic logic",
-        "Factor graph"
       ]
     },
     {
