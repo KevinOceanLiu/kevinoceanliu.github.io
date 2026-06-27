@@ -6,6 +6,7 @@
     <link rel="canonical" href="https://kevinoceanliu.github.io/pages/island.html">
     <meta property="og:url" content="https://kevinoceanliu.github.io/pages/island.html">
     <title>island - Liu Haiyang</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
     <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
@@ -27,6 +28,14 @@
     </nav>
 
     <main class="island-page page-with-closing">
+        <section class="island-controls" aria-label="Difficulty">
+            <button type="button" class="game-button island-difficulty is-active" data-difficulty="level1">1</button>
+            <button type="button" class="game-button island-difficulty" data-difficulty="level2">2</button>
+            <button type="button" class="game-button island-difficulty" data-difficulty="level3">3</button>
+            <button type="button" class="game-button island-difficulty" data-difficulty="level4">4</button>
+            <button type="button" class="game-button island-difficulty" data-difficulty="level5">5</button>
+        </section>
+
         <section class="island-shell" aria-label="island game">
             <section class="island-map-panel island-target-map-panel" aria-label="Target island map">
                 <div id="island-target-map" class="island-map"></div>
@@ -34,8 +43,16 @@
 
             <section class="island-map-panel island-answer-map-panel" aria-label="Answer world map">
                 <div id="island-answer-map" class="island-map"></div>
+                <button type="button" class="game-button island-confirm" id="island-confirm">Confirm</button>
             </section>
         </section>
+
+        <section class="island-history" aria-label="History">
+            <h2>History</h2>
+            <ol id="island-history-list"></ol>
+        </section>
+
+        <div class="confetti-layer" id="confetti-layer" aria-hidden="true"></div>
 
         <section class="page-closing">
             <p class="page-closing-motto page-closing-motto-cjk">仁 · 勇 · 韧</p>
@@ -45,8 +62,8 @@
     </main>
 
     <script src="../js/script.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="../js/island-game.js"></script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_GOOGLE_MAPS_API_KEY&callback=initIslandGame"></script>
     <div class="visitor-tracker" aria-hidden="true">
         <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=D2VNqooHs-Re2IYCGltrggAK9kmAw3nJRSd9dMaY1oA&cl=ffffff&w=a"></script>
     </div>
