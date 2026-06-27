@@ -140,6 +140,112 @@ const islandQuestionSeeds = {
     ]
 };
 
+const islandMeta = {
+    Aitutaki: { country: 'Cook Islands', continent: 'Oceania' },
+    Anguilla: { country: 'United Kingdom', continent: 'North America' },
+    Antigua: { country: 'Antigua and Barbuda', continent: 'North America' },
+    Aruba: { country: 'Netherlands', continent: 'North America' },
+    'Ascension Island': { country: 'United Kingdom', continent: 'Africa' },
+    Bali: { country: 'Indonesia', continent: 'Asia' },
+    Barbados: { country: 'Barbados', continent: 'North America' },
+    Bequia: { country: 'Saint Vincent and the Grenadines', continent: 'North America' },
+    Bermuda: { country: 'United Kingdom', continent: 'North America' },
+    Bonaire: { country: 'Netherlands', continent: 'North America' },
+    Borneo: { country: 'Indonesia, Malaysia, Brunei', continent: 'Asia' },
+    Bornholm: { country: 'Denmark', continent: 'Europe' },
+    'Bora Bora': { country: 'French Polynesia', continent: 'Oceania' },
+    'Canouan': { country: 'Saint Vincent and the Grenadines', continent: 'North America' },
+    'Christmas Island': { country: 'Australia', continent: 'Asia' },
+    'Cocos Island': { country: 'Australia', continent: 'Asia' },
+    Corfu: { country: 'Greece', continent: 'Europe' },
+    Corsica: { country: 'France', continent: 'Europe' },
+    Crete: { country: 'Greece', continent: 'Europe' },
+    Cuba: { country: 'Cuba', continent: 'North America' },
+    Curacao: { country: 'Netherlands', continent: 'North America' },
+    Cyprus: { country: 'Cyprus', continent: 'Asia' },
+    Dominica: { country: 'Dominica', continent: 'North America' },
+    'Easter Island': { country: 'Chile', continent: 'Oceania' },
+    Elba: { country: 'Italy', continent: 'Europe' },
+    Flores: { country: 'Indonesia', continent: 'Asia' },
+    Gotland: { country: 'Sweden', continent: 'Europe' },
+    'Gran Canaria': { country: 'Spain', continent: 'Africa' },
+    'Great Britain': { country: 'United Kingdom', continent: 'Europe' },
+    Greenland: { country: 'Denmark', continent: 'North America' },
+    Guam: { country: 'United States', continent: 'Oceania' },
+    Hispaniola: { country: 'Haiti, Dominican Republic', continent: 'North America' },
+    Hokkaido: { country: 'Japan', continent: 'Asia' },
+    Honshu: { country: 'Japan', continent: 'Asia' },
+    Ibiza: { country: 'Spain', continent: 'Europe' },
+    Iceland: { country: 'Iceland', continent: 'Europe' },
+    Ireland: { country: 'Ireland, United Kingdom', continent: 'Europe' },
+    'Isle of Man': { country: 'United Kingdom', continent: 'Europe' },
+    Jamaica: { country: 'Jamaica', continent: 'North America' },
+    Java: { country: 'Indonesia', continent: 'Asia' },
+    Jeju: { country: 'South Korea', continent: 'Asia' },
+    Kauai: { country: 'United States', continent: 'Oceania' },
+    'Ko Chang': { country: 'Thailand', continent: 'Asia' },
+    'Koh Samui': { country: 'Thailand', continent: 'Asia' },
+    Kyushu: { country: 'Japan', continent: 'Asia' },
+    Lanai: { country: 'United States', continent: 'Oceania' },
+    Lesbos: { country: 'Greece', continent: 'Europe' },
+    Lombok: { country: 'Indonesia', continent: 'Asia' },
+    'Lord Howe Island': { country: 'Australia', continent: 'Oceania' },
+    Luzon: { country: 'Philippines', continent: 'Asia' },
+    Madagascar: { country: 'Madagascar', continent: 'Africa' },
+    Madeira: { country: 'Portugal', continent: 'Africa' },
+    Mallorca: { country: 'Spain', continent: 'Europe' },
+    Malta: { country: 'Malta', continent: 'Europe' },
+    Maupiti: { country: 'French Polynesia', continent: 'Oceania' },
+    Maui: { country: 'United States', continent: 'Oceania' },
+    Menorca: { country: 'Spain', continent: 'Europe' },
+    Mindanao: { country: 'Philippines', continent: 'Asia' },
+    Molokai: { country: 'United States', continent: 'Oceania' },
+    Montserrat: { country: 'United Kingdom', continent: 'North America' },
+    Moorea: { country: 'French Polynesia', continent: 'Oceania' },
+    Nauru: { country: 'Nauru', continent: 'Oceania' },
+    Nevis: { country: 'Saint Kitts and Nevis', continent: 'North America' },
+    'New Guinea': { country: 'Indonesia, Papua New Guinea', continent: 'Oceania' },
+    'New Zealand North Island': { country: 'New Zealand', continent: 'Oceania' },
+    'New Zealand South Island': { country: 'New Zealand', continent: 'Oceania' },
+    Niue: { country: 'Niue', continent: 'Oceania' },
+    Norfolk: { country: 'Australia', continent: 'Oceania' },
+    'Norfolk Island': { country: 'Australia', continent: 'Oceania' },
+    'North Island': { country: 'New Zealand', continent: 'Oceania' },
+    Oahu: { country: 'United States', continent: 'Oceania' },
+    Palawan: { country: 'Philippines', continent: 'Asia' },
+    Phuket: { country: 'Thailand', continent: 'Asia' },
+    Pitcairn: { country: 'United Kingdom', continent: 'Oceania' },
+    'Prince Edward Island': { country: 'Canada', continent: 'North America' },
+    Rarotonga: { country: 'Cook Islands', continent: 'Oceania' },
+    Rhodes: { country: 'Greece', continent: 'Europe' },
+    Saba: { country: 'Netherlands', continent: 'North America' },
+    Saipan: { country: 'United States', continent: 'Oceania' },
+    Sakhalin: { country: 'Russia', continent: 'Asia' },
+    Sardinia: { country: 'Italy', continent: 'Europe' },
+    Shikoku: { country: 'Japan', continent: 'Asia' },
+    Sicily: { country: 'Italy', continent: 'Europe' },
+    'South Island': { country: 'New Zealand', continent: 'Oceania' },
+    'Sri Lanka': { country: 'Sri Lanka', continent: 'Asia' },
+    'St Helena': { country: 'United Kingdom', continent: 'Africa' },
+    'St Lucia': { country: 'Saint Lucia', continent: 'North America' },
+    'St Martin': { country: 'France, Netherlands', continent: 'North America' },
+    Statia: { country: 'Netherlands', continent: 'North America' },
+    Sulawesi: { country: 'Indonesia', continent: 'Asia' },
+    Sumatra: { country: 'Indonesia', continent: 'Asia' },
+    Sumbawa: { country: 'Indonesia', continent: 'Asia' },
+    Tahiti: { country: 'French Polynesia', continent: 'Oceania' },
+    Taiwan: { country: 'Taiwan', continent: 'Asia' },
+    Tasmania: { country: 'Australia', continent: 'Oceania' },
+    Tenerife: { country: 'Spain', continent: 'Africa' },
+    Timor: { country: 'Timor-Leste, Indonesia', continent: 'Asia' },
+    Tobago: { country: 'Trinidad and Tobago', continent: 'North America' },
+    'Tristan da Cunha': { country: 'United Kingdom', continent: 'Africa' },
+    Tubuai: { country: 'French Polynesia', continent: 'Oceania' },
+    Ulleungdo: { country: 'South Korea', continent: 'Asia' },
+    'Vancouver Island': { country: 'Canada', continent: 'North America' },
+    Zakynthos: { country: 'Greece', continent: 'Europe' }
+};
+
 const targetPanel = document.querySelector('.island-target-map-panel');
 const answerPanel = document.querySelector('.island-answer-map-panel');
 const confirmButton = document.querySelector('#island-confirm');
@@ -174,6 +280,10 @@ function hashName(name) {
 
 function generatedIsland(seed, difficulty, index) {
     const labels = ['A', 'B', 'C', 'D', 'E'];
+    const meta = islandMeta[seed.name] || {
+        country: 'Unknown',
+        continent: 'Unknown'
+    };
     const radiusRanges = {
         level1: { min: 170, max: 900 },
         level2: { min: 65, max: 160 },
@@ -194,9 +304,12 @@ function generatedIsland(seed, difficulty, index) {
     );
 
     return {
-        name: `${seed.name} ${labels[index]}`,
+        id: `${difficulty}-${seed.name}-${labels[index]}`,
+        name: seed.name,
         baseName: seed.name,
         difficulty,
+        country: meta.country,
+        continent: meta.continent,
         lat: Math.max(-85, Math.min(85, seed.lat + latOffset)),
         lng: Math.max(-180, Math.min(180, seed.lng + lngOffset)),
         radiusKm
@@ -236,7 +349,7 @@ function shuffled(items) {
 function refillDeck(difficulty) {
     const deck = shuffled(questionBanks[difficulty]);
 
-    if (state.current && deck.length > 1 && deck[0].name === state.current.name) {
+    if (state.current && deck.length > 1 && deck[0].id === state.current.id) {
         [deck[0], deck[1]] = [deck[1], deck[0]];
     }
 
@@ -343,6 +456,11 @@ function showFeedback(isCorrect) {
         name.className = 'island-feedback-name';
         name.textContent = state.current.name;
         feedback.append(name);
+
+        const meta = document.createElement('span');
+        meta.className = 'island-feedback-meta';
+        meta.textContent = `${state.current.country} · ${state.current.continent}`;
+        feedback.append(meta);
     }
 
     confettiLayer.append(feedback);
@@ -368,7 +486,15 @@ function renderHistory() {
         name.className = 'island-history-name';
         name.textContent = entry.name;
 
-        item.append(result, name);
+        const meta = document.createElement('span');
+        meta.className = 'island-history-meta';
+        meta.textContent = `${entry.country} · ${entry.continent}`;
+
+        const place = document.createElement('span');
+        place.className = 'island-history-place';
+        place.append(name, meta);
+
+        item.append(result, place);
         historyList.append(item);
     });
 }
@@ -380,7 +506,9 @@ function recordHistory(isCorrect) {
 
     state.history.unshift({
         isCorrect,
-        name: state.current.name
+        name: state.current.name,
+        country: state.current.country,
+        continent: state.current.continent
     });
 
     renderHistory();
