@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T22:50:30.071178+00:00",
+  "generated_at": "2026-06-27T22:43:15.002913+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01873-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Hazard",
+        "Cryosphere",
+        "Resilience (materials science)",
+        "Terrain",
+        "Sustainability",
+        "Global warming",
+        "Psychological resilience"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01881-0",
@@ -59,7 +68,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01881-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Agriculture",
+        "Yield (engineering)",
+        "Climate change",
+        "Crop loss",
+        "Productivity",
+        "Agricultural productivity",
+        "Food insecurity",
+        "Inequality"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01866-z",
@@ -77,7 +95,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01866-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Solvation",
+        "Electrolyte",
+        "Electrochemistry",
+        "Kinetics",
+        "Ion",
+        "Charge (physics)",
+        "Solvent",
+        "Solvation shell"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01883-y",
@@ -95,7 +122,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01883-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Decoupling (probability)",
+        "Resource (disambiguation)",
+        "Resource consumption",
+        "Production (economics)",
+        "Consumption (sociology)",
+        "Planetary boundaries"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02024-y",
@@ -113,7 +147,18 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02024-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Nutrient",
+        "Biogeochemical cycle",
+        "Ecosystem",
+        "Phytoplankton",
+        "Aquatic ecosystem",
+        "Hypoxia (environmental)",
+        "Freshwater ecosystem",
+        "Nutrient cycle",
+        "Hypolimnion",
+        "Nutrient management"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02014-0",
@@ -131,7 +176,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02014-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carbon fixation",
+        "Heterotroph",
+        "Obligate",
+        "Carbon cycle",
+        "Carbon flux",
+        "Autotroph",
+        "Nitrogen fixation",
+        "Bacteria"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02681-2",
@@ -149,7 +203,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02681-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Greening",
+        "Climate change",
+        "Work (physics)",
+        "Global warming",
+        "Climate system",
+        "Ecological forecasting",
+        "Global climate",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02673-2",
@@ -167,7 +230,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02673-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Mental health",
+        "Outcome (game theory)",
+        "Adaptation (eye)",
+        "Global mental health",
+        "Cognition",
+        "Key (lock)",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02679-w",
@@ -185,7 +256,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02679-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Resilience (materials science)",
+        "Heat stress",
+        "Climate change",
+        "Climate extremes",
+        "Extreme heat",
+        "Extreme weather",
+        "Tree (set theory)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02682-1",
@@ -203,7 +282,13 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02682-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Download",
+        "Climate change",
+        "Crop",
+        "Climate extremes",
+        "Coronavirus disease 2019 (COVID-19)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02029-7",
@@ -2614,14 +2699,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001491",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Crop",
+        "Field (mathematics)",
+        "Crop yield",
+        "Yield (engineering)",
+        "Field experiment"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101719",
