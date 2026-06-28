@@ -267,19 +267,28 @@ const state = {
     nextTimer: null,
     confettiTimer: null,
     history: [],
-    decks: {}
+    decks: {},
+    guessLatLng: null
 };
 
 let targetMap;
 let answerMap;
-let targetOutline;
+let targetPointer;
+let answerPointer;
 
 function hashName(name) {
     return Array.from(name).reduce((hash, char) => hash + char.charCodeAt(0), 0);
 }
 
 function generatedIsland(seed, difficulty, index) {
-    const labels = ['A', 'B', 'C', 'D', 'E'];
+    const variants = [
+        { id: 'north', label: 'north coast' },
+        { id: 'east', label: 'east coast' },
+        { id: 'south', label: 'south coast' },
+        { id: 'west', label: 'west coast' },
+        { id: 'central', label: 'central coast' }
+    ];
+    const variant = variants[index];
     const meta = islandMeta[seed.name] || {
         country: 'Unknown',
         continent: 'Unknown'
@@ -291,7 +300,7 @@ function generatedIsland(seed, difficulty, index) {
         level4: { min: 8, max: 30 },
         level5: { min: 2, max: 9 }
     };
-    const angle = (Math.PI * 2 * index) / labels.length + hashName(seed.name) * 0.01;
+    const angle = (Math.PI * 2 * index) / variants.length + hashName(seed.name) * 0.01;
     const distanceKm = seed.radiusKm * (0.08 + index * 0.035);
     const latOffset = Math.sin(angle) * distanceKm / 111;
     const lngScale = Math.max(0.25, Math.cos(seed.lat * Math.PI / 180));
@@ -304,8 +313,8 @@ function generatedIsland(seed, difficulty, index) {
     );
 
     return {
-        id: `${difficulty}-${seed.name}-${labels[index]}`,
-        name: seed.name,
+        id: `${difficulty}-${seed.name}-${variant.id}`,
+        name: `${seed.name} ${variant.label}`,
         baseName: seed.name,
         difficulty,
         country: meta.country,
@@ -380,10 +389,31 @@ function scaledIslandBounds(island, padding) {
     return [[south, west], [north, east]];
 }
 
-function createTileLayer() {
-    return L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
+function createTileLayer(options = {}) {
+    if (options.noLabels) {
+        return L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
+            maxZoom: 10,
+            subdomains: 'abcd',
+            attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+        });
+    }
+
+    return L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 10,
-        subdomains: 'abcd'
+        attribution: '&copy; OpenStreetMap contributors'
+    });
+}
+
+function createPointerIcon() {
+    return L.divIcon({
+        className: 'island-pointer-icon',
+        html: `
+            <svg class="island-pointer-shape" viewBox="0 0 34 44" aria-hidden="true" focusable="false">
+                <path d="M5 3L5 35L14 26L20 41L27 38L21 24L33 24Z"></path>
+            </svg>
+        `,
+        iconSize: [38, 48],
+        iconAnchor: [5, 4]
     });
 }
 
@@ -396,6 +426,7 @@ function clearConfetti() {
     window.clearTimeout(state.confettiTimer);
     confettiLayer.innerHTML = '';
     confettiLayer.classList.remove('is-active', 'is-error');
+    targetPanel.querySelectorAll('.island-map-feedback').forEach((feedback) => feedback.remove());
 }
 
 function showNextIsland() {
@@ -403,12 +434,26 @@ function showNextIsland() {
     clearConfetti();
     clearPanelStates();
     state.current = chooseIsland();
+    state.guessLatLng = null;
+    if (answerPointer) {
+        answerPointer.remove();
+        answerPointer = null;
+    }
     targetMap.fitBounds(targetBounds(state.current), {
         animate: false,
         padding: [8, 8],
         maxZoom: 10
     });
-    targetOutline.setBounds(scaledIslandBounds(state.current, 1));
+    if (!targetPointer) {
+        targetPointer = L.marker([state.current.lat, state.current.lng], {
+            icon: createPointerIcon(),
+            interactive: false,
+            keyboard: false
+        }).addTo(targetMap);
+        return;
+    }
+
+    targetPointer.setLatLng([state.current.lat, state.current.lng]);
 }
 
 function boundsArea(bounds) {
@@ -439,17 +484,24 @@ function boundsOverlapRatio(targetBounds, answerBounds) {
     return (overlapWidth * overlapHeight) / referenceArea;
 }
 
+function guessHitsTarget() {
+    if (!state.current || !state.guessLatLng) {
+        return false;
+    }
+
+    return L.latLngBounds(scaledIslandBounds(state.current, 1.15)).contains(state.guessLatLng);
+}
+
 function showFeedback(isCorrect) {
     clearConfetti();
-    confettiLayer.classList.add('is-active');
 
     const feedback = document.createElement('div');
-    feedback.className = `island-feedback ${isCorrect ? 'is-correct' : 'is-wrong'}`;
+    feedback.className = `island-map-feedback ${isCorrect ? 'is-correct' : 'is-wrong'}`;
 
-    const mark = document.createElement('span');
-    mark.className = 'island-feedback-mark';
-    mark.textContent = isCorrect ? '✔️' : '❌';
-    feedback.append(mark);
+    const result = document.createElement('span');
+    result.className = 'island-feedback-result';
+    result.textContent = isCorrect ? 'Correct' : 'Wrong';
+    feedback.append(result);
 
     if (isCorrect && state.current) {
         const name = document.createElement('span');
@@ -463,7 +515,7 @@ function showFeedback(isCorrect) {
         feedback.append(meta);
     }
 
-    confettiLayer.append(feedback);
+    targetPanel.append(feedback);
 
     state.confettiTimer = window.setTimeout(clearConfetti, isCorrect ? 2600 : 1800);
 }
@@ -522,8 +574,7 @@ function confirmAnswer() {
 
     clearPanelStates();
 
-    const overlap = boundsOverlapRatio(targetMap.getBounds(), answerMap.getBounds());
-    const isCorrect = overlap >= difficultySettings[state.difficulty].overlap;
+    const isCorrect = guessHitsTarget();
 
     if (isCorrect) {
         targetPanel.classList.add('is-win');
@@ -547,6 +598,21 @@ function setDifficulty(difficulty) {
         button.classList.toggle('is-active', button.dataset.difficulty === difficulty);
     });
     showNextIsland();
+}
+
+function setAnswerPointer(latLng) {
+    state.guessLatLng = latLng;
+
+    if (!answerPointer) {
+        answerPointer = L.marker(latLng, {
+            icon: createPointerIcon(),
+            interactive: false,
+            keyboard: false
+        }).addTo(answerMap);
+        return;
+    }
+
+    answerPointer.setLatLng(latLng);
 }
 
 function initIslandGame() {
@@ -578,15 +644,11 @@ function initIslandGame() {
         worldCopyJump: true
     });
 
-    createTileLayer().addTo(targetMap);
+    createTileLayer({ noLabels: true }).addTo(targetMap);
     createTileLayer().addTo(answerMap);
-    targetOutline = L.rectangle([[0, 0], [0, 0]], {
-        color: '#000',
-        weight: 2,
-        opacity: 1,
-        fill: false,
-        interactive: false
-    }).addTo(targetMap);
+    answerMap.on('click', (event) => {
+        setAnswerPointer(event.latlng);
+    });
     difficultyButtons.forEach((button) => {
         button.addEventListener('click', () => setDifficulty(button.dataset.difficulty));
     });

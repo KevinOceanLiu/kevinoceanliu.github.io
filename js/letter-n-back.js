@@ -66,6 +66,13 @@ function currentAccuracy() {
 function renderHistory() {
     historyList.innerHTML = '';
 
+    if (!state.history.length) {
+        const emptyItem = document.createElement('li');
+        emptyItem.textContent = 'No history yet';
+        historyList.append(emptyItem);
+        return;
+    }
+
     state.history.forEach((entry, index) => {
         const item = document.createElement('li');
         item.textContent = `${index + 1}. ${entry.score}/${entry.attempted} - ${entry.accuracy}% - n=${entry.level}, sec=${entry.seconds}, letters=${entry.letterCount}`;
@@ -199,6 +206,7 @@ answerInput.addEventListener('input', () => {
 startButton.addEventListener('click', startGame);
 resetButton.addEventListener('click', resetGame);
 historyToggle.addEventListener('click', () => {
+    renderHistory();
     historyPanel.hidden = !historyPanel.hidden;
 });
 secondsSelect.addEventListener('change', resetGame);
