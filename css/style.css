@@ -4226,10 +4226,37 @@ a.link-arrow:hover,
     flex-direction: column;
 }
 
+.news-carousel {
+    width: min(780px, calc(100% - 32px));
+    margin: auto;
+    aspect-ratio: 16 / 10;
+    position: relative;
+    overflow: hidden;
+    background: #fff;
+}
+
+.news-carousel-image {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.news-carousel-image.is-active {
+    opacity: 1;
+}
+
 .page-with-closing .page-closing {
     width: 100%;
     margin-top: auto;
     flex: 0 0 auto;
+}
+
+.news-page.page-with-closing .page-closing {
+    margin-top: 0;
 }
 
 .page-closing,

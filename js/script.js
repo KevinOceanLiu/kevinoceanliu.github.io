@@ -271,6 +271,22 @@ if (citationCount) {
 }
 
 // ====================
+// News Carousel
+// ====================
+
+const newsCarouselImages = document.querySelectorAll('.news-carousel-image');
+
+if (newsCarouselImages.length > 1) {
+    let activeNewsImage = 0;
+
+    setInterval(() => {
+        newsCarouselImages[activeNewsImage].classList.remove('is-active');
+        activeNewsImage = (activeNewsImage + 1) % newsCarouselImages.length;
+        newsCarouselImages[activeNewsImage].classList.add('is-active');
+    }, 5000);
+}
+
+// ====================
 // Subscribe Form
 // ====================
 
