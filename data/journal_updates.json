@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T22:14:22.651089+00:00",
+  "generated_at": "2026-06-29T22:20:23.575376+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,55 +26,118 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115544",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115544",
+      "title": "Remote sensing of planetary boundary layer from ground and space: Structure, thermodynamics, and boundary layer clouds",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003147",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2691066",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2691066",
+      "title": "Do foundation models work for geospatial tabular data? An investigation of TabPFN and a proposed enhancement based on geospatial sparse attention",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-29",
+      "published_date_display": "2026-06-29",
+      "published_parts": [
+        2026,
+        6,
+        29
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2691066",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2660988",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2660988",
+      "title": "Brain-inspired representations of urban space",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-06-29",
+      "published_date_display": "2026-06-29",
+      "published_parts": [
+        2026,
+        6,
+        29
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2660988",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2686203",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2686203",
+      "title": "Mediated Pedagogies: Edufluencers and the Making of Public Geography in India",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-29",
+      "published_date_display": "2026-06-29",
+      "published_parts": [
+        2026,
+        6,
+        29
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686203",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2681729",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2681729",
+      "title": "Measuring and Accounting for War Destruction Using Human-Reported and Satellite-Derived Conflict Data: Ukraine, 2022–2023",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-06-29",
+      "published_date_display": "2026-06-29",
+      "published_parts": [
+        2026,
+        6,
+        29
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681729",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.rse.2026.115547",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115547",
       "title": "Satellite-derived daily shortwave radiation over the Tibetan Plateau considering topographic effects: Method and products",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-06-28",
+      "published_date_display": "2026-06-28",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003172",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115549",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115549",
-      "title": "Assessing CWSI as an indicator of water stress in oak trees based on high-resolution thermal images",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003196",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.008",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.008",
-      "title": "SpectralX: Parameter-efficient domain generalization for spectral Remote Sensing Foundation Models",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600314X",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Shortwave",
+        "Shortwave radiation",
+        "Terrain",
+        "Satellite",
+        "Radiation",
+        "Climate change",
+        "Plateau (mathematics)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115542",
@@ -97,6 +160,31 @@
         "Potassium",
         "Space (punctuation)",
         "Spectral signature"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115549",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115549",
+      "title": "Assessing CWSI as an indicator of water stress in oak trees based on high-resolution thermal images",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-28",
+      "published_date_display": "2026-06-28",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003196",
+      "abstract": "Early detection of decline in forests—even before visual symptoms appear—would allow rapid interventions and would be facilitated by remote sensing indicators derived from high-resolution imagery. Thermal imaging can reveal the difference between canopy and air temperatures (Tc-Ta), which is widely used to assess early stress in both agricultural and natural systems. However, Tc-Ta is highly sensitive to variations in meteorological conditions. The Crop Water Stress Index (CWSI) was formulated to normalise Tc-Ta using theoretical or empirical baselines derived from fully irrigated and water-stressed reference conditions to minimise meteorological effects. While the CWSI is commonly applied to crops, its performance in natural and forested ecosystems remains largely untested. Here, we explored the use of the CWSI to monitor water-stress dynamics in holm oak ( Quercus ilex ) forests in different locations over time. Using an extensive database of aerial images at high spatial and temporal resolution to record canopy temperature continuously at two locations, we developed a standardised baseline specifically for holm oak forests. We also recorded relative humidity, air temperature, and crown temperature and collected field measurements of stem water potential and stomatal conductance. The CWSI was significantly correlated with both stem water potential (R 2 =0.526, p -value<0.05) and stomatal conductance (R 2 =0.517, p -value<0.05), suggesting that it could serve as a reliable indicator of water status in oak. Furthermore, image-based CWSI measurements allowed us to discriminate between different levels of oak decline, highlighting their utility for the dynamic monitoring of water status in forest trees.",
+      "keywords": [
+        "Canopy",
+        "Stomatal conductance",
+        "Water stress",
+        "Tree canopy",
+        "Hydrology (agriculture)",
+        "Thermography",
+        "Crown (dentistry)"
       ]
     },
     {
@@ -2634,14 +2722,20 @@
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
       "published_date": "2026-06-01",
-      "published_date_display": "2026-06",
+      "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
         6
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600283X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hyperspectral imaging",
+        "Reflectivity",
+        "Radiative transfer",
+        "Atmospheric radiative transfer codes",
+        "Notice"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115504",
@@ -12336,33 +12430,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115287",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115287",
-      "title": "Knowledge-guided graph machine learning improves corn yield mapping in the U.S. Midwest",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-05",
-      "published_date_display": "2026-02-05",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600057X",
-      "abstract": "Accurate large-scale crop yield mapping is crucial for understanding how weather and climate variability affect food security. While temporal deep learning models have achieved notable success in extracting time-series features for yield mapping, they often struggle to model spatial dependencies, such as yield spatial autocorrelations and the influence of time-invariant variables (e.g., soil properties and topography). To address this limitation, we propose KGML-Graph, a knowledge-guided graph machine learning framework that integrates spatial learning with temporal structures to explicitly capture these underutilized spatial dependencies. We incorporate knowledge-guided edge weights, derived from historical yield correlations, into the graph structure to identify patterns among counties with similar yield dynamics and enhance model training. The framework was evaluated using data from 627 counties across the U.S. Corn Belt from 2000 to 2020, benchmarking against Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and Temporal Convolutional Neural Network (TempCNN). Results show that KGML-Graph outperformed benchmarks in cross-year testing, reducing RMSE by at least 10.8%, and improved R 2 by at least 9.3% in temporal extrapolation during 2017–2020. Furthermore, it demonstrated superior spatial transferability by maintaining accuracy in unseen regions and significantly reducing spatial autocorrelation in estimation residuals. Under extreme climatic conditions, the model achieved at least a 14.4% improvement in R 2 on out-of-distribution test data and reduced the mean estimation residual from -0.413 to -0.074 metric tons per hectare, effectively mitigating the systematic yield overestimation observed in baseline models. Our attribution analyses highlighted the contributions of both graph structure and knowledge-guided edge weights to the improved performance by better capturing spatial patterns and representing key static variables, such as soil organic carbon content. These findings underscore the potential of KGML-Graph as a robust framework for unifying spatial and temporal learning to support accurate, large-scale crop yield mapping across diverse climatic and geographic conditions.",
-      "keywords": [
-        "Residual",
-        "Graph",
-        "Extrapolation",
-        "Spatial analysis",
-        "Convolutional neural network",
-        "Crop yield",
-        "Mean squared error",
-        "Deep learning",
-        "Pattern recognition (psychology)"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2623524",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2623524",
       "title": "Beyond the geotag: assessing implicit geoprivacy risks in visual user-generated content",
@@ -13474,6 +13541,31 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.008",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.008",
+      "title": "SpectralX: Parameter-efficient domain generalization for spectral Remote Sensing Foundation Models",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2025-08-03",
+      "published_date_display": "2025-08-03",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600314X",
+      "abstract": "",
+      "keywords": [
+        "Adapter (computing)",
+        "Leverage (statistics)",
+        "Segmentation",
+        "Generalization",
+        "Process (computing)",
+        "Task (project management)",
+        "Domain adaptation"
       ]
     },
     {
