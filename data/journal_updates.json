@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T22:20:23.575376+00:00",
+  "generated_at": "2026-06-30T22:40:15.622383+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115544",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115544",
-      "title": "Remote sensing of planetary boundary layer from ground and space: Structure, thermodynamics, and boundary layer clouds",
+      "doi": "10.1016/j.rse.2026.115553",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115553",
+      "title": "Optical, radar, and hybrid indices to detect farming practices in Europe",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,66 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003147",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003238",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.020",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.020",
+      "title": "SyneFloor: Synergizing zero-shot geometric priors and active learning for weakly supervised floorplan reconstruction",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003266",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.019",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.019",
+      "title": "A source-free unsupervised domain adaptation framework for large-scale, in-season soybean mapping",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003254",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115544",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115544",
+      "title": "Remote sensing of planetary boundary layer from ground and space: Structure, thermodynamics, and boundary layer clouds",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-29",
+      "published_date_display": "2026-06-29",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003147",
+      "abstract": "",
+      "keywords": [
+        "Planetary boundary layer",
+        "Boundary (topology)",
+        "Boundary layer",
+        "Layer (electronics)",
+        "Earth remote sensing"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2691066",
@@ -57,8 +114,16 @@
         29
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2691066",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Large-scale pretrained foundation models have transformed the machine learning paradigm. However, their applicability to Geospatial Tabular Data (GTD), particularly for regression tasks, remains poorly understood. This study systematically investigated TabPFN, a recent tabular foundation model, across synthetic data-generating processes and real-world geospatial regression tasks. We showed that while TabPFN generally outperforms state-of-the-art baselines, its performance degrades on large datasets and under strong, localised spatial dependence. To address these limitations, we proposed Geospatial Sparse Attention (GSA), a spatially informed inference strategy that injects geospatial inductive bias into the off-the-shelf TabPFN framework. The resulting model, TabPFN-GSA, prunes redundant attention calculations to better balance local and global spatial effects while improving scalability to large datasets. Empirical results showed that TabPFN-GSA delivers more accurate and robust predictions, particularly for large-scale GTD. Theoretically, this work advances our understanding of the strengths and limits of tabular foundation models in spatial contexts. Methodologically, it offers TabPFN-GSA, a principled, spatially explicit bridge between classical spatial modelling and modern foundation models.",
+      "keywords": [
+        "Geospatial analysis",
+        "Foundation (evidence)",
+        "Inference",
+        "Scalability",
+        "Spatial analysis",
+        "Bridge (graph theory)",
+        "Empirical research"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2660988",
@@ -75,8 +140,41 @@
         29
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2660988",
+      "abstract": "Geography and neuroscience share a core interest in understanding human behaviour in spatial environments. Yet, interdisciplinary collaboration is often limited by differences in methodology and epistemological assumptions. To help bridge this divide, we introduce a translational link between cognitive models of spatial processing in neuroscience and representations of geographic space. Building on long-standing theories that the brain predicts possible futures, the predictive map hypothesis suggests that locations in space are encoded according to their association with possible locations in the future. Here, we adapt a formal instantiation of this idea, the successor representation (SR), to urban space resulting in the geographic successor representation (gSR). We show that this cognitive model of geographic representation produces compelling unique features of urban space while remaining closely aligned with brain mechanisms of spatial processing. We outline several promising directions for extending this work, and propose that the gSR and its variants may provide spatial representations capable of supporting deeper integration between geographic and neuroscientific research.",
+      "keywords": [
+        "Representation (politics)",
+        "Spatial cognition",
+        "Space (punctuation)",
+        "Successor cardinal",
+        "Cognitive map",
+        "Cognition",
+        "Association (psychology)",
+        "Spatial relation",
+        "Bridge (graph theory)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.003",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.003",
+      "title": "Remote sensing change captioning meets large language and vision models",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-29",
+      "published_date_display": "2026-06-29",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003035",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Closed captioning",
+        "Remote sensing application",
+        "Change detection",
+        "Earth remote sensing",
+        "Reflectivity"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2686203",
@@ -94,7 +192,14 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686203",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Making-of",
+        "Human geography",
+        "Politics",
+        "Policy making",
+        "Field (mathematics)",
+        "Public policy"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2681729",
@@ -112,7 +217,14 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681729",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Transitional justice",
+        "Context (archaeology)",
+        "State (computer science)",
+        "Politics",
+        "Spanish Civil War",
+        "Government (linguistics)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115547",
@@ -185,6 +297,31 @@
         "Hydrology (agriculture)",
         "Thermography",
         "Crown (dentistry)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.008",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.008",
+      "title": "SpectralX: Parameter-efficient domain generalization for spectral Remote Sensing Foundation Models",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-28",
+      "published_date_display": "2026-06-28",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600314X",
+      "abstract": "",
+      "keywords": [
+        "Adapter (computing)",
+        "Leverage (statistics)",
+        "Segmentation",
+        "Generalization",
+        "Process (computing)",
+        "Task (project management)",
+        "Domain adaptation"
       ]
     },
     {
@@ -8803,30 +8940,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.021",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.021",
-      "title": "Railway track surface defect 3D reconstruction and relocalisation through cross-modality fusion",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001358",
-      "abstract": "Accurate localisation of track surface defects is critical for safe and cost-efficient railway maintenance. However, current reinspection workflows using portable non-destructive testing devices face positioning uncertainty due to the absence of spatial anchors. This research proposes a relocalisation workflow that requires neither ground infrastructure nor depth sensors. In the inspection stage, a three-layer 3D multimodal track model is reconstructed from digital images and thermograms using structure-from-motion and 2D-2D cross-modality registration. During the relocalisation stage, perspective-n-point is employed for 3D–2D spatial registration, projecting the 3D model onto on-site images to achieve accurate defect localisation without reinspection. The method was evaluated using nine shooting positions on seven artificial defects. Projected defects demonstrated improved perceptual separability (edge strength and contrast-to-noise ratio) over on-site images. At optimal imaging positions, the relocated defect centroids exhibited displacement errors range from 0.34 mm to 3.62 mm. The projection accuracy was further evaluated by Intersection over Union values ranging from 0.961 to 0.993 and Structural Similarity Index Measure ranging from 0.845 to 0.968.",
-      "keywords": [
-        "Track (disk drive)",
-        "Surface reconstruction",
-        "Fusion",
-        "Surface (topology)",
-        "3D reconstruction",
-        "Sensor fusion"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.029",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.029",
       "title": "Material proportion guided hyperspectral image super-resolution via unmixing",
@@ -8951,29 +9064,6 @@
         "Key (lock)",
         "Field (mathematics)",
         "Data collection"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.024",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.024",
-      "title": "A spherical-harmonic deep learning framework for generic tree morphology and species identification",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001383",
-      "abstract": "",
-      "keywords": [
-        "Deep learning",
-        "Identification (biology)",
-        "Pattern recognition (psychology)",
-        "Tree (set theory)",
-        "Morphology (biology)"
       ]
     },
     {
@@ -11091,33 +11181,6 @@
         "Principal component analysis",
         "Pattern recognition (psychology)",
         "Interpretability"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.014",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.014",
-      "title": "Global mapping of tidal wetlands and adjacent environments using tidal analysis and multi-source Earth observations",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-02",
-      "published_date_display": "2026-03-02",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000651",
-      "abstract": "Tidal wetlands, located at the dynamic land-sea interface, provide vital ecosystem services, yet face increasing threats from human activities and climate change. Accurate and up-to-date global mapping of tidal wetlands is essential for assessing their status and advancing conservation efforts. However, challenges such as tidal fluctuations and limited data availability lead to inconsistencies across existing datasets. Moreover, previous studies have largely overlooked the adjacent terrestrial environments of tidal wetlands, reducing our understanding of coastal dynamics and associated environmental drivers. To address these critical issues, this study proposes a novel global coastal mapping framework with three key components. First, using the ocean tide model EOT20, we systematically analyzed tidal variations observed in Sentinel-1 and Sentinel-2 imagery between 2019 and 2021, facilitating the development of an adaptive image selection strategy to ensure low-tide coverage. Second, we integrated multi-source global datasets and employed a knowledge-driven, semi-automatic sampling approach to generate training samples for tidal wetlands and adjacent land covers. Third, we iteratively trained and refined random forest models using tide-level and phenological features extracted from composite optical and radar imagery, producing a global coastal dataset centered on 2020 with 11 distinct land cover types. The mapping result was cross-compared with multiple global and regional coastal datasets and validated using the temporally cleaned external dataset, achieving an overall accuracy of 92.7%. By optimizing the selection of Sentinel scenes to approximately 10–50 in time-series composite mapping, this approach balances computational efficiency with intertidal classification accuracy. The dataset delineates the global distribution of tidal wetlands and their adjacent environments at a 10-m resolution; specifically, tidal wetlands–including mangroves, tidal marshes, and tidal flats, amount to 425,509 ± 932 km 2 . This fine-resolution and multi-category mapping framework enables a more precise identification of potential trade-offs between conservation and development, providing valuable references for sustainable coastal management.",
-      "keywords": [
-        "Wetland",
-        "Intertidal zone",
-        "Land cover",
-        "Earth observation",
-        "Climate change",
-        "Ecosystem",
-        "Sampling (signal processing)",
-        "Global warming",
-        "Coastal management"
       ]
     },
     {
@@ -13469,32 +13532,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2025.115159",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115159",
-      "title": "Temporal attention multi-resolution fusion of satellite image time-series, applied to Landsat-8/9 and Sentinel-2: all bands, any time, at best spatial resolution",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-11",
-      "published_date_display": "2025-12-11",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005632",
-      "abstract": "This paper introduces a general formulation for the fusion of Satellite Image Time Series (SITS) of variable length from several sensors at different spatial resolutions and acquisition times over the same geographical area. In this formulation, all the spectral bands from all the input sensors are predicted at the best input spatial resolution, and at any observed or non-observed acquisition time requested. To address this general problem, an advanced Masked Auto-Encoder training strategy is proposed, utilising two new loss functions: a Linear-Regression Learned Perceptual Image Similarity term to favor high spatial frequency details, and a mask-contrastive term to ignore clouds and other non-informative areas in the input data. This strategy is applied to the training of Temporal Attention Multi-Resolution Fusion of Satellite Image Time-Series (TAMRF-SITS), a novel Deep Learning architecture designed to implement the proposed general formulation. Experiments with joint Landsat-8/9 and Sentinel-2 time-series were conducted on four different tasks from the literature and demonstrate that a single pre-trained TAMRF is on par with or better than existing ad-hoc methods. For instance, TAMRF provides a gain of 0.01 surface reflectance Root Mean Square Error on a Spatio-Temporal Fusion task when compared to competing algorithms, while showing the highest spatial frequency content. Moreover, the proposed method relaxes unrealistic assumptions routinely found in the literature, including: same or similar spectral bands in different sensors, same-day acquisitions, and scale-invariance of the relationship between high and low resolution images. To the best of our knowledge, our method is the first to achieve this range of capabilities with a single model, without making any of these assumptions. The complete source code for training and experiments is available here: https://github.com/Evoland-Land-Monitoring-Evolution/tamrfsits .",
-      "keywords": [
-        "Satellite",
-        "Image fusion",
-        "Image resolution",
-        "Fusion",
-        "Satellite imagery",
-        "Sensor fusion",
-        "Temporal resolution",
-        "Satellite image"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2025.115187",
       "doi_url": "https://doi.org/10.1016/j.rse.2025.115187",
       "title": "Edge effects on forest dynamics in China from 2000 to 2020: Evidence from satellite remote sensing",
@@ -13541,31 +13578,6 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.008",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.008",
-      "title": "SpectralX: Parameter-efficient domain generalization for spectral Remote Sensing Foundation Models",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-08-03",
-      "published_date_display": "2025-08-03",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600314X",
-      "abstract": "",
-      "keywords": [
-        "Adapter (computing)",
-        "Leverage (statistics)",
-        "Segmentation",
-        "Generalization",
-        "Process (computing)",
-        "Task (project management)",
-        "Domain adaptation"
       ]
     },
     {
