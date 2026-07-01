@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T22:40:15.622383+00:00",
+  "generated_at": "2026-07-01T22:40:11.868671+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115553",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115553",
-      "title": "Optical, radar, and hybrid indices to detect farming practices in Europe",
+      "doi": "10.1016/j.rse.2026.115554",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115554",
+      "title": "High-resolution L-band VOD retrieval using GNSS-T–calibrated multi-sensor fusion and self-supervised learning",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,83 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003238",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600324X",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.034",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.034",
+      "title": "Prior-guided multi-domain mixture-of-experts for multimodal Earth observation data gaps",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003400",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.035",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.035",
+      "title": "A causal inference-guided dual-contrast decoupling framework for long-tailed SAR target recognition",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003412",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2686208",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2686208",
+      "title": "Incorporating Eligibility Constraints in Spatial Accessibility Modeling and Introducing Enhanced Rational Agent Access Model",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        7,
+        1
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686208",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115553",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115553",
+      "title": "Optical, radar, and hybrid indices to detect farming practices in Europe",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-30",
+      "published_date_display": "2026-06-30",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003238",
+      "abstract": "",
+      "keywords": [
+        "Agriculture",
+        "Precision agriculture",
+        "Extensive farming",
+        "Dairy farming"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.020",
@@ -49,32 +123,48 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-30",
+      "published_date_display": "2026-06-30",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003266",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Prior probability",
+        "Robustness (evolution)",
+        "Floorplan",
+        "Leverage (statistics)",
+        "Segmentation",
+        "Exploit",
+        "Supervised learning",
+        "Scalability"
+      ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.06.019",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.019",
-      "title": "A source-free unsupervised domain adaptation framework for large-scale, in-season soybean mapping",
+      "doi": "10.1016/j.isprsjprs.2026.06.033",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.033",
+      "title": "Enhancing point clouds for multi-scale object monitoring in large railway infrastructure scenes",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-06-30",
+      "published_date_display": "2026-06-30",
       "published_parts": [
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003254",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003394",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Point cloud",
+        "Object (grammar)",
+        "Point (geometry)",
+        "Object detection",
+        "Key (lock)",
+        "Visualization"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115544",
@@ -90,7 +180,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003147",
-      "abstract": "",
+      "abstract": "The planetary boundary layer (PBL) is a critical interface between Earth's surface and atmosphere, influencing atmospheric convection, weather patterns, and air quality. Recognized by the 2017 National Academies of Sciences, Engineering, and Medicine Earth Science Decadal Survey as an Incubation Targeted Observable, high-quality and effective observation of the PBL has become a priority. This paper reviews surface-based and satellite remote sensing techniques for characterizing PBL features, including PBL height (PBLH), boundary layer thermodynamics, turbulence, and boundary layer clouds (BLCs). These elements are treated as interconnected aspects of the PBL system, while recognizing that different instruments retrieve different physical manifestations of the PBL. The review summarizes recent advances and limitations in Micro-Pulse Lidar (MPL), Doppler lidar, Raman lidar, Differential Absorption Lidar (DIAL), ceilometers, wind profilers, GNSS Radio Occultation, radar, and hyperspectral sounders. These observations help trace dynamic processes within the PBL and link PBL structure to broader weather and climate processes. The review also highlights persistent observational gaps over oceans, remote land, and polar regions, where continuous surface-based profiling is sparse. By comparing instrument capabilities, practical limitations, and interpretation issues, this review emphasizes the need for integrated remote sensing approaches and careful definition of the retrieved PBL quantities.",
       "keywords": [
         "Planetary boundary layer",
         "Boundary (topology)",
@@ -191,7 +281,7 @@
         29
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686203",
-      "abstract": "",
+      "abstract": "The COVID-19 pandemic along with the expanding influence of digital platforms, have accelerated the growth and normalization of online teaching and learning globally, with particularly significant implications in India. This rapid transformation has reconfigured pedagogic modes and learning environments, also foregrounding the increasing prominence of educational actors and knowledge sources operating beyond the boundaries of formal academic institutions. In the Indian context, digital education has persisted beyond the pandemic, emerging as a key site for producing and circulating disciplinary knowledges. This existence is embedded within a hybrid ecosystem constituted by both the public and the private; where online platforms, coaching institutions, public universities, edufluencers, examinations, and learner aspirations intersect across online and offline domains providing high-quality, often free, educational content to mass audiences. This shift resonates with learning practices of the Global South that are often categorized as nonformal or informal education. Although concerns regarding digital divides and unequal access remain, online education platforms have expanded the reach and affordability of geography education, opening the discipline to those who seek tangible results—most notably employability, especially in the government sectors. Drawing on digital ethnography and in-depth interviews with edufluencers, higher education educators, and students, the article examines how geography is communicated particularly by edufluencers employing motivational discourse, relatable narratives, and personalized engagement. Edufluencers here emerge as central mediating actors reconfiguring academic learning through emotional investment and future-oriented aspirations. In doing so, they position learning not merely as a cognitive process, but as an aspirational and socially mediated practice, raising critical questions about the nature of disciplinary engagement within digitally mediated forms of public pedagogy.",
       "keywords": [
         "Making-of",
         "Human geography",
@@ -216,7 +306,7 @@
         29
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2681729",
-      "abstract": "",
+      "abstract": "Kenneth Hewitt’s (Citation1983) article detailed the destruction and death resulting from World War II aerial bombardments with a focus on German and Japanese cities. Given data limitations, his maps and analysis were not disaggregated below the city scale. We build on his pioneering efforts and the increasing availability of high-resolution conflict data to examine how our ability to measure and account for war destruction has changed in the last forty years, especially in narrowing the time lag between conflict events and subsequent analyses. Our analysis of the impact of the war in Ukraine in the twenty months after the Russian invasion of February 2022 relies on three existing datasets; a Ukraine-wide time series of urban damage data derived from open Sentinel-1 radar satellite imagery as well as two geolocated and time-stamped conflict event data sets (ACLED and VIINA). By comparing the conflict events to the urban damage in a space–time analytical framework, we present a multivariate approach to document the dynamics of urban destruction and account for factors contributing to shared or divergent assessments of the place, timing, and intensity of war. These methods represent a step toward the harmonization of multimethod war impact assessments, especially in the face of disputed facts in the “fog of war.”",
       "keywords": [
         "Transitional justice",
         "Context (archaeology)",
@@ -8940,29 +9030,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.029",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.029",
-      "title": "Material proportion guided hyperspectral image super-resolution via unmixing",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001449",
-      "abstract": "",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Image (mathematics)",
-        "Pattern recognition (psychology)",
-        "Image processing",
-        "Image segmentation"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.035",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.035",
       "title": "Mask-CDKD: A source-free and label-free cross-domain knowledge distillation framework from SAM for satellite onboard VHR land-cover mapping",
@@ -9784,33 +9851,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.003",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.003",
-      "title": "Lightweight and adaptive fusion framework using remote sensing derived scene backbone map for positioning enhancement in urban NLOS environments",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001140",
-      "abstract": "",
-      "keywords": [
-        "GNSS applications",
-        "Robustness (evolution)",
-        "Non-line-of-sight propagation",
-        "Scalability",
-        "Sensor fusion",
-        "Mobile mapping",
-        "Backbone network",
-        "Global Positioning System",
-        "Feature extraction"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.009",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.009",
       "title": "From canopy to ground via ForestGen3D: Learning cross-domain generation of 3D forest structure from aerial-to-terrestrial LiDAR",
@@ -10565,29 +10605,6 @@
         "Triangulation",
         "Process (computing)",
         "Noise (video)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.036",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.036",
-      "title": "Causally regularized full-resolution channel attention and frequency refinement for cloud removal in satellite imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-10",
-      "published_date_display": "2026-03-10",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000961",
-      "abstract": "",
-      "keywords": [
-        "Satellite imagery",
-        "Channel (broadcasting)",
-        "Cloud computing",
-        "Satellite",
-        "Image (mathematics)"
       ]
     },
     {
@@ -12285,33 +12302,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115272",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115272",
-      "title": "User and data-centric artificial intelligence for mapping and benchmarking urban deprivation for a global sample of cities",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-11",
-      "published_date_display": "2026-02-11",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000428",
-      "abstract": "Rapid urbanization across many regions worldwide has significantly contributed to the growth of deprived urban areas (DUAs), often called slums or informal settlements. The lack of reliable geospatial information on their location and extent in many cities continues to hinder efforts aimed at improving living conditions. This study addresses this critical information gap by exploring a User- and Data-centric Artificial Intelligence (AI) approach for accurately mapping these areas to support Sustainable Development Goal (SDG) Indicator 11.1.1. In collaboration with local communities, governments, and international stakeholders, we co-designed an AI-driven strategy leveraging open Earth Observation (EO) and geospatial data acrosseight cities worldwide. Instead of relying solely on algorithmic precision, our method prioritizes local knowledge, iterative validation, and adaptive data collection. To achieve this, we developed a tailored multi-branch encoder-decoder convolutional neural network capable of integrating multi-modal data sources. Our approach incorporates an agile and iterativemodel refinement process, ensuring continuous feedback loops between AI design, data collection, and validation. Recognizing the importance of stakeholder engagement, we developed the IDEAtlas collaborative data collection platform - https://portal.ideatlas.eu/ - to enhance data quality and inclusivity. The resulting dataset (IDEABench) is publicly available at https://doi.org/10.17026/PT/X4NJII to facilitate continued research and development. Findings indicate that fusing multi-spectral EO data with urban morphometric features, particularly Sentinel-2 imagery and built-up density, provides the highest accuracy for identifying DUAs. Furthermore, improvements in reference data quality through the IDEAtlas platform led to increased mapping precision. However, the significant variability in accuracy across cities underscores the complexity of the task and suggests the need for supplementary geospatial data to complement EO-driven analysis. The code used in this study is available at https://github.com/IDEAtlas/ai-dua-mapping .",
-      "keywords": [
-        "Geospatial analysis",
-        "Benchmarking",
-        "Sample (material)",
-        "Stakeholder",
-        "Convolutional neural network",
-        "Data collection",
-        "Urbanization",
-        "Data quality",
-        "Geomatics"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2628193",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2628193",
       "title": "Travel time prediction from sparse open data",
@@ -13744,6 +13734,36 @@
         "Econometrics",
         "Mathematics",
         "Theoretical computer science"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.019",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.019",
+      "title": "A source-free unsupervised domain adaptation framework for large-scale, in-season soybean mapping",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003254",
+      "abstract": "Reliable in-season soybean mapping remains difficult in heterogeneous and data-poor agricultural regions because phenology, management, and cloud-driven sampling differences induce substantial domain shifts, causing models trained in one region to generalize poorly to new landscapes. Since collecting dense, region-specific labels every season is often impractical, unsupervised domain adaptation (UDA) offers a practical route for adapting models using unlabeled target imagery. However, standard UDA commonly assumes access to source-domain imagery during adaptation, which increases data-sharing, storage, and computational burdens and limits scalable deployment. We propose a source-free unsupervised domain adaptation framework, Contrastive Representation Optimized Prototype Segmentation (CROPS), to deliver large-area, in-season soybean maps using only a pretrained model and unlabeled target imagery. CROPS constructs NDVI-based QualityMosaic maximum-NDVI composites that anchor each pixel to a phenology-informed high-canopy observation, mitigate cloud-related sampling noise, and reduce temporal redundancy. It then builds a crop-specific easy/hard reliability partition from the NDVI-QM target patches, combining entropy-based confidence, semantic dominance, boundary credibility, and class-balanced quotas. Reliable easy patches define target-domain semantic prototypes, whereas hard patches are incorporated later through prototype-guided alignment and teacher-confidence-modulated supervision. Across six target sites spanning the USA, China, Brazil, and Argentina, CROPS consistently outperforms other baselines and UDA methods. In end-of-season evaluation, CROPS achieves an average macro-F1 of 92.44 percent with IoU of 79.73 percent, closely matches official statistics at administrative-unit scale, and remains close to an Oracle upper bound trained with the full target reference data. In-season analyses show that CROPS advances the operational high-accuracy milestone, macro-F1 at least 0.80, by about 35 to 41 days in strongly shifted regions and remains robust under persistent cloud contamination. Additional experiments in selected three-class settings demonstrate promising within-season separation of soybean, corn, and background and improved cross-sensor transfer from Sentinel-2 to Landsat 8. Overall, CROPS provides a timely, scalable, and privacy-compatible pathway for operational crop mapping under limited labels and restricted source-data access.",
+      "keywords": [
+        "Adaptation (eye)",
+        "Scale (ratio)",
+        "Domain adaptation",
+        "Domain (mathematical analysis)",
+        "Computer science",
+        "Environmental science",
+        "Geography",
+        "Mathematics",
+        "Artificial intelligence",
+        "Cartography",
+        "Psychology",
+        "Neuroscience"
       ]
     },
     {
