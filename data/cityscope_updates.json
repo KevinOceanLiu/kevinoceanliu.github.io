@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T23:39:02.519863+00:00",
+  "generated_at": "2026-07-01T23:43:23.496280+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,6 +31,75 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.compenvurbsys.2026.102488",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102488",
+      "title": "Spotting rat-runs: A network-based method for identifying potential cut-through routes in Bogotá, Colombia",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000906",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107297",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107297",
+      "title": "Framing social innovation in EU urban policy: Insights from the urban innovative actions (UIA) community initiative",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005299",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107310",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107310",
+      "title": "Biologically inspired machine learning for evaluating stress recovery in urban streetscapes",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005421",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00470-8",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00470-8",
+      "title": "eDNA, forensic ecologies and the barcoding of urban life",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        7,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00470-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1177/00420980261458527",
       "doi_url": "https://doi.org/10.1177/00420980261458527",
       "title": "The effects of International City Network membership: Urban AI policies and the Cities Coalition for Digital Rights",
@@ -46,7 +115,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261458527",
       "abstract": "Cities worldwide are participating in International City Networks (ICNs) to build capacities and develop responses to artificial intelligence (AI)-driven digital transformation, yet the role of ICNs in AI governance remains understudied. Addressing this gap, this article conducts a case study of the Cities Coalition for Digital Rights (CCDR), an ICN advocating for a human rights-based approach to urban digitalization. It asks: How does CCDR membership affect cities’ AI policies? AI is increasingly integrated into urban governance, with cities adopting AI-driven applications to enhance efficiency and sustainability. At the same time, AI raises significant concerns regarding the protection of citizens’ rights, data privacy, equity, transparency, and accountability, requiring regulatory frameworks that define the conditions under which such applications are utilized. Local approaches vary considerably in the extent to which cities adopt application-oriented policies, focused on the use of AI systems, and regulatory policies, which establish governance frameworks and normative principles. This article argues that trans-local interactions within ICNs affect local policy through processes of social learning, enhancing implementation capacities and informing policy preferences. Drawing on data from the Atlas of Urban AI, the article compares 161 AI initiatives from 15 CCDR member cities and 15 non-members. It classifies cities’ approaches in application-oriented and regulatory policies and assesses alignment with CCDR principles. The findings show that CCDR member cities adopt a higher number of AI initiatives and demonstrate greater regulatory depth, with a stronger emphasis on regulatory policies reflecting rights-based, ethical governance, highlighting the active role of ICNs in global AI governance.",
-      "keywords": []
+      "keywords": [
+        "Normative",
+        "Corporate governance",
+        "Urban policy",
+        "Human rights",
+        "Urban planning",
+        "Global governance",
+        "Affect (linguistics)",
+        "Public policy"
+      ]
     },
     {
       "doi": "10.1177/00420980261456496",
@@ -64,7 +142,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261456496",
       "abstract": "This article examines the coalitions underpinning opposition to housing development across the Paris metropolitan area. Drawing on a database of 141 housing-related development conflicts (2017–2022), compiled through local press analysis and socio-spatial mapping, it analyzes how local mobilizations are distributed across the metropolitan territory and which actors participate in them. The findings reveal a highly fragmented landscape of contention. Most conflicts are driven by ultra-local coalitions linking neighborhood groups and local political actors, predominantly concentrated in socially mixed middle-class areas. Broader environmental coalitions do emerge, but they remain socially and spatially selective, concentrated in upper- and upper-middle-class neighborhoods endowed with greater symbolic and cultural resources. By articulating coalition-building processes with the socio-spatial characteristics of neighborhoods, the article demonstrates that the capacity of local mobilizations to connect with wider actors is unevenly distributed and shaped by metropolitan inequalities. It shows that territorially bounded struggles must be situated within metropolitan-scale patterns of mobilization. These findings also point to the need for greater analytical attention to the articulation between relational and territorial forms of structuring in contemporary land-use conflicts.",
-      "keywords": []
+      "keywords": [
+        "Metropolitan area",
+        "Underpinning",
+        "Opposition (politics)",
+        "Situated",
+        "Politics",
+        "Articulation (sociology)",
+        "Structuring",
+        "Urban politics"
+      ]
     },
     {
       "doi": "10.1177/00420980261446407",
@@ -82,7 +169,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261446407",
       "abstract": "Pathology informs and structures urban spaces. This article explores the relationship between the urban and the pathological by trailing the Aedes mosquito, the dengue vector, to trace the intersection of the civic, social, ecological, and political in the everyday life of Delhi. To control the possibility of a dengue epidemic, the gaze of public health authorities primarily focuses on areas considered inherently “dirty”—localities of East Delhi at the margins of the city, situated at Yamuna riverfront, populated by working-class migrants living in unauthorized colonies. The residents of such areas, however, have to deal with the absence of basic urban infrastructure on one hand, while also being under the stringent administrative glare for pest control. Interestingly, both the inhabitants of these areas and their administrators express the ungovernable stubbornness of such regions using the colloquial expression “ Khula area.” Based on a multi-sited ethnography, this work follows many usages of the term Khula by several actors across the city, including scientists, city administrators, and frontline workers. Then, it argues that the word Khula is an empty signifier, which, through many of its meanings, enables us to see urban spaces through the prism of the pathological and all things that fall within its shadow.",
-      "keywords": []
+      "keywords": [
+        "Situated",
+        "Prism",
+        "Expression (computer science)",
+        "Politics",
+        "Democracy",
+        "Urbanism",
+        "Intersection (aeronautics)",
+        "Public health"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00473-5",
@@ -100,7 +196,13 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00473-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Settlement (finance)",
+        "Informal sector",
+        "Informal settlements",
+        "Transformation (genetics)",
+        "Informal education"
+      ]
     },
     {
       "doi": "10.1177/00420980261454799",
@@ -118,7 +220,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261454799",
       "abstract": "Historic preservation and equity goals often conflict in urban neighborhoods, creating policy dilemmas where heritage conservation may either support or undermine community stability and affordable housing. This article addresses three questions: How do preservation-equity dynamics vary across different urban contexts? What neighborhood types emerge when areas are clustered by preservation and market conditions? What context-specific strategies might promote both heritage conservation and social equity? Using Chicago as a case study, we apply k-medoids clustering analysis to eight variables measuring potentially significant historic resources, preservation designations, affordability, income, racial composition, demolition rates, and displacement vulnerability across census tracts. The analysis reveals six distinct neighborhood types, each with different preservation challenges and opportunities. Key findings expose systematic inequities in heritage recognition: affluent neighborhoods demonstrate “curated heritage” where preservation operates selectively alongside luxury redevelopment, while neighborhoods with the oldest housing stock—predominantly Hispanic and Black communities—achieve minimal preservation recognition despite rich architectural resources. Preservation rates correlate strongly with income and racial composition rather than building age or architectural significance, indicating that current preservation frameworks systematically devalue certain communities’ cultural heritage. Effective preservation-equity policy requires context-specific strategies rather than universal approaches: recognition and community engagement in under-served neighborhoods with significant historic resources; targeted subsidies and anti-displacement measures in gentrifying areas; and inclusive density policies in already-preserved affluent neighborhoods.",
-      "keywords": []
+      "keywords": [
+        "Gentrification",
+        "Typology",
+        "Equity (law)",
+        "Subsidy",
+        "Affordable housing",
+        "Subsidized housing",
+        "Social equality",
+        "Cultural heritage",
+        "Built environment"
+      ]
     },
     {
       "doi": "10.1177/00420980261457300",
@@ -163,7 +275,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261457835",
       "abstract": "This paper presents a method for reverse engineering landlords’ local strategies, applied to Akelius, a global corporate landlord whose French housing portfolio has been reconstructed by cross-referencing open administrative datasets. The procedure combines a two-component count model identifying spatial investment choices with a fixed-effects model analysing rental pricing practices. Results show that Akelius market entry is structurally constrained by the availability of single-owner buildings and driven by recent price growth, while investment intensity concentrates in areas where housing prices are decoupled from household incomes, signalling strong appreciation expectations. Akelius ranks among the top 10% of most expensive rental managers in its areas of operation, quasi-systematically ‘gaming’ the rent control framework through rent supplements that justify rents exceeding legal caps. This case study illustrates how an investor emblematic of the second wave of financialisation has penetrated a market characterised by low corporate ownership and generally perceived as highly regulated.",
-      "keywords": []
+      "keywords": [
+        "Economic rent",
+        "Renting",
+        "Investment (military)",
+        "Landlord",
+        "Portfolio",
+        "Real estate",
+        "Investment strategy",
+        "Control (management)"
+      ]
     },
     {
       "doi": "10.1177/00420980261457772",
@@ -181,7 +302,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261457772",
       "abstract": "Urban design and planning increasingly engage biodiversity, habitat restoration, and green infrastructure, yet they still pay limited attention to how human–wildlife relations are felt, contested, and governed in everyday urban life. This paper develops Wildlife-Affective Urban Design (WAUD) as a conceptual framework for examining how urban form shapes multispecies encounter not only through ecological performance, but also through fear, curiosity, attachment, irritation, avoidance, and unequal exposure to harm. Bringing wildlife-inclusive design, affective urbanism, emotional urbanism, multispecies ethics, and spatial justice into dialog, the paper argues that coexistence should not be understood as a linear progression from contact to empathy. Instead, encounters with wildlife may generate care, discomfort, nuisance, anxiety, or demands for control at the same time. In this way, the paper contributes to emotional urbanism by extending it beyond predominantly human-centered accounts of urban feeling toward the unequal politics through which multispecies emotions become institutionally legible and governable. Across landscape, neighborhood, and building/interface scales, WAUD shows how design can organize differentiated proximities, thresholds, and responsibilities rather than simply encourage closeness. Methodologically, it calls for combining quantitative indicators, situated accounts of encounter, and ecological proxies without presuming transparent access to nonhuman subjectivity. The paper concludes by redefining emotional equity not as the equal distribution of positive feeling, but as the reduction of systematic harms, exclusions, and unrecognized burdens in multispecies urban life.",
-      "keywords": []
+      "keywords": [
+        "Situated",
+        "Environmental justice",
+        "Economic Justice",
+        "Urban design",
+        "Equity (law)",
+        "Politics",
+        "Urban planning",
+        "Feeling"
+      ]
     },
     {
       "doi": "10.1177/00420980261453837",
@@ -199,7 +329,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261453837",
       "abstract": "This article examines how spatial justice is institutionally configured across urban regimes in Cairo through a controlled comparison of premodern Islamic Khiṭaṭ – subdivisions structured by socio-religious and juridical principles – and contemporary gated communities. The study adopts a comparative analytical stance rather than seeking normative reconciliation. Drawing on GIS-based spatial analysis, archival reconstruction of waqf endowments and 42 semi-structured interviews, the article explicitly foregrounds its mixed-methods design to ensure empirical grounding. The findings show measurable disparities in service density and access (3.2 vs 0.8 facilities per hectare; 1.8 vs 0.6 health facilities per 1000 inhabitants) and identifies patterned redistributive infrastructures linked to waqf endowments. The transition from moral oversight under the Muḥtasib – responsible for hisba – to contractual governance in contemporary enclaves is examined through concrete institutional mechanisms of exclusion rather than abstract normative contrast. Rawlsian principles are used heuristically as analytical reference points without presuming hierarchy or equivalence between Islamic and liberal frameworks. The City of the Dead is analysed as a fully integrated empirical case supported by administrative records and spatial mapping, illustrating a hybrid configuration in which distinct regulatory rationalities intersect to produce measurable redistributive outcomes including 22% improvement in potable water access and 18% increase in primary school enrolment. Rather than proposing synthesis, the article situates Islamic and Rawlsian traditions as historically grounded rationalities whose institutional effects can be analytically compared. Conceptualizing spatial justice as an institutional configuration grounded in documented spatial effects, the study contributes to comparative urban theory and governance debates in fragmented metropolitan contexts.",
-      "keywords": []
+      "keywords": [
+        "Corporate governance",
+        "Economic Justice",
+        "Islam",
+        "Normative",
+        "Metropolitan area",
+        "Empirical research",
+        "Urbanism",
+        "Pluralism (philosophy)",
+        "Capability approach"
+      ]
     },
     {
       "doi": "10.1177/00420980261454767",
@@ -8261,29 +8401,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107053",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107053",
-      "title": "Informal housing adaptation to sociocultural and environmental conditions: Peri-urban dwelling practices under rapid urbanization in Dar es Salaam, Tanzania",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-13",
-      "published_date_display": "2026-04-13",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002854",
-      "abstract": "Although more than half of the urban population in sub-Saharan Africa reside in informal housing, knowledge about the material and spatial characteristics of such dwellings remains limited. This study examines informal housing practices in the Mabibo neighborhood of Dar es Salaam, Tanzania, using detailed surveys of the built environment and household data collection to investigate how dwellings are adapted to contextual conditions. Sociocultural adaptation strategies include spatial configurations to accommodate complex household structures, where extended families and tenants often reside in separate sub-units within the same plot, driving emergence of new courtyard housing typologies typified by built environment densification and increasing rental accommodation. Economic adaptation strategies include integration of income-generating functions in dwellings such as shops and rental units, incremental dwelling expansion based on available resources, and subdivision of plots to accommodate additional households. The study documents evolving construction practices with traditional housing being replaced by dwellings built from industrial materials and repurposed waste. Environmental adaptation strategies include raised floors to mitigate flooding, window screening to reduce exposure to mosquito-borne diseases, and suspended ceilings reported by residents as improving indoor thermal comfort. These findings show how peri-urban informal housing practices in rapidly urbanizing African cities evolve through adaptation to contextual conditions, such as land scarcity, constrained household economies, and availability of industrial construction materials linked to global supply chains.",
-      "keywords": [
-        "Tanzania",
-        "Urbanization",
-        "Sociocultural evolution",
-        "Adaptation (eye)",
-        "Environmental degradation"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105663",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105663",
       "title": "The green gap framework: Understanding non and low use of urban greenspaces",
@@ -9561,30 +9678,6 @@
         "Resource (disambiguation)",
         "Resource management (computing)",
         "Resource use"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107024",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107024",
-      "title": "Trade-off between urban green spaces and public service facilities in China's metropolises: Through the lens of population mobility under urbanization",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-30",
-      "published_date_display": "2026-03-30",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002568",
-      "abstract": "",
-      "keywords": [
-        "Urbanization",
-        "Through-the-lens metering",
-        "Public service",
-        "Population",
-        "Lens (geology)",
-        "Service (business)"
       ]
     },
     {
