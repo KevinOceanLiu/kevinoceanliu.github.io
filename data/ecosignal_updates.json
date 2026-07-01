@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T23:49:57.366743+00:00",
+  "generated_at": "2026-07-01T23:54:56.571105+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -260,6 +260,24 @@
       ]
     },
     {
+      "doi": "10.1111/1365-2664.70481",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70481",
+      "title": "Using individual‐based modelling to anticipate future conflict potential for expanding European bison populations",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        7,
+        1
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70481",
+      "abstract": "Abstract Recent recoveries of European megafauna provide opportunities for restoring these species more widely across their historical ranges. However, as their populations grow and expand into more human‐dominated landscapes, conflicts with people will increasingly challenge human‐megafauna coexistence. Focusing on European bison Bison bonasus , we developed spatial conflict indicators related to crop damage, forestry damage and traffic collisions, and integrated them in a spatially explicit, individual‐based metapopulation model to identify regions where conflict might occur as bison populations expand in Central Europe. We furthermore tested how future European bison population trends would be affected by population regulation for conflict mitigation and by increased traffic mortality. Our population model projected a threefold increase of European bison to 7580 individuals after 100 years, and continuous range expansion. Conflict potential varied substantially across the region for the different conflict types, yet we generally anticipated increasing conflict risk, with hotspots primarily in northeastern Poland (crop damage), western Poland (all conflict types) and Western Germany (traffic). Importantly, we identified potential low‐conflict coldspots in the Slovakian Carpathians and in the Czech‐German Bohemian forest. Limiting European bison population growth to not exceed low‐conflict densities reduced population forecasts by 35%, and substantially reduced range expansion in western Poland, southeastern Poland and Western Germany. Increased traffic mortality slowed down range expansion, primarily in Western Germany, and decreased long‐term population size by 10%. Our results uncover a major trade‐off between conflict mitigation through population regulation and restoring the functional roles of European bison, highlighting the need for coexistence strategies to reconcile these goals. We identified conflict‐prone regions where targeted mitigation measures should be prioritized, as well as conflict coldspots offering untapped potential for European bison restoration. Synthesis and applications . Proactively developing and geographically targeting coexistence measures before conflicts become entrenched can improve megafauna restoration success. Our work demonstrates how integrating spatial conflict indicators into individual‐based models enables forward‐looking simulations of range expansion to guide such measures and to assess how they might impact recovering populations. Engaging stakeholders and building local support will be key to fostering megafauna recovery and their various social‐ecological benefits.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03126-x",
       "doi_url": "https://doi.org/10.1038/s41559-026-03126-x",
       "title": "Anolis shrevei",
@@ -275,6 +293,24 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03126-x",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70395",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70395",
+      "title": "Species turnover drives responses of community fine‐root traits to recurrent droughts",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-06-30",
+      "published_date_display": "2026-06-30",
+      "published_parts": [
+        2026,
+        6,
+        30
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70395",
+      "abstract": "Abstract Fine roots and their traits are critical for plant drought adaptation, yet predicting their responses to recurrent droughts remains a key challenge under climate change. We conducted a repeated extreme drought experiment across four semiarid grasslands along an aridity gradient. We compared the effects of single (precipitation reduction in 2021–2023) versus recurrent droughts (precipitation reduction in both 2015–2018 and 2021–2023) on community‐weighted means (CWMs) and functional diversity of fine‐root traits. We also examined the relative contributions of intra‐ and interspecific variation to both CWMs and trait diversity under repeated droughts. Results showed that the CWMs or functional diversity of key fine‐root traits (diameter, specific length/area, tissue density) varied among grasslands. However, neither single nor recurrent drought altered these traits in any site, indicating community trait conservatism under drought. This resistance was driven by joint contributions of intra‐ and interspecific variation buffering changes in community trait values. Intraspecific variation prevailed under single drought, whereas interspecific variation increased under recurrent drought. Furthermore, recurrent drought altered dominance within the intermediate trait range, favouring different grasses (e.g., Leymus chinensis ) than those favoured by single drought (e.g., Stipa grandis ). However, fine‐root trait CWMs and diversity showed either non‐significant or very weak correlations with grassland primary productivity under drought. Synthesis . Our study reveals a dual response in grasslands to repeated drought, where community fine‐root traits maintain high resistance through species turnover. This suggests that community functional responses to climate extremes cannot be inferred from species trait shifts alone.",
       "keywords": []
     },
     {
@@ -311,7 +347,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70415",
       "abstract": "ABSTRACT Higher‐order interactions (HOIs) are widely predicted to promote coexistence, yet the underlying ecological mechanisms behind this effect remain largely unexplored in natural communities. Here, we integrate natural history and theory to show how HOIs can restructure competitive networks and influence coexistence. With over 2 years of data on a tropical ant community, we estimate pairwise competitive interactions and demonstrate that, in isolation, they fail to recreate observed community dynamics. We find that inclusion of an HOI, imposed by a parasitoid of the dominant species, can theoretically reorganize competitive networks to mirror the dynamics of the empirical system. We demonstrate how temporal variation in HOIs forces the community between dominance regimes and that the interregnum between regimes is riddled with competitive intransitivities that promote coexistence. This work provides an empirical example of the ecological mechanisms behind the coexistence‐promoting effects of HOIs and suggests that HOIs and intransitivity, which are typically treated separately, can be mechanistically linked through the rewiring of species interactions.",
-      "keywords": []
+      "keywords": [
+        "Dominance (genetics)",
+        "Competitive advantage",
+        "Competition (biology)",
+        "Community",
+        "Empirical evidence",
+        "Work (physics)",
+        "Restructuring",
+        "Pairwise comparison"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03102-5",
@@ -382,7 +427,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70361",
       "abstract": "Abstract Many flowering plants require pollinators, and their interactions with animals are crucial to ecosystem function. The role of interactions involving specialised partners is generally accepted, but the function of interactions between non‐specialised partners has been less readily recognised. Although insects are considered primary pollinators in Europe, there are numerous records of passerine birds feeding at flowers and carrying pollen. Whether birds play a functional role as pollinators of native European plants outside the Mediterranean region, however, has not been determined. Here we explore the contribution of generalist passerine birds to pollination of native woody plants with floral rewards during spring–summer in the United Kingdom (UK), at a protected site with diverse fauna and flora. We scored pollen on 29 bird species and found pollen transport across the community (89% of individuals carried pollen), with birds being recurrent flower visitors. Nine bird species (31%) regularly carried significant pollen loads, most often for Salix caprea , Prunus spinosa , Crataegus monogyna and Rhamnus cathartica . Although most of the species involved lacked specialised morphological characteristics associated with bird pollination, other features facilitating pollination were evident. We experimentally assessed the functional outcome of pollen transport by birds for plant reproduction. When birds were excluded from flowers, fruit‐set was reduced for half of the seven plant species tested (early seed parasitism meant fruit‐set data were not available for one species). This positive effect of bird access was greatest for dioecious or self‐incompatible species, and those flowering earlier in spring when temperatures are cool and variable. Synthesis . Passerine birds in temperate Europe can fill a role as pollinators, and this may be most functional when the availability of insects, as both pollinators and food, is least reliable. Factors such as phenological overlap, flower aggregation and accessibility, and plant reproductive strategy are important predictors of plant–pollinator interactions, and the morphological ‘fit’ prescribed by flower‐visitor syndromes is context‐dependent. Birds and flowers that are apparently generalists may be effective mutualists, and this interaction deserves attention, given the central role they play in communities.",
-      "keywords": []
+      "keywords": [
+        "Passerine",
+        "Generalist and specialist species",
+        "Pollinator",
+        "Pollen",
+        "Pollination",
+        "Fauna",
+        "Prunus"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70388",
@@ -24283,34 +24336,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70270",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70270",
-      "title": "Cover Picture and Issue Information",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        1,
-        9
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70270",
-      "abstract": "Cover image: An Eastern Bluebird (Sialia sialis) perched on a photovoltaic (PV) solar panel at an ecovoltaic site in southern Michigan, USA. Ecovoltaic PV designs combine photovoltaic electricity generation with restoration of ecosystem function, including habitat enhancement for birds and other wildlife. Full details are available in the article by Walston et al., https://doi.org/10.1111/1365-2664.70208. Photo: © Leroy Walston.",
-      "keywords": [
-        "Nucleofection",
-        "Gestational period",
-        "TSG101",
-        "Liquation",
-        "Dysgeusia",
-        "Diafiltration",
-        "Emperipolesis",
-        "Triacetin",
-        "Demotion"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70255",
       "doi_url": "https://doi.org/10.1111/1365-2664.70255",
       "title": "A century of ornamental plant trade reveals consistently lower prices for naturalised species",
@@ -24595,6 +24620,32 @@
         "Climate change",
         "Transect",
         "Seedling"
+      ]
+    },
+    {
+      "doi": "10.1111/ele.70309",
+      "doi_url": "https://doi.org/10.1111/ele.70309",
+      "title": "Drivers of Viral Prevalence in Landscape‐Scale Pollinator Networks Across Europe: Honey Bee Viral Density, Niche Overlap With This Reservoir Host and Network Architecture",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-01-05",
+      "published_date_display": "2026-01-05",
+      "published_parts": [
+        2026,
+        1,
+        5
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70309",
+      "abstract": "ABSTRACT Viral transfer from managed pollinators potentially threatens wild pollinators and may be exacerbated by land‐use changes. Our causal models and plant‐pollinator network data from 48 European urban and agricultural landscapes revealed the ecological mechanisms underpinning viral transmission. Host identity, network architecture and land‐use modulated viral dynamics (black queen cell virus, BQCV; deformed wing virus, DWV‐A and DWV‐B). Viral prevalence in wild pollinators was driven by viral density in the reservoir host: honey bees, and secondarily by trophic niche overlap with these managed pollinators. Modular networks limited BQCV prevalence, which was driven by reduced honey bee niche overlap, suggesting minimal onward transmission among wild pollinators. Landscapes supporting greater wild pollinator abundance diluted DWV‐B transmission; in urban landscapes managed honey bees and wild pollinators experienced higher and lower BQCV prevalence, respectively. Disease in managed bee colonies and land‐use changes that concentrate pollinator foraging interactions present potential viral risks to wild pollinator health.",
+      "keywords": [
+        "Pollinator",
+        "Foraging",
+        "Honey bee",
+        "Host (biology)",
+        "Niche",
+        "Abundance (ecology)",
+        "Nestedness"
       ]
     },
     {
