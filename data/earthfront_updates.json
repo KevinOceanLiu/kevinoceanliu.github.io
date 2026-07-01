@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T22:58:23.155184+00:00",
+  "generated_at": "2026-07-01T22:52:31.718095+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02026-w",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02026-w",
+      "title": "Linking plates to plumes in the Cretaceous Pacific",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        7,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02026-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02719-5",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02719-5",
+      "title": "Publisher Correction: Multi-centennial response of marine carbon pumps to global warming",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        7,
+        1
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02719-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41558-026-02687-w",
       "doi_url": "https://doi.org/10.1038/s41558-026-02687-w",
       "title": "Warming dominates over circulation slowdown in reducing marine carbon storage under high-mitigation scenarios",
@@ -41,7 +77,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02687-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Slowdown",
+        "Carbon fibers",
+        "Global warming",
+        "Climate change",
+        "Carbon cycle",
+        "Decomposition",
+        "Greenhouse gas",
+        "Lead (geology)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02674-1",
@@ -59,7 +104,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02674-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Damages",
+        "Scale (ratio)",
+        "Political economy of climate change",
+        "Socioeconomic status",
+        "Global warming",
+        "Climate pattern",
+        "Climate change mitigation"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02675-0",
@@ -76,8 +130,18 @@
         30
       ],
       "link": "https://www.nature.com/articles/s41558-026-02675-0",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Achieving net-zero targets reduces greenhouse gas emissions and their co-pollutants, thereby improving air quality; however, the magnitude and distribution of these improvements depend on the amount and location of residual emissions offset by carbon dioxide removal (CDR). Here we integrate a series of models and datasets to analyse community-scale particulate matter (PM2.5) impacts of different net-zero scenarios across the contiguous USA. These scenarios avoid many PM2.5-related deaths compared with a reference case, decreasing from around 200,000 to 160,000 and 130,000 deaths in 2050 in the high- and low-CDR scenarios, respectively. However, the low-CDR pathway leads to lower residual emissions and brings greater health improvements that disproportionately benefit non-white and low-income groups. Our results thus suggest that, in the absence of deliberate transition planning, large-scale CDR deployment could be at odds with the equitable distribution of climate mitigation-related health benefits in the USA. The scale of carbon dioxide removal (CDR) could determine the extent of co-emitted air pollutants in net-zero scenarios and potential health impacts. By linking a series of models and datasets, researchers find that low-CDR pathways lead to a more equitable distribution of health benefits across the USA.",
+      "keywords": [
+        "Greenhouse gas",
+        "Air pollution",
+        "Residual",
+        "Climate change",
+        "Particulates",
+        "Distribution (mathematics)",
+        "Software deployment",
+        "Carbon dioxide",
+        "Carbon dioxide equivalent"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01868-x",
