@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T22:52:31.718095+00:00",
+  "generated_at": "2026-07-02T22:47:18.686499+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01879-8",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01879-8",
+      "title": "Increased dengue transmission following highway paving in the Peruvian Amazon",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-02",
+      "published_date_display": "2026-07-02",
+      "published_parts": [
+        2026,
+        7,
+        2
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01879-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-02026-w",
       "doi_url": "https://doi.org/10.1038/s41561-026-02026-w",
       "title": "Linking plates to plumes in the Cretaceous Pacific",
@@ -41,7 +59,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02026-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Cretaceous",
+        "Volcanism",
+        "Plate tectonics",
+        "Igneous rock",
+        "Tectonics",
+        "Mantle plume",
+        "Hotspot (geology)",
+        "Mantle (geology)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02719-5",
@@ -59,7 +86,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02719-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Global warming",
+        "Carbon fibers",
+        "Climate change",
+        "Global-warming potential",
+        "Global climate",
+        "Carbon cycle"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02687-w",
