@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T23:43:23.496280+00:00",
+  "generated_at": "2026-07-02T23:30:47.758491+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,26 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102488",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102488",
-      "title": "Spotting rat-runs: A network-based method for identifying potential cut-through routes in Bogotá, Colombia",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000906",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107297",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107297",
-      "title": "Framing social innovation in EU urban policy: Insights from the urban innovative actions (UIA) community initiative",
+      "doi": "10.1016/j.cities.2026.107351",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107351",
+      "title": "Urban sprawl as a structural amplifier of social inequality across African cities",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -60,14 +43,14 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005299",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005834",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107310",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107310",
-      "title": "Biologically inspired machine learning for evaluating stress recovery in urban streetscapes",
+      "doi": "10.1016/j.cities.2026.107334",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107334",
+      "title": "Rethinking congestion as lost access, and its equity implications",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -77,7 +60,126 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005421",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005664",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107328",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107328",
+      "title": "Neoliberal urban governance and local empowerment: Unpacking the paradoxes of the BIP/ZIP programme in Lisbon",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005603",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107337",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107337",
+      "title": "Multimodal accessibility and equity in X-minute cities: Insights from neighborhood-level assessments in Singapore",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600569X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107304",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107304",
+      "title": "Infrastructure-led urban development does not have to come at the expense of environmental sustainability: Evidence from South Korea",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005366",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107347",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107347",
+      "title": "Has Warsaw internalised its low - emission zone? Changes in travel behaviour and air quality in the first year of the zone",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005792",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107296",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107296",
+      "title": "Café agglomeration and firm innovation",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005287",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107314",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107314",
+      "title": "Agglomeration structure and the intensity of environmental regulation: Evidence from Chinese cities proper",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005469",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107311",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107311",
+      "title": "A multi-cohort spatial analysis of urban shrinkage: Integrating supply-demand accessibility, nonlinearity, and mismatch for pre-shrinkage planning",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005433",
       "abstract": "",
       "keywords": []
     },
@@ -97,7 +199,79 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00470-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "DNA barcoding",
+        "Identification (biology)",
+        "Forensic science",
+        "Assemblage (archaeology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102488",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102488",
+      "title": "Spotting rat-runs: A network-based method for identifying potential cut-through routes in Bogotá, Colombia",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000906",
+      "abstract": "",
+      "keywords": [
+        "Spotting",
+        "Identification (biology)",
+        "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107297",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107297",
+      "title": "Framing social innovation in EU urban policy: Insights from the urban innovative actions (UIA) community initiative",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005299",
+      "abstract": "The urban debate is increasingly permeated by the idea that civil society empowerment is crucial. Thus, the socially innovative energies harboured at the very local scale are increasingly supported by institutional actors as a recipe for responding to major contemporary urban challenges and improving the quality of life in local territories. This article argues that the European Union (EU) has progressively codified social innovation as a policy discourse that travels alongside, and sometimes reshapes, local practices in cities. It focuses on the Urban Innovative Actions (UIA) initiative (2014–2020), examining both its opportunities and its blind spots. Drawing on critical policy analysis and an embedded case-based reading of the ToNite project in Turin, the paper investigates how UIA frames social innovation as an urban governance tool combining place-based experimentation, multi-actor partnerships and expectations of scalability and transferability. The analysis shows that UIA enables experimental urban practices while simultaneously constraining the forms of social innovation that can emerge through selective criteria and performance logics. The paper concludes by reflecting on the implications of EU-led social innovation for urban governance, welfare restructuring, and the changing role of local actors in European cities.",
+      "keywords": [
+        "Social innovation",
+        "Framing (construction)",
+        "Civil society",
+        "Corporate governance",
+        "European union",
+        "Empowerment",
+        "Urban planning",
+        "Urban policy"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107310",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107310",
+      "title": "Biologically inspired machine learning for evaluating stress recovery in urban streetscapes",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005421",
+      "abstract": "",
+      "keywords": [
+        "Stress (linguistics)",
+        "Component (thermodynamics)"
+      ]
     },
     {
       "doi": "10.1177/00420980261458527",
@@ -7487,29 +7661,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107074",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107074",
-      "title": "Where and how do women travel more and longer than men? Focusing on Mobility Gender Gap by Age Groups",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-18",
-      "published_date_display": "2026-04-18",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003069",
-      "abstract": "",
-      "keywords": [
-        "Gender gap",
-        "Age groups",
-        "Social group",
-        "Group (periodic table)",
-        "Mobilities"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107104",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107104",
       "title": "Clean energy transition and local planning: Are small and rural municipalities ready to contribute to the EU Green Deal?",
@@ -7659,30 +7810,6 @@
         "Feminist ethics",
         "Feminism",
         "Field (mathematics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107088",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107088",
-      "title": "Debt for jobs? The impact of industrial park infrastructure special debt on urban employment in China",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-16",
-      "published_date_display": "2026-04-16",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003203",
-      "abstract": "",
-      "keywords": [
-        "Debt",
-        "Industrial park",
-        "China",
-        "Corporate debt",
-        "Urban infrastructure",
-        "External debt"
       ]
     },
     {
@@ -8010,28 +8137,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107108",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107108",
-      "title": "Reclaiming urban nature: Public value, identity and governance in renaturalization projects",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-15",
-      "published_date_display": "2026-04-15",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003409",
-      "abstract": "",
-      "keywords": [
-        "Corporate governance",
-        "Identity (music)",
-        "Public policy",
-        "Public life"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107098",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107098",
       "title": "Innovation and urban finance: The World Bank as knowledge and development institution",
@@ -8076,29 +8181,6 @@
         "Human factors and ergonomics",
         "Urban planning",
         "Poison control"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107054",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107054",
-      "title": "Digital City, fewer emissions? Leveraging quasi-experiments to uncover big data's mediated climate impact",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-15",
-      "published_date_display": "2026-04-15",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002866",
-      "abstract": "",
-      "keywords": [
-        "Big data",
-        "Climate change",
-        "Impact assessment",
-        "Climate policy",
-        "Social impact"
       ]
     },
     {
@@ -8527,29 +8609,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107105",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107105",
-      "title": "Major roads are barriers to park use: Evidence from smartphone mobility data",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-10",
-      "published_date_display": "2026-04-10",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003379",
-      "abstract": "",
-      "keywords": [
-        "Public transport",
-        "Mobile device",
-        "Global Positioning System",
-        "Key (lock)",
-        "Data collection"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261428397",
       "doi_url": "https://doi.org/10.1177/00420980261428397",
       "title": "Un-guided journeys: Tracing the multi-layered temporalities of Amager Commons in Copenhagen, Denmark",
@@ -8859,25 +8918,6 @@
         "Contrast (vision)",
         "Stratification (seeds)",
         "Generalized additive model"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107070",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107070",
-      "title": "Slow violence in digital food environments: App-food-body assemblages in urban India",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-08",
-      "published_date_display": "2026-04-08",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003021",
-      "abstract": "",
-      "keywords": [
-        "Food security"
       ]
     },
     {
@@ -9234,27 +9274,6 @@
         "Generative grammar",
         "Generative model",
         "Urban planning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107039",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107039",
-      "title": "Patterns and mechanisms of urban land-population coupling from a global perspective",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-03",
-      "published_date_display": "2026-04-03",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002714",
-      "abstract": "",
-      "keywords": [
-        "Perspective (graphical)",
-        "Coupling (piping)",
-        "Mechanism (biology)"
       ]
     },
     {
@@ -9706,30 +9725,6 @@
         "Urban sprawl",
         "Spatial ecology",
         "Common spatial pattern"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106969",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106969",
-      "title": "Climate change adaptation and emergency management: The influence of uneven devolution on community resilience",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-30",
-      "published_date_display": "2026-03-30",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002015",
-      "abstract": "Climate change is driving more frequent and intense emergency events, and the impact is being felt most at the community level. Devolution is an increasingly common governance approach in climate change adaptation (CCA) and emergency management (EM), shifting responsibility to address climate-related challenges from higher to local-level governments. However, this process is often uneven, leaving local governments with inconsistent authority and resources. As a result, accountability becomes fragmented, and critical policy areas such as CCA and EM become neglected. Through a series of key actor interviews with elected officials and technical experts, we outline the consequences of uneven devolution on community resilience during the atmospheric river event of 2021 in British Columbia, Canada. This case illustrates how the uneven devolution of authority and resources reduces resilience, potentially increasing the impact of risks to communities. Local governments, lacking adequate resources, were unable to implement essential CCA and EM measures, while application-based funding mechanisms allowed higher levels of government to retain significant control over “devolved” programs. The findings highlight the need for more equitable resource allocation and accountability frameworks to enhance resilience and reduce vulnerabilities in the face of escalating climate risks.",
-      "keywords": [
-        "Devolution (biology)",
-        "Climate change",
-        "Resilience (materials science)",
-        "Climate change adaptation",
-        "Community resilience",
-        "Adaptation (eye)"
       ]
     },
     {
@@ -17494,36 +17489,6 @@
         "Geography",
         "Architectural engineering",
         "Engineering"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107056",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107056",
-      "title": "Citizen science contributions to sustainable urban transformation, urban sustainability and urban planning: A systematic literature review",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600288X",
-      "abstract": "",
-      "keywords": [
-        "Sustainability",
-        "Environmental planning",
-        "Urban sustainability",
-        "Urban planning",
-        "Transformation (genetics)",
-        "Urban density",
-        "Environmental resource management",
-        "Geography",
-        "Environmental science",
-        "Engineering",
-        "Civil engineering",
-        "Ecology"
       ]
     },
     {
