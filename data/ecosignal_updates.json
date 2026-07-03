@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T23:44:04.047676+00:00",
+  "generated_at": "2026-07-03T23:42:48.433247+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,42 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70392",
       "abstract": "Abstract Ombrotrophic bogs, which store large amounts of carbon as peat, receive all their mineral nutrition through deposition. This limited nutrient input means they are particularly sensitive to local and global changes that displace vital cations. We review how acid deposition drives cation displacement (i.e. sodium, magnesium, potassium and calcium) in ombrotrophic bogs. We then synthesise the literature across scales of ecological organisation on the role of cation availability in shaping plant stoichiometry and function, community dynamics and ecosystem function. Acid deposition from industrialisation drives declines in cation concentrations in peat, and although recovery is underway, cations remain depleted in acid‐affected areas. Cation depletion could cause decreased Sphagnum spp. growth and decreased plant diversity. There is higher uncertainty in how cations contribute to ecosystem processes. Future trends will likely be dictated by climate change‐driven increases in marine deposition, which will increase cation concentrations in maritime bogs and alter ecological processes across scales. Synthesis . There is limited yet compelling evidence that cation availability is a key determinant of ecological processes across scales. We propose a research agenda to understand how past and future changes in cation availability may alter carbon cycling in bogs and explore potential management.",
-      "keywords": []
+      "keywords": [
+        "Ombrotrophic",
+        "Bog",
+        "Ecosystem",
+        "Peat",
+        "Nutrient cycle",
+        "Nutrient",
+        "Sphagnum",
+        "Ecological stoichiometry"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70476",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70476",
+      "title": "Variable effects of blade black‐and‐white designs on detection of turbine rotation by birds",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-02",
+      "published_date_display": "2026-07-02",
+      "published_parts": [
+        2026,
+        7,
+        2
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70476",
+      "abstract": "Abstract Wind turbines can negatively impact biodiversity, particularly through bird collisions with blades. A common mitigation measure involves the rapid, temporary curtailment of turbines using automatic detection systems, though their effectiveness remains unproven. A passive alternative is to modify turbine appearance to improve visual detection by birds. Several visual factors—motion blur, limited sensitivity to achromatic contrasts and difficulty in detecting rotating blades—may influence their detectability by different species and, therefore, collision risk. Enhancing turbine detectability, by applying black‐and‐white patterns to blades, offers a promising pathway to reduce collisions. However, painting blades on existing turbines is costly and the monitoring needed to assess this technique's effectiveness can take several years. We aimed at determining which pattern(s) would be most effective in improving the detection of blade rotation by birds. We used an experimental laboratory approach based on miniature wind turbines and operant conditioning, whereby captive‐bred birds (black kites Milvus migrans and domestic homing pigeons Columba livia ) were trained to respond to a positive visual stimulus with a food reward. The tests assessed the effect of four patterns—white blades, a black blade, striped blades and checkered blades—on the birds' detection of blade rotation. We observed an effect of (1) the pattern, (2) the rotation speed of the blades and (3) the achromatic contrast between the blades and their background on the detection of blade motion by birds. More than 50% of tested individuals could not distinguish between stationary and slowly rotating turbines (<5 rotations per minute). Striped and checkered patterns improved blade motion detection in black kites, whereas a checkered pattern reduced motion detection in pigeons. High variability in rotation detection was observed both between and within species. Synthesis and applications . Although no clear consensus emerged, striped patterns appeared to be the most promising for enhancing blade motion detection by several bird species. Field experiments are now required to validate these results in situ.",
+      "keywords": [
+        "Achromatic lens",
+        "Turbine",
+        "Turbine blade",
+        "Rotation (mathematics)",
+        "Wind power",
+        "Blade (archaeology)",
+        "Frame rate"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70480",
@@ -69,7 +104,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70480",
       "abstract": "Abstract Heterogeneity in host contact patterns can impact a pathogen's ability to invade and persist. Climate and landscape variation likely shape animal contact ecology across biological scales, but their impact on the dynamics of directly transmitted pathogens remains poorly understood. We investigate the impacts of environmental conditions on host contacts and disease dynamics by integrating long‐term GPS and geospatial environmental data into network analyses and disease dynamic models. By analysing data from eight replicate populations of desert bighorn sheep ( Ovis canadensis nelsoni ) in the Mojave Desert, we assess (i) how variation in environmental conditions across time and the landscape drives synchrony or variation in contact ecology, (ii) the relative importance of individual traits vs. population‐level environmental conditions in structuring contacts and (iii) their consequences for disease outbreak size and persistence. Population‐level environmental conditions explained the most variation in contact patterns, driving the timing and strength of contacts. Among the environmental factors studied, normalised difference vegetation index (NDVI) had the most significant impact on contact strength, with greener habitats associated with more frequent contacts. Temperature also played a role in sex‐specific mixing, with male–male contacts being more frequent than female–female or male–female contacts during the cooler months but not the warmer months. We simulated infectious disease spread in the system using our predicted networks. The model‐predicted basic reproduction number ( R 0 ), outbreak size and outbreak duration were highest in large populations with high NDVI and when the first infection occurred during months with high NDVI, indicating that environmental conditions may influence disease dynamics at the population level. Synthesis and applications . By using probabilistic models to predict contacts as a function of spatially and temporally varying environmental conditions, we show that population‐level conditions at the time of disease introduction can structure opportunities for transmission within each population. Differences in disease outcomes may therefore be driven by population‐specific variation in environmental conditions that shape contact patterns. As climate change continues to alter vegetation productivity and temperature regimes, monitoring NDVI and seasonal temperature patterns could inform the timing of disease surveillance and guide targeted conservation interventions for populations at greatest risk.",
-      "keywords": []
+      "keywords": [
+        "Outbreak",
+        "Ovis canadensis",
+        "Habitat",
+        "Host (biology)",
+        "Transmission (telecommunications)",
+        "Normalized Difference Vegetation Index",
+        "Replicate",
+        "Environmental change"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70493",
@@ -87,7 +131,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70493",
       "abstract": "Abstract Large‐scale restoration of Mediterranean macroalgal forests is set to accelerate under new policy commitments, yet many initiatives rely on high initial settlement densities despite limited understanding of how density regulates early recovery. If early demographic bottlenecks constrain survival, growth or reproduction, restoration strategies based on maximising numbers may undermine success. We experimentally manipulated initial settlement density of the canopy‐forming brown alga Cystoseira compressa across four densities (10, 100, 250 and 500 individuals) spanning natural to highly elevated levels. Recruits were monitored every 3 months for 1 year in the field to quantify survival, growth, reproductive development and the timing and intensity of density‐dependent bottlenecks. Survival declined across all densities but showed strong density dependence. The lowest density maintained high survival throughout the experiment, whereas intermediate and high densities experienced rapid early mortality. At the highest densities, survival collapsed within the first 2–3 months, indicating acute early bottlenecks rather than gradual mortality. Mean final densities at the end of the experiment ranged between 0.19 and 0.44 ind. cm −2 . Density strongly constrained individual growth. The lowest density rapidly progressed into larger size classes and was the only density where individuals reached reproductive maturity. Higher densities suppressed growth of surviving individuals, resulting in persistent confinement to small size classes and preventing reproductive development despite continued survival. Quantification of survival derivatives revealed that both the timing and intensity of bottlenecks scaled predictably with initial density. Bottlenecks were absent at lower densities, prolonged at intermediate densities and short but severe at the highest densities, demonstrating that early recovery trajectories were density‐driven rather than time‐dependent. Synthesis and applications . This single‐species and single‐site experiment provides evidence that high‐density restoration strategies accelerate mortality, suppress growth and delay reproduction, whereas low‐density approaches promote faster demographic progression and resilience. Under the conditions tested here, focusing on growth and reproductive output, rather than maximising initial numbers, reduces the need for large propagule supply and extensive receptacle production, directly supporting the conservation of donor populations while maintaining restoration effectiveness.",
-      "keywords": []
+      "keywords": [
+        "Density dependence",
+        "Population density",
+        "Mediterranean climate",
+        "Plant density",
+        "Reproductive success",
+        "Reproduction"
+      ]
     },
     {
       "doi": "10.1111/gcb.70972",
@@ -105,7 +156,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70972",
       "abstract": "ABSTRACT Stomatal pores on plant leaves regulate the gain of carbon through photosynthesis and the loss of water through transpiration. Through their responses to environmental conditions, stomata can constrain plant productivity and transpiration fluxes, exerting a strong control on climate feedbacks over land. Although mechanistic modelling of stomata remains a challenge, semi‐empirical and optimisation models have been successfully applied to improve the simulation of land‐atmosphere fluxes of water and carbon. Optimisation approaches assume that some aspect of plant function, such as photosynthesis or growth rate, is optimised with respect to an environmental constraint, such as available soil water. Both optimisation models and semi‐empirical models predict that stomatal conductance will increase in concert with rising photosynthetic rates as temperatures approach a thermal optimum, beyond which declines in both photosynthesis and stomatal conductance are expected. However, a growing number of experiments have found that while photosynthesis declines beyond its thermal optimum, stomatal conductance often continues to increase at high temperatures. Early modelling work suggests that this phenomenon can be captured and explained by an optimal thermoregulation strategy via increased evaporative cooling at the leaf surface. However, many stomatal conductance models that are embedded within climate and Earth System Models do not correctly account for this feedback and so cannot capture observed decoupling. Here, we demonstrate that if leaf temperature is calculated iteratively outside the optimisation scheme, as is commonly done in Earth System Models, stomatal decoupling will not be captured. However, by calculating leaf temperature in parallel with optimal stomatal conductance, we find that we are able to capture observed decoupling and improve predicted leaf temperature and gas exchange. Correctly implementing the leaf energy balance equation within stomatal optimisation models will be essential for capturing high temperature responses of forests across the globe.",
-      "keywords": []
+      "keywords": [
+        "Photosynthesis",
+        "Transpiration",
+        "Stomatal conductance",
+        "Decoupling (probability)",
+        "Water-use efficiency",
+        "Conductance",
+        "Dynamical decoupling"
+      ]
     },
     {
       "doi": "10.1111/gcb.70980",
@@ -123,7 +182,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70980",
       "abstract": "ABSTRACT Under global change, terrestrial plants adjust their physiological metabolism alongside adaptive restructuring of rhizosphere microbial communities, yet the mechanistic links between plant phenotypic plasticity and microbial consortia remain unclear. Here, we conducted a meta‐analysis of 272 global‐change experimental comparisons and found that, among all global change factors examined, nitrogen addition exerted the strongest effects on both plant yield and microbial community assembly. Plant adaptive responses were more strongly associated with shifts in microbial community structure than with changes in alpha diversity. Microbial community structure reorganization was associated with increased soil carbon availability, whereas higher local microbial beta diversity constrained the magnitude of structural change. Based on a reanalysis of published amplicon sequencing datasets, we found that more stable and complex microbial networks, enriched with Proteobacteria and Actinobacteria, were associated with higher plant yield. These findings underscore plant‐microbe co‐adaptation under global change, highlighting microbial community structure as a key mediator linking soil environmental shifts to plant adaptive performance.",
-      "keywords": []
+      "keywords": [
+        "Microbial population biology",
+        "Rhizosphere",
+        "Global change",
+        "Microbial ecology",
+        "Community structure",
+        "Proteobacteria",
+        "Plant community",
+        "Nitrogen cycle",
+        "Ecosystem",
+        "Carbon cycle"
+      ]
     },
     {
       "doi": "10.1111/ele.70431",
@@ -141,7 +211,13 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70431",
       "abstract": "ABSTRACT We utilized a long‐term study of Weddell seals to compute lifetime reproductive success (LRS) distributions using a theoretical approach and an empirical approach. These comparisons are often difficult to achieve among natural populations but are important for disentangling sources of variation in lifetime measures. We performed three independent analyses: the first compared LRS and age‐at‐death distributions among populations living under different environmental conditions, the second focused on populations differing in individual heterogeneity (i.e., high or low reproductive strategy), and the third compared a theoretical LRS distribution with an empirical LRS distribution. Iceberg conditions increased the probability of LRS = 0 while individual heterogeneity had little influence on LRS distributions. Age‐at‐death distributions were also highly skewed and only early life mortality was affected by environmental condition. Our theoretical LRS distribution was strikingly similar to the empirical distribution estimated from females experiencing natural intrinsic trait variability and extrinsic environmental variability. We also examine inequality measures which show that females must be ‘lucky’ to survive past maturity and of those who do, only 74% breed. These findings contribute to ongoing research that reveals how diversity in lifetime outcomes is largely governed by chance alone.",
-      "keywords": []
+      "keywords": [
+        "Reproduction",
+        "Breed",
+        "Biology",
+        "Environmental science",
+        "Ecology"
+      ]
     },
     {
       "doi": "10.1086/740812",
@@ -22984,31 +23060,6 @@
         "Phenology",
         "Relative species abundance",
         "Spatial ecology"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70291",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70291",
-      "title": "Pruning for biodiversity: Drivers of cavity formation and use in Mediterranean holm oak woodlands",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-26",
-      "published_date_display": "2026-01-26",
-      "published_parts": [
-        2026,
-        1,
-        26
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70291",
-      "abstract": "Abstract A critical aspect of effective forest policies is the promotion of tree‐related microhabitats, such as tree cavities, which serve as keystone structures for biodiversity. However, our understanding of the factors driving cavity formation and their use by vertebrates remains limited, particularly in holm oak Quercus ilex woodlands, which cover large areas of the Mediterranean region. We examined 22 holm oak stands that varied widely in experienced pruning intensity and tree age within two national parks in central Spain. We also recorded likely cavity origin, position (whether on a branch or on the trunk), volume and use by vertebrates. We found that pruning is the primary trigger of cavity initiation. However, cavity development from pruning wounds was uncommon, and the transition to a cavity suitable for a vertebrate occurred slowly. The relationship between pruning intensity and cavity occurrence was steeper in small trees than in large ones. In addition, trunk width was more strongly related to cavity volume in trunk cavities than in branch cavities, leading to a wider range of cavity sizes in large trees. Vertebrate occupancy was low, and cavity volume was the primary predictor of cavity use. Synthesis and applications . Our study emphasizes the role of both tree and cavity age in the long‐term establishment of cavity‐dependent vertebrates in holm oak woodlands. In the context of climate change—where holm oak trees are expected to replace more mesic, soft‐wooded tree species in the Mediterranean region—the persistence of cavity‐dependent vertebrate biodiversity will rely on the formation of cavities through appropriate pruning management, which creates the structural conditions necessary for cavity development.",
-      "keywords": [
-        "Mediterranean climate",
-        "Pruning",
-        "Context (archaeology)",
-        "Biodiversity",
-        "Woodland",
-        "Range (aeronautics)"
       ]
     },
     {
