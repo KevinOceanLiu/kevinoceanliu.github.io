@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T23:18:48.166448+00:00",
+  "generated_at": "2026-07-04T23:13:56.043327+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107293",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107293",
-      "title": "What remains? Unveiling traces of institutionalization of socially innovative multi-actor collaboration in urban food governance in Madrid (2015–2023)",
+      "doi": "10.1016/j.cities.2026.107375",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107375",
+      "title": "The effects of generational differences in travel socialisation on sustainable travel preference and intentions",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -43,9 +43,137 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005251",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006074",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107315",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107315",
+      "title": "Complex built environment and explicit distance threshold: A machine learning diagnosis of commuting active travel behavior",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005470",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102484",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102484",
+      "title": "Addressing the missing activity location problem in trip chais: A POI-based probabilistic method using open data",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000864",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107305",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107305",
+      "title": "“Bypassing” or “nearby care”? Deconstructing and simulating patient hospital choice in China’s hierarchical healthcare system via explainable machine learning and agent-based modeling",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005378",
+      "abstract": "",
+      "keywords": [
+        "Healthcare system",
+        "Health care",
+        "Patient care",
+        "Patient data",
+        "Hospital system",
+        "Expert system"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107339",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107339",
+      "title": "Dose-response associations between a walkability index and adults' domain-specific walking: A study of 95 cities in Japan",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005718",
+      "abstract": "",
+      "keywords": [
+        "Walkability",
+        "Index (typography)",
+        "Urban region",
+        "Physical activity"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107353",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107353",
+      "title": "Beyond awareness: Institutional barriers to green housing adoption in Lagos",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005858",
+      "abstract": "",
+      "keywords": [
+        "Sustainability",
+        "Green paper",
+        "Government (linguistics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107293",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107293",
+      "title": "What remains? Unveiling traces of institutionalization of socially innovative multi-actor collaboration in urban food governance in Madrid (2015–2023)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-03",
+      "published_date_display": "2026-07-03",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005251",
+      "abstract": "Under neoliberal governance paradigms, interactions between state agencies and other urban actors -when they occur- are typically channeled through private-public partnerships and depoliticized “participatory” or “multi-stakeholder” processes. This paper explores various dimensions that enable socially innovative multi-actor collaboration (IMAC), understood as a process of (re)articulation and transformation of networks of actors and collaborative institutional spaces to achieve social innovation. It examines how IMAC may thrive and contribute to transforming hegemonic urban governance models into more democratic and collaborative ones, particularly in contexts of socio-political change. To do so, the paper develops a seven-dimension framework, which combines institutionalist theories from critical political sciences and planning, to provide a nuanced analysis of transformations of and interrelations among actors, institutions and their governance environment. It is applied to investigate transformations in urban food governance in Madrid between 2015 and 2023, a critical case of socially innovative civil-public collaboration in a context of political disruptions and discontinuities. Methodologically, the work combines document analysis, participatory research and interviews. The findings show how different urban actors contribute to and are transformed by IMAC revealing the complexities of their changing and overlapping roles and identities in urban governance. They highlight interdependencies between flexible, evolving, yet stable structures that enable thinking and acting together, fostering IMAC. The study also emphasizes the relevance of hybrid actors like activist-practitioner-(action)researchers, intermediate levels of actor aggregation, and supra-local collaboration networks in consolidating IMAC and ensuring its continuity during political change.",
+      "keywords": [
+        "Corporate governance",
+        "Collaborative governance",
+        "Context (archaeology)",
+        "Politics",
+        "Interdependence",
+        "Institutionalisation",
+        "Citizen journalism",
+        "Relevance (law)",
+        "Hegemony"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107349",
@@ -54,83 +182,22 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-03",
+      "published_date_display": "2026-07-03",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005810",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107365",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107365",
-      "title": "The journey to work as observed accessibility: Job access within employment subcenters in greater Mexico City",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005974",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107336",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107336",
-      "title": "The case for rethinking rural: How simplification obscures rural travel behaviors",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005688",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107317",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107317",
-      "title": "Digital governance for employment: Impact of digital government construction on urban employment",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005494",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107326",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107326",
-      "title": "Built environment pathways to cardiometabolic risk in a 20-minute neighbourhood context: A Bayesian network study",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005585",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Tourism",
+        "Sustainable tourism",
+        "Sustainable development",
+        "Sustainability",
+        "Variance (accounting)",
+        "Sustainable community"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107340",
@@ -157,6 +224,32 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107365",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107365",
+      "title": "The journey to work as observed accessibility: Job access within employment subcenters in greater Mexico City",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-03",
+      "published_date_display": "2026-07-03",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005974",
+      "abstract": "This study advances observed accessibility as a complement to traditional potential accessibility approaches, showing that access to jobs is shaped by employment subcenter-specific mechanisms that mediate who can obtain jobs in those locations. It examines the determinants of functional linkages between workers' places of residence and the three main employment subcenters in the Mexico City Metropolitan Zone: the Central Agglomeration, Santa Fe, and Naucalpan. The analysis uses secondary data on employment subcenters in 2019, a subsample of public transport commuting trips from the 2017 Origin-Destination Survey, and Spatial Autoregressive Combined (SAC) models. Findings reveal differentiated accessibility regimes for public transport commuters. The Central Agglomeration functions as an inclusive metropolitan hub, drawing commuters from across the region, with access not structured by distance but associated with integration into formal labor markets and public transport connectivity. Santa Fe emerges as a socially selective enclave, serving higher-income and more educated commuters. Naucalpan operates as a proximity-based industrial subcenter, attracting workers primarily from adjacent areas. The study makes four contributions to the job accessibility literature. First, it advances observed accessibility as a complement to potential accessibility, shifting the focus from jobs that are theoretically reachable to those that workers actually obtain. Second, it shows that accessibility operates through subcenter-specific regimes rather than as a metropolitan-wide condition. Third, it demonstrates that spatial mismatch varies across employment subcenters. Fourth, it shows that the benefits of public transport depend on the inclusiveness and labor market role of the destinations it connects.",
+      "keywords": [
+        "Metropolitan area",
+        "TRIPS architecture",
+        "Public transport",
+        "Destinations",
+        "Residence",
+        "Spatial mismatch",
+        "Mexico city",
+        "Work (physics)"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107354",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107354",
       "title": "Private or shared? How awareness and attitudes shape autonomous vehicle preferences in urban contexts",
@@ -175,6 +268,52 @@
         "Context (archaeology)",
         "Key (lock)",
         "Private sector"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107317",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107317",
+      "title": "Digital governance for employment: Impact of digital government construction on urban employment",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-03",
+      "published_date_display": "2026-07-03",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005494",
+      "abstract": "",
+      "keywords": [
+        "Digital government",
+        "Government (linguistics)",
+        "Corporate governance",
+        "E-Government",
+        "Digital economy"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107326",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107326",
+      "title": "Built environment pathways to cardiometabolic risk in a 20-minute neighbourhood context: A Bayesian network study",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-03",
+      "published_date_display": "2026-07-03",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005585",
+      "abstract": "",
+      "keywords": [
+        "Built environment",
+        "Neighbourhood (mathematics)",
+        "Bayesian network",
+        "Level design",
+        "Built-up area"
       ]
     },
     {
@@ -317,7 +456,15 @@
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005287",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Leverage (statistics)",
+        "Economies of agglomeration",
+        "Spillover effect",
+        "Perspective (graphical)",
+        "Knowledge spillover",
+        "Urban agglomeration",
+        "Knowledge creation"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107314",
@@ -1571,7 +1718,7 @@
         16
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261448485",
-      "abstract": "",
+      "abstract": "Fulong Wu and Fangzhu Zhang, Governing Urban Development in China: Critical Urban Studies, Routledge: London, 2025; 222 pp.: ISBN: 9781032408934, £145.00 (hbk), ISBN: 9781032408965, £37.99 (pbk), ISBN: 9781003355175 (ebook, Open Access)",
       "keywords": [
         "Urban planning",
         "Urban density",
@@ -9387,28 +9534,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107055",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107055",
-      "title": "Uncovering simultaneous expansion and shrinkage of Asian urbanization: A multi-dimensional framework with nighttime light",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-02",
-      "published_date_display": "2026-04-02",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002878",
-      "abstract": "",
-      "keywords": [
-        "Shrinkage",
-        "Light pollution",
-        "South asia",
-        "Series (stratigraphy)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107026",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107026",
       "title": "Mosques in Belgium: Spatial distribution, agglomeration patterns and underserved areas",
@@ -9714,34 +9839,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107009",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107009",
-      "title": "Spatiotemporal expansion patterns of urban centers since 1975 in China",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-30",
-      "published_date_display": "2026-03-30",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002416",
-      "abstract": "",
-      "keywords": [
-        "Urban hierarchy",
-        "China",
-        "Urban expansion",
-        "Pace",
-        "Population",
-        "Urban planning",
-        "Centroid",
-        "Urban sprawl",
-        "Spatial ecology",
-        "Common spatial pattern"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105625",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105625",
       "title": "Rethinking surrogate species for actionable biodiversity conservation: A scientometric review with a landscape planning-oriented pathway",
@@ -9866,32 +9963,6 @@
         "Transition (genetics)",
         "Energy (signal processing)",
         "Energy transition"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.106984",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.106984",
-      "title": "Gender difference in recreational active travel: The role of multi-level urban environment in safe, compact cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-03-27",
-      "published_date_display": "2026-03-27",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002167",
-      "abstract": "Recreational Active Travel (RAT), including walking and jogging for leisure, provides substantial health benefits, yet its gender disparities remain underexplored, particularly in high-density Asian cities. We examine gender-specific RAT patterns in Hong Kong using crowdsourced Strava data, integrating macro-level built environment (BE) and micro-level street environment (SE) attributes. We analyze about one million RAT activities recorded in October 2023, disaggregated by gender across 280,000 street segments citywide. Street view images are employed to extract objective and subjective SE features including perceived qualities. We revealed pronounced spatiotemporal gender disparities. Male RAT volume is five times higher than female RAT volume, with the gap widening at night as female activity declines by 26% compared to 21% for males. On weekends, however, female activity increases sharply by 24%, while male activity rises only 2%, suggesting that women face greater weekday constraints. Females also exhibit stronger environmental sensitivity, while footbridges and POI density positively influence RAT for both genders. Micro-SE features such as ocean views and sidewalks promote RAT, whereas signboards and floor-level barriers deter it, disproportionately affecting females. Interestingly, building density and proximity to MTR stations suppress activity particularly among males. Unexpectedly, perceived safety and proximity to police stations exert limited influence, diverging from findings in low-density Western contexts. This study introduces a scalable framework for analyzing gender-specific urban design, underscoring the need to move beyond crime-prevention paradigms. It highlights strategies for gender-inclusive urban design that prioritize accessibility, comfort, and design quality to foster active mobility in compact Asian cities.",
-      "keywords": [
-        "Recreation",
-        "Built environment",
-        "Urban environment",
-        "Physical activity",
-        "Level design",
-        "Quality (philosophy)",
-        "Compact city",
-        "Environmental quality"
       ]
     },
     {
@@ -17121,6 +17192,28 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107336",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107336",
+      "title": "The case for rethinking rural: How simplification obscures rural travel behaviors",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005688",
+      "abstract": "",
+      "keywords": [
+        "Geography",
+        "Sociology",
+        "Economic geography",
+        "Psychology"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107168",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107168",
       "title": "Strategies and sustainability in motion: An analysis of mobility and climate change policies in Greater London",
@@ -17243,7 +17336,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005603",
-      "abstract": "",
+      "abstract": "In the production and management of cities, the promotion of active citizenship has seen its rise despite the affirmation of the neoliberal model. This process was marked by the erasure of public powers in urban regulation and management and the creation of decentralisation and governance mechanisms for social and urban intervention. This article discusses this apparent contradiction, analysing the programme Bairros de Intervenção Prioritária /Zonas de Intervenção Prioritária (BIP/ZIP), developed by the Municipality of Lisbon (Portugal). The Programme aims to foster active citizenship, the capacity for self-organisation and the collective search for solutions, contributing to a positive image of deprived areas in Lisbon and creating a favourable climate for entrepreneurship and local initiative. Assessing thirteen editions of the BIP/ZIP, from 2011 to 2023, this article extracts data to reflect on the coherence between the results obtained and the initially defined objectives. The data analysed includes stakeholders, total investments received, benefited zones, and thematic areas. Drawing from this data, we discuss the lack of association between the problems identified during the delineation of the BIP/ZIP areas and the approved projects. We use the Lisbon case to illustrate how participatory mechanisms have been employed to benefit specific groups at the expense of collective interest, critically examining the unfolding of these practices in comparable contexts. The empirical data warrant critical reflection on the contradictions and limitations of participatory programmes in neoliberal urban contexts, highlighting the concentration of investments in central neighbourhoods and the consistent presence of associations as partners in various proposals. By situating our study within a broader theoretical debate, we discuss the depoliticisation of urban governance and the performative role of active citizenship under neoliberalism. The article concludes with policy recommendations for cities that are experimenting with participatory governance in similar contexts of austerity and decentralisation.",
       "keywords": [
         "Unpacking",
         "Empowerment",
@@ -17252,29 +17345,6 @@
         "Public administration",
         "Business",
         "Law"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107023",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107023",
-      "title": "Murals and neighborhoods: The impact of public art in Philadelphia",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002556",
-      "abstract": "The present study explores the impact of public art, specifically murals, on two different urban neighborhoods of Philadelphia—West Philadelphia and Center City. We tested the hypotheses that aesthetic experiences are modulated by socioeconomic and cultural contexts in which they are apprehended and that art changes perceptions of neighborhoods. Participants assessed their aesthetic experience in city blocks with and without murals in both neighborhoods. Perceptions of safety, cleanliness, noise, interestingness and residents' friendliness were evaluated before and after looking at the murals. We found that murals enhanced perceptions of beauty, liking, and positive emotional impacts in both neighborhoods. Murals in West Philadelphia were liked better. Moreover, people were more immersed and felt transformed by those murals than by those in Center City. Importantly, the murals influenced neighborhood perceptions, improving perceived safety and interest in West Philadelphia and reducing perceived noise and uncleanliness in Center City. These findings highlight the potential of public art to enrich the experience of urban spaces both within and across neighborhoods, particularly in areas facing socioeconomic challenges. Public art can be a powerful tool to enhance the visual and emotional landscape of cities, fostering positive social and cultural narratives in urban environments. • Public art elicits stronger positive affect in neighborhoods with socioeconomic challenges. • Murals significantly improve perceptions of safety, cleanliness, and friendliness. • Public art reduces the negative perception of underdeveloped neighborhoods.",
-      "keywords": [
-        "Public art",
-        "Political science",
-        "History",
-        "Art",
-        "Visual arts"
       ]
     },
     {
@@ -17303,32 +17373,6 @@
         "Political science",
         "Computer science",
         "Linguistics"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107037",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107037",
-      "title": "Exploring the impact of accessibility on leisure social diversity: A Schelling model approach to 15-minute cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002696",
-      "abstract": "One proposal to improve accessibility is the 15-minute city; the goal is to create a city where all daily necessities are reachable in a 15-minute walk or bike ride from home. However, a potential consequence is the reduction of the role of city centers, which are essential places of interaction among diverse social groups. This study investigates the potential impact that a 15-minute city would have on the co-presence of individuals from different social groups. Using an Agent-Based model and Zurich as a case study, we analyze how a relocation of POIs, as proposed by the 15-minute city, impacts the co-presence of socioeconomic groups in leisure activities, with a focus on bars and restaurants. Two conclusions can be drawn. First, the reorganization of venues reduces the distance traveled by 1.2 kilometers for restaurants and bars; second, the dissimilarity index of the city center increased by 0.03 (less diversity), but the average dissimilarity of the city decreased by 0.11 (more diversity), showing that a redistribution of POIs following a 15-minute ideal increases the co-presence of individuals during leisure activities while reducing the distance traveled. Such insights are valuable for urban and transport planners as they help to understand the broader social implications of a spatial reorganization of services and activities.",
-      "keywords": [
-        "Relocation",
-        "Socioeconomic status",
-        "Redistribution (election)",
-        "Social distance",
-        "Public transport",
-        "Inequality",
-        "Social relation",
-        "Index (typography)"
       ]
     },
     {
