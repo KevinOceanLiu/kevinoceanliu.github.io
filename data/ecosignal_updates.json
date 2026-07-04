@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T23:42:48.433247+00:00",
+  "generated_at": "2026-07-04T23:43:10.157171+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,132 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1111/1365-2745.70389",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70389",
+      "title": "Intraspecific trait variation responds consistently to global change drivers and mediates herbivory across unrelated plant species",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        7,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70389",
+      "abstract": "Abstract Herbivory is a key ecological process shaping biodiversity and ecosystem functioning. Predicting herbivory under global change is challenging due to interacting drivers and ecosystem complexity, but mechanistic insights can improve forecasts. Here, we specifically examined how two important global change factors—drought and infectious disease—influence herbivory in plants of different climatic origins, and how we can use intraspecific trait variation to make general predictions. We further examined whether trait–herbivory relationships change in these different environmental contexts. In a manipulative field study, we grew 1161 plant individuals from seeds of 65 populations from 18 distantly related grassland species. Using a common garden experiment, we factorially crossed a drought treatment (by reducing irrigation) and a pathogen removal treatment (by applying fungicide) on plants originating along an elevation gradient. We measured invertebrate herbivory and five key plant traits that potentially mediate herbivory. We used generalized linear mixed effects models and structural equation modelling to test how global change shapes plant traits, herbivory and trait–herbivory links. All plant traits were affected by at least one treatment, and four of the five measured plant traits were associated with herbivory (leaf dry matter content, specific leaf area, biomass, leaf area). Contrary to our expectations, trait–herbivory links were robust across experimental treatments. While global change treatments had limited net effects on herbivory, leaf dry matter content and biomass appeared to mediate environmentally induced changes in herbivory in a counterbalancing manner. Furthermore, populations that originated on higher elevations tended to be most susceptible to herbivory. Synthesis : In classic trait‐based approaches, traits reflect different plant strategies that evolved over long‐term evolutionary timescales. Our study indicates that these trade‐offs also emerge consistently across populations within single species, yielding similar ecological consequences. This is exemplified by increased herbivore susceptibility of plants from high elevation origins, mediated by their decreased leaf dry matter contents, a trait that reflects plant defence levels. Ultimately, the stability of trait–herbivory relationships across environmental gradients suggests that growth–defence trade‐offs are conserved across biological scales, suggesting that accounting for within‐species trait variation could improve predictions of future ecosystem processes.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70477",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70477",
+      "title": "Enhancing structural heterogeneity in managed forest landscapes promotes gamma but not beta diversity in understorey plant communities",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        7,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70477",
+      "abstract": "Abstract Although habitat heterogeneity is known to enhance local species diversity, the effects of management‐driven structural heterogeneity on understorey plant communities across spatial scales remain poorly understood, despite their crucial role for forest biodiversity and ecosystem functioning. To analyse how forest understorey plant communities respond to an enhancement of structural heterogeneity in managed forests, we established 11 experimental sites consisting of two paired forest landscapes, an untreated homogenous control and a treatment district (ESBC, Enhancement of Structural Beta‐Complexity). In treatment districts, structural heterogeneity was enhanced through different combinations of local patch‐scale manipulations of light and deadwood features, leading to greater between‐patch heterogeneity at the landscape scale. We performed a meta‐analysis across these 11 sites using a Hill‐Chao number and sample coverage standardisation framework. Gamma diversity increased across taxonomic, functional and phylogenetic facets in structurally heterogeneous forests (ESBC districts) via higher alpha diversity. This effect was positively associated with heterogeneity in light availability between forest patches, but not with their mean light availability. In contrast, we found no evidence supporting that species turnover among patches (i.e. beta diversity) significantly contributes on average to the observed increase in gamma diversity. However, both the direction and magnitude of beta diversity responses varied substantially among study sites. On average, structurally heterogeneous forests supported higher species richness for both open and closed forest habitat species. Synthesis and applications . Our findings highlight the benefits of enhancing structural heterogeneity for understorey plant diversity in managed forest landscapes. Specifically, management strategies that create a spatial mosaic of interventions, such as combining single‐tree removal with gap felling, can increase the variety of light niches among forest patches, thereby supporting the conservation of a wide range of understorey plant species, including forest specialists.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70496",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70496",
+      "title": "A framework to identify dispersal and establishment constraints in restoration: Freshwater macroinvertebrates as an illustrative example",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        7,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70496",
+      "abstract": "Abstract Given the growing awareness of human‐induced degradation of ecosystems, substantial efforts are being made to rehabilitate degraded ecosystems. However, there is considerable uncertainty regarding the ability of these degraded systems to recover. Despite long‐term calls for a greater focus on monitoring, both planning and evaluation of restoration are rarely underpinned by relevant data. Where ecological communities have become depauperate, colonisation processes must be supported to facilitate community recovery. Colonisation comprises the physical arrival of an organism into an area (dispersal) and its subsequent successful establishment within the local community. Both dispersal and establishment are influenced by biological traits, local habitat conditions and landscape context. We introduce a novel framework to systematically identify dispersal and establishment‐related constraints on the recovery of communities, using macroinvertebrate communities in lotic systems as an illustrative example. The framework incorporates targeted monitoring tools, including drift sampling and aerial adult surveys, to distinguish dispersal from establishment limitations and inform appropriate interventions. By systematically assessing dispersal and establishment, the framework can be used to identify suitable restoration actions. For example, measures to facilitate dispersal (such as riparian area management or translocations), or measures to support establishment (such as improving water quality and instream habitat availability) may be prioritised. Synthesis and applications : In practice, initial state assessment is often insufficient to identify specific limiting factors, with practitioners resorting to off‐the‐shelf restoration methods which may not be appropriate. In the case of lotic invertebrate communities, the tools to comprehensively assess communities do exist; we need to improve understanding and accessibility to practitioners to champion use of these tools in restoration. Through targeted use of different invertebrate sampling methods (e.g. kick sampling, Surber sampling, light trapping, drift sampling), our framework provides an assessment of potential limiting factors for dispersal and establishment that will allow for more strategic restoration methods, with higher chances of success.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70984",
+      "doi_url": "https://doi.org/10.1111/gcb.70984",
+      "title": "Soil Microbial Diversity and Network Organization Respond to Land Use and Agricultural Inputs Worldwide",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        7,
+        4
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70984",
+      "abstract": "ABSTRACT Soil microbiomes are critical for ecosystem functioning, yet the global influences of climate and agricultural practices on their diversity and structure remain incompletely characterized. Here we analyzed 1921 soil samples from 33 countries worldwide across diverse biomes to assess how climate gradients and agricultural inputs, including pesticides and fertilizers, shape prokaryotic and fungal communities. We found that microbial diversity peaks at intermediate temperatures and differs markedly between natural and agricultural soils, with agriculture increasing microbial diversity while altering community composition and ecological guilds. Pesticide use selectively reduced bacterial diversity and shifted fungal guilds, decreasing ectomycorrhizal fungi while increasing saprotrophs, whereas fertilization reduced microbial network cohesion, with organic and inorganic fertilizers eliciting distinct community responses. These findings reveal that climatic factors and agricultural management jointly influence soil microbial diversity, community structure, and network connectivity, with implications for soil health and ecosystem resilience in managed landscapes. Overall, our results demonstrate that agricultural practices, including the use of pesticides and both organic and inorganic fertilizers, act as strong ecological filters that reshape soil microbiomes worldwide—enhancing apparent diversity but driving a functional shift toward less mutualistic, more fragmented, and potentially less resilient communities.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70978",
+      "doi_url": "https://doi.org/10.1111/gcb.70978",
+      "title": "Individual Trees Respond to 40 Years of Climate Change Through Leaf Functional Trait Acclimation",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        7,
+        4
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70978",
+      "abstract": "ABSTRACT Forests are vital for regulating climate and sustaining biodiversity, but climate change threatens their ability to do so, especially in the tropics. Our knowledge of how tropical forests and their constituent trees will respond to changes in climate is largely based on functional trait studies; however, few previous studies have investigated trait changes within individual tropical trees across decades, limiting our ability to predict the future of these forests. In this study, we leveraged historical and contemporary botanical specimens collected from the same individual trees in the southern Peruvian Amazon, measured a suite of leaf traits to test for individual‐level trait changes over nearly 40 years, and then related these changes to concurrent changes in local climate. We hypothesized that trees have acclimated their functional traits in response to increasing air temperatures and drought intensification and that this acclimation should help to maintain stable leaf temperatures through time. In accord with our hypothesis, we found significant decreases in measured leaf traits, including size and shape metrics and stomatal traits, within individuals through time. We used these measured traits to model leaf temperatures through time, which increased faster than would be expected based on changes in air temperature alone. This accelerated warming of leaves was due to decreased stomatal conductance, a potential acclimation of trees to dry season intensification and rising [CO 2 ], thus limiting leaf transpirational cooling. In other words, trees have decreased abilities to cool their leaves, and consequently they may be approaching critical thermal thresholds faster than they would in the absence of water limitation. Our study provides evidence that while individual trees are acclimating to climate change, tropical forests are undergoing increasing thermal stress and that intensifying drought may be elevating this risk.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70977",
+      "doi_url": "https://doi.org/10.1111/gcb.70977",
+      "title": "Divergence From Temperate Models: Pollution Dominance and Stochastic Assembly in a Continental Freshwater System Under Compressed Modernity",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        7,
+        4
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70977",
+      "abstract": "ABSTRACT Current understanding of how multiple stressors shape freshwater biodiversity at continental scales relies heavily on evidence from postindustrial temperate regions, potentially misrepresenting the dynamics of ecosystems facing rapid development and extreme environmental heterogeneity. Here, we present a standardized, continental‐scale field survey of benthic macroinvertebrates across 502 sites in China to test the universality of established macroecological patterns. Contrary to the expectation that physical habitat and climatic gradients primarily drive community structure, we found that organic pollution, with a focus on oxygen‐demand assays (COD and BOD), emerged as the single most influential variable, explaining the largest proportion of variation in taxonomic, functional, and phylogenetic diversity. Together with total nitrogen and total phosphorus loading, this chemical pressure largely overrode the explanatory contribution of land‐use and climatic drivers, with stressor interactions characterized by asymmetric dominance rather than the synergistic amplification commonly predicted. Furthermore, despite steep environmental gradients that theoretically favor deterministic sorting, community assembly was overwhelmingly dominated by stochastic processes (86%, based on overall pairwise comparisons across all sites). We suggest this pattern is consistent with a “stochastic trap” hypothesis, potentially arising from high‐frequency anthropogenic disturbances that weaken trait–environment matching. These findings indicate that biodiversity frameworks derived from stabilized, temperate systems may not generalize to the compressed modernity of developing regions. We propose that global conservation strategies should consider prioritizing the reduction of chemical bottlenecks, which may act as critical physiological constraints on freshwater resilience in the Anthropocene.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70384",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70384",
+      "title": "Long‐term aridity shapes grassland drought resistance and modulates the roles of plant diversity and functional composition",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-07-03",
+      "published_date_display": "2026-07-03",
+      "published_parts": [
+        2026,
+        7,
+        3
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70384",
+      "abstract": "Abstract Understanding the drivers of plant community stability is crucial for predicting ecosystem responses to extreme drought events. In grasslands, drought resistance supports the maintenance of key functions such as above‐ground primary productivity, making the identification of resistance drivers essential to guide management under climate change. Proposed factors contributing to grassland stability include multiple diversity facets, functional traits and long‐term climate, but most assessments focus on temporal invariability under historical disturbance regimes, leaving mechanisms of extreme drought resistance and their variation across climatic contexts relatively underexplored. Here, we analysed data from 54 grassland sites of the International Drought Experiment to examine the resistance of above‐ground net primary productivity to a short‐term (i.e. 1 year) extreme drought. We investigated the relative importance and joint influence of functional composition (i.e. community‐weighted means of leaf and root traits), plant diversity facets (taxonomic, functional and phylogenetic) and climate (aridity and rainfall variability) on drought resistance. We used structural equation models to disentangle direct, indirect, and moderating pathways linking these drivers to drought resistance. Long‐term aridity appeared as one of the most important drivers of grassland resistance to drought, with more arid sites showing lower resistance. Moreover, aridity impacted resistance through indirect effects by shaping functional composition and plant diversity, and by moderating the influence of plant diversity and functional composition. Functional composition related to dehydration avoidance and dehydration tolerance was also positively associated with resistance, while diversity had a weaker relationship with resistance, mostly through functional and phylogenetic facets. Interannual rainfall variability also influenced resistance, with different effects in more arid versus humid and less arid sites. Synthesis . Widely studied stability drivers such as plant diversity and functional composition have only partial explanatory power for short‐term drought resistance of above‐ground productivity in grasslands at a global scale. The abiotic context, particularly long‐term aridity, is crucial for understanding ecosystem responses to rainfall variation and can improve predictive models for advancing the study of ecosystem resistance to drought. Along with management practices that target high species diversity or specific traits, restoration and conservation practices should support vulnerable sites experiencing high aridity",
+      "keywords": []
+    },
     {
       "doi": "10.1111/1365-2745.70392",
       "doi_url": "https://doi.org/10.1111/1365-2745.70392",
@@ -14808,34 +14934,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70821",
-      "doi_url": "https://doi.org/10.1111/gcb.70821",
-      "title": "Increased Contributions of Microbial Extracellular Polymeric Substance to Soil Organic Carbon During Grassland Degradation",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-27",
-      "published_date_display": "2026-03-27",
-      "published_parts": [
-        2026,
-        3,
-        27
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70821",
-      "abstract": "ABSTRACT Microbial residues are fundamental to the long‐term stabilization of soil organic carbon (SOC). Intensively used alpine grasslands are subject to degradation under climate change, which may profoundly reshape microbial life‐history strategies and SOC accumulation. However, the mechanisms by which grassland degradation influences the accumulation of different microbial residues and by which microbial life‐history strategies regulate these processes remain unclear. Addressing this research gap, we quantified microbial necromass carbon (MNC) and extracellular polymeric substance carbon (EPSC) and assessed their contributions to SOC in grasslands under different stages of degradation. We also investigated the impact of microbial growth and resource acquisition strategies on the accumulation of MNC and EPSC. We found that microbial residues were differentially influenced by grassland degradation. On average across the lightly, moderately, and heavily degraded grasslands, MNC declined by 69% relative to the non‐degraded grassland, whereas EPSC declined by only 15%. Interestingly, grassland degradation increased the ratio of EPSC to microbial biomass carbon by 1.4‐fold and its contribution to SOC by 1.2‐fold. The higher ratio of EPSC to microbial biomass carbon is indicative of rapid microbial biomass turnover, which in turn promotes EPSC's contribution to SOC. Enhanced EPSC accumulation under degradation was associated with shifts in microbial life‐history strategies, such as reduced carbon use efficiency, elevated metabolic quotient, and increased production of carbon‐acquisition enzymes. In contrast, there were no significant differences in the ratio of MNC to microbial biomass carbon or its contribution to SOC under the varying degradation intensity. In conclusion, this study provides novel and direct empirical evidence that EPSC plays an important role in SOC accumulation in degraded grasslands.",
-      "keywords": [
-        "Biomass (ecology)",
-        "Degradation (telecommunications)",
-        "Soil carbon",
-        "Grassland",
-        "Carbon fibers",
-        "Microbial population biology",
-        "Grassland degradation",
-        "Microbial biodegradation",
-        "Total organic carbon"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70822",
       "doi_url": "https://doi.org/10.1111/gcb.70822",
       "title": "Effect of Heat Stress on Wheat Quality and Its Heterogeneity: A Global Meta‐Analysis",
@@ -15670,35 +15768,6 @@
         "Cycling",
         "Nitrogen cycle",
         "Biogeochemistry"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70806",
-      "doi_url": "https://doi.org/10.1111/gcb.70806",
-      "title": "Integrated Global Estimation of Terrestrial Carbon Efflux",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-20",
-      "published_date_display": "2026-03-20",
-      "published_parts": [
-        2026,
-        3,
-        20
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70806",
-      "abstract": "ABSTRACT Carbon efflux (C efflux ) makes up 20% of total greenhouse gases emitted globally. Accurate global C efflux is critical for projecting and responding to future global warming. However, current C efflux estimates remain incomplete due to the omission of C efflux released from the dissolution of inorganic carbon in calcareous soils (C efflux‐calcareous ) and dissolution of lime in acidic soils (C efflux‐acidic ). Here, we present a global terrestrial C efflux that incorporates C efflux‐calcareous , C efflux‐acidic , and soil respiration. Using 7562 field measurements from 2481 publications and machine learning, this study revealed that C efflux‐acidic and C efflux‐calcareous contributed 0.29% and 0.09%, respectively, to an overall C efflux of 96.52 Pg C year −1 (95% confidence interval, 91.2–101.9 Pg C year −1 ). Previous estimates of C efflux from soil respiration underestimated 0.4% of C efflux . Structural equation modelling (SEM) revealed that C efflux was directly driven by heterotrophic respiration, autotrophic respiration, dissolution of soil inorganic carbon and liming, while being regulated indirectly by land productivity (gross primary productivity, roots and litter), soil properties (soil acidity and soil inorganic carbon content), and anthropogenic activities (nitrogen fertiliser application). Soil acidification must be viewed as a dual challenge impacting both crop yields and global warming threats. Therefore, the study emphasises the need to incorporate neutralising soil acidity into soil carbon dynamics models, which was previously overlooked.",
-      "keywords": [
-        "Soil water",
-        "Autotroph",
-        "Carbon cycle",
-        "Soil carbon",
-        "Total inorganic carbon",
-        "Calcareous",
-        "Soil respiration",
-        "Heterotroph",
-        "Greenhouse gas",
-        "Carbon fibers"
       ]
     },
     {
@@ -18754,32 +18823,6 @@
         "Litter",
         "Nutrient",
         "Invertebrate"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70778",
-      "doi_url": "https://doi.org/10.1111/gcb.70778",
-      "title": "Europe's Ecological Debt: Mapping Freshwater Restoration Needs",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        3,
-        3
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70778",
-      "abstract": "ABSTRACT Since the 20th century, global biodiversity indicators declined, especially for freshwater ecosystems. In European Union, to counter this, the enactment of the Habitats Directive (HD) and the Water Framework Directive (WFD) established legally binding environmental objectives for Member States. Thus, identifying where HD and WFD non‐compliance occurs is critical, as these locations represent areas of restoration needs for freshwater environments. We used data from the HD (habitats and species) and WFD and harmonised these datasets using River Restoration Units (R2U), preserving river network structure and providing a consistent spatial resolution. Applying the Composite Indicator of Conservation Status to HD habitats, HD species, and WFD Good Ecological Status, we determined the restoration needs for each R2U. This allowed contrasting restoration needs for HD and WFD at European and national scales, and mapping the combined freshwater‐related restoration needs. Around 89% and 55% of R2U expressed restoration needs according to habitats and species, respectively. This rose above 93% for the overall HD goals and exceeded 45% for the WFD. Less than 5% of R2U complied with both directives. We found a European‐wide gradient of decreasing restoration needs from habitats, to species, and to WFD, though this pattern was inconsistent among Member States. The spatial patterns of restoration needs identified seem to align with socio‐economic conditions and land‐use patterns across Europe. The European‐wide trend suggests a sequential process in which habitat loss and degradation lead to delayed biodiversity impairment, which may result in subsequent impairment of ecosystem functioning. These are consistent with ecological theory, suggesting that habitat degradation may have delayed but potentially cascading effects on biodiversity and ecosystem functioning. The Nature Restoration Regulation (NRR) can potentially halt European ecological degradation, but restoration efforts must be scaled up and coherently implemented. This broad‐scope perspective provides actionable guidance to support NRR implementation across multiple governance levels.",
-      "keywords": [
-        "Water Framework Directive",
-        "Restoration ecology",
-        "Biodiversity",
-        "Habitat",
-        "Habitats Directive",
-        "Ecosystem services",
-        "Freshwater ecosystem"
       ]
     },
     {
@@ -22791,33 +22834,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70267",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70267",
-      "title": "Experimental evidence for large carnivore risk cues reducing deer browsing intensity in a temperate forest",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-28",
-      "published_date_display": "2026-01-28",
-      "published_parts": [
-        2026,
-        1,
-        28
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70267",
-      "abstract": "Abstract Intensive ungulate browsing represents a major challenge for managing temperate forests, and only a clear understanding of the underlying ecological processes can help to mitigate its impact. Predator–prey interactions play a crucial role in shaping browsing patterns; however, the lack of a comprehensive understanding of these dynamics hinders the development of functional policies. Using an experimental approach, we simulated large‐carnivore presence using olfactory cues to examine the effects of predation risk on deer behaviour and its consequences for browsing intensity on tree saplings. We conducted this experiment in 11 locations in the Bavarian Forest National Park (Germany), each comprising four plots with olfactory cues of wolf, lynx, cow and water (control). In each plot, we planted 30 saplings representing the five most common tree species in the area, which we regularly monitored to assess browsing intensity and selectivity. In addition, we set a camera trap at each plot to record deer species (red and roe deer), age, sex and behavioural metrics like time spent vigilant, visitation duration and visitation frequency. This experimental design allowed comparisons of the effects of different large carnivore on prey species while measuring browsing intensity. Our results demonstrated that deer modified their behaviour in response to large carnivore scent cues compared to non‐risky cues, with more pronounced effects in lynx treatments compared to controls. Red and roe deer spent significantly less time in lynx treatments compared to controls, especially at dawn and dusk. In spring at dusk, we observed similar decreases in visitation duration in wolf treatments. Notably, our findings also show increased vigilance time of adult deer accompanied by juveniles at sites with lynx cues during winter nights. As a consequence of these behavioural changes, we recorded a significant reduction in browsing intensity in lynx treatments compared to controls. However, no signs of tree species selectivity were found in plots with large carnivores scent cues nor differences in visitation frequency. Synthesis and applications . By analysing multiple behavioural responses and considering relationships between different trophic guilds, we provide unique insights into the mechanisms of predator–prey interactions and their indirect impact on forest ecosystems. In particular, our findings highlight the role of large carnivores in mitigating ungulate browsing damages, which is important for managing temperate forests (both natural and commercial) where herbivore browsing is a significant pressure.",
-      "keywords": [
-        "Carnivore",
-        "Ungulate",
-        "Predation",
-        "Roe deer",
-        "Temperate forest",
-        "Temperate rainforest",
-        "Temperate climate",
-        "Olfactory cues"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70258",
       "doi_url": "https://doi.org/10.1111/1365-2664.70258",
       "title": "Emerging pathogenic strongylid infections in Virunga Massif mountain gorillas: Role of environmental stressors",
@@ -23549,34 +23565,6 @@
         "Ecosystem diversity",
         "Climate change",
         "Diversity (politics)"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70279",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70279",
-      "title": "Increased fire occurrence benefits early oak regeneration in temperate deciduous forests in part by disrupting an invasive grass‐fire feedback",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-19",
-      "published_date_display": "2026-01-19",
-      "published_parts": [
-        2026,
-        1,
-        19
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70279",
-      "abstract": "Abstract Feedbacks between fire and non‐native grasses can lead to a grass‐fire cycle that intensifies grass invasion and harms native trees. However, higher fire activity may reshape fire–grass–tree interactions by altering resource availability and reducing fire intensity. Understanding these dynamics and their effects on tree regeneration is critically important for maintaining and restoring declining oak populations in temperate deciduous forests. Here, we performed a landscape‐scale field experiment in oak‐hickory forests of the U.S. central hardwood region to determine how grass invasion and variation in fire activity alter post‐fire regeneration of oak seedlings and juveniles. We applied fire to outplanted white oak ( Quercus alba ) and black oak ( Q. velutina ) seedlings and naturally colonized juveniles in plots arrayed along a historical fire occurrence gradient that were either uninvaded or invaded by a widespread non‐native grass ( Microstegium vimineum ). We found that increased fire occurrence elevated light availability, with plots burnt five times receiving on average 2.5 times more light. Increased fire occurrence also reduced fire intensity, with each additional burn lowering the maximum temperature of experimental fires by 18°C. These changes contributed to post‐fire oak survival rates being almost twice as high in plots burnt five times compared with those with a history of a single prior burn. In contrast, Microstegium invasion decreased fire intensity and had no effect on post‐fire oak seedling survival in plots with a history of multiple burns. Microstegium cover also declined as fire occurrence increased. Synthesis and applications . These results suggest that recurring fire can mitigate the negative effects of grass invasion and create conditions more favourable for early oak regeneration in temperate deciduous forests.",
-      "keywords": [
-        "Deciduous",
-        "Temperate climate",
-        "Seedling",
-        "Regeneration (biology)",
-        "Temperate deciduous forest",
-        "Fire ecology",
-        "Understory",
-        "Fire regime",
-        "Temperate rainforest"
       ]
     },
     {
