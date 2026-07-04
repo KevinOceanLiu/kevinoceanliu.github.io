@@ -4620,16 +4620,11 @@ select {
     }
 }
 
-.visitor-tracker,
-.visitor-tracker iframe,
-.visitor-tracker img,
-.visitor-tracker a,
-iframe[src*="mapmyvisitors"],
-img[src*="mapmyvisitors"],
-a[href*="mapmyvisitors"] {
-    display: none !important;
-    visibility: hidden !important;
-    width: 0 !important;
-    height: 0 !important;
+.visitor-tracker {
+    position: absolute !important;
+    left: -9999px !important;
+    top: auto !important;
+    width: 1px !important;
+    height: 1px !important;
     overflow: hidden !important;
 }
