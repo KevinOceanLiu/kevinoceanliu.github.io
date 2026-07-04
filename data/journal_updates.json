@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T22:16:07.141954+00:00",
+  "generated_at": "2026-07-04T22:10:14.205717+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,23 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115551",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115551",
+      "title": "A 4D look–bin–space–time (LBiST) approach for waveform decontamination and range determination in SAR altimetry",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003214",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.rse.2026.115546",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115546",
@@ -13574,32 +13591,6 @@
         "Pixel",
         "Ocean color",
         "Benchmark (surveying)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115187",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115187",
-      "title": "Edge effects on forest dynamics in China from 2000 to 2020: Evidence from satellite remote sensing",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-09",
-      "published_date_display": "2025-12-09",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005917",
-      "abstract": "",
-      "keywords": [
-        "Canopy",
-        "Tree canopy",
-        "Grassland",
-        "China",
-        "Normalized Difference Vegetation Index",
-        "Forest cover",
-        "Satellite",
-        "Forest ecology"
       ]
     },
     {
