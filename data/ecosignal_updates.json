@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T23:43:10.157171+00:00",
+  "generated_at": "2026-07-05T23:43:44.349131+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70389",
       "abstract": "Abstract Herbivory is a key ecological process shaping biodiversity and ecosystem functioning. Predicting herbivory under global change is challenging due to interacting drivers and ecosystem complexity, but mechanistic insights can improve forecasts. Here, we specifically examined how two important global change factors—drought and infectious disease—influence herbivory in plants of different climatic origins, and how we can use intraspecific trait variation to make general predictions. We further examined whether trait–herbivory relationships change in these different environmental contexts. In a manipulative field study, we grew 1161 plant individuals from seeds of 65 populations from 18 distantly related grassland species. Using a common garden experiment, we factorially crossed a drought treatment (by reducing irrigation) and a pathogen removal treatment (by applying fungicide) on plants originating along an elevation gradient. We measured invertebrate herbivory and five key plant traits that potentially mediate herbivory. We used generalized linear mixed effects models and structural equation modelling to test how global change shapes plant traits, herbivory and trait–herbivory links. All plant traits were affected by at least one treatment, and four of the five measured plant traits were associated with herbivory (leaf dry matter content, specific leaf area, biomass, leaf area). Contrary to our expectations, trait–herbivory links were robust across experimental treatments. While global change treatments had limited net effects on herbivory, leaf dry matter content and biomass appeared to mediate environmentally induced changes in herbivory in a counterbalancing manner. Furthermore, populations that originated on higher elevations tended to be most susceptible to herbivory. Synthesis : In classic trait‐based approaches, traits reflect different plant strategies that evolved over long‐term evolutionary timescales. Our study indicates that these trade‐offs also emerge consistently across populations within single species, yielding similar ecological consequences. This is exemplified by increased herbivore susceptibility of plants from high elevation origins, mediated by their decreased leaf dry matter contents, a trait that reflects plant defence levels. Ultimately, the stability of trait–herbivory relationships across environmental gradients suggests that growth–defence trade‐offs are conserved across biological scales, suggesting that accounting for within‐species trait variation could improve predictions of future ecosystem processes.",
-      "keywords": []
+      "keywords": [
+        "Herbivore",
+        "Global change",
+        "Intraspecific competition",
+        "Ecosystem",
+        "Biomass (ecology)",
+        "Trait",
+        "Grassland",
+        "Biodiversity",
+        "Plant ecology"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70477",
@@ -87,7 +97,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70496",
       "abstract": "Abstract Given the growing awareness of human‐induced degradation of ecosystems, substantial efforts are being made to rehabilitate degraded ecosystems. However, there is considerable uncertainty regarding the ability of these degraded systems to recover. Despite long‐term calls for a greater focus on monitoring, both planning and evaluation of restoration are rarely underpinned by relevant data. Where ecological communities have become depauperate, colonisation processes must be supported to facilitate community recovery. Colonisation comprises the physical arrival of an organism into an area (dispersal) and its subsequent successful establishment within the local community. Both dispersal and establishment are influenced by biological traits, local habitat conditions and landscape context. We introduce a novel framework to systematically identify dispersal and establishment‐related constraints on the recovery of communities, using macroinvertebrate communities in lotic systems as an illustrative example. The framework incorporates targeted monitoring tools, including drift sampling and aerial adult surveys, to distinguish dispersal from establishment limitations and inform appropriate interventions. By systematically assessing dispersal and establishment, the framework can be used to identify suitable restoration actions. For example, measures to facilitate dispersal (such as riparian area management or translocations), or measures to support establishment (such as improving water quality and instream habitat availability) may be prioritised. Synthesis and applications : In practice, initial state assessment is often insufficient to identify specific limiting factors, with practitioners resorting to off‐the‐shelf restoration methods which may not be appropriate. In the case of lotic invertebrate communities, the tools to comprehensively assess communities do exist; we need to improve understanding and accessibility to practitioners to champion use of these tools in restoration. Through targeted use of different invertebrate sampling methods (e.g. kick sampling, Surber sampling, light trapping, drift sampling), our framework provides an assessment of potential limiting factors for dispersal and establishment that will allow for more strategic restoration methods, with higher chances of success.",
-      "keywords": []
+      "keywords": [
+        "Biological dispersal",
+        "Riparian zone",
+        "River ecosystem",
+        "Habitat",
+        "Restoration ecology",
+        "Colonisation",
+        "Adaptive management"
+      ]
     },
     {
       "doi": "10.1111/gcb.70984",
@@ -105,7 +123,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70984",
       "abstract": "ABSTRACT Soil microbiomes are critical for ecosystem functioning, yet the global influences of climate and agricultural practices on their diversity and structure remain incompletely characterized. Here we analyzed 1921 soil samples from 33 countries worldwide across diverse biomes to assess how climate gradients and agricultural inputs, including pesticides and fertilizers, shape prokaryotic and fungal communities. We found that microbial diversity peaks at intermediate temperatures and differs markedly between natural and agricultural soils, with agriculture increasing microbial diversity while altering community composition and ecological guilds. Pesticide use selectively reduced bacterial diversity and shifted fungal guilds, decreasing ectomycorrhizal fungi while increasing saprotrophs, whereas fertilization reduced microbial network cohesion, with organic and inorganic fertilizers eliciting distinct community responses. These findings reveal that climatic factors and agricultural management jointly influence soil microbial diversity, community structure, and network connectivity, with implications for soil health and ecosystem resilience in managed landscapes. Overall, our results demonstrate that agricultural practices, including the use of pesticides and both organic and inorganic fertilizers, act as strong ecological filters that reshape soil microbiomes worldwide—enhancing apparent diversity but driving a functional shift toward less mutualistic, more fragmented, and potentially less resilient communities.",
-      "keywords": []
+      "keywords": [
+        "Agriculture",
+        "Ecosystem",
+        "Biome",
+        "Biodiversity",
+        "Land use",
+        "Ecosystem services",
+        "Soil biodiversity",
+        "Organic farming",
+        "Diversity (politics)",
+        "Microbial population biology"
+      ]
     },
     {
       "doi": "10.1111/gcb.70978",
@@ -123,7 +152,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70978",
       "abstract": "ABSTRACT Forests are vital for regulating climate and sustaining biodiversity, but climate change threatens their ability to do so, especially in the tropics. Our knowledge of how tropical forests and their constituent trees will respond to changes in climate is largely based on functional trait studies; however, few previous studies have investigated trait changes within individual tropical trees across decades, limiting our ability to predict the future of these forests. In this study, we leveraged historical and contemporary botanical specimens collected from the same individual trees in the southern Peruvian Amazon, measured a suite of leaf traits to test for individual‐level trait changes over nearly 40 years, and then related these changes to concurrent changes in local climate. We hypothesized that trees have acclimated their functional traits in response to increasing air temperatures and drought intensification and that this acclimation should help to maintain stable leaf temperatures through time. In accord with our hypothesis, we found significant decreases in measured leaf traits, including size and shape metrics and stomatal traits, within individuals through time. We used these measured traits to model leaf temperatures through time, which increased faster than would be expected based on changes in air temperature alone. This accelerated warming of leaves was due to decreased stomatal conductance, a potential acclimation of trees to dry season intensification and rising [CO 2 ], thus limiting leaf transpirational cooling. In other words, trees have decreased abilities to cool their leaves, and consequently they may be approaching critical thermal thresholds faster than they would in the absence of water limitation. Our study provides evidence that while individual trees are acclimating to climate change, tropical forests are undergoing increasing thermal stress and that intensifying drought may be elevating this risk.",
-      "keywords": []
+      "keywords": [
+        "Trait",
+        "Climate change",
+        "Acclimatization",
+        "Limiting",
+        "Growing season",
+        "Tropical savanna climate",
+        "Tropics",
+        "Tropical climate",
+        "Specific leaf area"
+      ]
     },
     {
       "doi": "10.1111/gcb.70977",
@@ -141,7 +180,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70977",
       "abstract": "ABSTRACT Current understanding of how multiple stressors shape freshwater biodiversity at continental scales relies heavily on evidence from postindustrial temperate regions, potentially misrepresenting the dynamics of ecosystems facing rapid development and extreme environmental heterogeneity. Here, we present a standardized, continental‐scale field survey of benthic macroinvertebrates across 502 sites in China to test the universality of established macroecological patterns. Contrary to the expectation that physical habitat and climatic gradients primarily drive community structure, we found that organic pollution, with a focus on oxygen‐demand assays (COD and BOD), emerged as the single most influential variable, explaining the largest proportion of variation in taxonomic, functional, and phylogenetic diversity. Together with total nitrogen and total phosphorus loading, this chemical pressure largely overrode the explanatory contribution of land‐use and climatic drivers, with stressor interactions characterized by asymmetric dominance rather than the synergistic amplification commonly predicted. Furthermore, despite steep environmental gradients that theoretically favor deterministic sorting, community assembly was overwhelmingly dominated by stochastic processes (86%, based on overall pairwise comparisons across all sites). We suggest this pattern is consistent with a “stochastic trap” hypothesis, potentially arising from high‐frequency anthropogenic disturbances that weaken trait–environment matching. These findings indicate that biodiversity frameworks derived from stabilized, temperate systems may not generalize to the compressed modernity of developing regions. We propose that global conservation strategies should consider prioritizing the reduction of chemical bottlenecks, which may act as critical physiological constraints on freshwater resilience in the Anthropocene.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Benthic zone",
+        "Temperate climate",
+        "Dominance (genetics)",
+        "Metacommunity",
+        "Climate change",
+        "Environmental change",
+        "Global change",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70384",
@@ -159,7 +208,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70384",
       "abstract": "Abstract Understanding the drivers of plant community stability is crucial for predicting ecosystem responses to extreme drought events. In grasslands, drought resistance supports the maintenance of key functions such as above‐ground primary productivity, making the identification of resistance drivers essential to guide management under climate change. Proposed factors contributing to grassland stability include multiple diversity facets, functional traits and long‐term climate, but most assessments focus on temporal invariability under historical disturbance regimes, leaving mechanisms of extreme drought resistance and their variation across climatic contexts relatively underexplored. Here, we analysed data from 54 grassland sites of the International Drought Experiment to examine the resistance of above‐ground net primary productivity to a short‐term (i.e. 1 year) extreme drought. We investigated the relative importance and joint influence of functional composition (i.e. community‐weighted means of leaf and root traits), plant diversity facets (taxonomic, functional and phylogenetic) and climate (aridity and rainfall variability) on drought resistance. We used structural equation models to disentangle direct, indirect, and moderating pathways linking these drivers to drought resistance. Long‐term aridity appeared as one of the most important drivers of grassland resistance to drought, with more arid sites showing lower resistance. Moreover, aridity impacted resistance through indirect effects by shaping functional composition and plant diversity, and by moderating the influence of plant diversity and functional composition. Functional composition related to dehydration avoidance and dehydration tolerance was also positively associated with resistance, while diversity had a weaker relationship with resistance, mostly through functional and phylogenetic facets. Interannual rainfall variability also influenced resistance, with different effects in more arid versus humid and less arid sites. Synthesis . Widely studied stability drivers such as plant diversity and functional composition have only partial explanatory power for short‐term drought resistance of above‐ground productivity in grasslands at a global scale. The abiotic context, particularly long‐term aridity, is crucial for understanding ecosystem responses to rainfall variation and can improve predictive models for advancing the study of ecosystem resistance to drought. Along with management practices that target high species diversity or specific traits, restoration and conservation practices should support vulnerable sites experiencing high aridity",
-      "keywords": []
+      "keywords": [
+        "Arid",
+        "Resistance (ecology)",
+        "Grassland",
+        "Ecosystem",
+        "Ecological stability",
+        "Disturbance (geology)",
+        "Plant community",
+        "Drought tolerance"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70392",
