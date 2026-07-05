@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T23:13:56.043327+00:00",
+  "generated_at": "2026-07-05T23:19:14.668109+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,55 +31,27 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107375",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107375",
-      "title": "The effects of generational differences in travel socialisation on sustainable travel preference and intentions",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006074",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107315",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107315",
-      "title": "Complex built environment and explicit distance threshold: A machine learning diagnosis of commuting active travel behavior",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005470",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.compenvurbsys.2026.102484",
       "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102484",
       "title": "Addressing the missing activity location problem in trip chais: A POI-based probabilistic method using open data",
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000864",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Probabilistic logic",
+        "Missing data",
+        "Open data",
+        "Statistical model",
+        "Open source"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107305",
@@ -106,6 +78,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107375",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107375",
+      "title": "The effects of generational differences in travel socialisation on sustainable travel preference and intentions",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006074",
+      "abstract": "This study examines how generational differences in travel socialisation shape sustainable travel preferences for commuting by bicycle and bus and intentions to purchase a hybrid or electric car if such options were available and affordable. Drawing on survey data from 519 millennial and 870 Generation Z university students in Ghana, the findings show cohort differences in the socialisation pathways associated with sustainable travel preferences and intentions. Among Gen Z respondents, early exposure to car ownership was associated with stronger preferences for bicycles and bus use, while among millennials, growing up in carless households were linked to stronger intentions to adopt hybrid or electric cars. Several socialisation variables significantly predicted cycling, bus use, and hybrid/electric car adoption, underscoring the enduring influence of childhood and adolescent experiences in shaping sustainable travel preferences and intentions. These findings extend travel socialisation theory by demonstrating how transport mode norms and dispositions formed early in life shape sustainable travel preferences and intentions in young adulthood. Beyond its theoretical contributions, this study offers significant practical implications for a diverse range of stakeholders. Bus service providers could combine subsidised or fare-free schemes for students with improvements in service frequency and network connectivity, while car retailers may leverage cohort-specific strategies to accelerate electric car adoption. Furthermore, universities can encourage low-carbon commuting through targeted institutional practices. Ultimately, policymakers can better align attitudinal foundations with infrastructure development and transport innovation to advance sustainable urban mobility.",
+      "keywords": [
+        "Leverage (statistics)",
+        "Preference",
+        "Sustainable transport",
+        "Mode choice",
+        "Travel behavior",
+        "Sustainability",
+        "Service provider",
+        "Service (business)",
+        "Diversity (politics)"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107339",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107339",
       "title": "Dose-response associations between a walkability index and adults' domain-specific walking: A study of 95 cities in Japan",
@@ -119,12 +118,38 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005718",
-      "abstract": "",
+      "abstract": "We examined dose–response relations between a Japan Postcode-level Walkability Index (JPWI) and total walking, walking for leisure; and walking for transport, among adults living in 95 cities across the country. This nationwide cross-sectional study included 40,286 adults (males 50.5%, 49.4 ± 15.6 years) residing in a wide range of urban and rural settings, who responded to a web-based survey conducted in 2021 using quota sampling. The JPWI was calculated by generating a 1000 m road network buffer from a representative point within each postcode boundary using the mean of z-scores summarizing the population density, intersection density and number of destinations within this buffer. JPWI scores ranged from −1.848 to 2.590. There was a non-linear positive association between JPWI and total walking, with an inflection point at a JPWI of 0.78 (95% CI: 0.69, 0.87), below which the association with walking time was minimal (B = 22 [11,32]), but above which walking time increased significantly (B = 118 [106, 129]). Similar patterns of associations were observed in both leisure walking and walking for transport, with inflection points at JPWI values of 0.78 (95% CI: 0.69, 0.86) and 0.64 (95% CI: 0.42, 0.86), respectively. Findings highlight the potential utility of considering how the JPWI (and potentially related measures for other countries) of local areas compare with such empirically-identified inflection points when developing strategies for improving the built environment to promote physical activity.",
       "keywords": [
         "Walkability",
         "Index (typography)",
         "Urban region",
         "Physical activity"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107315",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107315",
+      "title": "Complex built environment and explicit distance threshold: A machine learning diagnosis of commuting active travel behavior",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005470",
+      "abstract": "",
+      "keywords": [
+        "Interpretability",
+        "Built environment",
+        "Travel behavior",
+        "Population",
+        "Decision support system",
+        "Feature (linguistics)",
+        "Public transport",
+        "Car ownership"
       ]
     },
     {
@@ -307,7 +332,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005585",
-      "abstract": "",
+      "abstract": "Background The built environment plays a pivotal role in shaping cardiometabolic risk by influencing lifestyle behaviours. The 20-Minute Neighbourhood (20MN) concept, promoting accessible, walkable urban areas, has gained traction as a strategy to improve community health. Objectives This study examined whether neighbourhood built environment features, operationalised within a 20-min, are associated with cardiometabolic risk through indirect behavioural pathways over time, using Bayesian Network Analysis (BNA). Our aim was to investigate causal pathways linking the built environment with cardiometabolic risk. Methods A Bayesian network model was constructed using longitudinal data from the North-West Adelaide Health Study (NWAHS), spanning three waves over ten years. Built environment indices were developed using expert input, fuzzy logic, and GIS data within a 1600 m street-network buffer of participants' residences. Results The BNA identified indirect pathways linking built environment variables, particularly the food facilities and public facilities indices, to cardiometabolic risk through modifiable behavioural mediators and downstream biometric change. Specifically, food and public facilities were linked to HbA1c indirectly through fruit and vegetable intake, physical activity, and BMI. The model explained 32.1% of HbA1c variance, with BMI serving as a strong predictor. Centrality measures also identified physical activity and BMI as key bridging nodes within the network. Discussion These findings show that the contribution of neighbourhood built environment features to cardiometabolic risk may operate primarily through indirect behavioural and biometric pathways rather than through simple direct associations. BNA provided a useful framework for identifying these pathways in a longitudinal, policy-relevant urban health context.",
       "keywords": [
         "Built environment",
         "Neighbourhood (mathematics)",
@@ -8464,31 +8489,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107107",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107107",
-      "title": "Families' perception of safety on school pathways",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-15",
-      "published_date_display": "2026-04-15",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003392",
-      "abstract": "Children's independent mobility is essential for fostering autonomy, participation, and inclusion in urban spaces. However, many families remain reluctant to allow their children to walk to school alone, often citing safety concerns. This study examines parental perceptions of urban safety and its influence on children's mobility autonomy. A questionnaire was administered to 97 families in Leioa (Bizkaia, Spain), gathering demographic data, school travel habits, and open-ended responses on perceived safety. The responses were analysed using the Reinert method in Iramuteq, revealing six distinct thematic classes. Four classes highlighted key safety concerns: “Poor road safety for pedestrians,” “Low police presence,” “Roads passing through the town,” and “Poor lighting.” The remaining two classes reflected contrasting perspectives: “T Perceived neighbourhood safety “ and “ Perceived safety-enhancing strategies.” These findings underscore the need for safer, more inclusive urban environments that encourage children's active mobility. The study aligns with the Eskolabideak [School Pathways] project, which promotes healthier, participatory, and inclusive learning environments across 16 municipalities. To enhance children's independent mobility, initiatives must combine urban planning improvements with awareness campaigns targeting families. By addressing safety concerns and fostering a cultural shift towards active mobility, communities can create more child-friendly public spaces, contributing to broader social transformation. • The study explores parental reluctance to let children walk to school autonomously. • Questionnaire data from 97 families was analized • Findings reveal the need for safer, inclusive, walkable environments for children. • Creating safe routes can help reduce perceived risks and foster community involvement. • The study emphasizes walking to school as a catalyst for social transformation",
-      "keywords": [
-        "Neighbourhood (mathematics)",
-        "Perception",
-        "Thematic analysis",
-        "Inclusion (mineral)",
-        "Human factors and ergonomics",
-        "Urban planning",
-        "Poison control"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261432567",
       "doi_url": "https://doi.org/10.1177/00420980261432567",
       "title": "State-led new-build gentrification in metropolitan Oslo",
@@ -9836,6 +9836,34 @@
         "Resource (disambiguation)",
         "Resource management (computing)",
         "Resource use"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107009",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107009",
+      "title": "Spatiotemporal expansion patterns of urban centers since 1975 in China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-03-30",
+      "published_date_display": "2026-03-30",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002416",
+      "abstract": "",
+      "keywords": [
+        "Urban hierarchy",
+        "China",
+        "Urban expansion",
+        "Pace",
+        "Population",
+        "Urban planning",
+        "Centroid",
+        "Urban sprawl",
+        "Spatial ecology",
+        "Common spatial pattern"
       ]
     },
     {
