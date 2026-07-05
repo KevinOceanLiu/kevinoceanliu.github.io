@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T22:10:14.205717+00:00",
+  "generated_at": "2026-07-05T22:13:12.911318+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-04",
+      "published_date_display": "2026-07-04",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003214",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Altimeter",
+        "Waveform",
+        "Range (aeronautics)",
+        "Synthetic aperture radar",
+        "Human decontamination"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115546",
