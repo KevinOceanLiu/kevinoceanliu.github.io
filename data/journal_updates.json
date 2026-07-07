@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T22:13:12.911318+00:00",
+  "generated_at": "2026-07-07T22:30:08.885779+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,47 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1080/13658816.2026.2693886",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2693886",
+      "title": "A direct gridding orthorectification method for mapping remote sensing imagery onto a discrete global grid system",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-07-07",
+      "published_date_display": "2026-07-07",
+      "published_parts": [
+        2026,
+        7,
+        7
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2693886",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115548",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115548",
+      "title": "A unified kernel-driven modeling framework adapted to continuous, discrete and row-planted canopies in the thermal infrared domain",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-06",
+      "published_date_display": "2026-07-06",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003184",
+      "abstract": "To make better use of solar energy, many crops and orchards are planted in rows around the world. Accurate monitoring of the heat radiation status of row-planted crops and orchards is important for water management and yield forecasting. However, the radiation observed by a sensor is generally angle-dependent due to the complex architecture of the canopy, which must be normalized with respect to a reference direction (e.g., the nadir direction). Compared to physical models with numerous input parameters about the canopy structure and thermal property (e.g. canopy height, leaf area index, leaf emissivity and leaf temperature), semi-empirical kernel-driven models are much easier to be calibrated using only multi-angle sensor observations. However, all existing kernel-driven models have been developed for discrete and continuous canopies, without considering the specific architecture of row structure. To extend the fitting ability to row-planted canopies, a unified kernel-driven modeling framework in the thermal infrared domain has been developed in this study. It includes an isotropic kernel, a base shape kernel, a hotspot kernel and a hot belt kernel. Both base shape and hot belt kernels can represent the angular effect of row structure. Two instantiated models (i.e., Kimes-RL-Ganis and Kimes-Chen-Ganis) are proposed within this unified framework. Then, three DART (Discrete Anisotropic Radiative Transfer)-simulated datasets and three airborne-measured multi-angle datasets have been adopted to evaluate our two new models against six existing models (i.e., Vinnikov, RL, Vinnikov-RL, Vinnikov-Chen, LSF-RL and LSF-Chen). Results show RMSE reduction percentages as large as 71.0–84.9% for the three simulated scenes (1.322–1.445 K to 0.300–0.349 K, 1.105–1.263 K to 0.265–0.321 K, and 1.926–2.047 K to 0.269–0.291 K) and 42.5–61.2% for the three measured scenes (2.043–2.227 K to 0.78–0.792 K, 1.316–1.426 K to 0.614–0.649 K, and 1.580–1.654 K to 0.882–0.909 K). Given the demonstrated adaptability of these new models to both continuous and discrete canopies, they offer significant potential for advancing angular normalization of land surface temperature across diverse vegetation types in applications. This framework is well suited for the bi-directional reflectance distribution function simulation over row-planted scenes in the optical domain.",
+      "keywords": [
+        "Thermal infrared",
+        "Infrared",
+        "Thermal",
+        "Domain (mathematical analysis)",
+        "Calibration"
+      ]
+    },
     {
       "doi": "10.1016/j.rse.2026.115551",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115551",
@@ -13518,34 +13559,6 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115229",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115229",
-      "title": "Space-based assessment of NOx emissions from global oil and gas fields: Bridging the gap in current emission inventories",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-01-03",
-      "published_date_display": "2026-01-03",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006339",
-      "abstract": "",
-      "keywords": [
-        "Troposphere",
-        "Submarine pipeline",
-        "Visible Infrared Imaging Radiometer Suite",
-        "Satellite",
-        "NOx",
-        "Air quality index",
-        "Ozone Monitoring Instrument",
-        "Fossil fuel",
-        "Nitrogen oxide",
-        "Emission inventory"
       ]
     },
     {
