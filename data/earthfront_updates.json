@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:44:26.184897+00:00",
+  "generated_at": "2026-07-08T22:44:11.939630+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01890-z",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01890-z",
+      "title": "Urban water affordability crisis exacerbated by climate change",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        7,
+        8
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01890-z",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02690-1",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02690-1",
+      "title": "Co-benefit premiums can enhance nature-based climate solutions",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        7,
+        8
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02690-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-02063-5",
       "doi_url": "https://doi.org/10.1038/s41561-026-02063-5",
       "title": "Author Correction: Ocean iron fertilization from enhanced mid-ocean-ridge volcanism due to ice-age sea-level falls",
@@ -40,8 +76,14 @@
         7
       ],
       "link": "https://www.nature.com/articles/s41561-026-02063-5",
-      "abstract": "",
-      "keywords": []
+      "abstract": "In the version of this article initially published, a reference was missing from the Fig. 3 legend and is now cited as ref. 53 in the description of panel a : “The dust-flux records from ODP Site 849 (blue) 51 and 17PC (yellow) 52,53 .” The reference (Jacobel, A. W., McManus, J. F., Anderson, R. F. & Winckler, G. Climate-related response of dust flux to the central equatorial Pacific over the past 150 kyr. Earth Planet. Sci. Lett . https://doi.org/10.1016/j.epsl.2016.09.042 (2017)) has been added to the HTML and PDF versions of the article.",
+      "keywords": [
+        "Iron fertilization",
+        "Volcanism",
+        "Flux (metallurgy)",
+        "Pacific ocean",
+        "Earth (classical element)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02702-0",
@@ -59,7 +101,11 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02702-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Climate science",
+        "Climate system"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02703-z",
@@ -77,7 +123,10 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02703-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Climate science"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02701-1",
@@ -95,7 +144,10 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02701-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Phosphorus",
+        "Correct name"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02707-9",
@@ -113,7 +165,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02707-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carbon accounting",
+        "Climate change",
+        "Carbon fibers",
+        "Environmental accounting",
+        "Greenhouse gas",
+        "Global warming",
+        "Accounting method",
+        "Climate change mitigation"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02668-z",
@@ -131,7 +192,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02668-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ignorance",
+        "Public engagement",
+        "Climate change",
+        "Politics",
+        "Cognition",
+        "Action (physics)",
+        "Climate science",
+        "Motivated reasoning"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02588-y",
@@ -149,7 +219,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02588-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Electrification",
+        "Swift",
+        "Incentive",
+        "Climate change",
+        "Electric vehicle",
+        "Climate protection"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02685-y",
@@ -167,7 +244,13 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02685-y",
       "abstract": "Abstract The Paris Agreement’s ‘well below 2 °C’ target is often interpreted as holding warming below 2 °C with a probability in the 66–90% range. We argue that such interpretations are not future-proof as decreasing uncertainties with time will allow temperatures to approach 2 °C later in the century. We show how referring to median warming can resolve this issue and illustrate how past probabilistic target interpretations would translate to a median 1.65–1.8 °C warming limit range.",
-      "keywords": []
+      "keywords": [
+        "Limit (mathematics)",
+        "Probabilistic logic",
+        "Global warming",
+        "Climate change",
+        "Time limit"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02704-y",
@@ -185,7 +268,12 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02704-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Climate science",
+        "Climate policy",
+        "Climate justice"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02035-9",
@@ -282,7 +370,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600148X",
-      "abstract": "",
+      "abstract": "Over the past 50 years, large transnational \"keystone\" corporations have concentrated power and gained significant influence over the world's resource reserves, production, and trade. The Kunming-Montreal Global Biodiversity Framework emphasizes the crucial role of businesses in setting and disclosing targets to mitigate their impact on nature. In this study, we identified 180 keystone corporations from highly concentrated sectors with significant environmental impacts and assessed their biodiversity commitments. Our findings reveal that while 79% of firms have made some form of biodiversity pledge, only 13% have reported sufficiently detailed, transparent, and specific commitments (\"robust commitments\") to allow others to assess if the targets have been met—a key prerequisite of accountability. We discuss future directions and underscore the urgent need for companies, governments, and civil society—including the research community—to work collaboratively to develop, implement, and monitor credible corporate strategies that drive meaningful action for nature.",
       "keywords": [
         "Biodiversity",
         "Sustainability",
