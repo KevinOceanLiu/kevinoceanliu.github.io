@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:30:08.885779+00:00",
+  "generated_at": "2026-07-08T22:16:10.944781+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,94 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.isprsjprs.2026.07.002",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.002",
+      "title": "Unveiling strong microclimatic cooling by small wetlands in China: landscape context-dependent spatial and climatic drivers",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003497",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.037",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.037",
+      "title": "PRGD: Proximal Residual-Guided Diffusion with pattern-aware experts for remote sensing image super-resolution",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003436",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2688348",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2688348",
+      "title": "When Plantations Stop Looking Like Plantations: Fire, Plantation Logics, and Forest Use in the Uttarakhand Himalaya",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        7,
+        8
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688348",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2686834",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2686834",
+      "title": "Runa Llakta: Indigenous Embodied Geography",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        7,
+        8
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686834",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2688357",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2688357",
+      "title": "Growing in and from Crisis: Environment, Labor, and Capital in Brazil’s Exponential Prison Expansion",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        7,
+        8
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688357",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1080/13658816.2026.2693886",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2693886",
       "title": "A direct gridding orthorectification method for mapping remote sensing imagery onto a discrete global grid system",
@@ -40,8 +128,18 @@
         7
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2693886",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Discrete Global Grid Systems (DGGSs) utilize a hierarchical partition of the Earth’s surface into a set of discrete cells, providing a globally consistent structure for cell-based indexing, fusion, and multi-resolution processing of geospatial data. Current approaches to mapping remotely sensed imagery to DGGSs predominantly rely on resampling orthorectified products. This introduces procedural redundancy and information loss, resulting in slower data ingestion and reduced accuracy. In this study, we propose a direct orthorectification method from level-1 imagery to DGGSs based on a rational function model. We also enhance the polyhedral equal-area projection to address cross-face imaging cases, and develop a key technology for generating DGGS-orthorectified products directly from source data. Using a rhombic triacontahedron ‘slice-and-dice’ equal-area hexagonal grid system as a representative DGGS implementation, we conduct experiments using Gaofen-1 and Gaofen-2 satellite imagery. Our results demonstrate that, under the nearest-neighbor interpolation method, the proposed approach reduces mean squared error by 52.98-59.25% and improves the structural similarity index by 33.53-101.47% relative to level-1 reference data obtained with conventional methods, thereby significantly enhancing the radiometric accuracy of gridded products. This approach establishes a novel paradigm for organizing analysis-ready data within DGGSs.",
+      "keywords": [
+        "Orthophoto",
+        "Grid",
+        "Geospatial analysis",
+        "Resampling",
+        "Satellite imagery",
+        "Interpolation (computer graphics)",
+        "Redundancy (engineering)",
+        "Satellite",
+        "Raster graphics"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115548",
@@ -284,6 +382,40 @@
         "Image fusion",
         "Deep learning"
       ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115558",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115558",
+      "title": "Corrigendum to “First lunar-light mapping of nighttime dust season oceanic aerosol optical depth over North Atlantic from space” [Remote Sensing of Environment, Volume 312, 2024, 114315]",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003287",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.030",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.030",
+      "title": "SCOUT-Count: Stylization with covariance-whitening and uncertainty for domain-generalized remote sensing object counting",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003369",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.034",
@@ -9304,33 +9436,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.030",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.030",
-      "title": "GeoSight v2: strengthening disaster impact assessment with coordinate referencing, inpainting, and similarity models",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001425",
-      "abstract": "Post-disaster imagery collected by communities and field teams provides critical visual evidence for assessing damage and guiding emergency responses. However, the geocoordinates embedded in these images often capture the camera’s location rather than the position of the depicted building, introducing spatial misalignment that reduces mapping accuracy and weakens machine learning–based decision support. To address this challenge, we present an enhanced version of GeoSight, a geolocation refinement framework that integrates three key components: (i) coordinate referencing to constrain candidate search areas, (ii) building detection with inpainting to isolate structures and remove unrelated objects such as vehicles and debris, and (iii) perceptual similarity analysis using DreamSim to match query images against a georeferenced database. Using NOAA’s 2023 Norman, Oklahoma tornado building-damage imagery, the enhanced framework improves retrieval accuracy from 53% to 67% (Top-1) and 77% to 84% (Top-3), while reducing average geolocation errors by 26.1 m, with maximum corrections up to 46.5 m. By combining coordinate data, object-level preprocessing, and perceptual similarity, this framework provides a scalable and generalizable approach for refining the geolocation of community-driven disaster imagery, enabling more accurate and timely damage mapping for disaster response and recovery.",
-      "keywords": [
-        "Geolocation",
-        "Similarity (geometry)",
-        "Field (mathematics)",
-        "Key (lock)",
-        "Emergency management",
-        "Georeference",
-        "Earth observation",
-        "Position (finance)",
-        "Tornado"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.020",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.020",
       "title": "GaussianCraft: Fine-grained 3D Gaussians for efficient large-scene surface reconstruction",
@@ -9603,29 +9708,6 @@
         "Moisture",
         "Scale (ratio)",
         "Hydrology (agriculture)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.002",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.002",
-      "title": "CDEHAT: Conditional Diffusion-Assisted Enhanced Hybrid Attention Transformer for remote sensing imagery super-resolution",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-23",
-      "published_date_display": "2026-03-23",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001012",
-      "abstract": "",
-      "keywords": [
-        "Transformer",
-        "Remote sensing application",
-        "Atmospheric correction",
-        "Pixel",
-        "Satellite imagery"
       ]
     },
     {
@@ -11099,29 +11181,6 @@
         "Trajectory",
         "Field (mathematics)",
         "Measure (data warehouse)",
-        "Feature (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.02.039",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.039",
-      "title": "A soybean mapping framework via multi-index-derived pseudo-label enhancement and contrastive embedding neural network",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-05",
-      "published_date_display": "2026-03-05",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000985",
-      "abstract": "",
-      "keywords": [
-        "Pattern recognition (psychology)",
-        "Artificial neural network",
-        "Embedding",
-        "Convolutional neural network",
         "Feature (linguistics)"
       ]
     },
@@ -13584,32 +13643,6 @@
         "Satellite",
         "Canopy",
         "Precipitation"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115195",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115195",
-      "title": "Highest quality remote sensing reflectance database compiled from 20+ years of MODIS-aqua measurements",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-13",
-      "published_date_display": "2025-12-13",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005991",
-      "abstract": "",
-      "keywords": [
-        "Satellite",
-        "Spectroradiometer",
-        "Moderate-resolution imaging spectroradiometer",
-        "Atmospheric correction",
-        "Reflectivity",
-        "Pixel",
-        "Ocean color",
-        "Benchmark (surveying)"
       ]
     },
     {
