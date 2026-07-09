@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T22:44:11.939630+00:00",
+  "generated_at": "2026-07-09T22:56:37.571360+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02021-1",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02021-1",
+      "title": "Pyrochlore from fire to steel",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        7,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02021-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02051-9",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02051-9",
+      "title": "Emerging insights on oceanic intraplate volcanism",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        7,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02051-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02030-0",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02030-0",
+      "title": "Cretaceous oceanic intraplate volcanism",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        7,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02030-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01890-z",
       "doi_url": "https://doi.org/10.1038/s41893-026-01890-z",
       "title": "Urban water affordability crisis exacerbated by climate change",
@@ -40,8 +94,18 @@
         8
       ],
       "link": "https://www.nature.com/articles/s41893-026-01890-z",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Climate change intensifies water stress globally, necessitating expensive infrastructure interventions to maintain reliable supply. To fund infrastructure, utilities often raise rates, increasing water bills for low-income households. The resulting affordability impacts depend on utility costs and interactions between rate design, financing, climate and household demands. Here we develop a city-scale modelling framework to estimate climate change impacts on water affordability, integrating climate, utility adaptation decisions and demand. In Santa Cruz, California, we find that climate change alone could double water bills by mid-century, leaving an additional 7–16% of Santa Cruz households with unaffordable water. Our results suggest that climate change may lead to greater water affordability challenges than previously estimated in hotspots where supply is vulnerable to climate change. This highlights the need for policy intervention and financing to ensure climate adaptation does not compromise affordability. The magnitude of climate-related affordability challenges depends on local context, requiring city-scale assessments. Water affordability is a growing challenge, but how climate change may worsen it through costly infrastructure adaptation remains unclear. This study models climate-driven water affordability in Santa Cruz, California, finding that climate change alone could double water bills by mid-century.",
+      "keywords": [
+        "Climate change",
+        "Water supply",
+        "Political economy of climate change",
+        "Climate change adaptation",
+        "Compromise",
+        "Intervention (counseling)",
+        "Effects of global warming",
+        "Adaptation (eye)",
+        "Water resources"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02690-1",
@@ -59,7 +123,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02690-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carbon market",
+        "Value (mathematics)",
+        "Investment (military)",
+        "Climate change",
+        "Climate policy",
+        "Climate Finance",
+        "Climate change mitigation",
+        "Carbon price"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02063-5",
@@ -355,6 +428,23 @@
         "Human health",
         "Infectious disease (medical specialty)"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101752",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101752",
+      "title": "Leveraging thermal regimes and connectivity networks to promote evolutionary adaptation across coral reef seascapes",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001533",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101747",
