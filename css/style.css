@@ -892,12 +892,13 @@ body {
 
 .journal-entry a {
     color: var(--accent-color);
-    text-decoration: underline;
-    text-decoration-color: currentColor;
+    text-decoration: none;
 }
 
 .journal-entry a:hover {
     color: #0f4c91;
+    text-decoration: underline;
+    text-decoration-color: currentColor;
 }
 
 .journal-status {
@@ -1151,8 +1152,7 @@ body {
 
 .cv-line-section a {
     color: rgb(82, 115, 197);
-    text-decoration: underline;
-    text-decoration-color: rgb(82, 115, 197);
+    text-decoration: none;
     word-break: break-all;
 }
 
@@ -2427,16 +2427,16 @@ a.link-arrow:hover {
     width: 42px;
     height: 42px;
     padding: 8px;
-    border-color: var(--border-color);
-    background-color: #fff;
-    box-shadow: var(--shadow-sm);
+    border-color: transparent;
+    background-color: transparent;
+    box-shadow: none;
     transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
 
 .hero-link:hover {
     transform: translateY(-1px);
-    border-color: var(--border-strong);
-    box-shadow: var(--shadow-md);
+    border-color: transparent;
+    box-shadow: none;
 }
 
 .cv-line-section {
@@ -2536,15 +2536,19 @@ button:focus-visible {
 .journal-entry a,
 a {
     color: var(--accent-color);
-    text-decoration-line: underline;
+    text-decoration-line: none;
     text-decoration-color: currentColor;
     text-underline-offset: 3px;
 }
 
 .cv-line-section a:hover,
+.cv-line-section a:focus-visible,
 .journal-entry a:hover,
-a:hover {
+.journal-entry a:focus-visible,
+a:hover,
+a:focus-visible {
     color: #0f4c91;
+    text-decoration-line: underline;
     text-decoration-color: currentColor;
 }
 
@@ -2623,7 +2627,7 @@ a:hover {
 }
 
 .publication-text-list a {
-    text-decoration-line: underline;
+    text-decoration-line: none;
 }
 
 .publication-citation-row {
@@ -2739,7 +2743,7 @@ a:hover {
 
 .journal-entry a {
     color: var(--accent-color);
-    text-decoration-line: underline;
+    text-decoration-line: none;
     text-decoration-color: currentColor;
 }
 
@@ -4039,7 +4043,12 @@ a.link-arrow:hover,
    ==================== */
 
 .home-layout {
+    --home-sidebar-width: 190px;
+    --home-sidebar-gap: 18px;
+    --home-main-center-offset: calc((var(--home-sidebar-width) + var(--home-sidebar-gap)) / 2);
     grid-template-columns: 190px minmax(0, 1fr);
+    margin-left: max(20px, calc(50% - (var(--content-width) / 2) - var(--home-main-center-offset)));
+    margin-right: auto;
 }
 
 .home-sidebar-shell {
@@ -4114,14 +4123,16 @@ a.link-arrow:hover,
     height: 42px;
     padding: 8px;
     border-radius: 50%;
-    box-shadow: var(--shadow-sm);
-    background: #fff;
+    border-color: transparent;
+    box-shadow: none;
+    background: transparent;
 }
 
 .hero-link:hover,
 .hero-link:focus-visible {
-    background: #fff;
-    border-color: var(--border-strong);
+    background: transparent;
+    border-color: transparent;
+    box-shadow: none;
 }
 
 .hero-link-icon,
@@ -4423,13 +4434,14 @@ select {
 .journal-entry-title-line a,
 .journal-entry-title-line a:visited {
     color: var(--accent-color);
-    text-decoration-line: underline;
+    text-decoration-line: none;
     text-decoration-color: currentColor;
 }
 
 .journal-entry-title-line a:hover,
 .journal-entry-title-line a:focus-visible {
     color: #0f4c91;
+    text-decoration-line: underline;
     text-decoration-color: currentColor;
 }
 
@@ -4613,6 +4625,11 @@ select {
 }
 
 @media (max-width: 768px) {
+    .home-page > .home-layout {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     .home-page > .home-layout > .home-sidebar-shell {
         position: static;
         transform: none;
