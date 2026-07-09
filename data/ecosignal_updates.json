@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T23:43:39.467504+00:00",
+  "generated_at": "2026-07-09T23:49:25.891293+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03145-8",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03145-8",
+      "title": "Dominating the recovery",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        7,
+        9
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03145-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70985",
+      "doi_url": "https://doi.org/10.1111/gcb.70985",
+      "title": "Mineral Stabilization Slows Losses of Peatland Carbon Following Long‐Term Drainage for Agriculture",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        7,
+        9
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70985",
+      "abstract": "ABSTRACT Cultivated peatlands are a major CO 2 emission source, but the processes that regulate the decomposition of drained peat are debated, especially as drained peat becomes increasingly shallow. Many cultivated peatlands are underlain by a mineral soil layer. Surface subsidence, oxidation and tillage reduce the peat thickness, which intermixes peat with minerals as peat is lost. A key question is whether this mixing can reduce emissions by making soil organic carbon (SOC) more stable by transforming particulate organic carbon (POC)—which dominates the carbon stock in deep drained peatlands and is readily accessible to microbial decomposers—into mineral‐associated organic carbon (MAOC), which is less accessible to decomposers. To explore this question, we surveyed ten sites across the East Anglian Fens in England, a once extensive (~3900 km 2 ) peatland landscape that has been drained for cultivation since the mid‐seventeenth century. We used variation in cultivation to establish a peat loss gradient to evaluate how topsoil SOC (0–40 cm) and its forms change as peat is lost. As the peat was lost, the soils became rich in minerals (rising from 46% to 88% silt+clay content), resulting in an initial 11‐fold rise in newly‐formed MAOC, but a monotonic decline and near‐total loss of POC. POC turnover times were 3158 ± 62 years, indicative of peat, and POC was always older than MAOC; consequently, microbially‐processed peat along with gradual contributions of recently fixed carbon were sources of MAOC. A four‐month laboratory incubation showed that the MAOC:POC ratio was negatively correlated with respiration. We conclude that long‐term carbon retention via MAOC formation has the potential to reduce carbon loss from degraded, mineral‐mixed peatlands. However, because this MAOC pool is itself vulnerable to loss under continued agricultural drainage, this mechanism is expected to slow rather than halt long‐term soil carbon loss from drained peatlands.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70403",
+      "doi_url": "https://doi.org/10.1111/ele.70403",
+      "title": "Including Fitness and Health Proxies Can Alter Our Understanding of Habitat Selection",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        7,
+        9
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70403",
+      "abstract": "ABSTRACT Habitat selection analyses, which discern the environmental conditions individuals select, often inform conservation planning. Through a literature review, we demonstrate that recent habitat selection studies rarely include fitness and health information. With a simulation study, we show that ignoring such information could support the protection of sink habitats. Our case studies demonstrate how health and fitness proxies can modify our understanding of habitat selection: (1) incorporating mass gain of thick‐billed murres shows the energetic benefit of areas deemed secondary by a naive resource selection function; (2) including number of chicks in a step selection function (SSF) exposes the complex relationships glaucous‐winged gulls have with landscapes impacted by humans; and (3) including external signs of trauma in the movement kernel of SSFs demonstrates other ways in which narwhal distribution can be altered. We urge movement ecologists to collect and use health and fitness data to improve ecological inference and conservation action.",
+      "keywords": []
+    },
+    {
       "doi": "10.1086/743066",
       "doi_url": "https://doi.org/10.1086/743066",
       "title": "Maintenance and breakdown: how population dynamics determine the evolutionary fate of Batesian mimicry",
@@ -51,7 +105,14 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/743066",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Batesian mimicry",
+        "Mimicry",
+        "Population",
+        "Evolutionary dynamics",
+        "Dynamics (music)",
+        "Aposematism"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03138-7",
@@ -72,6 +133,60 @@
       "keywords": []
     },
     {
+      "doi": "10.1111/1365-2664.70495",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70495",
+      "title": "Insecticides alter wild and managed pollination dynamics on oil crop yield",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        7,
+        8
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70495",
+      "abstract": "Abstract Global production of Ethiopian rape ( Brassica carinata ) is increasing for biofuel and feed purposes, yet its pollination ecology remains poorly understood despite its similarity to other mass‐flowering Brassica crops. We experimentally investigated how floral resource availability, insecticide use, and managed honey bee hives interact to shape pollination and yield at different scales. We conducted a 2‐year field experiment across 35 sites in the Northern Great Plains, USA, monitoring over 800 focal plants. We quantified pollinator visitation, diversity, movement, flower traits, and seed set across plant, field, and site scales, and assessed how insecticide application altered pollinator behaviour and crop performance. Pollinators increased seed set by 26.8%, with 28 visiting species recorded. Wild pollinators were more efficient than honey bees, contributing 1.01 seeds per visit compared with 0.79. In pesticide‐free fields, interactions between wild and managed pollinators produced non‐additive effects, suggesting context‐dependent competition and facilitation. In contrast, insecticide application disproportionately reduced wild pollinators, while honey bees partially compensated, buffering yield losses. However, wild pollinators consistently delivered higher per‐visit efficiency across spatial scales, although this advantage declined under chemical exposure. Synthesis and applications . Our results show that combining honey bee hives with insecticide use does not automatically enhance crop yield. Pollination outcomes are strongly scale‐ and context‐dependent, with wild pollinators providing disproportionately important services. Agricultural management should therefore prioritize integrated strategies that reduce pesticide pressure, enhance habitat, and support wild pollinator diversity to maintain resilient pollination services in intensive agroecosystems.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70458",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70458",
+      "title": "Designing effective oral rabies vaccination strategies for endangered carnivores: Lessons from bait uptake in Ethiopian wolves",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        7,
+        8
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70458",
+      "abstract": "Abstract Effective disease control is vital in mitigating devastating disease outbreaks among threatened wild animal populations living in proximity to domestic animal reservoir populations. With only ~500 individuals remaining in small, isolated populations in the Ethiopian highlands, the most immediate threat to endangered Ethiopian wolves Canis simensis is rabies transmission from nearby domestic dogs Canis familiaris . Since 2018, the Ethiopian Wolf Conservation Programme (EWCP) has conducted oral vaccinations of Ethiopian wolves to control rabies spread. Analysis of camera trap images from 580 bait stations across five Ethiopian wolf populations between 2018 and 2020 enabled species uptake to be confirmed for 416 baits. Ethiopian wolves were the main bait consumers (46%), with peak uptake occurring soon after deployment in the evening. Non‐target uptake was almost exclusively diurnal, and predominantly by rodents, birds of prey and domestic dogs (41%). Generalised linear models showed that location and vegetation type influenced bait uptake by Ethiopian wolves and indicated that interference competition with domestic dogs can reduce Ethiopian wolf bait uptake near human settlements and where dogs are more active during the day. Synthesis and application: Our methods and framework offer valuable insights for designing effective oral vaccination strategies in wild carnivores globally, especially where domestic animal interference threatens wildlife health interventions.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70475",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70475",
+      "title": "<scp>eDNA</scp> sampling reveals no evidence of negative effects of beaver recolonisation on the catchment‐scale distribution of migratory fish",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        7,
+        8
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70475",
+      "abstract": "Abstract Reintroduction of keystone species is considered part of the solution to the current biodiversity crisis. The Eurasian beaver ( Castor fiber ) is one such species, shaping its habitat by felling trees, building dams and creating wetlands. However, whilst the potential benefits to aquatic biodiversity and ecological functioning have been studied on a local scale, the impacts of beavers on catchment‐scale processes such as fish migration remain understudied. Sequencing of environmental DNA (eDNA metabarcoding) from water samples is a cost‐effective method to study species distributions across large geographical scales. Here, eDNA samples ( n = 426) were collected from 142 sites across Britain's oldest and largest established wild beaver population, located on Tayside, East Scotland and analysed using a vertebrate‐specific metabarcoding assay. We combined detection/non‐detection data from eDNA results with other environmental and anthropogenic variables to model the effects of beaver eDNA detections on the distribution of three migratory fish species. Using generalised linear models, we found no effects of the current beaver eDNA detections on the distribution of Atlantic salmon or lamprey, but a positive co‐occurrence with European eel at the catchment scale. Model outputs also reinforced previous findings on the impact of barriers to migration and other abiotic and biotic factors on fish species, demonstrating the effectiveness of eDNA sampling in rivers for understanding species distributions at a catchment scale. Synthesis and applications . This study provides novel insights into the catchment‐scale co‐distribution of beavers and migratory fish, and there was no evidence of negative effects on the catchment‐scale distribution of migratory fish species. More generally, this study highlights how catchment‐wide eDNA monitoring can be applied by environmental managers to aid decision‐making and impact assessment of multiple priority species at the catchment scale.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/gcb.70979",
       "doi_url": "https://doi.org/10.1111/gcb.70979",
       "title": "A Drier Year Markedly Enhances Methane, but Not Carbon Dioxide, Emissions in a Mediterranean Reservoir",
@@ -87,7 +202,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70979",
       "abstract": "ABSTRACT Reservoirs are increasingly recognized as important sources of greenhouse gases (GHGs), yet the temporal scales and environmental drivers governing CO 2 and CH 4 flux variability remain poorly constrained. This is particularly the case for Mediterranean systems, which are subject to strong hydrological variability. Here, we present and analyze year‐round, high‐frequency eddy covariance measurements of CO 2 and CH 4 fluxes in a Mediterranean reservoir over two years with contrasting hydrological conditions, explicitly evaluating variability at diurnal, multiday, and seasonal timescales. The reservoir acted as a net source of both gases in both years, but CH 4 fluxes exhibited substantially greater temporal variability than CO 2 fluxes. The seasonal component dominated CH 4 flux variability (> 75%), with annual areal fluxes and reservoir‐wide emissions 44% higher during the drier year due to an earlier onset and longer duration of the high‐emission summer period. Near‐sediment temperature and water‐column depth were the primary predictors of seasonal CH 4 emissions, reflecting temperature controls on methanogenesis and hydrological regulation of ebullition. In contrast, CO 2 flux variability was dominated by diel processes, with wind speed emerging as the main predictor of short‐term emissions, while water depth and surface temperature regulated seasonal variability. For both gases, chlorophyll‐a was an important predictor at multiday timescales. Our results demonstrate that the temporal variability of GHG fluxes from Mediterranean reservoirs is highly sensitive to hydrologically mediated changes in lake water levels, particularly for methane. Under climate change, GHG emissions could increase significantly in Mediterranean regions, and potentially in other seasonally dry regions worldwide, as a result of projected trends towards stronger eutrophication and increases in drought frequency and duration. Our study underscores the value of long‐term, high‐frequency observations to improve emission estimates and to better represent reservoir processes in regional and global carbon cycle assessments.",
-      "keywords": []
+      "keywords": [
+        "Eddy covariance",
+        "Mediterranean climate",
+        "Greenhouse gas",
+        "Flux (metallurgy)",
+        "Seasonality",
+        "Climate change",
+        "Hydrology (agriculture)",
+        "Methanogenesis",
+        "Carbon cycle"
+      ]
     },
     {
       "doi": "10.1086/743005",
@@ -205,7 +330,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70375",
       "abstract": "Abstract Light competition is a fundamental force driving tree height growth and secondary succession. However, the costs and benefits of light interception and growth at the individual tree level remain poorly understood, largely due to the technical challenges of measuring light interception in natural forests. By adopting in situ measurement of light interception with a novel analytical framework, we decomposed the individual relative growth rate (RGR) into two components: light interception efficiency (LIE), defined as light intercepted per unit of above‐ground biomass, and light use efficiency (LUE), defined as biomass gain per unit of intercepted light (that is, RGR = LIE × LUE). Using this analytical framework, we analysed individual tree growth rates in relation to light interception and use to examine how light competition drives size variations and its consequences for forest development during secondary succession. This study was carried out in 12 forest stands of varying ages in Hokkaido, Japan. For all co‐occurring trees with stem diameters >1 cm, we quantified growth and light interception using 3D crown geometries and forest light profiles. In young stands, RGR was positively correlated with tree height, driving rapid vertical growth and stratification. In older stands, this relationship weakened or reversed, contributing to size‐structure stabilization and the coexistence of different size species. Across all stages, taller trees had higher LIE, indicating size‐asymmetric competition. Conversely, taller trees had consistently lower LUE than shorter trees, likely due to ecophysiological constraints. In young stands, the advantage of higher LIE outweighed the lower LUE of taller trees, resulting in their higher RGR. In older stands, the relative benefit of higher LIE diminished while the LUE of smaller trees increased; this reduced the growth advantage of canopy individuals and promoted the regeneration of the understory. Synthesis . This mechanistic framework clarifies how light competition drives forest dynamics. The transition from rapid height stratification to structural stabilization and species coexistence is governed by the shifting balance between size‐dependent light interception and use efficiencies.",
-      "keywords": []
+      "keywords": [
+        "Interception",
+        "Competition (biology)",
+        "Biomass (ecology)",
+        "Tree (set theory)",
+        "Growth rate",
+        "Shade tolerance",
+        "Crown (dentistry)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70394",
@@ -249,7 +382,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70482",
       "abstract": "Abstract Understanding the environmental conditions facilitating mangrove expansion across the large scale of entire deltas or estuaries (~100 to 1000 km 2 ) remains limited, despite its relevance for upscaling mangrove restoration strategies, which necessitates knowledge on where active planting of mangrove seedlings has a high versus low chance of success. In this study, we investigate the environmental conditions facilitating mangrove development across the Guayas Delta in Ecuador, a large tropical river delta (~ 3200 km 2 ) where young mangrove forests are expanding across extensive intertidal mudflats. By combining satellite‐based remote‐sensing, drone‐based field verification and statistical modelling, we quantified differences in environmental conditions between mudflats showing active mangrove expansion versus mudflats with stable mangrove edges. We analysed key variables, including mudflat elevation, slope, curvature, wind fetch, mudflat length and tidal inundation duration, frequency and depth. Our results reveal that the morphology of the tidal flat foreshore is a key determinant of mangrove edge dynamics, and a stronger predictor than more commonly used inundation metrics such as the elevation, inundation duration, frequency and depth at the mangrove edge. In general, mangrove expansion is facilitated by wide foreshores that have low slopes and straight profile shapes, which are attributed to more efficient attenuation of waves and tidal currents. Conversely, mangroves are much less likely to expand when they border narrow, steeper and concave foreshores that provide minimal protection and that occur at lower intertidal elevations, where they experience increased inundation stress. Synthesis and applications . Our findings provide guidance for large‐scale mangrove restoration, particularly in tropical river deltas, by identifying sites where (1) mangroves can potentially expand in the future, and (2) conditions are favourable for active mangrove seedling planting. The presence of a mudflat in front of existing mangroves is not sufficient. Instead, mangrove planting should be prioritized on mudflats with low tidal inundation stress, low slope, large width and convex topographic profiles, while low intertidal areas with narrow, steep and concave mudflat foreshores should be avoided. These specific geomorphic mudflat characteristics may serve as indicators to select suitable mangrove planting sites at a large deltaic scale.",
-      "keywords": []
+      "keywords": [
+        "Mangrove",
+        "Intertidal zone",
+        "Estuary",
+        "Delta",
+        "Tidal flat",
+        "Bay",
+        "River delta"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70485",
@@ -294,7 +435,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70989",
       "abstract": "ABSTRACT Seagrass meadows are key blue carbon (C) ecosystems, storing large amounts of organic C over centuries. Their climate benefits may be reduced by methane (CH 4 ) emissions, whose microbial and environmental descriptors in Zostera noltii meadows, dominant seagrass in North‐Western Europe, remain poorly understood. We studied CH 4 fluxes, CH 4 ‐producing and consuming microbial communities and sediment physicochemical parameters in Z. noltii meadows and adjacent bare sediments across seven sites in Arcachon Bay, France. In situ CH 4 fluxes were measured at low tide during daytime conditions, providing standardized estimates of peak emissions. Microbial communities were characterized using targeted metagenomics of three functional genes ( mcrA , mmoX , pmoA ) and quantitative PCR. CH 4 fluxes were higher in vegetated than bare sediments (24.4 ± 2.6 vs. 9.4 ± 0.7 μmol m −2 day −1 ). Mixed linear models and random forest analyses identified C accumulation rate and CO 2 flux as the strongest positive descriptors of CH 4 fluxes. Vegetated sediments hosted more diverse methanotrophs, while methanogens showed no habitat differences. Four genera ( mcrA–Methanolobus , mmoX–Methylocella , pmoA–Methylococcus , Methyloglobulus ) emerged as abundant, seagrass‐associated, correlated with CH 4 fluxes, and highlighted by models. Functional diversity, especially pmoA richness, was a stronger microbial descriptor of CH 4 fluxes than gene abundance or a specific genus. Findings indicate Z. noltii meadows enhance C burial and CH 4 emission, with methanotroph diversity potentially mitigating CH 4 emissions. Our results provide the first integrated assessment of CH 4 fluxes and their descriptors in Z. noltii meadows, based on limited temporal coverage capturing the daytime peak emission conditions, highlighting the intertwined nature of C burial and CH 4 emissions and the need to account for both in blue C climate assessments.",
-      "keywords": []
+      "keywords": [
+        "Seagrass",
+        "Zostera",
+        "Methanotroph",
+        "Zostera marina",
+        "Abundance (ecology)",
+        "Sediment",
+        "Vegetation (pathology)",
+        "Potamogetonaceae",
+        "Metagenomics"
+      ]
     },
     {
       "doi": "10.1111/gcb.70991",
@@ -340,7 +491,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70994",
       "abstract": "ABSTRACT Soil viruses are crucial for microbial life, biogeochemical cycles of carbon and nutrients, and for microbial necromass formation. We hypothesized that the effects of viruses on these processes depend on organic matter and nutrient availability in soils. Here, we combined a 34‐year long‐term fertilization trial, 150 sequenced soil metagenomes, and microcosm experiments to explore how viruses modulate carbon and nutrient dynamics depending on resource availability. We uncovered 2789 viral populations (vOTUs) grouping into 301 viral clusters, 91% of which were previously unknown. Organically fertilized soils harbored most lytic viruses carrying diverse element cycling‐related auxiliary viral genes (AVGs) acquired through co‐evolution and horizontal gene transfer. Synthesis and heterologous expression assays further indicated that four AVGs (i.e., cbhA , pel , wbpD , GT2 ) had higher transcript levels in Escherichia coli under nutrient rich than nutrient poor conditions. Addition of virus particles to soils raised microbial carbon use efficiency (CUE; biomass production relative to carbon uptake) and accelerated microbial turnover leading to boosted microbial necromass formation by 14%. Conversely, in soils without organic fertilizers, viruses facilitate bacterial adaptation to stress (e.g., defense system and interference competition) and accelerate microbial decomposition of organic matter. 35 days after virus addition, CO 2 and N 2 O emissions increased by 41% and 52%, respectively. Finally, we propose the Viral Entombing‐Priming (VEP) framework to describe the contrasting roles of viruses in carbon and nutrient dynamics depending on soil fertility. This work reveals the viral “Matthew effect” ( the rich get richer and the poor get poorer ) in resource‐rich and resource‐poor soils and could unlock nature‐based pathways to raise carbon and nutrient retention for sustainable agriculture.",
-      "keywords": []
+      "keywords": [
+        "Biogeochemical cycle",
+        "Nutrient",
+        "Microcosm",
+        "Soil water",
+        "Soil carbon",
+        "Soil organic matter",
+        "Biomass (ecology)",
+        "Carbon cycle",
+        "Human virome"
+      ]
     },
     {
       "doi": "10.1111/gcb.70996",
@@ -358,7 +519,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70996",
       "abstract": "ABSTRACT Global warming intensifies heat stress and threatens global food production, but the extent of yield loss varies with crop type and harvested organ. To disentangle these patterns, we conducted a meta‐analysis of 96 studies comparing warming responses in crops harvested for aboveground organs (CA) versus belowground organs (CB). Warming resulted in larger yield reductions in CA than in CB crops, with end‐product number being more sensitive to warming stress than end‐product mass in both crop types. Among crop groups, short‐day CA crops experienced the greatest warming‐induced yield loss, followed by stem tuber CB crops, whereas root tuber CB crops were least affected. Latitudinal gradients further modulated responses: warming at higher latitudes exacerbated losses in long‐day CA crops but alleviated or reversed impacts in short‐day CA and root tuber CB crops. These findings demonstrate that warming effects are organ‐, crop type‐, and latitude‐dependent, rather than uniform across agricultural systems. By synthesizing diverse experimental evidence, this study provides a quantitative framework for understanding crop‐specific vulnerabilities to heat stress, offering new insights for breeding heat‐tolerant varieties and guiding adaptive management under climate change.",
-      "keywords": []
+      "keywords": [
+        "Crop",
+        "Global warming",
+        "Agriculture",
+        "Crop yield",
+        "Yield (engineering)",
+        "Climate change",
+        "Latitude"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03122-1",
@@ -15877,7 +16046,7 @@
     {
       "doi": "10.1086/741527",
       "doi_url": "https://doi.org/10.1086/741527",
-      "title": "Heterogeneous predation, community asynchrony, and metacommunity stability in cyanobacterial mats",
+      "title": "Heterogeneous Predation, Community Asynchrony, and Metacommunity Stability in Cyanobacterial Mats",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -16865,34 +17034,6 @@
         "Flooding (psychology)",
         "Range (aeronautics)",
         "Nesting season"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70815",
-      "doi_url": "https://doi.org/10.1111/gcb.70815",
-      "title": "Earthworms Enhance Global Soil Carbon Storage Through Microbial–Mineral Stabilization",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-19",
-      "published_date_display": "2026-03-19",
-      "published_parts": [
-        2026,
-        3,
-        19
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70815",
-      "abstract": "ABSTRACT Earthworms play a dual role in the global carbon cycle: they accelerate organic matter decomposition yet are often associated with greater soil organic carbon (SOC) storage. However, uncertainty regarding the mechanisms and magnitudes through which earthworms concurrently influence SOC mineralization and stabilization has limited the integration of soil fauna into carbon models. Here, we synthesize 696 paired observations from 122 studies worldwide to resolve this uncertainty. On average, earthworms increase SOC by 5.4% (95% CI: 2.2%–9.1%), with effects strengthening over time under sustained plant‐derived carbon inputs. Earthworms enhance mineral‐associated organic carbon (MAOC) by 21.2%, while particulate organic carbon (POC) remains unchanged. These patterns suggest that earthworm activity promotes a transition from short‐term carbon mineralization to long‐term stabilization, likely mediated by the coupling of microbial processing and physical protection. Specifically, epigeic earthworms boost microbial biomass carbon, whereas endogeic species enhance macroaggregate formation, facilitating the incorporation of microbial necromass into MAOC. The magnitude and direction of these effects depend on sustained carbon inputs and earthworm functional type. Collectively, these results reconcile decades of conflicting evidence and provide the first quantitative global synthesis showing that earthworms increased soil carbon over time under sustained plant carbon inputs. This microbial–mineral formation pathway has direct implications for climate‐smart land management, soil biodiversity conservation, and the representation of earthworm bioturbation in global carbon models.",
-      "keywords": [
-        "Soil carbon",
-        "Mineralization (soil science)",
-        "Earthworm",
-        "Epigeal",
-        "Bioturbation",
-        "Soil biology",
-        "Soil organic matter",
-        "Carbon cycle",
-        "Carbon fibers"
       ]
     },
     {
@@ -23973,54 +24114,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70280",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70280",
-      "title": "Woody habitats and dry conditions limit pest occurrence in vineyards",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-22",
-      "published_date_display": "2026-01-22",
-      "published_parts": [
-        2026,
-        1,
-        22
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70280",
-      "abstract": "Abstract Landscape heterogeneity, notably the amount of semi‐natural habitats, has been found to enhance natural enemies of crop pests and biological pest control in agricultural landscapes. Moreover, increasing host‐crop areas can directly affect the dynamics of pest or pathogen populations by providing them with more resources. However, the actual beneficial impacts of diversifying agricultural landscapes on pest or pathogen population levels are still poorly demonstrated, limiting farmers' adoption of such approaches. Here, using national‐scale data collected between 2014 and 2019 and Bayesian spatial models, we investigated how land use in the municipality and meteorological context affected the occurrence of two main pest and pathogen in vineyards: downy mildew (632 fields per year) and grape berry moth (225 fields per year). Our analysis revealed that the probability of occurrence of downy mildew and grape berry moth decreased as the percentage of woodland in the municipality increased. Additionally, we found that the probability of occurrence of downy mildew strongly depended on the meteorological context, as the probability of occurrence of downy mildew increased with the mean rainfall during spring and summer. Our analysis revealed no effect of the share of organic farming vineyard in the municipality on pest pressure. Synthesis and applications. Our study demonstrates that diversifying vineyard‐dominated landscapes by increasing the area of woody habitats could limit the occurrence of downy mildew and grape berry moth, which are responsible for most pesticide applications in vineyards. This work provides a significant step forward in the design of pest‐suppressive landscapes that highlight the key role of woody habitat maintenance in vineyard landscapes. Future work should now investigate how such nature‐based solutions could provide other benefits to farmers and the entire society.",
-      "keywords": [
-        "Downy mildew",
-        "PEST analysis",
-        "Vineyard",
-        "Context (archaeology)",
-        "Agriculture",
-        "Habitat",
-        "Population",
-        "Pest control"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70286",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70286",
-      "title": "Correction to ‘Mapping priority areas to mitigate the risk of electrocution of range‐restricted bird species’",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-21",
-      "published_date_display": "2026-01-21",
-      "published_parts": [
-        2026,
-        1,
-        21
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70286",
-      "abstract": "Biasotto, L. D., Kindel, A., Pacífico, E. C., Filadelfo, T., Paschotto, F. R., Favoretto, G. R., Sousa, A. E. E. A., Scariot, A., & Ascensão, F. (2025). Mapping priority areas to mitigate the risk of electrocution of range-restricted bird species. Journal of Applied Ecology, 62, 2787–2799. https://doi.org/10.1111/1365-2664.70133 In the paper by Biasotto et al. (2025), one of the author's names was incorrect. The correct name is Antônio Emanuel B. A. Sousa, and this has been updated in the original article. We apologize for this error.",
-      "keywords": [
-        "Electrocution",
-        "Risk assessment"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-025-02964-5",
       "doi_url": "https://doi.org/10.1038/s41559-025-02964-5",
       "title": "Global evidence that plant diversity suppresses pests and promotes plant performance and crop production",
@@ -24319,35 +24412,6 @@
         "Drag",
         "Sediment",
         "Shore"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70274",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70274",
-      "title": "Crop‐raiding by a forest ungulate in Earth's largest tropical agricultural frontier potentially costs local farmers ~ <scp>US</scp> $700 m and disproportionately penalizes smallholders",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-14",
-      "published_date_display": "2026-01-14",
-      "published_parts": [
-        2026,
-        1,
-        14
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70274",
-      "abstract": "Abstract Agricultural expansion for global commodity production is a major driver of tropical deforestation. This widespread land‐use change isolates wildlife into human‐dominated landscapes, intensifying conflicts over space and resources. Crop raiding is one of the most severe and widespread forms of human–wildlife conflict (HWC), undermining rural livelihoods and reducing support for the conservation of large vertebrates, especially those incurring high local costs despite high global conservation value. The white‐lipped peccary ( Tayassu pecari ), a large‐herd‐living tropical ungulate and key ecological engineer, has been extirpated from much of its former range. Yet, it is considered a pest in Mato Grosso, the leading Brazilian state in soybean and maize production. We used GPS tracking, landholder interviews and landscape variables to model crop‐raiding risk across ~28,000 rural properties in Mato Grosso. The total suitable conflict area covers 849,009 ha, potentially causing annual economic losses of US$664 million. Forest cover and connectivity were the most important predictors of conflict risk. Smallholders manage proportionally more vulnerable land than largeholders. Addressing conflict effectively requires moving beyond indiscriminate retaliatory culling, which threatens long‐term population viability. Population regulation, compensatory payments promoting coexistence and deflection of white‐lipped peccary herd movements are feasible conflict mitigation measures that should replace currently excessive retaliatory killing. Synthesis and applications . Our spatially explicit modelling identifies landscape‐scale hotspots of crop raiding by a key Neotropical forest ungulate in the southern Amazon. By predicting where conflict is most likely to occur, this approach provides actionable information for landholders and decision‐makers to proactively plan crop placement, target preventive measures and implement landscape management strategies that deflect white‐lipped peccary movements away from vulnerable fields. These applications support coexistence‐based management, reduce reliance on indiscriminate retaliatory culling and contribute to the long‐term conservation of this ecologically important and vulnerable species in rapidly expanding monocultural landscapes.",
-      "keywords": [
-        "Livelihood",
-        "Ungulate",
-        "Population",
-        "Human–wildlife conflict",
-        "Bushmeat",
-        "Agriculture",
-        "Shifting cultivation",
-        "Wildlife",
-        "Woodland",
-        "Land use"
       ]
     },
     {
