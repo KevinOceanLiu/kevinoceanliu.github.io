@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T22:16:10.944781+00:00",
+  "generated_at": "2026-07-09T22:42:34.803422+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,26 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.isprsjprs.2026.07.002",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.002",
-      "title": "Unveiling strong microclimatic cooling by small wetlands in China: landscape context-dependent spatial and climatic drivers",
+      "doi": "10.1016/j.rse.2026.115557",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115557",
+      "title": "Leveraging EMIT spectroscopy and machine learning to estimate soil texture and particle grain size in dust-producing regions",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003275",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.001",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.001",
+      "title": "Monitoring mining impacts using harmonic decomposition of time series vegetation indices",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -38,9 +55,35 @@
         2026,
         9
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003497",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003485",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.002",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.002",
+      "title": "Unveiling strong microclimatic cooling by small wetlands in China: landscape context-dependent spatial and climatic drivers",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003497",
+      "abstract": "",
+      "keywords": [
+        "Microclimate",
+        "Arid",
+        "Wetland",
+        "Ecosystem",
+        "Urban heat island",
+        "Impervious surface",
+        "Spatial ecology",
+        "Vegetation (pathology)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.037",
@@ -49,15 +92,21 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003436",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Diffusion",
+        "Image (mathematics)",
+        "Remote sensing application",
+        "Image fusion",
+        "Image processing"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2688348",
@@ -74,8 +123,19 @@
         8
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688348",
-      "abstract": "",
-      "keywords": []
+      "abstract": "This study examines forest fires in the Indian Himalayan state of Uttarakhand by shifting attention from ignitions to the historical production of flammable landscapes. It situates contemporary fire regimes within longer histories of landscape transformation and everyday forest use. Drawing on archival research and ethnographic field work, this study employs the plantation–plot binary to examine how state-led plantation forestry and community practices have materially shaped forest vegetation, fuel loads, and fire regimes. Plantation forestry expanded pine dominance and institutionalized fire suppression, producing landscapes with fuel continuity and high flammability that persist long after timber extraction ended. At the same time, everyday practices of rural communities in collecting grass, leaf litter, and fuel wood, conceptualized as plot making, have reduced understory biomass and kept fire intensity low. Plantation and plot are more than competing perspectives; they are two distinct ways of materially making forests that overlap and intersect in the study region. Their interaction helps explain why fires in the region are widespread yet typically remain low-intensity surface fires. By highlighting the role of plantation logics in shaping fire regimes, the article brings plantation studies into dialogue with political ecology and critical human geography of fire. It concludes by arguing that sustainable fire futures depend not only on climate change mitigation but also on how land is used and governed, including the recognition of community forest dependence as a key strategy for reducing fire risk.",
+      "keywords": [
+        "Dominance (genetics)",
+        "Fire ecology",
+        "Political ecology",
+        "Understory",
+        "Fire regime",
+        "Sustainability",
+        "Arson",
+        "Biomass (ecology)",
+        "Land use",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2686834",
@@ -92,8 +152,16 @@
         8
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686834",
-      "abstract": "",
-      "keywords": []
+      "abstract": "This article proposes Runa llakta (people–community geography) as a sovereign practice within Indigenous embodied geographies. For us, Andean-Amazonian Indigenous warmiguna (women), embodied geographies bring decolonizing ends of land rematriation, self-determination, intergenerational healing, and Intercultural kawsana (presence). We offer killakina, an Indigenous method of embodiment, combined with geo-ethnography, to examine the Runa llakta as an embodied sociospatial notion and Intercultural practice to rebuild our buluguaya (sociospatial fabric), honor our warmiguna (women’s) force, and emplace our killaki (emotional geography). Bridging Northern and Southern critical literature on body-land with decolonial geographies, we aim to promote epistemological plurality in embodiment. Thus, our work challenges contemporary feminisms on land-based embodiments that are distant from our situated, cultural understandings of llakta (space-place), Runa shimi (language), llakiguna (emotions, affects, memories), and epistemological miray (descendance).",
+      "keywords": [
+        "Embodied cognition",
+        "Indigenous",
+        "Honor",
+        "Sovereignty",
+        "Work (physics)",
+        "Intervention (counseling)",
+        "Cultural issues"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2688357",
@@ -110,8 +178,15 @@
         8
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688357",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Although there is widespread academic recognition of the damage effected by carceral systems, of the accelerating climate fallout, and of the unequal and crisis-ridden nature of capitalism, these three dimensions are rarely conceptualized in relation to each other. Drawing on extensive primary research conducted across Brazil, we document how managers have increasingly sought to make claims about the prison’s usefulness for combatting problems of the economy and environment, such as by using prisoners in climate-saving efforts and attracting private capital into prisons. We argue these claims to the prison’s social good do not promote social inclusion, reverse climate change, or secure the competitiveness of the Brazilian economy, but, in offering an always-escapable claim to the prison’s usefulness, they entrench the growing momentum of the carceral system.",
+      "keywords": [
+        "Prison",
+        "Capital (architecture)",
+        "Social capital",
+        "Momentum (technical analysis)",
+        "Relation (database)",
+        "Inequality"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2693886",
@@ -391,14 +466,20 @@
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003287",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Volume (thermodynamics)",
+        "Aerosol",
+        "Optical depth",
+        "Atmospheric dust",
+        "Mineral dust"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.030",
@@ -408,14 +489,20 @@
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003369",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Object (grammar)",
+        "Object based",
+        "Object detection",
+        "Remote sensing application",
+        "Earth remote sensing"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.034",
@@ -11254,29 +11341,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.035",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.035",
-      "title": "Label-free mangrove mapping from temporally consistent PlanetScope imagery with interpretable deep unfolding network",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-04",
-      "published_date_display": "2026-03-04",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000948",
-      "abstract": "",
-      "keywords": [
-        "Satellite imagery",
-        "Thematic Mapper",
-        "Mangrove",
-        "Digital elevation model",
-        "Hyperspectral imaging"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115342",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115342",
       "title": "Monitoring water level dynamics in neotropical peatlands with earth observation data",
@@ -13618,31 +13682,6 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115211",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115211",
-      "title": "Leaf fall witnessed by night-time light: A first attempt to detect urban leaf fall dates using satellite nighttime light data",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-29",
-      "published_date_display": "2025-12-29",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725006157",
-      "abstract": "",
-      "keywords": [
-        "Phenology",
-        "Daytime",
-        "Deciduous",
-        "Vegetation (pathology)",
-        "Satellite",
-        "Canopy",
-        "Precipitation"
       ]
     },
     {
