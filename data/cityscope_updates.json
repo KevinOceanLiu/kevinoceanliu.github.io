@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T23:36:26.818676+00:00",
+  "generated_at": "2026-07-10T23:12:48.162997+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105733",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105733",
-      "title": "Integrating multidimensional fragmentation assessment with precise spatial design to sustain urban mangrove landscapes",
+      "doi": "10.1016/j.landurbplan.2026.105735",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105735",
+      "title": "Should I stay or should I go: How urban heat gradients affect the local distribution of birds and bats",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
@@ -43,9 +43,136 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600157X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001593",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105737",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105737",
+      "title": "Blackbird movements and habitat selection inform restoration of functional connectivity across cities",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001611",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107404",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107404",
+      "title": "Urban planning, the built environment, and subjective well-being: A review of recent research advances",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006360",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107294",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107294",
+      "title": "The implications of a land value tax on urban agglomeration dynamics: Efficiency and equity",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005263",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107362",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107362",
+      "title": "Research on spatiotemporal evolution and influencing factors of county-level crime: A case of Guizhou province in southwest China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005949",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261457721",
+      "doi_url": "https://doi.org/10.1177/00420980261457721",
+      "title": "Estimating a CPI-based regional price parity index for US cities",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        7,
+        10
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261457721",
+      "abstract": "Geographic price differences confound comparisons of economic performance across cities by conflating nominal urban advantages with real differences in well-being. Existing tools only partially address this problem: the Bureau of Economic Analysis publishes a Regional Price Parity (RPP) Index that represents relative price levels in US cities and states, but it is available only annually since 2008 and with a publication lag, limiting its usefulness for historical or high-frequency analysis. To address this measurement gap, we use the Consumer Price Index (CPI) for 29 US cities to construct a CPI-based RPP, enabling consistent comparisons of urban economic performance over time at constant and comparable prices. We exploit standard price-parity properties using publicly available CPI data to estimate CPI-based RPPs at a higher frequency and over longer historical horizons. This results in a CPI-based RPP for any period with published CPI data, as far back as 1913 in some cities to the most recent observations. By separating nominal urban advantages from cost-of-living differences, the index allows researchers to reassess claims about urban well-being, affordability, and the real returns to agglomeration. We demonstrate the index by examining long-run regional price dynamics and comparing real per capita GDP and real per capita personal income across cities at constant and comparable prices.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261460336",
+      "doi_url": "https://doi.org/10.1177/00420980261460336",
+      "title": "Age friendly, but for whom? Socio-spatial heterogeneity in functional and symbolic meanings of concessionary fares and priority seating in Hong Kong",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        7,
+        9
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261460336",
+      "abstract": "This study examines how older adults in Hong Kong engage with age-friendly transport policies, focusing on concessionary fares and priority seating in a context of rapid population aging and pronounced socio-spatial inequality. While such interventions are widely implemented to reduce mobility barriers, their impacts remain uneven and insufficiently understood across different social and spatial groups. Using survey data from 3,326 older adults collected at a pivotal policy juncture, shortly after the introduction of priority seating and before the implementation of fully subsidized fares, the analysis investigates both behavioral responses to fare incentives and stated preferences for transport improvements. The results reveal systematic socio-spatial differences in both behavioral responses and stated preferences. More affluent older adults and those living in well-connected areas are more likely to adjust their travel to benefit from concessionary fares, while disadvantaged groups face constraints related to accessibility and journey complexity. Preferences for transport improvements also vary by mobility, housing, and household status: older and less mobile individuals prioritize safety, capability, and seating; more mobile or affluent groups emphasize system functionality; public housing residents attach greater importance on affordability and priority seating; and respondents identifying themselves as household heads are less likely to prioritize priority seating. These findings show that transport interventions are not interpreted solely in functional terms but also carry symbolic meanings related to independence, entitlement, and reliance on support. As a result, ostensibly universal policies may reproduce inequalities or fail to meet diverse needs. The study highlights the importance of moving beyond one-size-fits-all approaches and calls for more context-sensitive, differentiated strategies in age-friendly transport planning.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105733",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105733",
+      "title": "Integrating multidimensional fragmentation assessment with precise spatial design to sustain urban mangrove landscapes",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600157X",
+      "abstract": "",
+      "keywords": [
+        "Mangrove",
+        "Fragmentation (computing)",
+        "Habitat fragmentation",
+        "Spatial analysis",
+        "Geographic information system"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107308",
@@ -54,100 +181,20 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005408",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107324",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107324",
-      "title": "The spatial heterogeneity effects of urban renewal: Evidence from Shenzhen, China",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005561",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107364",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107364",
-      "title": "Good(s) planning in cities — A review of urban planning scholarship on large freight generators",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005962",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107344",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107344",
-      "title": "Evaluating probe-based data for travel demand analysis: A comparative study with household survey and regional model data in San Antonio",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005767",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107372",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107372",
-      "title": "Anticipating China's profound urban shrinkage with a fine-grid perspective in the latter half of the 21st century",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006049",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/s0264-2751(26)00629-3",
-      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00629-3",
-      "title": "Editorial Board",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006293",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Urban planning",
+        "Urban climate",
+        "Climate change",
+        "Urban heat island"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107392",
@@ -174,6 +221,29 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107324",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107324",
+      "title": "The spatial heterogeneity effects of urban renewal: Evidence from Shenzhen, China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005561",
+      "abstract": "",
+      "keywords": [
+        "China",
+        "Spatial heterogeneity",
+        "Spatial mismatch",
+        "Urban spatial structure",
+        "Spatial ecology"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107313",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107313",
       "title": "More-than-human governance: beyond top-down and bottom-up logics in disaster risk management",
@@ -196,6 +266,72 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107364",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107364",
+      "title": "Good(s) planning in cities — A review of urban planning scholarship on large freight generators",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005962",
+      "abstract": "Urban freight transportation is both a traffic concern and a spatial issue. Yet within urban planning, freight remains overlooked. To advance the interface between urban planning and urban freight, it is important to understand how planning scholarship approaches urban developments with significant freight implications. Are these implications accounted for and if so, in what way? To this end, we systematically reviewed ten leading urban planning journals, using as a diagnostic lens the concept of ‘large freight generators’, i.e., facilities that produce and attract a large number of freight trips. Our findings reveal that the spatial and temporal dimensions of freight operations are rarely treated as explicit objects of urban governance. Planning should more explicitly account for the moving, storing, and handling of goods within cities, anticipating rather than merely accommodating freight demand. When freight is overlooked, facilities are displaced to peripheral areas and operations spill excessively into streets and curbs, exacerbating congestion and conflicts, and concentrating environmental externalities. In response, we outline a planner-facing research agenda that calls for systematic consideration of freight operations across space and time and deliberate integration of goods and services, especially in new residential neighborhood developments.",
+      "keywords": [
+        "Urban planning",
+        "Traffic management",
+        "Scholarship",
+        "Transportation planning",
+        "City logistics",
+        "Space (punctuation)",
+        "Traffic congestion",
+        "Urban space"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107344",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107344",
+      "title": "Evaluating probe-based data for travel demand analysis: A comparative study with household survey and regional model data in San Antonio",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005767",
+      "abstract": "",
+      "keywords": [
+        "Survey data collection",
+        "Travel survey",
+        "Travel time",
+        "Travel behavior",
+        "Survey methodology"
+      ]
+    },
+    {
+      "doi": "10.1016/s0264-2751(26)00629-3",
+      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00629-3",
+      "title": "Editorial Board",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006293",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.cities.2026.107298",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107298",
       "title": "Changing residential preferences in the digital age: Evidence on teleworking and online shopping from the Netherlands",
@@ -209,12 +345,34 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005305",
-      "abstract": "",
+      "abstract": "Teleworking and online shopping, as two ICT-enabled behaviours, are reshaping everyday routines and raising questions about how digital practices enter long-term housing trade-offs. This matters for urban planning because changing preferences may alter spatial demand and land-use and transport needs. This study investigates how teleworking and online shopping are associated with residential location choices in the Netherlands and how these relationships vary across demographic groups and life stages. A stated choice experiment was designed to capture forward-looking housing decisions under varying levels of teleworking, online shopping, and anticipated life events. Data were collected from 1064 Dutch participants and analysed using tenure-specific discrete choice models: a covariate-dependent Generalized Mixed Logit model for homeowners and a mixed multinomial logit model for renters. The results show that teleworking eases homeowners' penalty for 20 km commutes, but not for 35 km, while analogous patterns among renters are more limited. Online grocery shopping is associated with supermarket-distance preferences, although this relationship should be interpreted cautiously because it may partly reflect income-related and locational differences. Higher online non-grocery shopping remains associated with stronger preferences for very close retail access, especially among homeowners. Anticipated life events, such as expecting a child, also reshape utility. Scale parameters indicate substantial individual variation in choice consistency. Overall, both ICT-enabled behaviours are associated with housing trade-offs, with stronger and more direct evidence for teleworking. These results have implications for housing policy, accessibility planning, and land-use and transport modelling in increasingly digital urban contexts.",
       "keywords": [
         "Consumer behaviour",
         "Website design",
         "The Internet",
         "Sharing economy"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107372",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107372",
+      "title": "Anticipating China's profound urban shrinkage with a fine-grid perspective in the latter half of the 21st century",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006049",
+      "abstract": "",
+      "keywords": [
+        "Perspective (graphical)",
+        "Shrinkage",
+        "Subject (documents)",
+        "Urban planning"
       ]
     },
     {
@@ -261,7 +419,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261461467",
       "abstract": "The theoretical agendas of comparative urbanism and Southern urban critique encourage scholars to attend to the locatedness of concepts and theories, to stress-test their applicability across various contexts and on this basis to generate new ones or revise existing ones. Methodologically, to unlock the potentiality of theorisation, it is conducive to view urban processes as conjunctural configurations codetermined by diverse forces, as well as interconnections and contextualities across scales. This article presents a case study of Tibet Cultural Tourism and Creative Park in Lhasa, Tibetan Autonomous Region, revealing how the development of the Park follows principles of incrementalism and experimentation, and prioritises small-scale accretion of urban spaces, policy innovations and a complex mixture of economic and non-economic governance goals. As such, this article engages with and enriches the concept of incremental urbanism, which has been developed with reference to numerous Southern contexts. While so far, the concept has been applied mostly to vernacular practices and knowledge of individuals navigating the uncertainty of urban life, this study implies that the experimental, improvised, provisional and emergent aspects of urban changes are also pertinent to theorisations on urban statecraft and governance. Overall, this concept enables us to retheorise municipal statecraft as: (1) flexible, responsive and adaptive; and (2) intertwined with a diversified portfolio of governance objectives beyond growth per se.",
-      "keywords": []
+      "keywords": [
+        "Urbanism",
+        "Corporate governance",
+        "Tourism",
+        "Portfolio",
+        "Urban planning",
+        "Incrementalism",
+        "Land use",
+        "Creative Cities"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00466-4",
@@ -524,7 +691,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005627",
-      "abstract": "",
+      "abstract": "Studies have identified municipalities as key actors in reducing greenhouse gas emissions and adapting to the impacts of climate change. However, the level of municipal engagement in these policy areas varies widely, and little is known about how different multilevel and polycentric governance structures affect their performance. To address this gap, we examined the mitigation and adaptation commitments, plans and ambitions of 209 German municipalities until the end of 2022 and scored them using an updated and revised assessment framework. We then used one-factor ANOVAs and linear regressions to analyse how their scores relate to a municipality's location in a federal state, its belonging to a county, and its function in Germany's ‘central places’ system. Our results show that belonging to certain federal states can have both positive and negative effects, and belonging to a county is a significant negative factor for local adaptation, while the central places system exerts very little influence. Based on these findings, we suggest that more coordinated multilevel governance structures—as opposed to more fragmented polycentric arrangements—are more likely to trigger local climate action. As such, we call for further and more targeted support for municipalities, and a (more) active role for the federal states in supporting municipal policymaking.",
       "keywords": [
         "German",
         "Corporate governance",
@@ -2986,6 +3153,25 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107287",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107287",
+      "title": "Corrigendum to “Urban beauty and its opposites” [Cities, 175 (2026) 107192]",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-17",
+      "published_date_display": "2026-06-17",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005196",
+      "abstract": "",
+      "keywords": [
+        "Beauty"
+      ]
+    },
+    {
       "doi": "10.1177/00420980261457514",
       "doi_url": "https://doi.org/10.1177/00420980261457514",
       "title": "Urban Studies Best Article 2025",
@@ -3586,6 +3772,26 @@
         "Scopus",
         "Conceptual framework",
         "Perception"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107276",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107276",
+      "title": "Corrigendum to “Understanding employees' residential choices in connection to remote work during the COVID-19 pandemic” [Cities 173 (2026) 107008]",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-12",
+      "published_date_display": "2026-06-12",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005081",
+      "abstract": "",
+      "keywords": [
+        "Connection (principal bundle)",
+        "Work (physics)"
       ]
     },
     {
@@ -4286,45 +4492,6 @@
         "Scarcity",
         "Affordable housing",
         "European commission"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107287",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107287",
-      "title": "Corrigendum to “Urban beauty and its opposites” [Cities, 175 (2026) 107192]",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005196",
-      "abstract": "",
-      "keywords": [
-        "Beauty"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107276",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107276",
-      "title": "Corrigendum to “Understanding employees' residential choices in connection to remote work during the COVID-19 pandemic” [Cities 173 (2026) 107008]",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005081",
-      "abstract": "",
-      "keywords": [
-        "Connection (principal bundle)",
-        "Work (physics)"
       ]
     },
     {
@@ -5849,29 +6016,6 @@
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107172",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107172",
-      "title": "Sustainable financial development for cleaner energy in the MENA region",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-21",
-      "published_date_display": "2026-05-21",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600404X",
-      "abstract": "",
-      "keywords": [
-        "Sustainable development",
-        "Sustainable energy",
-        "Cleaner production",
-        "Energy (signal processing)",
-        "Sustainability"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107237",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107237",
       "title": "Housing wealth and mental health in urban China: Evidence from 10 years of longitudinal data",
@@ -6283,31 +6427,6 @@
         "Resource (disambiguation)",
         "Environmental stress",
         "Stress (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107190",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107190",
-      "title": "Urban low-altitude airspace resources: Integrating risk and accessibility through fine-grained analysis",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004221",
-      "abstract": "With the rapid pace of urbanization, low-altitude airspace is increasingly recognized as a critical resource for smart and emerging urban systems, supporting applications such as UAV-based logistics and urban air mobility. However, conventional airspace planning methods have not adequately captured the complexity and dynamic variability of urban morphology. In response, this study proposes an innovative, data-driven framework for the fine delineation of low-altitude airspace. By integrating multiple high-precision geospatial datasets and employing the H3 hexagonal grid system as the spatial discretization framework, the framework quantitatively assesses airspace risk and accessibility. Using a case study of airspace below 120 m in Shenzhen, the analysis reveals distinct variations in airspace attributes across different flight altitudes and time periods. Results indicate that risk exhibits a pronounced bimodal distribution with significant differences among functional zones, while, after accounting for uncertainties in UAV performance and flight conditions, the feasible airspace (measured as true altitude) stabilizes above 60 m with a deceleration in growth. Furthermore, the integration of built-up area and local climate zones (LCZ) analyses effectively elucidates differences in risk and accessibility, providing unprecedented data granularity and a computational platform for characterizing the spatiotemporal evolution and attributes of low-altitude airspace. This study offers theoretical support for the sustainable development of the low-altitude economy and introduces new perspectives for the scientific planning and precise management of low-altitude airspace. • Comprehensive analysis of low-altitude airspace risk and accessibility across the urban area. • Spatiotemporal characterization of population exposure risk from UAV operations. • Identification of significant altitude-dependent variations in airspace accessibility. • Exploration of the feasibility of fine-scale airspace management using the LCZ framework. • Recommendations for sustainable urban low-altitude economy development and precise airspace management.",
-      "keywords": [
-        "Geospatial analysis",
-        "Pace",
-        "Grid",
-        "Population",
-        "Resource (disambiguation)",
-        "Urban planning",
-        "Resource distribution"
       ]
     },
     {
@@ -6856,28 +6975,6 @@
         "Built environment",
         "Assisted GPS",
         "Level design"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107170",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107170",
-      "title": "The role of digitalization in promoting the sustainable development goals. An empirical assessment of Italian local governments",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-16",
-      "published_date_display": "2026-05-16",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004026",
-      "abstract": "This study empirically investigates whether digitalization affects local governments' (LGs) capacity to achieve the Sustainable Development Goals (SDGs). Focusing on the Italian context and adopting a socio-technical lens, the analysis uses an econometric model in which the level of SDGs implementation represents the dependent variable, while the level of digitalization refers to the independent variable. The model additionally considers socioeconomic factors, including political ideology and strength, financial situation, level of indebtedness, and the proportion of the youth demographic. The sample includes 108 Italian provincial capitals, each with more than 20,000 inhabitants. Considering the availability of data about the main variables, the digitalization index and control variables refer to 2021, while the SDG index refers to 2022. Empirical findings suggest that digitalization supports progress on SDGs related to economic and social development, but has a limited impact on environmental goals and partnerships. Moreover, economic policies often take precedence over sustainable development in shaping local agendas. As a main policy implication, the digitalization of local public services may enhance people's access to essential services, helping to address major global social and economic challenges.",
-      "keywords": [
-        "Sustainable development",
-        "Empirical research",
-        "Empirical evidence",
-        "Sustainability"
       ]
     },
     {
