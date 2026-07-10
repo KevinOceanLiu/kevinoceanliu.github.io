@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T22:56:37.571360+00:00",
+  "generated_at": "2026-07-10T22:40:42.420146+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01896-7",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01896-7",
+      "title": "Future flood risk concentration for residents near small rivers across the USA",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        7,
+        10
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01896-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01904-w",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01904-w",
+      "title": "Author Correction: Strong and recyclable bio-derived poly(ester amide) hot-melt adhesive",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        7,
+        10
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01904-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02043-9",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02043-9",
+      "title": "West versus Central Tibet exhumation difference influenced by Indian slab underthrusting",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        7,
+        10
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02043-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02031-z",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02031-z",
+      "title": "Hydroclimate controls Congo peatland net oxygen release over the past 10,600 years",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        7,
+        10
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02031-z",
+      "abstract": "Abstract The burial of organic matter in marine environments is considered the dominant long-term source of atmospheric oxygen, yet the contribution of terrestrial burial remains poorly constrained. Quantifying any oxygen surplus associated with organic matter burial conventionally assumes a 1:1 oxygen-to-carbon stoichiometry. Here we aim to test this assumption and quantify net oxygen release from a terrestrial setting over time. We applied direct redox titration to a 10,600-year Congo Basin peat core, a hotspot of carbon accumulation. We find systematic deviation from the 1:1 ratio, enabling precise, time-resolved quantification of the net redox imbalance. Fluxes were strikingly nonlinear: drier phases triggered abrupt ~80% declines in net oxygen surplus within centuries, followed by rapid recovery when wetter conditions returned, revealing a hydroclimate-sensitive carbon–oxygen valve. Cumulative Holocene oxygen surplus reached 83 [68–100] petagrams of oxygen equivalents. Using the Congo oxygen-to-carbon ratio, we estimate that global peatland net oxygen production is commensurate with continental weathering oxygen sinks in the Holocene—a flux comparable in magnitude to marine burial but responding on orders-of-magnitude-shorter timescales. This finding provides qualitative insight into the contribution of terrestrial environments to Earth’s redox balance. It also offers a direct stoichiometric framework—applicable to coal archives—for quantifying that contribution across the Phanerozoic, independent of isotopic proxies, complementing existing marine-based models.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-02021-1",
       "doi_url": "https://doi.org/10.1038/s41561-026-02021-1",
       "title": "Pyrochlore from fire to steel",
@@ -41,7 +113,12 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02021-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Pyrochlore",
+        "Element (criminal law)",
+        "Rare-earth element",
+        "Battery (electricity)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02051-9",
@@ -59,7 +136,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02051-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Intraplate earthquake",
+        "Volcanism",
+        "Plate tectonics",
+        "Tectonics",
+        "Oceanic crust",
+        "Mantle (geology)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02030-0",
@@ -77,7 +161,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02030-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Intraplate earthquake",
+        "Volcanism",
+        "Cretaceous",
+        "Tectonics",
+        "Dominion",
+        "Plate tectonics"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01890-z",
@@ -437,14 +528,23 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001533",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The rise of marine heat waves threatens coral reefs, potentially outpacing adaptation. Managing reef seascapes to support thermal evolution is well recognized, but specific actions and site prioritizations are only emerging. We present an operational framework that leverages heat-wave exposure and larval dispersal patterns to create reef functional units with distinct roles and management needs. Using the Great Barrier Reef, we explore the emergent management portfolio and find complementary regional priorities: protection and outplanting for assisted evolution are prioritized in southern reefs, while northern reefs serve as valuable heat-tolerant sources. Strategic, evolution-informed management is critical for reef survival as climate pressures intensify.",
+      "keywords": [
+        "Coral reef",
+        "Biological dispersal",
+        "Reef",
+        "Great barrier reef",
+        "Adaptation (eye)",
+        "Climate change",
+        "Coral reef protection",
+        "Coral bleaching"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101747",
@@ -468,6 +568,23 @@
         "Work (physics)",
         "Government (linguistics)"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101774",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101774",
+      "title": "Chemical fingerprints enable environmental footprinting and optimization of feed procurement",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001752",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101753",
