@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T22:42:34.803422+00:00",
+  "generated_at": "2026-07-10T22:14:53.983558+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,22 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003275",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Soil texture",
+        "Texture (cosmology)",
+        "Spectroscopy",
+        "Particle size",
+        "Grain size",
+        "Imaging spectroscopy"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.001",
@@ -49,15 +56,45 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003485",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Series (stratigraphy)",
+        "Vegetation (pathology)",
+        "Time series",
+        "Decomposition",
+        "Normalized Difference Vegetation Index"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.040",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.040",
+      "title": "CDHNet: An implicit calibration and difference-guided hierarchical perception change detection network for remote sensing images",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003461",
+      "abstract": "",
+      "keywords": [
+        "Change detection",
+        "Calibration",
+        "Perception",
+        "Remote sensing application",
+        "Object detection",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.002",
@@ -10211,34 +10248,6 @@
         "Image processing",
         "Image fusion",
         "Aerial image"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.009",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.009",
-      "title": "From canopy to ground via ForestGen3D: Learning cross-domain generation of 3D forest structure from aerial-to-terrestrial LiDAR",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001231",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Lidar",
-        "Ground truth",
-        "Probabilistic logic",
-        "Canopy",
-        "Matching (statistics)",
-        "Vegetation (pathology)",
-        "Forest ecology",
-        "Land cover",
-        "Structure from motion"
       ]
     },
     {
