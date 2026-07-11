@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T23:12:48.162997+00:00",
+  "generated_at": "2026-07-11T23:10:25.671326+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,43 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105735",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105735",
-      "title": "Should I stay or should I go: How urban heat gradients affect the local distribution of birds and bats",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001593",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.landurbplan.2026.105737",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105737",
-      "title": "Blackbird movements and habitat selection inform restoration of functional connectivity across cities",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001611",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107404",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107404",
-      "title": "Urban planning, the built environment, and subjective well-being: A review of recent research advances",
+      "doi": "10.1016/j.cities.2026.107377",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107377",
+      "title": "Measuring lockdown travel rebound: Experimental insights from the Hong Kong COVID-19 omicron outbreak",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -77,14 +43,14 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006360",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006098",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107294",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107294",
-      "title": "The implications of a land value tax on urban agglomeration dynamics: Efficiency and equity",
+      "doi": "10.1016/j.cities.2026.107366",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107366",
+      "title": "Impact of depopulated area designation policy on the population and employment in Japanese small and medium-sized cities",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -94,14 +60,14 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005263",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005986",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107362",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107362",
-      "title": "Research on spatiotemporal evolution and influencing factors of county-level crime: A case of Guizhou province in southwest China",
+      "doi": "10.1016/j.cities.2026.107368",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107368",
+      "title": "County-level new-type urbanization policy and city economic resilience: Evidence from a quasi-natural experiment of 2302 counties in China",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -111,9 +77,118 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005949",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006001",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107390",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107390",
+      "title": "COVID-19 as a spatial shock: Uneven land market dynamics in metropolitan areas",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006220",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107389",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107389",
+      "title": "Assessing household's vulnerability to urban flood based on AHP and TOPSIS method: A case study of the flood-prone area in Pakistan",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006219",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107306",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107306",
+      "title": "Aligning transit provision with urban morphology: A diagnostic assessment of Porto and Cagliari",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600538X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107299",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107299",
+      "title": "A joint synthetic housing–household inventory",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005317",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107302",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107302",
+      "title": "A CityGML extension for 3D modeling of pedestrian mobility space",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005342",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107379",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107379",
+      "title": "Examining dual exposure to traffic congestion and in-vehicle crowding among senior and regular cardholders using smart card data",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006116",
+      "abstract": "",
+      "keywords": [
+        "Smart card",
+        "Crowding",
+        "Dual (grammatical number)",
+        "Credit card",
+        "Traffic congestion",
+        "Report card"
+      ]
     },
     {
       "doi": "10.1177/00420980261457721",
@@ -131,7 +206,123 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261457721",
       "abstract": "Geographic price differences confound comparisons of economic performance across cities by conflating nominal urban advantages with real differences in well-being. Existing tools only partially address this problem: the Bureau of Economic Analysis publishes a Regional Price Parity (RPP) Index that represents relative price levels in US cities and states, but it is available only annually since 2008 and with a publication lag, limiting its usefulness for historical or high-frequency analysis. To address this measurement gap, we use the Consumer Price Index (CPI) for 29 US cities to construct a CPI-based RPP, enabling consistent comparisons of urban economic performance over time at constant and comparable prices. We exploit standard price-parity properties using publicly available CPI data to estimate CPI-based RPPs at a higher frequency and over longer historical horizons. This results in a CPI-based RPP for any period with published CPI data, as far back as 1913 in some cities to the most recent observations. By separating nominal urban advantages from cost-of-living differences, the index allows researchers to reassess claims about urban well-being, affordability, and the real returns to agglomeration. We demonstrate the index by examining long-run regional price dynamics and comparing real per capita GDP and real per capita personal income across cities at constant and comparable prices.",
-      "keywords": []
+      "keywords": [
+        "Price index",
+        "Index (typography)",
+        "Consumer price index (South Africa)",
+        "Per capita",
+        "Relative price",
+        "Per capita income",
+        "Parity (physics)",
+        "Limiting"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105737",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105737",
+      "title": "Blackbird movements and habitat selection inform restoration of functional connectivity across cities",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001611",
+      "abstract": "Although ecological restoration strategies are increasingly promoted to enhance biodiversity, ecosystem services and climate resilience in cities, little is known about their impact on functional connectivity. We integrated empirical movement data with spatially explicit connectivity modelling to assess how alternative urban restoration strategies may affect breeding habitat availability and functional connectivity for the common blackbird ( Turdus merula ) in Gijón (NW Spain). Telemetry data from 13 adults were used to assess home range size, movement distances and habitat selection within the urban matrix. This dataset allowed to parameterise resistance surfaces and identify potential breeding habitat patches, which served as nodes in a circuit-theory-based connectivity framework. To evaluate how different urban restoration strategies may influence habitat availability and connectivity, we compared three scenarios representing increasing levels of restoration intensity. Under baseline conditions, suitable breeding habitat was highly fragmented. Although nearly 10% of the study area was suitable, only one third was functionally connected. The “Connectors Restoration” scenario, adding small-scale linear connectors along streets, was predicted to substantially improve connectivity among existing patches despite it did not increase habitat availability. The “Targeted Restoration” scenario, promoting strategically selected public green areas, was associated with the highest efficiency, achieving large gains in habitat availability and connectivity with relatively limited restoration effort. The “Full Restoration” of all public green infrastructure yielded the largest absolute gains, but showed lower efficiency, indicating diminishing marginal returns at broader spatial scales. Overall, our results suggest that connectivity-informed planning may enhance landscape functioning in dense urban environments and highlight the importance of targeted restoration actions to maximise ecological outcomes under limited resources.",
+      "keywords": [
+        "Habitat",
+        "Landscape connectivity",
+        "Restoration ecology",
+        "Wildlife corridor",
+        "Ecosystem services",
+        "Green infrastructure",
+        "Baseline (sea)",
+        "Ecosystem",
+        "Climate change",
+        "Psychological resilience"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107404",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107404",
+      "title": "Urban planning, the built environment, and subjective well-being: A review of recent research advances",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006360",
+      "abstract": "Research on how the built environment shapes subjective well-being has expanded rapidly since 2021, providing new insights for urban planning and policy. Yet, no review has synthesized major recent advances in this field. This narrative review synthesizes five categories of advances – (1) disruptions to urban life, (2) mobility and accessibility, (3) social and experiential dimensions, (4) planning paradigms and urban form, and (5) urban artificial intelligence (AI) – based on a pathways framework linking the built environment to subjective well-being. Recent evidence highlights the importance of walkability, proximity, green space, and housing quality in supporting well-being, particularly under conditions of constrained mobility or when time spent at home increases. A composite of meeting places can foster social interaction and urban vitality, promote inclusion, and help combat loneliness. Public transport investments, including new metro systems and high-speed rail, are associated with social interaction, prevention of exclusion, and subjective well-being. Access to a private car may enhance activity participation and opportunities, particularly in car-oriented environments, while producing important equity and sustainability externalities. Architecture and public space design influence emotional well-being, with traditional styles linked to positive emotional responses. The 15-minute city, urban vitality, high-rise living, telework, and urban AI represent urban concepts and digital developments that transform urban planning and subjective well-being. The outcomes of the review strengthen and enrich the pathways between built environment and subjective well-being and raise attention to inequalities between population groups and contexts.",
+      "keywords": [
+        "Urban planning",
+        "Sustainability",
+        "Equity (law)",
+        "Population",
+        "Built environment",
+        "Urban design",
+        "Social equality",
+        "Experiential learning",
+        "Public space"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107294",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107294",
+      "title": "The implications of a land value tax on urban agglomeration dynamics: Efficiency and equity",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005263",
+      "abstract": "Cities have become widely recognised as pivotal hubs for economic growth, with continued evidence of productivity gains from density and proximity of agglomerations. However, the same externalities of dense urban agglomerations exert pressures on the built environments and are partially responsible for a deepening urban crisis (e.g., increasing wealth disparities, housing crisis), harming both equity and efficiency. While Land Value Taxation (LVT) is widely recognised for its potential to improve land use efficiency and affordability, its implications for agglomeration mechanisms remain overlooked. This article synthesises two largely disconnected bodies of literature—agglomeration theory and LVT—to open a debate on how taxing the unimproved value of land could realign incentives within rigid and exclusionary urban environments. Drawing on a systematic literature review and expert interviews, we identify a notable conceptual gap but strong theoretical compatibility. We argue that LVT can enhance the spatial, temporal, and interactive domains of agglomeration by internalising externalities where they arise. Integrating LVT into Agglomeration theory offers a coherent framework for addressing contemporary urban challenges while reinforcing the productivity benefits of urban concentration. By conceptualising LVT as a dynamic, spatially sensitive policy instrument, this article positions it as an underutilised yet powerful tool for enhancing urban efficiency, equity, and long-run agglomeration potential.",
+      "keywords": [
+        "Externality",
+        "Urban agglomeration",
+        "Equity (law)",
+        "Economies of agglomeration",
+        "Incentive",
+        "Productivity",
+        "Urban economics",
+        "Value (mathematics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107362",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107362",
+      "title": "Research on spatiotemporal evolution and influencing factors of county-level crime: A case of Guizhou province in southwest China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005949",
+      "abstract": "",
+      "keywords": [
+        "China",
+        "Socioeconomic status",
+        "Explanatory power",
+        "Distribution (mathematics)",
+        "Population",
+        "Ethnic group",
+        "Empirical research",
+        "Driving factors"
+      ]
     },
     {
       "doi": "10.1177/00420980261460336",
@@ -149,7 +340,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261460336",
       "abstract": "This study examines how older adults in Hong Kong engage with age-friendly transport policies, focusing on concessionary fares and priority seating in a context of rapid population aging and pronounced socio-spatial inequality. While such interventions are widely implemented to reduce mobility barriers, their impacts remain uneven and insufficiently understood across different social and spatial groups. Using survey data from 3,326 older adults collected at a pivotal policy juncture, shortly after the introduction of priority seating and before the implementation of fully subsidized fares, the analysis investigates both behavioral responses to fare incentives and stated preferences for transport improvements. The results reveal systematic socio-spatial differences in both behavioral responses and stated preferences. More affluent older adults and those living in well-connected areas are more likely to adjust their travel to benefit from concessionary fares, while disadvantaged groups face constraints related to accessibility and journey complexity. Preferences for transport improvements also vary by mobility, housing, and household status: older and less mobile individuals prioritize safety, capability, and seating; more mobile or affluent groups emphasize system functionality; public housing residents attach greater importance on affordability and priority seating; and respondents identifying themselves as household heads are less likely to prioritize priority seating. These findings show that transport interventions are not interpreted solely in functional terms but also carry symbolic meanings related to independence, entitlement, and reliance on support. As a result, ostensibly universal policies may reproduce inequalities or fail to meet diverse needs. The study highlights the importance of moving beyond one-size-fits-all approaches and calls for more context-sensitive, differentiated strategies in age-friendly transport planning.",
-      "keywords": []
+      "keywords": [
+        "Disadvantaged",
+        "Psychological intervention",
+        "Incentive",
+        "Context (archaeology)",
+        "Public transport",
+        "Subsidy",
+        "Population",
+        "Inequality"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105733",
@@ -579,6 +779,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107356",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107356",
+      "title": "Tourism and the commodification of rural space: A grounded theory study of peri-urban villages",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005883",
+      "abstract": "",
+      "keywords": [
+        "Commodification",
+        "Grounded theory",
+        "Tourism",
+        "Rurality",
+        "Tourism geography",
+        "Population",
+        "Cultural tourism",
+        "Transformative learning",
+        "Participant observation"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107332",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107332",
       "title": "Teleworking and residential sorting in polycentric cities: A model of rent gradients and travel response",
@@ -929,6 +1156,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107382",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107382",
+      "title": "Spatio-temporal relationships between street vendors and City users: Insights from Ragama town, Sri Lanka",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-07",
+      "published_date_display": "2026-07-07",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006141",
+      "abstract": "",
+      "keywords": [
+        "Foregrounding",
+        "Harmony (color)",
+        "Everyday life",
+        "Thematic analysis",
+        "Qualitative research",
+        "Pleasure",
+        "Grounded theory",
+        "Position (finance)",
+        "Lived experience"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107307",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107307",
       "title": "Mumbai's transport crisis: More than a century of infrastructure, policy, and planning transitions",
@@ -977,6 +1231,39 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107386",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107386",
+      "title": "Factors influencing China's E-commerce express logistics network: An optimal multivariate-stratification geographical detector model approach",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-07",
+      "published_date_display": "2026-07-07",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006189",
+      "abstract": "",
+      "keywords": [
+        "Multivariate statistics",
+        "China",
+        "Stratification (seeds)",
+        "E-commerce",
+        "Detector",
+        "Multivariate analysis",
+        "Business",
+        "Computer science",
+        "Econometrics",
+        "Regional science",
+        "Geography",
+        "Telecommunications",
+        "Economics",
+        "World Wide Web",
+        "Machine learning"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107350",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107350",
       "title": "Exploring cargo bike viability for last-mile delivery in European capitals: A mass-participation multi-city Multi-Criteria Satisfaction Analysis",
@@ -1010,7 +1297,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005597",
-      "abstract": "",
+      "abstract": "This study develops and validates the Smart Destination Perception Scale (SDPS), a tool designed to assess perceptions of smart destinations among tourists and residents. Grounded in a comprehensive literature review and refined through expert evaluation and pretesting, the SDPS identifies four main dimensions: Innovation, Connectivity, Market Intelligence, and Social and Environmental Responsibility. Market Intelligence integrates Intelligence Systems and Information and Promotion Systems, while Social and Environmental Responsibility integrates Accessibility and Sustainability. Data were collected from 1200 participants (600 tourists and 600 residents), and exploratory and confirmatory factor analyses confirmed the scale's reliability, validity, and dimensional structure. Madrid was selected as the empirical context due to its consolidated status as a leading smart destination in Spain and its relevance as a major European urban tourism hub, underscoring the real-world applicability of the SDPS within a mature smart destination. Findings identify Market Intelligence as the most influential dimension, highlighting the importance of intelligence systems and information and promotion mechanisms in shaping effective smart destination strategies. The Social and Environmental Responsibility dimension also emerges as pivotal by integrating accessibility and sustainability, emphasizing the need for inclusive and environmentally conscious practices. This study contributes to smart destination research by introducing a robust, multidimensional 29-item scale aligned with stakeholder theory and supportive of both strategic planning and practical application. By providing standardized measurements, the SDPS enables authorities to compare destinations and evaluate perceptions from both tourists and residents, fostering a comprehensive approach to smart destination management.",
       "keywords": [
         "Destinations",
         "Tourism",
@@ -1744,6 +2031,28 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107336",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107336",
+      "title": "The case for rethinking rural: How simplification obscures rural travel behaviors",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-03",
+      "published_date_display": "2026-07-03",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005688",
+      "abstract": "",
+      "keywords": [
+        "Geography",
+        "Sociology",
+        "Economic geography",
+        "Psychology"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107354",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107354",
       "title": "Private or shared? How awareness and attitudes shape autonomous vehicle preferences in urban contexts",
@@ -1861,6 +2170,31 @@
         "Perspective (graphical)",
         "Social equality",
         "Congestion pricing"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107328",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107328",
+      "title": "Neoliberal urban governance and local empowerment: Unpacking the paradoxes of the BIP/ZIP programme in Lisbon",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-02",
+      "published_date_display": "2026-07-02",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005603",
+      "abstract": "In the production and management of cities, the promotion of active citizenship has seen its rise despite the affirmation of the neoliberal model. This process was marked by the erasure of public powers in urban regulation and management and the creation of decentralisation and governance mechanisms for social and urban intervention. This article discusses this apparent contradiction, analysing the programme Bairros de Intervenção Prioritária /Zonas de Intervenção Prioritária (BIP/ZIP), developed by the Municipality of Lisbon (Portugal). The Programme aims to foster active citizenship, the capacity for self-organisation and the collective search for solutions, contributing to a positive image of deprived areas in Lisbon and creating a favourable climate for entrepreneurship and local initiative. Assessing thirteen editions of the BIP/ZIP, from 2011 to 2023, this article extracts data to reflect on the coherence between the results obtained and the initially defined objectives. The data analysed includes stakeholders, total investments received, benefited zones, and thematic areas. Drawing from this data, we discuss the lack of association between the problems identified during the delineation of the BIP/ZIP areas and the approved projects. We use the Lisbon case to illustrate how participatory mechanisms have been employed to benefit specific groups at the expense of collective interest, critically examining the unfolding of these practices in comparable contexts. The empirical data warrant critical reflection on the contradictions and limitations of participatory programmes in neoliberal urban contexts, highlighting the concentration of investments in central neighbourhoods and the consistent presence of associations as partners in various proposals. By situating our study within a broader theoretical debate, we discuss the depoliticisation of urban governance and the performative role of active citizenship under neoliberalism. The article concludes with policy recommendations for cities that are experimenting with participatory governance in similar contexts of austerity and decentralisation.",
+      "keywords": [
+        "Unpacking",
+        "Empowerment",
+        "Corporate governance",
+        "Political science",
+        "Public administration",
+        "Business",
+        "Law"
       ]
     },
     {
@@ -2885,7 +3219,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000694",
-      "abstract": "",
+      "abstract": "The p -median problem is a classical, NP-hard model in location science, and decades of research have produced exact, heuristic, and meta-heuristic algorithms to solve it. In parallel, large language models (LLMs) have begun to assist in optimization by interpreting problem descriptions and generating solver code; however, their intrinsic ability to reason about spatial structure in facility-location problems remains underexplored. We introduce an LLM-as-proposer framework for the discrete p-median problem that embeds an LLM within a classical local search with external evaluation. The LLM's contribution as a spatially informed proposer is evaluated within a controlled search structure and compared fairly with established heuristics. We benchmark the proposed framework with three frontier LLMs on six TSPLIB point sets commonly used in location analysis across multiple p facilities, comparing against (i) exact mixed-integer problem references and (ii) five classical heuristics and meta-heuristics baselines. Across all settings, LLM-guided search consistently outperforms greedy baselines, frequently attains near-optimal solutions on small-to-medium instances, and evaluates orders of magnitude fewer objectives than tabu search, although inference remains the dominant runtime cost. Prompt ablation further shows that some spatial summaries materially improve robustness on larger instances, whereas some local diagnostic cues can be counterproductive. Taken together, these results show that contemporary LLMs exhibit meaningful spatial reasoning as proposers in p-Median local search, while also clarifying the current gap to mature meta-heuristics in solution quality and computational efficiency, motivating continued exploration of hybrid designs as LLMs become more capable.",
       "keywords": [
         "Benchmark (surveying)",
         "Local search (optimization)",
@@ -4107,6 +4441,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107162",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107162",
+      "title": "When residents appropriate the street: Management and conflict over public space in Francoist open block fabric in Madrid (Spain)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600394X",
+      "abstract": "",
+      "keywords": [
+        "Block (permutation group theory)",
+        "Public space",
+        "Space (punctuation)",
+        "Business",
+        "Geography",
+        "Computer science",
+        "Architectural engineering",
+        "Engineering",
+        "Mathematics"
+      ]
+    },
+    {
       "doi": "10.1016/j.landurbplan.2026.105714",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105714",
       "title": "Predicting future Human-Wildlife conflict Zones: A process-oriented framework integrating climate connectivity and species distribution modelling",
@@ -4495,6 +4856,62 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107168",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107168",
+      "title": "Strategies and sustainability in motion: An analysis of mobility and climate change policies in Greater London",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-06-01",
+      "published_date_display": "2026-06-01",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004002",
+      "abstract": "This article investigates the interplay between metropolitan mobility and climate change within the context of Greater London, emphasizing the city's challenge of balancing mitigation and adaptation strategies in response to recent and ongoing climate impacts. Drawing on data analysis, a comprehensive literature review, and qualitative interviews, the research examines how climate change disrupts mobility dynamics and critically evaluates the effectiveness of current urban policies, such as the expansion of cycling routes and the implementation of the Ultra Low Emission Zone, as outlined in the 2018 London Environment Strategy. While these measures aim to reduce car-based mobility and promote low-emission transportation, the growing frequency of climate-related challenges, such as flooding and urban overheating, calls for a rethinking of London's approach to achieving co-benefits - simultaneously reducing emissions and enhancing resilience. The findings identify 20 targeted actions reflecting London's adaptive responses to climate change, while also underscoring the critical need for stakeholder integration to address technological, economic, and social disparities. The discussion highlights the importance of fostering greater collaboration between the Greater London Authority (GLA) and local boroughs, ensuring alignment between local initiatives and broader metropolitan planning frameworks. Recommendations focus on embedding adaptation measures into urban mobility strategies, prioritizing waste management, and leveraging climate resilience to advance sustainable urban futures. This study underscores the urgency of adaptive, inclusive policymaking in shaping metropolitan regions as resilient and equitable spaces in the face of climate change.",
+      "keywords": [
+        "Sustainability",
+        "Climate change",
+        "Motion (physics)",
+        "Economic geography",
+        "Natural resource economics",
+        "Geography",
+        "Regional science",
+        "Economics",
+        "Computer science",
+        "Geology",
+        "Oceanography",
+        "Ecology"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107205",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107205",
+      "title": "Unseen citizens: Preschoolers' perspectives on the city and their power to imagine, represent, and design urban environments",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-31",
+      "published_date_display": "2026-05-31",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004373",
+      "abstract": "",
+      "keywords": [
+        "Vision",
+        "Urban design",
+        "Power (physics)",
+        "Ethnic group",
+        "Spatial design",
+        "Urban planning",
+        "Urban studies",
+        "Tile"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107261",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107261",
       "title": "Walkability index for older adults and their travel in a 15-min community life circle: Evidence from Anshan Xincun, Shanghai",
@@ -4851,6 +5268,34 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107262",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107262",
+      "title": "Exploring the role of volunteer service usage in E-government adoption",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-29",
+      "published_date_display": "2026-05-29",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004944",
+      "abstract": "",
+      "keywords": [
+        "Volunteer",
+        "Business",
+        "Government (linguistics)",
+        "Service (business)",
+        "Internet privacy",
+        "Public relations",
+        "Marketing",
+        "Political science",
+        "Computer science",
+        "Linguistics"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107263",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107263",
       "title": "Examining tourism driven peri-urbanization and its impacts on local livelihood dynamics in the global south: Lessons learnt from Bali, Indonesia",
@@ -5157,6 +5602,34 @@
         "Surface (topology)",
         "Surface fitting",
         "Estimation theory"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107254",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107254",
+      "title": "The impact of public lighting quality on residents' safety perceptions in Brazilian cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-27",
+      "published_date_display": "2026-05-27",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004865",
+      "abstract": "• Poor lighting reduces residents' perceived safety in Brazilian cities. • Gender plays a stronger role than ethnicity in safety perception gaps. • Adequate lighting mitigates but does not erase gender-based disparities. • Lighting emerges as a cost-effective urban safety intervention in the Global South.",
+      "keywords": [
+        "Quality (philosophy)",
+        "Perception",
+        "Business",
+        "Environmental health",
+        "Environmental planning",
+        "Architectural engineering",
+        "Psychology",
+        "Geography",
+        "Medicine",
+        "Engineering"
       ]
     },
     {
@@ -5689,6 +6162,32 @@
         "Health care",
         "Resource (disambiguation)",
         "Healthcare policy"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107187",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107187",
+      "title": "Residential mobility as a contextual factor undermining social norms for cooperation: Multilevel analyses of community data in Japan",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-23",
+      "published_date_display": "2026-05-23",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004191",
+      "abstract": "Social norms sustain community cooperation through sanctions against free riders. However, previous studies have argued that norms are ineffective for individuals who often relocate, because ostracism, a form of sanction, is not a threat to them. In addition to this individual-level effect, we investigated the possibility that residential mobility at the community level has unique effects. That is, a place with high residential mobility may create social contexts in which people anticipate others to disrespect norms, and as a result, people, including non-movers, may ignore norms (i.e., contextual effect). This study analyzed two separate large-scale survey datasets (total N = 7,597) from Japan using multilevel modeling. We consistently found that the association between perceived norms and cooperation was weaker in communities with higher mobility, including both movers and non-movers. The findings suggest that macro-level residential mobility appears to affect the social contexts that underpin norms.",
+      "keywords": [
+        "Factor (programming language)",
+        "Multilevel model",
+        "Political science",
+        "Sociology",
+        "Psychology",
+        "Economic geography",
+        "Computer science",
+        "Economics"
       ]
     },
     {
@@ -6408,28 +6907,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107241",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107241",
-      "title": "Urbanization reshapes soil microbial diversity: Regime shifts from resource limitation to environmental stress",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004737",
-      "abstract": "",
-      "keywords": [
-        "Urbanization",
-        "Resource (disambiguation)",
-        "Environmental stress",
-        "Stress (linguistics)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107192",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107192",
       "title": "Urban beauty and its oppositions",
@@ -6500,6 +6977,37 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107157",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107157",
+      "title": "Examining community participation in urban agriculture: Utilizing structural equation modeling to assess the impact of communication media on enhancing livelihoods and sustainability",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003896",
+      "abstract": "",
+      "keywords": [
+        "Livelihood",
+        "Structural equation modeling",
+        "Sustainability",
+        "Agriculture",
+        "Business",
+        "Environmental economics",
+        "Environmental planning",
+        "Natural resource economics",
+        "Economics",
+        "Environmental science",
+        "Geography",
+        "Computer science",
+        "Ecology"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107229",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107229",
       "title": "Effects of rapid urbanization on living satisfaction: Insights from a Black Sea city",
@@ -6519,6 +7027,34 @@
         "Black sea",
         "Urban climate",
         "Urban planning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107148",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107148",
+      "title": "Data-driven insights on urban walkability: Modeling the relationships between urban form and pedestrian activity",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600380X",
+      "abstract": "Enhancing neighborhood design for pedestrians presents a powerful opportunity to foster sustainability in urban settings. Improving walkability is one strategy that can help cities reduce energy consumption, lower emissions, and improve public health. Architectural theories have long emphasized the importance of pedestrian-accessible design in fostering vibrant, resilient communities. However, empirical evaluations of pedestrian activity across large spatiotemporal scales remain limited. In this study, we present a data-driven analysis of how urban form features are associated with pedestrian count data from motion sensors in Melbourne's Central Business District. We defined 5- and 15-minute walking isochrones from each sensor, retaining 50 features after preprocessing. Tree-based regression and feature importance models were used to assess the relative importance and marginal effects of urban form features on pedestrian activity. Our findings show that high bench density and job counts within a 15-minute isochrone are linked to increased pedestrian activity. Dwelling counts and elderly population are also key predictors, suggesting the impacts of demographics and land use mix. Additionally, green spaces, visual factors, and tram stops also show greater importance, with their marginal effects varying by time and day type, emphasizing the need to account for temporal variations. Our findings also show alignment with survey data, offering deeper insights. Overall, this study highlights the potential of analyzing urban design features alongside walking data to inform pedestrian-oriented city planning. Our approach demonstrates how accessible spatial and longitudinal data can support data-based policymaking and urban planning by uncovering associations relevant to walkability. • Provides an interpretable, data-driven framework linking urban form to walking • Uses open longitudinal pedestrian sensor data • Examines underexplored urban features like visual indices and bench presence • Integrates objective pedestrian counts, urban forms, and subjective behavior data",
+      "keywords": [
+        "Walkability",
+        "Pedestrian",
+        "Geography",
+        "Urban design",
+        "Transport engineering",
+        "Environmental planning",
+        "Built environment",
+        "Civil engineering",
+        "Engineering",
+        "Architecture"
       ]
     },
     {
@@ -6819,9 +7355,9 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107169",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107169",
-      "title": "Co-creating inclusive sustainable interventions: Urban living labs with elementary school children and adults",
+      "doi": "10.1016/j.cities.2026.107183",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107183",
+      "title": "Collaboration across administrative boundaries in the transformation of public space",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -6831,35 +7367,21 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004014",
-      "abstract": "",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004154",
+      "abstract": "Cities increasingly face the need to transform public spaces. Given the complex and cross-cutting nature of these transformations, the importance of collaboration is often emphasized. However, no studies so far have opened up the black box of collaboration between civil servants from different municipal departments in the transformation of public space. This study addressed this gap by analyzing the collaboration between actors from two municipal departments involved in the transformation of the unique and complex case of the Dakpark in the Dutch city of Rotterdam. Through this analysis, the study provides valuable insights into the dynamics and challenges of intra-organizational collaboration in complex urban transformation projects. The findings reveal a critical imbalance between inter- and intra-organizational collaboration, with an overemphasis on external efforts often undermining internal collaboration. This imbalance is attributed to the absence of formal frameworks necessary to establish, guide, and sustain effective intra-organizational processes. The study also highlights the important role of individual and process-level factors. This analysis shows that despite a decentralized and subtask-oriented organizational structure, strong interpersonal connections, trust, and a collegial atmosphere facilitated effective collaboration across established administrative boundaries. These interactions fostered a sense of collective interest and contributed to the creation of a psychologically safe environment. These dynamics enabled open communication, transparency, and effective problem-solving, demonstrating the essential role of fostering trust and collaboration.",
       "keywords": [
-        "Sustainable living",
-        "Sustainable development",
-        "Inclusion (mineral)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107239",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107239",
-      "title": "Beyond attractiveness: How spatial planning shapes community-based small business resilience to environmental shocks",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-18",
-      "published_date_display": "2026-05-18",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004713",
-      "abstract": "",
-      "keywords": [
-        "Resilience (materials science)",
-        "Small business",
-        "Spatial planning",
-        "Psychological resilience",
-        "Spatial mismatch"
+        "Transformation (genetics)",
+        "Space (punctuation)",
+        "Public space",
+        "Public administration",
+        "Political science",
+        "Regional science",
+        "Business",
+        "Economic geography",
+        "Computer science",
+        "Geography",
+        "Architectural engineering",
+        "Engineering"
       ]
     },
     {
@@ -7263,6 +7785,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107178",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107178",
+      "title": "Towards a territorialisation of the circular economy: Spatial planning challenges in Rotterdam",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004105",
+      "abstract": "In response to the environmental challenges of the linear economy, cities increasingly embrace the circular economy (CE) as a sustainable alternative. In the Netherlands, where circularity is a national priority, Rotterdam provides a compelling case to examine how an urban CE transition can take shape. Unlike the extensively studied Amsterdam, Rotterdam offers a contrasting perspective as a city with a growing economy and industrial character. Yet, as Rotterdam advances its CE agenda, spatial and institutional challenges emerge. While CE is promoted as a model for sustainable urban development, its spatial embedding (e.g., how land, infrastructure, and governance support circular processes) remains insufficiently understood. This research investigates how public policies and strategies shape the territorialisation of CE in Rotterdam. Combining policy document analysis, semi-structured interviews with public and private CE actors, and spatial mapping of CE projects, the study reveals that space is gaining strategic importance in CE governance. The analysis identifies a ‘two-wave’ dynamic in Rotterdam’s CE transition. The current first wave emphasises innovation, flexible regulation, hub creation, and collaboration. However, as initiatives mature, their demand for manufacturing sites, logistics, and regional coordination intensifies. For Rotterdam to progress into a second wave, it must strengthen spatial planning, regional governance, and provide physical space for circular industries to scale up. Conceptualising CE territorialisation as a wave process, this study contributes to theories of circular cities, highlighting that CE transitions cannot succeed without integrating spatial and political dimensions.",
+      "keywords": [
+        "Circular economy",
+        "Spatial planning",
+        "Polycentricity",
+        "Corporate governance",
+        "Scale (ratio)",
+        "City region",
+        "Environmental governance",
+        "Urban planning",
+        "Sustainable development"
+      ]
+    },
+    {
       "doi": "10.1016/j.cities.2026.107166",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107166",
       "title": "Suicide rate under COVID-19's shadow: Spatiotemporal dynamics and environmental associations in Hong Kong",
@@ -7355,6 +7904,38 @@
         "Participatory action research",
         "Ethnography",
         "CONTEST"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107147",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107147",
+      "title": "Determinants of corporate investment in single-family rental housing in Charlotte, North Carolina",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003793",
+      "abstract": "",
+      "keywords": [
+        "Single family",
+        "Renting",
+        "Single-family detached home",
+        "Rental housing",
+        "Investment (military)",
+        "Business",
+        "Finance",
+        "Economics",
+        "Geography",
+        "Political science",
+        "Engineering",
+        "Archaeology",
+        "Real estate",
+        "Civil engineering"
       ]
     },
     {
@@ -7520,6 +8101,32 @@
         "Development (topology)",
         "Semantic analysis (machine learning)",
         "Semantics (computer science)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107208",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107208",
+      "title": "Carrots for sticks? The role of incentives for tree retention during housing intensification",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-05-14",
+      "published_date_display": "2026-05-14",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004403",
+      "abstract": "Housing intensification within growing cities presents a critical tension – balancing compact urban development with the preservation of tree canopy cover. As cities intensify, the loss of trees due to private land development has emerged as one of the most pressing challenges in urban forest governance. This challenge must be addressed to retain the environmental and social benefits that urban trees provide. Although tree protection rules and regulation are common, one underutilised tool is voluntary incentives to encourage the retention of existing trees. This research investigates the potential role of incentives to support tree retention during housing intensification projects in Aotearoa New Zealand. Using online surveys and interviews, this study elicited and compared the perspectives of property developers and local government about the benefits, barriers, and viability of incentive schemes. Most respondents expressed a general openness to incentives and a desire for more constructive working relationships. However, the key challenge emerging from stakeholder responses is the conflict between the financial objectives of property developers and the pressure on local government to operate within budgetary constraints. Effective incentives must provide clear and meaningful benefits for developers, whilst also being practical and affordable for local government. Cost-neutral incentives hold the most promise, such as reduced interest rates from lenders for developers that retain existing trees. Although incentives are unlikely to be a complete solution, these findings provide guidance for policy makers considering the use of incentives as an additional tool for managing urban trees on private land.",
+      "keywords": [
+        "Incentive",
+        "Government (linguistics)",
+        "Local government",
+        "Incentive program",
+        "Flexibility (engineering)",
+        "Private sector",
+        "Stakeholder",
+        "Sustainability"
       ]
     },
     {
@@ -7858,6 +8465,33 @@
         "Best practice",
         "Municipal services",
         "Public participation"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102449",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102449",
+      "title": "Towards fully automated city operations: Integrating agentic AI with urban digital twins",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-05-06",
+      "published_date_display": "2026-05-06",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000517",
+      "abstract": "The convergence of generative AI with the emerging agentic AI paradigm, the Model Context Protocol (MCP), and urban digital twins offers transformative potential for automating the management of complex urban systems. In this paper, we demonstrate how agentic digital twins can generate knowledgeaugmented workflows through multi-step reasoning and autonomously execute them via coordinated AI agents equipped with scientific tools. These agents can discover and retrieve data, construct analytical pipelines, interface with domain-specific software, and adapt to dynamic urban conditions and userdefined scenarios through reflective reasoning. Drawing on agentic software for personal and recreation purposes, as well as prototype systems developed in the operations research domain, we illustrate how this paradigm enables both knowledge-augmented problem solving and automated orchestration of scientific tools to support real-time simulation and optimization. We further envision its broader potential for urban operations, including building energy management, traffic optimization, disaster response, and livability enhancement. Finally, we 1 outline a research agenda and key challenges for integrating agentic AI into urban digital twins, highlighting a pathway toward fully automated, user-interactive approaches for complex, interdisciplinary city management at scale.",
+      "keywords": [
+        "Orchestration",
+        "Transformative learning",
+        "Workflow",
+        "Context (archaeology)",
+        "Construct (python library)",
+        "Responsible Research and Innovation",
+        "Key (lock)",
+        "Smart city",
+        "Software"
       ]
     },
     {
@@ -8604,9 +9238,9 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107117",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107117",
-      "title": "Configurational pathways to smart city AI adoption: Evidence from local governments in Australia, Hong Kong, Saudi Arabia, Spain, and the United States",
+      "doi": "10.1016/j.cities.2026.107111",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107111",
+      "title": "Drivers and strategies in China's intercity competition for high-skilled migrants",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -8616,13 +9250,16 @@
         2026,
         8
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003495",
-      "abstract": "Despite increasing policy attention and technological progress, AI adoption in smart city governance and local governments remains uneven. While previous studies have identified individual drivers of adoption, limited research has examined how multiple factors interact to enable or constrain implementation. Drawing on the technology-community-policy framework, this study employs fuzzy-set qualitative comparative analysis to investigate configurational pathways leading to AI-enabled smart city adoption across eleven local governments in five countries, Australia, Hong Kong, Saudi Arabia, Spain, and the United States. The findings reveal three different equifinal configurations leading to high AI adoption. First, the technology-driven pathway shows that robust smart city infrastructure and data capability can offset limited regulatory preparedness. Second, the balanced pathway integrates technological readiness, policy awareness, and organisational attention to community considerations to support adoption holistically. Third, the policy-driven pathway demonstrates that strong institutional mandates can compensate for weaker technical capacity. Across all pathways, perceived implementation constraints emerge as a core enabling condition, suggesting that recognition of challenges can stimulate proactive adoption strategies. The findings highlight substitutability between technological and policy dimensions, offering strategic flexibility for municipalities with differing resource endowments. This study advances configurational thinking in smart city and public sector innovation research and provides actionable insights for context-sensitive, resource-appropriate AI governance in local governments. • Identifies multiple configurational pathways enabling AI adoption across diverse local governments. • Reveals technology, policy, and balanced driven routes achieving comparable AI implementation. • Demonstrates substitutability between technological readiness and policy capacity in AI adoption. • Discloses recognition of implementation constraints as a key enabler of proactive urban AI adoption. • Offers context-sensitive, resource-appropriate insights for advancing local government AI governance.",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003434",
+      "abstract": "The relationship between cities and talent is well documented in urban economics and human geography. However, existing literature primarily examines how high-skilled migration policies, coupled with jobs and amenities, shape the spatial distribution of talents. In contrast, little research has explored the origins and rationale behind these policies, particularly amid the emerging “talent war” between Chinese cities. Drawing upon a comprehensive content analysis of high-skilled migration policies across 192 medium-to-mega-sized Chinese cities during the period from 2017 to 2020, this study presents the first systematic assessment of the spatial patterns and drivers of China’s recent policy reorientation towards competition for high-skilled migrants. It develops and applies a novel coding scheme to quantify policy aggressiveness and tests three competing explanations: demographic challenges, knowledge economy development, and housing market interests. Our findings challenge the widespread notion that these policies primarily serve demographic needs. Instead, cities already strong in human capital and with younger populations are found to offer more generous incentives. We find some support for the influence of housing interests on policy design, but this is limited to policies targeting average high-skilled migrants, such as university graduates. These results advance the methodological approaches to analyzing migration policies beyond traditional liberal-restrictive frameworks and enrich the theoretical understanding of the variegated mechanisms underlying city-talent nexus.",
       "keywords": [
-        "Smart city",
-        "Local government",
-        "E-Government",
-        "Urban planning"
+        "China",
+        "Competition (biology)",
+        "Business",
+        "Economic geography",
+        "Economics",
+        "Labour economics",
+        "Geography"
       ]
     },
     {
@@ -17441,672 +18078,32 @@
       ]
     },
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102449",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102449",
-      "title": "Towards fully automated city operations: Integrating agentic AI with urban digital twins",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
+      "doi": "10.1016/j.landurbplan.2026.105735",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105735",
+      "title": "Should I stay or should I go: How urban heat gradients affect the local distribution of birds and bats",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
       "published_date": "2025-01-01",
       "published_date_display": "2025-01-01",
       "published_parts": [
         2026,
-        9
+        12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000517",
-      "abstract": "The convergence of generative AI with the emerging agentic AI paradigm, the Model Context Protocol (MCP), and urban digital twins offers transformative potential for automating the management of complex urban systems. In this paper, we demonstrate how agentic digital twins can generate knowledgeaugmented workflows through multi-step reasoning and autonomously execute them via coordinated AI agents equipped with scientific tools. These agents can discover and retrieve data, construct analytical pipelines, interface with domain-specific software, and adapt to dynamic urban conditions and userdefined scenarios through reflective reasoning. Drawing on agentic software for personal and recreation purposes, as well as prototype systems developed in the operations research domain, we illustrate how this paradigm enables both knowledge-augmented problem solving and automated orchestration of scientific tools to support real-time simulation and optimization. We further envision its broader potential for urban operations, including building energy management, traffic optimization, disaster response, and livability enhancement. Finally, we 1 outline a research agenda and key challenges for integrating agentic AI into urban digital twins, highlighting a pathway toward fully automated, user-interactive approaches for complex, interdisciplinary city management at scale.",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001593",
+      "abstract": "In the face of an escalating biodiversity decline, the threats go beyond species loss to include the reduction of evolutionary and functional potential within ecosystems. Urbanization is one of the main causes of biodiversity loss, particularly with the expected growth in human population over the coming decades. In this context, achieving sustainable development requires a balance between conservation and urban growth. A fundamental step is to characterize the impacts of urbanization on biodiversity using integrative approaches that reflect current scenarios of global changes. This study focuses on the main representatives of urban flying vertebrates, birds and bats, in the French city of Poitiers, to study how different levels of urbanization affect these components of biodiversity. More precisely, we examine the influence of land cover and temperature (using both gradients of urbanization and heat) on community composition and taxonomic, phylogenetic and functional diversity of bats and birds. We also assess the contribution of turnover and nestedness to community composition. Our results indicate that high urbanization, as reflected by urban heat islands, affects community composition, particularly for bats, whose diversity, across taxonomic, phylogenetic and functional components, is negatively impacted. In contrast, birds display only a decline in taxonomic diversity in these zones. Turnover is the dominant process of structuring bird communities, whereas nestedness is primarily driving bat assemblages, suggesting greater potential for species replacement in birds. These results highlight the different vulnerability of birds and bats to urbanization and emphasize the need to consider these differences in conservation and urban planning strategies.",
       "keywords": [
-        "Orchestration",
-        "Transformative learning",
-        "Workflow",
-        "Context (archaeology)",
-        "Construct (python library)",
-        "Responsible Research and Innovation",
-        "Key (lock)",
-        "Smart city",
-        "Software"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107162",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107162",
-      "title": "When residents appropriate the street: Management and conflict over public space in Francoist open block fabric in Madrid (Spain)",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600394X",
-      "abstract": "",
-      "keywords": [
-        "Block (permutation group theory)",
-        "Public space",
-        "Space (punctuation)",
-        "Business",
+        "Affect (linguistics)",
+        "Distribution (mathematics)",
+        "Urban heat island",
         "Geography",
-        "Computer science",
-        "Architectural engineering",
-        "Engineering",
-        "Mathematics"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107205",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107205",
-      "title": "Unseen citizens: Preschoolers' perspectives on the city and their power to imagine, represent, and design urban environments",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004373",
-      "abstract": "",
-      "keywords": [
-        "Vision",
-        "Urban design",
-        "Power (physics)",
-        "Ethnic group",
-        "Spatial design",
-        "Urban planning",
-        "Urban studies",
-        "Tile"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107154",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107154",
-      "title": "Understanding changes in residential water consumption during the covid-19 pandemic: A sociodemographic analysis in Southern Brazil",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003860",
-      "abstract": "This study explores changes in residential water consumption patterns in São Leopoldo, southern Brazil, during the COVID-19 pandemic, with an emphasis on sociodemographic variables. The analysis is based on data from 49,712 users across 356 census tracts, comparing pre-pandemic (2017–2020) and pandemic (2020−2022) periods. Water consumption in both periods was classified into nine categories, and the changes between these categories over time were assessed. The changes in consumption by census tract were examined using decision trees to determine how variables such as the number of residents per household, income, and education level influenced consumption behavior. Approximately 50.3% of users changed their water consumption habits during the pandemic; among these, 59.4% registered an increase in consumption, while 40.6% showed a decrease. Census tracts with a higher proportion of low-income families and more residents per household were more likely to show changes in water consumption, possibly due to changes in the length of time these residents stayed at home. The COVID-19 pandemic significantly affected residential water consumption patterns, and socioeconomic and demographic factors played crucial roles in these changes. Overall, this study highlights the importance of considering sociodemographic factors in urban water resource management, especially in times of crisis. • 50.3% of residential users changed their water consumption during the pandemic. • 59.4% of users with change increased their residential water consumption. • Low-income, high-occupancy areas showed the highest consumption variation. • CART models reached up to 70.6% accuracy in classifying consumption change. • Social class and household size were key predictors of consumption behavior.",
-      "keywords": [
-        "Coronavirus disease 2019 (COVID-19)",
-        "Pandemic",
-        "2019-20 coronavirus outbreak",
-        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
-        "Consumption (sociology)",
-        "Geography",
-        "Virology",
-        "Medicine",
-        "Outbreak",
-        "Sociology",
-        "Infectious disease (medical specialty)",
-        "Social science"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107178",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107178",
-      "title": "Towards a territorialisation of the circular economy: Spatial planning challenges in Rotterdam",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004105",
-      "abstract": "In response to the environmental challenges of the linear economy, cities increasingly embrace the circular economy (CE) as a sustainable alternative. In the Netherlands, where circularity is a national priority, Rotterdam provides a compelling case to examine how an urban CE transition can take shape. Unlike the extensively studied Amsterdam, Rotterdam offers a contrasting perspective as a city with a growing economy and industrial character. Yet, as Rotterdam advances its CE agenda, spatial and institutional challenges emerge. While CE is promoted as a model for sustainable urban development, its spatial embedding (e.g., how land, infrastructure, and governance support circular processes) remains insufficiently understood. This research investigates how public policies and strategies shape the territorialisation of CE in Rotterdam. Combining policy document analysis, semi-structured interviews with public and private CE actors, and spatial mapping of CE projects, the study reveals that space is gaining strategic importance in CE governance. The analysis identifies a ‘two-wave’ dynamic in Rotterdam’s CE transition. The current first wave emphasises innovation, flexible regulation, hub creation, and collaboration. However, as initiatives mature, their demand for manufacturing sites, logistics, and regional coordination intensifies. For Rotterdam to progress into a second wave, it must strengthen spatial planning, regional governance, and provide physical space for circular industries to scale up. Conceptualising CE territorialisation as a wave process, this study contributes to theories of circular cities, highlighting that CE transitions cannot succeed without integrating spatial and political dimensions.",
-      "keywords": [
-        "Circular economy",
-        "Spatial planning",
-        "Polycentricity",
-        "Corporate governance",
-        "Scale (ratio)",
-        "City region",
-        "Environmental governance",
-        "Urban planning",
-        "Sustainable development"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107356",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107356",
-      "title": "Tourism and the commodification of rural space: A grounded theory study of peri-urban villages",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005883",
-      "abstract": "",
-      "keywords": [
-        "Commodification",
-        "Grounded theory",
-        "Tourism",
-        "Rurality",
-        "Tourism geography",
-        "Population",
-        "Cultural tourism",
-        "Transformative learning",
-        "Participant observation"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107254",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107254",
-      "title": "The impact of public lighting quality on residents' safety perceptions in Brazilian cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004865",
-      "abstract": "• Poor lighting reduces residents' perceived safety in Brazilian cities. • Gender plays a stronger role than ethnicity in safety perception gaps. • Adequate lighting mitigates but does not erase gender-based disparities. • Lighting emerges as a cost-effective urban safety intervention in the Global South.",
-      "keywords": [
-        "Quality (philosophy)",
-        "Perception",
-        "Business",
-        "Environmental health",
-        "Environmental planning",
-        "Architectural engineering",
-        "Psychology",
-        "Geography",
-        "Medicine",
-        "Engineering"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107112",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107112",
-      "title": "The impact of digital infrastructure development on residents' mental health: Evidence from the UK's working-age population",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003446",
-      "abstract": "This study explores the potential causal relationship between broadband internet access/use and mental health among UK adults aged 25-65. Despite the widespread internet access, its impact on mental health remains a topic of ongoing investigation. This study compares mental health outcomes before (2000-2004) and after (2005-2008) broadband internet became common in the UK, using longitudinal data from the British Household Panel Survey (BHPS). To address endogeneity concerns, this paper utilizes exogenous variation in the quality of internet access, attributed to the technical features of the access technology, and employs a difference-in-differences research design. The findings suggest a positive causal effect on improved mental health outcomes for women, potentially driven by increased satisfaction in leisure activities.",
-      "keywords": [
-        "Mental health",
-        "Population",
-        "Real world evidence",
-        "Working population",
-        "Gerontology",
-        "Environmental health",
-        "Psychology",
-        "Geography",
-        "Economic growth",
-        "Medicine",
-        "Psychiatry",
-        "Economics"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107336",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107336",
-      "title": "The case for rethinking rural: How simplification obscures rural travel behaviors",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005688",
-      "abstract": "",
-      "keywords": [
-        "Geography",
-        "Sociology",
-        "Economic geography",
-        "Psychology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107168",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107168",
-      "title": "Strategies and sustainability in motion: An analysis of mobility and climate change policies in Greater London",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004002",
-      "abstract": "This article investigates the interplay between metropolitan mobility and climate change within the context of Greater London, emphasizing the city's challenge of balancing mitigation and adaptation strategies in response to recent and ongoing climate impacts. Drawing on data analysis, a comprehensive literature review, and qualitative interviews, the research examines how climate change disrupts mobility dynamics and critically evaluates the effectiveness of current urban policies, such as the expansion of cycling routes and the implementation of the Ultra Low Emission Zone, as outlined in the 2018 London Environment Strategy. While these measures aim to reduce car-based mobility and promote low-emission transportation, the growing frequency of climate-related challenges, such as flooding and urban overheating, calls for a rethinking of London's approach to achieving co-benefits - simultaneously reducing emissions and enhancing resilience. The findings identify 20 targeted actions reflecting London's adaptive responses to climate change, while also underscoring the critical need for stakeholder integration to address technological, economic, and social disparities. The discussion highlights the importance of fostering greater collaboration between the Greater London Authority (GLA) and local boroughs, ensuring alignment between local initiatives and broader metropolitan planning frameworks. Recommendations focus on embedding adaptation measures into urban mobility strategies, prioritizing waste management, and leveraging climate resilience to advance sustainable urban futures. This study underscores the urgency of adaptive, inclusive policymaking in shaping metropolitan regions as resilient and equitable spaces in the face of climate change.",
-      "keywords": [
-        "Sustainability",
-        "Climate change",
-        "Motion (physics)",
-        "Economic geography",
-        "Natural resource economics",
-        "Geography",
-        "Regional science",
-        "Economics",
-        "Computer science",
-        "Geology",
-        "Oceanography",
-        "Ecology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107382",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107382",
-      "title": "Spatio-temporal relationships between street vendors and City users: Insights from Ragama town, Sri Lanka",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006141",
-      "abstract": "",
-      "keywords": [
-        "Foregrounding",
-        "Harmony (color)",
-        "Everyday life",
-        "Thematic analysis",
-        "Qualitative research",
-        "Pleasure",
-        "Grounded theory",
-        "Position (finance)",
-        "Lived experience"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107116",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107116",
-      "title": "Smart cities in turbulent times: Trust, privacy concerns, and citizens' data sharing",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003483",
-      "abstract": "This study examines how citizens' willingness to share personal data can become a strategic lever for the digital transformation and sustainable development of smart cities in contexts characterized by volatility, uncertainty, complexity and ambiguity. Crises such as the COVID-19 pandemic exemplify how turbulent conditions accelerate the use of digital technologies while emphasizing the importance of trust, privacy protection, and social cohesion as foundations of urban resilience. The research investigates whether the openness to data disclosure observed during emergencies can extend to long-term smart city initiatives aimed at enhancing collective well-being. Based on a survey of Chinese citizens in Wuhan analyzed using partial least squares structural equation modeling (PLS-SEM), the findings provide support for the mediating role played by trust in governmental and private organizations' data management between data-sharing intentions during crises and the willingness to disclose information for smart city development. Trust in government data management was found to reduce privacy concerns, while heightened privacy concerns weaken the positive effect of crisis-induced data sharing on subsequent trust. The study contributes to the debate on innovative urban planning by linking trust and privacy with digital transformation, and provides policy insights for designing inclusive, and resilient smart cities that enhance social well-being.",
-      "keywords": [
-        "Data sharing",
-        "Smart city",
-        "Openness to experience",
-        "Sharing economy",
-        "Transparency (behavior)",
-        "Digital transformation",
-        "Government (linguistics)",
-        "Big data",
-        "Information privacy"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107187",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107187",
-      "title": "Residential mobility as a contextual factor undermining social norms for cooperation: Multilevel analyses of community data in Japan",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004191",
-      "abstract": "Social norms sustain community cooperation through sanctions against free riders. However, previous studies have argued that norms are ineffective for individuals who often relocate, because ostracism, a form of sanction, is not a threat to them. In addition to this individual-level effect, we investigated the possibility that residential mobility at the community level has unique effects. That is, a place with high residential mobility may create social contexts in which people anticipate others to disrespect norms, and as a result, people, including non-movers, may ignore norms (i.e., contextual effect). This study analyzed two separate large-scale survey datasets (total N = 7,597) from Japan using multilevel modeling. We consistently found that the association between perceived norms and cooperation was weaker in communities with higher mobility, including both movers and non-movers. The findings suggest that macro-level residential mobility appears to affect the social contexts that underpin norms.",
-      "keywords": [
-        "Factor (programming language)",
-        "Multilevel model",
-        "Political science",
-        "Sociology",
-        "Psychology",
-        "Economic geography",
-        "Computer science",
-        "Economics"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107328",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107328",
-      "title": "Neoliberal urban governance and local empowerment: Unpacking the paradoxes of the BIP/ZIP programme in Lisbon",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005603",
-      "abstract": "In the production and management of cities, the promotion of active citizenship has seen its rise despite the affirmation of the neoliberal model. This process was marked by the erasure of public powers in urban regulation and management and the creation of decentralisation and governance mechanisms for social and urban intervention. This article discusses this apparent contradiction, analysing the programme Bairros de Intervenção Prioritária /Zonas de Intervenção Prioritária (BIP/ZIP), developed by the Municipality of Lisbon (Portugal). The Programme aims to foster active citizenship, the capacity for self-organisation and the collective search for solutions, contributing to a positive image of deprived areas in Lisbon and creating a favourable climate for entrepreneurship and local initiative. Assessing thirteen editions of the BIP/ZIP, from 2011 to 2023, this article extracts data to reflect on the coherence between the results obtained and the initially defined objectives. The data analysed includes stakeholders, total investments received, benefited zones, and thematic areas. Drawing from this data, we discuss the lack of association between the problems identified during the delineation of the BIP/ZIP areas and the approved projects. We use the Lisbon case to illustrate how participatory mechanisms have been employed to benefit specific groups at the expense of collective interest, critically examining the unfolding of these practices in comparable contexts. The empirical data warrant critical reflection on the contradictions and limitations of participatory programmes in neoliberal urban contexts, highlighting the concentration of investments in central neighbourhoods and the consistent presence of associations as partners in various proposals. By situating our study within a broader theoretical debate, we discuss the depoliticisation of urban governance and the performative role of active citizenship under neoliberalism. The article concludes with policy recommendations for cities that are experimenting with participatory governance in similar contexts of austerity and decentralisation.",
-      "keywords": [
-        "Unpacking",
-        "Empowerment",
-        "Corporate governance",
-        "Political science",
-        "Public administration",
-        "Business",
-        "Law"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107386",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107386",
-      "title": "Factors influencing China's E-commerce express logistics network: An optimal multivariate-stratification geographical detector model approach",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006189",
-      "abstract": "",
-      "keywords": [
-        "Multivariate statistics",
-        "China",
-        "Stratification (seeds)",
-        "E-commerce",
-        "Detector",
-        "Multivariate analysis",
-        "Business",
-        "Computer science",
-        "Econometrics",
-        "Regional science",
-        "Geography",
-        "Telecommunications",
-        "Economics",
-        "World Wide Web",
-        "Machine learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107262",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107262",
-      "title": "Exploring the role of volunteer service usage in E-government adoption",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004944",
-      "abstract": "",
-      "keywords": [
-        "Volunteer",
-        "Business",
-        "Government (linguistics)",
-        "Service (business)",
-        "Internet privacy",
-        "Public relations",
-        "Marketing",
-        "Political science",
-        "Computer science",
-        "Linguistics"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107157",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107157",
-      "title": "Examining community participation in urban agriculture: Utilizing structural equation modeling to assess the impact of communication media on enhancing livelihoods and sustainability",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003896",
-      "abstract": "",
-      "keywords": [
-        "Livelihood",
-        "Structural equation modeling",
-        "Sustainability",
-        "Agriculture",
-        "Business",
-        "Environmental economics",
-        "Environmental planning",
-        "Natural resource economics",
-        "Economics",
-        "Environmental science",
-        "Geography",
-        "Computer science",
-        "Ecology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107111",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107111",
-      "title": "Drivers and strategies in China's intercity competition for high-skilled migrants",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003434",
-      "abstract": "The relationship between cities and talent is well documented in urban economics and human geography. However, existing literature primarily examines how high-skilled migration policies, coupled with jobs and amenities, shape the spatial distribution of talents. In contrast, little research has explored the origins and rationale behind these policies, particularly amid the emerging “talent war” between Chinese cities. Drawing upon a comprehensive content analysis of high-skilled migration policies across 192 medium-to-mega-sized Chinese cities during the period from 2017 to 2020, this study presents the first systematic assessment of the spatial patterns and drivers of China’s recent policy reorientation towards competition for high-skilled migrants. It develops and applies a novel coding scheme to quantify policy aggressiveness and tests three competing explanations: demographic challenges, knowledge economy development, and housing market interests. Our findings challenge the widespread notion that these policies primarily serve demographic needs. Instead, cities already strong in human capital and with younger populations are found to offer more generous incentives. We find some support for the influence of housing interests on policy design, but this is limited to policies targeting average high-skilled migrants, such as university graduates. These results advance the methodological approaches to analyzing migration policies beyond traditional liberal-restrictive frameworks and enrich the theoretical understanding of the variegated mechanisms underlying city-talent nexus.",
-      "keywords": [
-        "China",
-        "Competition (biology)",
-        "Business",
-        "Economic geography",
-        "Economics",
-        "Labour economics",
-        "Geography"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107147",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107147",
-      "title": "Determinants of corporate investment in single-family rental housing in Charlotte, North Carolina",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003793",
-      "abstract": "",
-      "keywords": [
-        "Single family",
-        "Renting",
-        "Single-family detached home",
-        "Rental housing",
-        "Investment (military)",
-        "Business",
-        "Finance",
-        "Economics",
-        "Geography",
-        "Political science",
-        "Engineering",
-        "Archaeology",
-        "Real estate",
-        "Civil engineering"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107148",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107148",
-      "title": "Data-driven insights on urban walkability: Modeling the relationships between urban form and pedestrian activity",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600380X",
-      "abstract": "Enhancing neighborhood design for pedestrians presents a powerful opportunity to foster sustainability in urban settings. Improving walkability is one strategy that can help cities reduce energy consumption, lower emissions, and improve public health. Architectural theories have long emphasized the importance of pedestrian-accessible design in fostering vibrant, resilient communities. However, empirical evaluations of pedestrian activity across large spatiotemporal scales remain limited. In this study, we present a data-driven analysis of how urban form features are associated with pedestrian count data from motion sensors in Melbourne's Central Business District. We defined 5- and 15-minute walking isochrones from each sensor, retaining 50 features after preprocessing. Tree-based regression and feature importance models were used to assess the relative importance and marginal effects of urban form features on pedestrian activity. Our findings show that high bench density and job counts within a 15-minute isochrone are linked to increased pedestrian activity. Dwelling counts and elderly population are also key predictors, suggesting the impacts of demographics and land use mix. Additionally, green spaces, visual factors, and tram stops also show greater importance, with their marginal effects varying by time and day type, emphasizing the need to account for temporal variations. Our findings also show alignment with survey data, offering deeper insights. Overall, this study highlights the potential of analyzing urban design features alongside walking data to inform pedestrian-oriented city planning. Our approach demonstrates how accessible spatial and longitudinal data can support data-based policymaking and urban planning by uncovering associations relevant to walkability. • Provides an interpretable, data-driven framework linking urban form to walking • Uses open longitudinal pedestrian sensor data • Examines underexplored urban features like visual indices and bench presence • Integrates objective pedestrian counts, urban forms, and subjective behavior data",
-      "keywords": [
-        "Walkability",
-        "Pedestrian",
-        "Geography",
-        "Urban design",
-        "Transport engineering",
-        "Environmental planning",
-        "Built environment",
-        "Civil engineering",
-        "Engineering",
-        "Architecture"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107163",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107163",
-      "title": "Crisis urbanism and uneven resilience: A study of fragmented reconstruction in Mar Mikhaël (Beirut) after the 2020 port explosion",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003951",
-      "abstract": "",
-      "keywords": [
-        "Port (circuit theory)",
-        "Resilience (materials science)",
-        "Urbanism",
-        "Economic geography",
-        "Geography",
-        "Economy",
-        "Engineering",
-        "Architecture",
-        "Physics",
-        "Economics",
-        "Archaeology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107183",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107183",
-      "title": "Collaboration across administrative boundaries in the transformation of public space",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004154",
-      "abstract": "Cities increasingly face the need to transform public spaces. Given the complex and cross-cutting nature of these transformations, the importance of collaboration is often emphasized. However, no studies so far have opened up the black box of collaboration between civil servants from different municipal departments in the transformation of public space. This study addressed this gap by analyzing the collaboration between actors from two municipal departments involved in the transformation of the unique and complex case of the Dakpark in the Dutch city of Rotterdam. Through this analysis, the study provides valuable insights into the dynamics and challenges of intra-organizational collaboration in complex urban transformation projects. The findings reveal a critical imbalance between inter- and intra-organizational collaboration, with an overemphasis on external efforts often undermining internal collaboration. This imbalance is attributed to the absence of formal frameworks necessary to establish, guide, and sustain effective intra-organizational processes. The study also highlights the important role of individual and process-level factors. This analysis shows that despite a decentralized and subtask-oriented organizational structure, strong interpersonal connections, trust, and a collegial atmosphere facilitated effective collaboration across established administrative boundaries. These interactions fostered a sense of collective interest and contributed to the creation of a psychologically safe environment. These dynamics enabled open communication, transparency, and effective problem-solving, demonstrating the essential role of fostering trust and collaboration.",
-      "keywords": [
-        "Transformation (genetics)",
-        "Space (punctuation)",
-        "Public space",
-        "Public administration",
-        "Political science",
-        "Regional science",
-        "Business",
-        "Economic geography",
-        "Computer science",
-        "Geography",
-        "Architectural engineering",
-        "Engineering"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107208",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107208",
-      "title": "Carrots for sticks? The role of incentives for tree retention during housing intensification",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004403",
-      "abstract": "Housing intensification within growing cities presents a critical tension – balancing compact urban development with the preservation of tree canopy cover. As cities intensify, the loss of trees due to private land development has emerged as one of the most pressing challenges in urban forest governance. This challenge must be addressed to retain the environmental and social benefits that urban trees provide. Although tree protection rules and regulation are common, one underutilised tool is voluntary incentives to encourage the retention of existing trees. This research investigates the potential role of incentives to support tree retention during housing intensification projects in Aotearoa New Zealand. Using online surveys and interviews, this study elicited and compared the perspectives of property developers and local government about the benefits, barriers, and viability of incentive schemes. Most respondents expressed a general openness to incentives and a desire for more constructive working relationships. However, the key challenge emerging from stakeholder responses is the conflict between the financial objectives of property developers and the pressure on local government to operate within budgetary constraints. Effective incentives must provide clear and meaningful benefits for developers, whilst also being practical and affordable for local government. Cost-neutral incentives hold the most promise, such as reduced interest rates from lenders for developers that retain existing trees. Although incentives are unlikely to be a complete solution, these findings provide guidance for policy makers considering the use of incentives as an additional tool for managing urban trees on private land.",
-      "keywords": [
-        "Incentive",
-        "Government (linguistics)",
-        "Local government",
-        "Incentive program",
-        "Flexibility (engineering)",
-        "Private sector",
-        "Stakeholder",
-        "Sustainability"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107240",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107240",
-      "title": "Backcasting antifragility in East African cities: A comparative analysis of urban challenges and spatial planning strategies",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004725",
-      "abstract": "",
-      "keywords": [
-        "Backcasting",
-        "Geography",
-        "Environmental planning",
-        "Urban planning",
-        "Regional science",
-        "Economic geography",
-        "Civil engineering",
-        "Engineering",
         "Ecology",
-        "Biology"
+        "Economic geography",
+        "Environmental science",
+        "Psychology",
+        "Biology",
+        "Communication",
+        "Mathematics"
       ]
     }
   ]
