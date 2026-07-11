@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T22:14:53.983558+00:00",
+  "generated_at": "2026-07-11T22:06:13.388783+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,23 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115560",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115560",
+      "title": "Optimizing 1D-Var near-surface wind speed from SSMIS with RapidScat",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003305",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.rse.2026.115557",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115557",
       "title": "Leveraging EMIT spectroscopy and machine learning to estimate soil texture and particle grain size in dust-producing regions",
@@ -39,7 +56,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003275",
-      "abstract": "",
+      "abstract": "The primary mission of NASA's Earth Surface Mineral Dust Source Investigation (EMIT) is to improve our understanding of mineral dust in atmospheric radiative forcing using a novel set of spectroscopically-based mineral observations. In order to estimate mineral mass abundance, information on median surface grainsize is required. Knowledge of clay and silt fractions as well as the sub-components of the sand fractions is required for calculation of median grainsize. Therefore, this study aimed to produce a map of surface soil texture suitable for the intended application. Spectral reflectance data were incorporated into a multi-output Random Forest model to predict mass fraction for seven particle size classes: silt (TSI), clay (Clay), and five sand size classes: very coarse sand (S1, 1–2 mm diameter), coarse sand (S2, 1/2–1 mm), medium sand (S3, 1/4–1/2 mm), fine sand (S4, 1/8–1/4 mm), and very fine sand (S5, 1/16–1/8 mm diameter). To account for the presence of vegetation in EMIT spectral data, spectra of soils were mixed linearly with spectra of green and nonphotosynthetic vegetation in various combinations and amounts and the mixed spectra were used as training data. A five-fold cross-validation approach allowed us to estimate independent errors for each of the texture classes as well as three parameters estimated post hoc: total sand fraction (TSA, calculated as the sum of the five sand classes), mean grain size (GS mean ), and median grain size (GS median ). Sand fractions have estimated mean absolute errors (MAEs) <6% (R 2 = 0.54–0.81), while the error for TSA is <12% (R 2 = 0.78). MAE for TSI and Clay is <4% (R 2 = 0.66) and < 7% (R 2 = 0.81), respectively. Estimated MAE for GS median is 30 μm (R 2 = 0.78). For GS mean estimated MAE is 7.3 μm (R 2 = 0.73). Above 70% soil cover (below 30% vegetation cover), vegetation did not appear to influence estimates. A final model trained on all available data was used to produce estimates of soil texture class mass fractions for dust-producing areas worldwide at 0.1° resolution suitable for supporting estimates of mineral mass fraction from EMIT data. Despite drastically different estimation approaches, our results are broadly consistent with other global mineral datasets, although differences are apparent. Overall, our approach indicates the value of imaging spectrometer data for estimation of surface grain size for application to EMIT's primary mission of better constraining dust radiative forcing, though additional paired soil spectra-texture measurements would improve results. The products may also be useful for other applications in the Earth sciences, especially those related to global modeling of dust.",
       "keywords": [
         "Soil texture",
         "Texture (cosmology)",
@@ -684,6 +701,36 @@
         "Object detection",
         "Key (lock)",
         "Visualization"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.019",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.019",
+      "title": "A source-free unsupervised domain adaptation framework for large-scale, in-season soybean mapping",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-06-30",
+      "published_date_display": "2026-06-30",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003254",
+      "abstract": "Reliable in-season soybean mapping remains difficult in heterogeneous and data-poor agricultural regions because phenology, management, and cloud-driven sampling differences induce substantial domain shifts, causing models trained in one region to generalize poorly to new landscapes. Since collecting dense, region-specific labels every season is often impractical, unsupervised domain adaptation (UDA) offers a practical route for adapting models using unlabeled target imagery. However, standard UDA commonly assumes access to source-domain imagery during adaptation, which increases data-sharing, storage, and computational burdens and limits scalable deployment. We propose a source-free unsupervised domain adaptation framework, Contrastive Representation Optimized Prototype Segmentation (CROPS), to deliver large-area, in-season soybean maps using only a pretrained model and unlabeled target imagery. CROPS constructs NDVI-based QualityMosaic maximum-NDVI composites that anchor each pixel to a phenology-informed high-canopy observation, mitigate cloud-related sampling noise, and reduce temporal redundancy. It then builds a crop-specific easy/hard reliability partition from the NDVI-QM target patches, combining entropy-based confidence, semantic dominance, boundary credibility, and class-balanced quotas. Reliable easy patches define target-domain semantic prototypes, whereas hard patches are incorporated later through prototype-guided alignment and teacher-confidence-modulated supervision. Across six target sites spanning the USA, China, Brazil, and Argentina, CROPS consistently outperforms other baselines and UDA methods. In end-of-season evaluation, CROPS achieves an average macro-F1 of 92.44 percent with IoU of 79.73 percent, closely matches official statistics at administrative-unit scale, and remains close to an Oracle upper bound trained with the full target reference data. In-season analyses show that CROPS advances the operational high-accuracy milestone, macro-F1 at least 0.80, by about 35 to 41 days in strongly shifted regions and remains robust under persistent cloud contamination. Additional experiments in selected three-class settings demonstrate promising within-season separation of soybean, corn, and background and improved cross-sensor transfer from Sentinel-2 to Landsat 8. Overall, CROPS provides a timely, scalable, and privacy-compatible pathway for operational crop mapping under limited labels and restricted source-data access.",
+      "keywords": [
+        "Adaptation (eye)",
+        "Scale (ratio)",
+        "Domain adaptation",
+        "Domain (mathematical analysis)",
+        "Computer science",
+        "Environmental science",
+        "Geography",
+        "Mathematics",
+        "Artificial intelligence",
+        "Cartography",
+        "Psychology",
+        "Neuroscience"
       ]
     },
     {
@@ -1624,6 +1671,30 @@
         "Biomass (ecology)",
         "Scale (ratio)",
         "Threatened species"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115537",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115537",
+      "title": "Waveform-adaptive estimation of canopy heights using GEDI data in dense Amazonian forests",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-19",
+      "published_date_display": "2026-06-19",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600307X",
+      "abstract": "",
+      "keywords": [
+        "Amazonian",
+        "Canopy",
+        "Estimation",
+        "Tree canopy",
+        "Vegetation (pathology)",
+        "Calibration"
       ]
     },
     {
@@ -4521,6 +4592,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115485",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115485",
+      "title": "Linking solar-induced chlorophyll fluorescence to biogenic volatile organic compound emissions in low Arctic tundra: A field spectroscopy approach",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-19",
+      "published_date_display": "2026-05-19",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002555",
+      "abstract": "The warming Arctic is experiencing one of the largest annual Biogenic Volatile Organic Compounds (BVOC) emissions increases globally relative to the baseline of the previous decades. In particular isoprenoids are known to be driven by photosynthetic processes. Therefore, their emissions could be linked to proxies of photosynthetic activity that can be sensed remotely. In this study, we propose to explore the link between Solar-Induced Chlorophyll Fluorescence (SIF) in the O 2 -A absorption band and BVOC emission rates in a field spectroscopy framework, so as to further investigate the relationship between the reflectance properties of vegetation and emitted BVOC rates. The vegetation under examination consists of typical species found in low Arctic tundra. The workflow of analysis includes wavelength selection, feature ranking importance, and construction of Structural Equation Models in order to verify the links between the remotely sensed variables and the emission rates of various BVOC groups. The results show that SIF can be treated as an important proxy for isoprene emissions, while other spectral indices such as PRI and EVI can similarly be deployed for sesquiterpene and monoterpene emissions, respectively.",
+      "keywords": [
+        "Arctic",
+        "Arctic vegetation",
+        "Photosynthesis",
+        "Volatile organic compound",
+        "Photochemical Reflectance Index",
+        "Vegetation (pathology)",
+        "Chlorophyll a",
+        "The arctic",
+        "Photosynthetically active radiation"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.04.056",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.056",
       "title": "LandSegmenter: Towards a flexible foundation model for Land Use and Land Cover mapping",
@@ -6037,6 +6135,35 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115459",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115459",
+      "title": "Assessment of EnMAP data quality through global product validation activities",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-05-05",
+      "published_date_display": "2026-05-05",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002294",
+      "abstract": "The EnMAP (Environmental Mapping and Analysis Program) satellite, launched on 1 April 2022, is designed to provide high-resolution imaging spectroscopy data for environmental monitoring, resource management and land use mapping. The integrity and quality of the official data products are ensured by the mission's product validation activities, which are intended to assess, monitor, and report the quality of the L1B (top-of-atmosphere radiance in sensor coordinates), L1C top-of-atmosphere radiance in map coordinates), and L2A (surface reflectance in map coordinates) user products. This work presents an overview of the EnMAP product validation activities during the commissioning phase and the first part of the operational phase. Radiometric, spectral, geometric, and general uniformity aspects are evaluated with scene-based analysis methods and through comparison with ground-based reference methods. We find that EnMAP's radiometric calibration is <5%, both smile and keystone are <20% of a pixel, and the Bottom-Of-Atmosphere (BOA) reflectance and Normalized Water-Leaving reflectance are well inside the mission requirements. These results confirm that the EnMAP products fulfill the mission requirements and pave the way for the scientific exploitation of EnMAP and for the use of the EnMAP products.",
+      "keywords": [
+        "Quality (philosophy)",
+        "Product (mathematics)",
+        "Computer science",
+        "Data quality",
+        "Quality assessment",
+        "Environmental science",
+        "Reliability engineering",
+        "Engineering",
+        "Mathematics",
+        "Operations management",
+        "Evaluation methods"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.04.027",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.027",
       "title": "Unsupervised anomaly localization with high-resolution and time-series satellite imagery: from global disaster dataset to zero-shot model via SAM",
@@ -7514,6 +7641,33 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115438",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115438",
+      "title": "Global annual cropland dynamics 2015–2024",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-04-18",
+      "published_date_display": "2026-04-18",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002087",
+      "abstract": "Food security worldwide is increasingly threatened by population growth, shifting diets, geopolitical conflicts, and climate change impacts. Annual operational cropland monitoring is required to support the United Nations Zero Hunger Sustainable Development Goal. Landsat satellite data provide a foundation for such global, independent, high-cadence monitoring at 30-m spatial resolution suitable for agricultural policy and management interventions, policy responses, and market adjustments. Here, we used Landsat Analysis Ready Data developed by the Global Land Analysis and Discovery Lab (GLAD-ARD) and machine learning to map global cropland extent annually from 2015 to 2024. We showed that the global cropland area increased by more than 6% over the past decade. By combining sample-based cropland area estimates from our research and the earlier analysis (2003–2019), we estimate that the global cropland area has expanded by nearly 14% since 2003. Between 2015 and 2024, Africa accounted for the largest regional increase (+24.5 Mha). At the national scale, Brazil experienced the largest gain (+16.5 Mha) and Morocco the largest loss (˗0.38 Mha). A third (33.3%) of all new cropland was established through natural vegetation clearing or irrigation expansion within natural drylands. The overall accuracies of the 2015 and 2024 cropland maps were 97.8% (Standard Error 0.3%) and 97.3% (SE 0.4%), respectively. Despite cropland expansion, population growth has outpaced cropland gains; between 2015 and 2024, per-capita cropland area declined from 0.166 to 0.161 ha per person. Our data illustrate the combined effects of changes in land use priorities, climate, water supply, international trade, and armed conflicts on global cropland extent dynamics during the last decade. • Presented global annual cropland maps with overall accuracy >97%. • Global cropland area increased by more than 6% from 2015 to 2024. • Cropland area increased by 14% over the past two decades. • Per-capita cropland area has declined by 3% from 2015 to 2024.",
+      "keywords": [
+        "Food security",
+        "Climate change",
+        "Population",
+        "Population growth",
+        "Global warming",
+        "Threatened species",
+        "Irrigation",
+        "Earth observation",
+        "Natural resource"
+      ]
+    },
+    {
       "doi": "10.1016/j.rse.2026.115429",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115429",
       "title": "Intercalibration of the newest Microwave Radiation Imagers onboard the Chinese Fengyun-3 satellites",
@@ -7699,6 +7853,32 @@
         "Feature (linguistics)",
         "Digital elevation model",
         "Satellite imagery"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.03.018",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.018",
+      "title": "Causal Graph Neural Networks for robust wildfire forecasting across geographic shifts",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-04-16",
+      "published_date_display": "2026-04-16",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001322",
+      "abstract": "Machine learning has become a powerful tool for modeling the relationships between environmental factors and fire events. However, beyond the predictive performance, we argue that critical decision-making requires an understanding of fire mechanisms to improve reliability. Causality offers a promising framework for explicitly analyzing the interdependencies among factors; however, its integration into deep learning and further application in disaster management remain largely underexplored. To map the relationship between historical inputs and resulting burned areas, we proposed a causally informed deep learning approach using graph models. The graph representation is constructed through a learnable approach supervised by causal knowledge. A graph pooling layer, informed by backdoor adjustment criteria, mitigates the potential confounding effects of hidden variables on the target variable. Our experiments demonstrate that our model is more robust, reducing the AUROC standard deviation at longer forecasting horizons by 64% and improving performance under geographical distribution shifts by 2 points compared to the baseline. Compared with fully connected and correlation-based graphs, the causally informed graph proved to be more resilient to input perturbations. Additionally, our model revealed the lagged effect of Oceanic Climate Index variables on local fire events and the critical role of short-term local precipitation—indicating that Mediterranean fires are mostly drought-driven. • Need for models that are right for the right reasons in wildfire forecasting. • Propose a graph network that integrates causality to predict wildfires up to eight weeks ahead. • The new method is more robust under geographic shifts and perturbations. • Explainable AI reveals the lagged effect of teleconnections and the dominant role of local precipitation in driving Mediterranean wildfires.",
+      "keywords": [
+        "Artificial neural network",
+        "Graph",
+        "Geography",
+        "Computer science",
+        "Artificial intelligence",
+        "Econometrics",
+        "Mathematics",
+        "Theoretical computer science"
       ]
     },
     {
@@ -8134,6 +8314,32 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115413",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115413",
+      "title": "Making footprints move: Temporal disaggregation of building footprint data using Sentinel-2 imagery and Bayesian deep learning",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-04-10",
+      "published_date_display": "2026-04-10",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001835",
+      "abstract": "High-resolution building footprints from Overture, Google, Meta, and OpenStreetMap are essential for urban and environmental studies. However, these datasets often lack temporal metadata, limiting their utility for applications, which require spatio-temporal information, like risk assessment, population estimation, and urbanization monitoring. This study presents a novel method for temporal disaggregating static building footprints by leveraging Sentinel-2satellite imagery and a Bayesian U-Net segmentation model. The approach allows the assignment of time labels to individual building footprints and probabilistic uncertainty estimation. Beyond temporal labeling, disaggregation greatly improved label quality, boosting R2from 0.12 to 0.88 for building count and from 0.60 to 0.90 for built-up area accuracy. Overall, the method robustly generalizes, enabling flexible temporal disaggregation of high-resolution building footprints with uncertainty estimates that indicate prediction trustworthiness.",
+      "keywords": [
+        "Probabilistic logic",
+        "Deep learning",
+        "Boosting (machine learning)",
+        "Bayesian probability",
+        "Segmentation",
+        "Population",
+        "Limiting",
+        "Statistical model"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.03.027",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.027",
       "title": "Stereo 3D tracker: a novel framework for real-time 3D point tracking in fisheye stereo photogrammetry",
@@ -8371,6 +8577,42 @@
         "Carbon fibers",
         "Carbon cycle",
         "Carbon flux"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115401",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115401",
+      "title": "Total column water vapor retrievals from the Geostationary Environment Monitoring Spectrometer (GEMS)",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-04-08",
+      "published_date_display": "2026-04-08",
+      "published_parts": [
+        2026,
+        6
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001719",
+      "abstract": "",
+      "keywords": [
+        "Geostationary orbit",
+        "Column (typography)",
+        "Environmental science",
+        "Remote sensing",
+        "Spectrometer",
+        "Water vapor",
+        "Water column",
+        "Meteorology",
+        "Geology",
+        "Satellite",
+        "Computer science",
+        "Aerospace engineering",
+        "Geography",
+        "Telecommunications",
+        "Physics",
+        "Optics",
+        "Engineering",
+        "Oceanography"
       ]
     },
     {
@@ -12835,33 +13077,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0034-4257(26)00053-2",
-      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00053-2",
-      "title": "Editorial Board",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-03",
-      "published_date_display": "2026-02-03",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000532",
-      "abstract": "",
-      "keywords": [
-        "Nucleofection",
-        "Gestational period",
-        "TSG101",
-        "Dysgeusia",
-        "Liquation",
-        "Diafiltration",
-        "Emperipolesis",
-        "Triacetin",
-        "Demotion"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2617940",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2617940",
       "title": "Sounds in the city: on the utility of acoustic landmarks",
@@ -13714,231 +13929,6 @@
         "Satellite",
         "Remote sensing application",
         "Aerial survey"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115537",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115537",
-      "title": "Waveform-adaptive estimation of canopy heights using GEDI data in dense Amazonian forests",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600307X",
-      "abstract": "",
-      "keywords": [
-        "Amazonian",
-        "Canopy",
-        "Estimation",
-        "Tree canopy",
-        "Vegetation (pathology)",
-        "Calibration"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115401",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115401",
-      "title": "Total column water vapor retrievals from the Geostationary Environment Monitoring Spectrometer (GEMS)",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001719",
-      "abstract": "",
-      "keywords": [
-        "Geostationary orbit",
-        "Column (typography)",
-        "Environmental science",
-        "Remote sensing",
-        "Spectrometer",
-        "Water vapor",
-        "Water column",
-        "Meteorology",
-        "Geology",
-        "Satellite",
-        "Computer science",
-        "Aerospace engineering",
-        "Geography",
-        "Telecommunications",
-        "Physics",
-        "Optics",
-        "Engineering",
-        "Oceanography"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115413",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115413",
-      "title": "Making footprints move: Temporal disaggregation of building footprint data using Sentinel-2 imagery and Bayesian deep learning",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001835",
-      "abstract": "High-resolution building footprints from Overture, Google, Meta, and OpenStreetMap are essential for urban and environmental studies. However, these datasets often lack temporal metadata, limiting their utility for applications, which require spatio-temporal information, like risk assessment, population estimation, and urbanization monitoring. This study presents a novel method for temporal disaggregating static building footprints by leveraging Sentinel-2satellite imagery and a Bayesian U-Net segmentation model. The approach allows the assignment of time labels to individual building footprints and probabilistic uncertainty estimation. Beyond temporal labeling, disaggregation greatly improved label quality, boosting R2from 0.12 to 0.88 for building count and from 0.60 to 0.90 for built-up area accuracy. Overall, the method robustly generalizes, enabling flexible temporal disaggregation of high-resolution building footprints with uncertainty estimates that indicate prediction trustworthiness.",
-      "keywords": [
-        "Probabilistic logic",
-        "Deep learning",
-        "Boosting (machine learning)",
-        "Bayesian probability",
-        "Segmentation",
-        "Population",
-        "Limiting",
-        "Statistical model"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115485",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115485",
-      "title": "Linking solar-induced chlorophyll fluorescence to biogenic volatile organic compound emissions in low Arctic tundra: A field spectroscopy approach",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002555",
-      "abstract": "The warming Arctic is experiencing one of the largest annual Biogenic Volatile Organic Compounds (BVOC) emissions increases globally relative to the baseline of the previous decades. In particular isoprenoids are known to be driven by photosynthetic processes. Therefore, their emissions could be linked to proxies of photosynthetic activity that can be sensed remotely. In this study, we propose to explore the link between Solar-Induced Chlorophyll Fluorescence (SIF) in the O 2 -A absorption band and BVOC emission rates in a field spectroscopy framework, so as to further investigate the relationship between the reflectance properties of vegetation and emitted BVOC rates. The vegetation under examination consists of typical species found in low Arctic tundra. The workflow of analysis includes wavelength selection, feature ranking importance, and construction of Structural Equation Models in order to verify the links between the remotely sensed variables and the emission rates of various BVOC groups. The results show that SIF can be treated as an important proxy for isoprene emissions, while other spectral indices such as PRI and EVI can similarly be deployed for sesquiterpene and monoterpene emissions, respectively.",
-      "keywords": [
-        "Arctic",
-        "Arctic vegetation",
-        "Photosynthesis",
-        "Volatile organic compound",
-        "Photochemical Reflectance Index",
-        "Vegetation (pathology)",
-        "Chlorophyll a",
-        "The arctic",
-        "Photosynthetically active radiation"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115438",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115438",
-      "title": "Global annual cropland dynamics 2015–2024",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002087",
-      "abstract": "Food security worldwide is increasingly threatened by population growth, shifting diets, geopolitical conflicts, and climate change impacts. Annual operational cropland monitoring is required to support the United Nations Zero Hunger Sustainable Development Goal. Landsat satellite data provide a foundation for such global, independent, high-cadence monitoring at 30-m spatial resolution suitable for agricultural policy and management interventions, policy responses, and market adjustments. Here, we used Landsat Analysis Ready Data developed by the Global Land Analysis and Discovery Lab (GLAD-ARD) and machine learning to map global cropland extent annually from 2015 to 2024. We showed that the global cropland area increased by more than 6% over the past decade. By combining sample-based cropland area estimates from our research and the earlier analysis (2003–2019), we estimate that the global cropland area has expanded by nearly 14% since 2003. Between 2015 and 2024, Africa accounted for the largest regional increase (+24.5 Mha). At the national scale, Brazil experienced the largest gain (+16.5 Mha) and Morocco the largest loss (˗0.38 Mha). A third (33.3%) of all new cropland was established through natural vegetation clearing or irrigation expansion within natural drylands. The overall accuracies of the 2015 and 2024 cropland maps were 97.8% (Standard Error 0.3%) and 97.3% (SE 0.4%), respectively. Despite cropland expansion, population growth has outpaced cropland gains; between 2015 and 2024, per-capita cropland area declined from 0.166 to 0.161 ha per person. Our data illustrate the combined effects of changes in land use priorities, climate, water supply, international trade, and armed conflicts on global cropland extent dynamics during the last decade. • Presented global annual cropland maps with overall accuracy >97%. • Global cropland area increased by more than 6% from 2015 to 2024. • Cropland area increased by 14% over the past two decades. • Per-capita cropland area has declined by 3% from 2015 to 2024.",
-      "keywords": [
-        "Food security",
-        "Climate change",
-        "Population",
-        "Population growth",
-        "Global warming",
-        "Threatened species",
-        "Irrigation",
-        "Earth observation",
-        "Natural resource"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.018",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.018",
-      "title": "Causal Graph Neural Networks for robust wildfire forecasting across geographic shifts",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001322",
-      "abstract": "Machine learning has become a powerful tool for modeling the relationships between environmental factors and fire events. However, beyond the predictive performance, we argue that critical decision-making requires an understanding of fire mechanisms to improve reliability. Causality offers a promising framework for explicitly analyzing the interdependencies among factors; however, its integration into deep learning and further application in disaster management remain largely underexplored. To map the relationship between historical inputs and resulting burned areas, we proposed a causally informed deep learning approach using graph models. The graph representation is constructed through a learnable approach supervised by causal knowledge. A graph pooling layer, informed by backdoor adjustment criteria, mitigates the potential confounding effects of hidden variables on the target variable. Our experiments demonstrate that our model is more robust, reducing the AUROC standard deviation at longer forecasting horizons by 64% and improving performance under geographical distribution shifts by 2 points compared to the baseline. Compared with fully connected and correlation-based graphs, the causally informed graph proved to be more resilient to input perturbations. Additionally, our model revealed the lagged effect of Oceanic Climate Index variables on local fire events and the critical role of short-term local precipitation—indicating that Mediterranean fires are mostly drought-driven. • Need for models that are right for the right reasons in wildfire forecasting. • Propose a graph network that integrates causality to predict wildfires up to eight weeks ahead. • The new method is more robust under geographic shifts and perturbations. • Explainable AI reveals the lagged effect of teleconnections and the dominant role of local precipitation in driving Mediterranean wildfires.",
-      "keywords": [
-        "Artificial neural network",
-        "Graph",
-        "Geography",
-        "Computer science",
-        "Artificial intelligence",
-        "Econometrics",
-        "Mathematics",
-        "Theoretical computer science"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.019",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.019",
-      "title": "A source-free unsupervised domain adaptation framework for large-scale, in-season soybean mapping",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003254",
-      "abstract": "Reliable in-season soybean mapping remains difficult in heterogeneous and data-poor agricultural regions because phenology, management, and cloud-driven sampling differences induce substantial domain shifts, causing models trained in one region to generalize poorly to new landscapes. Since collecting dense, region-specific labels every season is often impractical, unsupervised domain adaptation (UDA) offers a practical route for adapting models using unlabeled target imagery. However, standard UDA commonly assumes access to source-domain imagery during adaptation, which increases data-sharing, storage, and computational burdens and limits scalable deployment. We propose a source-free unsupervised domain adaptation framework, Contrastive Representation Optimized Prototype Segmentation (CROPS), to deliver large-area, in-season soybean maps using only a pretrained model and unlabeled target imagery. CROPS constructs NDVI-based QualityMosaic maximum-NDVI composites that anchor each pixel to a phenology-informed high-canopy observation, mitigate cloud-related sampling noise, and reduce temporal redundancy. It then builds a crop-specific easy/hard reliability partition from the NDVI-QM target patches, combining entropy-based confidence, semantic dominance, boundary credibility, and class-balanced quotas. Reliable easy patches define target-domain semantic prototypes, whereas hard patches are incorporated later through prototype-guided alignment and teacher-confidence-modulated supervision. Across six target sites spanning the USA, China, Brazil, and Argentina, CROPS consistently outperforms other baselines and UDA methods. In end-of-season evaluation, CROPS achieves an average macro-F1 of 92.44 percent with IoU of 79.73 percent, closely matches official statistics at administrative-unit scale, and remains close to an Oracle upper bound trained with the full target reference data. In-season analyses show that CROPS advances the operational high-accuracy milestone, macro-F1 at least 0.80, by about 35 to 41 days in strongly shifted regions and remains robust under persistent cloud contamination. Additional experiments in selected three-class settings demonstrate promising within-season separation of soybean, corn, and background and improved cross-sensor transfer from Sentinel-2 to Landsat 8. Overall, CROPS provides a timely, scalable, and privacy-compatible pathway for operational crop mapping under limited labels and restricted source-data access.",
-      "keywords": [
-        "Adaptation (eye)",
-        "Scale (ratio)",
-        "Domain adaptation",
-        "Domain (mathematical analysis)",
-        "Computer science",
-        "Environmental science",
-        "Geography",
-        "Mathematics",
-        "Artificial intelligence",
-        "Cartography",
-        "Psychology",
-        "Neuroscience"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115459",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115459",
-      "title": "Assessment of EnMAP data quality through global product validation activities",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2024-01-01",
-      "published_date_display": "2024-01-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726002294",
-      "abstract": "The EnMAP (Environmental Mapping and Analysis Program) satellite, launched on 1 April 2022, is designed to provide high-resolution imaging spectroscopy data for environmental monitoring, resource management and land use mapping. The integrity and quality of the official data products are ensured by the mission's product validation activities, which are intended to assess, monitor, and report the quality of the L1B (top-of-atmosphere radiance in sensor coordinates), L1C top-of-atmosphere radiance in map coordinates), and L2A (surface reflectance in map coordinates) user products. This work presents an overview of the EnMAP product validation activities during the commissioning phase and the first part of the operational phase. Radiometric, spectral, geometric, and general uniformity aspects are evaluated with scene-based analysis methods and through comparison with ground-based reference methods. We find that EnMAP's radiometric calibration is <5%, both smile and keystone are <20% of a pixel, and the Bottom-Of-Atmosphere (BOA) reflectance and Normalized Water-Leaving reflectance are well inside the mission requirements. These results confirm that the EnMAP products fulfill the mission requirements and pave the way for the scientific exploitation of EnMAP and for the use of the EnMAP products.",
-      "keywords": [
-        "Quality (philosophy)",
-        "Product (mathematics)",
-        "Computer science",
-        "Data quality",
-        "Quality assessment",
-        "Environmental science",
-        "Reliability engineering",
-        "Engineering",
-        "Mathematics",
-        "Operations management",
-        "Evaluation methods"
       ]
     }
   ]
