@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T22:40:42.420146+00:00",
+  "generated_at": "2026-07-11T22:30:56.801970+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01896-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Flood myth",
+        "Climate change",
+        "Hazard",
+        "100-year flood",
+        "Fluvial",
+        "Current (fluid)",
+        "Flooding (psychology)",
+        "Flood risk management"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01904-w",
@@ -59,7 +68,11 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01904-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Adhesive",
+        "Component (thermodynamics)",
+        "Time–temperature superposition"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02043-9",
@@ -76,8 +89,16 @@
         10
       ],
       "link": "https://www.nature.com/articles/s41561-026-02043-9",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The Tibetan Plateau has an important role in controlling the Asian monsoon, river drainage and biodiversity patterns across Asia. The history of plateau development and its mechanistic links to underthrusting of the Indian plate beneath the Asian plate remain controversial. Here, using mid- to low-temperature thermochronological data and exhumation history modelling, we show differences in the exhumation history of Central and Western Tibet during the middle Cenozoic. Central Tibet has experienced slow exhumation from ~45 million years ago (Ma) to the present while Western Tibet underwent moderate-to-rapid exhumation between 45 and 20 Ma at a rate that exceeds the modern value by an order of magnitude. Movement on large strike-slip faults and climatic forcing can be excluded as the primary reason for the regional exhumation difference. Using bedrock cooling ages and the eruption age of (ultra)potassic lavas as proxies for early exhumation and continental underthrusting, respectively, and combining these with geophysical imaging data, we propose that the spatial differences in exhumation rates at 45–20 Ma are largely attributed to the extent of Indian continental underthrusting, with Western Tibet lying within the underthrust domain and Central Tibet lying outside it. These findings highlight continental underthrusting as a first-order control on collisional plateau development. The extent of Indian continental underthrusting beneath Western Tibet influences its moderate-to-rapid exhumation, relative to slow exhumation in Central Tibet, according to thermochronological data and exhumation history modelling.",
+      "keywords": [
+        "Plateau (mathematics)",
+        "Continental margin",
+        "Tectonics",
+        "Continental crust",
+        "Continental collision",
+        "Lithosphere",
+        "Thermochronology"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02031-z",
@@ -95,7 +116,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02031-z",
       "abstract": "Abstract The burial of organic matter in marine environments is considered the dominant long-term source of atmospheric oxygen, yet the contribution of terrestrial burial remains poorly constrained. Quantifying any oxygen surplus associated with organic matter burial conventionally assumes a 1:1 oxygen-to-carbon stoichiometry. Here we aim to test this assumption and quantify net oxygen release from a terrestrial setting over time. We applied direct redox titration to a 10,600-year Congo Basin peat core, a hotspot of carbon accumulation. We find systematic deviation from the 1:1 ratio, enabling precise, time-resolved quantification of the net redox imbalance. Fluxes were strikingly nonlinear: drier phases triggered abrupt ~80% declines in net oxygen surplus within centuries, followed by rapid recovery when wetter conditions returned, revealing a hydroclimate-sensitive carbon–oxygen valve. Cumulative Holocene oxygen surplus reached 83 [68–100] petagrams of oxygen equivalents. Using the Congo oxygen-to-carbon ratio, we estimate that global peatland net oxygen production is commensurate with continental weathering oxygen sinks in the Holocene—a flux comparable in magnitude to marine burial but responding on orders-of-magnitude-shorter timescales. This finding provides qualitative insight into the contribution of terrestrial environments to Earth’s redox balance. It also offers a direct stoichiometric framework—applicable to coal archives—for quantifying that contribution across the Phanerozoic, independent of isotopic proxies, complementing existing marine-based models.",
-      "keywords": []
+      "keywords": [
+        "Peat",
+        "Oxygen",
+        "Organic matter",
+        "Anoxic waters",
+        "Primary production",
+        "Carbon cycle",
+        "Total organic carbon",
+        "Limiting oxygen concentration",
+        "Hydrology (agriculture)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02021-1",
@@ -577,14 +608,24 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001752",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Supply chain",
+        "Procurement",
+        "Biodiversity",
+        "Sustainability",
+        "Leverage (statistics)",
+        "Quality (philosophy)",
+        "Production (economics)",
+        "Product (mathematics)",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101753",
