@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T23:37:20.159272+00:00",
+  "generated_at": "2026-07-11T23:35:45.415167+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,168 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/1365-2745.70402",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70402",
+      "title": "Extending the leaf economics spectrum: Freshwater plant communities exhibit realm‐specific leaf adaptations",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70402",
+      "abstract": "Abstract The leaf economics spectrum bridges plant demography with terrestrial biodiversity gradients, community ecology and ecosystem functions, providing a framework for the mechanisms underlying ecosystem change. However, our understanding of whether this framework applies to aquatic plant communities and how their biogeography is shaped by their unique adaptations to life in water is limited. Moreover, it remains unclear whether leaf trait expression of aquatic plants responds to changes in environmental conditions differently depending on their life form (i.e. emergent, submerged). Here, we compiled a dataset of community composition for 6953 lake and river plant communities across Europe. We appended leaf trait data and environmental data to each community. Then, we calculated the community mean traits for emergent and submerged plant communities to determine their position along the leaf economics spectrum and how they deviate from terrestrial expectations. We used Gaussian multivariate mixed linear regression models to investigate life form‐specific variation in trait‐environment relationships. We find that emergent communities exhibit trait–environment relationships comparable to terrestrial predictions, with high bicarbonate and phosphorus concentrations, and warm temperatures selecting for acquisitive leaf traits. In contrast, acquisitive submerged communities are selected for by high bicarbonate and low temperature, and not by phosphorus availability. We attribute these differences to freshwater‐specific adaptations which influence the leaf economics of submerged communities more profoundly than emergent communities, since submerged plants grow in particularly challenging conditions with respect to light and gas availability. These findings suggest that aquatic plants have adaptations to their unique environments that require trade‐offs between leaf form and function to facilitate underwater metabolism, which pushes the boundaries of the leaf economics spectrum. Synthesis . Our ability to apply existing knowledge of leaf economics based on terrestrial plants to the aquatic realm is limited, especially with respect to the influence of temperature on plant growth, which is key for predicting the impacts of climate change on vegetation globally. Our findings highlight the importance of a realm‐specific approach for linking functional traits to freshwater ecosystem functioning and biodiversity, as the distinct responses of freshwater plants to their environment are not captured by terrestrial‐derived frameworks.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70479",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70479",
+      "title": "Regulating bark beetles with mechanical bark treatments: Trade‐offs among pest control, operational efficiency and biodiversity",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70479",
+      "abstract": "Abstract Natural disturbances have increasingly shaped global forests in recent decades. Coniferous forests in the Northern Hemisphere are facing intensifying disturbance regimes, exacerbating the conflict between traditional management objectives and the role of disturbance‐driven dynamics for biodiversity conservation. In Europe, unprecedented amounts of Norway spruce ( Picea abies ) have been damaged in recent years by hot droughts accompanied by outbreaks of the European Spruce Bark Beetle ( Ips typographus ). To meet the demands of forest protection and secure timber production, P. abies trees colonized by I. typographus , or suitable for colonization due to abiotic stress, are either extracted by salvage logging or made unsuitable for breeding using debarking techniques. Manual techniques are inefficient for large quantities and the extraction of deadwood can compromise biodiversity. We investigated mechanical bark treatments as potential alternatives to salvage logging for bark beetle regulation in Central Europe. Our study quantified bark beetle regulation efficacy, operational efficiency, wood properties and effects on biodiversity of saproxylic beetles, fungi and bacteria, as well as woodpeckers. Processing Norway spruce logs three times with a harvester to remove bark substantially reduced bark beetle emergence, demonstrating a scalable method that may contribute to the management of pest outbreaks and disturbances at landscape scales. Motor‐manual bark gouging and debarking are flexible alternatives and effective methods for small wood quantities. With increasing bark removal intensity, species richness of saproxylic beetles and bacteria decreased, while fungi species richness increased. In all three groups, species assemblages were affected by bark treatments. Differences in moisture content between treated and control logs were the main driver for changes in fungi and bacteria community assemblages. Bark treatments did not affect net calorific value over the first 2 years, blue‐stain fungi colonization and elemental composition (H, C and N). Synthesis and applications . Three times harvester processing and motor‐manual bark gouging effectively reduce bark beetles, enabling two options: permanent on‐site retention for biodiversity conservation, or up to 2 years of intermediate on‐site storage with no treatment effect on blue‐stain fungi colonization or energy content, thereby buffering operational bottlenecks during landscape disturbances.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70503",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70503",
+      "title": "Hotspots of tree richness and carbon storage in existing and potential protected areas in Mexico",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70503",
+      "abstract": "Abstract Understanding the spatial relationship between biodiversity and carbon storage is essential for guiding conservation efforts to tackle jointly the biodiversity loss and climate change crises. Here, we assess tree richness and carbon storage patterns, their spatial congruence within and outside protected areas and to what extent existing protected areas safeguard tree diversity‐carbon storage hotspots. We used tree species richness and above‐ground carbon storage data derived from 234 national forest inventory plots to fit machine learning models using a set of climatic, topographic and edaphic predictors in northwestern Mexico. We then assessed the uncertainty and spatial congruence of predicted tree richness and carbon storage. Areas with high minimum temperature and evapotranspiration contain greater tree richness and carbon storage. These results suggest that changes in temperature and precipitation regimes have the potential to alter both plant diversity and carbon pools. Hotspots, where the top quintile values of tree richness and carbon storage overlap, occupy 10.2% of the study region; however, most lie beyond existing protected areas, which currently safeguard less than 0.2% of these hotspots. Synthesis and applications : We identified areas of potentially high conservation value, including prospective ecological reserves and corridors. We recommend policy makers and land managers to protect these hotspots of tree richness and carbon storage and establish connections with existing reserves to facilitate species movement and range expansion under changing climatic conditions. Biodiversity and carbon pools should be considered together for more effective spatial planning processes, especially at the regional scale, where management decisions can be more easily implemented and evaluated.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70504",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70504",
+      "title": "Do field margins matter more than floral resources? Arthropod activity and limited spillover of natural enemies from perennial flower strips into adjacent crops",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70504",
+      "abstract": "Abstract The simplification of agricultural landscapes and widespread pesticide use are major drivers of biodiversity loss, particularly affecting beneficial arthropods that provide essential ecosystem services such as pollination and natural pest control. Flower strips have emerged as a promising agri‐environmental measure to mitigate these effects by offering floral resources, shelter and overwintering habitats. However, their effectiveness depends on multiple factors, including plant species composition, strip age, cutting regime, and the dispersal of natural enemies into adjacent crops. In a three‐year field study (2022–2024) in conventionally managed agricultural fields, we examined arthropod activity in perennial flower strips, control grass strips and adjacent crops (sugar beet and cereals). In spring, arthropods were sampled to assess overwintering success; in summer, we investigated arthropod activity with a focus on natural enemies and their dispersal from field margins into adjacent crops. Overall arthropod activity did not differ consistently between flower and grass strips; though certain natural enemy groups showed a preference for flower strips. A strong edge effect was observed, with arthropod activity consistently higher within strips and declining rapidly within 5 m into the crop. Spillover of natural enemies was comparable between flower and grass strips, though activity declined more sharply from five to 50 m from the grass strip in 2023 and 2024, suggesting a more sustained activity gradient near flower strips. Some groups showed higher activity densities at 5 m distances compared to 50 m distances indicating that a spillover from the margin exists but declines rapidly. Arthropod activity peaked in 2022, reflecting inter‐annual variability. Overwintering success was comparable in flower and grass strips, and overall increased from 2023 to 2024, the second and third years since strip establishment. Synthesis and applications . Both flower and grass strips supported significantly higher arthropod activity than adjacent crop fields, underlining the general ecological value of field margins regardless of floral composition. The observed group‐specific responses emphasize the need for taxa‐specific analyses within heterogeneous functional groups, rather than relying solely on aggregated patterns. While tailored flower strips can promote specific natural enemy groups and local arthropod conservation, their contribution to biological control is conditional on pest pressure and landscape context, temporally variable, and likely most effective in low‐input or organic systems where pesticide pressure does not suppress in‐field arthropod activity.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70501",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70501",
+      "title": "A quantitative analysis to detect mass mortality events (wrecks) in Procellariiformes",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70501",
+      "abstract": "Abstract Mass mortality events (MMEs) or ‘wrecks’ represent sudden and large‐scale mortality episodes often associated with extreme environmental conditions. Despite their ecological importance, MMEs remain poorly documented in the South Atlantic, particularly for Procellariiformes, a group highly vulnerable to climate‐driven anomalies. Detecting such events in this region is challenging because baseline mortality levels are unknown, limiting the ability of monitoring programs to identify abnormal mortality episodes. We developed a quantitative framework to detect and characterize seabird MMEs by integrating time‐series decomposition, changepoint analysis and kernel density estimation. The framework was applied to 8 years (2017–2024) of standardized beach monitoring data covering approximately 3320 km of the Brazilian coastline. This approach allowed us to identify anomalous mortality peaks, estimate the temporal duration of mortality episodes and delineate their spatial extent and hotspots along the coast. We detected seven previously unreported MMEs impacting 3779 stranded Procellariiformes. Events occurred primarily during austral autumn in northeastern and during austral spring in southeastern–southern regions, revealing recurrent seasonal and spatial patterns. Cory's Shearwater Calonectris borealis , Manx Shearwater Puffinus puffinus and Atlantic Yellow‐nosed Albatross Thalassarche chlororhynchos were the most affected species, with juveniles disproportionately represented. Kernel density analysis identified recurrent hotspot regions of mortality along the Brazilian coast. We propose mortality thresholds in an early‐warning system to guide monitoring efforts during abnormal stranding events. Synthesis and applications . Our study provides the first systematic assessment of seabird mass mortality events in the South Atlantic and introduces a transferable statistical framework for detecting MMEs in other taxa and regions lacking baseline mortality information. By identifying recurrent temporal anomalies, high‐risk areas and vulnerable species, we could establish quantitative indicators of MMEs. This approach offers a practical tool for monitoring programs to improve early detection of mortality events and to implement rapid response protocols.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70997",
+      "doi_url": "https://doi.org/10.1111/gcb.70997",
+      "title": "Saline Permafrost and Cryopegs as Potentially Important Sources of <scp> CO <sub>2</sub> </scp> —Assessing Organic Carbon Mineralization Potentials on the Alaskan Coastal Plain",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70997",
+      "abstract": "ABSTRACT Thermokarst lake and drained lake basin (DLB) dynamics are intensifying across the Alaskan Arctic Coastal Plain. Thawing, drainage, and erosion expose surface and deep sediments (> 1 m) to aerobic conditions, with saline deposits being particularly vulnerable due to freeze‐point depression. As organic carbon mineralization remains poorly constrained, we determined potentials with an aerobic one‐year long incubation at 10°C in permafrost upland, lake talik, lake cryopeg, and refrozen saline DLB sediments. We linked CO 2 production to biochemical, hydrochemical, and microbial factors, and assessed carbon alteration via repeated n ‐alkane analyses. After 382 days, average CO 2 production was 7.0 ± 0.4 mg C g −1 dry weight (DW), with DLB surface peat yielding the most (40.5 ± 2.7 mg C g −1 DW), and carbon‐poor cryopeg deposits (1.4 ± 0.1 mg C g −1 DW) and refrozen saline permafrost (1.5 ± 0.02 mg C g −1 DW) the least. Total organic carbon (TOC) was the main driver of CO 2 production, while age, nitrogen content, electrical conductivity, water content, pH, and microbial abundance also correlated significantly with CO 2 production. Normalizing production to TOC contents, saline permafrost and cryopeg sediments showed similar CO 2 production to active layers, stressing the importance of potentially carbon‐rich saline deposits. TOC normalization revealed that carbon characteristics (δ 13 C, alkane content, ACL) also significantly influenced CO 2 production. The n ‐alkane based quantification of carbon alterations during the incubation further contributes to the understanding of carbon cycling at the molecular level. n ‐Alkane contents increased on average by 153% and the carbon preference index (CPI) rose from 13.2 to 15.8, likely due to newly produced alkanes, preferential degradation, and desorption processes. This indicates strong responses of the carbon pool and raises questions about the reliability of the CPI as a degradation proxy. Altogether, our study highlights the overlooked role of salinity in CO 2 production from Arctic coastal plains which could substantially shift carbon balances.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71002",
+      "doi_url": "https://doi.org/10.1111/gcb.71002",
+      "title": "Mapping Global Terrestrial Spatiotemporal Dynamics of Atmospheric <scp> CO <sub>2</sub> </scp> Carbon Isoscapes for Ecological Studies",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71002",
+      "abstract": "ABSTRACT The isotopic composition of atmospheric carbon dioxide (δ 13 C atm ) provides insights into the terrestrial carbon cycle. However, long‐term global δ 13 C atm maps with both high spatial resolution and continuous temporal coverage remain scarce. Here, we present a new global terrestrial dataset of monthly δ 13 C atm isoscapes from 2001 to 2020 at 0.05° spatial resolution, developed by integrating in situ observations with optimized 4D CO 2 concentration fields from inversion outputs, reanalysis data, and geographic information using machine learning. Among four tested models, the Gradient Boosting Machine demonstrated the highest predictive performance under random validation ( R 2 = 0.80, RMSE = 0.12‰) and maintained robust performance across three spatially independent validation frameworks ( R 2 = 0.56–0.67, RMSE = 0.16‰–0.19‰). Key predictors were air temperature and atmospheric CO 2 concentration. The resulting global terrestrial isoscapes reveal strong spatial and temporal heterogeneity. Model predictions closely align with National Oceanic and Atmospheric Administration (NOAA) marine boundary layer (MBL) observations in terms of trend magnitude, seasonal amplitude (< 0.13‰ deviation), and latitude gradient (< 0.2‰). In our study, δ 13 C atm seasonal amplitude varies from 0.06‰ in Southern Hemisphere mid‐latitudes to 0.6‰ in Northern Hemisphere high latitudes, indicating strong hemispheric asymmetry. Moreover, over 99.8% of global terrestrial grid cells show negative trends in all seasons, with a global terrestrial average annual depletion rate of −0.030‰ ± 0.0006‰ year −1 . The trend shows stronger depletion during summer and autumn, reaching its peak in August (−0.035‰ ± 0.0012‰ year −1 ), while spring and winter seasons remain comparatively stable. This study delivers a long‐term, high‐resolution global terrestrial δ 13 C atm isoscape dataset, offering a valuable tracer for carbon cycle research and, importantly, robust data support for large‐scale investigations of carbon–water coupling in terrestrial ecosystems.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70995",
+      "doi_url": "https://doi.org/10.1111/gcb.70995",
+      "title": "Climate Change Projected to Increase Rates of Background Tree Mortality Across Eastern North America",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70995",
+      "abstract": "ABSTRACT Tree mortality patterns play a central role in forest health, terrestrial carbon dynamics, and biodiversity conservation. While changes in tree mortality patterns to recent climate anomalies have been documented, the effects of climate change on ambient or “background” mortality rates in the absence of severe disturbance agents remains poorly understood. Here, we applied a machine learning approach to a large dataset of 24,576 forest permanent sample plots distributed across Canada and the United States, spanning 28.1°C in mean annual temperature and 1743.5 mm in annual precipitation, to study and predict the effects of climate on background mortality for nine of the most abundant tree species in eastern North America. We developed species‐specific climate‐mortality models while controlling for the interactive effects of stand development processes, CO 2 , and atmospheric pollutant SO 4 . We found that temperature ranked among the three strongest predictors of mortality rates and that warmer temperatures led to higher background tree mortality for most species. Furthermore, we predicted notable increases in tree mortality rates along the southern portions of species' ranges in response to future warming. On average, mortality rates are predicted to rise by 0.2%–0.7%·year −1 for five of the nine species under SSP2‐4.5 by mid‐century (2041–2070). By examining climate‐driven variation in background tree mortality at the continental scale, our study provides valuable insight on future forest dynamics under climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70999",
+      "doi_url": "https://doi.org/10.1111/gcb.70999",
+      "title": "A Simple Stomatal Model That Unifies the Metabolic and Hydraulic Control of Carbon and Water Flux",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        7,
+        11
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70999",
+      "abstract": "ABSTRACT A striking incongruity has long persisted in the modeling framework typically used to predict CO 2 and water vapor exchange between land plants and the atmosphere across scales. Generally, photosynthetic CO 2 demand is estimated using process‐based models of biochemistry, but the biophysical stomatal constraint on photosynthesis and transpiration ( g sw ) is estimated using “black box” empirical or optimization‐based models. Empirical models of g sw can only be parameterized in the domain of the training data, limiting confidence in predictions made outside that domain; optimization‐based models rely on eco‐evolutionary “goal functions” about which there remains poor consensus. To resolve this incongruity, we present a novel process‐based model for g sw with parameters that all have biophysical meaning, and of which only two require empirical fitting, thus ensuring tractability for application in land‐surface models (LSMs). The model successfully reproduces variation in g sw diurnally, globally, and in relation to soil drought and when drought and heat co‐occur. The model also has greater functionality than previous models, by predicting stomatal closure under soil drought, the effect of variations in soil‐leaf hydraulic conductance, stomatal closure in response to soil and atmospheric drought in darkness, and stomatal opening at high temperatures in both low and high light. With structure and parameters based on physiological processes, this model can translate continuing improvement in understanding of underlying biophysical and molecular genetic causes into predictions for carbon and water exchange, offering greater confidence for predicting the influence of stomata on land‐surface exchanges of mass and energy in future climates.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03125-y",
       "doi_url": "https://doi.org/10.1038/s41559-026-03125-y",
       "title": "Models used for Red List assessments underestimate climate-related extinction risk of range-shifting species",
@@ -51,7 +213,17 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03125-y",
       "abstract": "Abstract Climate change causes species redistribution and elevates extinction risk, making the early identification of vulnerable species critical for timely conservation. The International Union for Conservation of Nature Red List provides guidelines for assessing climate-related extinction risk using species distribution models and spatially explicit population models. Here we present a systematic evaluation of these guidelines based on simulations of virtual species with diverse life-history traits and range dynamics. We find that, while species distribution models provide adequate warning times for range-contracting species, they consistently underestimate extinction risk for range-shifting species. This is due to a concave relationship between population size and habitat loss, which contradicts the linear assumption in the Red List guidelines. Probabilistic extinction estimates from spatially explicit population models provide a belated warning for all species, particularly for highly threatened ones. Our results reveal key limitations of current Red List guidelines under climate change. Based on our findings, we provide tentative recommendations for updating the International Union for Conservation of Nature Red List guidelines.",
-      "keywords": []
+      "keywords": [
+        "IUCN Red List",
+        "Threatened species",
+        "Extinction (optical mineralogy)",
+        "Population",
+        "Climate change",
+        "Range (aeronautics)",
+        "Habitat",
+        "Probabilistic logic",
+        "Population viability analysis"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03121-2",
@@ -69,7 +241,42 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03121-2",
       "abstract": "Abstract Evolution over deep time is often slow relative to neutral or directional expectations. A striking example is provided by Drosophila wing shape, which shows substantial genetic variance yet comparatively little macroevolutionary change. Here, using a large-scale fitness assay, we find pervasive stabilizing selection across dimensions of Drosophila melanogaster wing shape that is proportional to standing variation, driven by variance in male fitness and probably apparent selection generated by pleiotropy. Parameterizing a macroevolutionary Ornstein–Uhlenbeck model using our selection estimate recapitulates observed among-species variance under reasonable effective population sizes, suggesting a role for apparent stabilizing selection in constraining wing shape evolution over deep time.",
-      "keywords": []
+      "keywords": [
+        "Wing",
+        "Macroevolution",
+        "Selection (genetic algorithm)",
+        "Directional selection",
+        "Stabilizing selection",
+        "Drosophila (subgenus)",
+        "Population",
+        "Drosophila melanogaster",
+        "Microevolution"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70397",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70397",
+      "title": "Geographic variation in diaspore traits and home‐site advantage in ant‐mediated dispersal",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        7,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70397",
+      "abstract": "Abstract Ant‐mediated seed dispersal (myrmecochory) is a widespread mutualism in which ants selectively transport diaspores based on their morphological and chemical traits. Although diaspore traits are proposed to reflect adaptation to local ant communities, empirical evidence linking geographic variation in these traits to dispersal outcomes remains limited. Here, we investigated population differentiation in diaspore traits and their consequences for ant‐mediated dispersal in the myrmecochorous plant Coreanomecon hylomeconoides , an endemic species of the Korean Peninsula. We assessed geographic variation in diaspore mass‐related traits and elaiosome fatty acid composition across seven natural populations. In addition, we conducted reciprocal cafeteria experiments across the habitats of these populations, in which diaspores from different source populations were simultaneously offered to ants at both home and away sites. Time to diaspore removal by ants was used as a proxy for a fitness component and was analysed using mixed‐effects Cox proportional hazards models. Diaspore traits varied significantly among populations, including traits that may influence ant‐carrying behaviour. Ant‐mediated diaspore removal depended on source population at four of the seven sites, with marginal evidence at one additional site. Among these five sites, diaspores from the local population were removed more rapidly than those from non‐local populations at three sites, consistent with a home‐site advantage, whereas such an advantage was absent at the other two sites. Mass‐related diaspore traits influenced ant removal responses, but the strength and direction of these effects differed among sites. Chemical traits related to fatty acid composition affected ant behaviour at two of the five sites included in trait‐based analyses. Synthesis . Our results demonstrate that ant‐mediated selection on diaspore traits varies geographically, possibly resulting in uneven expression of home‐site advantage across populations. This spatial heterogeneity is consistent with predictions from the geographic mosaic theory of coevolution and highlights the importance of evolutionary ecological context in shaping mutualistic interactions across a species' range.",
+      "keywords": [
+        "Diaspore (botany)",
+        "Biological dispersal",
+        "Population",
+        "Local adaptation",
+        "Seed dispersal",
+        "Seed dispersal syndrome"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70491",
@@ -87,7 +294,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70491",
       "abstract": "Abstract Coastal habitats underpin vital ecosystem services, yet urban and industrial expansion have driven widespread degradation, including extensive loss of seagrass meadows. With minimal natural recovery, effective seagrass restoration depends on targeting suitable habitats. Here, we assess a range of environmental factors to determine the drivers of habitat suitability in Cockburn Sound and Owen Anchorage, Perth, southwestern Australia, for future restoration efforts of the temperate foundational seagrass Posidonia australis . The region is a heavily industrialised port that has lost ~80% of its seagrass meadows and suffered ecosystem decline since the 1950–1960s. To test habitat suitability, 1536 P. australis sprigs were planted into twenty‐four 20.25m 2 plots across eight sites with differing environmental conditions and assessed over 18 months. Relationships between restoration success and biophysical processes from both in situ observations and modelled data (Cockburn Sound Integrated Ecosystem Model, CSIEM) were explored. Habitat suitability in the entire study area was further assessed by modelling Habitat Suitability Index (HSI) using the CSIEM output, based on established environmental requirements of the species, to identify areas with potential for future restoration. After 18 months, the average survival of P. australis transplants was 71.86%, however, this varied greatly between sites. Overall, we identified four well‐performing sites where shoot density showed a clear increase over time, three sites with moderate performance and one unsuccessful site. Many surviving transplants were producing new shoots after 6 months and, overall, leaf growth averaged 0.84 cm 2 shoot −1 day −1 . After exploring a wide range of site‐specific physical and biological traits (including sediment characteristics, light availability and hydrodynamic variables), the sites were grouped into clusters based on the environmental characteristics, showing that wave energy and turbulent oscillatory hydrodynamics are the major drivers of restoration success, followed by fouling and bioturbation. Synthesis and applications . Combining habitat suitability modelling with field‐based habitat assessment provides more precise inputs for mapping seagrass restoration suitability across regions and helps uncover the key drivers of restoration outcomes. This approach can greatly improve confidence in identifying the most suitable areas to maximise success in larger scale restoration efforts.",
-      "keywords": []
+      "keywords": [
+        "Seagrass",
+        "Habitat",
+        "Posidonia oceanica",
+        "Ecosystem",
+        "Restoration ecology",
+        "Range (aeronautics)",
+        "Biodiversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70494",
@@ -105,7 +320,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70494",
       "abstract": "Abstract Effects of tillage in arable fields on taxonomic and functional responses of beneficial above‐ and below‐ground arthropod communities are poorly understood. We assessed arthropod communities in 30 conventionally managed crop fields in south‐western Sweden before and after autumn tillage. Treatments consisted of three levels of tillage intensity: inversion tillage, reduced tillage (non‐inversion) and no tillage (direct seeding). Reduced tillage and no tillage are considered conservation tillage practices. All fields were sown with winter cereals in autumn 2019, followed by winter oilseed rape sown in late summer 2020. Tillage occurred between cereal harvest and the sowing of winter oilseed rape. We measured soil mesofauna density, and density, taxonomic, compositional and functional diversity of ground‐dwelling predators. Inversion tillage decreased densities of above‐ and below‐ground beneficial arthropods. Conservation tillage resulted in higher species richness and lower community turnover following disturbance. Community compositional shifts following inversion tillage were characterised by lower community weighted mean (CWM) body size and reduced densities of carabids overwintering as imago in autumn, and higher spider CWM body size in spring, compared with conservation tillage treatments. Inversion tillage reduced spider density and richness throughout the following growing season, while soil mesofauna densities, carabid taxonomic diversity and functional composition recovered by spring. Synthesis and applications : Responses to tillage were taxon‐specific and likely depended on life‐stage and the dependency on structural habitat complexity. Management should balance trade‐offs between retaining local communities, meeting the needs of multiple taxa, and accounting for taxonomic and functional richness over time.",
-      "keywords": []
+      "keywords": [
+        "Tillage",
+        "Overwintering",
+        "Species richness",
+        "Mulch-till",
+        "Conventional tillage",
+        "Soil mesofauna",
+        "Growing season",
+        "Minimum tillage"
+      ]
     },
     {
       "doi": "10.1111/gcb.70981",
@@ -123,6 +347,59 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70981",
       "abstract": "ABSTRACT Many ecosystems worldwide are experiencing chronic anthropogenic nutrient enrichment, which often increases plant productivity while reducing species richness. Although nutrient inputs are now declining in some regions, the potential benefits of this reduction depend on the reversibility of enrichment impacts. In turn, ecosystem recovery can be determined by the enrichment history, that is, the rate and duration of nutrient enrichment. Here, we quantify how nutrient enrichment history shapes community recovery dynamics using a four‐decade grassland experiment that examines the joint effects of nutrient enrichment rate and duration with: (1) three durations of nutrient enrichment and recovery: one decade of enrichment followed by three decades of recovery, three decades of enrichment followed by one decade of recovery, or continuous enrichment for four decades; and (2) nutrient enrichment at a gradient of rates ranging from atmospheric deposition to agricultural fertilization. Our results showed nutrient enrichment increased plant biomass and reduced species richness, with higher nutrient addition rates leading to more rapid and sustained species loss and biomass increase, even over short enrichment periods. We assessed recovery dynamics following cessation as increases in species richness and declines in community biomass relative to control conditions, because of the tight coupling between richness and biomass in many communities. We found that the reversibility of enrichment effects depended on enrichment duration, with prolonged enrichment slowing recovery of both species richness and biomass, especially at high enrichment rates. However, biomass recovered more rapidly than species richness following cessation. These findings highlight that recovery trajectories of biodiversity and ecosystem functioning depend jointly on enrichment rate and duration, underscoring the need for restoration strategies that account for nutrient legacies and their determinants.",
+      "keywords": [
+        "Nutrient",
+        "Species richness",
+        "Ecosystem",
+        "Biomass (ecology)",
+        "Biodiversity",
+        "Productivity",
+        "Nutrient cycle"
+      ]
+    },
+    {
+      "doi": "10.1111/ele.70426",
+      "doi_url": "https://doi.org/10.1111/ele.70426",
+      "title": "Biological Sex Is Binary and Rooted in Anisogamy",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        7,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70426",
+      "abstract": "ABSTRACT The definition of biological sex has become a renewed focus of societal debate, fuelled by the conflation of biological principles with discussions of human gender diversity. Here, we argue that conceptual clarity critically depends on separating these domains. Drawing on evolutionary theory and empirical evidence, we maintain that biological sex is best defined as a binary classification of male and female reproductive strategies rooted in anisogamy, characterised by the production of two discrete gamete types of different sizes. We stress that gamete size constitutes the ultimate criterion for biological sex and that this definition applies consistently across sexual systems, from separate‐sexed species to hermaphrodites, irrespective of variation in karyotype, hormonal profile, somatic phenotype, or behaviour. Further, we emphasise that evolutionary insights offer a coherent explanation for recurring, though not universal, associations between biological sex and patterns of sex‐specific selection, sexual dimorphism and parental care. We conclude that the definition of biological sex as a binary classification based on gamete size is a powerful scientific framework compatible with the diversity of sexual phenotypes found in anisogamous organisms and distinct from the concept of human gender.",
+      "keywords": [
+        "Conflation",
+        "Sexual dimorphism",
+        "Gamete",
+        "Evolution of sexual reproduction",
+        "Biological sex",
+        "Variation (astronomy)",
+        "Sexual selection",
+        "Diversity (politics)"
+      ]
+    },
+    {
+      "doi": "10.1111/ele.70439",
+      "doi_url": "https://doi.org/10.1111/ele.70439",
+      "title": "Alternative Viewpoints on Biological Sex",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        7,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70439",
+      "abstract": "",
       "keywords": []
     },
     {
@@ -162,7 +439,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70478",
       "abstract": "Abstract Robust study designs are essential for estimating the effects of conservation actions, but a range of evaluation designs are used that differ markedly in their robustness to bias. However, it is unclear whether robust designs are becoming more frequently used or how usage varies across subject areas and geographies. We analysed 7356 English and 1183 non‐English language primary studies that tested the effects of conservation actions from the Conservation Evidence database. We classified each study's methodological design to one of five broad types (After, Before–After [BA], Control–Impact [CI], Before–After–Control–Impact [BACI] and randomised experiments) and fitted a Bayesian multinomial logistic regression, with study‐level random effects, to test how design usage varies by year, national income, biodiversity intactness, language and subject area. The evidence base has shifted gradually from dominance by simple After designs (1970–2023: 74% to 33%) towards greater use of CI (15% to 39%) and more robust designs: randomised experiments (0% to 15%) and BACI (1% to 6%). Design use was uneven across subjects, with randomised experiments more common in habitat and soil‐focused topics (e.g. farmland), and After or BA designs more common in animal‐focused topics (e.g. birds and reptiles). Studies in non‐English languages and lower‐income countries were more likely to use After and BA designs and less likely to use randomised experiments and CI designs. Geographical coverage of robust designs was limited: randomised experiments and BACI studies occurred in few countries, and many biodiverse and environmentally degraded countries had few or no evaluations using any design. Despite modest improvements over time, several structural and contextual constraints (linked to subject, language and resources) continue to shape where rigorous evaluation is feasible. Synthesis and applications : Conservation is shifting towards using more robust designs to evaluate actions, but these remain rare. We suggest embedding study design choice more strategically within adaptive management and evidence‐based conservation practice, encouraging cost‐efficient, context‐dependent upgrades to more robust designs. This will require targeted capacity building, researcher–practitioner partnerships and longer‐term funding—especially in biodiverse, lower‐income countries with few studies of any design, let alone more robust ones.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Robustness (evolution)",
+        "Spatial design",
+        "Dominance (genetics)",
+        "Multinomial logistic regression",
+        "Habitat",
+        "Range (aeronautics)",
+        "Ranking (information retrieval)",
+        "Bayesian probability"
+      ]
     },
     {
       "doi": "10.1111/gcb.70985",
@@ -208,7 +495,14 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70403",
       "abstract": "ABSTRACT Habitat selection analyses, which discern the environmental conditions individuals select, often inform conservation planning. Through a literature review, we demonstrate that recent habitat selection studies rarely include fitness and health information. With a simulation study, we show that ignoring such information could support the protection of sink habitats. Our case studies demonstrate how health and fitness proxies can modify our understanding of habitat selection: (1) incorporating mass gain of thick‐billed murres shows the energetic benefit of areas deemed secondary by a naive resource selection function; (2) including number of chicks in a step selection function (SSF) exposes the complex relationships glaucous‐winged gulls have with landscapes impacted by humans; and (3) including external signs of trauma in the movement kernel of SSFs demonstrates other ways in which narwhal distribution can be altered. We urge movement ecologists to collect and use health and fitness data to improve ecological inference and conservation action.",
-      "keywords": []
+      "keywords": [
+        "Habitat",
+        "Selection (genetic algorithm)",
+        "Resource (disambiguation)",
+        "Inference",
+        "Natural selection",
+        "Function (biology)"
+      ]
     },
     {
       "doi": "10.1086/743066",
@@ -1223,7 +1517,23 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70477",
       "abstract": "Abstract Although habitat heterogeneity is known to enhance local species diversity, the effects of management‐driven structural heterogeneity on understorey plant communities across spatial scales remain poorly understood, despite their crucial role for forest biodiversity and ecosystem functioning. To analyse how forest understorey plant communities respond to an enhancement of structural heterogeneity in managed forests, we established 11 experimental sites consisting of two paired forest landscapes, an untreated homogenous control and a treatment district (ESBC, Enhancement of Structural Beta‐Complexity). In treatment districts, structural heterogeneity was enhanced through different combinations of local patch‐scale manipulations of light and deadwood features, leading to greater between‐patch heterogeneity at the landscape scale. We performed a meta‐analysis across these 11 sites using a Hill‐Chao number and sample coverage standardisation framework. Gamma diversity increased across taxonomic, functional and phylogenetic facets in structurally heterogeneous forests (ESBC districts) via higher alpha diversity. This effect was positively associated with heterogeneity in light availability between forest patches, but not with their mean light availability. In contrast, we found no evidence supporting that species turnover among patches (i.e. beta diversity) significantly contributes on average to the observed increase in gamma diversity. However, both the direction and magnitude of beta diversity responses varied substantially among study sites. On average, structurally heterogeneous forests supported higher species richness for both open and closed forest habitat species. Synthesis and applications . Our findings highlight the benefits of enhancing structural heterogeneity for understorey plant diversity in managed forest landscapes. Specifically, management strategies that create a spatial mosaic of interventions, such as combining single‐tree removal with gap felling, can increase the variety of light niches among forest patches, thereby supporting the conservation of a wide range of understorey plant species, including forest specialists.",
-      "keywords": []
+      "keywords": [
+        "Understory",
+        "Beta diversity",
+        "Gamma diversity",
+        "BETA (programming language)",
+        "Diversity (politics)",
+        "Plant community",
+        "Geography",
+        "Forestry",
+        "Ecology",
+        "Biodiversity",
+        "Biology",
+        "Political science",
+        "Ecological succession",
+        "Canopy",
+        "Computer science"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70496",
@@ -1864,7 +2174,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70414",
       "abstract": "ABSTRACT Animal movement and habitat selection underpin important ecological phenomena, from individual behaviour to population‐level distributions. Despite navigating three‐dimensional space, animals' movement is typically measured and analysed on a two‐dimensional plane, which limits our understanding of species that swim or fly. Therefore, we propose a step selection function (SSF) capable of quantifying animal movement and habitat selection in three dimensions. We formulate a very general family of three‐dimensional correlated random walks, aimed at capturing unique features of three‐dimensional data. Using Antarctic petrel data, we illustrate how these SSFs can be used to assess selection for vertically‐stratified habitat, account for barriers (e.g., the ground or ocean surface), and model attraction to any number of directional targets. Our modelling framework provides a solid foundation for three‐dimensional analyses, which will be crucial to answer ecological questions that would otherwise be ignored in two dimensions.",
-      "keywords": []
+      "keywords": [
+        "Selection (genetic algorithm)",
+        "Habitat",
+        "Movement (music)",
+        "Function (biology)",
+        "Random walk",
+        "Attraction",
+        "Foundation (evidence)"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03126-x",
@@ -2772,7 +3090,23 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70424",
       "abstract": "ABSTRACT Community disassembly examines how species extinction alters ecological communities. Sometimes, the extinction of one species can trigger the loss of others, known as secondary extinction. These secondary extinctions often result from complex species interactions, complicating the identification of underlying mechanisms. Here, we leverage Modern Coexistence Theory to identify when and why secondary extinctions occur. To identify when secondary extinctions occur, we introduce the community disassembly graph that uses invasion growth rates (IGRs) to identify transitions between coexisting communities due to extinction. When a secondary extinction is identified, we decompose the IGRs associated with the secondary extinction to understand why it occurs. We demonstrate the utility of this framework by applying it to models in which different species interactions–competition, facilitation and predation–contribute significantly to secondary extinctions. Our results show that Modern Coexistence Theory offers a flexible and interpretable approach to understanding when and why secondary extinctions occur.",
-      "keywords": []
+      "keywords": [
+        "Extinction (optical mineralogy)",
+        "Ecology",
+        "Facilitation",
+        "Leverage (statistics)",
+        "Extinction debt",
+        "Competition (biology)",
+        "Extinction event",
+        "Biology",
+        "Biodiversity",
+        "Computer science",
+        "Population",
+        "Habitat destruction",
+        "Sociology",
+        "Biological dispersal",
+        "Paleontology"
+      ]
     },
     {
       "doi": "10.1111/ele.70433",
@@ -2790,7 +3124,14 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70433",
       "abstract": "ABSTRACT Symbiotic relationships between microbes and hosts frequently involve the assembly of complex microbial communities. Community‐level patterns influence life‐history traits, ecological trajectories of partners, and are often critical for host health. These patterns are driven by mechanisms acting at the individual level, including microbial dispersal, host selection, and microbe–resource interactions. Critically, we still lack a clear picture of how these mechanisms interact to shape microbiome assembly. We present a model that describes how distinct community structures arise from those underlying mechanisms. To illustrate the approach, we simulate microbiome data from marine sponges, thereby bridging mechanistic models and empirical patterns. We further apply the model to human data to explore its relevance across systems, proposing that a small set of general mechanisms may govern diverse patterns of diversity and abundance. Our findings advance ecological theory by linking individual‐level processes to community‐scale patterns, illuminating key drivers of microbiome assembly.",
-      "keywords": []
+      "keywords": [
+        "Microbiome",
+        "Key (lock)",
+        "Human microbiome",
+        "Bridging (networking)",
+        "Relevance (law)",
+        "Set (abstract data type)"
+      ]
     },
     {
       "doi": "10.1111/ele.70437",
@@ -3837,7 +4178,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70460",
       "abstract": "Abstract Pesticides are a primary tool for the control of harmful insects or other organisms throughout the world. Although most organisms are likely to encounter pesticides in the environment, little is known about the effects of these chemicals on the physiology of off‐target species. We measured the impact of sublethal pesticide exposure on cold tolerance of two common tick species. We predicted that exposure to sublethal pesticides would make ticks more sensitive to extreme temperatures and investigated the population‐level impacts by incorporating physiological survival data into spatially explicit species distribution models (SDMs). We found that exposure to sublethal pesticides increased survival at acute low temperatures, shifting the LT50 (lethal temperature at which 50% mortality is observed) of adult and nymphal D. variabilis from −16 to −19°C. During overwintering, significantly more ticks survived following sublethal pesticide exposure. Comparative analysis of previously published RNA‐seq studies examining rapid cold hardening and pesticide exposure indicated potential transcriptional shifts associated with cross‐tolerance between cold and pesticide exposure. Lastly, we demonstrate that pesticide‐induced increases in cold tolerance may allow faster northward range shifts of D. variabilis . We also demonstrate that incorporating physiological data into SDMs moderates the estimated impacts of environmental change and may provide more accurate predictions of species responses to changing environments. Synthesis and applications . The extensive use of pesticides may drive complex interactions between species and their environments, leading to altered thermal tolerance traits and establishment in new habitats. Sublethal doses of pesticides may impact tick cold tolerance and lead to greater winter survival, particularly at northern range limits. To mitigate the risk of ticks persisting in previously unsuitable cold regions, we recommend adoption of integrative pest management approaches and reducing the use of pesticides. Importantly, our study assumed static pesticide usage over time, but reports suggest that pesticide usage is increasing. Limiting the use of pesticides and adopting integrative pest management approaches could mitigate pesticide‐induced increases in tick survival associated with cold exposure.",
-      "keywords": []
+      "keywords": [
+        "Overwintering",
+        "Range (aeronautics)",
+        "Biology",
+        "Cold tolerance",
+        "Toxicology",
+        "Environmental science",
+        "Ecology",
+        "Engineering",
+        "Botany"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70431",
@@ -4235,7 +4586,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70970",
       "abstract": "ABSTRACT Recent studies have shown that a few tree species dominate abundance and carbon storage in undisturbed Amazonian forests. However, this pattern remains poorly understood in forests regrowing after deforestation. Understanding dominance patterns in secondary forests is important as it could improve insights into their functioning and guide management and restoration efforts. We used unweighted and novel plot‐weighted approaches to assess hyperdominance in abundance and carbon storage of trees and palms during secondary forest recovery, using data from 102 plots across four regions in the eastern Amazon, separated by an average distance of 600 km (range: 150–1000 km). Secondary forests show high levels of hyperdominance in all approaches, with just 15–25 species (3%–6%) accounting for over 50% of abundance and carbon storage. A small subset of species (~9%) were found across all regions and successional stages, highlighting their key role in ecosystem structure and function during forest regrowth. Annona exsucca , Cecropia palmata , Tapirira guianensis , and Inga alba formed a consistent core of hyperdominant species across stem size classes, metrics, and approaches, jointly accounting for roughly 16%–27% of total abundance and carbon storage. For larger stems ≥ 10 cm DBH, hyperdominant species exhibited lower wood density compared to non‐hyperdominant species across all successional stages, suggesting these specialist pioneers have distinct ecological strategies from the rest of the community. Our findings indicate that secondary forest functioning may be largely predicted by a relatively limited set of species, providing a framework for future research ranging from ecophysiology to remote sensing of canopy traits and restoration planning.",
-      "keywords": []
+      "keywords": [
+        "Abundance (ecology)",
+        "Amazonian",
+        "Dominance (genetics)",
+        "Secondary forest",
+        "Forest ecology",
+        "Ecosystem",
+        "Forest management",
+        "Species richness"
+      ]
     },
     {
       "doi": "10.1086/742679",
@@ -4761,7 +5121,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70395",
       "abstract": "ABSTRACT Understanding the effects of climate change on ecological communities has been limited by a lack of general theory for how temperature affects competition. To fill this knowledge gap, we integrated Modern Coexistence Theory and the Metabolic Theory of Ecology by incorporating empirically derived temperature sensitivities into Modern Coexistence Theory's central model. We then simulated warming in consumer‐resource systems and found that warming reduced both niche and fitness differences, making species more ecologically similar and competitive interactions more neutral. The greatest shifts in competition occurred when temperature sensitivities among species were highly asymmetrical. Effects of warming on competition via niche differences were comparable to those on fitness differences, suggesting that the emphasis on vital rates in global change research may overlook key biodiversity drivers. This general theory expands the domains of two prominent ecological theories and provides predictions for how warming may alter competition even in benign regions of species' thermal niches.",
-      "keywords": []
+      "keywords": [
+        "Competition (biology)",
+        "Global warming",
+        "Climate change",
+        "Coexistence theory",
+        "Biodiversity",
+        "Niche",
+        "Storage effect",
+        "General theory"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03094-2",
@@ -4893,7 +5262,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70439",
       "abstract": "Abstract Beavers have been promoted as a cost‐effective nature‐based solution to restore degraded stream ecosystems and enhance overall biodiversity. However, the extent to which beaver‐engineering boosts biodiversity in human‐impacted landscapes remains poorly understood. We assessed the responses of aquatic and terrestrial taxa (amphibians, damselflies and dragonflies, fish and crayfish, macrophytes, phytoplankton and zooplankton, terrestrial vascular plants, bats, aquatic invertebrates, flying and terrestrial invertebrates) to beaver‐engineering along a gradient of human land‐use intensity in Switzerland. In 16 streams, we measured species richness, abundance, unique species richness, evenness, beta diversity and gamma species richness in beaver‐engineered sites with beaver dams and corresponding control sites without beaver activity. Especially aquatic and semi‐aquatic taxa profited from beaver‐engineering. Amphibians, dragonflies, macrophytes and plankton had higher species richness, abundance and unique species richness with beaver‐engineering, while fishes and terrestrial plants only had higher species richness and unique species richness, but not abundance. Bats only increased in unique species richness, while for the other terrestrial taxa and aquatic invertebrates, we found no difference between beaver‐engineered and control sites. Community evenness remained largely unaffected across all taxa. Overall, beaver‐engineering with beaver dams increased biodiversity across a land‐use gradient. For macrophytes and amphibians (species richness, unique species richness, abundance) as well for dragonflies (species richness, unique species richness), increases were smaller under higher land‐use intensity. For the remaining taxa and metrics, we found no relationship between land‐use intensity and responses to beaver‐engineering. However, for beta diversity, we found that sites with a high land‐use intensity had a lower component of nestedness and stronger community turnover in comparison to more natural sites, with a significant effect for macrophytes. Gamma species richness was generally unaffected by land‐use intensity, except for amphibians, which disappeared from beaver‐engineered sites in high land‐use intensity landscapes despite being largely restricted to beaver‐engineered sites overall. Synthesis and applications . Our findings show that beaver‐engineering significantly enhances local biodiversity across aquatic and terrestrial ecosystems, even at sites with high land‐use intensity. Hence, beavers can effectively restore stream biodiversity across a range of urban to agricultural to natural ecosystems. Integrating beaver‐engineering into river restoration strategies could substantially contribute to biodiversity goals under frameworks such as the EU Water Framework Directive and national conservation policies.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Biodiversity",
+        "Beaver",
+        "Nestedness",
+        "Species diversity",
+        "Abundance (ecology)",
+        "Terrestrial ecosystem",
+        "Species evenness",
+        "Ecosystem engineer",
+        "Beta diversity"
+      ]
     },
     {
       "doi": "10.1111/gcb.70957",
@@ -7786,7 +8166,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70396",
       "abstract": "ABSTRACT Reciprocal effects between plants and soil have been proposed as mechanisms that promote coexistence. However, recent theoretical and empirical works have questioned their role in stabilizing coexistence within multispecies communities. In these systems, soil‐mediated indirect interactions may play a pivotal but often overlooked role. We investigate these indirect interactions using an experimental system of two competing shrub species grown in soil conditioned by a mediating third tree species. Tree‐induced shifts in soil microbial communities, metabolites and nutrients boost growth in the weak competitor species while reducing germination in the dominant competitor. Simulations demonstrate that these shifts in plant performance are sufficient to stabilize coexistence, producing simulated spatial distributions consistent with those observed in natural communities. Our findings underscore the role of soil effects in driving indirect interactions that sustain coexistence in diverse plant communities, highlighting the importance of indirect but also positive and negative multitrophic interactions in maintaining biodiversity.",
-      "keywords": []
+      "keywords": [
+        "Indirect effect",
+        "Shrub",
+        "Alternative stable state",
+        "Ecosystem",
+        "Soil nutrients",
+        "Plant community",
+        "Negative feedback"
+      ]
     },
     {
       "doi": "10.1111/gcb.70924",
@@ -10243,7 +10631,14 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70388",
       "abstract": "ABSTRACT Biological community dynamics arise from both deterministic and stochastic processes. While species' responses to environmental factors define attractors of community structure, stochasticity, particularly during early assembly, can redirect ecological trajectories. However, quantifying such roles of stochasticity in community assembly has remained challenging. We tracked community assembly in two multi‐replicated experimental systems, each with four levels of founding community size, analysing > 3000 samples across four time points. Stronger initial stochasticity led to greater divergence of both population‐ and community‐level consequences. Strikingly, conspicuous differentiation into alternative trajectories of community assembly occurred when the absolute number of founding prokaryotic cells was less than the order of 10 4 . Thus, quantitative differences in stochasticity produced qualitative differences in community fate. These results demonstrate that early stochastic events can have enduring impacts on ecological dynamics. Deeper quantitative insights into stochasticity will reorganise our views on biological invasions, agroecosystem microbiome management, and therapeutics of human‐associated microbiomes.",
-      "keywords": []
+      "keywords": [
+        "Microbial population biology",
+        "Ecology",
+        "Economic geography",
+        "Geography",
+        "Biology",
+        "Bacteria"
+      ]
     },
     {
       "doi": "10.1111/ele.70390",
@@ -11334,7 +11729,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70324",
       "abstract": "Abstract Reconstructing masting, the synchronized large interannual variations in seed production by plant populations, is key to assessing tree species response to past climate variability and provides a baseline for predicting forest ecosystem fecundity under ongoing global warming. Since masting is tightly linked to growth through shifts in resource allocation, previous reconstruction attempts relied on tree‐ring width as a proxy of reproductive investment. However, this approach shows limitations, as narrow rings do not exclusively originate after masting events but may also result from periods of drought or high temperature (temperature anomalies) and other biotic or abiotic factors reducing radial growth. To disentangle the effect of masting events and temperature anomalies on wood anatomy, we investigated a wide range of wood anatomical traits along with tree‐ring width, using time series (1970–2021) from beech increment cores sampled in northeastern Germany. We used multivariate regression to capture traits affected by masting events and developed a random forest model to evaluate the predictive power of these traits compared with tree ring width alone. Results suggested that mesic site conditions prevented temperature anomalies from emerging as a major confounding factor for tree‐ring width, which was significantly reduced only after masting events. However, quantitative wood anatomy showed concurrent anatomical signals associated with both extreme temperatures and masting. Following masting events, the anatomical response revealed a complex mechanism of carbon reallocation towards reproductive effort, while reflecting a compensatory strategy to maintain hydraulic function under resource‐constrained conditions. Estimates of hydraulic conductivity, anatomical wood density, and lignin content emerged as key predictors of masting events, matching tree‐ring width alone in capturing the reproductive signal. Synthesis . Understanding past tree reproduction is critical for predicting future forest dynamics in response to climate change, but existing methods struggle to distinguish reproductive signals from other growth‐limiting factors. Our findings establish a novel link between wood anatomy and masting events beyond ring width alone, demonstrating that quantitative wood anatomical traits offer a more accurate and ecologically relevant approach for reconstructing past masting dynamics.",
-      "keywords": []
+      "keywords": [
+        "Beech",
+        "Signature (topology)",
+        "Reproduction",
+        "Biology",
+        "Geography",
+        "Ecology",
+        "Mathematics",
+        "Geometry"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70326",
@@ -11568,7 +11972,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70379",
       "abstract": "Abstract Biological invasions have become a major threat to all agro‐ecosystems and to estimate the bottom‐up and top‐down forces controlling invasive insects stands as a key challenge to lessen their burden on crops, forestry and biodiversity. We combined ecological, metabarcoding and population genomics analyses with an integrative modelling of the invasion of the global insect pest Dryocosmus kuriphilus to identify its control by chestnut tree resources, natural enemies and its control agent, Torymus sinensis , in the Eastern Pyrenees. The bottom‐up factors, that is host tree frequency and genetic variations associated with a plant hypersensitive response, had effects 4–10 times greater than the native hyperparasite community on D. kuriphilus invasion potential ( R 0 ). The >90% field rates of hyperparasitism by T. sinensis and the associated 80% reduction in D. kuriphilus infestation are likely to be deceptive as our modelling predicts their long‐term coexistence with periodic re‐emergences. Policy implications. We conclude that bottom‐up factors predominantly regulate D. kuriphilus's invasion while natural enemies exert a limited control. The predicted coexistence and ‘co‐invasion’ of D. kuriphilus and the introduced T. sinensis calls for a thorough assessment of the impact of these global pest and control agent on natural chestnut trees and native parasitoid communities.",
-      "keywords": []
+      "keywords": [
+        "Ecology",
+        "Tree (set theory)",
+        "Biology",
+        "PEST analysis",
+        "Genomics",
+        "Pest control",
+        "Botany",
+        "Genome"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70386",
@@ -11586,7 +11999,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70386",
       "abstract": "Abstract Accurately estimating the likelihood of occurrence of threatened species is essential for effective impact assessments at development sites. Current survey guidelines often rely on coarse, static species distribution maps, risking misalignment for migratory birds present only seasonally. We evaluated 70 wind farms in eastern Australia to assess the alignment between survey timing and seasonal occurrence of four migratory species. Using eBird‐based relative abundance models, we classified recommended and actual survey periods as optimal, suboptimal or poorly timed. Approximately half of all surveys were not optimal, and one fifth missed the species' potential temporal window of presence altogether. Field detections mostly occurred within modelled optimal or suboptimal windows, validating the effectiveness of our modelling approach for identifying suitable survey timing. Likelihood of occurrence conclusions presented in the reviewed impact assessments were significantly lower at sites with suboptimal or poorly timed surveys compared to those with optimal timing, suggesting that poor survey timing can lead to systematic underestimation of species presence. Synthesis and applications : Current guidance and approaches to surveying migratory birds at windfarm developments in Australia are insufficient. Evidence‐based alignment with seasonal presence is needed to improve biodiversity assessment standards, ensuring renewable energy expansion proceeds in a way that better safeguards migratory species and supports global biodiversity and sustainability goals.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Wind power",
+        "Lead (geology)",
+        "Abundance (ecology)",
+        "Threatened species",
+        "Current (fluid)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70389",
@@ -13310,7 +13730,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70378",
       "abstract": "ABSTRACT Cooperation in public goods is expected to evolve more rapidly in smaller groups than in larger groups because individuals receive a larger share of the benefits, reducing the benefits of freeloading. However, experimental evidence for this hypothesis remains limited to microorganisms, restricting our understanding of the evolution of cooperative traits. Here, we show that in the collectively defending larvae of Neodiprion sertifer , survival against predation is higher in cooperative groups, with benefits of cooperation more pronounced in small groups (5 larvae) than in large groups (20 larvae). Individuals also participate less in collective defence in larger groups, not because of higher life‐history costs resulting from increased resource competition but because they adjust their contribution according to group size. These results provide novel empirical evidence that selection for cooperation in collective goods is group size‐dependent, promoting cooperation in smaller groups, whereas the relative fitness of freeloaders is higher in larger groups.",
-      "keywords": []
+      "keywords": [
+        "Selection (genetic algorithm)",
+        "Group selection",
+        "Group (periodic table)",
+        "Psychology",
+        "Biochemical engineering",
+        "Chemistry",
+        "Computer science",
+        "Engineering",
+        "Artificial intelligence"
+      ]
     },
     {
       "doi": "10.1111/ele.70384",
@@ -13558,7 +13988,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70858",
       "abstract": "ABSTRACT Successful animal migration hinges on navigation and decision‐making in dynamic environments. Yet, how individuals navigate transient, fine‐scale landscape barriers, such as seasonally ice‐covered water bodies, remains poorly understood. Understanding these responses is critical for forecasting migration routes and connectivity under global change. In the Arctic, rising temperatures are causing earlier ice melt and later freeze‐up, reshaping landscape permeability and potentially disrupting migration routes for overland migrants, such as barren‐ground caribou ( Rangifer tarandus ), a keystone Arctic species, which relies on frozen lakes and rivers for efficient spring travel to calving grounds. While caribou generally prefer ice to open water, behavioral responses to changing ice conditions have not been quantitatively assessed. We analyzed 20 years (2001–2021) of GPS data for 406 adult caribou and daily MODIS land surface albedo to examine lake‐crossing decisions at Contwoyto Lake, a long (> 100 km) glacial lake in northern Canada. We classified transit events as crossing or circumnavigation based on GPS trajectories relative to lake boundaries and linked behavioral decisions to spatially and temporally resolved ice conditions. Our models revealed distinct seasonal drivers. Spring crossing decisions were shaped by intermediate‐scale ice conditions, with a behavioral threshold at a path‐averaged annual albedo percentile rank of 0.56, corresponding to intermediate late‐spring melt conditions when lake ice transitions from continuous cover toward fragmented surfaces. In fall, when the lake was ice‐free, movement‐related factors such as relative speeds along alternative routes better explained behavior. Our findings show how ice acts as a seasonal behavior filter, shaping functional connectivity through perceptual and energetic constraints. Although developed for caribou, this framework is transferable across species and systems. By linking high‐resolution, spatiotemporal remote sensing to individual behavior, our framework identifies quantitative behavioral thresholds in response to dynamic, climate‐sensitive landscape features, supporting predictive monitoring of climate‐driven shifts in migratory behavior and emerging constraints on movement.",
-      "keywords": []
+      "keywords": [
+        "Arctic",
+        "Ice-albedo feedback",
+        "Arctic ice pack",
+        "Thermokarst",
+        "Climate change",
+        "Cryosphere",
+        "Spring (device)",
+        "Sea ice"
+      ]
     },
     {
       "doi": "10.1111/gcb.70849",
@@ -13983,7 +14422,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70355",
       "abstract": "Abstract Kelp forest degradation is accelerating globally due to marine heatwaves, climate stressors, and persistent overgrazing by sea urchins, creating an urgent need for restoration strategies that rebuild ecosystem function. Yet, how restored kelp subsidies translate into improved food quality and consumer condition, core indicators of trophic recovery, remains poorly quantified. We combined fatty acid biomarkers with a Before–After–Control–Impact Paired Series (BACIPS) experiment to evaluate how targeted urchin removals in Haida Gwaii, British Columbia, altered the nutritional landscape for two ecologically and culturally important grazers: red sea urchins ( Mesocentrotus franciscanus ) and northern abalone ( Haliotis kamtschatkana ). One year after restoration, bull kelp ( Nereocystis luetkeana ) increased ~67‐fold in shallow strata, while deep kelp biomass rose from 0 to 9.08 stipes/60 m 2 (±4.52 SE), coinciding with marked increases in kelp‐associated fatty acids and improved gonad mass in urchins. In abalone, fatty acid profiles revealed a size‐dependent dietary shift in which larger individuals assimilated more kelp, and levels of essential fatty acids increased across both species following kelp recovery. These results provide depth‐resolved, field‐based evidence that kelp restoration enhances food quality and consumer condition in degraded habitats. Synthesis and applications . Fatty acid biomarkers offer a scalable tool for detecting early trophic recovery, identifying high‐leverage depth strata for intervention, and evaluating whether restoration actions are rebuilding the ecosystem functions and fisheries‐relevant nutritional pathways that support resilient kelp forest ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Trophic level",
+        "Ecology",
+        "Restoration ecology",
+        "Environmental science",
+        "Environmental resource management",
+        "Geography",
+        "Biology"
+      ]
     },
     {
       "doi": "10.1111/gcb.70838",
@@ -16285,35 +16732,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70790",
-      "doi_url": "https://doi.org/10.1111/gcb.70790",
-      "title": "Changing Rainfall Drives Locally Asynchronous Reproduction of Tropical Birds via Modular Trophic Pathways",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        3,
-        26
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70790",
-      "abstract": "ABSTRACT Phenological shifts are a pervasive response to climate change but remain poorly understood in the hyperdiverse tropics. Combining comprehensive multitrophic datasets and in situ meteorological data, we test classic hypotheses linking reproduction to the timing and magnitude of rainfall across trophic levels in tropical birds. In low‐latitude mountains, breeding was primarily seasonal and varied based on diet. Consistent with the regional timing of wet and dry seasons, bird species that consume primarily nectar or fruit timed breeding to dry season flowering or wet season fruiting with limited variation across elevation and rainfall gradients. In contrast, species that consume arthropods shifted breeding locally, five months in less than a hundred kilometers, as the intensity of the dry season increased. Spatially asynchronous reproduction was repeated in more than 30 insectivore species as the main nesting season switched from before to after the dry season at a threshold in dry‐season insects. Reversed seasonality magnified the short‐term effects of drought as insectivore communities that nested after the dry season reduced reproductive effort—skipping breeding during resource‐limited dry years—whereas communities that nested before the dry season adapted by breeding up to one month earlier. Strong spatial to temporal variation at a ratio of 5:1 suggests limited short‐term behavioral flexibility within restricted breeding seasons timed based on the long‐term magnitude of seasonal rainfall. At higher trophic levels, similar within‐group but different between‐group responses to rainfall magnitude demonstrate quasi‐independent trophic pathways for how tropical food webs link to rainfall. Cumulatively, these results support an ecological tipping point tied to dry season intensity in which rainfall‐mediated ecological constraints compartmentalized functional groups into vertical trophic modules, which responded differently to changing rainfall. Compared with the seasonal stability of nectar‐fruit consumers, the rapid response of insectivores provides an early warning for changing rainfall.",
-      "keywords": [
-        "Dry season",
-        "Trophic level",
-        "Phenology",
-        "Wet season",
-        "Seasonal breeder",
-        "Seasonality",
-        "Insectivore",
-        "Reproduction",
-        "Tropics",
-        "Growing season"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70371",
       "doi_url": "https://doi.org/10.1111/ele.70371",
       "title": "Issue Information",
@@ -16945,34 +17363,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70814",
-      "doi_url": "https://doi.org/10.1111/gcb.70814",
-      "title": "Increasing Functional or Phylogenetic Distance From Native Fish Communities Promotes Non‐Native Fish Invasions in Global Rivers",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-20",
-      "published_date_display": "2026-03-20",
-      "published_parts": [
-        2026,
-        3,
-        20
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70814",
-      "abstract": "ABSTRACT Biological invasions severely threaten ecosystems and their underlying drivers remain a subject of ongoing inquiry in ecology. Four mutually exclusive invasion hypotheses, biotic acceptance and resistance hypotheses and Darwin's preadaptation and naturalization hypotheses, have long drawn extensive attention. Furthermore, human activities and environmental factors are also widely recognized as key drivers of biological invasions. While integrative analyses of the aforementioned biotic and abiotic factors influencing biological invasions have been conducted previously, systematic global‐scale analyses for freshwater fishes remain limited, constraining our understanding of large‐scale invasion patterns in this taxon. Here, we leveraged a comprehensive database with taxonomic, functional, and phylogenetic data for 5245 freshwater fish species across 1411 global river basins to explore ecological correlates of non‐native fish establishment. Specifically, we used taxonomic, functional, and phylogenetic facets of biodiversity to comprehensively quantify native communities (testing biotic acceptance and resistance hypotheses) and relatedness between native and non‐native communities (testing Darwin's preadaptation and naturalization hypotheses). We further extracted environmental and anthropogenic variables across global rivers to assess external predictors of non‐native fish establishment. Our results primarily supported Darwin's naturalization hypothesis: at the global level, native fish community invasibility peaked when non‐native species exhibited great functional or phylogenetic distance from native communities, suggesting distantly related non‐natives likely had unique traits or strategies to exploit vacant niches. Meanwhile, climatic factors also emerged as key drivers of global fish invasion patterns. At the biogeographic realm level, the determinants of fish invasions varied among the six realms, highlighting the complexity and regional specificity of biological invasions. However, our findings were based on correlational patterns of established non‐native species at the basin scale and thus cannot establish definitive causal relationships between the identified drivers and establishment success. Future experimental manipulations at finer spatial and temporal scales are therefore required to validate the correlations observed in this study.",
-      "keywords": [
-        "Abiotic component",
-        "Biodiversity",
-        "Introduced species",
-        "Invasive species",
-        "Freshwater fish",
-        "Resistance (ecology)",
-        "Ecosystem",
-        "Biotic component",
-        "Phylogenetic diversity"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70755",
       "doi_url": "https://doi.org/10.1111/gcb.70755",
       "title": "Global Patterns of Niche Changes in Alien Mammals: Potential Drivers and Significance for Invasion Projections",
@@ -17510,33 +17900,6 @@
         "Tropics",
         "Ombrotrophic",
         "Tropical climate"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70782",
-      "doi_url": "https://doi.org/10.1111/gcb.70782",
-      "title": "Non‐Abrupt Vegetation Changes due to Altered Nutrient Balance Make Complex Scale‐Dependent Warming and Cooling Effects",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-17",
-      "published_date_display": "2026-03-17",
-      "published_parts": [
-        2026,
-        3,
-        17
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70782",
-      "abstract": "ABSTRACT Land‐atmosphere exchanges are mediated by biophysical properties (e.g., albedo change, evaporative cooling) and biogeochemical cycle (e.g., CO 2 fluxes), with both processes exerting global feedback as radiative forcing (). While most research on concentrated on the impact of abrupt vegetation changes, this study investigates the effects on non‐abrupt changes due to altered nutrient levels (i.e., nitrogen [] and phosphorus [] deposition). We examined impacts of these changes by assessing , representing global effects, and linked it with surface temperature (), reflecting local influence. We hypothesized there are scale‐dependent warming and cooling effects due to surface‐atmosphere interactions. We explored this question using a 9‐year dataset (2014–2023) from a large‐scale nutrient manipulation experiment in a semi‐arid savanna, Spain. Three co‐located eddy‐covariance sites are established: control, ‐added (), and ‐added (). The results indicate domination of changes in surface albedo over CO 2 fluxes, producing paradoxical effects: a net cooling at global scale ( differences are [mean ± SD]—0.46 ± 0.08 W m −2 [global] m −2 [surface] at and −0.39 ± 0.09 W m −2 m −2 at ) due to higher surface reflectivity, but localized warming at understory ( differences are 0.63°C ± 0.46°C at and 0.80°C ± 0.77°C at ) driven by shifts in energy partitioning. Furthermore, our findings indicate that ‐only addition has more canopy‐level cooling than treatment, although increases at the understory. These contrasting responses reveal a layered and scale‐dependent interplay of surface‐atmosphere interactions. They highlight the critical role of nutrient stoichiometry in shaping climate feedbacks despite the vegetation changes are not abrupt, and emphasize that what cools the globe may still warm the land beneath our feet.",
-      "keywords": [
-        "Albedo (alchemy)",
-        "Biogeochemical cycle",
-        "Nutrient",
-        "Vegetation (pathology)",
-        "Global warming",
-        "Radiative forcing",
-        "Climate change",
-        "Phosphorus"
       ]
     },
     {
@@ -19849,34 +20212,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70756",
-      "doi_url": "https://doi.org/10.1111/gcb.70756",
-      "title": "Drought Reduces Formation, but Enhances Persistence, of Mineral‐Associated Organic Matter in a Grassland Soil",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-02",
-      "published_date_display": "2026-03-02",
-      "published_parts": [
-        2026,
-        3,
-        2
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70756",
-      "abstract": "ABSTRACT Drought effects are pervasive in terrestrial ecosystems, yet there is limited understanding of how drought impacts the transformation of plant carbon (C) inputs to mineral‐associated organic matter (MAOM)—the largest and slowest‐cycling pool of soil organic carbon (SOC). In a 12‐week 13 C‐CO 2 greenhouse labeling experiment, we tracked the formation of MAOM derived from the two dominant sources of plant C input to the mineral soil—living root inputs ( 13 C‐rhizodeposits) and decaying root inputs ( 13 C‐root detritus)—under normal moisture and droughted conditions in a semiarid grassland soil. At the end of the 12‐week period, we also measured the persistence of 13 C‐MAOM formed from rhizodeposits versus root detritus via a subsequent persistence assay. Drought reduced the formation of MAOM derived from living roots by decreasing rhizodeposits, reducing microbial growth rates, and altering the composition of organic matter, lipids, and metabolites. Drought initially delayed the formation of MAOM derived from root detritus by slowing the early stages of root litter decomposition (week 4–8), but did not decrease total MAOM formation by the end of the 12‐week period. Notably, drought enhanced the persistence of MAOM derived from root detritus, but did not influence the persistence of MAOM derived from rhizodeposits. Our results provide some of the first direct evidence that drought can reduce the formation of MAOM in a grassland soil, but may enhance its persistence, based on the source of plant input from which MAOM is derived.",
-      "keywords": [
-        "Detritus",
-        "Grassland",
-        "Organic matter",
-        "Root system",
-        "Persistence (discontinuity)",
-        "Soil organic matter",
-        "Litter",
-        "Moisture",
-        "Carbon cycle"
-      ]
-    },
-    {
       "doi": "10.1086/738891",
       "doi_url": "https://doi.org/10.1086/738891",
       "title": "The Challenge of Genomic Forecasting in an Era of Global Change",
@@ -21440,34 +21775,6 @@
         "Growing season",
         "Northern Hemisphere",
         "Forest management"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70310",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70310",
-      "title": "Temporal shifts in soil nitrogen cycling responses to plant diversity across global terrestrial ecosystems",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-15",
-      "published_date_display": "2026-02-15",
-      "published_parts": [
-        2026,
-        2,
-        15
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70310",
-      "abstract": "Abstract Nitrogen (N) is essential to all life on Earth. Despite ongoing biodiversity loss, the influence of plant diversity on soil N cycling over time remains uncertain, which limits our ability to predict terrestrial N pools and transformations globally. To determine the long‐term effects of plant diversity on soil N pools and N transformations, we conducted a global synthesis using 2129 paired observations of plant mixtures and corresponding monocultures from 135 studies across 32 countries. On average, plant mixtures have 3.1% higher soil total N content than monocultures, but 7.7% to 31.6% lower soil ammonium content, nitrate content and rates of soil N mineralization, nitrification, denitrification and N 2 O emissions. Notably, the effects of plant mixtures on soil total N content and rates of N mineralization, nitrification and denitrification shift rapidly over time from negative to positive. However, their effects on soil nitrate content and N 2 O emissions are consistently negative. Furthermore, these plant mixture effects remain consistent across ecosystems. Synthesis and applications . These findings suggest that conserving and restoring plant diversity can enhance long‐term N transformation rates and total soil N content, while reducing N 2 O emissions, collectively promoting soil N cycling sustainability and mitigating climate change‐related risks. Read the free Plain Language Summary for this article on the Journal blog .",
-      "keywords": [
-        "Cycling",
-        "Terrestrial ecosystem",
-        "Ecosystem",
-        "Nitrification",
-        "Nitrogen cycle",
-        "Denitrification",
-        "Biodiversity",
-        "Plant diversity",
-        "Terrestrial plant"
       ]
     },
     {
@@ -23572,61 +23879,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70283",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70283",
-      "title": "Restoring Mediterranean heathlands for declining birds: Initial responses to mosaic cutting and prescribed burning in the Natura 2000 <scp>LIFE</scp> program",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-29",
-      "published_date_display": "2026-01-29",
-      "published_parts": [
-        2026,
-        1,
-        29
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70283",
-      "abstract": "Abstract Globally, loss and degradation of open habitats is causing biodiversity loss. Conserving important open habitats and the animal species that rely on them will require management interventions to reduce tree encroachment and to maintain open vegetation. Effectiveness of interventions will depend on knowledge of how species respond to the spatial and temporal configuration of treatments. Here, we assess short‐term (5 years) responses of open habitat birds of conservation concern to mosaics of cutting and prescribed burning in a Mediterranean heathland Natura 2000 Special Area of Conservation (SAC) and Special Protection Area (SPA). In the Pratomagno SAC (central Italy), vegetation structural characteristics and open habitat birds were surveyed from pre‐treatment (only vegetation) to up to 4 years post‐treatment. Birds were monitored each spring along fixed transects (7 reference, 19 treatment). First, we compared post‐treatment trajectories of vegetation structure among treatment types. Then, we built non‐linear mixed‐effects models to assess changes in the abundance of singing individuals of open habitat birds (1) over time in treatment and reference areas; and (2) in response to the extent of treated vegetation within three age categories (<1 year, 1 year and >1 year since treatment). Within 4 years of treatment, shrubby vegetation was regenerating on a trajectory towards that of untreated vegetation and reduced tree height was reduced. Abundance of the Dartford warbler (Natura 2000 target species) and cirl bunting declined significantly over time in control but not reference areas. Total abundance and that of the Dartford warbler, Moltoni's warbler and common stonechat declined significantly in response to the extent of vegetation <1 year since treatment, but not the extent of older age classes. The woodlark (also target species) and cirl bunting showed non‐significant positive trends to the extent of vegetation >1 year and <1 year since treatment, respectively. Synthesis and applications. Initial responses of open habitat birds indicate that mechanical cutting and prescribed burning in heathlands can maintain habitat to support open habitat bird species when applied in a mosaic approach. Vegetation treatments that resemble historic disturbance regimes (spatially and temporally staggered small‐scale interventions) are recommended to regenerate vegetation, reduce tree encroachment and provide habitat for declining birds. Read the free Plain Language Summary for this article on the journal’s blog .",
-      "keywords": [
-        "Vegetation (pathology)",
-        "Habitat",
-        "Natura 2000",
-        "Abundance (ecology)",
-        "Biodiversity",
-        "Mediterranean climate",
-        "Warbler",
-        "Wildlife"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70296",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70296",
-      "title": "Cover Picture and Issue Information",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-29",
-      "published_date_display": "2026-01-29",
-      "published_parts": [
-        2026,
-        1,
-        29
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70296",
-      "abstract": "",
-      "keywords": [
-        "Nucleofection",
-        "Gestational period",
-        "TSG101",
-        "Liquation",
-        "Dysgeusia",
-        "Diafiltration",
-        "Emperipolesis",
-        "Triacetin",
-        "Demotion"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70316",
       "doi_url": "https://doi.org/10.1111/ele.70316",
       "title": "Behavioural Effects of Persistent Human Disturbance: A Playback Experiment in a Forest Bird",
@@ -24561,33 +24813,6 @@
         "Variance (accounting)",
         "Evolutionary dynamics",
         "Distribution (mathematics)"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70272",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70272",
-      "title": "Intelligent tinkering: Do active restoration treatments promote initial ecosystem recovery after narrow linear disturbances in forested boreal fens?",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-01-13",
-      "published_date_display": "2026-01-13",
-      "published_parts": [
-        2026,
-        1,
-        13
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70272",
-      "abstract": "Abstract Across forested boreal peatlands in western Canada, forestry and energy development disturb threatened Woodland caribou habitat. Federal policy requires ≥65% undisturbed habitat in caribou ranges. Practitioners are starting to restore a ubiquitous footprint, conventional seismic lines—narrow forest clearings (3–10 m wide) used for oil and gas exploration. Research has assessed tree growth and peatland surface responses to seismic line restoration separately but rarely together, creating uncertainty about which practices most benefit ecosystem recovery. A more inclusive view of restoration that embraces intelligent tinkering by considering multiple structural responses, rather than a narrow focus on one response such as forest cover, is needed for Woodland caribou habitat recovery. Here, we used an intelligent tinkering framework to analyse dominant tree (black spruce and tamarack), woody shrub and peatland surface responses simultaneously to identify whether active (inverted mounding and tree planting) relative to passive (inhibit re‐disturbance and leave for natural) restoration promotes initial ecosystem recovery on seismic lines. We sampled and compared dominant tree, woody shrub and peatland surface responses on seismic lines and in reference adjacent fens 8–11 years after restoration treatments in the Cold Lake woodland caribou range of north‐eastern Alberta, Canada. We used generalized linear mixed‐effects models to compare structural responses for forested poor fens (20.2% of the Cold Lake range) and forested rich fens (17.3%) between restoration treatments and adjacent reference fens. Applying intelligent tinkering by comparing multiple structural responses, we found that active restoration did not promote initial recovery of forested fens more than a simple passive restoration strategy. Active restoration increased tree density and height, likely due to tree planting, but tree growth was not expedited compared to naturally regenerating trees in passive restoration. Seismic lines in active restoration treatments had reduced bryophyte coverage, increased open water and exposed soil and decreased hummock density relative to passive restoration and reference fens due to larger, man‐made mounds with little bryophyte coverage and open water pools. Synthesis and applications. Intelligent tinkering can identify divergent structural responses to active and passive restoration treatments that inhibit ecosystem recovery. Consideration of all structural responses to adapt restoration practices is not just needed within Woodland caribou ranges but is needed across peatland restoration, globally. Intelligent tinkering in restoration supports adaptive, evidence‐based restoration practices and policies that increase the likelihood of ecosystem recovery.",
-      "keywords": [
-        "Woodland caribou",
-        "Boreal",
-        "Woodland",
-        "Peat",
-        "Taiga",
-        "Restoration ecology",
-        "Forest restoration",
-        "Shrub"
       ]
     },
     {
