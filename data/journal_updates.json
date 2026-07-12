@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:06:13.388783+00:00",
+  "generated_at": "2026-07-12T22:06:36.309678+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,25 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003305",
-      "abstract": "",
-      "keywords": []
+      "abstract": "A virtual scatterometer constellation provides stable, independent and intercalibrated vector winds over the ocean. The compatibility of passive microwave wind speed retrievals with scatterometer winds is investigated to prepare for the Second Generation EUMETSAT Polar System Second Generation (EPS-SG) satellites. Near-surface wind speed retrieved from Special Sensor Microwave Imager/Sounder (SSMIS) brightness temperatures (T B ) using a physical one-dimensional variational retrieval technique is optimized using collocated and concurrent RapidScat measurements to facilitate the synergetic processing of wind retrievals from Microwave Imager (MWI) and validation with scatterometer (called SCA), onboard EPS-SG. Experimental runs were conducted separately using (i) five channels (19-37 GHz ) and (ii) seven channels (including 91 GHz ) T B measurements from SSMIS for different background profiles such as the Numerical Weather Prediction Satellite Application Facility Integrated Forecasting System profile (NWP SAF-IFS) database and European Centre for Medium-Range Weather Forecasts (ECMWF) Reanalysis (ERA5) first guess profile data to optimize the retrieval. The forward model Radiative Transfer for TOVS (RTTOV) along with the scattering module computes the radiance at the top of the atmosphere for all sky conditions. The ocean surface emissivity is estimated using the SURface Fast Emissivity Model, which provides good precision over cold sea surface temperatures and high wind speeds. The retrieved wind speeds using ERA5 first guess profiles as the background profile have an average standard deviation of differences of 1.03 m/s with an average bias of 0.12 m/s under all-sky conditions when compared to RapidScat winds. In this work, the existing 1D-Var method is refined by further assessing the observation and background error matrix and introducing bias corrections in the T B domain. An advantage of the presented scatterometer and radiometer collocation methodology is that the need for calibration adjustment can be evaluated, ensuring consistency of wind speed from MWI with SCA onboard EPS-SG.",
+      "keywords": [
+        "Scatterometer",
+        "Wind speed",
+        "Emissivity",
+        "Special sensor microwave/imager",
+        "Radiance",
+        "Brightness temperature",
+        "Atmospheric radiative transfer codes",
+        "Numerical weather prediction",
+        "Microwave"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115557",
