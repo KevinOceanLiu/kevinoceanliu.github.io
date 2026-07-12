@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T23:10:25.671326+00:00",
+  "generated_at": "2026-07-12T23:09:13.250394+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,140 +31,24 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107377",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107377",
-      "title": "Measuring lockdown travel rebound: Experimental insights from the Hong Kong COVID-19 omicron outbreak",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006098",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.cities.2026.107366",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107366",
       "title": "Impact of depopulated area designation policy on the population and employment in Japanese small and medium-sized cities",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005986",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107368",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107368",
-      "title": "County-level new-type urbanization policy and city economic resilience: Evidence from a quasi-natural experiment of 2302 counties in China",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006001",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107390",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107390",
-      "title": "COVID-19 as a spatial shock: Uneven land market dynamics in metropolitan areas",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006220",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107389",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107389",
-      "title": "Assessing household's vulnerability to urban flood based on AHP and TOPSIS method: A case study of the flood-prone area in Pakistan",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006219",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107306",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107306",
-      "title": "Aligning transit provision with urban morphology: A diagnostic assessment of Porto and Cagliari",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600538X",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107299",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107299",
-      "title": "A joint synthetic housing–household inventory",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005317",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107302",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107302",
-      "title": "A CityGML extension for 3D modeling of pedestrian mobility space",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005342",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Population",
+        "Population size"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107379",
@@ -180,7 +64,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006116",
-      "abstract": "",
+      "abstract": "In urban travel, traffic congestion often results in prolonged travel times, while in-vehicle crowding causes physical discomfort. Bus passengers uniquely face dual exposure to both congestion (from shared road networks) and crowding (from shared vehicle space), which compounds health risks and undermines sustainable transport goals. Despite this, few studies examine these concurrent exposures or the socio-demographic disparities in who bears this burden, particularly critical for vulnerable populations like senior groups who may face disproportionate impacts. Using Beijing bus smart card data, we measure congestion and crowding levels to identify adverse travel patterns and infer passengers' home locations. We then apply statistical and random forest models to examine how socio-demographic characteristics shape exposure to these adverse conditions across different urban areas. The study reveals the spatial-temporal dynamics of congestion and crowding, the daily rhythms of adverse travel flow across urban spaces, and the socio-demographic characteristic disparities that shape differential exposures among senior and regular cardholders. The findings indicate that congestion concentrates in urban centers and suburban hubs during peak hours, while crowding tends to persist throughout the day on suburban-urban corridors. Urban residents experience more congestion but less crowding than suburban and rural residents. Senior cardholders experience shorter durations but higher rates of adverse conditions than regular cardholders. By revealing dual exposure patterns across space, time, and demographics, this study identifies where and when interventions are needed to reduce congestion for urban commuters and crowding for suburban riders.",
       "keywords": [
         "Smart card",
         "Crowding",
@@ -188,6 +72,149 @@
         "Credit card",
         "Traffic congestion",
         "Report card"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107368",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107368",
+      "title": "County-level new-type urbanization policy and city economic resilience: Evidence from a quasi-natural experiment of 2302 counties in China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006001",
+      "abstract": "",
+      "keywords": [
+        "Urbanization",
+        "China",
+        "Government (linguistics)",
+        "Panel data",
+        "Psychological resilience",
+        "Population",
+        "Corporate governance",
+        "Mediation",
+        "Empirical research"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107390",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107390",
+      "title": "COVID-19 as a spatial shock: Uneven land market dynamics in metropolitan areas",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006220",
+      "abstract": "The COVID-19 pandemic reshaped the spatial dynamics of metropolitan land markets in the Czech Republic. Using a large dataset of land transactions and a Bayesian Vector Autoregression with exogenous variables (BVARX), we show that the pandemic reinforced suburbanization patterns, primarily driven by demand shocks, while broader macroeconomic factors played only a complementary role. These effects were not uniform across cities. Large metropolitan areas experienced strong and persistent suburbanization pressures, whereas mid-sized cities exhibited more muted responses, reflecting differences in regional integration and economic centrality. These shifts persisted beyond the pandemic period, indicating a lasting transformation in spatial land market dynamics. Overall, our findings highlight that city-specific structural characteristics critically shape the transmission of demand shocks and underscore the need for coordinated metropolitan planning to address pressures on land use, housing affordability, and infrastructure capacity.",
+      "keywords": [
+        "Metropolitan area",
+        "Suburbanization",
+        "Vector autoregression",
+        "Bayesian vector autoregression",
+        "Land use",
+        "Vulnerability (computing)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107389",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107389",
+      "title": "Assessing household's vulnerability to urban flood based on AHP and TOPSIS method: A case study of the flood-prone area in Pakistan",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006219",
+      "abstract": "",
+      "keywords": [
+        "Flood myth",
+        "TOPSIS",
+        "Vulnerability (computing)",
+        "Analytic hierarchy process",
+        "Vulnerability assessment"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107306",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107306",
+      "title": "Aligning transit provision with urban morphology: A diagnostic assessment of Porto and Cagliari",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600538X",
+      "abstract": "Transit accessibility in cities is shaped not only by service provision but also by the extent to which transit networks align with the structural hierarchy of streets. This paper develops a reproducible, data-efficient framework that integrates angular segment analysis from Space Syntax, proximity-based transit catchments, and population-weighted exposure measures to assess how well transit stops correspond to high-integration corridors. Two indicators operationalise this assessment: the Gap Index, which identifies the share of population exposed to high-integration corridors lacking nearby transit service, and the Equity Ratio, which compares exposure levels across demographic groups. The framework is applied to Porto and Cagliari, two Mediterranean port cities that share comparable urban morphologies but exhibit contrasting mobility outcomes. Findings reveal a strong divergence. Porto demonstrates complete proximity coverage of its structurally high-integration corridors, indicating a close alignment between transit routing and the spatial configuration of the street network. However, Cagliari displays a pronounced proximity deficit, with a substantial share of high-integration corridors lying outside 300 m transit stop catchments. These results suggest that differences in accessibility between the two cities arise not from population distribution or morphological potential but from strategic choices in transit routing. The study shows how morphology-aware indicators can help planners detect accessibility gaps that conventional supply-side assessments overlook and highlights the value of integrating spatial configuration analysis into routine diagnostic practices. The proposed framework offers a transferable basis for monitoring alignment between street structure and transit provision, supporting more responsive and equitable mobility strategies in port-city contexts.",
+      "keywords": [
+        "Equity (law)",
+        "Transit (satellite)",
+        "Transit-oriented development",
+        "Hierarchy",
+        "Population",
+        "Bus rapid transit",
+        "Service (business)",
+        "Port (circuit theory)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107299",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107299",
+      "title": "A joint synthetic housing–household inventory",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005317",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107302",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107302",
+      "title": "A CityGML extension for 3D modeling of pedestrian mobility space",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-11",
+      "published_date_display": "2026-07-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005342",
+      "abstract": "This paper presents a conceptual model of pedestrian mobility spaces in 3D city models. While conceptual models can be specified in various ways, we use standard elements of CityGML and an Application Domain Extension (ADE): The Pedestrian ADE extends CityGML 3.0 to incorporate key parameters related to the physical, legal, and regulatory aspects of pedestrian mobility environments. For this, the extension introduces new feature classes for vertical passages such as stairs and elevators, and adds attributes to existing CityGML classes to represent pedestrian-specific characteristics. The conceptual model is also implemented for demonstration and validation: A real-world case study in Melbourne, Australia, demonstrates the practical application of the Pedestrian ADE to model complex urban environments. Through visualizations, we show how the model can be applied to represent spaces where different types of pedestrians can , cannot , may , or must not walk. This work provides a standardized approach for detailed 3D modeling of pedestrian mobility spaces, supporting various applications in urban planning, transportation, and accessibility analysis.",
+      "keywords": [
+        "CityGML",
+        "Pedestrian",
+        "3D city models",
+        "Extension (predicate logic)",
+        "Conceptual model",
+        "Key (lock)",
+        "Domain (mathematical analysis)",
+        "Feature (linguistics)"
       ]
     },
     {
@@ -215,6 +242,35 @@
         "Per capita income",
         "Parity (physics)",
         "Limiting"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105735",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105735",
+      "title": "Should I stay or should I go: How urban heat gradients affect the local distribution of birds and bats",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-10",
+      "published_date_display": "2026-07-10",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001593",
+      "abstract": "Facing escalating biodiversity decline, threats extend beyond species loss to reduced evolutionary and functional potential in ecosystems. Urbanisation is one of the main causes of biodiversity loss, and its impact is expected to be further increased by the anticipated growth in the human population over the coming decades. In this context, achieving sustainable development requires a balance between conservation and urban growth. A key step in characterizing the impacts of urbanisation on biodiversity using integrative approaches that reflect current scenarios of global change. This study focuses on the main representatives of urban flying vertebrates, birds and bats, to study how different levels of urbanisation affect these components of biodiversity. More precisely, we examine the influence of Urban Heat Islands (UHIs), as a proxy of strong urbanisation, on community composition and taxonomic, phylogenetic and functional diversity of bats and birds in the French city of Poitiers. We also assess the contribution of turnover and nestedness to community composition. Our results indicate that high urbanisation, reflected by UHIs, affects community composition, particularly for bats, whose diversity across taxonomic, phylogenetic and functional components is reduced. In contrast, birds display only a decline in taxonomic diversity in these zones. Turnover is the dominant process structuring bird communities, whereas nestedness primarily drives bat assemblages, suggesting greater potential for species replacement in birds. These results highlight the differing vulnerability of birds and bats to urbanisation and emphasize the need to consider these differences and the ecological interactions between them in conservation and urban planning strategies.",
+      "keywords": [
+        "Affect (linguistics)",
+        "Distribution (mathematics)",
+        "Urban heat island",
+        "Geography",
+        "Ecology",
+        "Economic geography",
+        "Environmental science",
+        "Psychology",
+        "Biology",
+        "Communication",
+        "Mathematics"
       ]
     },
     {
@@ -18078,32 +18134,30 @@
       ]
     },
     {
-      "doi": "10.1016/j.landurbplan.2026.105735",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105735",
-      "title": "Should I stay or should I go: How urban heat gradients affect the local distribution of birds and bats",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
+      "doi": "10.1016/j.cities.2026.107377",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107377",
+      "title": "Measuring lockdown travel rebound: Experimental insights from the Hong Kong COVID-19 omicron outbreak",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
       "published_date": "2025-01-01",
       "published_date_display": "2025-01-01",
       "published_parts": [
         2026,
-        12
+        11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001593",
-      "abstract": "In the face of an escalating biodiversity decline, the threats go beyond species loss to include the reduction of evolutionary and functional potential within ecosystems. Urbanization is one of the main causes of biodiversity loss, particularly with the expected growth in human population over the coming decades. In this context, achieving sustainable development requires a balance between conservation and urban growth. A fundamental step is to characterize the impacts of urbanization on biodiversity using integrative approaches that reflect current scenarios of global changes. This study focuses on the main representatives of urban flying vertebrates, birds and bats, in the French city of Poitiers, to study how different levels of urbanization affect these components of biodiversity. More precisely, we examine the influence of land cover and temperature (using both gradients of urbanization and heat) on community composition and taxonomic, phylogenetic and functional diversity of bats and birds. We also assess the contribution of turnover and nestedness to community composition. Our results indicate that high urbanization, as reflected by urban heat islands, affects community composition, particularly for bats, whose diversity, across taxonomic, phylogenetic and functional components, is negatively impacted. In contrast, birds display only a decline in taxonomic diversity in these zones. Turnover is the dominant process of structuring bird communities, whereas nestedness is primarily driving bat assemblages, suggesting greater potential for species replacement in birds. These results highlight the different vulnerability of birds and bats to urbanization and emphasize the need to consider these differences in conservation and urban planning strategies.",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006098",
+      "abstract": "While localized lockdowns emerged as pivotal Non-pharmaceutical Interventions (NPIs) during the mid-to-late phases of the COVID-19 pandemic, the precise impacts on residential mobility remain understudied, including pre-and post-lockdown travel comparisons, ‘bounce-back’, and long and short-term adjustments. Policymakers were particularly concerned about unanticipated viral transmission from undiagnosed asymptomatic carriers. This study investigates Hong Kong’s Restriction-testing Declaration (RTD) policy, a short-term localized lockdown strategy mainly targeting public housing estates (PHEs) during the omicron outbreak. Employing a Propensity Score Matching and Difference-in-Differences (PSM-DID) framework, we analyzed anonymized mobile positioning data from 117,370 resident’s mobile devices during omicron outbreak, to quantify the lockdown-induced mobility response, defined as the distance to maximum reach position (DMRP).Our findings reveal that RTD events generated substantial increases in the daily average increase of 1.20 km of DMRP over the two-week study duration, and exhibits an inverted-U-shaped rebound pattern in differed epidemic phases. In the rising phase, RTD immediately increased PHE residents’ DMRP by 0.89 km on the implementation day, and this effect persisted for 11 days, with the maximum surge occurring on post-RTD Day 5. In the peak phase, no immediate impact occurred on the implementation day. However, an increase of 1.04 km occurred one day later, and this effect continued for 5 days, reaching its maximum surge on post-RTD Day 2. No significant DMRP increase was observed for the declining phase. This is the first empirical study to investigate how localized lockdowns impact residents’ travel rebound and provides key insights for policymakers to understand unintended mobility responses.",
       "keywords": [
-        "Affect (linguistics)",
-        "Distribution (mathematics)",
-        "Urban heat island",
+        "Coronavirus disease 2019 (COVID-19)",
+        "Outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "2019-20 coronavirus outbreak",
+        "Virology",
         "Geography",
-        "Ecology",
-        "Economic geography",
-        "Environmental science",
-        "Psychology",
-        "Biology",
-        "Communication",
-        "Mathematics"
+        "Medicine",
+        "Infectious disease (medical specialty)",
+        "Internal medicine"
       ]
     }
   ]
