@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T23:35:45.415167+00:00",
+  "generated_at": "2026-07-12T23:34:56.064373+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70402",
       "abstract": "Abstract The leaf economics spectrum bridges plant demography with terrestrial biodiversity gradients, community ecology and ecosystem functions, providing a framework for the mechanisms underlying ecosystem change. However, our understanding of whether this framework applies to aquatic plant communities and how their biogeography is shaped by their unique adaptations to life in water is limited. Moreover, it remains unclear whether leaf trait expression of aquatic plants responds to changes in environmental conditions differently depending on their life form (i.e. emergent, submerged). Here, we compiled a dataset of community composition for 6953 lake and river plant communities across Europe. We appended leaf trait data and environmental data to each community. Then, we calculated the community mean traits for emergent and submerged plant communities to determine their position along the leaf economics spectrum and how they deviate from terrestrial expectations. We used Gaussian multivariate mixed linear regression models to investigate life form‐specific variation in trait‐environment relationships. We find that emergent communities exhibit trait–environment relationships comparable to terrestrial predictions, with high bicarbonate and phosphorus concentrations, and warm temperatures selecting for acquisitive leaf traits. In contrast, acquisitive submerged communities are selected for by high bicarbonate and low temperature, and not by phosphorus availability. We attribute these differences to freshwater‐specific adaptations which influence the leaf economics of submerged communities more profoundly than emergent communities, since submerged plants grow in particularly challenging conditions with respect to light and gas availability. These findings suggest that aquatic plants have adaptations to their unique environments that require trade‐offs between leaf form and function to facilitate underwater metabolism, which pushes the boundaries of the leaf economics spectrum. Synthesis . Our ability to apply existing knowledge of leaf economics based on terrestrial plants to the aquatic realm is limited, especially with respect to the influence of temperature on plant growth, which is key for predicting the impacts of climate change on vegetation globally. Our findings highlight the importance of a realm‐specific approach for linking functional traits to freshwater ecosystem functioning and biodiversity, as the distinct responses of freshwater plants to their environment are not captured by terrestrial‐derived frameworks.",
-      "keywords": []
+      "keywords": [
+        "Terrestrial plant",
+        "Plant community",
+        "Biodiversity",
+        "Ecosystem",
+        "Trait",
+        "Terrestrial ecosystem",
+        "Aquatic plant",
+        "Community",
+        "Ordination"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70479",
@@ -69,7 +79,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70479",
       "abstract": "Abstract Natural disturbances have increasingly shaped global forests in recent decades. Coniferous forests in the Northern Hemisphere are facing intensifying disturbance regimes, exacerbating the conflict between traditional management objectives and the role of disturbance‐driven dynamics for biodiversity conservation. In Europe, unprecedented amounts of Norway spruce ( Picea abies ) have been damaged in recent years by hot droughts accompanied by outbreaks of the European Spruce Bark Beetle ( Ips typographus ). To meet the demands of forest protection and secure timber production, P. abies trees colonized by I. typographus , or suitable for colonization due to abiotic stress, are either extracted by salvage logging or made unsuitable for breeding using debarking techniques. Manual techniques are inefficient for large quantities and the extraction of deadwood can compromise biodiversity. We investigated mechanical bark treatments as potential alternatives to salvage logging for bark beetle regulation in Central Europe. Our study quantified bark beetle regulation efficacy, operational efficiency, wood properties and effects on biodiversity of saproxylic beetles, fungi and bacteria, as well as woodpeckers. Processing Norway spruce logs three times with a harvester to remove bark substantially reduced bark beetle emergence, demonstrating a scalable method that may contribute to the management of pest outbreaks and disturbances at landscape scales. Motor‐manual bark gouging and debarking are flexible alternatives and effective methods for small wood quantities. With increasing bark removal intensity, species richness of saproxylic beetles and bacteria decreased, while fungi species richness increased. In all three groups, species assemblages were affected by bark treatments. Differences in moisture content between treated and control logs were the main driver for changes in fungi and bacteria community assemblages. Bark treatments did not affect net calorific value over the first 2 years, blue‐stain fungi colonization and elemental composition (H, C and N). Synthesis and applications . Three times harvester processing and motor‐manual bark gouging effectively reduce bark beetles, enabling two options: permanent on‐site retention for biodiversity conservation, or up to 2 years of intermediate on‐site storage with no treatment effect on blue‐stain fungi colonization or energy content, thereby buffering operational bottlenecks during landscape disturbances.",
-      "keywords": []
+      "keywords": [
+        "Bark beetle",
+        "Bark (sound)",
+        "Picea abies",
+        "Biodiversity",
+        "Species richness",
+        "Logging",
+        "Abiotic component",
+        "Salvage logging"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70503",
@@ -87,7 +106,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70503",
       "abstract": "Abstract Understanding the spatial relationship between biodiversity and carbon storage is essential for guiding conservation efforts to tackle jointly the biodiversity loss and climate change crises. Here, we assess tree richness and carbon storage patterns, their spatial congruence within and outside protected areas and to what extent existing protected areas safeguard tree diversity‐carbon storage hotspots. We used tree species richness and above‐ground carbon storage data derived from 234 national forest inventory plots to fit machine learning models using a set of climatic, topographic and edaphic predictors in northwestern Mexico. We then assessed the uncertainty and spatial congruence of predicted tree richness and carbon storage. Areas with high minimum temperature and evapotranspiration contain greater tree richness and carbon storage. These results suggest that changes in temperature and precipitation regimes have the potential to alter both plant diversity and carbon pools. Hotspots, where the top quintile values of tree richness and carbon storage overlap, occupy 10.2% of the study region; however, most lie beyond existing protected areas, which currently safeguard less than 0.2% of these hotspots. Synthesis and applications : We identified areas of potentially high conservation value, including prospective ecological reserves and corridors. We recommend policy makers and land managers to protect these hotspots of tree richness and carbon storage and establish connections with existing reserves to facilitate species movement and range expansion under changing climatic conditions. Biodiversity and carbon pools should be considered together for more effective spatial planning processes, especially at the regional scale, where management decisions can be more easily implemented and evaluated.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Biodiversity",
+        "Carbon sequestration",
+        "Spatial ecology",
+        "Forest management",
+        "Protected area",
+        "Climate change",
+        "Carbon sink"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70504",
@@ -105,7 +133,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70504",
       "abstract": "Abstract The simplification of agricultural landscapes and widespread pesticide use are major drivers of biodiversity loss, particularly affecting beneficial arthropods that provide essential ecosystem services such as pollination and natural pest control. Flower strips have emerged as a promising agri‐environmental measure to mitigate these effects by offering floral resources, shelter and overwintering habitats. However, their effectiveness depends on multiple factors, including plant species composition, strip age, cutting regime, and the dispersal of natural enemies into adjacent crops. In a three‐year field study (2022–2024) in conventionally managed agricultural fields, we examined arthropod activity in perennial flower strips, control grass strips and adjacent crops (sugar beet and cereals). In spring, arthropods were sampled to assess overwintering success; in summer, we investigated arthropod activity with a focus on natural enemies and their dispersal from field margins into adjacent crops. Overall arthropod activity did not differ consistently between flower and grass strips; though certain natural enemy groups showed a preference for flower strips. A strong edge effect was observed, with arthropod activity consistently higher within strips and declining rapidly within 5 m into the crop. Spillover of natural enemies was comparable between flower and grass strips, though activity declined more sharply from five to 50 m from the grass strip in 2023 and 2024, suggesting a more sustained activity gradient near flower strips. Some groups showed higher activity densities at 5 m distances compared to 50 m distances indicating that a spillover from the margin exists but declines rapidly. Arthropod activity peaked in 2022, reflecting inter‐annual variability. Overwintering success was comparable in flower and grass strips, and overall increased from 2023 to 2024, the second and third years since strip establishment. Synthesis and applications . Both flower and grass strips supported significantly higher arthropod activity than adjacent crop fields, underlining the general ecological value of field margins regardless of floral composition. The observed group‐specific responses emphasize the need for taxa‐specific analyses within heterogeneous functional groups, rather than relying solely on aggregated patterns. While tailored flower strips can promote specific natural enemy groups and local arthropod conservation, their contribution to biological control is conditional on pest pressure and landscape context, temporally variable, and likely most effective in low‐input or organic systems where pesticide pressure does not suppress in‐field arthropod activity.",
-      "keywords": []
+      "keywords": [
+        "Overwintering",
+        "Biological dispersal",
+        "Arthropod",
+        "Perennial plant",
+        "PEST analysis",
+        "Biodiversity",
+        "Biological pest control",
+        "Herbivore",
+        "Pollination"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70501",
@@ -123,7 +161,13 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70501",
       "abstract": "Abstract Mass mortality events (MMEs) or ‘wrecks’ represent sudden and large‐scale mortality episodes often associated with extreme environmental conditions. Despite their ecological importance, MMEs remain poorly documented in the South Atlantic, particularly for Procellariiformes, a group highly vulnerable to climate‐driven anomalies. Detecting such events in this region is challenging because baseline mortality levels are unknown, limiting the ability of monitoring programs to identify abnormal mortality episodes. We developed a quantitative framework to detect and characterize seabird MMEs by integrating time‐series decomposition, changepoint analysis and kernel density estimation. The framework was applied to 8 years (2017–2024) of standardized beach monitoring data covering approximately 3320 km of the Brazilian coastline. This approach allowed us to identify anomalous mortality peaks, estimate the temporal duration of mortality episodes and delineate their spatial extent and hotspots along the coast. We detected seven previously unreported MMEs impacting 3779 stranded Procellariiformes. Events occurred primarily during austral autumn in northeastern and during austral spring in southeastern–southern regions, revealing recurrent seasonal and spatial patterns. Cory's Shearwater Calonectris borealis , Manx Shearwater Puffinus puffinus and Atlantic Yellow‐nosed Albatross Thalassarche chlororhynchos were the most affected species, with juveniles disproportionately represented. Kernel density analysis identified recurrent hotspot regions of mortality along the Brazilian coast. We propose mortality thresholds in an early‐warning system to guide monitoring efforts during abnormal stranding events. Synthesis and applications . Our study provides the first systematic assessment of seabird mass mortality events in the South Atlantic and introduces a transferable statistical framework for detecting MMEs in other taxa and regions lacking baseline mortality information. By identifying recurrent temporal anomalies, high‐risk areas and vulnerable species, we could establish quantitative indicators of MMEs. This approach offers a practical tool for monitoring programs to improve early detection of mortality events and to implement rapid response protocols.",
-      "keywords": []
+      "keywords": [
+        "Seabird",
+        "Shearwater",
+        "Puffinus",
+        "Limiting",
+        "Mortality rate"
+      ]
     },
     {
       "doi": "10.1111/gcb.70997",
@@ -141,7 +185,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70997",
       "abstract": "ABSTRACT Thermokarst lake and drained lake basin (DLB) dynamics are intensifying across the Alaskan Arctic Coastal Plain. Thawing, drainage, and erosion expose surface and deep sediments (> 1 m) to aerobic conditions, with saline deposits being particularly vulnerable due to freeze‐point depression. As organic carbon mineralization remains poorly constrained, we determined potentials with an aerobic one‐year long incubation at 10°C in permafrost upland, lake talik, lake cryopeg, and refrozen saline DLB sediments. We linked CO 2 production to biochemical, hydrochemical, and microbial factors, and assessed carbon alteration via repeated n ‐alkane analyses. After 382 days, average CO 2 production was 7.0 ± 0.4 mg C g −1 dry weight (DW), with DLB surface peat yielding the most (40.5 ± 2.7 mg C g −1 DW), and carbon‐poor cryopeg deposits (1.4 ± 0.1 mg C g −1 DW) and refrozen saline permafrost (1.5 ± 0.02 mg C g −1 DW) the least. Total organic carbon (TOC) was the main driver of CO 2 production, while age, nitrogen content, electrical conductivity, water content, pH, and microbial abundance also correlated significantly with CO 2 production. Normalizing production to TOC contents, saline permafrost and cryopeg sediments showed similar CO 2 production to active layers, stressing the importance of potentially carbon‐rich saline deposits. TOC normalization revealed that carbon characteristics (δ 13 C, alkane content, ACL) also significantly influenced CO 2 production. The n ‐alkane based quantification of carbon alterations during the incubation further contributes to the understanding of carbon cycling at the molecular level. n ‐Alkane contents increased on average by 153% and the carbon preference index (CPI) rose from 13.2 to 15.8, likely due to newly produced alkanes, preferential degradation, and desorption processes. This indicates strong responses of the carbon pool and raises questions about the reliability of the CPI as a degradation proxy. Altogether, our study highlights the overlooked role of salinity in CO 2 production from Arctic coastal plains which could substantially shift carbon balances.",
-      "keywords": []
+      "keywords": [
+        "Permafrost",
+        "Thermokarst",
+        "Mineralization (soil science)",
+        "Total organic carbon",
+        "Peat",
+        "Arctic",
+        "Carbon cycle",
+        "Dissolved organic carbon",
+        "Carbon fibers"
+      ]
     },
     {
       "doi": "10.1111/gcb.71002",
@@ -159,7 +213,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71002",
       "abstract": "ABSTRACT The isotopic composition of atmospheric carbon dioxide (δ 13 C atm ) provides insights into the terrestrial carbon cycle. However, long‐term global δ 13 C atm maps with both high spatial resolution and continuous temporal coverage remain scarce. Here, we present a new global terrestrial dataset of monthly δ 13 C atm isoscapes from 2001 to 2020 at 0.05° spatial resolution, developed by integrating in situ observations with optimized 4D CO 2 concentration fields from inversion outputs, reanalysis data, and geographic information using machine learning. Among four tested models, the Gradient Boosting Machine demonstrated the highest predictive performance under random validation ( R 2 = 0.80, RMSE = 0.12‰) and maintained robust performance across three spatially independent validation frameworks ( R 2 = 0.56–0.67, RMSE = 0.16‰–0.19‰). Key predictors were air temperature and atmospheric CO 2 concentration. The resulting global terrestrial isoscapes reveal strong spatial and temporal heterogeneity. Model predictions closely align with National Oceanic and Atmospheric Administration (NOAA) marine boundary layer (MBL) observations in terms of trend magnitude, seasonal amplitude (< 0.13‰ deviation), and latitude gradient (< 0.2‰). In our study, δ 13 C atm seasonal amplitude varies from 0.06‰ in Southern Hemisphere mid‐latitudes to 0.6‰ in Northern Hemisphere high latitudes, indicating strong hemispheric asymmetry. Moreover, over 99.8% of global terrestrial grid cells show negative trends in all seasons, with a global terrestrial average annual depletion rate of −0.030‰ ± 0.0006‰ year −1 . The trend shows stronger depletion during summer and autumn, reaching its peak in August (−0.035‰ ± 0.0012‰ year −1 ), while spring and winter seasons remain comparatively stable. This study delivers a long‐term, high‐resolution global terrestrial δ 13 C atm isoscape dataset, offering a valuable tracer for carbon cycle research and, importantly, robust data support for large‐scale investigations of carbon–water coupling in terrestrial ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Northern Hemisphere",
+        "Southern Hemisphere",
+        "Spatial ecology",
+        "Common spatial pattern",
+        "Latitude",
+        "Terrestrial ecosystem",
+        "Carbon cycle",
+        "Carbon dioxide in Earth's atmosphere",
+        "Biogeochemical cycle",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1111/gcb.70995",
@@ -177,7 +242,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70995",
       "abstract": "ABSTRACT Tree mortality patterns play a central role in forest health, terrestrial carbon dynamics, and biodiversity conservation. While changes in tree mortality patterns to recent climate anomalies have been documented, the effects of climate change on ambient or “background” mortality rates in the absence of severe disturbance agents remains poorly understood. Here, we applied a machine learning approach to a large dataset of 24,576 forest permanent sample plots distributed across Canada and the United States, spanning 28.1°C in mean annual temperature and 1743.5 mm in annual precipitation, to study and predict the effects of climate on background mortality for nine of the most abundant tree species in eastern North America. We developed species‐specific climate‐mortality models while controlling for the interactive effects of stand development processes, CO 2 , and atmospheric pollutant SO 4 . We found that temperature ranked among the three strongest predictors of mortality rates and that warmer temperatures led to higher background tree mortality for most species. Furthermore, we predicted notable increases in tree mortality rates along the southern portions of species' ranges in response to future warming. On average, mortality rates are predicted to rise by 0.2%–0.7%·year −1 for five of the nine species under SSP2‐4.5 by mid‐century (2041–2070). By examining climate‐driven variation in background tree mortality at the continental scale, our study provides valuable insight on future forest dynamics under climate change.",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Biodiversity",
+        "Disturbance (geology)",
+        "Mortality rate",
+        "Effects of global warming",
+        "Tree (set theory)",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1111/gcb.70999",
@@ -195,7 +268,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70999",
       "abstract": "ABSTRACT A striking incongruity has long persisted in the modeling framework typically used to predict CO 2 and water vapor exchange between land plants and the atmosphere across scales. Generally, photosynthetic CO 2 demand is estimated using process‐based models of biochemistry, but the biophysical stomatal constraint on photosynthesis and transpiration ( g sw ) is estimated using “black box” empirical or optimization‐based models. Empirical models of g sw can only be parameterized in the domain of the training data, limiting confidence in predictions made outside that domain; optimization‐based models rely on eco‐evolutionary “goal functions” about which there remains poor consensus. To resolve this incongruity, we present a novel process‐based model for g sw with parameters that all have biophysical meaning, and of which only two require empirical fitting, thus ensuring tractability for application in land‐surface models (LSMs). The model successfully reproduces variation in g sw diurnally, globally, and in relation to soil drought and when drought and heat co‐occur. The model also has greater functionality than previous models, by predicting stomatal closure under soil drought, the effect of variations in soil‐leaf hydraulic conductance, stomatal closure in response to soil and atmospheric drought in darkness, and stomatal opening at high temperatures in both low and high light. With structure and parameters based on physiological processes, this model can translate continuing improvement in understanding of underlying biophysical and molecular genetic causes into predictions for carbon and water exchange, offering greater confidence for predicting the influence of stomata on land‐surface exchanges of mass and energy in future climates.",
-      "keywords": []
+      "keywords": [
+        "Transpiration",
+        "Photosynthesis",
+        "Limiting",
+        "Atmosphere (unit)",
+        "Soil water",
+        "Flux (metallurgy)",
+        "Empirical modelling",
+        "Closure (psychology)",
+        "Vapour Pressure Deficit"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03125-y",
