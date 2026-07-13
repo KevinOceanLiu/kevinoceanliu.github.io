@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:06:36.309678+00:00",
+  "generated_at": "2026-07-13T22:08:39.144576+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,111 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115562",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115562",
+      "title": "Synergistic analysis and vertical transport attribution of carbon monoxide surface concentrations and satellite column loadings over China",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003329",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115555",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115555",
+      "title": "Seasonal mass balance of Hofsjökull ice cap, Iceland, estimated from repeat ICESat-2 satellite altimetry",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003251",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.039",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.039",
+      "title": "UniOrtho: From view-centric to unified orthographic framework for satellite semantic 3D reconstruction",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600345X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2688354",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2688354",
+      "title": "Kropotkin’s Anarchist Animals",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        7,
+        13
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688354",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2688349",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2688349",
+      "title": "Experiences of Urban Environmental Vulnerability: The Role of Migrant Status and Neighborhood Location in Beira, Mozambique",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        7,
+        13
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688349",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2689759",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2689759",
+      "title": "Comparative Analysis of Multicriteria Decision-Making Techniques for Optimal Wind Farm Site Selection",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        7,
+        13
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2689759",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.rse.2026.115560",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115560",
@@ -544,6 +649,23 @@
         "Atmospheric dust",
         "Mineral dust"
       ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115540",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115540",
+      "title": "Basal area loss from fire using field-calibrated remote sensing refines western US fire severity measurements",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600310X",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.030",
@@ -10087,31 +10209,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.026",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.026",
-      "title": "A semi-supervised deep learning framework based on multi-source data for wheat: from counting to yield estimation",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-23",
-      "published_date_display": "2026-03-23",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001401",
-      "abstract": "",
-      "keywords": [
-        "Segmentation",
-        "Pattern recognition (psychology)",
-        "Spike (software development)",
-        "Deep learning",
-        "Field (mathematics)",
-        "Sørensen–Dice coefficient",
-        "Yield (engineering)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115376",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115376",
       "title": "Formalizing aeolian morphometry: Object-based topographic mapping of White Sands dunes",
@@ -12433,29 +12530,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115322",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115322",
-      "title": "SWOT based intertidal topography mapping: A standalone method validated in a complex coastal region",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-19",
-      "published_date_display": "2026-02-19",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000921",
-      "abstract": "The Surface Water and Ocean Topography (SWOT) satellite altimetry mission, with its high spatial resolution and global coverage, offers unprecedented opportunities for studying coastal environments. Although primarily designed for observing open ocean and inland water bodies, recent studies have demonstrated its ability to capture intertidal topography at low tide. One key challenge in such applications lies in separating intertidal pixels from water ones, as current SWOT classification lacks a dedicated intertidal class. This study introduces a standalone methodology that relies exclusively on SWOT level-2 High Resolution (HR) pixel cloud dataset. Intertidal pixels are identified using a simple approach based on the probability distribution function (PDF) of sea surface height anomalies relative to a nearby reference open water point. This method was applied to the macro-tidal, geographically complex coastal region of Pertuis Charentais along the French Atlantic coast. Validation against airborne LiDAR topography shows good agreement, with Root Mean Square Error (RMSE) below 30 cm for both single-cycle and temporally stacked SWOT observations. Performance was consistent across different bottom types, with highest accuracy over low slope (<1°) muddy and sandy bottoms and moderate degradation over rocky bottoms. Elevation profile analysis suggests that SWOT has a potential for detecting spatiotemporal morphological evolution in highly dynamic environments. While single-cycle observations are limited by inherent interferometric noise, annual stacks show promises in resolving long-term changes. These findings highlight SWOT's potential to fill key observational gaps in intertidal mapping, supporting coastal morphodynamic studies, hydrodynamic modeling and climate resilience efforts in data-sparse or rapidly evolving environments.",
-      "keywords": [
-        "Intertidal zone",
-        "SWOT analysis",
-        "Scale (ratio)",
-        "Hyperspectral imaging",
-        "Satellite imagery"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115302",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115302",
       "title": "Leveraging sUAS-Sentinel-2 synergy for cross-scale mapping of canopy cover and aboveground biomass across Mongolia and Kazakhstan",
@@ -12753,34 +12827,6 @@
         "Ranging",
         "Pattern recognition (psychology)",
         "Data set"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115299",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115299",
-      "title": "Multi-satellite data fusion for improved field-scale evapotranspiration mapping on Google Earth Engine",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-13",
-      "published_date_display": "2026-02-13",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000696",
-      "abstract": "Accurate field-scale evapotranspiration (ET) data with high spatiotemporal resolution is crucial for characterizing surface energy and water balance dynamics and guiding water resource management. OpenET, implemented on Google Earth Engine (GEE), provides field-scale ET estimates and relies mainly on Landsat data. Although Landsat thermal infrared (TIR) observations are effective for field-scale ET mapping, the ∼8-day revisit interval of the combined Landsat 8/9 constellation provides insufficient temporal sampling for short-term ET dynamics. This study presents a framework to improve the spatiotemporal resolution of ET mapping by integrating TIR observations from ECOSTRESS and VIIRS with Harmonized Landsat-Sentinel (HLS) data on GEE. Land surface temperature (LST) data from Landsat, ECOSTRESS and VIIRS were sharpened to 30-m resolution using the Data Mining Sharpener (DMS) algorithm. These sharpened LST data, along with 30-m Leaf Area Index (LAI) and albedo derived from HLS, were used as inputs to the GEE-based Disaggregated Atmosphere-Land Exchange (DisALEXI) model to produce daily 30-m ET estimates. ET estimates were validated against flux tower observations and compared with baseline Landsat-derived ET at six sites with varying land cover and climatic conditions. Results indicated that incorporating ECOSTRESS and VIIRS generally improved ET estimation accuracy, reducing average MAE (mm/day) by 8.64% (1.12 to 1.02, daily), 14.40% (1.00 to 0.85, weekly), 16.37% (0.82 to 0.69, monthly) relative to Landsat-only baselines. This GEE-based framework establishes a prototype workflow for integrating new satellite data sources into the OpenET modeling framework, supporting sustainable agriculture and water resource management. • A workflow on GEE integrates new thermal satellite data for ET production. • Integration of ECOSTRESS/VIIRS thermal with HLS VSWIR enables 30-m ET mapping. • Multi-satellite fusion improves daily 30-m ET accuracy across the study sites.",
-      "keywords": [
-        "Evapotranspiration",
-        "Earth observation",
-        "Satellite",
-        "Land cover",
-        "Sampling (signal processing)",
-        "Footprint",
-        "Sensor fusion",
-        "Shuttle Radar Topography Mission",
-        "Leaf area index",
-        "Albedo (alchemy)"
       ]
     },
     {
@@ -13916,29 +13962,6 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2025.115156",
-      "doi_url": "https://doi.org/10.1016/j.rse.2025.115156",
-      "title": "Leveraging additional VIIRS information to improve wildfire tracking in the western US",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-12-03",
-      "published_date_display": "2025-12-03",
-      "published_parts": [
-        2026,
-        3
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425725005607",
-      "abstract": "Recent record-breaking fire activity in the western US poses clear threats to humans, ecosystems, and climate. Larger and faster fires increase the challenges for fire managers and further motivate the need for improved tracking of extreme fire behavior. There are also known limitations to our current ability to monitor fires from space. These include infrequent coverage from moderate resolution ( ≤ 1 km) sensors, smoke and cloud obscuration, omission of small or low-intensity fires, and atmospheric attenuation of fire radiative power (FRP). These effects diminish our ability to quantify fire behavior and emissions, including persistent burning behind the flaming fire front, particularly in ecosystems with high fuel loads. In this study, we examined the Visible Infrared Imaging Radiometer Suite (VIIRS) imagery and data products to assess the utility of candidate fire pixels in addition to the low/nominal/high confidence 375-m fire detections already included in the active fire product. We found that these candidate pixels added 45% more daytime detections and 12% more nighttime detections for large fires in the western US 2020 fire season. Candidate fires were highly consistent with areas of flaming and smoldering fire activity identified by near-coincident airborne data as well as patterns of known active or candidate fires in sequential VIIRS overpasses, without significantly increasing false detections (commission errors). The candidate fire detections helped fill data gaps due to cloud obscuration during large fires that generated pyrocumulonimbus (pyroCb) clouds. Including this additional information also impacted estimates of fire activity, increasing fire persistence by 20% and FRP by 7% across our sample. Although the contribution from candidate fire detections to total FRP was relatively small, including these additional pixels could provide a more consistent estimate of fire emissions for smoke models and air quality forecasts by filling gaps in active fire information and improving the representation of smoldering fire activity. These results demonstrate the potential to augment the standard VIIRS product with candidate fire information for known large fire events to improve fire tracking and downstream products. Such approaches to leverage additional VIIRS information may be suitable for other biomass burning regions where global fire detection algorithms provide incomplete information for specific fire types and observing conditions.",
-      "keywords": [
-        "Tracking (education)",
-        "Satellite tracking",
-        "Satellite",
-        "Remote sensing application",
-        "Aerial survey"
       ]
     }
   ]
