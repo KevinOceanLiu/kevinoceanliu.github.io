@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T23:13:21.836726+00:00",
+  "generated_at": "2026-07-14T23:11:20.726837+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105742",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105742",
-      "title": "Beyond scenic views: an integrative review of visual research on heritage landscapes—themes, methods, and typologies across scales",
+      "doi": "10.1016/j.landurbplan.2026.105741",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105741",
+      "title": "“Tire Operation” model: A disaster-driven hybrid framework for assessing ecological resilience and guiding spatial planning in hazard-prone communities",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
@@ -43,31 +43,48 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001660",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001659",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/s0169-2046(26)00170-2",
-      "doi_url": "https://doi.org/10.1016/s0169-2046(26)00170-2",
-      "title": "Editorial Board",
+      "doi": "10.1016/j.landurbplan.2026.105739",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105739",
+      "title": "The restorative power of blue spaces: A 19-country study",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
       "published_parts": [
         2026,
-        11
+        12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001702",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001635",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107345",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107345",
-      "title": "The equity impact of bike-sharing on developing X-minute cities: A case study of 36 cities in Zhejiang Province, China",
+      "doi": "10.1016/j.landurbplan.2026.105738",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105738",
+      "title": "Bird-mediated cultural ecosystem services and disservices depend on urban residents’ perceptions of birds",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001623",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107383",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107383",
+      "title": "Measuring the unmeasurable: An intelligent and interactive evaluation addressing aesthetic performance of urban texture via CLIP and LLMs",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -77,43 +94,33 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005779",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006153",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107373",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107373",
-      "title": "Shaping socio-functional urban identity: When morphometrics meet social media data to reveal neighbourhood structure and cores",
+      "doi": "10.1016/j.cities.2026.107369",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107369",
+      "title": "Enhancing urban climate resilience via polycentric spatial structure in the pursuit of SDG 13 (Climate Action)",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-14",
+      "published_date_display": "2026-07-14",
       "published_parts": [
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006050",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006013",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107303",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107303",
-      "title": "From dematerialization to well-being in digital cities: The Melting–Relief–Vitality model for Montreal, London and Tokyo, 1900–2050",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005354",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Resilience (materials science)",
+        "Urban resilience",
+        "Urban spatial structure",
+        "Climate resilience",
+        "Climate change",
+        "Psychological resilience"
+      ]
     },
     {
       "doi": "10.1177/00420980261456890",
@@ -131,7 +138,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261456890",
       "abstract": "Across Asia, large-scale land redevelopments have become a defining feature of market-driven urbanization. In Vietnam, as in other rapidly urbanizing contexts, these projects are not only privately financed and developed but also planned by private consultants. While such private-sector practices are increasingly widespread in Asia, they have received limited scholarly attention, particularly regarding how they shape planning processes and professional agency. This paper advances urban scholarship by examining the role of private planners as key intermediaries in state–market urbanization regimes. Our analysis focuses on Vietnam’s “new urban areas,” large-scale master planned residential and mixed-use developments typically built on converted peri urban land. We situate planning practices for these developments within a hybrid governance regime that layers market-oriented reforms onto a persistent state-directed planning system. Drawing on 30 semi-structured interviews with local professionals and an analysis of institutional and economic conditions, we analyze how these actors navigate the competing demands of regulatory constraints, profitability imperatives, and their own professional aspirations. Findings show that planners deploy adaptive strategies by aligning goals to produce functionally complete environments with market logics and leveraging regulatory frameworks to temper development pressures. Yet these strategies are bounded by the same structures they mobilize, limiting their capacity to address broader equity concerns or challenge a profit-oriented urban model. By interrogating how professional agency is constituted in such hybrid governance settings, this study contributes to scholarship on planning privatization and urban neoliberalization beyond the Global North, offering new insights into how planners mediate, sustain, and subtly reshape market-driven urbanization.",
-      "keywords": []
+      "keywords": [
+        "Corporate governance",
+        "Scholarship",
+        "Urban planning",
+        "Intermediary",
+        "Agency (philosophy)",
+        "Urbanization",
+        "Equity (law)",
+        "Appropriation"
+      ]
     },
     {
       "doi": "10.1177/00420980261462752",
@@ -149,7 +165,14 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261462752",
       "abstract": "This article develops a theoretical framework for analyzing urban solidarity by bringing the concept of social capital into dialogue with the feminist notion of intersectional alliance. While social capital has long been used to examine relational resources embedded in networks, it has often been criticized for utilitarian and economic reductionism. Conversely, the concept of intersectional alliance foregrounds political commitment and solidarity across difference, but remains analytically under-specified. The article argues that integrating these two perspectives allows solidaristic cooperation among heterogeneous actors to be analyzed as a relational configuration that combines political orientation with relational mechanisms of cooperation. The paper reconstructs the genealogies and limits of both concepts and compares them across three analytical dimensions—motivations, purpose, and solidarity—before proposing an integrated framework that seeks to contribute to urban studies by offering a conceptual vocabulary for analyzing solidaristic relations in cities. The objective of the integration is twofold: first, to politicize social capital by mitigating its utilitarian tendencies and emphasizing the often-overlooked dimensions of power and conflict; second, to operationalize the concept of intersectional alliance, making it analytically useful for investigating the resources activated within social relationships. In doing so, the framework provides a theoretical lens for examining urban solidarity, where heterogeneous actors stabilize cooperation under conditions of spatial proximity and conflict.",
-      "keywords": []
+      "keywords": [
+        "Operationalization",
+        "Solidarity",
+        "Social capital",
+        "Politics",
+        "Capital (architecture)",
+        "Conceptual framework"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00481-5",
@@ -167,7 +190,120 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00481-5",
       "abstract": "",
+      "keywords": [
+        "Work (physics)",
+        "Sustainable development",
+        "Field (mathematics)",
+        "Sustainability"
+      ]
+    },
+    {
+      "doi": "10.1016/s0169-2046(26)00170-2",
+      "doi_url": "https://doi.org/10.1016/s0169-2046(26)00170-2",
+      "title": "Editorial Board",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001702",
+      "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105742",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105742",
+      "title": "Beyond scenic views: an integrative review of visual research on heritage landscapes—themes, methods, and typologies across scales",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001660",
+      "abstract": "",
+      "keywords": [
+        "Visual methods",
+        "Visual research",
+        "Visual anthropology",
+        "Scale (ratio)",
+        "Photo elicitation"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107345",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107345",
+      "title": "The equity impact of bike-sharing on developing X-minute cities: A case study of 36 cities in Zhejiang Province, China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005779",
+      "abstract": "",
+      "keywords": [
+        "Equity (law)",
+        "Gini coefficient",
+        "China",
+        "Theil index",
+        "Sustainable development",
+        "Mode (computer interface)",
+        "Index (typography)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107373",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107373",
+      "title": "Shaping socio-functional urban identity: When morphometrics meet social media data to reveal neighbourhood structure and cores",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006050",
+      "abstract": "",
+      "keywords": [
+        "Morphometrics",
+        "Neighbourhood (mathematics)",
+        "Social media",
+        "Social network analysis"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107303",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107303",
+      "title": "From dematerialization to well-being in digital cities: The Melting–Relief–Vitality model for Montreal, London and Tokyo, 1900–2050",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005354",
+      "abstract": "",
+      "keywords": [
+        "Dematerialization (economics)",
+        "Digital economy",
+        "Commodification"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107377",
@@ -5541,23 +5677,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0264-2751(26)00503-2",
-      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00503-2",
-      "title": "Editorial Board",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-29",
-      "published_date_display": "2026-05-29",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005032",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.cities.2026.107251",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107251",
       "title": "Borrowed size of Chinese urban system from cyberspace",
@@ -7106,32 +7225,6 @@
         "Current (fluid)",
         "Policy transfer",
         "Water transfer"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107192",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107192",
-      "title": "Urban beauty and its oppositions",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004245",
-      "abstract": "",
-      "keywords": [
-        "Beauty",
-        "Opposition (politics)",
-        "Perception",
-        "Urban planning",
-        "Urban design",
-        "Harmony (color)",
-        "Empirical research",
-        "Urban density"
       ]
     },
     {
