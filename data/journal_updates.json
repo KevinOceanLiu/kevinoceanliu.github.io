@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T22:08:39.144576+00:00",
+  "generated_at": "2026-07-14T22:11:06.910715+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115562",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115562",
-      "title": "Synergistic analysis and vertical transport attribution of carbon monoxide surface concentrations and satellite column loadings over China",
+      "doi": "10.1016/j.rse.2026.115561",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115561",
+      "title": "An improved 15-year record of ice sheet elevation from CryoSat-2 radar altimetry",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,68 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003329",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003317",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115565",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115565",
+      "title": "A hybrid machine learning and data assimilation framework for penman–monteith evapotranspiration estimation over China",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003354",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2693884",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2693884",
+      "title": "A DEM-based method for refining delineated stream networks using a longitudinal incision index",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-07-14",
+      "published_date_display": "2026-07-14",
+      "published_parts": [
+        2026,
+        7,
+        14
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2693884",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115562",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115562",
+      "title": "Synergistic analysis and vertical transport attribution of carbon monoxide surface concentrations and satellite column loadings over China",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003329",
+      "abstract": "",
+      "keywords": [
+        "Satellite",
+        "Carbon monoxide",
+        "Column (typography)",
+        "Carbon fibers",
+        "Carbon dioxide",
+        "Atmosphere (unit)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115555",
@@ -49,15 +108,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003251",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Satellite",
+        "Altimeter",
+        "Satellite altimetry",
+        "Error analysis",
+        "Satellite tracking"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.039",
@@ -66,15 +131,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
       "published_parts": [
         2026,
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600345X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Orthographic projection",
+        "Consistency (knowledge bases)",
+        "Benchmark (surveying)",
+        "Semantics (computer science)",
+        "Orthophoto",
+        "Satellite",
+        "Feature (linguistics)",
+        "Image warping",
+        "Inference"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2688354",
@@ -110,7 +185,14 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688349",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Urbanization",
+        "Context (archaeology)",
+        "Population",
+        "Immigration",
+        "Politics",
+        "Vulnerability (computing)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2689759",
@@ -128,7 +210,12 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2689759",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Selection (genetic algorithm)",
+        "Site selection",
+        "Wind power",
+        "Land use"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115560",
@@ -649,23 +736,6 @@
         "Atmospheric dust",
         "Mineral dust"
       ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115540",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115540",
-      "title": "Basal area loss from fire using field-calibrated remote sensing refines western US fire severity measurements",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600310X",
-      "abstract": "",
-      "keywords": []
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.030",
@@ -12530,56 +12600,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115302",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115302",
-      "title": "Leveraging sUAS-Sentinel-2 synergy for cross-scale mapping of canopy cover and aboveground biomass across Mongolia and Kazakhstan",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-19",
-      "published_date_display": "2026-02-19",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000726",
-      "abstract": "",
-      "keywords": [
-        "Canopy",
-        "Grassland",
-        "Biomass (ecology)",
-        "Scale (ratio)",
-        "Rangeland",
-        "Steppe",
-        "Satellite imagery",
-        "Ecosystem"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115324",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115324",
-      "title": "A multi-scale assessment of the effects of runoff/sediment discharge in karst catchments as shown by vegetation-related remote sensing indicators",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-19",
-      "published_date_display": "2026-02-19",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000945",
-      "abstract": "Remote sensing technology development has facilitated the emergence of numerous vegetation-related indicators, which may reflect the hydrological and sediment transport processes operating at different scales. However, few studies have investigated which vegetation-related indicator can best capture the variability in runoff and sediment discharge at multiple time scales, especially in ecologically fragile karst regions where the relationship between vegetation and hydrological process is highly complex and variable. To address this issue, five satellite-derived vegetation-related indicators (Normalized Difference Vegetation Index (NDVI), Kernel Normalized Difference Vegetation Index (kNDVI), Enhanced Vegetation Index (EVI), Leaf Area Index (LAI), and Solar-Induced chlorophyll Fluorescence (SIF)) were selected to assess their associations with runoff and sediment discharge across six karst catchments in Southwest China during 2003–2020, and these associations were conducted in nine karst catchments of France and Central United States to validate the findings of this study. The Mann–Kendall trend test results indicated a significant increasing trend in vegetation, whereas sediment discharge generally exhibited a decreasing trend. Continuous Wavelet Transform analysis detected significant cyclic oscillations in runoff (9-13 months) and vegetation-related indicators (8-16 months), but no persistent periodicity was observed for sediment discharge. The Cross Wavelet Transform and Wavelet Coherence analyses were then applied across all 15 karst catchments. The proportion of areas showing significant coherence between vegetation and runoff ranged from 4% to 33%, whereas this proportion between vegetation and sediment ranged from 6% to 29%. Subsequently, the technique for order preference by similarity to ideal solution was employed to evaluate the relative explanatory capacity of hydrological variables for vegetation-related indicators. The results identified SIF as the most effective explanatory variable for both river runoff and sediment in global karst areas. These findings provide new insights into the complex relationships between vegetation and hydrological processes in karst catchments and offer valuable guidance for improving water and soil resource management strategies.",
-      "keywords": [
-        "Surface runoff",
-        "Karst",
-        "Hydrology (agriculture)",
-        "Normalized Difference Vegetation Index",
-        "Sediment",
-        "Vegetation (pathology)"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2623155",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2623155",
       "title": "An efficient calibration algorithm for multiscale geographically and temporally weighted regression",
@@ -13962,6 +13982,34 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115540",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115540",
+      "title": "Basal area loss from fire using field-calibrated remote sensing refines western US fire severity measurements",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600310X",
+      "abstract": "Fire is a critical ecological process and the spatial patterns of fire severity have profound effects on forest structure and resilience. Cost-effective fire severity measurements are critical for informing post-fire restoration strategies and for improving our understanding of the patterns, drivers, and ecological consequences of wildfires. Remote sensing technology has advanced burn severity mapping through space and time. However, different severity mapping methods vary in interpretability, scalability, generalizability, and how well they align with field measurements. One common meaningful metric of fire effects on forests is percent basal area loss, but existing methods present challenges to researchers and managers due to the lack of region-specific field reference data and a scalable framework for automatic mapping. To address these issues, we compiled field reference data from 123 fires in forests across the western US to calculate the proportion of fire-induced basal area loss. We then tested spatially cross-validated machine learning models concurrently with hyperparameter tuning to select a skillful, parsimonious model from an extensive candidate set comprising various combinations of climatic, topographic, and surface reflectance-based covariates. Model performance varied geographically, highlighting that this new method currently provides a critical resource for managers in some regions such as forests in Oregon and Washington, while providing a roadmap for researchers in other regions to continue adding data to the project to improve fire severity mapping efforts. To support fire severity assessments, we created a tool in Google Earth Engine to produce estimates of percent basal area loss for any fire perimeter in the western US.",
+      "keywords": [
+        "Remote sensing",
+        "Basal area",
+        "Field (mathematics)",
+        "Environmental science",
+        "Basal (medicine)",
+        "Geography",
+        "Medicine",
+        "Forestry",
+        "Mathematics",
+        "Internal medicine"
       ]
     }
   ]
