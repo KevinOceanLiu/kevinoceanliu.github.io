@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:40:12.473648+00:00",
+  "generated_at": "2026-07-15T22:40:50.877082+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01905-9",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01905-9",
+      "title": "Residents near small rivers in the USA could face disproportionately high future flood risk",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-15",
+      "published_date_display": "2026-07-15",
+      "published_parts": [
+        2026,
+        7,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01905-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02042-w",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02042-w",
+      "title": "Deeper solar wind penetration on the Moon’s farside from noble gas records",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-15",
+      "published_date_display": "2026-07-15",
+      "published_parts": [
+        2026,
+        7,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02042-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02709-7",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02709-7",
+      "title": "Targeted tropical forest restoration can offset deforestation-induced water flux losses",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-15",
+      "published_date_display": "2026-07-15",
+      "published_parts": [
+        2026,
+        7,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02709-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01897-6",
       "doi_url": "https://doi.org/10.1038/s41893-026-01897-6",
       "title": "Resilience metrics to guide back-up investments in the power system during extreme weather",
@@ -41,7 +95,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01897-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Extreme weather",
+        "Resilience (materials science)",
+        "Electric power system",
+        "Psychological resilience",
+        "Renewable energy",
+        "Variable renewable energy",
+        "Power (physics)",
+        "Vulnerability (computing)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01885-w",
@@ -59,7 +122,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01885-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Cognitive reframing",
+        "Safeguarding",
+        "Leverage (statistics)",
+        "Bridge (graph theory)",
+        "Process (computing)",
+        "Politics",
+        "International community",
+        "Action (physics)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01886-9",
@@ -77,7 +149,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01886-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Flood myth",
+        "Population",
+        "Resource allocation",
+        "Per capita",
+        "Resource (disambiguation)",
+        "Investment (military)",
+        "Flooding (psychology)",
+        "Retrofitting",
+        "Unexpected events"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01894-9",
@@ -95,7 +177,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01894-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hydrogen production",
+        "Resource (disambiguation)",
+        "Water resources",
+        "China",
+        "Hydrogen",
+        "Carbon fibers",
+        "Sustainable development",
+        "Water use"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02046-6",
@@ -113,7 +204,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02046-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Intertropical Convergence Zone",
+        "Tropics",
+        "Convection",
+        "Tropical climate",
+        "Seasonality",
+        "Climate model",
+        "Rainband",
+        "Annual cycle",
+        "Sea surface temperature"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02025-x",
@@ -131,7 +232,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02025-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Monsoon",
+        "Seasonality",
+        "East Asian Monsoon",
+        "Forcing (mathematics)",
+        "Sediment core",
+        "Climate change",
+        "Tropical monsoon climate",
+        "Monsoon of South Asia",
+        "Sediment"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02695-w",
@@ -149,7 +260,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02695-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Work (physics)",
+        "Adaptive capacity",
+        "China",
+        "Capacity building",
+        "Climate change",
+        "Adaptive strategies"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02699-6",
@@ -167,7 +285,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02699-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Glacier",
+        "Surface runoff",
+        "Downstream (manufacturing)",
+        "Work (physics)",
+        "Hydrology (agriculture)",
+        "Buffer (optical fiber)",
+        "Water resources"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02064-4",
@@ -777,14 +903,23 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001715",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Greening",
+        "Global health",
+        "Distribution (mathematics)",
+        "Human health",
+        "Developing country",
+        "Public health",
+        "Developed country",
+        "Urban greening"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101747",
