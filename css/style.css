@@ -30,7 +30,8 @@
     --spacing-xl: 3rem;
     
     /* Typography */
-    --font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    /* D-DIN includes matched Regular and Bold faces; existing font-weight rules select between them. */
+    --font-family: "D-DIN", Arial, sans-serif;
     --font-size-base: 16px;
     --line-height: 1.6;
     
@@ -170,7 +171,7 @@ body {
 .hero-name-line,
 .hero-subtitle-cjk {
     display: block;
-    font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif;
+    font-family: "D-DIN", 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0;
@@ -178,7 +179,7 @@ body {
 
 .hero-subtitle-katakana {
     display: block;
-    font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'PingFang SC', 'Microsoft YaHei', Helvetica, Arial, sans-serif;
+    font-family: "D-DIN", 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0;
@@ -3387,7 +3388,7 @@ a.link-arrow:hover,
     gap: 28px;
     width: min(100% - 2 * var(--spacing-md), 760px);
     margin: 0 auto 72px;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     color: var(--text-color);
 }
 
@@ -3397,7 +3398,7 @@ a.link-arrow:hover,
     left: max(var(--spacing-md), calc((100% - var(--content-width)) / 2));
     width: 184px;
     color: #000;
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
 }
 
 .game-intro h1 {
@@ -3424,7 +3425,7 @@ a.link-arrow:hover,
     place-items: center;
     min-height: 220px;
     color: var(--primary-color);
-    font-family: "DIN Bold", "DIN Alternate", "Arial Narrow", Impact, sans-serif;
+    font-family: var(--font-family);
     font-size: clamp(120px, 24vw, 220px);
     line-height: 1;
     font-weight: 800;
@@ -3450,7 +3451,7 @@ a.link-arrow:hover,
     gap: 12px;
     padding: 0;
     color: var(--text-color);
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     font-size: 16px;
     font-weight: 500;
 }
@@ -3462,7 +3463,7 @@ a.link-arrow:hover,
 .game-page .game-button,
 .game-page .game-stats,
 .game-page .game-history {
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
 }
 
 .game-field {
@@ -3584,7 +3585,7 @@ a.link-arrow:hover,
     width: 100%;
     border-top: 1px solid var(--border-color);
     color: var(--text-color);
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     font-size: 16px;
     font-weight: 500;
 }
@@ -3609,7 +3610,7 @@ a.link-arrow:hover,
     width: 100%;
     border-top: 1px solid var(--border-color);
     color: var(--text-color);
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     font-size: 16px;
     font-weight: 500;
 }
@@ -3627,7 +3628,7 @@ a.link-arrow:hover,
     max-width: none;
     margin: 0;
     padding: 56px 0 0;
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
 }
 
 .island-controls {
@@ -3639,7 +3640,7 @@ a.link-arrow:hover,
     width: min(100% - 2 * var(--spacing-md), 560px);
     margin: 0 auto 18px;
     color: var(--text-color);
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     font-size: 16px;
     font-weight: 500;
 }
@@ -3650,7 +3651,7 @@ a.link-arrow:hover,
 .island-page .island-confirm,
 .island-page .island-history,
 .island-page .island-history * {
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
 }
 
 .island-difficulty-label {
@@ -3735,7 +3736,7 @@ a.link-arrow:hover,
     width: min(100% - 2 * var(--spacing-md), 1138px);
     margin: 0 auto 72px;
     color: #000;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     font-size: 16px;
     font-weight: 500;
 }
@@ -3805,7 +3806,7 @@ a.link-arrow:hover,
     z-index: 500;
     width: min(86%, 520px);
     color: #000;
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     text-align: center;
     pointer-events: none;
     transform: translate(-50%, -50%);
@@ -3816,7 +3817,7 @@ a.link-arrow:hover,
 .island-map-feedback .island-feedback-result {
     display: block;
     color: #16a34a;
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     font-size: clamp(20px, 2.2vw, 30px);
     font-weight: 700;
     line-height: 1;
@@ -3826,7 +3827,7 @@ a.link-arrow:hover,
     display: block;
     max-width: 100%;
     color: #000;
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     font-size: clamp(20px, 2.2vw, 30px);
     font-weight: 700;
     line-height: 1.08;
@@ -3835,7 +3836,7 @@ a.link-arrow:hover,
 .island-map-feedback .island-feedback-meta {
     display: block;
     color: #000;
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
     font-size: clamp(20px, 2.2vw, 30px);
     font-weight: 700;
     line-height: 1.15;
@@ -3867,7 +3868,7 @@ a.link-arrow:hover,
 }
 
 .island-map .leaflet-control-container {
-    font-family: "DIN", "DIN Alternate", "DIN Condensed", "Arial Narrow", Helvetica, Arial, sans-serif;
+    font-family: var(--font-family);
 }
 
 .island-map-panel .leaflet-container {
@@ -4645,4 +4646,127 @@ select {
     height: 150px !important;
     overflow: hidden !important;
     pointer-events: none !important;
+}
+
+/* Align the content edges on secondary pages with the closing divider. */
+.page-with-closing > .standalone-page-layout,
+.page-with-closing > .others-page {
+    max-width: var(--content-width);
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.page-with-closing > .standalone-page-layout .cv-line-section {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.news-page.page-with-closing {
+    grid-template-columns: minmax(0, min(780px, calc(50vw - 32px))) minmax(0, 1fr);
+    padding-left: max(0px, calc((100% - var(--content-width)) / 2));
+    padding-right: max(0px, calc((100% - var(--content-width)) / 2));
+    justify-content: normal;
+}
+
+.news-page .news-carousel {
+    width: min(780px, calc(50vw - 32px));
+    margin: 0;
+    justify-self: start;
+}
+
+.news-page .news-carousel-image {
+    object-position: left center;
+}
+
+.news-page .news-list {
+    width: 100%;
+    justify-self: end;
+    text-align: right;
+}
+
+/* Use the closing divider as the shared horizontal guide on the home page. */
+.nav-container,
+.home-page > .home-layout {
+    max-width: calc(var(--content-width) + 40px);
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Align the closing copy and mark with the divider endpoints. */
+.page-closing {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.page-closing-logo {
+    right: 0;
+}
+
+@media (min-width: 769px) {
+    .home-page .profile-avatar-frame {
+        align-self: flex-start;
+        margin: 0 0 4px -16px;
+    }
+
+    .home-page .home-intro {
+        align-self: flex-start;
+        width: 112px;
+        margin-left: -16px;
+    }
+
+    .home-page .hero-title {
+        white-space: nowrap;
+    }
+
+    .home-page .language-switcher {
+        align-self: flex-start;
+        width: 112px;
+        justify-content: center;
+    }
+
+}
+
+/* My News uses a centered, single-column reading flow. */
+.news-page.page-with-closing {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.news-page .news-content {
+    display: flex;
+    flex: 1 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 24px 16px 72px;
+}
+
+.news-page .news-carousel {
+    width: min(780px, 100%);
+    margin: 0;
+}
+
+.news-page .news-carousel-image {
+    object-position: center;
+}
+
+.news-page .news-list {
+    width: min(780px, 100%);
+    height: auto;
+    margin: 24px 0 0;
+    overflow: visible;
+    text-align: right;
+}
+
+@media (max-width: 1160px) {
+    .page-closing,
+    .page-with-closing > .standalone-page-layout {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
