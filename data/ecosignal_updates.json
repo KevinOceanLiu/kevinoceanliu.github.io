@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:33:23.761868+00:00",
+  "generated_at": "2026-07-15T23:39:42.746960+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03130-1",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03130-1",
+      "title": "Biodiversity effects under climate extremes intensify with aridity in grasslands but not forests",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-15",
+      "published_date_display": "2026-07-15",
+      "published_parts": [
+        2026,
+        7,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03130-1",
+      "abstract": "Abstract Biodiversity generally enhances ecosystem productivity, but whether such effects persist or intensify during climate extremes is unclear. Here we synthesized data from 75 biodiversity experiments across grasslands and forests to assess how aridity and soil nutrients modulate plant diversity effects under drought and heat extremes. Biodiversity most strongly enhanced productivity under extreme drought in more arid grasslands but had limited effects in forests under such conditions. More arid grasslands showed enhanced complementarity effects under extreme drought, whereas less arid grasslands favoured selection effects driven by productive species. Heat extremes did not produce comparable context-dependent changes in plant diversity effects across ecosystem types or aridity gradients. Soil nutrients did not have any detectable influence under either drought or heat extremes, suggesting that as climatic stress intensifies, hydric limitations override edaphic constraints. Our synthesis identifies when and where plant diversity most strongly enhances productivity, showing that its effects are the greatest under extreme drought in more arid grasslands.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03127-w",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03127-w",
+      "title": "Biodiversity buffers the effects of drought on productivity most in drier grasslands and less so in forests",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-15",
+      "published_date_display": "2026-07-15",
+      "published_parts": [
+        2026,
+        7,
+        15
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03127-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2745.70400",
       "doi_url": "https://doi.org/10.1111/1365-2745.70400",
       "title": "Tree canopy shapes the survival of oak and beech saplings during the regeneration stage along an elevation‐driven temperature gradient",
@@ -51,6 +87,33 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70400",
       "abstract": "Abstract Climate change is increasing the severity and frequency of heatwave and drought events, affecting forest community composition through changes in the mediating microclimatic effect of dominant adult trees. Predicting these changes requires understanding how temperature interacts with biotic factors, such as canopy‐mediated facilitation and competition, during forest regeneration. Here, we investigate how the forest canopy modifies temperature‐ and light‐related constraints on sapling survival along an elevation gradient. We conducted a reciprocal transplant experiment using saplings of Fagus sylvatica and Quercus petraea along an elevation‐driven temperature gradient (100–1600 m) in the French Pyrenees. Saplings were planted under two tree‐neighbour conditions, under forest canopy and in open gaps, allowing analysis of the effects of temperature, canopy cover and their interactions on survival. The experimentally derived survival‐temperature relationships were then used to generate spatial projections of canopy effects on sapling survival under a warming scenario. Sapling survival declined with increasing elevation for both species, but responses differed between canopy conditions and species. Q. petraea survival decreased sharply under canopy at high elevation, whereas F. sylvatica showed reduced survival in open gaps at the lowest elevation. These patterns reflect contrasting biotic interactions along the thermal gradient: canopy competition constrains Q. petraea at high elevations due to heat limitation, while canopy facilitation benefits F. sylvatica at the lowest elevation by buffering heat and vapour pressure deficit. Spatial projections under climate warming suggested improved canopy effect for both species at lower elevations, whereas at higher elevations Q. petraea benefits from canopy, but F. sylvatica experiences degraded effects. Our findings highlight the key role of strain— the degree to which local conditions deviate from a species' physiological optimum — in shaping competitive and facilitative interactions. While environmental stress sets the external constraint, species strain determines whether the canopy cover functions as a buffer or an inhibitor. Synthesis . By altering microclimatic conditions, the tree canopy can either alleviate or intensify strain depending on the species, thus influencing sapling survival and establishment along thermal gradients. Our results underscore the need to explicitly account for biotic interactions in models of species distribution and forest regeneration under climate warming.",
+      "keywords": [
+        "Canopy",
+        "Quercus petraea",
+        "Fagus sylvatica",
+        "Beech",
+        "Climate change",
+        "Fagaceae",
+        "Tree canopy",
+        "Interspecific competition"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70399",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70399",
+      "title": "Latitudinal patterns in growth and defence against multiple enemies of an invasive species and its native congener",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-07-14",
+      "published_date_display": "2026-07-14",
+      "published_parts": [
+        2026,
+        7,
+        14
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70399",
+      "abstract": "Abstract Some invasive plant species rapidly develop latitudinal patterns of growth and defence against herbivores in their introduced ranges, either parallel to or different from those of co‐occurring native plant species. However, how defences against multiple enemies relate to latitude and environmental drivers for co‐occurring native and invasive plant species remains uncertain. We assessed latitudinal patterns in growth and defences against multiple enemies for the invasive species Alternanthera philoxeroides and its native congener A. sessilis in China, with surveys of natural populations and a common garden experiment with ~50 populations. We explored how plant growth and defences were associated with source site environments. In natural populations, foliar defoliation and pathogen infection peaked at intermediate latitude, while herbivore richness and abundance, richness of overall rhizosphere fungi and pathogens decreased with latitude for both species. In the common garden, native species' growth decreased with source population latitude, while native plant resistance against the dominant insect herbivore and root‐knot nematode parasite increased with source latitude. Invasive species' growth and defences were unrelated to source population latitude. Resistance to a common foliar fungal pathogen did not vary with source population latitude for either species. Traits of native plants were consistent with direct effects of climate while those of invasive plants only reflected indirect effects. Synt hesis. The results underscore the latitudinal variability of biotic interactions across organisms and highlight how a species' growth and defence across latitude are not influenced by herbivores alone, but a suite of enemies and abiotic conditions.",
       "keywords": []
     },
     {
@@ -69,7 +132,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70401",
       "abstract": "Abstract The grazing optimization hypothesis suggests that moderate herbivory can stimulate plant growth and increase productivity, a phenomenon referred to as overcompensation. However, most evidence for this response is based on above‐ground responses, while below‐ground responses remain uncertain. Below‐ground productivity accounts for more than half of total grassland productivity, making it essential to assess whole‐plant responses. We conducted a 3‐year yak grazing‐intensity experiment, manipulating four levels of herbivory, and quantified compensation indices for both above‐ground (ANPP) and below‐ground (BNPP) net primary productivity relative to ungrazed controls. We complemented this with a controlled simulated‐grazing experiment to isolate the effects of defoliation, trampling and excrement on these compensation responses. Across light, moderate and heavy grazing treatments, ANPP increased by 28%–43% relative to ungrazed controls, suggesting clear overcompensation in above‐ground production. In contrast, BNPP showed little response to grazing intensity and exhibited only limited compensatory responses, such that total net primary productivity (NPP) showed only weak overcompensation. Over time, the magnitude of ANPP overcompensation declined, whereas no temporal attenuation was detected for BNPP or total NPP. Results from the simulated‐grazing experiment further showed that defoliation alone increased ANPP, while trampling and excreta return had negligible effects on ANPP, BNPP or their associated compensation indices. Synthesis . Our findings suggest that reliance on aboveground‐only measurements systematically overestimates the degree of overcompensation in grazed grasslands, underscoring the necessity of whole‐plant assessments for accurately evaluating grassland productivity.",
-      "keywords": []
+      "keywords": [
+        "Trampling",
+        "Grazing",
+        "Grassland",
+        "Herbivore",
+        "Productivity",
+        "Primary production",
+        "Compensatory growth (organ)",
+        "Grazing pressure"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70505",
@@ -87,7 +159,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70505",
       "abstract": "Abstract Climate change and hydrologic alteration by water infrastructure are reshaping river ecosystems globally, threatening freshwater biodiversity. Effective conservation strategies for riverine species depend on understanding how climate‐driven changes in temperature and flow interact with water management to regulate population dynamics, yet these interactions remain poorly understood. Here, we use a hierarchical Bayesian stock‐recruitment model to quantify how six decades of changing climate and water management (i.e. flow regulation at a large storage dam) jointly influence the productivity of 13 populations of a cold‐water fish species of significant conservation and economic importance, Yellowstone cutthroat trout ( Oncorhynchus virginalis bouvieri ) in the upper Snake River watershed, Wyoming, USA. We show that strong seasonal warming had opposing effects on productivity, with declines in warmer winters and springs but increases in warmer summers. The strongest driver of productivity was an interaction between the timing of natural and managed peak spring flows, where matched peak flow events reduced productivity, while mismatched peaks extended the flood pulse and increased productivity. In addition, key flow management periods, including summer irrigation flows and the timing of autumn ramp down, had important but smaller effects on productivity. Future climate projections indicated that continued warming and reduced spring flood duration may threaten trout productivity. However, our results show how adaptive dam management that strategically integrates with natural flow variability could offset climate‐driven declines and sustain ecosystem function. Synthesis and applications. Our results identify actionable levers for adaptive water management in the upper Snake River: delaying managed peak releases relative to natural flood peaks to extend the spring flood pulse, and postponing autumn ramp down to maintain side‐channel connectivity. While institutional constraints (e.g. water rights obligations) and hydrologic conditions (e.g. drought) may limit implementation, our findings provide key information for both long‐term and rapid‐response decision making. Quantifying the ecological value of water, as we do here, is essential for elevating fisheries and ecosystems services in water‐use negotiations dominated by consumptive demands. Our results provide a transferable framework for adaptive water management to support riverine biodiversity under intensifying warming and water scarcity.",
-      "keywords": []
+      "keywords": [
+        "Flood myth",
+        "Climate change",
+        "Ecosystem",
+        "Productivity",
+        "Trout",
+        "Population",
+        "Adaptive management",
+        "Ecosystem management",
+        "Oncorhynchus"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70502",
@@ -105,7 +187,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70502",
       "abstract": "Abstract Ribbed mussels are ecosystem engineers that can enhance the performance of Spartina alterniflora and contribute to shoreline protection, but it remains unclear how mussel facilitation of cordgrass growth and associated stability benefits vary across inundation gradients expected under accelerating sea level rise. Identifying where this facilitation strengthens or weakens along the elevation gradient is, therefore, essential for anticipating restoration outcomes and designing interventions that leverage biotic interactions under future inundation regimes. We conducted a field mesocosm experiment on the Louisiana coast using marsh organs planted with S. alterniflora . We exposed the plants to five elevation treatments ( E = +5, 0, −5, −10 and −15 cm relative to the present marsh surface) to generate an inundation gradient spanning a low‐inundation hindcast, present‐day conditions and future relative elevation scenarios under sea level rise, and we crossed these elevations with four ribbed mussel ( Geukensia granosissima ) density treatments ( N = 0, 254, 509 and 1018 individuals m −2 ). Our results showed that mussel–cordgrass facilitation was strongly dependent on relative elevation: increasing mussel density enhanced plant biomass accumulation only within a distinct ‘facilitation window’ where elevation keeps pace with sea level rise (+5 to 0 cm relative elevation). At relative elevations of −5 cm and lower, the positive mussel–cordgrass interaction weakened rapidly, forming a ‘decoupling zone’. Structural equation modelling further suggested that greater realized mussel biomass was associated with higher soil organic matter and below‐ground biomass, whereas greater inundation frequency was associated with higher soil water content and lower soil organic matter and below‐ground biomass. Synthesis and applications. Within a limited elevation range near the present marsh surface, ribbed mussels facilitate S. alterniflora biomass accumulation; however, this facilitative interaction is contingent on relative elevation and is likely to weaken as relative elevation declines under future sea level rise. Consequently, relative elevation provides a practical screening metric for marsh restoration efforts, helping to prioritize locations for incorporating ribbed mussels where benefits to cordgrass biomass are most likely and to avoid settings where expected benefits are low. This screening metric can inform marsh restoration project siting, monitoring and adaptive management under future sea level rise.",
-      "keywords": []
+      "keywords": [
+        "Spartina alterniflora",
+        "Mussel",
+        "Ecosystem engineer",
+        "Marsh",
+        "Salt marsh",
+        "Ecosystem",
+        "Mesocosm",
+        "Wetland"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70472",
@@ -123,7 +214,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70472",
       "abstract": "Abstract Increased forest diebacks under climate change necessitate adaptation strategies of forest management, which often include the use of drought‐resistant non‐native tree species. However, their planting has raised concerns about the ecological impacts on forest biodiversity and functioning. Relevant studies are largely limited to single forest strata, often focusing on ground or subcanopy communities, which prevents a comprehensive understanding of how biodiversity responds to changes in native and non‐native tree species identity and composition across forest strata. Here, we provide a synthesis of how the introduction of North American Douglas fir alters different facets of biodiversity across vertical strata in Central European forests. We focused on beetles, a hyperdiverse group of forest biota, and considered economically important stand types including and excluding Douglas fir, namely, monocultures and mixtures of native European beech, native Norway spruce planted outside its natural range and non‐native Douglas fir. Beetle diversity varied strongly among forest strata and stand types. Douglas fir monocultures consistently supported lower taxonomic, functional and phylogenetic diversity at both local (plot) and regional (landscape) scales compared with the other stand types, with the most pronounced differences observed in the canopy. Mixture effects depended on the identity of admixed conifers: beech–spruce mixtures favoured beetle diversity on the forest floor, whereas beech–Douglas fir mixtures generally buffered canopy beetle diversity losses observed in Douglas fir monocultures. Canopy openness, deadwood volume and tree neighbourhood diversity shaped biodiversity across all strata. Subcanopy communities generally depended most on environmental features, while canopy communities were strongly driven by tree species identity. Community composition and feeding‐guild structure diverged with increasing stratum height, especially when comparing beech‐ and conifer‐dominated stands, underscoring the sensitivity of canopy assemblages to host tree identity due to their direct contact with tree‐specific habitats and resources. Synthesis and applications . Our findings emphasize the importance of integrating vertical stratification into biodiversity monitoring for a comprehensive understanding of the ecological impacts of climate‐adapted forest management with non‐native tree species. Promoting mixed stands can mitigate negative biodiversity impacts of non‐native tree species and support the maintenance of multidimensional biodiversity of associated forest biota under climate‐driven forest reorganization.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Monoculture",
+        "Species diversity",
+        "Canopy",
+        "Alpha diversity",
+        "Range (aeronautics)",
+        "Global biodiversity",
+        "Basal area"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70500",
@@ -141,7 +241,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70500",
       "abstract": "Abstract Land‐use change and intensification can be a threat to biodiversity of grassland habitats, including genetic diversity. This is especially true for areas where drastic changes in land use occurred in recent years. The Allgäu in Germany is known for a large proportion of grassland in its landscape. However, the sites often differ in their current management intensity and their land use history. While some sites have been used as grasslands for more than two centuries, other grasslands are much younger. We assumed that landscape history and grassland management have a significant impact on genetic variation and therefore analysed the genetic variation of five typical grassland species using multiplexed ISSR (inter‐simple sequence repeat) genotyping by sequencing (MIG‐seq). We then related data on genetic variation with data on habitat quality, landscape structure and habitat age to identify possible drivers of genetic variation. Our results indicated a high level of gene flow across the study area. Consequently, genetic differentiation among populations was correlated with geographic distance. Genetic diversity clearly depended on habitat age but was not related to habitat conditions or landscape structure. Synthesis and applications . Since ancient grasslands harbour genetically more diverse plant populations, land use history should be given more attention in conservation management.",
-      "keywords": []
+      "keywords": [
+        "Grassland",
+        "Genetic diversity",
+        "Biodiversity",
+        "Habitat",
+        "Genetic structure",
+        "Genetic variation",
+        "Gene flow"
+      ]
     },
     {
       "doi": "10.1111/gcb.70992",
@@ -159,6 +267,33 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70992",
       "abstract": "ABSTRACT Identifying coral populations with heritable thermal tolerance is critical for developing climate‐resilient reef conservation practices. We quantified thermal tolerance in larvae from 51 selectively bred Acropora families using acute heat stress assays (35.5°C) then modelled larval survival against 20 satellite‐derived SST predictors (1985–2022) using boosted regression trees (BRT) to predict the spatial distribution of thermally resilient coral offspring along Ningaloo World Heritage Reef (East Indian Ocean). BRT models had an AUC of 0.67 (±0.01 SE) and revealed that thermal anomaly frequency, cumulative heat stress and temperature variability, particularly diurnal temperature range, most strongly predicted larval survival (37.2%, 22.7% and 21.7%, respectively). Survival peaked at thermal stress of 1.14°C –weeks (Degree Heating Weeks) and variability of daily temperature range of ~1°C day −1 highlighting potential ecological thresholds in larval survival in this area. Spatial outputs identified six reefs (17% of surveyed sites), all north of Point Cloates, as having the highest predicted larval survival (> 45%), contrasting with consistently lower survival probabilities across most southern sites. By linking experimental physiology with spatial modelling, this study delivers the first spatially explicit predictions of thermally resilient larval supply along Ningaloo Reef, providing a scalable framework for guiding marine spatial planning, broodstock selection and restoration prioritisation across a remote World Heritage coral reef.",
+      "keywords": [
+        "Reef",
+        "Coral",
+        "Coral reef",
+        "Larva",
+        "Anthozoa",
+        "Range (aeronautics)",
+        "Broodstock",
+        "Sea surface temperature"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.71006",
+      "doi_url": "https://doi.org/10.1111/gcb.71006",
+      "title": "Climate Controls Cold‐ But Not Warm‐Adapted <i>Sphagnum</i> Distribution and Carbon Sink Capacity",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-14",
+      "published_date_display": "2026-07-14",
+      "published_parts": [
+        2026,
+        7,
+        14
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71006",
+      "abstract": "ABSTRACT Despite the critical role of Sphagnum mosses in carbon (C) sequestration, it remains unclear how climate governs their distribution and C sink function. To address this, a reciprocal transplant experiment was performed over 2 years in two peatlands in the Changbai Mountains, utilizing moss monolith mesocosms from low‐elevation ( S. imbricatum ), high‐elevation ( S. fuscum ), and wide‐elevation‐range ( S. magellanicum ) Sphagnum species. We found that when low‐elevation Sphagnum populations were transplanted upward, both the non‐structural carbohydrates (NSC) content and photosystem II efficiency (Φ PSII ) increased, with concomitant reduced ecosystem respiration (ER) and enhanced C sequestration at high elevation. In contrast, for high‐elevation populations, downward transplant significantly weakened gross primary productivity (GPP), primarily by reducing Sphagnum photosynthesis and physiological performance, accompanied by slightly enhanced peat decomposition, ultimately suppressing net ecosystem productivity (NEP) by more than 50%. These results indicate that the 4°C temperature difference associated with the elevational gradient does not restrict the upward distribution of warm‐adapted S. imbricatum and S. magellanicum populations, but it severely restricts the downward distribution of cold‐adapted S. fuscum and S. magellanicum populations. Altered vegetation composition and microbial community coincided with NEP changes in ex‐situ transplants. Our study demonstrates that geographical origin, rather than genetic divergence, strongly affects the short‐term performance of Sphagnum under both cooling and warming conditions. Climate thus controls the distribution and C sink capacity of cold‐ but not warm‐adapted Sphagnum , highlighting the vulnerability of cold‐adapted Sphagnum to warming.",
       "keywords": []
     },
     {
@@ -177,7 +312,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70983",
       "abstract": "ABSTRACT At high latitudes, hibernating species must replenish their energy reserves within a 4–6 month active season. During this window, insectivorous bats at higher latitudes must consume sufficient arthropod prey to support reproduction and migration, despite suboptimal weather and prey abundance that varies across time and space. Local declines in body size of endangered little brown bats ( Myotis lucifugus ) suggest ongoing nutritional stress associated with limited prey availability and inclement weather. We tested the hypothesis that climate change has caused nutritional stress in bats at a continental scale. We analyzed morphometric data from > 21,000 bats from five regions across Canada and northern Montana over 8–16 years. We used forearm length as a proxy for access to nutrition during development, and body mass as a proxy for recent energy reserves. Average adult and juvenile forearm length declined over time in most study regions, although the magnitude of the estimated declines varied geographically. We found that the interactive effects of rainfall and temperature on reproductive females exerted a carry‐over effect on juvenile body size, as juvenile forearm length was shorter, on average, in years when mothers experienced poor weather before and after hibernation. Although changes in adult body mass were geographically widespread, the drivers, direction, and magnitude of these trends varied among phenophases, demographic groups, and study regions. This result implies the effects of other, stochastic factors, such as arthropod abundance or wildfires, although these cannot be directly tested with the available data. Our study illustrates that directional changes in average temperature and rainfall can affect the energetics and development of little brown bats. Ongoing nutritional stress associated with climate change may impact the viability of bat populations that are also threatened by white‐nose disease.",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Juvenile",
+        "Energetics",
+        "Insectivore",
+        "Predation",
+        "Abundance (ecology)",
+        "Endangered species",
+        "Latitude",
+        "Temperate climate"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03129-8",
@@ -271,7 +416,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70379",
       "abstract": "Abstract High‐elevation populations are expected to receive reduced snowpack, warmer temperatures and more variable precipitation with climate change, potentially putting them at risk if rates of adaptation do not keep pace. Populations from climates more closely aligned with changing conditions at high elevations may prove better suited to current climate than the local populations. Thus, it is essential to assess (1) whether high‐elevation populations are locally adapted to current climate or (2) whether the fitness of lower elevation populations from warmer climates is higher than for local populations in high‐elevation conditions. We conducted a common garden study with Streptanthus tortuosus at a high‐elevation site. Plants from twenty‐three populations from across the species range, which vary in climate and life history, were transplanted and subsequently measured for mortality and reproductive output across two growing seasons. We examined the effects of climatic distance from the site of origin on plant performance. We hypothesized that lower elevation populations would survive the first warm growth season well, but the seasonal constraint of cold temperatures and snowpack would reduce their survival into the second year, thus limiting their overall fitness. We observed evidence of adaptational lag for high‐elevation populations, including the local population, but only for some life stages. Lower elevation populations, with climates further from the garden, had higher survival through the first year and over winter, resulting in higher probabilities of reproducing and total fitness. However, survival to reproduction in year 2, and total reproductive output, driven largely by reproduction in the second year, were higher in high‐elevation populations, with climates closer to the garden. Thus, adaptational lag differed among life stages and depended on life history (e.g. first year versus second year fitness). Synthesis . Our results highlight the importance of considering variation in life history and seasonal timing when evaluating climate adaptation, as well as vulnerability of high‐elevation populations to climate change. Further, these findings provide information for management of populations at risk, including strategic assisted gene flow that introduces beneficial alleles from warm‐adapted populations but preserves some components of high‐elevation adaptation.",
-      "keywords": []
+      "keywords": [
+        "Elevation (ballistics)",
+        "Wildflower",
+        "Climate change",
+        "Precipitation",
+        "Reproductive success",
+        "Adaptation (eye)",
+        "Reproduction",
+        "Phenology"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70508",
@@ -18444,33 +18598,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70808",
-      "doi_url": "https://doi.org/10.1111/gcb.70808",
-      "title": "Much Larger Whole‐Profile Soil Organic Carbon Stocks on the Qinghai‐Tibet Plateau Than Previously Reported",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-16",
-      "published_date_display": "2026-03-16",
-      "published_parts": [
-        2026,
-        3,
-        16
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70808",
-      "abstract": "ABSTRACT The Qinghai‐Tibet Plateau (QTP), often referred as Earth's “Third Pole,” is warming nearly twice the global average, potentially amplifying carbon–climate feedbacks to a greater extent than in most other regions. However, substantial uncertainties remain regarding the magnitude, spatial distribution, and environmental controls of the region's soil organic carbon (SOC) stocks. Here we compiled a comprehensive dataset of 2442 soil profiles across the QTP and integrated it with high‐resolution (90 m) environmental covariates to generate spatially explicit, depth‐resolved SOC stock estimates using machine learning models. Independent validation using newly collected whole‐profile SOC measurements ( n = 53) demonstrated substantially improved predictive accuracy compared to existing global and regional mapping products (e.g., SoilGrids, HWSD, and WISE). Specifically, our estimates reached coefficients of determination ( R 2 ) of 0.63 and 0.49 for the 0–0.3 m topsoil and 0.3–1.0 m subsoil, respectively; while the existing mapping products only reached a R 2 of 0.01–0.35 in the topsoil and 0.01–0.15 in the subsoil. Across the QTP, our results estimated a total SOC stock of 62.0 (95% confidence interval: 54.9–69.1) Pg C within the top 2 m of soil, with more than 60% stored below 0.3 m depth. This value is much larger than most of the existing estimates in the same region. Alpine meadows ecosystems accounted for approximately 38% of the total SOC stock, primarily due to their extensive coverage, while swamp meadow ecosystems exhibited the highest SOC densities. Spatial uncertainty was highest in the sparsely sampled northwestern QTP. Contemporary climate and paleoclimate factors collectively contributed over 50% to the explained variance in SOC distribution across the soil profile, highlighting the dominant role of climatic factors on SOC spatial pattern. This spatially explicit, high‐resolution SOC mapping provides a baseline for constraining carbon–climate feedback assessments on the QTP and underscores the region's heightened vulnerability to ongoing climate warming.",
-      "keywords": [
-        "Topsoil",
-        "Soil carbon",
-        "Ecosystem",
-        "Soil organic matter",
-        "Global warming",
-        "Plateau (mathematics)",
-        "Climate change",
-        "Spatial variability"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70801",
       "doi_url": "https://doi.org/10.1111/gcb.70801",
       "title": "Large Potential for <scp> CH <sub>4</sub> </scp> Mitigation and Yield Improvement in China's Paddies Through Locally Optimized N Management",
@@ -25720,31 +25847,6 @@
         "Susceptible individual",
         "Pathogen",
         "Emerging infectious disease"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02950-x",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02950-x",
-      "title": "Hidden outbreaks in an amphibian pandemic",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-02",
-      "published_date_display": "2026-01-02",
-      "published_parts": [
-        2026,
-        1,
-        2
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02950-x",
-      "abstract": "",
-      "keywords": [
-        "Pandemic",
-        "Outbreak",
-        "Population",
-        "Amphibian",
-        "Host (biology)",
-        "Coronavirus disease 2019 (COVID-19)"
       ]
     },
     {
