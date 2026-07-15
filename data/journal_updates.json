@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:11:06.910715+00:00",
+  "generated_at": "2026-07-15T22:11:28.788183+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,21 +26,84 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115561",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115561",
-      "title": "An improved 15-year record of ice sheet elevation from CryoSat-2 radar altimetry",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
+      "doi": "10.1016/j.isprsjprs.2026.07.004",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.004",
+      "title": "DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
       "published_date": "2026-10-01",
       "published_date_display": "2026-10",
       "published_parts": [
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003317",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003515",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2699203",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2699203",
+      "title": "A two-stage hybrid-computing framework for generating metro-style tourist maps: integrating a fine-tuned LLM with geospatial optimization",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-07-15",
+      "published_date_display": "2026-07-15",
+      "published_parts": [
+        2026,
+        7,
+        15
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2699203",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2686202",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2686202",
+      "title": "Projecting Power and Catalyzing Control: Conservation, Corridors, and the Political Ecology of the State in India",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-15",
+      "published_date_display": "2026-07-15",
+      "published_parts": [
+        2026,
+        7,
+        15
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686202",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115561",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115561",
+      "title": "An improved 15-year record of ice sheet elevation from CryoSat-2 radar altimetry",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-14",
+      "published_date_display": "2026-07-14",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003317",
+      "abstract": "",
+      "keywords": [
+        "Elevation (ballistics)",
+        "Ice sheet",
+        "Greenland ice sheet",
+        "Altimeter",
+        "Synthetic aperture radar",
+        "Digital elevation model",
+        "Radar",
+        "Antarctic ice sheet",
+        "Terrain"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115565",
@@ -49,15 +112,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-14",
+      "published_date_display": "2026-07-14",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003354",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Evapotranspiration",
+        "Data assimilation",
+        "Estimation",
+        "China",
+        "Noisy data"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2693884",
@@ -74,8 +143,16 @@
         14
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2693884",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Accurate delineation of stream networks is fundamental for hydrologic modeling, watershed analysis, and geomorphological studies. However, traditional delineation methods, particularly those based on constant flow accumulation thresholds, often generate spurious flow paths (pseudo streams) that follow local gradients but lack the geomorphic structure of genuine channels, especially in headwater areas. This study presents a geomorphically informed postprocessing method that uses a longitudinal incision index to refine DEM-derived stream networks. The index quantifies topographic dissection by comparing each flow path’s elevation profile to a synthetic straight reference line representing uniform descent. Flow paths with incision values below a user-defined threshold are identified as pseudo streams and removed. Through tests in two representative watersheds and additional validation across 292 headwater watersheds, the incision index proved effective in eliminating pseudo streams while retaining genuine drainage structures, improving the geomorphic consistency of the extracted networks. The results demonstrate that the optimal incision threshold varies systematically with topographic relief, with lower values in high-relief terrains and higher values in low-relief areas, providing practical guidance for threshold selection.",
+      "keywords": [
+        "Terrain",
+        "STREAMS",
+        "Digital elevation model",
+        "Watershed",
+        "Flow (mathematics)",
+        "Spurious relationship",
+        "Elevation (ballistics)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115562",
@@ -166,8 +243,15 @@
         13
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688354",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Peter Kropotkin is widely cited across both the natural and social sciences. In biology, he is recognized for his pioneering analyses of mutualism among nonhuman animals; in the social sciences, he is celebrated for offering one of the most rigorous defenses of anarchism as a philosophy, ideal, and revolutionary practice. This article argues that these two dimensions of Kropotkin’s thought are not separate but overlapping, with his studies of animal societies playing a central role in shaping his political commitments. In his studies of nonhumans, Kropotkin identified not only a strong tendency toward cooperation but also evidence for the “extrahuman” origins of morality, including the capacity to act for the good of the many. Humans and nonhumans did not merely evolve alongside one another; they coevolved, sharing an intertwined evolutionary history and socially learned behaviors. Kropotkin also recognized that many nonhuman species exhibit empathy, engage in play, form bonds of affection, and collaborate toward shared goals—remarkably achieving these ends without force, centralized authority, or contract. The patterns of free association and interdependence he observed among animals were mirrored in diverse forms of commoning and fraternity found in human societies. This dual insight—that species coevolve and that cooperation, more than domination, underpins social and ecological life—formed the foundation of Kropotkin’s theory of anarchism. By acknowledging the common origin of nonhumans and humans, as well as the unity of all living matter, Kropotkin was able to pose the most important of political questions: What right does anyone have to rule over others?",
+      "keywords": [
+        "Politics",
+        "Fraternity",
+        "Agonism",
+        "Natural (archaeology)",
+        "Political philosophy",
+        "Social organization"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2688349",
@@ -184,7 +268,7 @@
         13
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2688349",
-      "abstract": "",
+      "abstract": "Rural-to-urban migration is often framed as a critical strategy for households negotiating environmental risk, yet the extent to which it represents an effective form of adaptation in urban settings remains poorly understood. Drawing on a mixed-methods case study of two low-income neighborhoods in Beira, Mozambique, this article explores the degree to which migrants are more vulnerable than nonmigrants to environmental risk in a highly exposed coastal city. Based on semistructured interviews and household surveys with migrant (n = 79) and nonmigrant (n = 79) residents, findings indicate that migrants and nonmigrants experience comparable levels of vulnerability, whereas neighborhood characteristics play a more decisive role. The study underscores the importance of place-based analyses informed by residents’ own interpretations of environmental risk and contributes to ongoing debates on migration, vulnerability, and adaptation in rapidly urbanizing cities.",
       "keywords": [
         "Urbanization",
         "Context (archaeology)",
@@ -209,7 +293,7 @@
         13
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2689759",
-      "abstract": "",
+      "abstract": "Erbil’s rapid in-migration and real-estate expansion have reconfigured Iraq’s internal urban hierarchy, concentrating demand for reliable electricity while intensifying land-use pressures at the metropolitan edge. We conceptualize utility-scale wind siting as a spatial decision problem embedded in a coupled human–environment system and a regionally uneven energy transition. Using Erbil as an instructive case, we develop a comparative geographic information systems (GIS)-multicriteria framework that integrates environmental suitability, infrastructural proximity, and land-use constraints with alternative decision rules (analytic hierarchy process, weighted overlay, simple additive weighting [SAW], TOPSIS, VIKOR) and wind-regime characterization (Weibull). Rather than seeking a single “best” map, we show that method choice produces distinct geographies of feasibility, altering which districts and growth corridors are prioritized for investment. We link these cartographies to grid-relevant, district-level energy potentials to illustrate how siting can relieve peak demand and reduce generator reliance while minimizing land conflict. Across methods, SAW yields the most stable and interpretable patterns for planning, yet the comparative approach is the contribution: It renders model assumptions transparent and decision outcomes contestable. We argue that spatially optimized renewables are not only technical fixes but place-making interventions that shape urban absorption of national mobility. The workflow is portable to semiarid and data-constrained regions, advancing geographic debates on spatial reasoning, transition unevenness, and human–environment governance.",
       "keywords": [
         "Selection (genetic algorithm)",
         "Site selection",
@@ -735,6 +819,34 @@
         "Optical depth",
         "Atmospheric dust",
         "Mineral dust"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115540",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115540",
+      "title": "Basal area loss from fire using field-calibrated remote sensing refines western US fire severity measurements",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600310X",
+      "abstract": "Fire is a critical ecological process and the spatial patterns of fire severity have profound effects on forest structure and resilience. Cost-effective fire severity measurements are critical for informing post-fire restoration strategies and for improving our understanding of the patterns, drivers, and ecological consequences of wildfires. Remote sensing technology has advanced burn severity mapping through space and time. However, different severity mapping methods vary in interpretability, scalability, generalizability, and how well they align with field measurements. One common meaningful metric of fire effects on forests is percent basal area loss, but existing methods present challenges to researchers and managers due to the lack of region-specific field reference data and a scalable framework for automatic mapping. To address these issues, we compiled field reference data from 123 fires in forests across the western US to calculate the proportion of fire-induced basal area loss. We then tested spatially cross-validated machine learning models concurrently with hyperparameter tuning to select a skillful, parsimonious model from an extensive candidate set comprising various combinations of climatic, topographic, and surface reflectance-based covariates. Model performance varied geographically, highlighting that this new method currently provides a critical resource for managers in some regions such as forests in Oregon and Washington, while providing a roadmap for researchers in other regions to continue adding data to the project to improve fire severity mapping efforts. To support fire severity assessments, we created a tool in Google Earth Engine to produce estimates of percent basal area loss for any fire perimeter in the western US.",
+      "keywords": [
+        "Remote sensing",
+        "Basal area",
+        "Field (mathematics)",
+        "Environmental science",
+        "Basal (medicine)",
+        "Geography",
+        "Medicine",
+        "Forestry",
+        "Mathematics",
+        "Internal medicine"
       ]
     },
     {
@@ -10201,34 +10313,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.032",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.032",
-      "title": "DOMapping: Multi-UAV real-time DOM mapping with local-to-global optimization",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-24",
-      "published_date_display": "2026-03-24",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001462",
-      "abstract": "",
-      "keywords": [
-        "Orthophoto",
-        "Global Positioning System",
-        "Trajectory",
-        "Consistency (knowledge bases)",
-        "Geospatial analysis",
-        "Matching (statistics)",
-        "Geotagging",
-        "Mobile mapping",
-        "Satellite",
-        "Adaptive optimization"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.019",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.019",
       "title": "Cross-modal distillation for real-time wildfire detection and localization in edge-deployed aerial vehicles",
@@ -13982,34 +14066,6 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115540",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115540",
-      "title": "Basal area loss from fire using field-calibrated remote sensing refines western US fire severity measurements",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600310X",
-      "abstract": "Fire is a critical ecological process and the spatial patterns of fire severity have profound effects on forest structure and resilience. Cost-effective fire severity measurements are critical for informing post-fire restoration strategies and for improving our understanding of the patterns, drivers, and ecological consequences of wildfires. Remote sensing technology has advanced burn severity mapping through space and time. However, different severity mapping methods vary in interpretability, scalability, generalizability, and how well they align with field measurements. One common meaningful metric of fire effects on forests is percent basal area loss, but existing methods present challenges to researchers and managers due to the lack of region-specific field reference data and a scalable framework for automatic mapping. To address these issues, we compiled field reference data from 123 fires in forests across the western US to calculate the proportion of fire-induced basal area loss. We then tested spatially cross-validated machine learning models concurrently with hyperparameter tuning to select a skillful, parsimonious model from an extensive candidate set comprising various combinations of climatic, topographic, and surface reflectance-based covariates. Model performance varied geographically, highlighting that this new method currently provides a critical resource for managers in some regions such as forests in Oregon and Washington, while providing a roadmap for researchers in other regions to continue adding data to the project to improve fire severity mapping efforts. To support fire severity assessments, we created a tool in Google Earth Engine to produce estimates of percent basal area loss for any fire perimeter in the western US.",
-      "keywords": [
-        "Remote sensing",
-        "Basal area",
-        "Field (mathematics)",
-        "Environmental science",
-        "Basal (medicine)",
-        "Geography",
-        "Medicine",
-        "Forestry",
-        "Mathematics",
-        "Internal medicine"
       ]
     }
   ]
