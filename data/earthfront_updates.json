@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T22:40:50.877082+00:00",
+  "generated_at": "2026-07-16T22:38:29.946667+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01850-7",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01850-7",
+      "title": "Evidence and limits of restitution",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        7,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01850-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01876-x",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01876-x",
+      "title": "Environmental impacts of Indigenous land restitution in Chile",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        7,
+        16
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01876-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01905-9",
       "doi_url": "https://doi.org/10.1038/s41893-026-01905-9",
       "title": "Residents near small rivers in the USA could face disproportionately high future flood risk",
@@ -41,7 +77,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01905-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Flood myth",
+        "Face (sociological concept)",
+        "Flood risk management",
+        "Floodplain",
+        "Climate change",
+        "Risk assessment"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02042-w",
@@ -58,8 +101,15 @@
         15
       ],
       "link": "https://www.nature.com/articles/s41561-026-02042-w",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Krypton and xenon in lunar farside soils are derived from solar wind and suggest deeper penetration because the solar wind is not slowed by Earth’s magnetosphere. This contrasts with the nearside, according to noble gas analyses of soil samples collected by the Chang’e-6 mission.",
+      "keywords": [
+        "Noble gas",
+        "Penetration (warfare)",
+        "Krypton",
+        "Solar wind",
+        "Soil water",
+        "Xenon"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02709-7",
@@ -77,7 +127,17 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02709-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Evapotranspiration",
+        "Deforestation (computer science)",
+        "Climate change",
+        "Water cycle",
+        "Precipitation",
+        "Vegetation (pathology)",
+        "Forest restoration",
+        "Climate model",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01897-6",
@@ -943,6 +1003,23 @@
         "Work (physics)",
         "Government (linguistics)"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101773",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101773",
+      "title": "E-fuels can cut battery material demand by up to 9-fold but create new dilemmas for UK net-zero transport",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001740",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101774",
