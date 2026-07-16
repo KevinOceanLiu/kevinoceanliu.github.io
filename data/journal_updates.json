@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T22:11:28.788183+00:00",
+  "generated_at": "2026-07-16T22:13:47.606937+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,23 +26,6 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.isprsjprs.2026.07.004",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.004",
-      "title": "DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003515",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1080/13658816.2026.2699203",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2699203",
       "title": "A two-stage hybrid-computing framework for generating metro-style tourist maps: integrating a fine-tuned LLM with geospatial optimization",
@@ -57,8 +40,39 @@
         15
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2699203",
+      "abstract": "A well-designed tourist map can help tourists enjoy a more organized and informative journey. However, existing digital map service platforms lack the ability to automatically generate customized route maps that accommodate diverse tourist demands. To address this, we proposed a two-stage hybrid-computing framework. First, a tourism-specific large language model (LLM) was developed via parameter-efficient fine-tuning on two datasets (i.e. attraction description and route planning Q&A datasets) to generate structured travel recommendations. Then, Voronoi-diagram-based attraction distribution optimization and grid-based path optimization algorithms were implemented to generate metro-style tourist route maps based on the LLM’s recommendations. An experimental evaluation was conducted using objective quantitative metrics (e.g. BLEU-4) and subjective surveys with over 300 participants. Experimental results demonstrated that the fine-tuned LLM outperformed baseline LLMs in recommending attractions and routes, and the generated four-direction metro-style tourist route maps surpassed traditional tourist maps in legibility, recognition of attractions and routes, esthetics, and satisfaction. These findings indicate that the proposed framework can effectively generate customized metro-style tourist route maps with high usability. This study provides a hybrid framework from demand input to schematic map output, advancing the role of cartography in tourism services.",
+      "keywords": [
+        "Tourism",
+        "Geospatial analysis",
+        "Digital mapping",
+        "Schematic",
+        "Tourist attraction",
+        "Route planning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.004",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.004",
+      "title": "DG-SLAM: A hybrid direct georeferencing and SLAM framework for real-time orthophoto mapping in weak-textured environments",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-15",
+      "published_date_display": "2026-07-15",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003515",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Orthophoto",
+        "Georeference",
+        "Photogrammetry",
+        "Simultaneous localization and mapping",
+        "Visualization",
+        "Aerial survey"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2686202",
@@ -76,7 +90,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686202",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Political ecology",
+        "State (computer science)",
+        "Power (physics)",
+        "Politics",
+        "Context (archaeology)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115561",
