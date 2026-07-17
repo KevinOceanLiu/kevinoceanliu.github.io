@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:13:47.606937+00:00",
+  "generated_at": "2026-07-17T22:06:07.440404+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,66 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115567",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115567",
+      "title": "Fine-scale deformation pattern and mechanism of high-fill canals revealed by multi-temporal InSAR",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003378",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2696848",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2696848",
+      "title": "Walrus Skins and Weet-o-Weet: Uncomfortable Encounters in the Yupik Yaranga",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2696848",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115556",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115556",
+      "title": "Probability of detection for airborne sensing of methane plumes using long wavelength infrared hyperspectral imaging",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003263",
+      "abstract": "",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Methane",
+        "Infrared",
+        "Wavelength",
+        "Plume",
+        "Lidar",
+        "Chemical imaging"
+      ]
+    },
     {
       "doi": "10.1080/13658816.2026.2699203",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2699203",
@@ -12729,32 +12789,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115304",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115304",
-      "title": "Assessment of the potential of sub-diurnal in situ C-band radar data for monitoring maize crop in semi-arid regions",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-18",
-      "published_date_display": "2026-02-18",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600074X",
-      "abstract": "This study aims to investigate the potential of sub-diurnal C-band radar data for maize crop monitoring. To this end, a tower-based experiment equipped with a C-band radar antenna (15-min acquisition interval) was conducted in a maize field in 2021. In situ measurements of soil and vegetation were carried out between September and December 2021. To analyze the radar response to plant water stress, a period of induced stress was implemented around the development peak. Both the temporal coherence ( ρ ) and radar backscattering coefficient ( σ 0 ) are analyzed. The analysis shows that the temporal coherence exhibits a marked daily cycle. More specifically, a morning drop ( Δ|ρ| morning ) was observed prior to the onset of wind. Previous studies on wheat crops and olive orchards have attributed this drop to the onset of the plant's physiological activity at dawn. The daily mean σ 0 values across all three polarizations were strongly correlated with both evapotranspiration (ETR) and evaporative fraction during both the growth and maturity stages ( r > 0.60). This observed correlation is due to structural changes in the canopy as vegetation grows, associated with increased transpiration. Despite significant differences in acquisition configurations between tower-based radar measurements and Sentinel-1, a remarkable overall agreement is observed between both datasets. In contrast to ρ , Sentinel-1 σ 0 detects the water stress period, with a decrease of about 2 dB coinciding with intensifying water stress. These findings emphasize the importance of disentangling physiological drivers from structural indicators when interpreting σ 0 dynamics in relation to plant–water interactions. • We used sub-diurnal radar data to monitor maize in a semi-arid region. • Coherence dropped at dawn, suggesting links with maize physiological activity. • Diurnal backscatter changes were related to maize crop water status. • Backscatter decreased during stress, likely from water deficit and cooling. • Our measurements matched Sentinel-1 coherence (VV,VH) and backscatter, esp. VH.",
-      "keywords": [
-        "Radar",
-        "Vegetation (pathology)",
-        "Evapotranspiration",
-        "In situ",
-        "Growing season",
-        "Morning",
-        "Coherence (philosophical gambling strategy)",
-        "Canopy"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115318",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115318",
       "title": "A global framework for subsurface soil moisture estimation: Coupling fractal Richards equation with Bayesian optimization",
@@ -12899,32 +12933,6 @@
         "Feature (linguistics)",
         "Term (time)",
         "Component (thermodynamics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115301",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115301",
-      "title": "Investigating the contributions of herbaceous vegetation biomass to soil accretion in Louisiana's coastal deltaic wetlands using airborne imaging spectroscopy",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-14",
-      "published_date_display": "2026-02-14",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000714",
-      "abstract": "Understanding the relationship between vegetation productivity and soil accretion is critical for assessing the resilience of deltaic wetlands to relative sea-level rise. This study integrates airborne imaging spectroscopy from NASA's AVIRIS-NG sensor with field measurements from the Delta-X campaign to quantify herbaceous vegetation contributions to vertical accretion processes in the Mississippi River Delta's coastal wetlands. We developed imaging spectroscopy–based products for live above- and belowground carbon (AGC, BGC), and aboveground necromass (AGN; or non-photosynthetic vegetation), the latter being derived using a novel combination of spectral unmixing and Random Forest regression. These vegetation maps were evaluated alongside in situ soil accretion measurements—including surface sediment accretion, soil bulk density, organic matter content, and soil organic carbon density—derived from feldspar marker horizons. These data were sampled concurrently with airborne campaigns conducted in April and August 2021 to coincide with the early- and peak-biomass season conditions. While vegetation metrics explained a limited fraction of variability in total vertical accretion, AGC, AGN, and BGC together accounted for a substantial portion of the variance in soil bulk density and organic carbon density, indicating that vegetation-driven organic matter inputs exert a stronger control on soil mass and carbon storage than on short-term elevation gain. These results demonstrate that airborne imaging spectroscopy can resolve distinct vegetation pools that differentially influence wetland soil properties, providing new insight into the coupled vegetation–soil processes underpinning blue carbon dynamics. This highlights imaging spectroscopy's value for advancing landscape-scale assessments of wetland resilience and informing management strategies in sediment-deprived coastal basins.",
-      "keywords": [
-        "Wetland",
-        "Vegetation (pathology)",
-        "Soil carbon",
-        "Biomass (ecology)",
-        "Soil organic matter",
-        "Hydrology (agriculture)",
-        "Accretion (finance)",
-        "Imaging spectroscopy"
       ]
     },
     {
