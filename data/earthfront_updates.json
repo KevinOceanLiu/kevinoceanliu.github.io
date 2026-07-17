@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:38:29.946667+00:00",
+  "generated_at": "2026-07-17T22:31:52.802522+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,96 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01911-x",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01911-x",
+      "title": "Author Correction: Spatial assessment of tap-water safety in China",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01911-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02705-x",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02705-x",
+      "title": "Win–wins for wind and whales",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02705-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02710-0",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02710-0",
+      "title": "Tropical forest restoration can offset water flux losses from deforestation but not everywhere",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02710-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02713-x",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02713-x",
+      "title": "Intercity connectivity enhances urban mobility resilience to extreme rainfall",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02713-x",
+      "abstract": "Abstract It is important to strengthen urban resilience amid the growing extreme weather events under climate change, yet the role of intercity connectivity in shaping such resilience remains understudied. Here using mobility data from 1.1 billion devices across 366 Chinese cities, we show that stronger connectivity enhances intracity mobility resilience, a core indicator of urban functionality, during extreme rainfall. Cities with higher network centrality and stronger ties to wealthier cities exhibit higher resilience, characterized by shorter recovery times, faster rebound and lower total performance loss (TPL). Counterfactual simulations indicate that less developed or constrained networks could increase predicted TPL by 527.1% and 54.7%, respectively. Projections to 2050 suggest that socioeconomic development combined with strategic railway development would reduce median city-level TPL by 72.5–76.1%, avoiding indirect economic losses of 12.8–14.2 billion yuan. Notably, smaller cities benefit more from improved connectivity and prioritizing network enhancement in poorer cities renders the largest gains.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02696-9",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02696-9",
+      "title": "Balancing marine species conservation with cost-effective renewable energy development",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02696-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01850-7",
       "doi_url": "https://doi.org/10.1038/s41893-026-01850-7",
       "title": "Evidence and limits of restitution",
@@ -41,7 +131,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01850-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Restitution",
+        "Indigenous",
+        "Space (punctuation)",
+        "Satellite",
+        "Land rights",
+        "Land use"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01876-x",
@@ -59,7 +156,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01876-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Restitution",
+        "Redress",
+        "Indigenous",
+        "Land use",
+        "Context (archaeology)",
+        "Land reform",
+        "Land rights"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01905-9",
@@ -930,6 +1035,91 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101750",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101750",
+      "title": "Toward sustainable chemical industry: Circularity and emissions-based metrics",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600151X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101777",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101777",
+      "title": "Scaling alternative proteins for net benefits",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001788",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101775",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101775",
+      "title": "Q&A with Océane Albert: Regulating the future of alternative proteins",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001764",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101779",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101779",
+      "title": "New proteins, old problems",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001806",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101772",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101772",
+      "title": "Microbial foods as scalable platforms toward a circular protein economy for sustainable nutrition",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001739",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.oneear.2026.101752",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101752",
       "title": "Leveraging thermal regimes and connectivity networks to promote evolutionary adaptation across coral reef seascapes",
@@ -982,6 +1172,23 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101771",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101771",
+      "title": "From fragmentation to consortia: Coordinating alternative protein development for impact",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001727",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.oneear.2026.101747",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101747",
       "title": "Evaluating the biodiversity commitments of Earth’s keystone corporations",
@@ -1012,14 +1219,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001740",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Battery (electricity)",
+        "Work (physics)",
+        "Production (economics)",
+        "Supply and demand",
+        "Flexibility (engineering)"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101774",
@@ -1047,6 +1260,23 @@
         "Product (mathematics)",
         "Climate change"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101751",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101751",
+      "title": "Beyond the carbon ledger: Avoiding burden shifting in the alternative protein transition",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001521",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101753",
@@ -3712,7 +3942,7 @@
       "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
-        6
+        7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001478",
       "abstract": "Periods of anomalous ocean heat are becoming more intense and persistent, with consequences for biodiversity, food systems, and coastal resilience. Yet ocean impact assessments often emphasize summer, creating a seasonal bias that can underrepresent the year-round consequences of marine heat extremes. In 2023–2024, ocean surface warming exceeded 1.0°C above pre-industrial levels, coinciding with year-round marine heat extremes across much of the ocean. Here, we provide a rapid global assessment of marine impacts during this exceptional year. We show that summer impacts were frequent and severe, but 29% of non-tropical impacts occurred in cooler seasons. Events involving compound hazards occurred across seasons, though their timing varied by hazard type. Summer assessments alone are therefore insufficient to capture when, where, and how ocean heat threatens marine ecosystems. Rapid, year-round assessments are needed to understand how anomalous heat affects marine ecosystems and dependent societies, while informing preparedness plans for inevitable future extremes.",
@@ -3863,7 +4093,7 @@
       "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
-        6
+        7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001168",
       "abstract": "Effective biodiversity conservation for coral reef ecosystems requires both climate mitigation and enhanced management. The current scale of reef management, and the resulting capacity to deliver ecosystem benefits, is limited by a lack of adequate, accessible, sustainable, and scalable funding. Our perspective explores the opportunities and challenges of emerging biodiversity frameworks and nature-based funding instruments (especially biodiversity credits) to catalyze investments needed to increase the scale, nature, and effectiveness of coral reef conservation. Foundational work needed to establish high-integrity coral reef biodiversity credits is under way, including the development of a robust biodiversity accounting framework relevant across a broad range of coral reef habitats and regions. Explicit focus on ecosystem structure, composition, and functions provides a clear direction and rationale for selecting relevant metrics for biodiversity accounting. However, ongoing targeted research and innovation are needed to increase efficacy and efficiency of coral reef management while adapting to changing conditions and demands.",
@@ -4059,7 +4289,7 @@
       "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
-        6
+        7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001429",
       "abstract": "",
@@ -6213,7 +6443,7 @@
       "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
-        5
+        7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001065",
       "abstract": "",
@@ -6312,7 +6542,7 @@
       "published_date_display": "2026-05-01",
       "published_parts": [
         2026,
-        5
+        7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001077",
       "abstract": "",
