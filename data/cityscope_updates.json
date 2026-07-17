@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T23:10:54.436409+00:00",
+  "generated_at": "2026-07-17T23:08:26.897847+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,43 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107323",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107323",
-      "title": "Urban–rural economic inequality in western China's reform frontier: Nighttime light-based insights from Chengdu–Chongqing",
+      "doi": "10.1016/j.compenvurbsys.2026.102489",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102489",
+      "title": "How multi-sensory experience shapes place-based human sentiments: A hyperlocal analysis using environmental sensing and social media data in the Bronx, New York City",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000918",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102490",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102490",
+      "title": "A global structural typology of cities from urban centers",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600092X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107388",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107388",
+      "title": "When transit stops: Causal evidence on travel times from a transit strike in Quebec city",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -43,9 +77,203 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600555X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006207",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261454086",
+      "doi_url": "https://doi.org/10.1177/00420980261454086",
+      "title": "From data silos to data agency: The role of local sports communities as data agents in urban governance",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261454086",
+      "abstract": "This study investigates the overlooked yet pivotal role of local sports communities (LSCs) as data agents in the collaborative governance of urban public spaces. Rather than framing citizens’ leisure sports solely as intervention, we develop a triadic framework, comprising Governance Structure, Data Production, and Decision Mediation, to analyze how LSCs generate, manage, and translate data for urban governance. Three integration patterns are identified through the theory-informed case studies ( n = 12). The findings show that LSCs function with multifaceted roles, providing trust and legitimacy, generating grounded data, and mobilizing narratives to shape governance pathways. Ultimately, we conclude with a Quadrant Model to map LSCs’ embeddedness along the axes of institutional legitimacy and grassroots agency, offering a diagnostic tool for tracing the evolution from data silos to active data agency. The study contributes to debates on data-driven urbanism, collaborative governance, and leisure sports.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261469313",
+      "doi_url": "https://doi.org/10.1177/00420980261469313",
+      "title": "Corrigendum to Under the paving stones at the Bloordale Beach: Sub-terra urbs nullius and volumetric colonialism in Toronto",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261469313",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00485-1",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00485-1",
+      "title": "Measurements and distinctions, from urban to rural",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00485-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00482-4",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00482-4",
+      "title": "Kashan’s path from ancient culture to the modern creative city",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00482-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00483-3",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00483-3",
+      "title": "Integrating construction and solar expansion can reduce disposal and dependency",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00483-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00462-8",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00462-8",
+      "title": "Hausberg urbanization in the European Alps",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00462-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107370",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107370",
+      "title": "Revealing urban vitality structures in South Korea: A nationwide analysis of 225 cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006025",
+      "abstract": "",
+      "keywords": [
+        "Vitality",
+        "Urban sustainability"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107318",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107318",
+      "title": "Governance of overwork among migrant workers: Effective measures or effective beauty?",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005500",
+      "abstract": "",
+      "keywords": [
+        "Overwork",
+        "Corporate governance",
+        "Job loss",
+        "Globalization"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261463371",
+      "doi_url": "https://doi.org/10.1177/00420980261463371",
+      "title": "Culture as repair in Black Los Angeles? Destination Crenshaw and the possibilities of reparative development",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        7,
+        16
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261463371",
+      "abstract": "For decades, culture-based urban development strategies have proliferated in Black communities, yet scholarship has documented how such approaches, whether heritage-based development or creative economy initiatives, often reproduce displacement despite intentions to the contrary. Less examined is what happens when Black communities control the development process itself, and whether institutional control can fundamentally alter displacement dynamics. Drawing on two years of ethnographic research with Destination Crenshaw, a $100-million cultural development project in South Los Angeles, I develop reparative development as an analytical framework for understanding community-led cultural strategies that explicitly orient toward repair, redress, and futurity. The framework identifies five distinguishing dimensions: acknowledgment of historical harm, symbolic and material restitution, institutional restructuring, community self-determination, and future orientation. The findings reveal that reparative development achieves genuine gains (cultural permanence, economic pathways, institutional capacity) yet faces structural limitations that community control cannot transcend: the amenity trap, whereby cultural investment accelerates displacement; the temporal mismatch between slow repair work and fast-moving real estate markets; and the restitution gap between symbolic recognition and material redistribution. These findings suggest that cultural strategy represents one component of a broader repair agenda but cannot substitute for the structural transformations full repair demands.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107323",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107323",
+      "title": "Urban–rural economic inequality in western China's reform frontier: Nighttime light-based insights from Chengdu–Chongqing",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600555X",
+      "abstract": "",
+      "keywords": [
+        "Urbanization",
+        "Inequality",
+        "Index (typography)",
+        "China",
+        "Convergence (economics)",
+        "Developing country",
+        "Economic inequality",
+        "Value (mathematics)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107348",
@@ -54,15 +282,24 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005809",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Relocation",
+        "Urban hierarchy",
+        "Restructuring",
+        "Corporate governance",
+        "Government (linguistics)",
+        "Scale (ratio)",
+        "Spatial ecology",
+        "Local government"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107335",
@@ -71,15 +308,20 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005676",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Metropolitan area",
+        "Corporate governance",
+        "Perspective (graphical)",
+        "Politics"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107320",
@@ -88,32 +330,24 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005524",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107359",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107359",
-      "title": "Classification of medium and small cities for the implementation of Low Emission Zones",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005913",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Sponge Cities are more than technical solutions to urban flooding–they are dynamic spaces where water, land, and society converge in adaptation and resilience. This study bridges theory and practice through a comparative, cross-case framework that analyzes Sponge City strategies across five Dutch lowland landscape types (coastal, riverine, peat, sandy, clay) and selected international contexts. Emphasizing scale as a critical dimension, the study explores how blue, green, and blue-green strategies are shaped by ecological conditions and local practices. Beyond hydrological performance, it highlights the often-overlooked social dimension, including community participation, equity, and social resilience. The research adopts a qualitative, interpretivist methodology, combining within-case and cross-case analysis. It unfolds in two phases: first, a global typology of 38 Sponge City strategies is developed, categorized as green, blue, or green-blue, and analyzed by spatial scale (site, neighborhood, city), sponge basin principles (protect, delay, store, release), and hydrological processes (infiltration, retention, storage, purification, utilization, drainage). The second phase offers an in-depth evaluation of eight Dutch projects across Amsterdam, Rotterdam, Almere, Purmerend, and The Hague, examining ecological, spatial, and social performance through thematic coding and structured comparison. The findings highlight a gap between the coherence of Sponge City theory and its real-world application, particularly regarding social integration. Successful implementation depends on context-sensitive strategies that go beyond water management to include accessibility, inclusivity, and community engagement. This study contributes to a broader understanding of how human-centered, adaptive design can support climate resilience across diverse urban landscapes, grounding its analysis in a landscape-based Sponge City framework that links Sponge Basin principles (protect, delay, store, release) with lowland landscape typologies and cross-scalar design strategies.",
+      "keywords": [
+        "Typology",
+        "Sponge",
+        "Urban resilience",
+        "Coherence (philosophical gambling strategy)",
+        "Structural basin",
+        "Scale (ratio)",
+        "Psychological resilience",
+        "Adaptation (eye)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107292",
@@ -122,15 +356,22 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600524X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Credit card",
+        "Database transaction",
+        "Payment",
+        "Credit history",
+        "Credit reference",
+        "Credit card interest"
+      ]
     },
     {
       "doi": "10.1177/00420980261455276",
@@ -337,7 +578,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005846",
-      "abstract": "",
+      "abstract": "Urban green infrastructure generates substantial ecosystem services, yet the economic value of these benefits is often captured privately through housing markets rather than reinvested in public ecological provision. This paper addresses this gap by introducing Urban Green Credits (UGC), a planning-oriented framework that links ecological performance to fiscal instruments. We develop a parcel-level Index of Ecosystem Services (IES) integrating carbon sequestration, thermal regulation, ecological connectivity, and accessibility to green spaces. Using 5230 residential transactions in Porto, Portugal, we estimate the capitalisation of ecological performance into housing prices through hedonic, spatial econometric, instrumental variable, and difference-in-differences models. Results show that ecosystem services are consistently and significantly reflected in property values, with robust effects across specifications and identification strategies. Building on these estimates, we simulate the fiscal potential of UGC, demonstrating that even modest capture rates can generate meaningful revenues and support redistribution towards ecologically underserved areas. The findings contribute to bridging ecosystem service valuation and urban fiscal policy, advancing a framework that integrates environmental performance, land markets, and equity considerations. While conceptual and requiring contextual calibration, UGC provides a novel pathway for financing urban greening while addressing spatial inequalities.",
       "keywords": [
         "Ecosystem services",
         "Value (mathematics)",
@@ -7260,30 +7501,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107232",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107232",
-      "title": "A multi-agent large language model workflow for analyzing perceived cultural values from social media: A study of 141 Chinese cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-21",
-      "published_date_display": "2026-05-21",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004646",
-      "abstract": "",
-      "keywords": [
-        "Cultural values",
-        "Workflow",
-        "Value (mathematics)",
-        "Social value orientations",
-        "Human values",
-        "Cultural diversity"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261442414",
       "doi_url": "https://doi.org/10.1177/00420980261442414",
       "title": "Completion of secondary education among children born in deprived neighbourhoods in Amsterdam and Stockholm: The role of residential mobility and exposure to neighbourhood deprivation",
@@ -7703,32 +7920,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107227",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107227",
-      "title": "Beyond single snapshots: Quantifying multi-scale heterogeneity from street-view imagery and what it reveals about perception",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004592",
-      "abstract": "",
-      "keywords": [
-        "Perception",
-        "Viewpoints",
-        "Explanatory power",
-        "Visual perception",
-        "Homogeneous",
-        "Predictive power",
-        "Destinations",
-        "Resource (disambiguation)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107185",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107185",
       "title": "Back-to-the-city for work and workers? Urban form versus function in New York State, 2010–2020",
@@ -8003,31 +8194,6 @@
         "Household income",
         "Low income",
         "Spatial mismatch"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107196",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107196",
-      "title": "Work-from-home frequency across metropolitan contexts: A comparison of Paris, New York and London",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-16",
-      "published_date_display": "2026-05-16",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004282",
-      "abstract": "This paper examines spatial and social correlates of work-from-home (WFH) frequency in three major global metropolitan areas—Paris, New York, and London—using harmonized 2023 survey data and an interpretable machine learning approach (XGBoost with SHAP). Focusing on regular hybrid workers whose workplaces are located within these metropolitan areas, the analysis documents how commuting, housing, employment, and sociodemographic characteristics are associated, individually and in combination, with high-frequency WFH (3–5 days per week). Results indicate that commuting distances and proximity to the central business district (CBD) are among the most prominent correlates of WFH frequency, with substantial contextual variation: in London, greater residential distance from the CBD is associated with higher WFH frequency, whereas in the New York metropolitan area high-frequency WFH is concentrated among workers who both live and work close to the CBD. Paris differs from the other metropolitan areas, with lower overall WFH frequency and a narrower profile of workers engaging in high-frequency WFH, a pattern observed alongside metropolitan-specific institutional and organizational contexts. Income, gender, and housing conditions are also associated with WFH frequency, with heterogeneous patterns across spatial configurations and employment structures. Overall, the analysis documents distinct metropolitan patterns, indicating that WFH frequency varies across locally specific urban labor markets and spatial contexts. These findings provide descriptive insights relevant to ongoing discussions of transport systems, housing markets, and social equity in metropolitan regions. • WFH frequency is embedded in metropolitan-specific labor and spatial structures. • Paris, New York, and London exhibit distinct spatial configurations of high-frequency WFH. • In the New York metropolitan area, frequent WFH is concentrated near the CBD. • In London, frequent WFH is more common among workers living farther from the CBD. • Interpretable machine learning reveals non-linear, context-dependent WFH dynamics with planning implications.",
-      "keywords": [
-        "Metropolitan area",
-        "Equity (law)",
-        "Distance decay",
-        "Social equality",
-        "Descriptive statistics",
-        "Work (physics)",
-        "Central business district"
       ]
     },
     {
@@ -8559,32 +8725,6 @@
         "Development (topology)",
         "Semantic analysis (machine learning)",
         "Semantics (computer science)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107208",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107208",
-      "title": "Carrots for sticks? The role of incentives for tree retention during housing intensification",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-14",
-      "published_date_display": "2026-05-14",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004403",
-      "abstract": "Housing intensification within growing cities presents a critical tension – balancing compact urban development with the preservation of tree canopy cover. As cities intensify, the loss of trees due to private land development has emerged as one of the most pressing challenges in urban forest governance. This challenge must be addressed to retain the environmental and social benefits that urban trees provide. Although tree protection rules and regulation are common, one underutilised tool is voluntary incentives to encourage the retention of existing trees. This research investigates the potential role of incentives to support tree retention during housing intensification projects in Aotearoa New Zealand. Using online surveys and interviews, this study elicited and compared the perspectives of property developers and local government about the benefits, barriers, and viability of incentive schemes. Most respondents expressed a general openness to incentives and a desire for more constructive working relationships. However, the key challenge emerging from stakeholder responses is the conflict between the financial objectives of property developers and the pressure on local government to operate within budgetary constraints. Effective incentives must provide clear and meaningful benefits for developers, whilst also being practical and affordable for local government. Cost-neutral incentives hold the most promise, such as reduced interest rates from lenders for developers that retain existing trees. Although incentives are unlikely to be a complete solution, these findings provide guidance for policy makers considering the use of incentives as an additional tool for managing urban trees on private land.",
-      "keywords": [
-        "Incentive",
-        "Government (linguistics)",
-        "Local government",
-        "Incentive program",
-        "Flexibility (engineering)",
-        "Private sector",
-        "Stakeholder",
-        "Sustainability"
       ]
     },
     {
@@ -18489,6 +18629,57 @@
         "Mental health",
         "Systematic review",
         "Data extraction"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107360",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107360",
+      "title": "Your place or mine? Overcoming neoliberal placemaking as commodification of built environments in the inclusive city",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005925",
+      "abstract": "",
+      "keywords": [
+        "Commodification",
+        "Placemaking",
+        "Environmental planning",
+        "Business",
+        "Civil engineering",
+        "Political science",
+        "Geography",
+        "Economy",
+        "Architecture",
+        "Archaeology",
+        "Engineering",
+        "Economics",
+        "Urban design"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107359",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107359",
+      "title": "Classification of medium and small cities for the implementation of Low Emission Zones",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2024-01-01",
+      "published_date_display": "2024-01-01",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005913",
+      "abstract": "",
+      "keywords": [
+        "Business",
+        "Environmental science"
       ]
     }
   ]
