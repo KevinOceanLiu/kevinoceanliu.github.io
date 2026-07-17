@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T23:37:13.902200+00:00",
+  "generated_at": "2026-07-17T23:32:21.301887+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03128-9",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03128-9",
+      "title": "The timescale of nematode evolution reveals late and convergent radiations of parasitism",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03128-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03137-8",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03137-8",
+      "title": "Genomic and evolutionary basis of parthenogenesis in a disease-vector tick species",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03137-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70396",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70396",
+      "title": "Divergent long‐term trends in vegetation carbon turnover between mature and young forests",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70396",
+      "abstract": "Abstract The terrestrial carbon sink depends not only on how much biomass forests accumulate, but also on how long that carbon remains stored in vegetation. This is known as vegetation carbon turnover time ( τ veg ), which varies with forest age, structure and climate. Furthermore, τ veg is widely expected to decline under climate change as warming and disturbance accelerate biomass loss. However, most evidence comes from mature forests, even as global forest demographics shift due to reforestation, disturbance and land‐use change. Younger forests differ in growth rates, mortality patterns and stand structure, which may create distinct turnover trajectories with rapid biomass accumulation potentially slowing τ veg . Here, we evaluated this possibility using 17 years of in situ data from a network of temperate, subtropical and tropical forest plots across China. We found that τ veg declined over time in mature forests but increased in younger ones. These opposing trends were shaped by age‐specific trade‐offs between growth and mortality, mediated by stand structure and environmental conditions. Synthesis . Our results demonstrate that forest age strongly influences vegetation carbon turnover and must be integrated into models to improve predictions of terrestrial carbon sink dynamics.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70506",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70506",
+      "title": "Nest‐box supplementation can amplify intraspecific exploitation: RFID reveals frequent nest switching and lower fledging success in barn owls",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        7,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70506",
+      "abstract": "Abstract Nest‐box supplementation is widely used to increase populations of barn owls ( Tyto alba ) for environmentally friendly rodent control in agricultural landscapes. Program effectiveness is typically evaluated using coarse metrics such as nest occupancy or fledgling counts, which may overlook density‐dependent processes that reduce individual survival and recruitment. We used continuous radio‐frequency identification (RFID) monitoring to test whether high breeding density in a nest‐box network promotes nest switching by fledglings and is associated with reduced fledging success in host broods. Across two breeding seasons (2020–2021), we PIT‐tagged 464 nestlings and 108 adults and monitored 50 active nest boxes, recording over 1.2 million individual detections. Nest switching was common: 12.9% of tagged fledglings visited foreign nests, and 54% of monitored nest boxes were visited by at least one nest switcher. Nest‐switcher rate increased with local nest‐box density and decreased with host brood age but was unrelated to female provisioning, measured as parental prey‐delivery rate. The number of fledglings produced per nest was not associated with nest‐switching rate. By contrast, fledging success declined with increasing nest‐switcher rate, indicating a negative association that was not detected by brood size or fledgling counts alone. Synthesis and applications: High breeding density in nest box‐based biological control programs can unintentionally increase intraspecific exploitation, reducing fledging success even when apparent reproductive output remains high. Management evaluations should move beyond occupancy and fledgling counts to include individual‐level performance metrics, such as fledging success. Where possible, nest‐box programs should avoid extreme local clustering of simultaneously active broods and monitor high‐density breeding systems for density‐dependent interactions that can undermine long‐term effectiveness. Read the free Plain Language Summary for this article on the Journal's blog .",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03149-4",
       "doi_url": "https://doi.org/10.1038/s41559-026-03149-4",
       "title": "Publisher Correction: Top-down effects dominate the relationship between plant–herbivorous insect interactions and ecosystem stability",
@@ -51,7 +123,94 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03149-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ecosystem",
+        "Stability (learning theory)",
+        "Ecological stability",
+        "Insect",
+        "Ectotherm"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70497",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70497",
+      "title": "Environmental detection of the amphibian chytrid fungus in water bodies is associated with host infection along a deforestation gradient",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        7,
+        16
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70497",
+      "abstract": "Abstract Many wildlife pathogens can persist in the environment independently of their hosts, with the habitat itself serving as a reservoir and potential source of transmission. However, reliably detecting and quantifying free‐living pathogen stages across heterogeneous landscapes using environmental DNA methods remains challenging. Understanding how landcover and habitat structure drive pathogen distribution at the environmental and host levels is critical for advancing disease surveillance and ecology. Amphibian chytridiomycosis, caused by the fungal pathogen Batrachochytrium dendrobatidis ( Bd ), provides a useful model system to address these broader challenges, yet most studies have focused on host–pathogen interactions, with less emphasis on Bd within environmental reservoirs. Using Bd as a model system, we investigated whether pathogen distribution in natural aquatic environments is associated with host infection patterns across gradients of habitat loss. We sampled four tropical amphibian species across eight rainforest landscapes and quantified Bd in paired water and host samples using a high‐capacity water filtration method coupled with digital and real‐time quantitative polymerase chain reaction detection assays. Our results revealed a strong positive correlation between Bd DNA concentrations in water and infection loads on amphibian skin, indicating that environmental Bd DNA is associated with host infection patterns. Forest cover and habitat split (i.e. spatial separation between forests and aquatic breeding sites) were the primary predictors of Bd occurrence, concentration and infection load across environmental and host‐associated forms, and both Bd ‐GPL and Bd ‐Asia‐2/Brazil lineages were detected across our study landscapes. Our study introduces and validates a robust protocol for detecting environmental Bd , providing a scalable approach to quantify pathogen–environment associations across multiple landscapes and environmental gradients. Synthesis and applications : Linking environmental pathogen detection with host infection patterns can improve surveillance of diseases involving environmental transmission, particularly where direct host sampling is logistically challenging. This approach enables the identification of areas of elevated transmission risk and supports targeted monitoring and management under habitat loss and degradation. It also provides a practical tool to guide conservation actions in landscapes undergoing rapid land‐use change.",
+      "keywords": [
+        "Amphibian",
+        "Environmental DNA",
+        "Chytridiomycosis",
+        "Chytridiomycota",
+        "Habitat",
+        "Host (biology)",
+        "Rainforest",
+        "Wildlife"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.71003",
+      "doi_url": "https://doi.org/10.1111/gcb.71003",
+      "title": "Differential Effects of Long‐Term Fertilization and Plant Species Richness on Soil Fungi and Protists",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        7,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71003",
+      "abstract": "ABSTRACT Anthropogenic nutrient enrichment and plant diversity loss reshape soil biodiversity, yet disentangling their individual and combined effects on key groups such as fungi and protists remains a major challenge. Here, we investigated soil microeukaryote communities using long‐read amplicon rRNA gene sequencing in a temperate grassland experiment with 11 years of moderate NPK fertilization and manipulated plant diversity (1, 2, or 4 plant species). Our results indicate that fertilization generally had a stronger influence on microeukaryote communities than plant species richness. Fertilization altered the community composition of fungi and protists, with an increase in OTU richness by 20.8% and 52.7%, respectively, and shifted community dominance from fungi to protists. Plant diversity exclusively affected protists with a shift in community composition. Community changes were largely driven by increases in plant biomass (resulting from both fertilization and plant diversity), alongside higher soil phosphorus and lower soil pH, which were exclusively influenced by fertilization. Moreover, the experimental treatments exerted distinct effects on the different life strategies of fungi and protists. Fertilization enhanced fungal saprophytes (only richness), fungal animal pathogens, and protist consumers, whereas a decline in plant diversity increased phototrophic protists and decreased protist animal pathogens. Notably, fertilization and the decline in plant diversity together led to a cumulative increase in fungal plant pathogens. In conclusion, our results show that fertilization and reduced plant species richness exert distinct yet interacting effects on soil microeukaryotic communities. This highlights the need for integrated assessments of these two factors, rather than studying them in isolation, when evaluating global change effects.",
+      "keywords": [
+        "Species richness",
+        "Human fertilization",
+        "Dominance (genetics)",
+        "Plant community",
+        "Ecosystem",
+        "Biomass (ecology)",
+        "Nutrient",
+        "Species diversity",
+        "Community structure"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.71013",
+      "doi_url": "https://doi.org/10.1111/gcb.71013",
+      "title": "Climate‐Driven Changes in Resources Shift Reproductive Season and Effort of Insectivorous Montane Bird Species",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        7,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71013",
+      "abstract": "",
+      "keywords": [
+        "Insectivore",
+        "Montane ecology",
+        "Seasonal breeder",
+        "Predation",
+        "Reproduction",
+        "Reproductive cycle",
+        "Foraging"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03130-1",
@@ -124,7 +283,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70404",
       "abstract": "Abstract Carbon constitutes the biochemical basis of plant survival and evolution. Plant trait‐based economic frameworks have revealed divergent strategic trade‐offs in leaves (leaf economics spectrum, LES) and roots (root economics space, RES). However, how carbon molecular compounds coordinate with organ‐specific economic strategies and whether they follow similar biochemical foundations remain unknown. We employed the solid‐state 13 C nuclear magnetic resonance to quantify key carbon functional groups in leaves and roots across 13 coexisting subtropical tree species and assess their coordination with LES and RES. The results showed contrasting coordination of carbon traits with economic strategies in leaves and roots. Specifically, leaves with the acquisitive strategy prioritized physiologically active and nitrogen‐rich carbon over structural carbohydrates used for longevity maintenance, while defence carbon compounds decoupled from the LES. However, roots exhibited a primary trade‐off where bioactive carbon aligned against defence compounds along the conservation gradient. Orthogonally, root structural carbohydrate proportions traded off against carbon molecular diversity, aligning to the root collaboration gradient from ‘do‐it‐yourself’ soil exploration to collaboration with mycorrhizal fungi. Synthesis. These findings highlight divergent carbon bases in shaping above‐ and below‐ground multidimensional economics trait space, providing new mechanistic insights into whole‐plant strategic trade‐offs that govern plant adaptations and species coexistence in heterogeneous environments.",
-      "keywords": []
+      "keywords": [
+        "Carbon fibers",
+        "Subtropics",
+        "Carbon cycle",
+        "Temperate climate",
+        "Tropical and subtropical moist broadleaf forests",
+        "Soil carbon",
+        "Root system"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70507",
@@ -142,7 +309,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70507",
       "abstract": "Abstract Ecological forestry rooted in natural disturbance‐based silviculture (NDBS) aims to help maintain or facilitate recovery of ecosystem structure and function toward conditions found in unharvested stands. In the short term, leaving a portion of a stand's merchantable trees intact at harvest should increase similarity in composition and function relative to stands following non‐stand‐replacing natural disturbances such as low‐intensity fires, windthrow, or insect outbreaks and thus maintain biodiversity and other ecosystem services. Testing NDBS requires long‐term data, while assessing the generality of responses to NDBS requires such data from multiple experiments across diverse stand and site conditions. To date, our understanding of forest responses to NDBS has been limited by a lack of opportunities to explore responses across time. In this study, we utilized data from three long‐term experiments encompassing 21 combinations of harvest treatments by stand type plus unharvested reference stands. These experiments provide data to assess responses for 12 to 20 years post‐treatment. We quantified the direction (increasing or decreasing), duration (persisting or transient), magnitude, and temporal dynamics of responses in stand‐level tree growth, mortality, and regeneration abundances. High‐intensity treatments (≥40%) produced strong initial impacts, particularly increased tree mortality (although not statistically significant across all treatments), which in turn had prolonged effects on stand‐level growth through reduced tree density. These treatments also promoted increased broadleaf regeneration, likely due to greater canopy opening and enhanced light availability. We observed an inconsistent stand‐level growth response to treatments, with some treatments showing initial decline while others eventually resulted in higher growth in harvested stands. In mixed stands, coniferous species showed growth benefits when coexisting with broadleaf species, possibly due to reduced intraspecific competition or improved access to resources mediated by broadleaf neighbours. This growth advantage was not observed for broadleaf species, indicating asymmetric benefits in mixed stands. Response patterns and magnitude vary over time and are influenced by local factors such as stand type, overstory retention, species, and initial treatment impact. This variability highlights the potential for tailoring NDBS approaches locally to achieve desired outcomes and underscores the need to incorporate stand‐specific conditions into ecological forestry practices.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Regeneration (biology)",
+        "Ecosystem",
+        "Canopy",
+        "Silviculture",
+        "Forest ecology",
+        "Forest management",
+        "Tree (set theory)",
+        "Stand development"
+      ]
     },
     {
       "doi": "10.1111/gcb.71012",
@@ -160,7 +337,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71012",
       "abstract": "ABSTRACT Termites represent a critical but poorly constrained source in the global methane (CH4) budget. This commentary addresses the “scaling paradox” highlighted by Yatsko et al. (2026), demonstrating that the primary drivers of CH4 emissions shift dramatically between individual species, single mounds, and broader landscapes. We expand on this framework using field data from massive Macrotermes mounds in South Africa, which reveals complex intra‐mound spatial heterogeneity. Furthermore, expansive subterranean foraging networks frequently flip surrounding matrix soils from net methane sinks into localized emission sources. To resolve this scaling paradox and account for such spatial variation, we propose integrating traditional emission factors with multi‐scale technologies to accurately map and model termite CH4 dynamics.",
-      "keywords": []
+      "keywords": [
+        "Methane",
+        "Scaling",
+        "Methane emissions",
+        "Greenhouse gas",
+        "Expansive",
+        "Foraging",
+        "Soil water",
+        "Spatial heterogeneity",
+        "Abundance (ecology)"
+      ]
     },
     {
       "doi": "10.1111/gcb.70975",
@@ -17736,31 +17923,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70793",
-      "doi_url": "https://doi.org/10.1111/gcb.70793",
-      "title": "Herbarium Specimens Reveal Long‐Term Decline in Pollination Services Since the 1970s",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-24",
-      "published_date_display": "2026-03-24",
-      "published_parts": [
-        2026,
-        3,
-        24
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70793",
-      "abstract": "ABSTRACT Anthropogenic change has resulted in pollinator declines and altered plant–pollinator interactions. This may alter pollination services, reducing the reproductive success of plants. Yet few datasets allow us to track changes in pollination services over time. Herbaria provide a unique opportunity to assess pollination services across broad spatial and temporal scales enabling the examination of associated spatiotemporal anthropogenic drivers of change. We quantified changes in pollination services to the orchid genus Caladenia over the past century, a period of rapid land‐use intensification and climate change in Australia. Examining 10,494 Caladenia flowers preserved at the Australian National Herbarium showed a reduction in pollination services totaling > 60% over the whole study period, with rapid declines occurring post 1970. Declines in pollination services occurred across species pollinated by different taxa and with varying threat status. Sexually deceptive species showed more pronounced declines in pollination services than food‐deceptive species, whereas no decline was detected in the self‐compatible species. Land‐use intensity and rising temperatures were significant predictors of changes in pollination service. Our findings provide rare evidence of declines in pollination services and demonstrate the value of herbarium collections in understanding global change.",
-      "keywords": [
-        "Pollination",
-        "Herbarium",
-        "Pollinator",
-        "Ecosystem services",
-        "Climate change",
-        "Taxon"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70363",
       "doi_url": "https://doi.org/10.1111/ele.70363",
       "title": "Pervasive Fitness Trade‐Offs Revealed by Rapid Adaptation to Shifting Population Densities in Large Experimental Populations of <i>Drosophila melanogaster</i>",
@@ -19501,33 +19663,6 @@
         "Climate change",
         "Global warming",
         "Range (aeronautics)"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70794",
-      "doi_url": "https://doi.org/10.1111/gcb.70794",
-      "title": "Developmental Stage‐Specific Responses to Extreme Climatic Events and Environmental Variability in Great Tit Nestlings",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-11",
-      "published_date_display": "2026-03-11",
-      "published_parts": [
-        2026,
-        3,
-        11
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70794",
-      "abstract": "ABSTRACT Climate change poses a pervasive threat to many aspects of natural systems, and while impacts of changes in average conditions have been extensively studied, the effects of increased climate variability and extreme events on natural populations are less understood due to the challenges of studying these rare and unpredictable occurrences. Using 60 years of life‐history data from over 83,000 individuals and historical daily climate records, we show that developmental stages in wild great tits ( Parus major ) differ in their sensitivity to extreme climatic events (ECEs). Exposure to extreme cold events during the first week of development is particularly detrimental to fledging mass, while extreme rain events have a stronger negative impact as nestlings grow older and their energetic requirements increase. Synergistic effects of ECEs and average climatic conditions can be particularly severe, exacerbating the challenges faced by these birds. Our findings indicate that combined exposure to extreme heat and heavy rainfall during early development is associated with a predicted reduction in fledging mass by up to 27%. Additionally, birth timing may further modulate these effects, since late‐season broods exposed to frequent hot ECEs during early development are predicted to fledge nestlings up to 4.27 standard deviations (35%) lighter than broods laid earlier in the season. Moreover, phenotypic plasticity has enabled many similar populations to shift towards an overall earlier laying date, which may have increased susceptibility to cold extremes during development. However, our analyses suggest that the benefits of being part of an early‐laid clutch within a season may, to some extent, offset the negative effects of extreme climate on fledging mass and apparent survival. In climate scenarios where ECEs are predicted to increase in frequency, duration and severity, these developmental stage‐specific insights are important for understanding how climate change may be influencing wild avian populations.",
-      "keywords": [
-        "Fledge",
-        "Extreme Cold",
-        "Climate change",
-        "Extreme weather",
-        "Phenotypic plasticity",
-        "Extreme heat",
-        "Adaptation (eye)",
-        "Global change"
       ]
     },
     {
@@ -22330,34 +22465,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70298",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70298",
-      "title": "Recreational trails reduce lichen and bryophyte diversity and the occurrence of rare species",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-13",
-      "published_date_display": "2026-02-13",
-      "published_parts": [
-        2026,
-        2,
-        13
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70298",
-      "abstract": "Abstract Increasing recreational use of natural areas may pose a threat to biodiversity, particularly in sensitive high‐elevation ecosystems. Lichens and bryophytes (collectively termed cryptogams here) contribute substantially to biodiversity in almost all terrestrial ecosystems, but their response to disturbance from recreation has rarely been studied. We inventoried lichen and bryophyte communities and analysed impacts of disturbance and environmental variables at four study areas in Mount Rainier National Park, Washington, USA. The study areas ranged from low‐elevation, wet temperate forests to alpine environments and adjacent subalpine forests. A total of 77 liverwort taxa, 203 lichen taxa, and 195 moss taxa were found across all study areas, for a total of 475 cryptogam taxa. We found that cryptogam richness increased with increasing distance from trails across all study sites, even as far as 75 m from trails. Negative effects of visitor use on cryptogam communities appeared to be particularly pronounced in alpine areas. Rare cryptogam occurrences were associated with less trampled, wetter, and rockier sites in the alpine zone; we did not identify any drivers of rare cryptogam occurrences in forest areas. Synthesis and applications . Our results highlight that ecological impacts of recreational use may extend great distances from trails and other heavily used areas. Additional efforts by land managers to prevent visitors from walking off‐trail in heavily visited areas could help conserve lichen and bryophyte diversity.",
-      "keywords": [
-        "Bryophyte",
-        "Lichen",
-        "Species richness",
-        "Biodiversity",
-        "Threatened species",
-        "Disturbance (geology)",
-        "Recreation",
-        "Moss",
-        "Crustose"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70305",
       "doi_url": "https://doi.org/10.1111/1365-2664.70305",
       "title": "Productive restoration planning in the irrigated drylands: Soil salinity, texture and moisture to guide reforestation plans",
@@ -23443,34 +23550,6 @@
         "Global change",
         "Plant community",
         "Microbial population biology"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70292",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70292",
-      "title": "Species introduction woes: How human‐mediated crop transport can influence community dynamics through mutualist displacement",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-05",
-      "published_date_display": "2026-02-05",
-      "published_parts": [
-        2026,
-        2,
-        5
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70292",
-      "abstract": "Abstract Agriculturally relevant crop species are universally associated with complex communities consisting of antagonists, commensals and mutualists. When the domesticated species are introduced into new habitats, some community associates can be left behind, and the consequences of such losses can be difficult to study. The cultivated fig Ficus carica and its community of mutualists and antagonists (wasps, nematodes and fungi) provide an excellent system to examine community shifts in this context. Cultivated F. carica can suffer significant losses due to a disease caused by Fusarium fungi. Through demographic surveys of F. carica figs in the USA and their wild European relatives as well as phylogenomic analysis of Fusarium species associated with fig and crop hosts, our research examines how species introductions can influence disease prevalence and severity. We found significant negative correlations between the presence of nematodes and fungi in wild F. carica figs in Europe. We observed similar negative correlations across wild Neotropical figs despite profound environmental differences. These observations suggest that nematodes are key components of fig communities and may directly mitigate or out‐compete pathogenic fungus. Following introduction from its endemic Mediterranean habitat to North America, F. carica crops lost an association with one endemic nematode. Consequently, we found F. carica figs in the USA to have significantly more fungal infestation than their European counterparts. Furthermore, transplantation through North America has introduced multiple novel fungal species into the F. carica system, which likely causes more severe disease for the US fig industry. Synthesis and applications : Similar negative effects associated with community disruption may be a common consequence of the introduction of many domesticated species. While it is difficult in many biological communities to successfully identify important associates and the effects of their potential losses during introduction, the biology of the fig community allows us to examine this context with greater clarity. We argue that fungal diseases in F. carica in the USA could be managed with the re‐introduction of nematodes. Further, nearly all crop species suffer losses due to a Fusarium pathogen, and nematodes may represent an unexpected and cost‐effective method of disease management beyond figs.",
-      "keywords": [
-        "Habitat",
-        "Crop",
-        "Mediterranean climate",
-        "Infestation",
-        "Wildlife disease",
-        "Endemism",
-        "Ecosystem",
-        "Community structure",
-        "Domestication"
       ]
     },
     {
@@ -25848,58 +25927,6 @@
         "Community",
         "Biodiversity",
         "Diversity (politics)"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02920-3",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02920-3",
-      "title": "Repeated adaptation in sperm-related and neuronal genes in brood parasitic birds",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-02",
-      "published_date_display": "2026-01-02",
-      "published_parts": [
-        2026,
-        1,
-        2
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02920-3",
-      "abstract": "",
-      "keywords": [
-        "Adaptation (eye)",
-        "Population",
-        "Brood",
-        "Gene",
-        "Natural selection",
-        "Identification (biology)",
-        "Selection (genetic algorithm)"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02925-y",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02925-y",
-      "title": "Fine-grained mapping of forest diversity in China",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-02",
-      "published_date_display": "2026-01-02",
-      "published_parts": [
-        2026,
-        1,
-        2
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02925-y",
-      "abstract": "",
-      "keywords": [
-        "Species richness",
-        "Diversity (politics)",
-        "Natural (archaeology)",
-        "China",
-        "Natural forest",
-        "Biodiversity",
-        "Species diversity"
       ]
     },
     {
