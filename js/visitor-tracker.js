@@ -1,9 +1,6 @@
 (function () {
-    const TRACKER_ID = 'D2VNqooHs-Re2IYCGltrggAK9kmAw3nJRSd9dMaY1oA';
-    const TRACKER_WIDTH = 300;
-
     function loadVisitorTracker() {
-        if (document.getElementById('mapmyvisitors')) {
+        if (document.getElementById('flagcounter')) {
             return;
         }
 
@@ -11,12 +8,18 @@
         container.className = 'visitor-tracker';
         container.setAttribute('aria-hidden', 'true');
 
-        const script = document.createElement('script');
-        script.type = 'text/javascript';
-        script.id = 'mapmyvisitors';
-        script.src = `https://mapmyvisitors.com/map.js?d=${TRACKER_ID}&cl=ffffff&w=${TRACKER_WIDTH}`;
+        const link = document.createElement('a');
+        link.href = 'https://info.flagcounter.com/qfkW';
+        link.id = 'flagcounter';
+        link.tabIndex = -1;
 
-        container.appendChild(script);
+        const image = document.createElement('img');
+        image.src = 'https://s01.flagcounter.com/count2/qfkW/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/';
+        image.alt = 'Flag Counter';
+        image.decoding = 'async';
+
+        link.appendChild(image);
+        container.appendChild(link);
         document.body.appendChild(container);
     }
 
