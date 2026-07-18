@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:31:52.802522+00:00",
+  "generated_at": "2026-07-18T22:32:48.674045+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,12 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01911-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "China",
+        "Spatial analysis",
+        "Risk assessment",
+        "Field (mathematics)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02705-x",
@@ -59,7 +64,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02705-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Submarine pipeline",
+        "Offshore wind power",
+        "Underwater",
+        "Endangered species",
+        "Marine life"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02710-0",
@@ -77,7 +89,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02710-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Deforestation (computer science)",
+        "Evapotranspiration",
+        "Precipitation",
+        "Water cycle",
+        "Climate change",
+        "Tropics",
+        "Offset (computer science)",
+        "Forest restoration"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02713-x",
@@ -95,7 +116,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02713-x",
       "abstract": "Abstract It is important to strengthen urban resilience amid the growing extreme weather events under climate change, yet the role of intercity connectivity in shaping such resilience remains understudied. Here using mobility data from 1.1 billion devices across 366 Chinese cities, we show that stronger connectivity enhances intracity mobility resilience, a core indicator of urban functionality, during extreme rainfall. Cities with higher network centrality and stronger ties to wealthier cities exhibit higher resilience, characterized by shorter recovery times, faster rebound and lower total performance loss (TPL). Counterfactual simulations indicate that less developed or constrained networks could increase predicted TPL by 527.1% and 54.7%, respectively. Projections to 2050 suggest that socioeconomic development combined with strategic railway development would reduce median city-level TPL by 72.5–76.1%, avoiding indirect economic losses of 12.8–14.2 billion yuan. Notably, smaller cities benefit more from improved connectivity and prioritizing network enhancement in poorer cities renders the largest gains.",
-      "keywords": []
+      "keywords": [
+        "Resilience (materials science)",
+        "Centrality",
+        "Counterfactual thinking",
+        "Psychological resilience",
+        "Urban resilience",
+        "Extreme weather"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02696-9",
@@ -112,8 +140,17 @@
         17
       ],
       "link": "https://www.nature.com/articles/s41558-026-02696-9",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Climate change is necessitating renewable energy development while contributing to shifting wildlife phenology and distribution. Renewable energy may require anthropogenic activity and wildlife to co-occur. Here we develop a framework to identify trade-offs between financial costs to developers and conservation, considering the critically endangered North Atlantic right whale (Eubalaena glacialis) and offshore wind energy development. By coupling an offshore wind energy construction simulation with a density surface model to quantify the number of right whales exposed to pile-driving noise under ten mitigation scenarios, we highlight mitigation measures, notably seasonal restrictions and noise attenuating devices, that can yield conservation value with minimal financial burden. As societies continue to refine and determine suitable financial and ecological trade-offs for development, frameworks like ours can be useful for exploring conservation challenges to ensure co-benefits for climate and biodiversity. The authors consider the potential conflict between renewable energy development (offshore wind) and wildlife (North Atlantic right whales, Eubalaena glacialis). They demonstrate a framework to identify trade-offs under different scenarios, maximizing conservation with minimal financial burden.",
+      "keywords": [
+        "Renewable energy",
+        "Endangered species",
+        "Wildlife",
+        "Climate change",
+        "Offshore wind power",
+        "Energy development",
+        "Climate change mitigation",
+        "Wind power"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01850-7",
@@ -1042,14 +1079,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600151X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Work (physics)",
+        "Sustainability",
+        "Context (archaeology)",
+        "Set (abstract data type)",
+        "Quality (philosophy)"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101777",
@@ -1059,7 +1102,7 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
@@ -1076,14 +1119,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001764",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Product (mathematics)",
+        "Food safety",
+        "Novel food",
+        "European union",
+        "Action (physics)"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101779",
@@ -1093,14 +1142,21 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001806",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Unintended consequences",
+        "Production (economics)",
+        "Population",
+        "Transformative learning",
+        "Population growth",
+        "Food supply"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101772",
@@ -1110,14 +1166,21 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001739",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Circular economy",
+        "Sustainability",
+        "Scalability",
+        "Food supply",
+        "Food systems",
+        "Food industry"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101752",
@@ -1179,14 +1242,19 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001727",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Fragmentation (computing)",
+        "Protein stability",
+        "Process (computing)",
+        "Protein structure"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101747",
@@ -1269,14 +1337,19 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001521",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carbon fibers",
+        "Transition (genetics)",
+        "Field (mathematics)",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101753",
@@ -1999,6 +2072,32 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101746",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101746",
+      "title": "Year-round marine heat extremes severely impact marine life during the first year at 1.5°C warming",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-23",
+      "published_date_display": "2026-06-23",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001478",
+      "abstract": "Periods of anomalous ocean heat are becoming more intense and persistent, with consequences for biodiversity, food systems, and coastal resilience. Yet ocean impact assessments often emphasize summer, creating a seasonal bias that can underrepresent the year-round consequences of marine heat extremes. In 2023–2024, ocean surface warming exceeded 1.0°C above pre-industrial levels, coinciding with year-round marine heat extremes across much of the ocean. Here, we provide a rapid global assessment of marine impacts during this exceptional year. We show that summer impacts were frequent and severe, but 29% of non-tropical impacts occurred in cooler seasons. Events involving compound hazards occurred across seasons, though their timing varied by hazard type. Summer assessments alone are therefore insufficient to capture when, where, and how ocean heat threatens marine ecosystems. Rapid, year-round assessments are needed to understand how anomalous heat affects marine ecosystems and dependent societies, while informing preparedness plans for inevitable future extremes.",
+      "keywords": [
+        "Marine ecosystem",
+        "Climate change",
+        "Marine life",
+        "Global warming",
+        "Marine debris",
+        "Effects of global warming on oceans",
+        "Sea surface temperature",
+        "Ecosystem"
+      ]
+    },
+    {
       "doi": "10.1038/s41893-026-01838-3",
       "doi_url": "https://doi.org/10.1038/s41893-026-01838-3",
       "title": "Material equality undermined by global trade",
@@ -2076,6 +2175,30 @@
         "Nitrogen",
         "Soil carbon",
         "Nitrogen cycle"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101741",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101741",
+      "title": "ARMS-to-Arks: Trophic rewiring of viral, microbial, and functional networks through reef ecosystem seeding",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-22",
+      "published_date_display": "2026-06-22",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001429",
+      "abstract": "",
+      "keywords": [
+        "Trophic level",
+        "Ecosystem",
+        "Reef",
+        "Coral reef",
+        "Seeding",
+        "Ecological network"
       ]
     },
     {
@@ -3039,6 +3162,32 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101715",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101715",
+      "title": "Operationalizing biodiversity credits to catalyze coral reef management and investment",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-10",
+      "published_date_display": "2026-06-10",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001168",
+      "abstract": "Effective biodiversity conservation for coral reef ecosystems requires both climate mitigation and enhanced management. The current scale of reef management, and the resulting capacity to deliver ecosystem benefits, is limited by a lack of adequate, accessible, sustainable, and scalable funding. Our perspective explores the opportunities and challenges of emerging biodiversity frameworks and nature-based funding instruments (especially biodiversity credits) to catalyze investments needed to increase the scale, nature, and effectiveness of coral reef conservation. Foundational work needed to establish high-integrity coral reef biodiversity credits is under way, including the development of a robust biodiversity accounting framework relevant across a broad range of coral reef habitats and regions. Explicit focus on ecosystem structure, composition, and functions provides a clear direction and rationale for selecting relevant metrics for biodiversity accounting. However, ongoing targeted research and innovation are needed to increase efficacy and efficiency of coral reef management while adapting to changing conditions and demands.",
+      "keywords": [
+        "Biodiversity",
+        "Coral reef",
+        "Coral reef protection",
+        "Reef",
+        "Ecosystem services",
+        "Measurement of biodiversity",
+        "Coral reef organizations",
+        "Operationalization"
+      ]
+    },
+    {
       "doi": "10.1038/s41561-026-02007-z",
       "doi_url": "https://doi.org/10.1038/s41561-026-02007-z",
       "title": "Seamount volcanism associated with Earth’s basal mantle structures",
@@ -3932,32 +4081,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.oneear.2026.101746",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101746",
-      "title": "Year-round marine heat extremes severely impact marine life during the first year at 1.5°C warming",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001478",
-      "abstract": "Periods of anomalous ocean heat are becoming more intense and persistent, with consequences for biodiversity, food systems, and coastal resilience. Yet ocean impact assessments often emphasize summer, creating a seasonal bias that can underrepresent the year-round consequences of marine heat extremes. In 2023–2024, ocean surface warming exceeded 1.0°C above pre-industrial levels, coinciding with year-round marine heat extremes across much of the ocean. Here, we provide a rapid global assessment of marine impacts during this exceptional year. We show that summer impacts were frequent and severe, but 29% of non-tropical impacts occurred in cooler seasons. Events involving compound hazards occurred across seasons, though their timing varied by hazard type. Summer assessments alone are therefore insufficient to capture when, where, and how ocean heat threatens marine ecosystems. Rapid, year-round assessments are needed to understand how anomalous heat affects marine ecosystems and dependent societies, while informing preparedness plans for inevitable future extremes.",
-      "keywords": [
-        "Marine ecosystem",
-        "Climate change",
-        "Marine life",
-        "Global warming",
-        "Marine debris",
-        "Effects of global warming on oceans",
-        "Sea surface temperature",
-        "Ecosystem"
-      ]
-    },
-    {
       "doi": "10.1016/j.oneear.2026.101749",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101749",
       "title": "Wetlands at the interface of ambition and action",
@@ -4080,32 +4203,6 @@
         "Sustainability",
         "Ecosystem",
         "Sustainable management"
-      ]
-    },
-    {
-      "doi": "10.1016/j.oneear.2026.101715",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101715",
-      "title": "Operationalizing biodiversity credits to catalyze coral reef management and investment",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001168",
-      "abstract": "Effective biodiversity conservation for coral reef ecosystems requires both climate mitigation and enhanced management. The current scale of reef management, and the resulting capacity to deliver ecosystem benefits, is limited by a lack of adequate, accessible, sustainable, and scalable funding. Our perspective explores the opportunities and challenges of emerging biodiversity frameworks and nature-based funding instruments (especially biodiversity credits) to catalyze investments needed to increase the scale, nature, and effectiveness of coral reef conservation. Foundational work needed to establish high-integrity coral reef biodiversity credits is under way, including the development of a robust biodiversity accounting framework relevant across a broad range of coral reef habitats and regions. Explicit focus on ecosystem structure, composition, and functions provides a clear direction and rationale for selecting relevant metrics for biodiversity accounting. However, ongoing targeted research and innovation are needed to increase efficacy and efficiency of coral reef management while adapting to changing conditions and demands.",
-      "keywords": [
-        "Biodiversity",
-        "Coral reef",
-        "Coral reef protection",
-        "Reef",
-        "Ecosystem services",
-        "Measurement of biodiversity",
-        "Coral reef organizations",
-        "Operationalization"
       ]
     },
     {
@@ -4276,30 +4373,6 @@
         "Wetland",
         "Atmospheric methane",
         "Current (fluid)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.oneear.2026.101741",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101741",
-      "title": "ARMS-to-Arks: Trophic rewiring of viral, microbial, and functional networks through reef ecosystem seeding",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001429",
-      "abstract": "",
-      "keywords": [
-        "Trophic level",
-        "Ecosystem",
-        "Reef",
-        "Coral reef",
-        "Seeding",
-        "Ecological network"
       ]
     },
     {
@@ -4834,6 +4907,29 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101706",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101706",
+      "title": "Shifting cultivation as a driver of deforestation: Misinterpreted data, misguided conclusions, and misplaced blame",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-22",
+      "published_date_display": "2026-05-22",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001077",
+      "abstract": "",
+      "keywords": [
+        "Blame",
+        "Forcing (mathematics)",
+        "Conceptual framework",
+        "Climate change",
+        "Empirical evidence"
+      ]
+    },
+    {
       "doi": "10.1038/s41893-026-01846-3",
       "doi_url": "https://doi.org/10.1038/s41893-026-01846-3",
       "title": "Improved forest protection at Chinese heritage relic sites",
@@ -5330,6 +5426,32 @@
         "Ecosystem",
         "Climate extremes",
         "Climate system"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101705",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101705",
+      "title": "Thirty years of decrease in global terrestrial ecosystem respiration due to declining moisture availability",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-05-15",
+      "published_date_display": "2026-05-15",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001065",
+      "abstract": "",
+      "keywords": [
+        "Terrestrial ecosystem",
+        "Ecosystem",
+        "Moisture",
+        "Water content",
+        "Respiration",
+        "Ecosystem respiration",
+        "Climate change",
+        "Carbon cycle"
       ]
     },
     {
@@ -6433,32 +6555,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.oneear.2026.101705",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101705",
-      "title": "Thirty years of decrease in global terrestrial ecosystem respiration due to declining moisture availability",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-05-01",
-      "published_date_display": "2026-05-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001065",
-      "abstract": "",
-      "keywords": [
-        "Terrestrial ecosystem",
-        "Ecosystem",
-        "Moisture",
-        "Water content",
-        "Respiration",
-        "Ecosystem respiration",
-        "Climate change",
-        "Carbon cycle"
-      ]
-    },
-    {
       "doi": "10.1016/j.oneear.2026.101701",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101701",
       "title": "Strategic extended producer responsibility can double China’s formal electric vehicle battery recycling with improved sustainability",
@@ -6529,29 +6625,6 @@
         "Work (physics)",
         "Perspective (graphical)",
         "Context (archaeology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.oneear.2026.101706",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101706",
-      "title": "Shifting cultivation as a driver of deforestation: Misinterpreted data, misguided conclusions, and misplaced blame",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-05-01",
-      "published_date_display": "2026-05-01",
-      "published_parts": [
-        2026,
-        7
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001077",
-      "abstract": "",
-      "keywords": [
-        "Blame",
-        "Forcing (mathematics)",
-        "Conceptual framework",
-        "Climate change",
-        "Empirical evidence"
       ]
     },
     {
