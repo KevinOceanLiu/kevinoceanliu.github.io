@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:06:07.440404+00:00",
+  "generated_at": "2026-07-18T22:06:18.414541+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003378",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Interferometric synthetic aperture radar",
+        "Mechanism (biology)",
+        "Deformation (meteorology)",
+        "Synthetic aperture radar",
+        "Deformation monitoring"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2696848",
@@ -57,8 +63,14 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2696848",
-      "abstract": "",
-      "keywords": []
+      "abstract": "This article analyzes a series of Arctic colonial encounters that took place between British naval officers and members of the Indigenous Yupik community in the mid-nineteenth century. Using a critical exploration studies approach and combining this with recent research investigating the geographies of dis/comfort, this article develops the concept of “uncomfortable encounters” to analyze written descriptions of the Yupik yarangi produced by these Arctic travelers. Presenting analysis of unpublished archival materials, the article focuses specifically on the sensorial, embodied descriptions contained in these accounts and investigates the uncomfortable atmospheres that the travelers experienced during visits to these tent-like dwellings. The article argues that these problematic descriptions reproduced and reinforced racialized understandings of Arctic Indigenous peoples, depicting them as intellectually, morally, and culturally inferior. The article thus concludes by calling for historical geographers to incorporate geographies of discomfort more fully in their analyses to gain deeper understandings of both archival materials and the histories they reveal.",
+      "keywords": [
+        "Indigenous",
+        "Arctic",
+        "Colonialism",
+        "Embodied cognition",
+        "The arctic"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115556",
@@ -74,7 +86,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003263",
-      "abstract": "",
+      "abstract": "Hyperspectral imaging over the long wavelength infrared (LWIR) or “thermal” spectrum is a promising means to both detect and quantify methane (CH 4 ) emissions, particularly those arising from upstream oil and gas activities. In contrast to systems that interrogate the 1.6 or 2.2 μm CH 4 absorption bands using an external light source, such as a laser or sunlight, passive systems rely on thermal emission of the CH 4 plume and the background surface over the 7.78 μm band. This approach offers potential advantages over systems based on the short wavelength infrared (SWIR) band, particularly in scenarios involving low solar intensity or over highly absorbing surfaces. This paper presents the outcomes of three measurement campaigns conducted under conditions relevant to the Canadian oil and gas industry, including probability of detection (POD) curves that may be used to identify the likelihood of identifying an emission of a given rate under prescribed environmental conditions. POD curves are then used to generate a conservative estimate of the availability of the technique at one location in southern Alberta, Canada. The results highlight that the thermal contrast between the plume and the background surface is crucial to the viability of this technique. To the authors' knowledge, this work presents the first POD curves for an airborne passive LWIR hyperspectral methane detection system and provides a quantitative comparison of detection performance over bare ground and snow-covered surfaces.",
       "keywords": [
         "Hyperspectral imaging",
         "Methane",
