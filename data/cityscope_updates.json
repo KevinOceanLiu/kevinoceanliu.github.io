@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T23:08:26.897847+00:00",
+  "generated_at": "2026-07-18T23:10:55.204807+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,54 +31,21 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102489",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102489",
-      "title": "How multi-sensory experience shapes place-based human sentiments: A hyperlocal analysis using environmental sensing and social media data in the Bronx, New York City",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "doi": "10.1177/00420980261456151",
+      "doi_url": "https://doi.org/10.1177/00420980261456151",
+      "title": "Gender homophily and rent premiums in platform-mediated shared housing: Evidence from Ziroom in urban China",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-18",
+      "published_date_display": "2026-07-18",
       "published_parts": [
         2026,
-        12
+        7,
+        18
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000918",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.compenvurbsys.2026.102490",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102490",
-      "title": "A global structural typology of cities from urban centers",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600092X",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107388",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107388",
-      "title": "When transit stops: Causal evidence on travel times from a transit strike in Quebec city",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006207",
-      "abstract": "",
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261456151",
+      "abstract": "Digital platforms are increasingly reshaping how housing is accessed, priced, and experienced in cities. Platform logics, characterized by data-driven processes and algorithmic pricing, can reflect and reinforce existing social inequalities. This study examines how gender intersects with platform dynamics to shape rental outcomes in Nanjing, China, a major metropolis of nearly 10 million residents. Drawing on a year of data from 373,964 bedroom listings on Ziroom, the country’s largest shared rental platform, the study tests whether the gender composition of roommates influences rents. Hedonic regressions controlling for unit, building, and neighborhood characteristics show that all-female-roommate units command a rent premium, suggesting gender homophily is priced as a valued amenity. When interaction terms with room status are included, results show no initial rent difference under “reserve,” but a clear premium for all-female units under two leasing conditions: immediate move-in (“sign”) and subleasing (“sublease”). These findings suggest that the premium does not arise from platform-set base rents but from gendered preferences interacting with algorithmic pricing, whereby units with stronger demand are discounted less. This study contributes to research on platform-mediated housing, PropTech, and housing inequality by quantifying how platform systems reflect and reproduce gendered disadvantage. It also highlights the value of platform data for understanding emerging rental markets and calls for greater attention to gender in the governance of shared and platform-mediated housing.",
       "keywords": []
     },
     {
@@ -97,7 +64,18 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261454086",
       "abstract": "This study investigates the overlooked yet pivotal role of local sports communities (LSCs) as data agents in the collaborative governance of urban public spaces. Rather than framing citizens’ leisure sports solely as intervention, we develop a triadic framework, comprising Governance Structure, Data Production, and Decision Mediation, to analyze how LSCs generate, manage, and translate data for urban governance. Three integration patterns are identified through the theory-informed case studies ( n = 12). The findings show that LSCs function with multifaceted roles, providing trust and legitimacy, generating grounded data, and mobilizing narratives to shape governance pathways. Ultimately, we conclude with a Quadrant Model to map LSCs’ embeddedness along the axes of institutional legitimacy and grassroots agency, offering a diagnostic tool for tracing the evolution from data silos to active data agency. The study contributes to debates on data-driven urbanism, collaborative governance, and leisure sports.",
-      "keywords": []
+      "keywords": [
+        "Corporate governance",
+        "Embeddedness",
+        "Collaborative governance",
+        "Legitimacy",
+        "Grassroots",
+        "Framing (construction)",
+        "Data governance",
+        "Function (biology)",
+        "Situated",
+        "Coproduction"
+      ]
     },
     {
       "doi": "10.1177/00420980261469313",
@@ -133,7 +111,14 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00485-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Urban planning",
+        "Rural area",
+        "Context (archaeology)",
+        "Population",
+        "Field (mathematics)",
+        "Urbanization"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00482-4",
@@ -151,7 +136,16 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00482-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Architecture",
+        "Ancient city",
+        "Adaptation (eye)",
+        "Path (computing)",
+        "Cultural heritage",
+        "Urban culture",
+        "Sustainability",
+        "Ancient culture"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00483-3",
@@ -169,7 +163,13 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00483-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Dependency (UML)",
+        "Resource (disambiguation)",
+        "Scaling",
+        "Urban expansion",
+        "Scale (ratio)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00462-8",
@@ -187,7 +187,119 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00462-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Tourism",
+        "Urbanization",
+        "Dream",
+        "George (robot)",
+        "Soul"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102489",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102489",
+      "title": "How multi-sensory experience shapes place-based human sentiments: A hyperlocal analysis using environmental sensing and social media data in the Bronx, New York City",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000918",
+      "abstract": "",
+      "keywords": [
+        "Social media",
+        "Noise (video)",
+        "Linear regression",
+        "Human behavior",
+        "Linear model",
+        "Regression analysis",
+        "Linear relationship",
+        "Environmental noise"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102490",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102490",
+      "title": "A global structural typology of cities from urban centers",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S019897152600092X",
+      "abstract": "",
+      "keywords": [
+        "Typology",
+        "Aggregate (composite)",
+        "Construct (python library)",
+        "Scale (ratio)",
+        "Urban structure",
+        "Focus (optics)",
+        "Center (category theory)",
+        "Population"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107360",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107360",
+      "title": "Your place or mine? Overcoming neoliberal placemaking as commodification of built environments in the inclusive city",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005925",
+      "abstract": "This paper critiques the evolving role of placemaking within the neoliberal city, examining its implications for urban development and social equity. While placemaking ostensibly fosters community engagement and sustainable urban environments, it can beco-opted to commodify the built environment, exacerbating issues such as gentrification, displacement, and the erosion of local identity. Drawing on insights from an Urban Leisure and Tourism (ULT) Living Lab in Rotterdam, this research highlights how top-down regeneration efforts have marginalised vulnerable communities in the city under the guise of inclusive development. As concerns grow over the temporality of placemaking initiatives, this study calls for a critical reflection on placemaking as a social practice. The research explores how bottom-up, community-centred placemaking strategies can counter these trends by fostering resilience and socio-ecological equity. Focusing on economically disadvantaged neighbourhoods that are acutely affected by spatial change, the study investigates how communities can safeguard themselves from the extractive impacts of tourism and development while amplifying the voices of historically excluded stakeholders. Sharing insights and citizen perspectives from urban activation projects at the living lab, we advocate for systemic, participatory approaches to urban transformation that prioritize local ownership, inclusivity, and sustainable resource management. It challenges current practices that favour short-term economic gain over long-term societal well-being and seeks out transparent, community-driven models of urban planning that, that are taken seriously and acted upon by developers and policymakers rather than merely providing tokenistic acknowledgement. Such approaches are essential for creating more inclusive cities that genuinely reflect and serve the needs of all their residents.",
+      "keywords": [
+        "Commodification",
+        "Placemaking",
+        "Environmental planning",
+        "Business",
+        "Civil engineering",
+        "Political science",
+        "Geography",
+        "Economy",
+        "Architecture",
+        "Archaeology",
+        "Engineering",
+        "Economics",
+        "Urban design"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107388",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107388",
+      "title": "When transit stops: Causal evidence on travel times from a transit strike in Quebec city",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-17",
+      "published_date_display": "2026-07-17",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006207",
+      "abstract": "",
+      "keywords": [
+        "Transit (satellite)",
+        "Rail transit",
+        "Transit system",
+        "Public transport",
+        "Urban transit"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107370",
@@ -247,7 +359,15 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261463371",
       "abstract": "For decades, culture-based urban development strategies have proliferated in Black communities, yet scholarship has documented how such approaches, whether heritage-based development or creative economy initiatives, often reproduce displacement despite intentions to the contrary. Less examined is what happens when Black communities control the development process itself, and whether institutional control can fundamentally alter displacement dynamics. Drawing on two years of ethnographic research with Destination Crenshaw, a $100-million cultural development project in South Los Angeles, I develop reparative development as an analytical framework for understanding community-led cultural strategies that explicitly orient toward repair, redress, and futurity. The framework identifies five distinguishing dimensions: acknowledgment of historical harm, symbolic and material restitution, institutional restructuring, community self-determination, and future orientation. The findings reveal that reparative development achieves genuine gains (cultural permanence, economic pathways, institutional capacity) yet faces structural limitations that community control cannot transcend: the amenity trap, whereby cultural investment accelerates displacement; the temporal mismatch between slow repair work and fast-moving real estate markets; and the restitution gap between symbolic recognition and material redistribution. These findings suggest that cultural strategy represents one component of a broader repair agenda but cannot substitute for the structural transformations full repair demands.",
-      "keywords": []
+      "keywords": [
+        "Scholarship",
+        "Control (management)",
+        "Ethnography",
+        "Gentrification",
+        "Process (computing)",
+        "Displacement (psychology)",
+        "Amenity"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107323",
@@ -315,7 +435,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005676",
-      "abstract": "",
+      "abstract": "Problems of governance are a recurring theme in research on metropolitan areas, yet the role of politicians, bureaucrats, and political-administrative relations remains underexplored. This article addresses this gap by analyzing political-administrative relations in the governance of Czech metropolitan areas. As metropolitan areas in Czechia were established relatively recently, it is possible to observe the dynamics between politicians and civil servants from their inception. Based on semi-structured interviews with politicians and civil servants from two metropolitan areas, the findings suggest that civil servants hold a relatively strong position due not only to their expertise and knowledge of EU funding opportunities and project management, but also to the limited interest of politicians in the metropolitan agenda. Politicians' low engagement appears to result from a focus on immediate economic benefits and difficulties navigating issues beyond electoral district boundaries. This passive political role contributes to the uncertain status of metropolitan areas, which lack strong political advocacy.",
       "keywords": [
         "Metropolitan area",
         "Corporate governance",
@@ -347,6 +467,26 @@
         "Scale (ratio)",
         "Psychological resilience",
         "Adaptation (eye)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107359",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107359",
+      "title": "Classification of medium and small cities for the implementation of Low Emission Zones",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005913",
+      "abstract": "Growing mobility within cities has led to an unacceptable increase in the negative externalities of transport. In order to reduce this negative impact, Low Emission Zones (LEZs) are being implemented; among other actions and objectives, they include some type of circulating restriction for vehicles to improve air quality. Given the differences among cities, and the great variety of measures that a LEZ may include, it is necessary to develop aids for choosing the most appropriate type of LEZ to be implemented. This study identifies groups of cities having similar geophysical and socioeconomic characteristics, as well as other traits related with the generation of negative impacts by transport. Our classification may be used to propose common policy guidelines —in some cases even specific proposals— for planning an adequate LEZ in each city group, or for other municipalities that could identify with a particular group.The study case is Spain. A total of 61 cities were considered, described by means of 11 variables. Cluster analysis was used to define the groups of cities, giving eight clusters; in view of their most relevant characteristics, different policy guidelines and actions could be put forth for the design of a particular LEZ for each group.",
+      "keywords": [
+        "Business",
+        "Environmental science"
       ]
     },
     {
@@ -18629,57 +18769,6 @@
         "Mental health",
         "Systematic review",
         "Data extraction"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107360",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107360",
-      "title": "Your place or mine? Overcoming neoliberal placemaking as commodification of built environments in the inclusive city",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2025-01-01",
-      "published_date_display": "2025-01-01",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005925",
-      "abstract": "",
-      "keywords": [
-        "Commodification",
-        "Placemaking",
-        "Environmental planning",
-        "Business",
-        "Civil engineering",
-        "Political science",
-        "Geography",
-        "Economy",
-        "Architecture",
-        "Archaeology",
-        "Engineering",
-        "Economics",
-        "Urban design"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107359",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107359",
-      "title": "Classification of medium and small cities for the implementation of Low Emission Zones",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2024-01-01",
-      "published_date_display": "2024-01-01",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005913",
-      "abstract": "",
-      "keywords": [
-        "Business",
-        "Environmental science"
       ]
     }
   ]
