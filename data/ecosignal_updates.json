@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T23:35:10.308633+00:00",
+  "generated_at": "2026-07-19T23:38:14.242368+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70393",
       "abstract": "Abstract Successful large‐scale biological invasions require introduced species to either rapidly adapt to a broad range of—partly novel—environmental conditions, or to possess a high level of phenotypic plasticity. Replicated common garden experiments across the introduced range provide a powerful framework to investigate these complementary mechanisms. To better understand population differentiation, adaptation and plasticity of invasive Japanese knotweed ( Reynoutria japonica ) in Europe, we compared the performance of knotweed plants from 46 European populations, collected across a 2000 km latitudinal transect, in three common gardens with contrasting climatic conditions, one at the southern edge, one in the centre and one at the northern edge of the species' European distribution. The plants exhibited strong phenotypic plasticity across the three gardens, with a more acquisitive growth strategy in the southern garden, and a more conservative strategy and change of architecture in the climatically unfavourable north. Although we observed phenotypic selection on several leaf traits, with some differences in selection between the gardens, we found little evidence for population differentiation or local adaptation, that is variation in plant performance was not negatively related to climate or geographic distance. Greater plasticity in leaf thickness across gardens was linked to the production of fewer but larger shoots, indicating a trade‐off between growth and clonal expansion. In addition, populations from higher latitudes and regions with greater inter‐annual temperature variability displayed increased plasticity in shoot volume and shrubbiness, but reduced plasticity in shoot number. Synthesis . Our results suggest that local adaptation has not played a key role in the success of Japanese knotweed in Europe. Instead, its high overall phenotypic plasticity (‘general purpose genotype’), as well as evolutionary fine‐tuning of plasticity, may have contributed to the species' invasion success across a broad range of environments.",
-      "keywords": []
+      "keywords": [
+        "Phenotypic plasticity",
+        "Invasive species",
+        "Phenotype",
+        "Biology",
+        "Geography",
+        "Ecology",
+        "Genetics"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70405",
@@ -69,7 +77,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70405",
       "abstract": "Abstract As succession proceeds, theory predicts increasingly asynchronous dynamics among species, thereby enhancing community temporal stability. However, recent studies often report decreased species asynchrony in older communities, and it remains unclear whether these successional changes in asynchrony reflect ecological processes or statistical mechanisms. Using a 60‐year vegetation time series from the Buell–Small Succession Study, we quantified temporal changes in species asynchrony during old‐field succession. We then decomposed species asynchrony into compensatory effects ( CPE ) and statistical‐averaging effects ( SAE ) to assess the relative importance of these components. We further examined how CPE and SAE are related to species richness and whether these relationships shift through time. We show that the long‐term decline in species asynchrony over succession was jointly explained by decreases in both CPE and SAE . SAE consistently accounted for a larger proportion of species asynchrony, but CPE declined more strongly over succession and therefore contributed more to the overall decline in species asynchrony. We further show that SAE , but not CPE , consistently increased with species richness at all stages, indicating that losses of diversity in later successional stages were associated with lower SAE . Consequently, both the direct decline in CPE and the indirect decline in SAE via decreased richness contributed to the observed decrease in species asynchrony over succession. Synthesis . Our results provide clear evidence that both the compensatory dynamics and statistical‐averaging mechanisms contribute to long‐term decreases in species asynchrony during succession, and that the stabilizing role of diversity is largely linked to statistical averaging. These insights refine classical views of successional dynamics and deepen our understanding of how biodiversity–stability relationships unfold over time.",
-      "keywords": []
+      "keywords": [
+        "Asynchrony (computer programming)",
+        "Ecological succession",
+        "Species richness",
+        "Species diversity",
+        "Secondary succession",
+        "Interspecific competition"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70510",
@@ -87,7 +102,13 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70510",
       "abstract": "Abstract Mitigation measures are commonly implemented to reduce the negative effects of industrial development on wildlife but are not always evaluated for their efficacy. For example, oil fields in the Arctic typically incorporate design features intended to increase permeability for migratory, barren‐ground caribou ( Rangifer tarandus ), even though there is limited empirical evidence of the effectiveness of some of these features. Given expected increases in energy development in the North American Arctic, we examined whether two mitigation measures commonly used for migratory caribou, elevating pipelines and separating roads and pipelines, were effective at increasing the probability caribou would cross infrastructure. We conducted our investigation on adult female caribou in the Central Arctic Herd of Alaska during summer, analysing movement data from telemetry collars (2015–2020) in conjunction with spatial data on oil field infrastructure. To evaluate whether caribou would cross infrastructure as a function of the mitigation measures, we used non‐linear binomial and step selection models. We found that caribou were more likely to cross a pipeline when the nearest pipeline was elevated (≥1.5 m), a result that supports current mitigation recommendations. We also found that caribou were more likely to cross both a road and pipeline when they were adjacent to one another, as opposed to being spatially separated, a result that contradicts recommended mitigation strategies. Synthesis and applications. As new energy projects are designed and implemented in environments around the globe, it is important to ensure that mitigation efforts for wildlife are scientifically validated for their efficacy. In the North American Arctic, such efforts will be critical for minimizing the impacts of expanding industrial development on migratory caribou and on the human communities that rely on them for subsistence.",
-      "keywords": []
+      "keywords": [
+        "Arctic",
+        "Wildlife",
+        "Habitat",
+        "The arctic",
+        "Petroleum"
+      ]
     },
     {
       "doi": "10.1111/gcb.71009",
@@ -105,7 +126,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71009",
       "abstract": "ABSTRACT Black fungi are often described as ubiquitous specialists of harsh environments (extremotolerant), yet how their ecological lifestyles vary across environmental gradients remains poorly understood. Here, we use a global soil dataset based on ITS PacBio sequencing to characterize over 51,000 black fungal phylotypes across major functional groups and ascomycete lineages, including Chaetothyriales and Capnodiales. We find that their global distribution is strongly structured by lifestyles and environmental filtering, especially from climate. Capnodiales dominate arid regions, whereas Chaetothyriales are associated with cold and montane environments. Functional strategies further explain global patterns, with rock‐inhabiting fungi exhibiting the broadest niche breadth and highest environmental tolerance. We also revealed limited niche conservatism and widespread convergence in stress‐tolerance traits, suggesting repeated evolutionary adaptation to extreme conditions. Climate projections further suggest a spatial reorganization of dominant taxa and functional groups under future scenarios, with stress‐tolerant fungi tracking the expansion of arid environments while plant pathogens are predicted to persist in current core regions and expand into areas where they are presently marginal. These findings challenge simplified representations of extremotolerant fungi in Earth system models and indicate current approaches may misrepresent how soil microbial communities reorganize under climate change.",
-      "keywords": []
+      "keywords": [
+        "Niche",
+        "Arid",
+        "Adaptation (eye)",
+        "Climate change",
+        "Ecological niche",
+        "Global change",
+        "Taxon",
+        "Microclimate",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1111/gcb.71004",
@@ -123,7 +154,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71004",
       "abstract": "ABSTRACT Decades of fertilizer intensification have reshaped phosphorus (P) cycling across China's croplands, driving a widespread transition from P deficiency to enrichment while leaving spatially heterogeneous legacies of accumulated soil P. However, the long‐term trajectories of soil available P, their regional divergence, and the drivers regulating P accumulation or depletion remain poorly resolved at the national scale, limiting the development of sustainable and region‐specific P management strategies. Here, we integrate nearly 190,000 soil samples from harmonized national soil surveys with long‐term fertilization experiments to quantify long‐term soil available P dynamics across China at 1 km resolution and to assess the importance of key environmental and management drivers using an interpretable, spatially explicit machine‐learning framework. Soil available P increased sharply from 1980 to 2018, with an overall increase of 20.6 mg kg −1 , shifting from widespread deficiency to pronounced enrichment, particularly in eastern croplands. Long‐term experimental evidence demonstrates that sustained fertilizer inputs play a central role in driving soil P accumulation. Interpretable machine learning revealed spatial heterogeneity in the dominant drivers of soil available P change, with management effects strongest in Central China, and climatic and environmental influences more pronounced in the Northwest and Northeast. Sensitivity‐based future projections indicated divergent potential trajectories to 2060, with climatic changes reducing soil available P, whereas management intensification increased soil available P by approximately 13%. These findings show that long‐term soil available P dynamics across China are governed by the combined effects of fertilization legacies, soil‐environmental context, and climate, providing a national basis for region‐specific and sustainable P management.",
-      "keywords": []
+      "keywords": [
+        "Soil water",
+        "Cycling",
+        "Fertilizer",
+        "Phosphorus",
+        "Soil fertility",
+        "Limiting",
+        "Soil management",
+        "Vegetation (pathology)",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/gcb.71005",
@@ -141,7 +182,14 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71005",
       "abstract": "ABSTRACT As climate extremes intensify, interactions among environmental drivers are expected to alter soil respiration (SR) and its response to rewetting, increasing uncertainty in carbon‐climate feedbacks. However, the interactive effects of drought and warming, two commonly studied climate stressors, on SR remain elusive due to limited research and a lack of high‐resolution data. This study investigated overall SR (SR overall , encompassing both drying and rewetting phases) and rewetting‐induced respiration pulses (SR pulse ), along with their apparent sensitivity to temperature and moisture under factorial combinations of rainfall and warming treatments in a field‐based climate‐manipulation experiment conducted in a temperate pasture system in southeastern Australia. Rainfall extremes were derived from 30 years of regional climate records, while warming was imposed as a continuous, year‐round increase of +3°C. An automated flux monitoring system was deployed to measure hourly SR across eight campaigns from October 2023 to November 2024. The drivers of SR overall and SR pulse were identified by analyzing climatic variables together with soil parameters from rhizosphere and non‐rhizosphere zones. Drought and warming consistently suppressed SR overall but amplified SR pulse and moisture sensitivity. The interactive effects of both treatments on SR overall varied seasonally, shifting from additive in spring to antagonistic in summer and autumn, and synergistic in winter. Drought suppressed apparent temperature sensitivity (Q 10 ), but warming effects on Q 10 varied with moisture conditions. Soil temperature, moisture, and extractable C:N ratio from across rhizosphere and non‐rhizosphere soil were consistent predictors of SR overall and SR pulse but exerted opposing effects on the two components. These findings advance our understanding of how drought‐warming interactions shape both overall and pulse‐driven SR, providing a process‐based foundation for improving predictions of carbon‐climate feedbacks under intensifying climate extremes.",
-      "keywords": []
+      "keywords": [
+        "Temperate climate",
+        "Pasture",
+        "Water content",
+        "Soil respiration",
+        "Climate change",
+        "Rhizosphere"
+      ]
     },
     {
       "doi": "10.1111/gcb.71016",
@@ -159,7 +207,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71016",
       "abstract": "ABSTRACT Understanding how plant communities maintain productivity in arid environments remains a key ecological question. Using two independent 4‐year drought experiments with a 66% reduction in growing season precipitation in a semi‐arid grassland, we found that reductions in plant density and individual size jointly contributed to drought‐induced declines in aboveground net primary productivity (ANPP), and that their relative importance depends on drought duration, intensity, and plant functional group. For graminoids, ANPP decline was primarily driven by reduced individual size, whereas for forbs it was driven by reduced plant density. There was a trade‐off between the contributions of plant density and individual size to productivity, which was mediated by leaf functional traits, including leaf carbon content and leaf nitrogen. Our findings highlight the role of the trade‐off between demographic and growth‐related processes in regulating productivity under climate change.",
-      "keywords": []
+      "keywords": [
+        "Forb",
+        "Productivity",
+        "Arid",
+        "Primary production",
+        "Grassland",
+        "Growing season",
+        "Precipitation",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1111/gcb.71014",
@@ -177,7 +234,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71014",
       "abstract": "ABSTRACT Understanding how biodiversity responds to human‐caused environmental change represents a major scientific challenge. Among the biological processes underlying these responses, ageing plays a critical role by shaping individual life histories and, ultimately, demographic dynamics. Telomeres, the repetitive nucleotide sequences at the ends of linear chromosomes, are widely used biomarkers of ageing, as their length can be shaped by environmental conditions, and can predict health and lifespan. Despite this, few broad‐scale ecological studies have examined how telomere length varies in response to environmental change in wildlife. Here, we investigate whether telomeres of a globally widespread pollinator species, the honeybee Apis mellifera , are shaped by gradients of urbanisation, environmental pollution, climatic conditions, and floral resources in central Argentina. To that end, we sampled 981 individuals across 9 localities and 57 sites spanning a ~1000 km gradient of environmental variation. Urbanisation (β = 0.032, 95% CI [−0.048, 0.112]) and chemical contamination (PC1: β = 0.026, 95% CI [−0.075, 0.126]; PC2: β = 0.022, 95% CI [−0.065, 0.109]) were not associated with variation in telomere length. In contrast, climatic conditions and floral characteristics emerged as key predictors of telomere variation, with telomere length declining with increasing mean annual temperature (β = −0.085, 95% CI [−0.158, −0.012]) and increasing floral abundance (β = −0.109, 95% CI [−0.194, −0.024]). Our results indicate that climatic conditions and resource availability are stronger predictors of honeybee telomere length than urbanisation or environmental pollution. These findings suggest that telomere‐based patterns of ageing are shaped by the thermal and ecological context experienced by foragers in this key pollinator species.",
-      "keywords": []
+      "keywords": [
+        "Urbanization",
+        "Telomere",
+        "Context (archaeology)",
+        "Biodiversity",
+        "Climate change",
+        "Ageing",
+        "Environmental change",
+        "Resource (disambiguation)"
+      ]
     },
     {
       "doi": "10.1111/ele.70441",
@@ -195,7 +261,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70441",
       "abstract": "ABSTRACT Climate change affects the thermal environment in complex ways, including changing its temporal autocorrelation structure and intensifying heatwave regimes. While theory shows that higher temporal autocorrelation may exacerbate extinction risks, little work has been done to incorporate autocorrelation into thermal performance‐based forecasting. Here, we pair stochastic simulation models of population dynamics with systematically generated temperature time series to determine when increasing the temporal autocorrelation of variable thermal environments generates greater extinction risks. We show that by clustering stressful conditions, increasing autocorrelation reduces the extent of warming and variability which populations with unimodal thermal tolerance can survive. We validate our predictions with a factorial experiment in protist microcosms, where we find that higher autocorrelation significantly elevates extinction risk across mean temperature treatments when environments include stressful temperatures. Taken together, these results provide the foundation for predicting which species and environments face the greatest thermal risks under increasing autocorrelation.",
-      "keywords": []
+      "keywords": [
+        "Autocorrelation",
+        "Extinction (optical mineralogy)",
+        "Cluster analysis",
+        "Econometrics",
+        "Psychology",
+        "Mathematics",
+        "Statistics",
+        "Biology"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03128-9",
