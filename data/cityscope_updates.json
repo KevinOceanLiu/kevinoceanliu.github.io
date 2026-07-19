@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T23:10:55.204807+00:00",
+  "generated_at": "2026-07-19T23:11:33.013558+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,6 +31,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1177/00420980261464483",
+      "doi_url": "https://doi.org/10.1177/00420980261464483",
+      "title": "Who cares? Caregivers’ perspectives of non/encounters with autism in Singapore",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-19",
+      "published_date_display": "2026-07-19",
+      "published_parts": [
+        2026,
+        7,
+        19
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261464483",
+      "abstract": "In the densely-populated city-state of Singapore, encounters between people with and without disability happen in close proximity and high frequency, setting the scene for deeper exploration of the role of non/encounters in shaping urban care. To do so, this paper draws on a thematic analysis of interviews and ‘go-along’ ethnographic observations with 18 caregivers of persons with autism, spotlighting three caregivers’ narratives. Using the term ‘non/encounters’ to emphasise the importance of both encounters and non-encounters as well as their relational nature in shaping experiences of urban care, this article demonstrates ways in which co-users of urban spaces can play a role in sharing care responsibilities alongside familial caregivers. In uncovering the intangible structures of social norms and past memories that shape non/encounters beyond their immediate moment of occurrence, this article informs how urban care can be experienced and achieved. Firstly, I illustrate the role of research in constituting and facilitating caring encounters. Next, I detail caregivers’ experiences of exclusionary encounters within ableist spaces, while exploring the possibilities of care within repeated encounters. Influenced by past negative encounters, I elucidate caregivers’ desire for non-encounters to minimise experiences of exclusionary encounters. Drawing from urban studies, disability and care research, this article emphasises the importance of a disability perspective in conceptualisations of urban care. Consequently, this paper contributes to urban care literature by demonstrating the conceptual relevance of non/encounters in a non-Western context, positioning care as a shared responsibility of the urban citizenry.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261461502",
+      "doi_url": "https://doi.org/10.1177/00420980261461502",
+      "title": "Reclaiming space: Mushaʿ land and indigenous urbanization in Ain Al-Basha",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-19",
+      "published_date_display": "2026-07-19",
+      "published_parts": [
+        2026,
+        7,
+        19
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261461502",
+      "abstract": "Historically, mushaʿ, or communal land, represented a system of collective land ownership and crop rotation that provided social and spatial control over land in Jordan. This system persisted until the British Mandate in the early 20th century, which redefined land ownership toward private control as a means of taxation and sovereignty over the colonized population. Drawing on archival research, mapping, and interviews, this article explores how members of a tribal group have reclaimed land by establishing parallel infrastructures on mushaʿ land along Jordan Street in Ain Al-Basha. This case advances two theoretical contributions to Indigenous urban studies and urban planning scholarship. First, it develops the concept of state flexibility, theorizing uneven and reactive state governance not as planning failure but as a deliberate, situational strategy through which regulations are selectively extended or suspended in relation to historically embedded constituencies. Second, it proposes the dialectic of intention and response as a framework for understanding how Indigenous urban space is co-produced through ongoing negotiation between community agency and state calculation, rather than through straightforward opposition or resistance. Together, these concepts expand the analytical scope of Indigenous urban studies beyond settler-colonial frameworks, foregrounding a global South context in which tribal or Indigenous groups are neither external to the state nor uniformly dispossessed, but deeply entangled in its political and institutional foundations.",
+      "keywords": []
+    },
+    {
       "doi": "10.1177/00420980261456151",
       "doi_url": "https://doi.org/10.1177/00420980261456151",
       "title": "Gender homophily and rent premiums in platform-mediated shared housing: Evidence from Ziroom in urban China",
@@ -46,7 +82,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261456151",
       "abstract": "Digital platforms are increasingly reshaping how housing is accessed, priced, and experienced in cities. Platform logics, characterized by data-driven processes and algorithmic pricing, can reflect and reinforce existing social inequalities. This study examines how gender intersects with platform dynamics to shape rental outcomes in Nanjing, China, a major metropolis of nearly 10 million residents. Drawing on a year of data from 373,964 bedroom listings on Ziroom, the country’s largest shared rental platform, the study tests whether the gender composition of roommates influences rents. Hedonic regressions controlling for unit, building, and neighborhood characteristics show that all-female-roommate units command a rent premium, suggesting gender homophily is priced as a valued amenity. When interaction terms with room status are included, results show no initial rent difference under “reserve,” but a clear premium for all-female units under two leasing conditions: immediate move-in (“sign”) and subleasing (“sublease”). These findings suggest that the premium does not arise from platform-set base rents but from gendered preferences interacting with algorithmic pricing, whereby units with stronger demand are discounted less. This study contributes to research on platform-mediated housing, PropTech, and housing inequality by quantifying how platform systems reflect and reproduce gendered disadvantage. It also highlights the value of platform data for understanding emerging rental markets and calls for greater attention to gender in the governance of shared and platform-mediated housing.",
-      "keywords": []
+      "keywords": [
+        "Homophily",
+        "Economic rent",
+        "Renting",
+        "Corporate governance",
+        "Inequality",
+        "Value (mathematics)",
+        "Financialization",
+        "China",
+        "Gentrification"
+      ]
     },
     {
       "doi": "10.1177/00420980261454086",
