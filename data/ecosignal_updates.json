@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:38:14.242368+00:00",
+  "generated_at": "2026-07-20T23:38:38.936128+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,186 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41559-026-03110-5",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03110-5",
+      "title": "Rates of passerine body plan evolution in time and space",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        7,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03110-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03111-4",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03111-4",
+      "title": "Increased nutrient diversity can induce loss of microbial diversity through enhanced resource uptake",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        7,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03111-4",
+      "abstract": "Abstract The origin of biodiversity is a central question in ecology, particularly how numerous microbial species co-exist within a single community. A prevailing hypothesis holds that microbial species co-exist by specializing on different resources, thereby reducing competition. Accordingly, increasing resource diversity is expected to promote species co-existence and boost biodiversity. By integrating high-throughput experiments, ecological analysis of global microbiome data, metabolic profiling and theoretical modelling, we find that the relationship between resource diversity and microbial biodiversity is not consistently positive and can even decline with increasing resource diversity. This unexpected result emerges from a widespread physiological response across diverse microbial taxa, in which more complex environments trigger higher overall resource uptake. This intensifies competition and can lead to biodiversity loss. Updating a central ecological model to include this physiological trait accurately reproduces the observed decline. Our findings suggest that physiological changes at the individual level can substantially alter predicted diversity patterns and scale up to influence community structure.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03131-0",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03131-0",
+      "title": "Biotic interactions shape the realized niche of toxic cyanobacteria",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        7,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03131-0",
+      "abstract": "Abstract Cyanobacterial blooms increasingly threaten vital freshwater ecosystems, with harmful impacts exacerbated by climate change and eutrophication. Cyanobacteria produce toxic metabolites whose concentrations increase with biomass accumulation, posing direct risks to drinking water, aquatic ecosystems and recreational use while generating substantial economic costs. Despite extensive research on temperature and nutrient effects, our explanatory and predictive capacity remains limited. We propose that this limitation stems from insufficient understanding of how biotic and abiotic factors interact to modify cyanobacterial net growth and, consequently, biomass accumulation. Here, using five years of daily monitoring data from a eutrophic lake and causal inference via state-space reconstruction modelling, we show that interactions with co-occurring plankton taxa fundamentally reshape the realized niche of bloom-forming cyanobacteria over environmental gradients. Biotic interactions shift temperature boundaries for net growth by up to 13 °C and phosphorus requirements by over 20 μg l −1 in toxic Microcystaceae and Dolichospermum spp. Grazing inhibits bloom formation across cyanobacterial taxa, while facilitation by other phytoplankton may allow blooms at unexpectedly low temperatures and phosphate concentrations. These findings address a fundamental research gap—how biotic interactions shape realized niches in natural ecosystems—while offering practical insights for harmful algal bloom management.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70499",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70499",
+      "title": "Correction to “Artificial intelligence and decision support in applied ecology”",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        7,
+        20
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70499",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71000",
+      "doi_url": "https://doi.org/10.1111/gcb.71000",
+      "title": "Simulated <scp> CO <sub>2</sub> </scp> Fertilization Drives Progressive Phosphorus Limitation via Accelerated Organic Cycling in Amazonian Forests",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        7,
+        20
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71000",
+      "abstract": "ABSTRACT Tropical forest responses to increasing atmospheric CO 2 (iCO 2 ) depend on nutrient constraints, with phosphorus emerging as a central limiting factor. However, current global land models rarely include explicit representations of microbial‐driven phosphorus cycling, which is critical in highly weathered tropical soils. Here, we use the QUINCY land surface model coupled with the microbial‐explicit Jena Soil Model (JSM) to simulate coupled carbon–nutrient dynamics in Amazon forests along a natural gradient in soil phosphorus availability (40–312 g P m −2 ). The model reproduced observed patterns of increasing wood production with soil phosphorus and identified a threshold of ~80 g P m −2 in the topsoil below which plants experienced phosphorus limitation, shifting carbon allocation belowground and reducing foliar nitrogen : phosphorus ratios. Across all sites, microbial mineralization of organic phosphorus supplied the greatest share of soil solution phosphorus, with stronger reliance on organic phosphorus cycling in low‐phosphorus sites. The observed rise in atmospheric CO 2 between 1901 and 2019 increased simulated plant and soil carbon stocks by 23.3% and 1.5%, respectively. However, forests on low‐phosphorus soils accumulated 40% less additional plant carbon under iCO 2 than forests on high‐phosphorus sites. CO 2 stimulated greater fine‐root carbon growth (+29.5%) and higher biochemical phosphorus mineralization (+24.5%) in low‐phosphorus sites. These responses increased reliance on organic phosphorus cycling and depleted mineral‐associated organic phosphorus pools. In contrast, phosphorus demand in high‐phosphorus forests was largely met by inorganic soil phosphorus pools. Across the gradient, phosphorus turnover increased and phosphorus was reallocated from slow‐turnover soil pools into living biomass, with the strongest shifts in low‐phosphorus sites. Together, these responses indicate emerging progressive phosphorus limitation under iCO 2 , characterized by increased belowground carbon allocation, greater reliance on organic phosphorus cycling, and increasing pressure on organic phosphorus pools through enhanced turnover that may not be sustained over time.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71001",
+      "doi_url": "https://doi.org/10.1111/gcb.71001",
+      "title": "Contrasting Effects of Nitrogen Input on Soil Carbon Pools in Arid and Humid Climates",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        7,
+        20
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71001",
+      "abstract": "ABSTRACT Nitrogen (N) input affects soil organic carbon (SOC) dynamics and storage by specifically influencing the light (LFOC) and heavy fractions of organic C (HFOC). While the effects of N input on SOC pools are known, its specific influence in arid and humid regions remains unresolved, although it is critically important to predict carbon–climate feedback and SOC accumulation. We conducted a meta‐analysis of 881 paired observations from 60 studies to quantify the climate‐specific responses of SOC, LFOC, and HFOC contents to N input, thereby revealing distinct effects in arid versus humid regions. N input increased the LFOC content by 25% in arid regions, whereas the HFOC and SOC contents remained unchanged. This LFOC accumulation may reflect increased plant C inputs, suppressed microbial decomposition, and strong physical protection compared with soil without N input. Conversely, in humid regions, N input increased the HFOC and SOC contents by 10%. These increases were associated with the following four mechanisms: (1) increases in plant and microbial necromass production after N input, (2) microbially‐mediated formation of the HFOC from the LFOC, (3) accelerated lignin‐derived C accumulation due to suppressed saprotrophic fungal decomposition, and (4) raised physico–chemical stabilization by various biotic and abiotic mechanisms. Specifically, increases in LFOC content in arid regions occurred under medium to high N input rates (≥ 50 kg N ha −1 year −1 ), whereas increases in HFOC and SOC contents in humid regions occurred only under medium N input (50–100 kg N ha‐1 year −1 ). These increases occurred primarily after periods of N input longer than 5 years and mainly in topsoil (< 30 cm). Overall, these climate‐specific effects demonstrated that the moisture regime governs N‐induced organic matter transformations, with aridity raising light fraction organic matter accumulation and humidity increasing stabilization of heavy fraction.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70986",
+      "doi_url": "https://doi.org/10.1111/gcb.70986",
+      "title": "Biogeography of Stress: Graded and Threshold Phenological Responses in European Beech‐Dominated Forests Under Disruptive Heatwaves",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        7,
+        20
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70986",
+      "abstract": "ABSTRACT Climate change is increasing the frequency and intensity of summer heatwaves, posing a major threat to temperate forests. European beech ( Fagus sylvatica ) forests are particularly sensitive to thermal extremes. Given their wide distribution, responses to heatwaves are not uniform, and it remains unclear how sensitivity varies at the continental scale. This study aims to quantify how summer disruptive heatwaves (dHWs) reshape phenological dynamics in European beech‐dominated forests (BDFs) over 2003–2023 across four major biogeographical regions: Alpine, Atlantic, Continental and Mediterranean. By combining remotely sensed vegetation time series with machine‐learning and anomaly detection approaches, we specifically (i) identified the occurrence of summer dHWs across European BDFs; (ii) quantified the impacts of dHWs both on summer canopy functioning (short‐term effect) and on autumn senescence phenology (lagged effect), and (iii) evaluated these phenological responses under different dHW intensity levels. Results revealed that dHWs in BDFs consistently reduced summer canopy greenness and advanced autumn senescence, with distinct regional patterns. The most pronounced dHW impacts were observed in Continental and Atlantic regions. Graded, intensity‐dependent responses emerged in Atlantic, Continental and Alpine regions, with the latter showing a comparatively buffered response, likely due to a cooler climate baseline and shorter vegetative phase. By contrast, the Mediterranean region exhibited a threshold‐type response, reflecting adaptation mechanisms of southern‐edge populations under already limiting summer conditions. Late‐summer and early‐autumn emerged as the most sensitive time windows for dHW‐induced phenological shifts, with temporal patterns varying along the European BDF climatic gradient. Together, these results demonstrate that dHWs drive both immediate and legacy impacts on forest vegetative dynamics, reducing seasonal productivity and advancing the end of the growing season, with intensity effects modulated by regional climate and baseline phenology. Our findings underscore the need for region‐specific strategies to safeguard forest ecosystems as disruptive heatwaves continue to intensify.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70509",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70509",
+      "title": "Mixed‐species afforestation enhances soil multifunctionality through microbial reassembly and <scp>SOC</scp> molecular diversification",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-19",
+      "published_date_display": "2026-07-19",
+      "published_parts": [
+        2026,
+        7,
+        19
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70509",
+      "abstract": "Abstract Afforestation is widely promoted as a means to enhance soil‐based ecosystem functions, yet how different planting strategies regulate soil multifunctionality (SMF), including nutrient provision, enzyme activity and microbial metabolism, remains incompletely understood. Existing studies rely heavily on simple microbial diversity metrics and largely overlook soil organic carbon (SOC) molecular diversity, an emerging and under‐appreciated dimension of what controls decomposition and nutrient release in soil. To clarify how afforestation shapes SMF, we employed a ‘space‐for‐time substitution’ approach and examined a tropical restoration chronosequence including bare land, an Eucalyptus exserta monoculture, an afforested mixed‐species forest and an old‐growth natural forest. We quantified SMF using averaging, multivariate and multi‐threshold approaches, assessed microbial compositional and functional diversity using phospholipid fatty acids and GeoChip functional arrays, and characterized SOC molecular diversity through analytical pyrolysis techniques. Afforestation significantly increased SMF, and mixed‐species forest sites had higher SMF values than monoculture. Increases in SMF were associated with shifts in microbial community composition as well as compositional and functional Shannon diversity. SOC molecular diversity emerged as a key mediator linking microbial attributes to SMF, reflecting a mechanism whereby chemically diversified substrates provide multiple soil functions simultaneously. Synthesis and applications . By integrating microbial and SOC molecular perspectives, our study identifies the mechanistic links connecting afforestation, soil microbial biodiversity and multifunctionality. These findings support the promotion of mixed‐species plantings in tropical afforestation and highlight the importance of improving SOC diversity under afforestation to maximize ecosystem multifunctionality. Read the free Plain Language Summary for this article on the journal's blog .",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71010",
+      "doi_url": "https://doi.org/10.1111/gcb.71010",
+      "title": "Drying Halves Decomposition Rates in River Networks by Decreasing Decomposer Diversity",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-19",
+      "published_date_display": "2026-07-19",
+      "published_parts": [
+        2026,
+        7,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71010",
+      "abstract": "ABSTRACT River drying is intensifying worldwide due to climate change and increasing water abstraction, with major consequences for riverine biodiversity and ecosystem functioning. In river networks, drying not only alters local environmental conditions but also disrupts hydrological connectivity, reshaping the movement of organisms and resources at the river network scale. Leaf litter decomposition—a key ecosystem function in freshwater systems—is particularly sensitive to changes in the structure of decomposer communities. We hypothesized that spatiotemporal patterns of drying regulate decomposition by altering the diversity and composition of detritivorous macroinvertebrates, bacteria and fungi. We combined data from six European river networks spanning a wide latitudinal gradient to assess how local drying intensity and regional hydrological connectivity affect decomposition through changes in these decomposer groups. We found that short drying events (≤ 6 dry days) reduced decomposition rates by up to 50% mainly mediated by changes in the composition and diversity of decomposer communities. Drying decreased the diversity of groups contributing to decomposition, shifting the control of this function from a balanced contribution of fungi, bacteria and detritivores in perennial rivers to dominance by dry‐tolerant but less efficient bacteria in drying rivers. These community shifts persisted for months after flow resumption, causing sustained reductions in decomposition also in flowing conditions. Regional hydrological connectivity alleviated these negative effects of local drying by facilitating the recovery of more efficient aquatic decomposers. However, this effect depended on the river network. In more arid networks, stronger fragmentation hindered the recovery of decomposer communities after flow resumption. Overall, our results evidence that spatiotemporal patterns of drying can regulate the linkages between community structure and ecosystem functioning in river networks. As drying events become more frequent and prolonged, shifts in decomposers' diversity are likely to alter carbon cycling and energy fluxes in freshwater ecosystems under global change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70438",
+      "doi_url": "https://doi.org/10.1111/ele.70438",
+      "title": "Seasonal Drought Timing Shapes Flowering Phenology Directly and Through Biotic Interactions",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-07-19",
+      "published_date_display": "2026-07-19",
+      "published_parts": [
+        2026,
+        7,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70438",
+      "abstract": "ABSTRACT Flowering time underpins plant fitness, species coexistence, and ecosystem functioning. While global warming consistently advances flowering, the influence of water availability remains unclear. We hypothesized that this inconsistency reflects the overlooked timing of drought. In 200 experimental Mediterranean annual‐plant communities, we imposed autumn, winter, and spring dry periods and grew plants in monocultures and mixtures to disentangle physiological and competition‐mediated responses. Dry autumn and spring shortened flowering duration: dry autumn delayed onset, dry spring advanced termination. Some shifts were direct; others emerged through competition. A new community‐level index revealed greater phenological segregation in mixtures, showing that plasticity alone can generate niche separation under competition. Both dry autumn and spring tended to further enhance this segregation. Together, our results demonstrate that the seasonal timing of drought governs flowering responses through both direct physiological pathways and indirect biotic interactions, emphasizing rainfall seasonality as a key driver of ecological responses to climate change.",
+      "keywords": []
+    },
     {
       "doi": "10.1111/1365-2745.70393",
       "doi_url": "https://doi.org/10.1111/1365-2745.70393",
@@ -17624,34 +17804,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70828",
-      "doi_url": "https://doi.org/10.1111/gcb.70828",
-      "title": "Rising Global Riverine Deoxygenation Rates and <scp>GHG</scp> Emissions Driven by the Synergistic Effects of Warming and Anthropogenic Land Use Expansion",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-27",
-      "published_date_display": "2026-03-27",
-      "published_parts": [
-        2026,
-        3,
-        27
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70828",
-      "abstract": "ABSTRACT Global fluvial ecosystems are increasingly impacted by human activities, such as climate warming and land use changes; however, the combined effects of these pressures on river greenhouse gas (GHG) supersaturation and deoxygenation remain poorly understood. This study modeled past global trends (2002–2022) in river GHG saturation, dissolved oxygen (DO) levels, water temperature, and eight other water quality parameters using machine learning models powered by satellite observations. Our findings show significant global increases in river GHG supersaturation and deoxygenation, mainly driven by rising water temperatures (0.27°C ± 0.03°C per decade), increased precipitation, higher labile carbon and nitrogen inputs, and urban and cropland expansion. We estimate that anthropogenic GHG emissions from rivers due to these pressures totaled 1.5 Pg‐CO 2 ‐eq over the 20‐year period. The increase in GHGs was accompanied by a global river deoxygenation rate of 0.058 ± 0.01 mg L −1 per decade, suggesting rivers may be losing oxygen up to 2.5 times faster than lakes and oceans globally.",
-      "keywords": [
-        "Greenhouse gas",
-        "Climate change",
-        "Deoxygenation",
-        "Global warming",
-        "Ecosystem",
-        "Land use",
-        "Water quality",
-        "Hydrology (agriculture)",
-        "land-use change and forestry"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70811",
       "doi_url": "https://doi.org/10.1111/gcb.70811",
       "title": "Mycorrhizal Type Defines Priming Effects in Organic and Mineral Forest Soils",
@@ -17705,34 +17857,6 @@
         "Biodiversity",
         "Ecosystem",
         "Danaus"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70822",
-      "doi_url": "https://doi.org/10.1111/gcb.70822",
-      "title": "Effect of Heat Stress on Wheat Quality and Its Heterogeneity: A Global Meta‐Analysis",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-27",
-      "published_date_display": "2026-03-27",
-      "published_parts": [
-        2026,
-        3,
-        27
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70822",
-      "abstract": "ABSTRACT Global climate warming poses a serious threat to wheat production. Existing studies have primarily focused on the impact of heat stress on wheat yield, but the effect on its quality remains uncertain, especially at a global scale. To fill this knowledge gap, we conducted a global meta‐analysis integrating 1976 observations from 95 peer‐reviewed studies, encompassing nine key wheat quality traits. Using a random‐effects model, we quantified the overall impact of heat stress and explored its influencing factors. Our results show that, compared with optimal temperature conditions, heat stress significantly reduced two major quality traits, specifically thousand‐kernel weight (−12.7%) and starch content (−6.5%), while increasing protein (+7.2%) and wet gluten content (+8.0%). Subgroup analyses revealed consistent quality response trends across different wheat types, albeit with varying magnitudes. Interestingly, wheat varieties with a significantly higher protein content under heat stress often show a smaller decrease in starch content, which highlights the compensatory relationship between carbon and nitrogen metabolism. Among all developmental stages, the grain filling phase was the most sensitive to heat stress, exerting the greatest negative effect on wheat quality. Furthermore, elevated soil potassium levels were found to mitigate some of the adverse effects, emphasizing the potential of nutrient management as an adaptation strategy. These findings elucidated the complex mechanisms of wheat quality changes under heat stress and emphasized the importance of enhancing climate adaptability through strategies such as optimizing sowing dates, potassium fertilizer management, and breeding heat‐tolerant varieties, providing a scientific basis for global food security and high‐quality wheat production.",
-      "keywords": [
-        "Adaptability",
-        "Food security",
-        "Heat stress",
-        "Gluten",
-        "Starch",
-        "Global warming",
-        "Climate change",
-        "Grain quality",
-        "Nutrient"
       ]
     },
     {
@@ -19355,34 +19479,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70775",
-      "doi_url": "https://doi.org/10.1111/gcb.70775",
-      "title": "Climate Change Can Generate Enemy‐Free Space for Crop‐Feeding Herbivores",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-12",
-      "published_date_display": "2026-03-12",
-      "published_parts": [
-        2026,
-        3,
-        12
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70775",
-      "abstract": "ABSTRACT Crop‐feeding herbivores reduce the world's food output by approximately 20% and climate change (CC) is bound to deepen those losses. Endemic or introduced consumer organisms (i.e., biological control agents) naturally regulate herbivore populations and secure a quarter of crop yields, but are exceptionally susceptible to CC‐related disturbances. Here, we use niche modeling for 14 globally‐important herbivores (or pests) to forecast how richness of the associated biological control agents of each pest—as a proxy of service strength—may alter under a CC‐driven range expansion. Results show that 57%–100% of pests are bound to lose parasitoid and predator associates. The cassava mealybug Phenacoccus manihoti may experience a 27% decline in parasitoid pressure, whereas cosmopolitan pests of cereal and horticultural crops benefit from 6% to 7% drops in predator pressure. Such ‘enemy release’ can possibly exacerbate pest‐induced yield losses and threaten future harvests. Ant‐pest associations change in both directions, implying that pests may either face strengthened or weakened biological control. For pests spreading towards or within food‐deficit regions in the equatorial belt, parasitoid declines and increases in ant pressure are most pronounced. By exposing the fragility of biodiversity‐based ecological safeguards in farmland, our work calls for urgent, integrative, and nature‐friendly solutions to uphold food security under environmental change.",
-      "keywords": [
-        "Herbivore",
-        "Climate change",
-        "Predation",
-        "Biological pest control",
-        "Niche",
-        "Competition (biology)",
-        "Food security",
-        "Predator",
-        "Ectotherm"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70329",
       "doi_url": "https://doi.org/10.1111/ele.70329",
       "title": "The Leading Edge Matters Too: Fitness and the Expression of Adaptive Differentiation Are Greatest at the High‐Elevation Edge of a Species' Range",
@@ -20140,35 +20236,6 @@
         "Soil carbon",
         "Peat",
         "Carbon cycle"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70796",
-      "doi_url": "https://doi.org/10.1111/gcb.70796",
-      "title": "Drained Agricultural Peatlands as Persistent Carbon Sources: Implications for Carbon and Water Use Intensity in Food Production",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-09",
-      "published_date_display": "2026-03-09",
-      "published_parts": [
-        2026,
-        3,
-        9
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70796",
-      "abstract": "ABSTRACT Peatlands have the capacity to sequester large quantities of carbon and can therefore play an important role in climate change mitigation. However, anthropogenic activities alter their hydrological regimes, converting them from net CO 2 sinks into net sources. In England and elsewhere, lowland peatlands have been heavily drained and modified for agricultural land use, resulting in some of the most productive farmland in the UK. Estimates of CO 2 emissions and water use from the area are scarce, but these data are required to understand the consequences of maintaining agricultural output whilst simultaneously reducing GHG emissions. In this paper, we compiled a uniquely comprehensive dataset of CO 2 and H 2 O flux measurements from flux towers on cropped lowland peat, and coupled this with crop calorific values to estimate carbon and water use intensities of food production on peat. Our results showed that croplands on peat emitted 23.1 ± 10.4 ton CO 2 ha −1 y −1 (mean ± SD). Sites with peat depth > 40 cm emitted 25.1 ± 9.2 ton CO 2 ha −1 , while wasted peat sites emitted 11.8 ± 4.8 ton CO 2 ha −1 . Effective water table depth and organic carbon content were the main drivers of variation in annual net ecosystem production and ecosystem respiration across sites; crop type partly followed these gradients, so may not be a direct driver of variations in emissions. ET was less variable across site‐years and depended on the phenology of crop production. When considering CO 2 emissions and water use per calorie produced, lettuce and celery rotations were the most C and water use intensive crops, with values an order of magnitude larger than cereal crops. Overall, this paper highlights the scale of CO 2 emissions from managed peatlands and the importance of balancing GHG emissions and water use with ongoing food production from these economically important areas.",
-      "keywords": [
-        "Peat",
-        "Water use",
-        "Ecosystem respiration",
-        "Greenhouse gas",
-        "Water table",
-        "Ecosystem",
-        "Primary production",
-        "Hydrology (agriculture)",
-        "Agriculture",
-        "Carbon sink"
       ]
     },
     {
@@ -21723,33 +21790,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70303",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70303",
-      "title": "Impact of climate change mitigation strategies in rice farming on agroecosystem multifunctionality",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-23",
-      "published_date_display": "2026-02-23",
-      "published_parts": [
-        2026,
-        2,
-        23
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70303",
-      "abstract": "Abstract Rice agroecosystems are important contributors to climate change through methane (CH 4 ) emissions, while also representing biodiversity hotspots and providing agroecosystem services (ES). Non‐continuous flooding irrigation strategies have been globally implemented as climate change mitigation and adaptation practices in rice paddy fields as they decrease CH 4 emissions and water use. Although such effects have been widely studied, there is a knowledge gap regarding outcomes in terms of biodiversity and overall agroecosystem multifunctionality. Here, we implemented a field‐scale experiment to assess the effects of different irrigation strategies across a water use gradient (CON: continuous flooding; MSD: mid‐season drainage; and AWD: alternate wetting and drying) on (i) the provision of ES (i.e. biodiversity conservation, regulating and provisioning services), (ii) overall agroecosystem multifunctionality and (iii) synergies or trade‐offs among ES. None of the irrigation strategies benefited most taxa or improve most regulating services. For instance, AWD generally benefited invertebrate diversity while reducing vertebrate abundances and grain yields. Both AWD and MSD decreased CH 4 emissions by approximately 80 kg C‐CH 4 ha −1 but decreased soil carbon storage by 8.8%, when compared to continuously flooded fields. Consequently, all irrigation strategies exhibited a similar level of multifunctionality, although providing different services. Lastly, we did not find trade‐offs or synergies between biodiversity conservation, regulating services and provisioning services. Synthesis and applications . These results suggest that, from a landscape management perspective, implementing a single irrigation strategy at large spatial scales should be discouraged due to potential negative effects on particular sets of ES components. Conversely, a mosaic of irrigation strategies should be implemented, promoting ES components aligned with site‐specific landscape management objectives.",
-      "keywords": [
-        "Agroecosystem",
-        "Biodiversity",
-        "Irrigation",
-        "Climate change",
-        "Provisioning",
-        "Agriculture",
-        "Flooding (psychology)",
-        "Ecosystem services"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70319",
       "doi_url": "https://doi.org/10.1111/1365-2664.70319",
       "title": "Correction to “Multitaxa functional diversity increases the resilience of biological natural capital in the Amazon”",
@@ -22596,34 +22636,6 @@
         "Reliability (semiconductor)",
         "Repeatability",
         "Metrology"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70305",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70305",
-      "title": "Productive restoration planning in the irrigated drylands: Soil salinity, texture and moisture to guide reforestation plans",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-13",
-      "published_date_display": "2026-02-13",
-      "published_parts": [
-        2026,
-        2,
-        13
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70305",
-      "abstract": "Abstract Soil salinity is one of the most widespread causes of declines in agricultural yields in drylands, consequently threatening environmental sustainability and food security. Productive restoration is an opportunity to repair the structure and function of these agroecosystems. Among possible restoration measures, afforestation with native trees ( Neltuma spp., ‘algarrobos’) is a promising alternative, particularly in the Cuyo oasis (Argentina). Although the relevance of restoration planning has been widely recognised, there is a knowledge gap regarding the planning of productive restoration in agroecosystems. Our objective is to identify potential sites for reforestation in the irrigated drylands of San Juan. To that end, we used biomass productivity prediction based on soil salinity, texture, and moisture derived from a reforestation experiment. We evaluated bands from individual Sentinel‐2 acquisitions to account for these soil properties. We selected them based on their correlation with field sample data to use as predictor variables. Biomass productivity was modelled using Random Forests, with the growing‐season integral of the Normalised Difference Vegetation Index red edge (iNDVIre) as a proxy for productivity and 29 predictor variables. Based on variable importance, RMSE, and MAE, we selected a subset of seven predictors. We performed a spatial 3‐fold cross‐validation for the final model, and R 2 was 0.68. We identified 134 potential restoration sites affected by soil salinity and capable of supporting the highest forest biomass values. Sites totalled 248.50 ha, representing 10% of the area most affected by soil salinity in this sector of the oasis. Sites varied in size and were distributed across the entire study area. Biomass productivity prediction can be used to plan restoration actions in agroecosystems affected by soil salinity to ensure a higher probability of success and lower costs. Moreover, the proposed approach enabled the scaling up of experimental findings. Synthesis and applications . The proposed approach is a valuable tool for productive restoration planning in irrigated drylands and is adaptable to other agroecosystems constrained by different soil factors.",
-      "keywords": [
-        "Reforestation",
-        "Afforestation",
-        "Soil texture",
-        "Restoration ecology",
-        "Dryland salinity",
-        "Salinity",
-        "Biomass (ecology)",
-        "Productivity",
-        "Soil salinity"
       ]
     },
     {
@@ -25855,32 +25867,6 @@
       ]
     },
     {
-      "doi": "10.1038/s41559-025-02944-9",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02944-9",
-      "title": "Climate variability disrupts crucial plant–fungal mutualisms",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-05",
-      "published_date_display": "2026-01-05",
-      "published_parts": [
-        2026,
-        1,
-        5
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02944-9",
-      "abstract": "",
-      "keywords": [
-        "Climate change",
-        "Ectotherm",
-        "Population",
-        "Ecosystem",
-        "Mutualism (biology)",
-        "Global warming",
-        "Persistence (discontinuity)"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-025-02965-4",
       "doi_url": "https://doi.org/10.1038/s41559-025-02965-4",
       "title": "Assessing mining impacts in the deep sea",
@@ -26007,56 +25993,6 @@
         "Modularity (biology)",
         "Host (biology)",
         "Genome"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02918-x",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02918-x",
-      "title": "When local arthropod biomass declines, every species counts",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-02",
-      "published_date_display": "2026-01-02",
-      "published_parts": [
-        2026,
-        1,
-        2
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02918-x",
-      "abstract": "",
-      "keywords": [
-        "Arthropod",
-        "Biomass (ecology)",
-        "Abundance (ecology)",
-        "Species diversity",
-        "Community",
-        "Biodiversity",
-        "Diversity (politics)"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02915-0",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02915-0",
-      "title": "Europeans like wolves, lynx and bears and oppose hunting them but do not want more of these animals",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-02",
-      "published_date_display": "2026-01-02",
-      "published_parts": [
-        2026,
-        1,
-        2
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02915-0",
-      "abstract": "",
-      "keywords": [
-        "Opposition (politics)",
-        "Carnivore",
-        "Population",
-        "Population control",
-        "Current Population Survey"
       ]
     },
     {
