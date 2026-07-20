@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T22:08:11.092250+00:00",
+  "generated_at": "2026-07-20T22:12:19.119932+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,58 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115572",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115572",
+      "title": "Derivative of canopy reflectance with respect to leaf density: A probabilistic rendering framework",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003421",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115568",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115568",
+      "title": "A hydraulic-geometry informed discharge retrieval algorithm for ungauged basins using ICESat-2 and Sentinel-1/2: Application to Qinghai-Tibet Plateau",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600338X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2692550",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2692550",
+      "title": "Negotiating Life in the Shadow of the Dam: Rhythmic Livelihoods in the Agno River Basin, Philippines",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        7,
+        20
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2692550",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.rse.2026.115567",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115567",
@@ -986,6 +1038,23 @@
         "Field (mathematics)",
         "Digital Earth"
       ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.06.041",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.041",
+      "title": "Arctic sea ice motion retrieval via vision foundation model and cross-sensor SAR",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003473",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.035",
@@ -11707,29 +11776,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.034",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.034",
-      "title": "Close-range real-time camera pose estimation and AR-guided alignment for large-scale industrial components",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-06",
-      "published_date_display": "2026-03-06",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000936",
-      "abstract": "",
-      "keywords": [
-        "Pose",
-        "3D pose estimation",
-        "Articulated body pose estimation",
-        "Component (thermodynamics)",
-        "Estimation"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115343",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115343",
       "title": "Quantifying evapotranspiration and shading cooling of urban vegetation across climates under extreme heat using an integrated SCOPE-SEB model and surface temperature analysis",
@@ -12801,34 +12847,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115318",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115318",
-      "title": "A global framework for subsurface soil moisture estimation: Coupling fractal Richards equation with Bayesian optimization",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-18",
-      "published_date_display": "2026-02-18",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600088X",
-      "abstract": "Global subsurface soil moisture (SM) monitoring remains a critical gap in Earth observation, as current satellite missions such as Soil Moisture Active Passive (SMAP) only reliably measure near-surface SM (∼0–5 cm). To address this limitation, we present a global, satellite-based framework that extends surface SM to 20 cm and 50 cm at 400 m daily temporal repeat (2017–2020). The method integrates the Exponential Filter (ExpF) with a fractal-diffusion representation of vertical transfer (ExpF–FRE) and replaces the empirical ExpF parameter—the characteristic transfer time T, which controls surface–depth coupling—with a physically derived, pixel- and depth-specific timescale T opt . We compute T opt from an effective vertical diffusivity informed by globally available soil hydraulics, the satellite surface SM boundary (SMAP-derived, downscaled to 400 m), and dynamic land-surface temperature (MODIS) and leaf area index (VIIRS). A Bayesian optimization over a small set of global coefficients anchors the physics to observations once, after this procedure, the inference uses only satellite inputs. Comprehensive validation against extensive in situ networks and two existing subsurface SM products (ERA5-Land and GLDAS-Noah) demonstrates robust model performance, with global-scale mean correlation coefficients (R) of approximately 0.804 and 0.623, unbiased root-mean-square errors (ubRMSE) of 0.033 and 0.041 m 3 /m 3 , alongside minor bias −0.005 and − 0.011 m 3 /m 3 at 20 cm and 50 cm, respectively. The ExpF-FRE model reliably captures both seasonal dynamics and interannual variability in SM across diverse climate conditions, maintaining strong performance even under challenging environmental contexts such as under winter/low-land surface temperature (LST) regimes and dense vegetation. Uncertainty is quantified via Monte-Carlo perturbations, and ensemble spread is summarized with global distributions (boxplots/cumulative curves) using standard deviation and interquartile range, highlighting depth-dependent confidence and targets for improvement. This in situ–independent global framework represents a substantial advancement in SM observations at depth, bridging the critical gap between satellite surface measurements and deeper root-zone moisture. Significantly, this framework enables global root-zone moisture monitoring without site-specific calibration, providing observation-constrained, physically derived subsurface SM estimates that complement land-surface model products for related analyses, showcasing a path toward next-generation remote sensing of the SM profile.",
-      "keywords": [
-        "Satellite",
-        "Leaf area index",
-        "Radiance",
-        "Bayesian inference",
-        "Water content",
-        "Exponential function",
-        "Mean squared error",
-        "Fractal",
-        "Thermal diffusivity",
-        "Climate model"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2630273",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2630273",
       "title": "Rethinking the nexus of GIScience and population ageing: a perspective of gerontological GIS",
@@ -12945,32 +12963,6 @@
         "Feature (linguistics)",
         "Term (time)",
         "Component (thermodynamics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115303",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115303",
-      "title": "Dynamic inheritance-enhanced TomoSAR imaging with dual-task deep learning for urban applications",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-14",
-      "published_date_display": "2026-02-14",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000738",
-      "abstract": "",
-      "keywords": [
-        "Deep learning",
-        "Computation",
-        "Elevation (ballistics)",
-        "Inverse problem",
-        "Inversion (geology)",
-        "Ranging",
-        "Pattern recognition (psychology)",
-        "Data set"
       ]
     },
     {
