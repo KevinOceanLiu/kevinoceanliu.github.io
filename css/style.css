@@ -4728,7 +4728,7 @@ select {
 
 }
 
-/* My News uses a centered, single-column reading flow. */
+/* Pair the news photo carousel with its latest announcement. */
 .news-page.page-with-closing {
     display: flex;
     flex-direction: column;
@@ -4737,17 +4737,19 @@ select {
 }
 
 .news-page .news-content {
-    display: flex;
+    display: grid;
     flex: 1 0 auto;
-    flex-direction: column;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: clamp(24px, 4vw, 64px);
     align-items: center;
     justify-content: center;
-    width: 100%;
-    padding: 24px 16px 72px;
+    width: min(100%, calc(var(--content-width) + 40px));
+    margin: 0 auto;
+    padding: 40px 20px 72px;
 }
 
 .news-page .news-carousel {
-    width: min(780px, 100%);
+    width: 100%;
     margin: 0;
 }
 
@@ -4761,6 +4763,47 @@ select {
     margin: 24px 0 0;
     overflow: visible;
     text-align: right;
+}
+
+.news-announcement {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    padding: 0 clamp(24px, 4vw, 52px);
+    color: var(--text-color);
+    font-size: 16px;
+    line-height: 1.65;
+}
+
+.news-announcement time {
+    display: block;
+    margin-bottom: var(--spacing-sm);
+    font-weight: 600;
+}
+
+.news-announcement p {
+    margin: 0;
+}
+
+.news-announcement a {
+    color: inherit;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+
+@media (max-width: 760px) {
+    .news-page .news-content {
+        grid-template-columns: 1fr;
+        padding: 24px 16px 48px;
+    }
+
+    .news-announcement {
+        aspect-ratio: auto;
+        min-height: 0;
+        padding: 0 24px 28px;
+    }
 }
 
 @media (max-width: 1160px) {
