@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:11:33.013558+00:00",
+  "generated_at": "2026-07-20T23:14:11.011471+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,6 +31,40 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.cities.2026.107290",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107290",
+      "title": "Innovative approaches to sustainable E-waste management: Green finance for metal extraction and reuse",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005226",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107381",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107381",
+      "title": "How accessibility perception can improve accessibility measurement",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600613X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1177/00420980261464483",
       "doi_url": "https://doi.org/10.1177/00420980261464483",
       "title": "Who cares? Caregivers’ perspectives of non/encounters with autism in Singapore",
@@ -46,7 +80,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261464483",
       "abstract": "In the densely-populated city-state of Singapore, encounters between people with and without disability happen in close proximity and high frequency, setting the scene for deeper exploration of the role of non/encounters in shaping urban care. To do so, this paper draws on a thematic analysis of interviews and ‘go-along’ ethnographic observations with 18 caregivers of persons with autism, spotlighting three caregivers’ narratives. Using the term ‘non/encounters’ to emphasise the importance of both encounters and non-encounters as well as their relational nature in shaping experiences of urban care, this article demonstrates ways in which co-users of urban spaces can play a role in sharing care responsibilities alongside familial caregivers. In uncovering the intangible structures of social norms and past memories that shape non/encounters beyond their immediate moment of occurrence, this article informs how urban care can be experienced and achieved. Firstly, I illustrate the role of research in constituting and facilitating caring encounters. Next, I detail caregivers’ experiences of exclusionary encounters within ableist spaces, while exploring the possibilities of care within repeated encounters. Influenced by past negative encounters, I elucidate caregivers’ desire for non-encounters to minimise experiences of exclusionary encounters. Drawing from urban studies, disability and care research, this article emphasises the importance of a disability perspective in conceptualisations of urban care. Consequently, this paper contributes to urban care literature by demonstrating the conceptual relevance of non/encounters in a non-Western context, positioning care as a shared responsibility of the urban citizenry.",
-      "keywords": []
+      "keywords": [
+        "Ethnography",
+        "Perspective (graphical)",
+        "Thematic analysis",
+        "Relevance (law)",
+        "Social model of disability",
+        "Qualitative research",
+        "Conceptual framework",
+        "Ethics of care"
+      ]
     },
     {
       "doi": "10.1177/00420980261461502",
@@ -64,7 +107,18 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261461502",
       "abstract": "Historically, mushaʿ, or communal land, represented a system of collective land ownership and crop rotation that provided social and spatial control over land in Jordan. This system persisted until the British Mandate in the early 20th century, which redefined land ownership toward private control as a means of taxation and sovereignty over the colonized population. Drawing on archival research, mapping, and interviews, this article explores how members of a tribal group have reclaimed land by establishing parallel infrastructures on mushaʿ land along Jordan Street in Ain Al-Basha. This case advances two theoretical contributions to Indigenous urban studies and urban planning scholarship. First, it develops the concept of state flexibility, theorizing uneven and reactive state governance not as planning failure but as a deliberate, situational strategy through which regulations are selectively extended or suspended in relation to historically embedded constituencies. Second, it proposes the dialectic of intention and response as a framework for understanding how Indigenous urban space is co-produced through ongoing negotiation between community agency and state calculation, rather than through straightforward opposition or resistance. Together, these concepts expand the analytical scope of Indigenous urban studies beyond settler-colonial frameworks, foregrounding a global South context in which tribal or Indigenous groups are neither external to the state nor uniformly dispossessed, but deeply entangled in its political and institutional foundations.",
-      "keywords": []
+      "keywords": [
+        "Indigenous",
+        "Land tenure",
+        "Corporate governance",
+        "Politics",
+        "Sovereignty",
+        "State (computer science)",
+        "Urban politics",
+        "Context (archaeology)",
+        "Opposition (politics)",
+        "Land use"
+      ]
     },
     {
       "doi": "10.1177/00420980261456151",
@@ -7835,30 +7889,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107235",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107235",
-      "title": "Green gaps in the Garden City: Ecosystem-based adaptation and the unfinished promise of urban resilience in Kumasi, Ghana",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-20",
-      "published_date_display": "2026-05-20",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004671",
-      "abstract": "",
-      "keywords": [
-        "Resilience (materials science)",
-        "Adaptation (eye)",
-        "Urban resilience",
-        "Psychological resilience",
-        "Vulnerability (computing)",
-        "Climate change adaptation"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261446447",
       "doi_url": "https://doi.org/10.1177/00420980261446447",
       "title": "The role of diasporic ties in alternative infrastructure: A case study of the Kurdish community center of Rome",
@@ -8693,30 +8723,6 @@
         "Poison control",
         "Human factors and ergonomics",
         "Mortality rate"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107135",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107135",
-      "title": "Improving urban planning practices for the energy transition ̶ Insights on cities' role, data collection, and practical tools",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-15",
-      "published_date_display": "2026-05-15",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003677",
-      "abstract": "This paper investigates how urban planning practices can support the energy transition, focusing on the role of Finnish cities, their data collection practices, and the tools currently used and those still needed to facilitate planning. Structured interviews were conducted with representatives from five Finnish cities—Helsinki, Espoo, Tampere, Lappeenranta, and Kerava—all committed to climate neutrality by 2030 or 2035, depending on the city. The research explores how cities perceive their responsibilities in advancing climate goals, the challenges they face in coordinating with other actors, and the limitations in current planning processes. The findings reveal that while cities are actively pursuing carbon neutrality, their roles remain unclear, and institutional capacities are limited. A notable insight is the lack of coordination between national and municipal climate goals, which creates ambiguity in responsibilities and hinders effective planning. Citizens and private actors are rarely involved in planning, despite their relevance. Energy and other city data are collected in various forms but not systematically exploited to support decision-making. Existing planning tools are often too detailed, fragmented, or narrowly focused, limiting their usability. To address these challenges, the study presents prototype tools developed to support systemic energy transition planning and energy renovation decisions. These tools aim to bridge the gap between technical complexity and practical usability by integrating diverse data sources and supporting cross-sectoral dialogue. The study concludes that clarifying actor roles, improving data governance, and fostering collaboration—especially across governance levels—are essential for cities to plan and implement effective energy transition strategies. • Cities' role in energy transition is unclear. • Urban planning is an enabler to support energy transition in cities. • Data is not collected systematically for urban energy transition. • Dialogue and collaboration between relevant stakeholders should be promoted.",
-      "keywords": [
-        "Energy (signal processing)",
-        "Urban planning",
-        "Energy planning",
-        "Energy transition",
-        "Transition (genetics)",
-        "Efficient energy use"
       ]
     },
     {
