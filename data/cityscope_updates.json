@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:14:11.011471+00:00",
+  "generated_at": "2026-07-21T23:11:31.319503+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,43 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107290",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107290",
-      "title": "Innovative approaches to sustainable E-waste management: Green finance for metal extraction and reuse",
+      "doi": "10.1016/j.landurbplan.2026.105754",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105754",
+      "title": "Research note: A grid-based framework for urban shading evaluation integrating shade provision and population density",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001787",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102485",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102485",
+      "title": "An interpretable hybrid multiscale geographically weighted XGBoost (HMGWX) model with an empirical application to urban transport systems",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000876",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107403",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107403",
+      "title": "“The money is too big to ignore”: The logics of everyday speculations and the transformation of Ghana's peri-urban landscapes",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -43,9 +77,49 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005226",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006359",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107405",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107405",
+      "title": "How municipal planning authorities' ways of acting influence plan feasibility: Studies of four city-centre zoning-plan processes in small and medium-sized Norwegian cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006372",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107290",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107290",
+      "title": "Innovative approaches to sustainable E-waste management: Green finance for metal extraction and reuse",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005226",
+      "abstract": "",
+      "keywords": [
+        "Reuse",
+        "Extraction (chemistry)",
+        "Sustainable development",
+        "Sustainability",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107381",
@@ -54,15 +128,18 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600613X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Perception",
+        "Web accessibility"
+      ]
     },
     {
       "doi": "10.1177/00420980261464483",
@@ -2497,7 +2574,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005822",
-      "abstract": "",
+      "abstract": "The rapid growth of e-commerce has intensified urban freight challenges and increased interest in cargo bikes as a potentially more sustainable last-mile delivery option. However, public acceptance of cargo bike deliveries remains underexplored. However, comparative evidence on citizens’ acceptance of such services across cities remains limited. This study conducts a mass-participation survey across six European capital cities to evaluate citizens’ acceptance of a hypothetical cargo bike delivery service (“EcoDeliver”). We apply a multi-city MUlticriteria Satisfaction Analysis (MUSA) model to analyze overall acceptance and criterion-level evaluations across environmental impact, noise, traffic congestion, safety, and shipping cost. Approximately 2500 citizens assessed the projected performance of the proposed service scenario. The results indicate generally positive evaluations of the hypothetical service, with environmental impact, noise reduction, and congestion reduction receiving the most favorable responses overall. At the same time, the relative importance of the evaluation criteria and the shape of the acceptance functions vary across cities and demographic groups, revealing differences in how citizens prioritize key attributes of urban logistics services. These results provide a more differentiated understanding of public preferences and show that similar overall acceptance levels may be associated with distinct local priority structures. Methodologically, the study illustrates how MUSA can be used to structure and compare large-scale citizen evaluations in participatory urban logistics research.",
       "keywords": [
         "Customer satisfaction",
         "Qualitative analysis"
@@ -8038,29 +8115,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107159",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107159",
-      "title": "Spatiotemporal dynamics of open space fragmentation and associated spatial vertical equity in high–density cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003914",
-      "abstract": "",
-      "keywords": [
-        "Fragmentation (computing)",
-        "Equity (law)",
-        "Space (punctuation)",
-        "Dynamics (music)",
-        "Spatial mismatch"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107157",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107157",
       "title": "Examining community participation in urban agriculture: Utilizing structural equation modeling to assess the impact of communication media on enhancing livelihoods and sustainability",
@@ -8867,33 +8921,6 @@
         "Artificial neural network",
         "Graph",
         "Deep neural networks"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107144",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107144",
-      "title": "Rethinking people-place bonds: Insights from a multi-city study on place attachment and place making for inclusive urban planning",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-14",
-      "published_date_display": "2026-05-14",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003768",
-      "abstract": "People-place bonds are crucial for urban planning, fostering care, safety, and stewardship within neighborhoods. These bonds have been studied extensively, primarily under the concept of place attachment. Place attachment has been shown to offer numerous positive benefits, such as improved well-being, social behavior, and environmental engagement. The broad body of literature has identified several key components influencing place attachment, such as homeownership, age, and length of residence. Our study expands this understanding by measuring people-place bonds not only through place attachment, but also through place making, emphasizing the agency of residents in shaping their neighborhoods. We used data from a large-scale online survey completed by 5356 respondents across five European cities: Brussels, Geneva, Hamburg, Turin, and Zurich. We conducted exploratory factor analysis and k-means clustering to identify distinct population profiles with various people-place bonds. The analysis revealed three profiles of urban dwellers, affluent place-making internationals , disadvantaged locals , and affluent place-attached locals , which are characterized by distinct sociodemographic attributes and types of emotional bonds with places. Our findings challenge the traditional emphasis on individual variables (e.g., homeownership, length of residence) as predictors of people-place bonds. Instead, we discovered that combinations of variables, specifically socioeconomic attributes, education level, perceived safety, and migration background, better reflect the complexities associated with how people form emotional bonds with places. The distribution of these profiles varied considerably across the five cities, reflecting local contextual differences. We discuss these variations and their implications for urban planning, highlighting inclusive approaches that meet diverse needs and strengthen people-place bonds. • Place making and place attachment emerge as distinct people-place bonds. • Clustering reveals three distinct profiles of social features and place relations. • These clusters are unevenly distributed across five European cities. • Homeownership policies may explain cultural context and cross-city differences.",
-      "keywords": [
-        "Place attachment",
-        "Place identity",
-        "Agency (philosophy)",
-        "Socioeconomic status",
-        "Disadvantaged",
-        "Population",
-        "Sense of place",
-        "Social capital",
-        "Urban planning"
       ]
     },
     {
