@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:12:19.119932+00:00",
+  "generated_at": "2026-07-21T22:11:17.039103+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115572",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115572",
-      "title": "Derivative of canopy reflectance with respect to leaf density: A probabilistic rendering framework",
+      "doi": "10.1016/j.rse.2026.115573",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115573",
+      "title": "Toward accurate disease diagnosis of fruit trees: Integrating a novel dual-angle vegetation index with canopy vertical distribution knowledge",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,154 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003421",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003433",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115564",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115564",
+      "title": "Label-efficient 3D forest mapping: Self-supervised and transfer learning for instance segmentation, semantic segmentation, and species classification",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003342",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0034-4257(26)00347-0",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00347-0",
+      "title": "Editorial Board",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003470",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115566",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115566",
+      "title": "Towards efficient multi-hazard detection from single satellite imagery via spectral-semantic graph reasoning",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003366",
+      "abstract": "",
+      "keywords": [
+        "Satellite imagery",
+        "Graph",
+        "Satellite",
+        "Remote sensing application",
+        "Image (mathematics)",
+        "Satellite image"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115569",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115569",
+      "title": "Optical remote sensing of sea surface wind streaks: Retrievals of wind directions and wind waves",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003391",
+      "abstract": "",
+      "keywords": [
+        "Wind wave",
+        "Wind speed",
+        "Wave radar",
+        "Sea surface temperature",
+        "Surface (topology)",
+        "Surface wave"
+      ]
+    },
+    {
+      "doi": "10.1080/13658816.2026.2671964",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2671964",
+      "title": "Multiscale space-time varying coefficient modeling using generalized additive models: determining model form",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        7,
+        21
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2671964",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2704882",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2704882",
+      "title": "GKTLF: a geographical knowledge-guided transfer learning framework for cross-regional DEM super-resolution",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        7,
+        21
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2704882",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115572",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115572",
+      "title": "Derivative of canopy reflectance with respect to leaf density: A probabilistic rendering framework",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003421",
+      "abstract": "",
+      "keywords": [
+        "Rendering (computer graphics)",
+        "Radiance",
+        "Probabilistic logic",
+        "Estimator",
+        "Radiative transfer",
+        "Monte Carlo method",
+        "Canopy",
+        "Bayesian probability",
+        "Importance sampling"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115568",
@@ -49,15 +194,20 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600338X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Plateau (mathematics)",
+        "Data processing",
+        "Structural basin",
+        "Digital elevation model"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2692550",
@@ -74,8 +224,17 @@
         20
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2692550",
-      "abstract": "",
-      "keywords": []
+      "abstract": "This article explores how river-reliant peoples negotiate the enduring socioecological disruptions caused by the afterlife of large-scale dam infrastructures. We examine how smallholders along the Agno River in the Philippines have repeatedly adjusted their livelihoods in response to the San Roque Multi-Purpose Dam’s reordering of hydrological regimes and agrarian ecologies. For the Philippine government, the dam’s completion marked a defining moment in the pursuit of hydraulic modernity. Yet for local communities, its lingering impacts continued to shape possibilities for making a living, transforming three livelihood practices connected by the river’s hydrological pulses: rice farming, riverine fishing, and gold panning. Drawing on ethnographic research in the riparian villages along the Agno River, we trace how households negotiate the loss, persistence, and reconstruction of livelihoods in dam-affected ecologies. Our analysis extends the concept of infrastructural afterlives by showing that a dam’s legacy persists not only as material ruins but also in the ongoing rhythms that reorganize everyday livelihood practices long after construction ends. We introduce the concept of rhythmic livelihoods to capture how making a living in dam-altered riverscapes involves temporal, spatial, and material negotiations with shifting river flows, sediment dynamics, and controlled water releases.",
+      "keywords": [
+        "Livelihood",
+        "Negotiation",
+        "Everyday life",
+        "Commons",
+        "Riparian zone",
+        "Ethnography",
+        "Subsistence agriculture",
+        "Scholarship"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115567",
@@ -953,7 +1112,7 @@
       "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
-        7
+        10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003287",
       "abstract": "",
@@ -976,7 +1135,7 @@
       "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
-        7
+        10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600310X",
       "abstract": "Fire is a critical ecological process and the spatial patterns of fire severity have profound effects on forest structure and resilience. Cost-effective fire severity measurements are critical for informing post-fire restoration strategies and for improving our understanding of the patterns, drivers, and ecological consequences of wildfires. Remote sensing technology has advanced burn severity mapping through space and time. However, different severity mapping methods vary in interpretability, scalability, generalizability, and how well they align with field measurements. One common meaningful metric of fire effects on forests is percent basal area loss, but existing methods present challenges to researchers and managers due to the lack of region-specific field reference data and a scalable framework for automatic mapping. To address these issues, we compiled field reference data from 123 fires in forests across the western US to calculate the proportion of fire-induced basal area loss. We then tested spatially cross-validated machine learning models concurrently with hyperparameter tuning to select a skillful, parsimonious model from an extensive candidate set comprising various combinations of climatic, topographic, and surface reflectance-based covariates. Model performance varied geographically, highlighting that this new method currently provides a critical resource for managers in some regions such as forests in Oregon and Washington, while providing a roadmap for researchers in other regions to continue adding data to the project to improve fire severity mapping efforts. To support fire severity assessments, we created a tool in Google Earth Engine to produce estimates of percent basal area loss for any fire perimeter in the western US.",
@@ -1047,14 +1206,22 @@
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003473",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Sea ice",
+        "Arctic",
+        "Motion (physics)",
+        "Synthetic aperture radar",
+        "Foundation (evidence)",
+        "The arctic",
+        "Arctic ice pack"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.06.035",
@@ -4018,7 +4185,7 @@
       "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
-        6
+        10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600283X",
       "abstract": "",
@@ -10988,30 +11155,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115350",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115350",
-      "title": "A mechanism-learning deeply coupled model for single-channel land surface temperature retrieval",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-17",
-      "published_date_display": "2026-03-17",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001203",
-      "abstract": "",
-      "keywords": [
-        "Surface (topology)",
-        "Satellite",
-        "Earth surface",
-        "Radiometry",
-        "Sea surface temperature",
-        "Synthetic aperture radar"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2641743",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2641743",
       "title": "Pharos: a mobile GIS application for network assessment and ground-truth mapping to support mHealth study design in low-resource settings",
@@ -11255,31 +11398,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115360",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115360",
-      "title": "Snow effects on altimeter waveforms over sea ice in the Weddell Sea - Part II: sea ice and snow spaceborne retrieval",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-12",
-      "published_date_display": "2026-03-12",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001306",
-      "abstract": "Snow atop Antarctic sea ice plays a critical role in modulating sea ice growth, surface energy balance, and ocean–atmosphere interactions. However, it also introduces substantial uncertainty into satellite altimeter-based sea ice thickness (SIT) estimates. Ku-band radar altimeters, such as CryoSat-2 (CS-2), are often processed using threshold-based retrackers that implicitly assume the maximum radar intensity return originates near the snow–ice interface. In practice, layered snowpacks featuring wet snow, brine infiltration, and ice lenses can shift the primary scattering contribution upward, leading to overestimated freeboard and higher SIT estimates. In Part I of this study, we used physically based waveform decomposition to quantify the vertical distribution of radar backscatter under Weddell Sea conditions. Building on these insights, Part II introduces an optimized threshold first-maximum retracker algorithm (TFMRA) for CS-2, tuned using airborne observations from NASA’s Operation IceBridge (OIB) over the Weddell Sea. We identify a 70% retracking threshold that minimizes freeboard bias and improves consistency with independent observations. Applying this snow-aware retracker to 46 CRYO2ICE collocated tracks (2020–2022), we retrieve snow depth from the ICESat-2 and CS-2 freeboard difference and reduce mean SIT by ∼ 0.1 m relative to the ESA Baseline-E product in the southern Weddell Sea. Monte-Carlo (MC) perturbations of OIB snow retrievals, combined with CS-2 threshold-sensitivity tests, indicate an intrinsic ∼ 0.2 m uncertainty in OIB snow depth and a similar lower-bound CRYO2ICE snow-depth uncertainty of ∼ 0.21-0.24 m at 10 km scales. Our results offer practical guidance for altimeter algorithm development and are directly relevant to upcoming dual-frequency radar missions such as ESA’s CRISTAL. • A 70% TFMRA threshold reduces radar freeboard bias, and improves Antarctic CryoSat-2 SIT. • Snow-aware CS-2 retracking tuned with OIB and CRYO2ICE sharpens snow depth and SIT. • OIB and CRYO2ICE snow depth errors ≥ 0.2 m constrain altimetry and guide CRISTAL.",
-      "keywords": [
-        "Sea ice",
-        "Snow",
-        "Altimeter",
-        "Sea ice thickness",
-        "Sea ice concentration",
-        "Cryosphere",
-        "Radar altimeter"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2640612",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2640612",
       "title": "Revealing the co-occurrence patterns of public emotions from social media data",
@@ -11493,32 +11611,6 @@
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001276",
       "abstract": "",
       "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115351",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115351",
-      "title": "Downscaling method for red solar-induced chlorophyll fluorescence using modified kernel normalized difference vegetation index",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-10",
-      "published_date_display": "2026-03-10",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001215",
-      "abstract": "Solar-induced chlorophyll fluorescence (SIF) is a direct proxy for photosynthetic activity. Red SIF (RSIF), primarily emitted from Photosystem II (PSII), offers closer physiological relevance than far-red SIF (FRSIF). However, canopy-level RSIF is substantially affected by chlorophyll reabsorption and multiple scattering, and thus represents only a small fraction of photosystem-level fluorescence (RSIF PS ). Existing methods for downscaling RSIF to RSIF PS , which often rely on empirical indices, exhibit limited robustness in accounting for canopy structural heterogeneity and background effects, particularly in sparse vegetation conditions. To address this limitation, we developed a Modified Kernel Normalized Difference Vegetation Index (MKNDVI) based on nonlinear mapping theory to improve the estimation of the fluorescence escape probability and RSIF PS . Based on MKNDVI, we derived the red reflectance of pure vegetation (Red MKNDVI ) and downscaled the canopy-RSIF to the photosystem level (RSIF PS-MKNDVI ). We evaluated the performance of our proposed downscaling approach using both SCOPE simulations and field measurements across two crop types (wheat and maize). By analyzing the correlations of RSIF PS-MKNDVI with the model-simulated RSIF PS (RSIF PS-model ) and absorbed photosynthetically active radiation by green leaves (APAR green ), we assessed the method's efficacy in representing total fluorescence emission across diverse canopy conditions. In comparison to existing downscaling methods, RSIF PS-MKNDVI demonstrated consistently stronger correlations with both RSIF PS-model and APAR green under a range of soil reflectance, leaf area index (LAI), and chlorophyll content (Cab), with notable improvements under low-to-medium vegetation density. Our method effectively mitigated soil background interference and chlorophyll reabsorption effects, thereby enhancing the accuracy of RSIF PS estimation. Field validation further confirmed that RSIF PS-MKNDVI maintained a stronger and more consistent relationship with APAR green across multiple years and crop types. Therefore, the MKNDVI provides a robust and effective tool for downscaling RSIF from canopy to photosystem level, which significantly improves the potential of RSIF for monitoring photosynthetic activity.",
-      "keywords": [
-        "Downscaling",
-        "Photosynthetically active radiation",
-        "Chlorophyll fluorescence",
-        "Leaf area index",
-        "Canopy",
-        "Enhanced vegetation index",
-        "Chlorophyll",
-        "Normalized Difference Vegetation Index"
-      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115353",
@@ -12093,32 +12185,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115340",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115340",
-      "title": "Identification of marine algal blooms by SDGSAT-1 multispectral imagery",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-02",
-      "published_date_display": "2026-03-02",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001100",
-      "abstract": "",
-      "keywords": [
-        "Algal bloom",
-        "Multispectral image",
-        "Satellite",
-        "Identification (biology)",
-        "Spectral bands",
-        "Red tide",
-        "Reflectivity",
-        "Ocean color"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115336",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115336",
       "title": "Enhancing transferability of foliar trait retrieval models: A comparative analysis of transfer learning strategies and domain shift characterization",
@@ -12538,33 +12604,6 @@
         "Moisture",
         "Spectral bands",
         "Evaporation"
-      ]
-    },
-    {
-      "doi": "10.1016/s0034-4257(26)00102-1",
-      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00102-1",
-      "title": "Editorial Board",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-24",
-      "published_date_display": "2026-02-24",
-      "published_parts": [
-        2026,
-        4
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001021",
-      "abstract": "",
-      "keywords": [
-        "Nucleofection",
-        "Gestational period",
-        "TSG101",
-        "Dysgeusia",
-        "Liquation",
-        "Diafiltration",
-        "Emperipolesis",
-        "Triacetin",
-        "Demotion"
       ]
     },
     {
