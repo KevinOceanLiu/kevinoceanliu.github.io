@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T22:11:17.039103+00:00",
+  "generated_at": "2026-07-22T22:15:16.745830+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,55 +26,28 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115573",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115573",
-      "title": "Toward accurate disease diagnosis of fruit trees: Integrating a novel dual-angle vegetation index with canopy vertical distribution knowledge",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003433",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115564",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115564",
-      "title": "Label-efficient 3D forest mapping: Self-supervised and transfer learning for instance segmentation, semantic segmentation, and species classification",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003342",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/s0034-4257(26)00347-0",
-      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00347-0",
-      "title": "Editorial Board",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "doi": "10.1016/j.isprsjprs.2026.07.003",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.003",
+      "title": "Urban sidewalk detection via a cross-view joint segmentation method using satellite and street-view imagery",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
       "published_parts": [
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003470",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003503",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Joint (building)",
+        "Segmentation",
+        "Satellite",
+        "Satellite imagery",
+        "Image segmentation",
+        "Object detection"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115566",
@@ -98,6 +71,31 @@
         "Remote sensing application",
         "Image (mathematics)",
         "Satellite image"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115573",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115573",
+      "title": "Toward accurate disease diagnosis of fruit trees: Integrating a novel dual-angle vegetation index with canopy vertical distribution knowledge",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003433",
+      "abstract": "",
+      "keywords": [
+        "Canopy",
+        "Vegetation Index",
+        "Vegetation (pathology)",
+        "Leaf area index",
+        "Index (typography)",
+        "Distribution (mathematics)",
+        "Enhanced vegetation index"
       ]
     },
     {
@@ -125,6 +123,73 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115583",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115583",
+      "title": "Normalization of Sentinel 2 data over tropical forests to nadir BRDF adjusted reflectance",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003536",
+      "abstract": "",
+      "keywords": [
+        "Bidirectional reflectance distribution function",
+        "Normalization (sociology)",
+        "Reflectivity",
+        "Nadir",
+        "Tropical forest",
+        "Radiometry"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115564",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115564",
+      "title": "Label-efficient 3D forest mapping: Self-supervised and transfer learning for instance segmentation, semantic segmentation, and species classification",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003342",
+      "abstract": "Detailed structural and species information at the individual tree level is increasingly important to support precision forestry, biodiversity conservation, and provide reference data for biomass and carbon mapping. Point clouds from airborne and ground-based laser scanning are currently the most suitable data source to rapidly derive such information at scale. Recent advancements in deep learning have improved the segmentation and classification of individual trees and the identification of semantic tree components. However, deep learning models typically require large amounts of annotated training data which limits further improvement. Producing dense, high-quality annotations for 3D point clouds, especially in complex forests, is labor-intensive and challenging to scale. We explore strategies to reduce dependence on large annotated datasets using self-supervised and transfer learning architectures. Our objective is to improve performance across three tasks: instance segmentation, semantic segmentation, and tree classification using realistic and operational training sets. We observe improvements across all tasks, compared to training from scratch, evaluated with their respective metrics. For instance segmentation, self-supervised learning combined with domain adaptation improves AP50 by 16.98%. For semantic segmentation, self-supervised learning alone improves mIoU by 1.79%. For tree classification, hierarchical transfer learning improves mean Jaccard by 6.07%. To simplify use and encourage uptake, we integrated the tasks into a unified framework, streamlining the process from raw point clouds to tree delineation, structural analysis, and species classification. Pretrained models reduce energy consumption and carbon emissions by 21%. This open-source contribution aims to accelerate the operational extraction of individual tree information from laser scanning point clouds to support forestry, biodiversity, and carbon mapping.",
+      "keywords": [
+        "Point cloud",
+        "Tree (set theory)",
+        "Transfer of learning",
+        "Segmentation",
+        "Identification (biology)",
+        "Tree structure",
+        "Deep learning",
+        "Jaccard index"
+      ]
+    },
+    {
+      "doi": "10.1016/s0034-4257(26)00347-0",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00347-0",
+      "title": "Editorial Board",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003470",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1080/13658816.2026.2671964",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2671964",
       "title": "Multiscale space-time varying coefficient modeling using generalized additive models: determining model form",
@@ -140,7 +205,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2671964",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Work (physics)",
+        "Stability (learning theory)",
+        "Estimation theory",
+        "Noise (video)",
+        "Feature (linguistics)"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2704882",
@@ -158,7 +229,13 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2704882",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Transfer of learning",
+        "Feature (linguistics)",
+        "Field (mathematics)",
+        "Transfer (computing)",
+        "Matching (statistics)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115572",
@@ -174,7 +251,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003421",
-      "abstract": "",
+      "abstract": "Estimating the derivative of canopy reflectance on leaf area density ( μ ) is crucial in quantifying how vegetation structure changes, for example caused by crop growth or leaf senescence, influence remote sensing observations. We propose a probabilistic approach that estimates it using a radiative transfer model based on the rendering expression: each leaf survives with probability P (Bernoulli thinning) so that an initial density μ 0 is reduced to μ = μ 0 P . Then, a change of P implies a change in μ , as their derivatives are linked. The new rendering expression for a given leaf thinning configuration, while taking expectation over leaf presence, leads to a closed form of the expected radiance and its derivative with respect to P . Based on Monte Carlo path tracing, we develop an unbiased estimator for both quantities. Its accuracy is similar to that of state-of-the-art techniques (i.e., finite difference and importance sampling) with less noisy derivatives, which highlights its efficiency.",
       "keywords": [
         "Rendering (computer graphics)",
         "Radiance",
@@ -505,6 +582,34 @@
       ]
     },
     {
+      "doi": "10.1016/j.rse.2026.115540",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115540",
+      "title": "Basal area loss from fire using field-calibrated remote sensing refines western US fire severity measurements",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-13",
+      "published_date_display": "2026-07-13",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600310X",
+      "abstract": "Fire is a critical ecological process and the spatial patterns of fire severity have profound effects on forest structure and resilience. Cost-effective fire severity measurements are critical for informing post-fire restoration strategies and for improving our understanding of the patterns, drivers, and ecological consequences of wildfires. Remote sensing technology has advanced burn severity mapping through space and time. However, different severity mapping methods vary in interpretability, scalability, generalizability, and how well they align with field measurements. One common meaningful metric of fire effects on forests is percent basal area loss, but existing methods present challenges to researchers and managers due to the lack of region-specific field reference data and a scalable framework for automatic mapping. To address these issues, we compiled field reference data from 123 fires in forests across the western US to calculate the proportion of fire-induced basal area loss. We then tested spatially cross-validated machine learning models concurrently with hyperparameter tuning to select a skillful, parsimonious model from an extensive candidate set comprising various combinations of climatic, topographic, and surface reflectance-based covariates. Model performance varied geographically, highlighting that this new method currently provides a critical resource for managers in some regions such as forests in Oregon and Washington, while providing a roadmap for researchers in other regions to continue adding data to the project to improve fire severity mapping efforts. To support fire severity assessments, we created a tool in Google Earth Engine to produce estimates of percent basal area loss for any fire perimeter in the western US.",
+      "keywords": [
+        "Remote sensing",
+        "Basal area",
+        "Field (mathematics)",
+        "Environmental science",
+        "Basal (medicine)",
+        "Geography",
+        "Medicine",
+        "Forestry",
+        "Mathematics",
+        "Internal medicine"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.06.039",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.039",
       "title": "UniOrtho: From view-centric to unified orthographic framework for satellite semantic 3D reconstruction",
@@ -700,6 +805,29 @@
         "Remote sensing application",
         "Object detection",
         "Key (lock)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115558",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115558",
+      "title": "Corrigendum to “First lunar-light mapping of nighttime dust season oceanic aerosol optical depth over North Atlantic from space” [Remote Sensing of Environment, Volume 312, 2024, 114315]",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003287",
+      "abstract": "",
+      "keywords": [
+        "Volume (thermodynamics)",
+        "Aerosol",
+        "Optical depth",
+        "Atmospheric dust",
+        "Mineral dust"
       ]
     },
     {
@@ -1102,57 +1230,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115558",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115558",
-      "title": "Corrigendum to “First lunar-light mapping of nighttime dust season oceanic aerosol optical depth over North Atlantic from space” [Remote Sensing of Environment, Volume 312, 2024, 114315]",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003287",
-      "abstract": "",
-      "keywords": [
-        "Volume (thermodynamics)",
-        "Aerosol",
-        "Optical depth",
-        "Atmospheric dust",
-        "Mineral dust"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115540",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115540",
-      "title": "Basal area loss from fire using field-calibrated remote sensing refines western US fire severity measurements",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600310X",
-      "abstract": "Fire is a critical ecological process and the spatial patterns of fire severity have profound effects on forest structure and resilience. Cost-effective fire severity measurements are critical for informing post-fire restoration strategies and for improving our understanding of the patterns, drivers, and ecological consequences of wildfires. Remote sensing technology has advanced burn severity mapping through space and time. However, different severity mapping methods vary in interpretability, scalability, generalizability, and how well they align with field measurements. One common meaningful metric of fire effects on forests is percent basal area loss, but existing methods present challenges to researchers and managers due to the lack of region-specific field reference data and a scalable framework for automatic mapping. To address these issues, we compiled field reference data from 123 fires in forests across the western US to calculate the proportion of fire-induced basal area loss. We then tested spatially cross-validated machine learning models concurrently with hyperparameter tuning to select a skillful, parsimonious model from an extensive candidate set comprising various combinations of climatic, topographic, and surface reflectance-based covariates. Model performance varied geographically, highlighting that this new method currently provides a critical resource for managers in some regions such as forests in Oregon and Washington, while providing a roadmap for researchers in other regions to continue adding data to the project to improve fire severity mapping efforts. To support fire severity assessments, we created a tool in Google Earth Engine to produce estimates of percent basal area loss for any fire perimeter in the western US.",
-      "keywords": [
-        "Remote sensing",
-        "Basal area",
-        "Field (mathematics)",
-        "Environmental science",
-        "Basal (medicine)",
-        "Geography",
-        "Medicine",
-        "Forestry",
-        "Mathematics",
-        "Internal medicine"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.06.030",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.030",
       "title": "SCOUT-Count: Stylization with covariance-whitening and uncertainty for domain-generalized remote sensing object counting",
@@ -1548,6 +1625,29 @@
         "Radiation",
         "Climate change",
         "Plateau (mathematics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115513",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115513",
+      "title": "Retraction notice to “HBiM2: A multi-angle hyperspectral soil radiative transfer model for simulating the reflectance of dry and wet soils” [Remote Sensing of Environment, 339C (2026) 115381]",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-06-28",
+      "published_date_display": "2026-06-28",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600283X",
+      "abstract": "",
+      "keywords": [
+        "Hyperspectral imaging",
+        "Reflectivity",
+        "Radiative transfer",
+        "Atmospheric radiative transfer codes",
+        "Notice"
       ]
     },
     {
@@ -4172,29 +4272,6 @@
         "Context (archaeology)",
         "Population",
         "Rural area"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115513",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115513",
-      "title": "Retraction notice to “HBiM2: A multi-angle hyperspectral soil radiative transfer model for simulating the reflectance of dry and wet soils” [Remote Sensing of Environment, 339C (2026) 115381]",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600283X",
-      "abstract": "",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Reflectivity",
-        "Radiative transfer",
-        "Atmospheric radiative transfer codes",
-        "Notice"
       ]
     },
     {
@@ -11129,32 +11206,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115365",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115365",
-      "title": "A transferable spatiotemporal deep learning framework integrating soil moisture dynamics for high-resolution cropland soil organic matter mapping across regions",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-17",
-      "published_date_display": "2026-03-17",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001355",
-      "abstract": "",
-      "keywords": [
-        "Digital soil mapping",
-        "Water content",
-        "Soil organic matter",
-        "Organic matter",
-        "Soil water",
-        "Deep learning",
-        "Moisture",
-        "Land use"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2641743",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2641743",
       "title": "Pharos: a mobile GIS application for network assessment and ground-truth mapping to support mHealth study design in low-resource settings",
@@ -11226,30 +11277,6 @@
         "Small Island Developing States",
         "Global climate",
         "Global South"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.007",
-      "title": "Estimating tree mortality timing using PlanetScope satellite image time series",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-16",
-      "published_date_display": "2026-03-16",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001188",
-      "abstract": "Climate warming is increasing forest disturbances, with hotter summers and longer droughts causing widespread tree mortality. Yet the timing of these deaths remains unclear. While standing dead trees can be delineated from high‑resolution aerial imagery, their infrequent updates limit temporal analysis. Although satellite images have been used to map dead trees, few studies have estimated when trees died using time series data. We present a method to estimate mortality timing within known mortality areas using PlanetScope (3 m) time series in a boreal forest (Finland) and a temperate forest (Luxembourg). We used summer imagery (June–August) from 2021 to 2022 for Helsinki and 2020–2022 for Luxembourg. The reference dataset contained 468 standing dead trees in Helsinki and 3070 in Luxembourg, mapped from very high-resolution aerial (5–10 cm) and satellite images (50 cm). The Helsinki study area was characterized by scattered tree mortality with isolated and small clusters of dead trees, whereas the Luxembourg study area had more clustered tree mortality and larger clusters of dead trees. We evaluated four vegetation indices: kNDVI, GNDVI, SR 800/550, and PSSRc2, and used the Kernelized Change Point Detection (PELT) algorithm to identify sustained declines in pixel values. kNDVI performed best, detecting spectral change for 80% (2832 of 3538) of the dead trees across both areas, with detection increasing with cluster size. In Helsinki, kNDVI detected 204 dead trees (43.6%), while in Luxembourg, 2628 dead trees (86%). The differences in performance between the study areas were mainly attributed to the spatial distribution of tree mortality (scattered vs. clustered). Detection was most reliable for clusters of ≥ 3 trees, while isolated trees were rarely detected, likely due to mixed pixels (only 19% detected). For timing estimation, the overall RMSE across both areas was 245 days with a mean bias of + 6 days (i.e., six days later than visual confirmation). In Helsinki RMSE = 211, bias = − 103; Luxembourg RMSE = 254, bias = +40. The relatively high RMSE alongside a small overall bias indicates variability among individual timing estimates due to reference‑date lags and mixed pixels. With further improvements to change‑point detection and spectral inputs, PlanetScope time series show initial promise for estimating mortality timing in clusters (≥3 trees) of standing deadwood.",
-      "keywords": [
-        "Series (stratigraphy)",
-        "Satellite",
-        "Time series",
-        "Tree (set theory)",
-        "Satellite imagery",
-        "Satellite image"
       ]
     },
     {
