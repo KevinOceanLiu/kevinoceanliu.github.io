@@ -4102,7 +4102,8 @@ a.link-arrow:hover,
     grid-template-columns: repeat(2, 42px);
     grid-template-areas: none;
     justify-content: center;
-    gap: 12px;
+    column-gap: 12px;
+    row-gap: 12px;
     padding-top: 0;
 }
 
@@ -4120,6 +4121,7 @@ a.link-arrow:hover,
 }
 
 .hero-link {
+    position: relative;
     width: 42px;
     height: 42px;
     padding: 8px;
@@ -4131,6 +4133,7 @@ a.link-arrow:hover,
 
 .hero-link:hover,
 .hero-link:focus-visible {
+    z-index: 1;
     background: transparent;
     border-color: transparent;
     box-shadow: none;
@@ -4140,6 +4143,27 @@ a.link-arrow:hover,
 .hero-link-image {
     width: 24px;
     height: 24px;
+}
+
+.hero-link-label {
+    position: absolute;
+    top: calc(100% + 2px);
+    left: 50%;
+    transform: translateX(-50%);
+    color: #000;
+    font-family: inherit;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 1.2;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease;
+}
+
+.hero-link:hover .hero-link-label,
+.hero-link:focus-visible .hero-link-label {
+    opacity: 1;
 }
 
 @media (max-width: 768px) {
@@ -4702,6 +4726,35 @@ select {
 
 .page-closing-logo {
     right: 0;
+}
+
+/* Keep the home-page controls on one consistent spacing rhythm. */
+.home-page .home-link-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.home-page .hero-links {
+    row-gap: 12px;
+}
+
+.home-page .home-link-controls .language-switcher {
+    display: grid;
+    grid-template-columns: repeat(2, 42px);
+    column-gap: 12px;
+    width: 96px;
+    align-self: center;
+    justify-content: center;
+    margin-top: 4px;
+}
+
+.home-page .home-link-controls .language-button {
+    width: 24px;
+    min-width: 24px;
+    height: 24px;
+    justify-self: center;
 }
 
 @media (min-width: 769px) {
