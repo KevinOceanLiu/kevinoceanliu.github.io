@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T23:11:31.319503+00:00",
+  "generated_at": "2026-07-22T23:15:47.256777+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105754",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105754",
-      "title": "Research note: A grid-based framework for urban shading evaluation integrating shade provision and population density",
+      "doi": "10.1016/j.landurbplan.2026.105740",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105740",
+      "title": "High-resolution pavement material data can improve estimates of water supply from precipitation to street trees",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
@@ -43,9 +43,154 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001787",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001647",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107432",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107432",
+      "title": "Official rotation and urban economic growth in China: Political signaling from South-to-North Official Transfers",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006645",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107424",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107424",
+      "title": "Exploring the interplay of motivation, civic engagement, and institutional entrepreneurship in fostering participation and innovation: Insights from the Medialab Prado experience",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006566",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107358",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107358",
+      "title": "Assessing the opportunities for retrofitting Nature-based solutions to streetscape areas: Planning for climate resilience",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005901",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0198-9715(26)00101-8",
+      "doi_url": "https://doi.org/10.1016/s0198-9715(26)00101-8",
+      "title": "Editorial Board",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001018",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00479-z",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00479-z",
+      "title": "Inequities in geographic access to emergency obstetric and newborn care in Greater Accra",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        7,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00479-z",
+      "abstract": "Abstract This study assessed the levels and inequities of geographic accessibility to comprehensive emergency obstetric and newborn care (EmONC) facilities across all 29 districts of Greater Accra Region using peak and non-peak travel time estimates derived from the Google Maps Directions Application Programming Interface. We calculated median travel times (MTT), the proportion of women aged 15–49 years and reachable facilities within 15-, 30- and 60-min thresholds, stratified by wealth. MTT to the nearest public comprehensive EmONC facility was 29.7 min during peak traffic. Nearly 90% of women were within 30 min of public comprehensive EmONC, and 93% were within 30 min of public or private care. In peri-urban areas, public facilities reachable within 30 min dropped from at least one during non-peak to none during peak traffic. Geographic accessibility was notably better among the wealthiest 40%. Our findings highlight geographic and socioeconomic inequities, calling for targeted investments especially in peri-urban areas.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00477-1",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00477-1",
+      "title": "Hidden patterns of urban mixing across five global cities",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        7,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00477-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00496-y",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00496-y",
+      "title": "Governing the algorithmic reallocation of urban space in the digital age",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        7,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00496-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105754",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105754",
+      "title": "Research note: A grid-based framework for urban shading evaluation integrating shade provision and population density",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001787",
+      "abstract": "",
+      "keywords": [
+        "Shading",
+        "Population density",
+        "Population",
+        "Urbanization",
+        "Plant density"
+      ]
     },
     {
       "doi": "10.1016/j.compenvurbsys.2026.102485",
@@ -54,15 +199,20 @@
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000876",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Empirical research",
+        "Empirical modelling",
+        "Geographic information system",
+        "Geographically Weighted Regression"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107403",
@@ -71,15 +221,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006359",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Transformation (genetics)",
+        "Everyday life",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107405",
@@ -88,15 +242,22 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-21",
+      "published_date_display": "2026-07-21",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006372",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Norwegian",
+        "Plan (archaeology)",
+        "Urban planning",
+        "Regional planning",
+        "Development plan",
+        "Strategic planning"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107290",
@@ -135,7 +296,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600613X",
-      "abstract": "",
+      "abstract": "The concept of perceived accessibility (PA) provides a way of capturing individual disparities in the context of the spatial analysis of travel behaviors. However, the measurement of perceived accessibility raises certain issues. Based on the standard gravity-based accessibility indicator, we propose a theoretical analysis for estimating perceived accessibility. We take account of individual heterogeneity by considering the differences between individuals' perceptions of travel time. We capture this perception through individual travel cost sensitivity and an enhanced impedance parameter. We test our method on urban data from the Household Transport Survey (HTS) conducted in Lyon (France) which permits disaggregated spatial analysis. This survey uses 4-stage model calibration and provides transport data that takes account of the socioeconomic characteristics of more than 11,000 households. A comparison between measurements of standard gravity-based accessibility and perceived accessibility confirms that there is a difference between the two, with lower results for PA than the standard accessibility indicator. Our results also reveal that measured PA is highly dependent on the spatial zone: in the CBD, which has a relatively wealthy population, travel sensitivity is lower than in suburban spatial zones. Therefore, a transport policy change impacting accessibility can have beneficial spatial impacts.",
       "keywords": [
         "Perception",
         "Web accessibility"
@@ -3656,6 +3817,27 @@
         "Identification (biology)",
         "Forensic science",
         "Assemblage (archaeology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105753",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105753",
+      "title": "Corrigendum to “Risk assessment in the Pyrocene – Rapid changes in models and predictions complicate US policies to prioritize forest and fuel management” [Landsc. Urban Plan. 274 (2026) 105695]",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07-01",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001775",
+      "abstract": "",
+      "keywords": [
+        "Current (fluid)",
+        "Model validation",
+        "Risk assessment"
       ]
     },
     {
@@ -7943,29 +8125,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107204",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107204",
-      "title": "How can large cities derive climate change mitigation? Investing in a greener tomorrow",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-20",
-      "published_date_display": "2026-05-20",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004361",
-      "abstract": "",
-      "keywords": [
-        "Climate change",
-        "Greenhouse gas",
-        "Global warming",
-        "Climate change mitigation",
-        "Political economy of climate change"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261446447",
       "doi_url": "https://doi.org/10.1177/00420980261446447",
       "title": "The role of diasporic ties in alternative infrastructure: A case study of the Kurdish community center of Rome",
@@ -8344,28 +8503,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107186",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107186",
-      "title": "Digital permeation of urban planning practice: The issue of standardization",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-18",
-      "published_date_display": "2026-05-18",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600418X",
-      "abstract": "The field of urban planning is currently undergoing a profound transformation driven by digital technologies. These are increasingly used to support and automate the planning process, and have the potential to reshape the nature of planning itself and impact the core planning values of equity, transparency, efficiency, and legitimacy. One pressing issue is the growing use of standards, not only in data formats, but also in the categories that describe and regulate the built environment. While standards have been around for centuries, they have recently gained heightened importance because they are necessary for leveraging digital technologies. However, the impact of standardization on urban planning and land-use regulation remains poorly understood and under-researched. In this conceptual paper, we provide a way forward for understanding the effects of digitalization-driven standardization. The work draws from a broad range of literature to discuss the drivers of standardization and identify the pathways through which standardization unfolds. It then presents an analytical framework as a conceptual basis for studying the impact of standardization. The framework is based on a research process that links technologies, standardization pathways, regulatory practices, and core planning values. Jointly, these four aspects are viewed as the means for expanding the way we think about how digitization-driven standards are influencing core planning values. • A framework for examining digitalization-impacts on planning values is proposed. • Impacts of standardization on equity, transparency, efficiency, and legitimacy unknown. • Impacts through standardization of data formats, concepts, and use of software expected. • Standards have gained heightened importance in digital planning.",
-      "keywords": [
-        "Standardization",
-        "Urban planning",
-        "Permeation",
-        "International standardization"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107153",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107153",
       "title": "Coping with financialisation. Understanding socio-emotional dynamics in urban housing markets",
@@ -8390,36 +8527,6 @@
         "Agency (philosophy)",
         "Cognition",
         "Empirical research"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107183",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107183",
-      "title": "Collaboration across administrative boundaries in the transformation of public space",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-18",
-      "published_date_display": "2026-05-18",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004154",
-      "abstract": "Cities increasingly face the need to transform public spaces. Given the complex and cross-cutting nature of these transformations, the importance of collaboration is often emphasized. However, no studies so far have opened up the black box of collaboration between civil servants from different municipal departments in the transformation of public space. This study addressed this gap by analyzing the collaboration between actors from two municipal departments involved in the transformation of the unique and complex case of the Dakpark in the Dutch city of Rotterdam. Through this analysis, the study provides valuable insights into the dynamics and challenges of intra-organizational collaboration in complex urban transformation projects. The findings reveal a critical imbalance between inter- and intra-organizational collaboration, with an overemphasis on external efforts often undermining internal collaboration. This imbalance is attributed to the absence of formal frameworks necessary to establish, guide, and sustain effective intra-organizational processes. The study also highlights the important role of individual and process-level factors. This analysis shows that despite a decentralized and subtask-oriented organizational structure, strong interpersonal connections, trust, and a collegial atmosphere facilitated effective collaboration across established administrative boundaries. These interactions fostered a sense of collective interest and contributed to the creation of a psychologically safe environment. These dynamics enabled open communication, transparency, and effective problem-solving, demonstrating the essential role of fostering trust and collaboration.",
-      "keywords": [
-        "Transformation (genetics)",
-        "Space (punctuation)",
-        "Public space",
-        "Public administration",
-        "Political science",
-        "Regional science",
-        "Business",
-        "Economic geography",
-        "Computer science",
-        "Geography",
-        "Architectural engineering",
-        "Engineering"
       ]
     },
     {
