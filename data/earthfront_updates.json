@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T22:36:43.730094+00:00",
+  "generated_at": "2026-07-22T22:41:13.678874+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,96 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01909-5",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01909-5",
+      "title": "When drought meets war trauma",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        7,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01909-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01882-z",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01882-z",
+      "title": "Drought amplifies the psychological burden of war",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        7,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01882-z",
+      "abstract": "Abstract The convergence of climate shocks and armed conflict poses a critical threat to human security and sustainable development. However, their joint impacts on human populations, particularly the erosion of psychosocial resilience, remain poorly quantified. Here, integrating georeferenced drought data from respondents’ pre-displacement regions with survey data from Syrian and Iraqi refugees ( N = 3,751), we find that the association between war exposure and post-traumatic stress is stronger among those from more drought-affected areas of origin. Under severe drought conditions, the increase in post-traumatic stress associated with war exposure was more than twice as large as under average moisture conditions. This pattern is consistent with resilience corrosion, whereby climate-induced hardship may degrade mental health and weaken the adaptive capacities communities need to navigate future shocks. These findings support policy approaches that integrate mental health into climate adaptation and humanitarian response in settings shaped by overlapping crises.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41893-026-01898-5",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01898-5",
+      "title": "Culturalizing sustainability",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        7,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01898-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02050-w",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02050-w",
+      "title": "European summer drying largely driven by atmospheric circulation changes since the 1980s",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        7,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02050-w",
+      "abstract": "Abstract In recent decades, Europe has experienced more frequent and severe droughts driven by two mechanisms: shifts in large-scale atmospheric circulation, altering the frequency and position of pressure systems, and thermodynamic changes, which cause background warming, raise evaporative demand and affect precipitation. However, the relative roles of these drivers in observed drought trends remain uncertain. Here we disentangle their contributions using nudged atmospheric circulation model simulations, which isolate the circulation-induced component of European hydroclimatic variability and trends. We show that circulation-induced effects play a substantial role in long-term summer drying. These changes account for about 55% of the observed summer soil moisture decline in mid-latitude Europe since 1980 and about 42% of increased atmospheric vapour pressure deficit. Further, we demonstrate that more frequent anticyclonic, warm and dry weather conditions linked to these circulation changes amplify the thermodynamic component of drying. Whereas our study improves our understanding of the mechanisms behind European hydroclimatic trends, these findings also highlight the high uncertainty for European hydroclimate projections because future circulation changes remain poorly constrained. If historical circulation trends were partly externally forced, circulation-driven drying may continue. If instead they arose from internal climate variability, a circulation tendency that counteracts thermodynamic drying could be expected.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02697-8",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02697-8",
+      "title": "Ecological novelty induced by climate change",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        7,
+        22
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02697-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01910-y",
       "doi_url": "https://doi.org/10.1038/s41893-026-01910-y",
       "title": "The true impacts of the built environment",
@@ -41,7 +131,12 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01910-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Resource (disambiguation)",
+        "Built environment",
+        "Cement",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01895-8",
@@ -59,7 +154,13 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01895-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Water scarcity",
+        "Narrative",
+        "Leverage (statistics)",
+        "Scarcity",
+        "Negotiation"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02058-2",
@@ -77,7 +178,15 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02058-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Extinction event",
+        "Greenhouse gas",
+        "Climate change",
+        "Global warming",
+        "Runaway climate change",
+        "Greenhouse effect",
+        "Carbon sequestration"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02048-4",
@@ -95,7 +204,15 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02048-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Fern",
+        "Extinction event",
+        "Extinction (optical mineralogy)",
+        "Climate change",
+        "Palynology",
+        "Pollen",
+        "Precipitation"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02716-8",
@@ -113,7 +230,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02716-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Happening",
+        "Perception",
+        "Political economy of climate change",
+        "Climate commitment",
+        "Climate risk",
+        "Climate model"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02723-9",
@@ -131,7 +256,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02723-9",
       "abstract": "Abstract Calls to reform the United Nations Conferences of the Parties (COPs) climate negotiations have intensified, yet systematic empirical evidence on the reform preferences of key participants remains limited. Here, using a conjoint survey experiment involving state and non-state elite respondents comparing pairs of hypothetical reform proposals, we find broad support for reforms that enhance transparency and provide a stronger implementation focus to drive climate action. We see that non-state actors are more supportive of reforms that limit fossil fuel company participation and expand opportunities for observer engagement. Furthermore, most other institutional reform proposals do not draw substantial support. These results identify two possible reform pathways: to strengthen transparency and accountability, or to reorient COPs towards strengthening the implementation of existing commitments. More contested reforms, including changes to the consensus rule, the COP presidency and stakeholder representation, are less likely to succeed.",
-      "keywords": []
+      "keywords": [
+        "Transparency (behavior)",
+        "Negotiation",
+        "Elite",
+        "Presidency",
+        "Stakeholder",
+        "Climate change",
+        "Process (computing)",
+        "Climate policy"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01892-x",
