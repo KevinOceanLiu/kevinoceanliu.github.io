@@ -2,7 +2,8 @@ name: Update Google Scholar Citations
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Avoid the top of the hour, where GitHub can delay scheduled workflows.
+    - cron: "17 0,6,12,18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,6 +12,7 @@ permissions:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
 
     steps:
       - name: Checkout repository
@@ -20,6 +22,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Check citation parser
+        run: python -m unittest discover -s tests -p "test_*.py"
 
       - name: Update cached citation count
         env:

@@ -229,32 +229,17 @@ if (citationCount) {
     const citationDataPath = window.location.pathname.includes('/pages/')
         ? '../data/citations.json'
         : 'data/citations.json';
-    const liveCitationDataPath = `${window.location.origin}/api/citations`;
 
     const loadCitationData = async () => {
-        const sources = window.location.protocol === 'http:' || window.location.protocol === 'https:'
-            ? [liveCitationDataPath, citationDataPath]
-            : [citationDataPath];
+        const url = new URL(citationDataPath, window.location.href);
+        url.searchParams.set('t', Date.now().toString());
 
-        let lastError;
-
-        for (const source of sources) {
-            try {
-                const url = new URL(source, window.location.href);
-                url.searchParams.set('t', Date.now().toString());
-                const response = await fetch(url, { cache: 'no-store' });
-
-                if (!response.ok) {
-                    throw new Error(`Failed to load citations: ${response.status}`);
-                }
-
-                return response.json();
-            } catch (error) {
-                lastError = error;
-            }
+        const response = await fetch(url, { cache: 'no-store' });
+        if (!response.ok) {
+            throw new Error(`Failed to load citations: ${response.status}`);
         }
 
-        throw lastError;
+        return response.json();
     };
 
     loadCitationData()
