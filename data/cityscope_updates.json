@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T23:15:47.256777+00:00",
+  "generated_at": "2026-07-23T23:11:23.796936+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,26 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105740",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105740",
-      "title": "High-resolution pavement material data can improve estimates of water supply from precipitation to street trees",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001647",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107432",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107432",
-      "title": "Official rotation and urban economic growth in China: Political signaling from South-to-North Official Transfers",
+      "doi": "10.1016/j.cities.2026.107426",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107426",
+      "title": "Khulna: A climate-vulnerable post-industrial city in transition—Decline or revival?",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -60,14 +43,14 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006645",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600658X",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107424",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107424",
-      "title": "Exploring the interplay of motivation, civic engagement, and institutional entrepreneurship in fostering participation and innovation: Insights from the Medialab Prado experience",
+      "doi": "10.1016/j.cities.2026.107419",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107419",
+      "title": "It's hard to live in a tourist city: Explaining residents' responses to tourism pressure through stress and self-efficacy",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -77,41 +60,25 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006566",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006517",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107358",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107358",
-      "title": "Assessing the opportunities for retrofitting Nature-based solutions to streetscape areas: Planning for climate resilience",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "doi": "10.1038/s44284-026-00499-9",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00499-9",
+      "title": "Self-deploying concrete systems for low‑carbon urban construction",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
       "published_parts": [
         2026,
-        12
+        7,
+        23
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005901",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/s0198-9715(26)00101-8",
-      "doi_url": "https://doi.org/10.1016/s0198-9715(26)00101-8",
-      "title": "Editorial Board",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001018",
+      "link": "https://www.nature.com/articles/s44284-026-00499-9",
       "abstract": "",
       "keywords": []
     },
@@ -131,7 +98,16 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00479-z",
       "abstract": "Abstract This study assessed the levels and inequities of geographic accessibility to comprehensive emergency obstetric and newborn care (EmONC) facilities across all 29 districts of Greater Accra Region using peak and non-peak travel time estimates derived from the Google Maps Directions Application Programming Interface. We calculated median travel times (MTT), the proportion of women aged 15–49 years and reachable facilities within 15-, 30- and 60-min thresholds, stratified by wealth. MTT to the nearest public comprehensive EmONC facility was 29.7 min during peak traffic. Nearly 90% of women were within 30 min of public comprehensive EmONC, and 93% were within 30 min of public or private care. In peri-urban areas, public facilities reachable within 30 min dropped from at least one during non-peak to none during peak traffic. Geographic accessibility was notably better among the wealthiest 40%. Our findings highlight geographic and socioeconomic inequities, calling for targeted investments especially in peri-urban areas.",
-      "keywords": []
+      "keywords": [
+        "Geographic information system",
+        "Socioeconomic status",
+        "Location",
+        "Emergency response",
+        "Public transport",
+        "Public health",
+        "Travel time",
+        "Geographic variation"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00477-1",
@@ -148,8 +124,14 @@
         22
       ],
       "link": "https://www.nature.com/articles/s44284-026-00477-1",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Using travel surveys from five global cities, this study explores how daily mobility shapes social mixing. Results show that activity spaces explain most place exposure variations, outweighing demographics and transit proximity.",
+      "keywords": [
+        "Demographics",
+        "Mixing (physics)",
+        "Public transport",
+        "Work (physics)",
+        "Consumption (sociology)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00496-y",
@@ -167,7 +149,122 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00496-y",
       "abstract": "",
+      "keywords": [
+        "Safeguard",
+        "Corporate governance",
+        "Space (punctuation)",
+        "Control (management)",
+        "Urban space",
+        "Throughput"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105740",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105740",
+      "title": "High-resolution pavement material data can improve estimates of water supply from precipitation to street trees",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001647",
+      "abstract": "",
+      "keywords": [
+        "Precipitation",
+        "Water supply",
+        "Hydrology (agriculture)",
+        "Water use",
+        "Water quality"
+      ]
+    },
+    {
+      "doi": "10.1016/s0198-9715(26)00101-8",
+      "doi_url": "https://doi.org/10.1016/s0198-9715(26)00101-8",
+      "title": "Editorial Board",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001018",
+      "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107432",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107432",
+      "title": "Official rotation and urban economic growth in China: Political signaling from South-to-North Official Transfers",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006645",
+      "abstract": "",
+      "keywords": [
+        "Politics",
+        "Rotation (mathematics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107424",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107424",
+      "title": "Exploring the interplay of motivation, civic engagement, and institutional entrepreneurship in fostering participation and innovation: Insights from the Medialab Prado experience",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006566",
+      "abstract": "",
+      "keywords": [
+        "Entrepreneurship",
+        "Social entrepreneurship",
+        "Social innovation",
+        "Civic engagement"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107358",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107358",
+      "title": "Assessing the opportunities for retrofitting Nature-based solutions to streetscape areas: Planning for climate resilience",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005901",
+      "abstract": "",
+      "keywords": [
+        "Retrofitting",
+        "Context (archaeology)",
+        "Resilience (materials science)",
+        "Urban planning",
+        "Urban resilience",
+        "Green infrastructure",
+        "Promotion (chess)",
+        "Psychological resilience"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105754",
@@ -8530,29 +8627,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107225",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107225",
-      "title": "Assessing regional city network resilience in economy and innovation from a “city-industry” perspective: A case study of the 2008 financial crisis and the COVID-19",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-18",
-      "published_date_display": "2026-05-18",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004579",
-      "abstract": "",
-      "keywords": [
-        "Financial crisis",
-        "Resilience (materials science)",
-        "Shift-share analysis",
-        "Psychological resilience",
-        "Regional development"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107213",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107213",
       "title": "Unraveling structural and behavioral drivers of income segregation in daily urban mobility",
@@ -10093,28 +10167,6 @@
         "Metropolitan area",
         "Urban region",
         "Census"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107115",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107115",
-      "title": "Quantifying local mobility and unraveling nonlinear mechanisms in the 15-minute city: Evidence from residential- and workplace-based activities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-24",
-      "published_date_display": "2026-04-24",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003471",
-      "abstract": "",
-      "keywords": [
-        "Nonlinear system",
-        "Mechanism (biology)",
-        "Key (lock)",
-        "Nonlinear model"
       ]
     },
     {
