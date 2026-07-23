@@ -4166,6 +4166,12 @@ a.link-arrow:hover,
     opacity: 1;
 }
 
+.hero-link-researchgate .hero-link-label {
+    left: 8px;
+    transform: none;
+    z-index: 2;
+}
+
 @media (max-width: 768px) {
     .home-sidebar-shell,
     .home-sidebar {
@@ -4745,16 +4751,27 @@ select {
     grid-template-columns: repeat(2, 42px);
     column-gap: 12px;
     width: 96px;
+    height: 42px;
     align-self: center;
+    align-items: center;
     justify-content: center;
-    margin-top: 4px;
 }
 
 .home-page .home-link-controls .language-button {
     width: 24px;
     min-width: 24px;
     height: 24px;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
     justify-self: center;
+}
+
+.home-page .language-button-image {
+    display: block;
+    width: 36px;
+    height: auto;
 }
 
 @media (min-width: 769px) {
