@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T22:15:16.745830+00:00",
+  "generated_at": "2026-07-23T22:13:33.115087+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,87 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.013",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.013",
+      "title": "Tracking forest carbon and growth in large-scale passive restoration using multi-temporal airborne lidar",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003606",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.012",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.012",
+      "title": "SARMelt: MGLANet-driven high-resolution surface melt mapping of circum-Antarctic ice shelves from Sentinel-1 imagery during 2015–2023",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600359X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115588",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115588",
+      "title": "Enhanced land surface phenology detections in the western U.S. drylands by fusing harmonized Landsat and Sentinel-2 observations with near-surface PhenoCam time series",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003585",
+      "abstract": "",
+      "keywords": [
+        "Phenology",
+        "Series (stratigraphy)",
+        "Time series",
+        "Thermal infrared",
+        "Surface (topology)",
+        "Normalized Difference Vegetation Index"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.008",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.008",
+      "title": "Edge-preserving and uncertainty-guided domain adaptation for weakly supervised rooftop photovoltaic mapping",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003552",
+      "abstract": "",
+      "keywords": [
+        "Photovoltaic system",
+        "Domain adaptation",
+        "Domain (mathematical analysis)",
+        "Adaptation (eye)",
+        "Pattern recognition (psychology)"
+      ]
+    },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.003",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.003",
@@ -136,7 +217,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003536",
-      "abstract": "",
+      "abstract": "Accurate surface reflectance retrieval in tropical forests remains challenging due to strong directional reflectance effects (BRDF) and limited observation opportunities caused by persistent cloud cover. Here, we present a sensor-adapted, physically based BRDF correction framework specifically designed for Sentinel-2 imagery over dense tropical forests. Using space-for-time substitution to calibrate Ross–Thick Li–Sparse (RTLS) models across central African forests, we derive Sentinel-2–specific parameters for nine spectral bands and apply a rigorous validation scheme based on spatiotemporally independent data. We demonstrate that our original calibration approach is not only feasible but necessary, given the amplitude of directional effects on raw forest reflectance – and the limited performances of MODIS-based correction models. The RTLS model, despite being originally developed for coarser resolutions, remains highly effective at S-2 scale, with mean relative percent absolute differences (MRPAD) reductions by up to 70% compared to uncorrected data, and by more than 50% on average compared to MODIS-derived BRDF parameters. Validation across continents confirmed the generalizability of the proposed coefficients. More than ten years after the launch of Sentinel-2, and as tropical forest monitoring becomes increasingly critical for climate and biodiversity applications, fully exploiting the sensor's spatial and spectral capabilities requires robust BRDF correction. To facilitate operational use, the proposed tools are distributed as both a Google Earth Engine script and an R package, enabling scalable and reproducible directional correction.",
       "keywords": [
         "Bidirectional reflectance distribution function",
         "Normalization (sociology)",
@@ -204,7 +285,7 @@
         21
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2671964",
-      "abstract": "",
+      "abstract": "This paper describes an approach to multiscale space-time varying coefficient modelling using Generalized Additive Models (GAMs). This builds on GAMs that have been previously used to generate spatially varying coefficients, but now extended to the temporal domain. However, for this space-time extension, a key consideration concerns model specification - i.e. how best to specify space and time in the GAM smooths. This depends on the nature of the space-time dependencies in the predictor-to-response variable relationships for a given dataset, where a key issue is how to relax assumptions about the presence of space-time dependencies that are found. For this study, multiple competing GAMs are created, with their space-time interactions specified in different ways for each predictor variable. A final GAM is found by the lowest AIC. The proposed approach is applied to simulated data and an empirical case study, where in both cases the best fitting GAM was found to out-perform Multiscale Geographically and Temporally Weighted Regression, a popular alternative. Model specification/selection for GAMs undertaken in this way provides insights into the nature of the space-time dependencies present in the data’s relationships, including the scale of these dependencies. The overall approach is novel and several areas of further work are identified.",
       "keywords": [
         "Work (physics)",
         "Stability (learning theory)",
@@ -228,7 +309,7 @@
         21
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2704882",
-      "abstract": "",
+      "abstract": "Existing methods for digital elevation model (DEM) super-resolution cannot stably generate high-resolution DEMs, especially when transferred to target (test) regions with significant terrain spatial heterogeneity compared to the source (training) region. To address this problem, we propose a geographical knowledge-guided transfer learning framework (GKTLF) for cross-regional DEM super-resolution. Specifically, a cross-regional transfer strategy was designed to preserve terrain features in the source region and extract terrain features from the target region. Additionally, a geographical feature guidance strategy was introduced to integrate geographical knowledge, including masked terrain skeleton lines and slope features. Finally, a terrain similarity measurement method was developed to quantify terrain spatial heterogeneity. The experimental results showed that the proposed GKTLF achieved superior performance over the baseline networks across four test regions in China. Compared to enhanced super-resolution generative adversarial networks (ESRGANs), the GKTLF-enhanced ESRGAN achieved improvements in accuracy of 35.8, 25.2, 19.7, and 4.6% with full-sample pre-training and 31.2, 26.5, 20.4, and 2.5% when only 40% of samples were pretrained across the four test regions. This study can help mitigate significant cross-regional terrain spatial heterogeneity and provide a valuable reference for related research.",
       "keywords": [
         "Transfer of learning",
         "Feature (linguistics)",
@@ -10672,29 +10753,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.017",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.017",
-      "title": "Towards robust disparity estimation in satellite stereo imagery: a new high-quality benchmark dataset and a metadata-informed multi-range geometric encoding network",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-24",
-      "published_date_display": "2026-03-24",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001310",
-      "abstract": "",
-      "keywords": [
-        "Benchmark (surveying)",
-        "Encoding (memory)",
-        "Satellite",
-        "Estimation",
-        "Stereo image"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.034",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.034",
       "title": "Leveraging “SWOT and a-priori information (SWAP)” constrained channel parameters for improved historical river discharge estimates from space",
@@ -11231,28 +11289,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.016",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.016",
-      "title": "MSENet: multi-task synergistic enhancement network for 3D building instance change detection",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-17",
-      "published_date_display": "2026-03-17",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001309",
-      "abstract": "",
-      "keywords": [
-        "Change detection",
-        "Field (mathematics)",
-        "Object detection",
-        "Key (lock)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2634789",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2634789",
       "title": "Worldmaking the Global Climate Order: Self-Determination, Reparative Politics, and Climate Justice in Small Island Developing States",
@@ -11573,30 +11609,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.010",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.010",
-      "title": "Ultra-high-resolution SAR and optical image registration: From global benchmark dataset to frequency-guided registration method",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-11",
-      "published_date_display": "2026-03-11",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001243",
-      "abstract": "",
-      "keywords": [
-        "Benchmark (surveying)",
-        "Synthetic aperture radar",
-        "Image registration",
-        "Image (mathematics)",
-        "Image processing",
-        "Pattern recognition (psychology)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.005",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.005",
       "title": "Partial points segmenter: A unified framework for partially category-supervised point cloud segmentation",
@@ -11638,29 +11650,6 @@
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001276",
       "abstract": "",
       "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115353",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115353",
-      "title": "A satellite-based approach for estimating runoff and river discharge in the Pan-Arctic region from 2003 to 2022",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-10",
-      "published_date_display": "2026-03-10",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001239",
-      "abstract": "This study presents daily, long-term (2003−2022) satellite-based estimates of river discharge and gridded runoff at 0.25° × 0.25° spatial resolution across the continental Pan-Arctic region. Satellite observations of precipitation from the Integrated Multi-satellite Retrievals (IMERG) for Global Precipitation Measurement (GPM), soil moisture and snow cover fraction from the European Space Agency's Climate Change Initiative (ESA CCI), and Terrestrial Water Storage Anomalies from satellite gravimetry are integrated into a conceptual hydrological model, STREAM, specifically adapted to simulate the hydrological regime of Pan-Arctic regions. The model is calibrated and validated using data from the 15 largest and best-monitored Arctic basins. It demonstrates high performance in reproducing daily river discharge observations, with a median Kling-Gupta Efficiency (KGE) of 0.83. To extend the model to ungauged regions, a regionalization approach based on similarities in basin climatic attributes is proposed, enabling the transfer of calibrated STREAM model parameters. When validated over 26 independent gauging stations, the regionalized river discharge estimates maintained acceptable accuracy, with a median KGE of 0.51. Using this framework, STREAM is applied across the continental Pan-Arctic region covering an area of 16.5 × 10 6 km 2 . The resulting spatially and temporally consistent runoff dataset, which can be used to complement more detailed process-based model estimates, enables the quantification of freshwater fluxes to the Arctic Ocean, estimated at 4760 ± 619 km 3 yr −1 . The results highlight the potential of satellite observations—particularly GRACE data—in supporting large-scale hydrological modelling and in reconstructing the Arctic freshwater cycle in data-scarce environments.",
-      "keywords": [
-        "Hydrology (agriculture)",
-        "Surface runoff",
-        "Discharge",
-        "Water discharge",
-        "Current (fluid)"
-      ]
     },
     {
       "doi": "10.1080/13658816.2026.2639623",
