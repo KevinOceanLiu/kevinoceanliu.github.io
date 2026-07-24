@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:11:23.796936+00:00",
+  "generated_at": "2026-07-24T23:16:19.037529+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -30,6 +30,57 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.landurbplan.2026.105755",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105755",
+      "title": "Beyond the buffer: an activity-based approach to heat exposure assessment",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001799",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102495",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102495",
+      "title": "GeoPandas: Fundamental data structures for vector spatial data in Python",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000979",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107435",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107435",
+      "title": "Smartwashing mobility: Governing smart mobility through urban imaginaries",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006670",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.cities.2026.107426",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107426",
@@ -62,6 +113,217 @@
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006517",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107433",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107433",
+      "title": "Integrated urban resilience strategies for water management and climate adaptation in Africa: A systematic review aligned with the SDGs",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006657",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107418",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107418",
+      "title": "Does fare-free public transport reduce social exclusion for older persons? Empirical evidence from Vietnam",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006505",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107409",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107409",
+      "title": "Deprivation and access to discount food supermarkets in England: A cross-sectional analysis",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006414",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107387",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107387",
+      "title": "Bridging digital divides: User-generated data and volunteered urban sensing for inclusive smart city governance",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006190",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107410",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107410",
+      "title": "Aesthetic preferences for traditional versus contemporary architecture: Cross-national evidence from real-world buildings",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006426",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00489-x",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00489-x",
+      "title": "Sacred sites as refuges for native plant diversity in an urbanized tropical landscape",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00489-x",
+      "abstract": "Abstract In fragmented and intensively managed remnant urban green spaces, enabling natural regeneration is crucial to sustain ecosystem functioning and associated services. Natural regeneration therefore offers an important lens into ecological resilience in human-modified landscapes. Here we present one of the most comprehensive field-based assessments of urban plant diversity in the Afrotropics, comprising over 25,000 naturally regenerating woody plant individuals of 206 species (39% native) across 329 vegetation patches in Antananarivo, Madagascar. Landscape-level native species diversity declined with greater building complexity, density and socio-economic development, whereas exotic species showed no consistent associations with determinants of urban characteristics. Native species richness was highest in ‘sacred’ forest fragments, many of which contain historic remains dating back to pre-colonial times. Notably, seven of the ten most species-rich patches were located in such sites. Our findings highlight the potentially important role of these sites in sustaining native species diversity and indicate how socio-cultural factors can present both opportunities and barriers for tropical urban conservation and restoration.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00475-3",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00475-3",
+      "title": "Energy system savings largely offset the costs of urban building energy efficiency improvements in China",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00475-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00478-0",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00478-0",
+      "title": "Effects of Uber and Lyft on jobs, wages and GDP",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00478-0",
+      "abstract": "Abstract Between 2010 and 2019, Uber and Lyft launched in hundreds of cities across the USA. Economic theory and prior literature, coupled with company claims, posit that ride-hailing increases job flexibility for drivers and mobility for passengers, thereby stimulating local economic activity. Here we test these claims by leveraging the staggered entry of Uber and Lyft across 167 service regions nationwide to estimate the aggregate effects on jobs, wages and regional GDP using difference-in-differences approaches that generate consistent estimates in the presence of heterogeneous treatment effects. We find that Uber and Lyft entry led to an increase in both regional GDP per capita and in seasonal, temporary or otherwise intermittent employment per working age population. We do not detect statistically significant effects on overall employment or earnings.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00474-4",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00474-4",
+      "title": "Divergent humidity-driven growth in urban air-conditioning energy demand under climate change",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00474-4",
+      "abstract": "Abstract Rapid urbanization and climate change are intensifying humid heat in cities, making air conditioning (AC) increasingly essential for both cooling and dehumidification. However, the evolving and spatially varied contribution of humidity to urban AC energy demand remains poorly understood, posing risks to climate-sensitive urban energy planning and building thermal design. Here, by coupling an updated urban building energy model with a global Earth system model, we project that urban dehumidification energy demand will rise by 47% globally under a high-emission scenario. Its contribution to total urban AC demand diverges markedly across regions owing to interacting changes in temperature and humidity that reshape city-specific building thermal design conditions. We further show that humidity amplifies the temperature sensitivity of urban AC demand across climate zones, leading to AC energy demand two to three times higher on humid days. These findings highlight the critical need to incorporate humidity dynamics into urban energy and infrastructure planning, particularly in rapidly urbanizing regions of the global south.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261466175",
+      "doi_url": "https://doi.org/10.1177/00420980261466175",
+      "title": "Urbanism and democratic volatility in India: The case of Amaravati",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        7,
+        23
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261466175",
+      "abstract": "This article examines how urban infrastructure is narratively constructed, disrupted and reassembled in electorally competitive subnational polity through a case study of Amaravati, the greenfield capital city project of Andhra Pradesh, India. Tracing its evolution across three political regimes (2014–2025), the study reveals how infrastructural projects are subject to symbolic volatility, shaped by shifting discourses of populist legitimacy and democratic contestation. Drawing on theories of infrastructural populism and narrative statecraft, the article introduces the concept of narrative reversibility to explain how capital cities function as ideological artefacts, repeatedly authored and un-authored through competing regimes of developmental meaning. Using discourse analysis of government orders, legislative records, party manifestos, media editorials and budget speeches, the study maps Amaravati’s trajectory across three phases: promise, fracture and resurrection. It finds that far from being a technocratic fix, urban infrastructure in Amaravati is continuously re-scripted to align with electoral mandates and ideological shifts.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261456915",
+      "doi_url": "https://doi.org/10.1177/00420980261456915",
+      "title": "Socio-geographic mobility and widespread zoning reform in Auckland",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        7,
+        23
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261456915",
+      "abstract": "We consider the relationship between upzoning and socio-geographic mobility in Auckland after a groundbreaking widespread zoning reform in 2016. Longitudinal data on individual residence are used to track post-reform migration between neighbourhoods of differing socio-economic advantage. Upzoned areas experienced more in-migration from lower socio-economic neighbourhoods and less in-migration from higher socio-economic neighbourhoods. These descriptive patterns persist in estimated regressions that control for unobserved heterogeneity in origin and destination neighbourhoods and conventional predictors of within-city migration. Regression results also show that upzoning is associated with less out-migration once these potential confounders are controlled for. These findings are consistent with Auckland’s zoning reform enabling households to move into more advantaged areas, indicating that zoning can be redesigned to support upwards socio-geographic mobility.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261463919",
+      "doi_url": "https://doi.org/10.1177/00420980261463919",
+      "title": "Aspirational urbanism and the symbolic influence of Singapore in Vietnam",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        7,
+        23
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261463919",
+      "abstract": "For many planning practitioners and policymakers, Singapore is framed as a model of efficient, growth-orientated urban development. Yet, efforts to take up Singapore-linked planning approaches and urban design are uneven and contested. In this article, we reconsider Singapore’s influence in urban planning and design through a critical lens of aspirational urbanism, using Hanoi, Vietnam, as a case study. We conceptualise aspirational urbanism through three linked approaches. First, we mobilise external models not only as technical templates or policy frameworks but also as normative ideologies and symbolic claims about desirable futures, including particular ways of producing cities and lifestyles. Second, we treat aspirational urbanism as being articulated through the discourses, practices, and strategies of multiple actors, including a hybridisation of city models. Third, we note that aspirational urbanism entails conjunctions and disjunctions between the urban agendas and planning practices of the countries brought into relation. Drawing on this framework, we analyse media articles and interviews with architecture and planning professionals involved in Hanoi’s recent urban projects, alongside interviews with residents of Singapore-designed residential developments in Hanoi. We show that, despite broad enthusiasm for green and smart city agendas and claims of ‘good’ governance, references to Singapore are selectively assembled and contested through project marketing and professional narratives. In practice, uptake in Hanoi is concentrated in high-end residential enclaves rather than broader or city-wide transformations. Singapore-referencing functions as a performative gesture and legitimising trope, mobilised by Vietnam’s state planners and private developers to justify elite and privatised development and to signal Hanoi’s world-class ambitions.",
       "keywords": []
     },
     {
@@ -8196,32 +8458,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107176",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107176",
-      "title": "Socioeconomic and spatial determinants of dynamic inductive power transfer energy system for charging electric vehicles: Evidence from New Zealand",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-20",
-      "published_date_display": "2026-05-20",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004087",
-      "abstract": "",
-      "keywords": [
-        "Socioeconomic status",
-        "Electrification",
-        "Electric vehicle",
-        "Equity (law)",
-        "Sustainable transport",
-        "Usability",
-        "Charging station",
-        "Willingness to pay"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261446447",
       "doi_url": "https://doi.org/10.1177/00420980261446447",
       "title": "The role of diasporic ties in alternative infrastructure: A case study of the Kurdish community center of Rome",
@@ -8402,28 +8638,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107229",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107229",
-      "title": "Effects of rapid urbanization on living satisfaction: Insights from a Black Sea city",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004610",
-      "abstract": "Coastal cities have experienced an increasingly extensive built-up development owing to the growth of tourism in recent decades. Property developers and local authorities have often prioritized the expansion of built-up areas, often overlooking the effects on the quality of life of residents and the additional management costs incurred. In this study, we examine how rapid housing development affects resident satisfaction in a new neighbourhood in Năvodari, a town that borders Constanța, the city that hosts the largest harbour in the Black Sea. We highlight the rapid pace of urban expansion using diachronic maps and assess residents' satisfaction with their new neighbourhoods through semi-structured surveys. Our results reveal that, although residents generally appreciate living in a seaside environment, they express considerable dissatisfaction with public amenities provision, planning policies, and the influx of tourists during the summer months. The study's findings demonstrate that attractive scenery can partially offset the challenges associated with high density. Nevertheless, this visual appeal cannot resolve the complex issues residents face daily. We hypothesise that, once the novelty of the landscape wears off, planning shortcomings may prompt inhabitants to reconsider their choice of residence, potentially leading to a decline in property values. Such insights may assist planners and policymakers in adopting more sustainable approaches to urban development.",
-      "keywords": [
-        "Urbanization",
-        "Black sea",
-        "Urban climate",
-        "Urban planning"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107149",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107149",
       "title": "Citizens' preferences for urban planning participation processes: A latent class analysis",
@@ -8526,32 +8740,6 @@
         "Civic engagement",
         "Dialectic",
         "Capital city"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107214",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107214",
-      "title": "Zoning and municipal capacity in protecting urban green spaces in Central and Eastern Europe",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-18",
-      "published_date_display": "2026-05-18",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004464",
-      "abstract": "",
-      "keywords": [
-        "Zoning",
-        "Enforcement",
-        "Investment (military)",
-        "Spatial planning",
-        "Law enforcement",
-        "Urban planning",
-        "Green belt",
-        "Capital (architecture)"
       ]
     },
     {
@@ -8935,29 +9123,6 @@
         "Environmental governance",
         "Urban planning",
         "Sustainable development"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107166",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107166",
-      "title": "Suicide rate under COVID-19's shadow: Spatiotemporal dynamics and environmental associations in Hong Kong",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-15",
-      "published_date_display": "2026-05-15",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003987",
-      "abstract": "As public health crises like COVID-19 exacerbate urban suicide risks, understanding their spatial and temporal dynamics and environment association mechanisms is increasingly critical in high-density metropolis. While existing research often examines isolated pandemic periods or limited environment factors, integrated spatiotemporal perspectives on suicide rates (SuR), particularly across full pandemic cycles, remain underexplored. This study addresses this gap by developing a multiscale framework to assess dynamics patterns of SuR during the pandemic and their associations with multidimensional urban environment factors in Hong Kong. Our approach integrates dynamic time warping (DTW) to detect temporal synchronization with confirmed cases, Getis-Ord Gi* for hotspot evolution, and geographically and temporally weighted regression to quantify varying associations across social, micro built, and macro built environment factors. Analysis reveals phased temporal patterns: synchronization in the first and fifth waves, driven by initial shock, mid-term social cohesion buffering, and late rebounds from cumulative stressors. Spatially, persistent hotspots in Kowloon contrasted with after-pandemic reconfiguration and emerging peripheral risks. Regression models highlighted dynamic heterogeneity, with micro built environment factors showing peak period sensitivity and functional reversal, protective global factors like residential density and POI diversity fostering buffering, and macro built environment factors related with functional zoning providing structural stability diluted by full cycle adaptation. These findings illuminate specific reshaping of environment-SuR linkages, providing planning insights for phased suicide prevention: early psychological support and transparency, midterm community cohesion and employment linked stability, and post peak enhancements in socioeconomic relief, mixed use accessibility, and restorative environments to enhance suicide prevention resilience of citizens during public health crisis.",
-      "keywords": [
-        "Dynamics (music)",
-        "Suicide rates",
-        "Poison control",
-        "Human factors and ergonomics",
-        "Mortality rate"
       ]
     },
     {
@@ -10098,53 +10263,6 @@
         "Financial market",
         "Scale (ratio)",
         "Financial integration"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107052",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107052",
-      "title": "Trapped by social discrimination or emotional fragility? A mixed-method analysis of ageing-in-place older widows' spatial exclusion in public rental housing",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-24",
-      "published_date_display": "2026-04-24",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126002842",
-      "abstract": "“Ageing in place” is a global strategy for managing demographic change, whilst its implementation in dense urban environments can confront spatial constraints. For older widows in public rental housing, intersecting disadvantages place them at a pronounced risk of spatial exclusion, yet the mechanisms driving this process remain underexplored. This paper develops and tests a theoretical model to explain the psychosocial pathways from personal vulnerabilities to spatial exclusion among this demographic. It examines how social discrimination and emotional fragility affect spatial exclusion in public rental housing. It employs a multiphase mixed-method design. The quantitative survey of 167 older widows was analysed using partial least squares structural equation modelling (PLS-SEM). These statistical results were explained through a narrative analysis of in-depth interviews with 24 older widows from one of the surveyed estates. Social discrimination is associated with spatial exclusion entirely through an indirect pathway: it is linked to subjective well-being, which is linked to social network formation and community identity; these diminished resources in turn weaken community attachment, the most powerful defence against exclusion. Emotional fragility operates through the same mediating chain, yet its total effect on spatial exclusion does not reach statistical significance owing to a partial countervailing buffer. Micro-aggressions and chronic grief deplete the psychological resources needed for social engagement, prompting strategic withdrawal from potentially hurtful encounters. Where sufficient well-being was maintained, low-intensity reciprocal exchanges fostered biographical community bonds that matured into deep place attachment, providing ontological security and a sense of entitlement to communal space that constituted the primary defence against exclusion. • Social discrimination and emotional fragility affect spatial exclusion. • Subjective well-being is the key mediator from vulnerability to exclusion. • Community attachment is the strongest protective factor against spatial exclusion. • Policy should prioritise well-being and facilitate community social capital.",
-      "keywords": [
-        "Rental housing",
-        "Public housing",
-        "Housing discrimination",
-        "Social exclusion",
-        "Employment discrimination",
-        "Renting",
-        "Racism"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107118",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107118",
-      "title": "The roles of mobility and functional non-ubiquity in regional transport inequality: A case study of Shanghai–Suzhou region",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-24",
-      "published_date_display": "2026-04-24",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003501",
-      "abstract": "",
-      "keywords": [
-        "Regional development",
-        "Current (fluid)",
-        "Key (lock)",
-        "Regional policy"
       ]
     },
     {
