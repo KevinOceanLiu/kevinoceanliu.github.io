@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:38:17.274982+00:00",
+  "generated_at": "2026-07-24T22:42:43.747481+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,96 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41561-026-02044-8",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02044-8",
+      "title": "Recent active rifting on Venus revealed by wide rift flank uplifts",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02044-8",
+      "abstract": "Abstract Rifts are prominent tectonic features on Venus, yet their formation, evolution and tectonic activity remain debatable. Here we conducted 3D numerical thermomechanical experiments with visco-elasto-plastic compressible rock rheology to systematically investigate the rifting dynamics and topography under Venusian conditions. To compare active and inactive rift morphologies, the relaxation of rift topography after extension ceases was also investigated. Our modelling results suggest a relatively thick thermal lithosphere and a strong crust with dry diabase or mafic granulite rheology in rifted regions and demonstrate that wide rift flank uplifts strongly indicate either presently ongoing Venusian rifting or activity within the past few tens of millions of years. The rift valleys in the Ganis, Dali and Devana Chasmata have wide rift flank uplifts, and their characteristic topographic features are comparable to the modelled early-stage active rifts undergoing relatively high extension rates of 3−10 cm yr −1 . This suggests that the Venus rifts in these regions are still active or were active very recently. Their morphology also indicates faster extension rates than commonly assumed for Venusian rifting, potentially associated with recent vigorous mantle plume activity.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02047-5",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02047-5",
+      "title": "Future tropical cyclone rainfall constrained by increased atmospheric dryness",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02047-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02720-y",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02720-y",
+      "title": "Tracking the status of global evidence",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02720-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02700-2",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02700-2",
+      "title": "Multi-century cooling after net-zero greenhouse gas emissions",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02700-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02708-8",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02708-8",
+      "title": "Less than net zero needed to stabilize climate",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02708-8",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41893-026-01899-4",
       "doi_url": "https://doi.org/10.1038/s41893-026-01899-4",
@@ -1592,6 +1682,23 @@
         "Population growth",
         "Food supply"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101778",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101778",
+      "title": "Nanoconfined single-atom catalysis enables long-lived hydroxyl radicals for low-cost, versatile on-site water purification",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-01",
+      "published_date_display": "2026-07",
+      "published_parts": [
+        2026,
+        7
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600179X",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101772",
