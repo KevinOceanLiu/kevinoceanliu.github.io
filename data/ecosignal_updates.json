@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:36:51.300465+00:00",
+  "generated_at": "2026-07-24T23:42:01.121111+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -221,6 +221,96 @@
         "Gene flow",
         "Flow (mathematics)"
       ]
+    },
+    {
+      "doi": "10.1038/s41559-026-03152-9",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03152-9",
+      "title": "Crested rat (Lophiomys imhausi)",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03152-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03148-5",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03148-5",
+      "title": "Alan M. Wilson (1964–2026)",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03148-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70993",
+      "doi_url": "https://doi.org/10.1111/gcb.70993",
+      "title": "Widespread Underestimation of Drought Impacts on River Ecosystems Due to Weak Experimental Designs",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70993",
+      "abstract": "ABSTRACT Hydrologic droughts are intensifying globally due to climate change and human water demand. Although a myriad of drought impacts on river ecosystems have been described, manipulative experiments on the topic have often yielded inconclusive or inconsistent results. Here, we investigated to what extent this inconsistency could be due to uncontrolled variation in methodological choices, or to variation in how different ecological endpoints respond to drought. To this end, we developed a meta‐analysis of 1284 effect sizes from 53 experiments, and estimated drought impacts on key variables of riverine biodiversity and ecosystem functioning. We evaluated study design (e.g., temporal vs. spatial focus, controls, treatment characteristics), focal ecosystem endpoint and variable type (i.e., quantity, structure, function), and level of biological organization studied. We found that methodological features strongly influenced the detectability and magnitude of the estimated drought effects, with Before‐After–Control‐Impact (BACI) designs reporting 2× stronger impacts than simpler designs. Effects differed among measures of quantity, structure, and function; and across ecosystem endpoints, with sensitivity to drought generally increasing with trophic position. Finally, for BACI designs, responses tended to be 1.5× weaker at higher levels of organization (ecosystem) relative to lower levels (population), suggesting an important role of compensatory dynamics and functional redundancy in absorbing drought impacts. Our findings confirm that drought degrades river ecosystem structure and functioning, but effect detectability and magnitude strongly depend on experimental choices and ecological focus. Although studies with replication over space and time (e.g., BACI) require more effort, we show that they are uniquely powerful in parsing out true drought effects from confounding effects of other time‐varying processes. We contend that embracing robust experimental designs that include spatio‐temporal controls and multiple levels of organization would vastly improve our ability to forecast ecological consequences of global change in river ecosystems.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70974",
+      "doi_url": "https://doi.org/10.1111/gcb.70974",
+      "title": "The Existence and Uniqueness of Solutions in the Leaf Photosynthesis‐Transpiration‐Stomatal Conductance Model for <scp>C3</scp> Plants",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70974",
+      "abstract": "ABSTRACT The leaf photosynthesis–transpiration–stomatal conductance model, which consistently describes leaf photosynthesis, transpiration, and stomatal conductance, has been widely used as a standard for quantifying these processes in terrestrial plants. However, since its proposal more than 30 years ago, the model has faced a fundamental mathematical problem: Does a solution always exist? And even if a solution is obtained, can it be guaranteed to be the correct one among potentially multiple mathematical solutions—that is, the one actually realized in nature? Here, we resolve this problem by mathematically proving that the model always yields a unique solution satisfying biologically and physically meaningful criteria. This result establishes a rigorous mathematical theorem on the existence and uniqueness of solutions in the model, thereby ruling out concerns about the non‐existence of solutions and ensuring that past and future estimates satisfying the criteria are correct. These findings provide a robust theoretical foundation for the model and have far‐reaching implications for a broad range of fields, spanning plant and ecosystem research to climate and Earth system studies.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71020",
+      "doi_url": "https://doi.org/10.1111/gcb.71020",
+      "title": "Climate Change Enhances the Success of Marine Invasive Species",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        7,
+        24
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71020",
+      "abstract": "ABSTRACT Climate change and invasive species both independently threaten marine biodiversity but can also interact. Invasive species often possess traits that not only promote their success in novel environments but may also confer resilience to climate‐driven ocean change, allowing them to respond favorably to a changing climate. Here, drawing on 67 studies across 30 non‐native species, we present moderate but consistent evidence that climate change enhances invasion success—particularly through increased abundance and establishment—across multiple temporal scales and ocean regions, while recognizing taxonomic and geographic biases in the available data. Even after accounting for moderators, unexplained heterogeneity remained among studies, suggesting strong context dependency in the effects of climate change on invasion success. Warming and extreme events emerged as key drivers of invasion success. We also identify ocean hotspots for invasions globally, with the cold and warm temperate Northwest Pacific emerging as major donor regions, and the Mediterranean Sea and Northern European Seas as primary recipient regions. Our study suggests that in the future, invasive species are likely to pose a greater threat to ocean biodiversity than previously thought, underscoring the urgent need for institutional capacity building, broader surveillance, predictive modelling, and adaptive management strategies across global marine ecosystems.",
+      "keywords": []
     },
     {
       "doi": "10.1038/s41559-026-03155-6",
@@ -18437,35 +18527,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70811",
-      "doi_url": "https://doi.org/10.1111/gcb.70811",
-      "title": "Mycorrhizal Type Defines Priming Effects in Organic and Mineral Forest Soils",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-27",
-      "published_date_display": "2026-03-27",
-      "published_parts": [
-        2026,
-        3,
-        27
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70811",
-      "abstract": "ABSTRACT Trees associated with arbuscular mycorrhizal (AM) or ectomycorrhizal (ECM) fungi create distinct soil environments that influence organic matter accumulation, decomposition, and persistence. As forest composition changes globally, understanding how shifts in mycorrhizal dominance affect soil carbon (C) cycling becomes increasingly important. Priming effects, where fresh C inputs alter the decomposition of existing soil organic matter, represent a critical but poorly understood mechanism, through which tree mycorrhizal associations may regulate soil C storage and loss. To address the role of mycorrhizal associations in regulating priming effects, we collected soils from forest plots differing in their dominance of mycorrhizal‐associated tree types in a subtropical forest and quantified priming effects with 13 C‐labeled glucose. In the organic topsoil, priming effects were positive, but strongly decreased (from 19 to 2.3 μg C g −1 soil after 28 days of incubation) as ECM trees became more dominant. This reduction was linked to higher particulate organic carbon, a greater fungal‐to‐bacterial ratio, and more genes for degrading recalcitrant C. Conversely, in the mineral subsoil, priming effects were generally negative, with AM‐dominated plots (−14 μg C g −1 soil) showing stronger negative priming than in ECM‐dominated plots (−3.2 μg C g −1 soil after 28 days of incubation). This is primarily because AM dominated soils have greater availability of mineral‐associated organic matter and nitrate content, as well as higher microbial carbon use efficiency. Tree mycorrhizal associations thus regulate priming effects through depth‐dependent changes in C stability, nitrogen availability, and microbial functional activity. We conclude that forecasting forest C dynamics in response to mycorrhizal compositional shifts must account for these soil depth‐specific mechanisms.",
-      "keywords": [
-        "Soil water",
-        "Soil organic matter",
-        "Dominance (genetics)",
-        "Soil carbon",
-        "Priming (agriculture)",
-        "Organic matter",
-        "Ecosystem",
-        "Tropical and subtropical moist broadleaf forests",
-        "Forest ecology",
-        "Mycorrhiza"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70805",
       "doi_url": "https://doi.org/10.1111/gcb.70805",
       "title": "Migrating in a Warming World: A Deep Learning Approach to Predict Pan‐American Seasonal Shifts in the Monarch Butterfly Niche",
@@ -18585,32 +18646,6 @@
         "Ecosystem",
         "Function (biology)",
         "Functional ecology"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70810",
-      "doi_url": "https://doi.org/10.1111/gcb.70810",
-      "title": "Increased <scp> CH <sub>4</sub> </scp> Oxidation in Arctic Tundra Ecosystems Caused by Vegetation‐Mediated Soil Drying",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        3,
-        26
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70810",
-      "abstract": "ABSTRACT Arctic tundra soils can act as an important sink for atmospheric methane (CH 4 ). However, the role and magnitude of this process, and how it will change during future climate scenarios, are poorly understood. The vegetation is changing with a warmer Arctic climate, with taller plants, more shrubs, and altered vegetation patterns. These changes are predicted to be strongest in moist to wet regions, areas usually associated with CH 4 production. Additionally, these changes in growth patterns can increase evapotranspiration rates, leading to enhanced soil aeration, favouring CH 4 oxidation. Here, we investigate CH 4 dynamics within long‐term (> 25 years) passive air warming treatments, using five plant communities with contrasting soil moisture and nutrient regimes. These treatments reveal a strong increase in atmospheric CH 4 oxidation in two dry ecosystems (140.4% ± 8.1% and 204.2% ± 19.3% for a Dry Heath and Dry Meadow, respectively), and a strong reduction of CH 4 emissions (91.2% ± 18.6%) in a Tussock Tundra community. In contrast, our investigation of Mesic and Wet Meadows showed no significant treatment effects, with only limited CH 4 exchange in the Wet Meadow. Furthermore, when inhibiting CH 4 oxidation in the surface soil, we found evidence of CH 4 production even at the driest site (Dry Heath), indicating a potential for CH 4 production throughout the landscape. Although soil temperature and moisture have been put forward as strong regulators of CH 4 fluxes, they did not consistently explain our observed changes. Instead, we argue for interactions between vegetation change and near‐surface soil characteristics. The observed shift in plant composition and increased vegetation height, along with warmer air temperatures, enhanced evapotranspiration and surface soil aeration, thereby stimulating methanotrophy and leading to increased CH 4 oxidation. This vegetation‐induced climate feedback would aid the predicted temperature‐dependent increase of CH 4 oxidation in the Arctic, potentially mediating CH 4 emissions from the region.",
-      "keywords": [
-        "Tundra",
-        "Sink (geography)",
-        "Vegetation (pathology)",
-        "Ecosystem",
-        "Soil water",
-        "Arctic vegetation",
-        "Climate change"
       ]
     },
     {
@@ -19189,33 +19224,6 @@
         "Interception",
         "Wildlife",
         "Hectare"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70755",
-      "doi_url": "https://doi.org/10.1111/gcb.70755",
-      "title": "Global Patterns of Niche Changes in Alien Mammals: Potential Drivers and Significance for Invasion Projections",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-20",
-      "published_date_display": "2026-03-20",
-      "published_parts": [
-        2026,
-        3,
-        20
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70755",
-      "abstract": "ABSTRACT Biological invasions are a major driver of global change, and prevention is the most effective mitigation strategy. Bioclimatic species distribution models (SDMs) are widely used to estimate invasion risk, assuming that species retain their realized native climatic niches after introduction. We tested this assumption for 194 alien mammal species established across 11 zoogeographic realms, examining realized niche changes, their drivers, and significance for invasion projections. We used a robust ordination framework to compare native and alien niches in 337 species‐by‐realm niche comparisons and quantify niche expansion, the proportion of the alien niche not overlapping with the native niche, and niche unfilling, the proportion of the native niche not overlapping with the alien niche. We then applied Generalized Linear Mixed Models (GLMMs) with multi‐model inference to test how species attributes, invasion history, and environmental context are associated with expansion and unfilling. Additionally, we evaluated the transferability of SDMs built on native presences to receiving regions using multiple metrics and used GLMMs to assess how niche changes may affect it. Niche expansion was rare and modest, whereas niche unfilling was common and pronounced. Niche expansion declined with increasing human disturbance, larger native range size, and introductions within similar communities, but increased with higher introduction effort. Niche unfilling decreased with greater introduction effort and longer residence time, but increased with alien insularity, human disturbance, and native range loss. SDM transferability was generally good, but it declined with niche expansion, as alien presences fell outside native‐like suitable areas, and with unfilling, because suitable areas remained unoccupied under colonization lags. Proactive management can rely on SDMs to anticipate future spread and should prioritize species showing high niche unfilling, indicating substantial spread potential, and any evidence of niche expansion, which makes spread harder to anticipate.",
-      "keywords": [
-        "Niche",
-        "Ecological niche",
-        "Alien",
-        "Environmental niche modelling",
-        "Range (aeronautics)",
-        "Context (archaeology)",
-        "Introduced species",
-        "Macroecology"
       ]
     },
     {
@@ -26010,34 +26018,6 @@
       "keywords": []
     },
     {
-      "doi": "10.1038/s41559-025-02958-3",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02958-3",
-      "title": "Projected human land-use pressures and natural habitat conversion risk within global terrestrial protected areas",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        1,
-        8
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02958-3",
-      "abstract": "",
-      "keywords": [
-        "Habitat",
-        "Biodiversity",
-        "Urbanization",
-        "Protected area",
-        "Habitat destruction",
-        "Global warming",
-        "Land use",
-        "Habitat conservation",
-        "Natural (archaeology)"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2745.70227",
       "doi_url": "https://doi.org/10.1111/1365-2745.70227",
       "title": "Setting the benchmark: Patterns of forest structure after wildfire in temperate, montane forests across a multi‐century chronosequence",
@@ -26090,24 +26070,6 @@
         "Scatter plot",
         "Scaling"
       ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02974-3",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02974-3",
-      "title": "Benefits beyond borders",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-07",
-      "published_date_display": "2026-01-07",
-      "published_parts": [
-        2026,
-        1,
-        7
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02974-3",
-      "abstract": "",
-      "keywords": []
     },
     {
       "doi": "10.1111/1365-2745.70230",
