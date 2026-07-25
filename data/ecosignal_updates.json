@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T23:42:01.121111+00:00",
+  "generated_at": "2026-07-25T23:42:08.638638+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -50,7 +50,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/741105",
-      "abstract": "",
+      "abstract": "AbstractThe outcome of an infection is determined by the dynamic interplay between microbial growth and host immunity. During a bacterial infection, bacteria killed by innate immune effectors can accumulate as corpses in the extracellular space, where they can continue to bind (and thus sequester) immune effectors. The impacts on infection outcomes of continued biochemical activity (\"sponginess\") by the dead have been generally overlooked in theoretical and empirical studies of within-host disease dynamics. We develop a mechanism-based mathematical model of within-host dynamics that incorporates host microbial sensing, the production of immune effectors, the interaction of those effectors with microbes, and shutdown of the immune response after an infection has been controlled. Corpse sponginess impedes the host's ability to control infection, but at the same time the rapid mopping up of effectors by bacterial corpses also protects host tissue against autoimmune self-harm from immune effectors still circulating after the infection has been resolved. This dual impact of bacterial sponginess alters the trade-off between damage done by infecting bacteria and autoimmune damage, consequently shifting the evolutionarily optimal immune activation and shutdown kinetics. Thus, the sponginess of bacterial corpses likely shapes both the short-term infection dynamics and the long-term evolution of immune systems.",
       "keywords": [
         "Innate immune system",
         "Dynamics (music)",
@@ -74,7 +74,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/741119",
-      "abstract": "",
+      "abstract": "and found that central eggs were more elongated while maintaining a width comparable to that of peripheral eggs. This positional variation in egg shape may allow females to compactly pack the clutch within the limited protective space beneath their bodies, minimizing the number of vulnerable peripheral eggs while allocating more resources to central eggs.",
       "keywords": [
         "Variation (astronomy)",
         "Shield",
@@ -121,7 +121,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/741059",
-      "abstract": "",
+      "abstract": ") was shaped by common or distinct gene expression patterns across populations distributed along an elevational gradient. In a laboratory acclimation experiment, I measured plasticity in skin resistance to water loss and metabolic rate and used transcriptomic analyses to identify the underlying molecular mechanisms. Plasticity in skin resistance to water loss did not vary with elevation, yet the expression of molecular pathways associated with this plasticity differed depending on elevational origin. Low-elevation populations also tended to exhibit greater independent regulation of metabolic rate, despite the constraints imposed by the trade-off between metabolic rate and skin resistance. These findings reveal a distinct phenomenon: geographic divergence in plasticity mechanisms, where similar plastic phenotypes emerge from different molecular pathways. Despite being similar in magnitude, plasticity in some populations may be locally adapted through alternative mechanisms that differ in their costs and benefits, complicating our ability to predict responses to environmental change.",
       "keywords": [
         "Environmental change",
         "Climate change",
@@ -164,7 +164,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/741159",
-      "abstract": "",
+      "abstract": "AbstractIn insectivorous birds the reproductive period often coincides with the spring development of vegetation, but whether there is a direct relationship between the two, and through which mechanisms this link could come about, is not clear. Trees release herbivore-induced plant volatiles (HIPVs) when they are attacked by insects, and we test here whether birds use those alarm odors to modulate their behaviors and their reproduction. Using a two-step experimental approach, we first show under controlled conditions that blue tits are attracted to HIPVs mimicking a caterpillar attack on downy oak buds in early spring without having to learn them. We then equipped nest boxes in the field with the same artificial HIPVs. We did not find that birds that built their nest in HIPV nest boxes advanced lay dates or produced larger clutches. However, although this result was not statistically significant, slightly more nest boxes equipped with HIPVs were occupied compared with control ones, resulting in significantly more eggs, nestlings, and fledglings introduced into the population from these treated nest boxes. Our results thus show that blue tits innately detect and track subtle plant olfactory signals, while the link with reproductive decisions appears more tenuous and requires further investigation. Such a link with reproduction is nevertheless in line with recent studies showing that HIPVs can stimulate the reproductive physiology of songbirds and highlights new multitrophic interactions across plants, insects, and birds, an encouraging area of study for understanding adaptations to a constantly changing environment.",
       "keywords": [
         "Reproduction",
         "Songbird",
@@ -188,7 +188,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/740891",
-      "abstract": "",
+      "abstract": "AbstractCharles Darwin established modern evolutionary biology with his insight that the engine of global biodiversity is fueled by individual differences inherent to all populations. One hundred and sixty-seven years later, the concepts and mechanisms that bridge this macro- to microevolutionary spectrum remain highly sought after. In this essay, we explore phenotypic evolution at the interface of micro- and macroevolution from the perspective of morphology-based systematics by addressing the hypothesis that intraspecific polymorphism can be phylogenetically conserved. We begin by setting a theoretical footing for this \"multispecies zone of polymorphism\" by synthesizing recent contributions from population biology and phylogenomics regarding the timescale of microevolutionary dynamics. Next, we derive from this hypothesis predictions that can be tested with broad-based phenotypic sampling and discuss how these predictions align with expected patterns of homoplasy. We then use paleontology and its unique sampling potential as a lens to examine how conserved polymorphism may be shaping macroevolutionary inferences and outline future work. These efforts emphasize that the micro-macro interface remains a critical yet understudied aspect of phenotypic evolution with potentially far-reaching implications. The benefits of resolving these dynamics extend well beyond the best practices of phylogenetic reconstruction, as they reflect the very nature of the micro-macroevolutionary dichotomy in evolutionary theory.",
       "keywords": [
         "Microevolution",
         "Macroevolution",
@@ -213,7 +213,7 @@
         1
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/741060",
-      "abstract": "",
+      "abstract": ", the Canadian shovel bug. We find increased genetic drift and inbreeding on the range edges and detect signatures of asymmetric migration toward the range center. The inferred directionality of migration is consistent with the direction of the dominant current regimes in the North Atlantic. We conclude that anisotropic dispersal toward the range center leaves progressively fewer migrants to replenish peripheral populations, consistent with the migration limitation hypothesis, and generates the appearance of an abundant center.",
       "keywords": [
         "Marine invertebrates",
         "Invertebrate",
@@ -221,6 +221,60 @@
         "Gene flow",
         "Flow (mathematics)"
       ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70407",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70407",
+      "title": "Get out of the starting block quickly—Small initial differences in seed and seedling size affect tree survival and growth over 25 years",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
+      "published_parts": [
+        2026,
+        7,
+        25
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70407",
+      "abstract": "Abstract In even‐aged tree stands, asymmetric competition for light usually leads to clear dominance structures. However, it is unclear whether the differences in individual tree size develop gradually or manifest themselves very early on, that is in the year of germination, and whether formerly suppressed trees can rise in rank while dominant trees fall. Using two experimental plots in which European beech ( Fagus sylvatica ) seeds were sown under the canopy of mature Norway spruce ( Picea abies ) trees in 1997, we studied the survival and height development of 2214 numbered seedlings on 324 subplots (0.5 m 2 in size) over a period of more than 25 years. We found that the survival probability of the tallest individuals at their seed site in the year of germination was significantly higher than that of smaller plants. We further found that these early dominance structures became increasingly consolidated over the years, reducing the mortality risk of the dominant trees. In a supplementary seed experiment, we showed that the height growth and biomass production of seedlings achieved in the first vegetation period depended largely on seed mass. Synthesis . Our study illustrates how intense intraspecific competition processes operate at very early developmental stages among even‐aged tree cohorts, following the general pattern of self‐thinning. We showed that the underlying dominance structures develop surprisingly early and that they persist. Our study also clearly indicates that dominance reversal, that is the fall of formerly dominant trees to lower ranks and the rise of formerly suppressed trees to the dominant layer, occurs infrequently, at least in the first 25 years of an even‐aged cohort.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70406",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70406",
+      "title": "Experimental evidence that seed availability and microsite conditions influence post‐fire seedling recruitment",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
+      "published_parts": [
+        2026,
+        7,
+        25
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70406",
+      "abstract": "Abstract In many historically fire‐dependent ecosystems, the abundance of newly emerged seedlings increases after fire. Greater post‐fire seedling recruitment has been widely attributed to environmental conditions that promote seedling emergence (i.e. seeds germinate and exhibit above‐ground growth) and post‐emergence survival. However, fire increases flowering and seed production in many species making it difficult to assess the extent to which post‐fire seedling abundance reflects microsite conditions versus seed availability. Experimental manipulation of seed inputs can elucidate how seed availability versus microsite conditions contribute to post‐fire seedling abundance. We experimentally manipulated years since fire across 36 patches of remnant tallgrass prairie within an agriculturally fragmented 6400 ha landscape in western Minnesota (USA). Over 2 years, we sowed 10,962 Echinacea angustifolia (Asteraceae) seeds across 84 randomly placed transects. We then located and tracked the 974 newly emerged seedlings to evaluate how time since fire influenced seedling emergence and survival after controlling for variation in seed inputs. We also evaluated the association between six environmental covariates and seedling emergence and survival. Fire influenced both seedling emergence and survival between spring emergence and late summer. Seedlings emerged from approximately 1% of all seeds sown prior to experimental burns while seeds sown 1 year after experimental burns emerged at more than 10 times this rate. Emergence rates then declined as years since fire increased. Sowing seeds at high densities reduced rates of seedling emergence but nonetheless increased overall seedling abundance. Increases in litter depth were associated with reduced emergence. Meanwhile, the probability that seedlings survived to late summer was greatest 0 or 1 years after fire. The probability of seedling survival decreased with litter depth and increased with the local density of conspecific seedlings. Synthesis . Our experiment demonstrates that fire enhances seedling recruitment by generating microsite conditions that favour seedling emergence and survival. Nevertheless, seedling abundance also increased with seed inputs, suggesting that both seed availability and microsite conditions influence post‐fire seedling recruitment. Experiments like ours that explicitly discriminate between seed‐ and microsite‐limitation of recruitment are crucial for revealing processes that influence plant demographic responses to fire in many historically fire‐dependent ecosystems.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71015",
+      "doi_url": "https://doi.org/10.1111/gcb.71015",
+      "title": "Nest Monitoring of Tropical Bird Species Offers a Window Into the Mechanisms of Anthropogenic Change",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
+      "published_parts": [
+        2026,
+        7,
+        25
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71015",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1038/s41559-026-03152-9",
@@ -238,7 +292,12 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03152-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Cave",
+        "Desert (philosophy)",
+        "Mammal",
+        "Life history"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03148-5",
@@ -256,7 +315,11 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03148-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Field (mathematics)",
+        "Key (lock)",
+        "Natural (archaeology)"
+      ]
     },
     {
       "doi": "10.1111/gcb.70993",
@@ -274,7 +337,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70993",
       "abstract": "ABSTRACT Hydrologic droughts are intensifying globally due to climate change and human water demand. Although a myriad of drought impacts on river ecosystems have been described, manipulative experiments on the topic have often yielded inconclusive or inconsistent results. Here, we investigated to what extent this inconsistency could be due to uncontrolled variation in methodological choices, or to variation in how different ecological endpoints respond to drought. To this end, we developed a meta‐analysis of 1284 effect sizes from 53 experiments, and estimated drought impacts on key variables of riverine biodiversity and ecosystem functioning. We evaluated study design (e.g., temporal vs. spatial focus, controls, treatment characteristics), focal ecosystem endpoint and variable type (i.e., quantity, structure, function), and level of biological organization studied. We found that methodological features strongly influenced the detectability and magnitude of the estimated drought effects, with Before‐After–Control‐Impact (BACI) designs reporting 2× stronger impacts than simpler designs. Effects differed among measures of quantity, structure, and function; and across ecosystem endpoints, with sensitivity to drought generally increasing with trophic position. Finally, for BACI designs, responses tended to be 1.5× weaker at higher levels of organization (ecosystem) relative to lower levels (population), suggesting an important role of compensatory dynamics and functional redundancy in absorbing drought impacts. Our findings confirm that drought degrades river ecosystem structure and functioning, but effect detectability and magnitude strongly depend on experimental choices and ecological focus. Although studies with replication over space and time (e.g., BACI) require more effort, we show that they are uniquely powerful in parsing out true drought effects from confounding effects of other time‐varying processes. We contend that embracing robust experimental designs that include spatio‐temporal controls and multiple levels of organization would vastly improve our ability to forecast ecological consequences of global change in river ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Ecosystem",
+        "Biodiversity",
+        "Climate change",
+        "Trophic level",
+        "Ecohydrology",
+        "Spatial variability",
+        "Temporal scales"
+      ]
     },
     {
       "doi": "10.1111/gcb.70974",
@@ -292,7 +363,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70974",
       "abstract": "ABSTRACT The leaf photosynthesis–transpiration–stomatal conductance model, which consistently describes leaf photosynthesis, transpiration, and stomatal conductance, has been widely used as a standard for quantifying these processes in terrestrial plants. However, since its proposal more than 30 years ago, the model has faced a fundamental mathematical problem: Does a solution always exist? And even if a solution is obtained, can it be guaranteed to be the correct one among potentially multiple mathematical solutions—that is, the one actually realized in nature? Here, we resolve this problem by mathematically proving that the model always yields a unique solution satisfying biologically and physically meaningful criteria. This result establishes a rigorous mathematical theorem on the existence and uniqueness of solutions in the model, thereby ruling out concerns about the non‐existence of solutions and ensuring that past and future estimates satisfying the criteria are correct. These findings provide a robust theoretical foundation for the model and have far‐reaching implications for a broad range of fields, spanning plant and ecosystem research to climate and Earth system studies.",
-      "keywords": []
+      "keywords": [
+        "Uniqueness",
+        "Range (aeronautics)",
+        "Mathematical model",
+        "Conductance",
+        "Mathematical structure",
+        "Ecosystem",
+        "Foundation (evidence)",
+        "Weak solution"
+      ]
     },
     {
       "doi": "10.1111/gcb.71020",
@@ -310,7 +390,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71020",
       "abstract": "ABSTRACT Climate change and invasive species both independently threaten marine biodiversity but can also interact. Invasive species often possess traits that not only promote their success in novel environments but may also confer resilience to climate‐driven ocean change, allowing them to respond favorably to a changing climate. Here, drawing on 67 studies across 30 non‐native species, we present moderate but consistent evidence that climate change enhances invasion success—particularly through increased abundance and establishment—across multiple temporal scales and ocean regions, while recognizing taxonomic and geographic biases in the available data. Even after accounting for moderators, unexplained heterogeneity remained among studies, suggesting strong context dependency in the effects of climate change on invasion success. Warming and extreme events emerged as key drivers of invasion success. We also identify ocean hotspots for invasions globally, with the cold and warm temperate Northwest Pacific emerging as major donor regions, and the Mediterranean Sea and Northern European Seas as primary recipient regions. Our study suggests that in the future, invasive species are likely to pose a greater threat to ocean biodiversity than previously thought, underscoring the urgent need for institutional capacity building, broader surveillance, predictive modelling, and adaptive management strategies across global marine ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Biodiversity",
+        "Invasive species",
+        "Context (archaeology)",
+        "Global change",
+        "Effects of global warming on oceans",
+        "Temperate climate",
+        "Psychological resilience",
+        "Mediterranean climate"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03155-6",
@@ -328,7 +418,9 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03155-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Natural (archaeology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70486",
@@ -346,7 +438,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70486",
       "abstract": "Abstract In general, trees suffer less damage by insect herbivores when growing in forest mixtures than in tree monocultures. Yet, most current knowledge is based on responses of native herbivores to tree diversity. Since introduced insect herbivores differ from native ones in their biotic interactions, their sensitivity to tree diversity is uncertain. We measured the damage caused by 11 non‐native herbivorous insects in monospecific and mixed forest stands in Europe. We merged these data with the results of published studies on native insects in temperate forests and applied a meta‐analytic approach to compare the effects of tree diversity on native vs. non‐native insect herbivores. We found that the damage by non‐native pest insects was reduced in mixed forest stands, that is associational resistance. The magnitude of this resistance was comparable to that measured for native herbivores. Associational resistance increased with increasing proportion of non‐host trees in the mixed forest. These results suggest that promoting mixed forests could be an effective strategy to attenuate the impact of invasion by non‐native forest pests.",
-      "keywords": []
+      "keywords": [
+        "Herbivore",
+        "Temperate climate",
+        "Temperate rainforest",
+        "Insect",
+        "Temperate forest",
+        "Ecology",
+        "Geography",
+        "Biology",
+        "Agroforestry",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/gcb.71018",
@@ -364,7 +467,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71018",
       "abstract": "ABSTRACT The Amazon rainforest is a key component of the Earth system, regulating regional climate, sustaining high biodiversity and carbon stocks. However, it is threatened by climate and land‐use changes. In recent decades, the region has experienced intensified droughts and heatwaves, trends expected to worsen under future warming. In this study, we assess how the timing, length, and spatial distribution of the dry season across the Amazon is projected to change this century under different Shared Socioeconomic Pathways. Using a multi‐model ensemble of the Coupled Model Intercomparison Project (CMIP6) weighted according to their RMSE performance, we estimate monthly water balance based on precipitation and evapotranspiration from 2000 to 2100. We calculated dry season onset, end, and length from accumulated water deficits, providing a spatially explicit characterization of seasonal dynamics. We find a significant lengthening of the dry season in 35% of the basin under low‐emission scenarios (SSP1‐2.6) and up to 56% under high‐emission scenarios (SSP5‐8.5), with increases of up to 2 months in the southern and eastern Amazon by 2100. Such changes pose major risks for forest degradation, regional water availability, and climate feedback, potentially reducing the biome's role as a carbon sink. With such large changes even under low emission, our findings demonstrate the urgent need for spatially targeted climate adaptation strategies and mitigation policies that consider future changes in seasonal water availability. While such strategies are essential to enhance societal resilience, safeguarding forest ecosystems and preserving Amazonian hydrological functions ultimately depend on ambitious efforts to reduce greenhouse gas emissions. These actions are essential not only for local and regional sustainability but also for global climate stability.",
-      "keywords": []
+      "keywords": [
+        "Amazon rainforest",
+        "Dry season",
+        "Climate change",
+        "Evapotranspiration",
+        "Water balance",
+        "Greenhouse gas",
+        "Biodiversity",
+        "Wet season",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1086/743269",
@@ -18691,33 +18804,6 @@
         "Species distribution",
         "Species richness",
         "Conservation genetics"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70788",
-      "doi_url": "https://doi.org/10.1111/gcb.70788",
-      "title": "Fostering Peat Moss Feedbacks to Accelerate Peatland Restoration",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-25",
-      "published_date_display": "2026-03-25",
-      "published_parts": [
-        2026,
-        3,
-        25
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70788",
-      "abstract": "ABSTRACT Extensive knowledge exists on plant‐species traits and functions, but we understand less about how population‐ or community‐level emergent traits influence ecosystem functioning. This knowledge gap is important for ecosystems like peatlands, arid drylands, salt marshes, seagrass meadows, and mangroves, where emergent traits of plant communities can create plant‐environment feedbacks that amplify or dampen ecosystem processes. Recent insights from restoration ecology suggest that these feedbacks can critically influence restoration success. Despite growing recognition of emergent trait‐driven feedbacks in other ecosystems, they remain underexplored in peatland restoration, the world's most carbon‐dense ecosystem. Here, we review emergent self‐amplifying and self‐dampening feedbacks with net positive effects for peat moss‐dominated systems. We show how these feedbacks can promote key physical, chemical, and biological processes that enhance peat moss growth, increase water retention, and reduce microbial decomposition of organic matter. Understanding and fostering these feedbacks offers a promising framework to accelerate peatland restoration across diverse degradation states.",
-      "keywords": [
-        "Peat",
-        "Ecosystem",
-        "Novel ecosystem",
-        "Seagrass",
-        "Arid",
-        "Restoration ecology",
-        "Moss",
-        "Alternative stable state"
       ]
     },
     {
