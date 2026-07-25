@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T23:16:19.037529+00:00",
+  "generated_at": "2026-07-25T23:12:46.427522+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,26 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105755",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105755",
-      "title": "Beyond the buffer: an activity-based approach to heat exposure assessment",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001799",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.compenvurbsys.2026.102495",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102495",
-      "title": "GeoPandas: Fundamental data structures for vector spatial data in Python",
+      "doi": "10.1016/j.compenvurbsys.2026.102494",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102494",
+      "title": "Interpretable mapping of fine-grained urban building functions from street-view images using foundation models",
       "journal_id": "computers-environment-urban-systems",
       "journal_name": "Computers, Environment and Urban Systems",
       "journal_short_name": "Computers, Environment and Urban Systems",
@@ -60,14 +43,31 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000979",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000967",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107435",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107435",
-      "title": "Smartwashing mobility: Governing smart mobility through urban imaginaries",
+      "doi": "10.1016/j.compenvurbsys.2026.102493",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102493",
+      "title": "Deep learning reveals cross-platform consistency in street view imagery for urban perception mapping",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000955",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107289",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107289",
+      "title": "Urbanization and housing market dynamics in Türkiye's reclassified cities after the metropolitan reform: Quantile-based insights",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -77,14 +77,14 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006670",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005214",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107426",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107426",
-      "title": "Khulna: A climate-vulnerable post-industrial city in transition—Decline or revival?",
+      "doi": "10.1016/j.cities.2026.107413",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107413",
+      "title": "Telework and residential location: Evidence from a stated-preference experiment in the Lisbon Metropolitan Area",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -94,14 +94,14 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600658X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006451",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107419",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107419",
-      "title": "It's hard to live in a tourist city: Explaining residents' responses to tourism pressure through stress and self-efficacy",
+      "doi": "10.1016/j.cities.2026.107415",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107415",
+      "title": "Local practices addressing migrants' housing precarity: Evidence from the Veneto Region, Italy",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -111,14 +111,14 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006517",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006475",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107433",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107433",
-      "title": "Integrated urban resilience strategies for water management and climate adaptation in Africa: A systematic review aligned with the SDGs",
+      "doi": "10.1016/j.cities.2026.107338",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107338",
+      "title": "15-Minute City and beyond: Linking local and regional accessibility with urban vitality",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -128,77 +128,132 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006657",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005706",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107418",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107418",
-      "title": "Does fare-free public transport reduce social exclusion for older persons? Empirical evidence from Vietnam",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "doi": "10.1177/00420980261465538",
+      "doi_url": "https://doi.org/10.1177/00420980261465538",
+      "title": "“The market is about relying on each other”: The temporality of solidarity at the Fatih Çarşamba street market in Istanbul",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
       "published_parts": [
         2026,
-        12
+        7,
+        25
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006505",
-      "abstract": "",
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261465538",
+      "abstract": "Street markets are specific relational urban settings, with rhythms of their own. This article addresses what sort of solidarities the fleeting relations of traders on street markets may generate. We expand Oosterlynk’s concept of place-based solidarity to explore street vendors practices in the street market as constituting two forms of solidarity following from the spatiality and temporality of the setting: unplanned solidarity that is anticipated based on shared experiences that suggest a ‘mandatory’ moral commitment to the future, but remains ambiguous, and calculated solidarity, where traders expect transactional trust out of instrumental logics. The case of Fatih Çarşamba Market (FÇM) in Istanbul, Türkiye, helps to theorise how both such solidarities follow as moral by-products of everyday interactions in a public space where agents ritualise and institutionalise or ‘make’ the ‘market’ as a place . Drawing on ethnographic fieldwork and in-depth interviews with street vendors, we show that while these solidarities advance economic resources, they are moral in how they come about. The market’s temporality makes some of them unplanned, but they are not just products of casually fleeting relations.",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107409",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107409",
-      "title": "Deprivation and access to discount food supermarkets in England: A cross-sectional analysis",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "doi": "10.1177/00420980261465572",
+      "doi_url": "https://doi.org/10.1177/00420980261465572",
+      "title": "State-led age-friendly urbanism in non-Western contexts: Evidence from transitional communities in Fujian, China",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
       "published_parts": [
         2026,
-        12
+        7,
+        25
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006414",
-      "abstract": "",
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261465572",
+      "abstract": "In 2020, China launched its national Age-friendly Community Assessment Programme, aiming to certify 5000 communities by 2025 and potentially reaching over 50 million people. However, how these state-led objectives are translated into community-level realities remains underexamined, particularly in transitional communities ( guoduxing shequ ), hybrid urban forms emerging from rural–urban integration. Drawing on six case studies from Fujian Province, this article adopts an integrated framework combining multi-scalar governance theory and actor-network theory to analyse the situated enactment of age-friendly policies. Findings reveal three distinct models: (1) intergenerational integration, fostering cross-age interaction through shared space; (2) residential eldercare, delivering services in repurposed collective facilities; and (3) mutual-aid eldercare, activating peer support and local networks. These models demonstrate how national policies are adapted through institutional layering, actor mobilisation and cultural translation. Despite these innovations, the study also reveals critical constraints. Highly standardised assessment criteria and quota-based certification mechanisms often marginalise locally effective but unrecognised initiatives, particularly in communities with limited administrative leverage. Moreover, rigid top-down planning can delay or undermine implementation when it fails to account for on-the-ground realities. By conceptualising transitional communities as sites of both governance experimentation and structural tension, this research advances global debates on age-friendly urbanism beyond Western contexts. It highlights the need for more flexible, inclusive policy frameworks that recognise social heterogeneity, support grassroots agency and value plural trajectories towards age-friendliness.",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107387",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107387",
-      "title": "Bridging digital divides: User-generated data and volunteered urban sensing for inclusive smart city governance",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "doi": "10.1177/00420980261465235",
+      "doi_url": "https://doi.org/10.1177/00420980261465235",
+      "title": "Incorporating dignity in urban mobility justice: Moral emotions and injustice in Blackburn, UK",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
       "published_parts": [
         2026,
-        12
+        7,
+        25
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006190",
-      "abstract": "",
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261465235",
+      "abstract": "Debates on transport and mobility justice would be enriched by a more thorough and critical engagement with dignity. As dignity is a complex, contested and multi-faceted concept which has been theorised across multiple disciplines, its various dimensions and their applications to urban mobility justice frameworks require gradual unpacking. In this article we focus on one dimension: the tension between externally defined notions of dignity, presented as universal criteria to be fulfilled for a ‘threshold’ of justice to be met; and a relational and situated notion of dignity, grounded in moral emotions. We understand moral emotions as emerging between people as a result of someone (in this case, transport users) being treated in particular ways. We argue that, similarly to dominant understandings of urban mobility justice, a universalist and seemingly objective definition of dignit`y risks imposing rigid framings on marginalised groups, erasing their own experiences and perspectives, and thus the possibility of them substantively shaping policy and planning decisions. A dignity framework presents an opportunity to feature the moral emotions of transport users, and particularly those who are marginalised on the basis of income, disability, gender and race/ethnicity, among others, more prominently in urban mobility justice. This is especially relevant in the context of transport modes such as urban buses, a historically under-funded and stigmatised mode of transport. Drawing on data gathered through focus group discussions and analysed inductively, we develop these ideas based on experiences of people living in and around Blackburn, an urban area in the North-West of England, UK.",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107410",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107410",
-      "title": "Aesthetic preferences for traditional versus contemporary architecture: Cross-national evidence from real-world buildings",
+      "doi": "10.1016/j.cities.2026.107428",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107428",
+      "title": "Sex and the city: A spatial analysis of shifting attitudes toward gay rights",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
       "published_parts": [
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006426",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006608",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Gay rights",
+        "Homosexuality",
+        "Spatial mismatch",
+        "Human rights"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107429",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107429",
+      "title": "Impact of nature connectedness on loneliness among university students living away from home: The mediating roles of meaningfulness, peace of mind, and resilience",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600661X",
+      "abstract": "",
+      "keywords": [
+        "Loneliness",
+        "Social connectedness",
+        "Resilience (materials science)",
+        "Psychological resilience",
+        "Belongingness"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107414",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107414",
+      "title": "Framing artificial intelligence as a policy instrument in urban climate action: Practitioners' perspectives from Paris",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006463",
+      "abstract": "",
+      "keywords": [
+        "Framing (construction)",
+        "Climate change",
+        "Climate policy",
+        "Urban policy",
+        "Frame problem",
+        "Urban climate"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00489-x",
@@ -216,7 +271,17 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00489-x",
       "abstract": "Abstract In fragmented and intensively managed remnant urban green spaces, enabling natural regeneration is crucial to sustain ecosystem functioning and associated services. Natural regeneration therefore offers an important lens into ecological resilience in human-modified landscapes. Here we present one of the most comprehensive field-based assessments of urban plant diversity in the Afrotropics, comprising over 25,000 naturally regenerating woody plant individuals of 206 species (39% native) across 329 vegetation patches in Antananarivo, Madagascar. Landscape-level native species diversity declined with greater building complexity, density and socio-economic development, whereas exotic species showed no consistent associations with determinants of urban characteristics. Native species richness was highest in ‘sacred’ forest fragments, many of which contain historic remains dating back to pre-colonial times. Notably, seven of the ten most species-rich patches were located in such sites. Our findings highlight the potentially important role of these sites in sustaining native species diversity and indicate how socio-cultural factors can present both opportunities and barriers for tropical urban conservation and restoration.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Native plant",
+        "Introduced species",
+        "Vegetation (pathology)",
+        "Urban ecosystem",
+        "Urban ecology",
+        "Ecosystem",
+        "Species diversity",
+        "Diversity (politics)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00475-3",
@@ -234,7 +299,17 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00475-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Efficient energy use",
+        "Capital cost",
+        "Incentive",
+        "Offset (computer science)",
+        "Stock (firearms)",
+        "Investment (military)",
+        "Cost–benefit analysis",
+        "Building envelope",
+        "Electricity"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00478-0",
@@ -252,7 +327,14 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00478-0",
       "abstract": "Abstract Between 2010 and 2019, Uber and Lyft launched in hundreds of cities across the USA. Economic theory and prior literature, coupled with company claims, posit that ride-hailing increases job flexibility for drivers and mobility for passengers, thereby stimulating local economic activity. Here we test these claims by leveraging the staggered entry of Uber and Lyft across 167 service regions nationwide to estimate the aggregate effects on jobs, wages and regional GDP using difference-in-differences approaches that generate consistent estimates in the presence of heterogeneous treatment effects. We find that Uber and Lyft entry led to an increase in both regional GDP per capita and in seasonal, temporary or otherwise intermittent employment per working age population. We do not detect statistically significant effects on overall employment or earnings.",
-      "keywords": []
+      "keywords": [
+        "Per capita",
+        "Flexibility (engineering)",
+        "Real gross domestic product",
+        "Aggregate data",
+        "Real wages",
+        "Difference in differences"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00474-4",
@@ -270,7 +352,216 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00474-4",
       "abstract": "Abstract Rapid urbanization and climate change are intensifying humid heat in cities, making air conditioning (AC) increasingly essential for both cooling and dehumidification. However, the evolving and spatially varied contribution of humidity to urban AC energy demand remains poorly understood, posing risks to climate-sensitive urban energy planning and building thermal design. Here, by coupling an updated urban building energy model with a global Earth system model, we project that urban dehumidification energy demand will rise by 47% globally under a high-emission scenario. Its contribution to total urban AC demand diverges markedly across regions owing to interacting changes in temperature and humidity that reshape city-specific building thermal design conditions. We further show that humidity amplifies the temperature sensitivity of urban AC demand across climate zones, leading to AC energy demand two to three times higher on humid days. These findings highlight the critical need to incorporate humidity dynamics into urban energy and infrastructure planning, particularly in rapidly urbanizing regions of the global south.",
-      "keywords": []
+      "keywords": [
+        "Urbanization",
+        "Urban climate",
+        "Climate change",
+        "Humidity",
+        "Energy demand",
+        "Urban heat island",
+        "Air conditioning",
+        "Thermal comfort",
+        "Energy (signal processing)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105755",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105755",
+      "title": "Beyond the buffer: an activity-based approach to heat exposure assessment",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001799",
+      "abstract": "Due to the global climate crisis, heatwaves will become more frequent and severe in the future, leading to direct and indirect negative health effects. Heat affects places differently, as a result of built environment characteristics, which lead to different outdoor microclimates. This makes it important to assess in what locations people are most exposed to heat. Existing approaches assess this exposure mostly based on residence-based buffers or administrative units, which comes with contextual uncertainties, since it is not known to what extent hot or cool locations are actually traversed by residents. This is relevant because microclimates are highly local, which may make area-based assessments inaccurate. This paper therefore proposes and develops a different method, focusing on routes from residences to daily destinations. Results show that the microclimate in buffers or neighbourhoods is only moderately related to this activity-based heat exposure metric. The presence of green infrastructure within a buffer is related to the relative difference between the two exposure metrics: if an area is greener, activity-based exposure is relatively underestimated, and vice versa. A possible reason for this is that green space is often not traversed by routes to daily amenities. The results of this paper can be used to more carefully prioritize interventions that improve protection from hot microclimates, specifically by providing cooling in locations traversed by a large number of people.",
+      "keywords": [
+        "Microclimate",
+        "Urban heat island",
+        "Extreme heat",
+        "Exposure assessment",
+        "Climate change",
+        "Global warming",
+        "Multiple exposure"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102495",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102495",
+      "title": "GeoPandas: Fundamental data structures for vector spatial data in Python",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000979",
+      "abstract": "Spatial analysis depends upon accessible, flexible tools. As a leading language for data science, Python requires reliable packages to handle complex geospatial tasks effectively. This article presents GeoPandas, a package providing a high-level, user-friendly API that extends standard pandas data structures to support vector geometries, simplifying spatial data handling for a broad scientific audience. The package is built around three core data structures (GeometryArray, GeoSeries, and GeoDataFrame) that unify geometric operations and tabular data management. It achieves performance and scalability by wrapping fast, compiled libraries—handling geometry operations, coordinate transformations, and file reading and writing—behind a Pythonic interface. Over its ten-year history, GeoPandas has evolved from a single package to a cornerstone of geospatial analysis in Python, anchoring a broader ecosystem of tools. Thousands of downstream projects rely upon GeoPandas, spanning scientific fields from Earth observation and climate modelling to urban analytics and epidemiology. This article provides an overview of the package's history, design, social and technical infrastructure, and future plans. By making spatial analysis more accessible with a standard open-source toolset, GeoPandas democratises access to spatial analysis, facilitates reproducibility, and accelerates scientific discovery.",
+      "keywords": [
+        "Geospatial analysis",
+        "Python (programming language)",
+        "Scalability",
+        "Data structure",
+        "Spatial analysis",
+        "Analytics",
+        "Euclidean vector",
+        "Scripting language",
+        "File format"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107435",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107435",
+      "title": "Smartwashing mobility: Governing smart mobility through urban imaginaries",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006670",
+      "abstract": "Visions of the smart city have become increasingly influential in guiding contemporary urban governance, particularly within the domain of mobility, where digital technologies and data-driven systems are expected to enable more sustainable and efficient transport systems. While existing research has highlighted the role of sociotechnical imaginaries in shaping smart city agendas, less attention has been given to how such visions are enacted and made consequential within everyday governance practices. This paper addresses this gap by examining how smart mobility initiatives derive value through their association with dominant imaginaries of smart urban futures. Empirically, the paper analyses four initiatives in Stavanger (Norway) and Gothenburg (Sweden). Drawing on literature on sociotechnical imaginaries and smart urbanism, we conceptualise smartwashing as the process through which initiatives selectively mobilise dominant visions of smartness to enhance legitimacy and political viability. Adopting a project-level perspective, we find that smart mobility projects derive value through interrelated processes of articulating projects through narratives of smartness, mobilising these narratives to advance projects within their political contexts, and aligning projects with existing policy goals and local governance settings, generating legitimacy and support even where their impacts remain partial or uncertain. We thus contend that, rather than deliberate misrepresentation, smartwashing captures the performative use of smartness as a governing frame through which projects are framed and promoted as meaningful and actionable, thereby embedding them within contemporary urban governance.",
+      "keywords": [
+        "Smart city",
+        "Corporate governance",
+        "Key (lock)",
+        "Mobilities"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107433",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107433",
+      "title": "Integrated urban resilience strategies for water management and climate adaptation in Africa: A systematic review aligned with the SDGs",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006657",
+      "abstract": "",
+      "keywords": [
+        "Resilience (materials science)",
+        "Adaptation (eye)",
+        "Climate change adaptation",
+        "Climate change",
+        "Climate resilience",
+        "Urban resilience",
+        "Sustainability"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107418",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107418",
+      "title": "Does fare-free public transport reduce social exclusion for older persons? Empirical evidence from Vietnam",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006505",
+      "abstract": "",
+      "keywords": [
+        "Social exclusion",
+        "Empirical evidence",
+        "Public transport",
+        "Empirical research",
+        "Public policy"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107409",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107409",
+      "title": "Deprivation and access to discount food supermarkets in England: A cross-sectional analysis",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006414",
+      "abstract": "Food supermarkets play an important role in improving food availability and accessibility. The recent growth in the market share of discount food supermarkets in England raises new questions about their impact on food access, especially in deprived communities. Focusing on physical access, this study examines spatial inequalities in access by exploring the relationship between physical access to discount food supermarkets and socioeconomic conditions. Our analysis controls for population, conventional food supermarkets, urbanisation, regional (north–south) effects, and the availability of public transport. We use Geographic Information Systems (GIS) and quantile regression techniques. Our results suggest that more deprived areas have higher accessibility to discount food supermarkets. We also find that the relationship between access to discount food supermarkets, deprivation and control variables systematically differed in the north and south, and between urban and rural areas. Overall, the results suggest that efforts aimed at reducing food insecurity in England should integrate equity-oriented considerations into supermarket provision strategies.",
+      "keywords": [
+        "Socioeconomic status",
+        "Quantile regression",
+        "Market access",
+        "Inequality",
+        "Food insecurity",
+        "Food processing",
+        "Poverty",
+        "Food market"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107387",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107387",
+      "title": "Bridging digital divides: User-generated data and volunteered urban sensing for inclusive smart city governance",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006190",
+      "abstract": "",
+      "keywords": [
+        "Bridging (networking)",
+        "Smart city",
+        "Volunteered geographic information",
+        "Corporate governance",
+        "Urban planning",
+        "Right to the city",
+        "Digital divide"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107410",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107410",
+      "title": "Aesthetic preferences for traditional versus contemporary architecture: Cross-national evidence from real-world buildings",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006426",
+      "abstract": "Aesthetic experiences of the built environment represent an important pathway linking cities and subjective well-being. Despite growing interest in public evaluations of architectural design, existing research is largely based on single-country samples. This study aims to advance understanding of aesthetic preferences for building facades using survey data from two national contexts, Norway and Greece ( N = 2997). It examines whether contemporary or traditional buildings are preferred and how sociodemographic and spatial characteristics relate to building preferences. Respondents in both countries evaluated the same four pairs of buildings, with each pair consisting of a contemporary and a traditional facade, both located in Norway. The results show that traditional architectural designs were preferred over contemporary architectural designs across all comparisons. This pattern was significant in seven out of eight pair tests. Public preferences for traditional architecture were similar across the two countries despite all buildings being located in Norway. Two of the four comparisons involved contemporary buildings that had received architectural awards or nominations, and traditional buildings were preferred over these professionally acclaimed buildings as well. In addition, women and residents of denser urban environments exhibited stronger preferences for traditional designs. Together, these findings raise important questions for architectural education, urban development practices, urban planning regulations, and public participation in shaping the qualities of the built environment.",
+      "keywords": [
+        "Architecture",
+        "Architectural design",
+        "Built environment",
+        "Urban planning",
+        "Urban design",
+        "Landscape architecture",
+        "Architectural plan",
+        "Survey data collection"
+      ]
     },
     {
       "doi": "10.1177/00420980261466175",
@@ -288,7 +579,18 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261466175",
       "abstract": "This article examines how urban infrastructure is narratively constructed, disrupted and reassembled in electorally competitive subnational polity through a case study of Amaravati, the greenfield capital city project of Andhra Pradesh, India. Tracing its evolution across three political regimes (2014–2025), the study reveals how infrastructural projects are subject to symbolic volatility, shaped by shifting discourses of populist legitimacy and democratic contestation. Drawing on theories of infrastructural populism and narrative statecraft, the article introduces the concept of narrative reversibility to explain how capital cities function as ideological artefacts, repeatedly authored and un-authored through competing regimes of developmental meaning. Using discourse analysis of government orders, legislative records, party manifestos, media editorials and budget speeches, the study maps Amaravati’s trajectory across three phases: promise, fracture and resurrection. It finds that far from being a technocratic fix, urban infrastructure in Amaravati is continuously re-scripted to align with electoral mandates and ideological shifts.",
-      "keywords": []
+      "keywords": [
+        "Technocracy",
+        "Urbanism",
+        "Ideology",
+        "Populism",
+        "Legitimacy",
+        "Narrative",
+        "Polity",
+        "Microfoundations",
+        "Democracy",
+        "Capital (architecture)"
+      ]
     },
     {
       "doi": "10.1177/00420980261456915",
@@ -306,7 +608,14 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261456915",
       "abstract": "We consider the relationship between upzoning and socio-geographic mobility in Auckland after a groundbreaking widespread zoning reform in 2016. Longitudinal data on individual residence are used to track post-reform migration between neighbourhoods of differing socio-economic advantage. Upzoned areas experienced more in-migration from lower socio-economic neighbourhoods and less in-migration from higher socio-economic neighbourhoods. These descriptive patterns persist in estimated regressions that control for unobserved heterogeneity in origin and destination neighbourhoods and conventional predictors of within-city migration. Regression results also show that upzoning is associated with less out-migration once these potential confounders are controlled for. These findings are consistent with Auckland’s zoning reform enabling households to move into more advantaged areas, indicating that zoning can be redesigned to support upwards socio-geographic mobility.",
-      "keywords": []
+      "keywords": [
+        "Zoning",
+        "Residence",
+        "Geographically Weighted Regression",
+        "Neighbourhood (mathematics)",
+        "Regression analysis",
+        "Descriptive statistics"
+      ]
     },
     {
       "doi": "10.1177/00420980261463919",
@@ -324,7 +633,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261463919",
       "abstract": "For many planning practitioners and policymakers, Singapore is framed as a model of efficient, growth-orientated urban development. Yet, efforts to take up Singapore-linked planning approaches and urban design are uneven and contested. In this article, we reconsider Singapore’s influence in urban planning and design through a critical lens of aspirational urbanism, using Hanoi, Vietnam, as a case study. We conceptualise aspirational urbanism through three linked approaches. First, we mobilise external models not only as technical templates or policy frameworks but also as normative ideologies and symbolic claims about desirable futures, including particular ways of producing cities and lifestyles. Second, we treat aspirational urbanism as being articulated through the discourses, practices, and strategies of multiple actors, including a hybridisation of city models. Third, we note that aspirational urbanism entails conjunctions and disjunctions between the urban agendas and planning practices of the countries brought into relation. Drawing on this framework, we analyse media articles and interviews with architecture and planning professionals involved in Hanoi’s recent urban projects, alongside interviews with residents of Singapore-designed residential developments in Hanoi. We show that, despite broad enthusiasm for green and smart city agendas and claims of ‘good’ governance, references to Singapore are selectively assembled and contested through project marketing and professional narratives. In practice, uptake in Hanoi is concentrated in high-end residential enclaves rather than broader or city-wide transformations. Singapore-referencing functions as a performative gesture and legitimising trope, mobilised by Vietnam’s state planners and private developers to justify elite and privatised development and to signal Hanoi’s world-class ambitions.",
-      "keywords": []
+      "keywords": [
+        "Urbanism",
+        "New Urbanism",
+        "Urban planning",
+        "Performative utterance",
+        "Elite",
+        "Enthusiasm",
+        "Landscape urbanism",
+        "Creative city",
+        "Architecture"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00499-9",
@@ -342,7 +661,64 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00499-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Chen",
+        "Urban planning",
+        "Feature (linguistics)",
+        "Key (lock)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107426",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107426",
+      "title": "Khulna: A climate-vulnerable post-industrial city in transition—Decline or revival?",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600658X",
+      "abstract": "",
+      "keywords": [
+        "Metropolitan area",
+        "Urban planning",
+        "Regional planning",
+        "Population",
+        "Global city",
+        "Situated",
+        "Spatial planning",
+        "Politics",
+        "Service (business)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107419",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107419",
+      "title": "It's hard to live in a tourist city: Explaining residents' responses to tourism pressure through stress and self-efficacy",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006517",
+      "abstract": "Purpose Research on residents' attitudes toward tourism has relied on cost-benefit frameworks, offering limited insight into how tourism pressure is experienced in everyday life. This study applies Conservation of Resources (COR) Theory to examine how sustained tourism exposure shapes residents' responses. Focusing on Lisbon's historic parish of Santa Maria Maior, the study analyses how perceived negative impacts influence tourism acceptance through psychological processes. Design/methodology/approach Data were collected from 1496 residents using a combined online and face-to-face survey. The model was tested using Partial Least Squares Structural Equation Modelling, enabling the assessment of mediation and moderation effects. Findings Tourism-related impacts are internalised through stress, with effects that vary across domains. Environmental degradation and congestion reduce tourism acceptance through both stress and disruptions to everyday urban life, while economic drawbacks act through stress alone. Self-efficacy attenuates the negative effects of perceived pressures on tourism acceptance. Originality/value The study reframes residents' attitudes as coping processes shaped by resource conditions. It introduces a process-based explanation of how tourism pressure translates into attitudes and links tourism research with environmental psychology. Practical implications Sustaining tourism in urban environments requires attention to environmental quality, spatial access and residents' capacity to cope with pressure. Measures addressing congestion, housing dynamics and resident participation are necessary to maintain tourism acceptance under high intensity.",
+      "keywords": [
+        "Tourism",
+        "Moderation",
+        "Mediation",
+        "Structural equation modeling",
+        "Coping (psychology)",
+        "Tourism geography",
+        "Resource (disambiguation)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00479-z",
@@ -8435,29 +8811,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107231",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107231",
-      "title": "Well-being amidst population decline: Contextual effects of population change on life satisfaction in shrinking small and medium-sized cities in Japan",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-20",
-      "published_date_display": "2026-05-20",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004634",
-      "abstract": "",
-      "keywords": [
-        "Life satisfaction",
-        "Population",
-        "Resizing",
-        "Population growth",
-        "Population ageing"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261446447",
       "doi_url": "https://doi.org/10.1177/00420980261446447",
       "title": "The role of diasporic ties in alternative infrastructure: A case study of the Kurdish community center of Rome",
@@ -8638,28 +8991,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107149",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107149",
-      "title": "Citizens' preferences for urban planning participation processes: A latent class analysis",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003811",
-      "abstract": "In urban planning, citizen participation is considered crucial to implement the ideas of the public and create support, contributing to the functioning of democracy. For an inclusive and representative participation process, it is important to involve a diverse group of citizens. However, certain groups (older, resourceful participants with political know-how) are consistently overrepresented in participation processes, creating a biased input and reducing democratic legitimacy. It is therefore important to study how to increase the likelihood of different groups of citizens to participate and this is particularly important for the currently understudied Dutch context. To add to the current knowledge based on mostly qualitative research, the quantitative method of an online stated choice experiment was applied. Rooted in utility theory, respondents chose eight times between two processes that varied on attributes such as location setting, frequency, and feedback. Data ( n = 308) were analyzed using a Latent Class model, distinguishing subgroups with distinct preferences in society. Results suggest that in general, initiators should provide feedback about the outcomes and decision-making process and the process should not be too demanding. Moreover, two distinct ‘types’ of citizens are identified: the engaged and the passive citizens. Specifically targeting passive citizens can be done by designing a participation process tailored to their preferences: a short and individual process. The findings of this study help organizing participation processes in ways that increase the chances of activating the currently passive citizens and thereby engagement of a more diverse group of citizens and a more inclusive and representative participation process.",
-      "keywords": [
-        "Latent class model",
-        "Class (philosophy)",
-        "Urban planning",
-        "Urban studies"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107185",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107185",
       "title": "Back-to-the-city for work and workers? Urban form versus function in New York State, 2010–2020",
@@ -8788,54 +9119,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107153",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107153",
-      "title": "Coping with financialisation. Understanding socio-emotional dynamics in urban housing markets",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-18",
-      "published_date_display": "2026-05-18",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003859",
-      "abstract": "Financialisation increasingly exposes asset-poor households, often reluctantly, to the adverse effects of urban property inflation. This phenomenon is characterised by experiences of ‘unwillingness’ within financialised housing systems. Yet, there remains limited understanding of how households across diverse housing tenures confront and navigate the socio-emotional repercussions of financialisation. Moreover, the specific ways in which different asset-owner categories shape and define household agency and well-being are still ambiguously addressed. To advance this discourse, this study explores the dialectics of unwilling objectification and contested subjectification . Drawing on comprehensive qualitative empirical research in Leipzig, Germany, we develop a typology that connects asset owners' managerial strategies with residents' perceptions and coping mechanisms. Our findings elucidate that, while financialisation imposes material and cognitive constraints, the persistence of social safety nets and collective coping strategies can offer pathways to mitigate these pressures. Consequently, household agency under financialisation is complex and multifaceted; it remains persistently constrained, yet is also continuously negotiated and contested.",
-      "keywords": [
-        "Coping (psychology)",
-        "Typology",
-        "Subjectification",
-        "Dialectic",
-        "Perception",
-        "Structure and agency",
-        "Agency (philosophy)",
-        "Cognition",
-        "Empirical research"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107213",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107213",
-      "title": "Unraveling structural and behavioral drivers of income segregation in daily urban mobility",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-17",
-      "published_date_display": "2026-05-17",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004452",
-      "abstract": "Income segregation has traditionally been studied through residential patterns, yet growing evidence points to its dynamic manifestation in the everyday mobility of individuals. Using large-scale mobile phone data from 12 U.S. metropolitan areas, we examine segregation in population congregation – defined as the unequal distribution of income groups across micro-geographic units during daily movement – and identify its structural and behavioral origins. We propose a decomposition framework that distinguishes the contributions of static income disparities and dynamic mobility heterogeneity to observed segregation levels. Segregation is operationalized via disparities in visitation patterns at the Census Block Group level, while mobility heterogeneity captures variations in the spatial concentration of individual travel flows. Shapley–Owen decomposition shows that segregation is dominated by income-group-specific mobility heterogeneity before COVID-19 response measures, led by the lower-middle income component. After the implementation of response measures, mobility heterogeneity remains the dominant channel and explains most of the between-period change, whereas structural inequality contributes a secondary background effect. These findings reveal how economic stratification and adaptive mobility patterns jointly configure urban inequality, underscoring the need for policy responses that integrate both structural and behavioral dimensions in times of disruption.",
-      "keywords": [
-        "Household income",
-        "Low income",
-        "Spatial mismatch"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107184",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107184",
       "title": "Unveiling the dual impacts of built environments on walking using GPS and machine learning: A case study of older adults in Jeonju, South Korea",
@@ -8878,28 +9161,6 @@
         "Process (computing)",
         "Urban regeneration",
         "Regeneration (biology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107194",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107194",
-      "title": "A semantic inventory of preconceived barriers to quality in Canada's built environment",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-16",
-      "published_date_display": "2026-05-16",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004269",
-      "abstract": "Traditional definitions of quality in architecture and the built environment have been increasingly challenged over the past decades, particularly through critical perspectives on spatial justice, equity, diversity, inclusion, and postcolonialism. Standardized definitions may reassure decision-makers but ignore evolving values reshaping quality. A Canadian SSHRC-funded research partnership is used as a testbed to examine how diverse stakeholders challenge conventional definitions of quality and propose new dimensions. This partnership functions as a living lab, bringing together representatives of citizens, municipalities, professionals, and academics to examine barriers to quality beyond traditional expertise. Drawing on the partnership's open-access reports, the paper asks: What barriers to built environment quality do participants perceive when they convene around “partnership roundtables”? To address this question, the study develops a semantic inventory of key themes and barriers to quality using two methods: (1) a qualitative content analysis of the 2022 Montreal Convention reports, and (2) analysis of the extracted themes using a researcher-developed framework—disciplinary, managerial, and critical—to examine shifts in definitions of quality. A total of 96 “barriers to quality” were identified and grouped into seven themes. The most discussed included a) Communication and Engagement, b) Sustainability and Inclusivity (EDIA), and c) Programming, Design, Building, and Management. The findings show that the themes align mainly with critical definitions of quality, with little to no disciplinary representation. This suggests that citizens and public-sector stakeholders seek a broader redefinition of quality, and that these expectations are at odds with the traditional disciplinary values of architecture and related disciplines.",
-      "keywords": [
-        "Built environment",
-        "Quality (philosophy)",
-        "Built-up area",
-        "Development environment"
       ]
     },
     {
@@ -9197,29 +9458,6 @@
         "Urban morphology",
         "Urban planning",
         "Land use"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107138",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107138",
-      "title": "Actors, strategies and constraints in the valorisation of territory: Insights from an exploratory case of the protection consortia in Italian wine sector",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-15",
-      "published_date_display": "2026-05-15",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003707",
-      "abstract": "",
-      "keywords": [
-        "Valorisation",
-        "Wine",
-        "Exploratory research",
-        "Exploratory analysis",
-        "Wine grape"
       ]
     },
     {
@@ -10263,28 +10501,6 @@
         "Financial market",
         "Scale (ratio)",
         "Financial integration"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107090",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107090",
-      "title": "Segregated urbanization: Urban-rural bordering in the Tel Aviv metropolitan fringe",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-24",
-      "published_date_display": "2026-04-24",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003227",
-      "abstract": "",
-      "keywords": [
-        "Tel aviv",
-        "Metropolitan area",
-        "Urban region",
-        "Census"
       ]
     },
     {
