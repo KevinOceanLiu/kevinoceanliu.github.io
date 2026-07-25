@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T22:42:43.747481+00:00",
+  "generated_at": "2026-07-25T22:37:36.049792+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02044-8",
       "abstract": "Abstract Rifts are prominent tectonic features on Venus, yet their formation, evolution and tectonic activity remain debatable. Here we conducted 3D numerical thermomechanical experiments with visco-elasto-plastic compressible rock rheology to systematically investigate the rifting dynamics and topography under Venusian conditions. To compare active and inactive rift morphologies, the relaxation of rift topography after extension ceases was also investigated. Our modelling results suggest a relatively thick thermal lithosphere and a strong crust with dry diabase or mafic granulite rheology in rifted regions and demonstrate that wide rift flank uplifts strongly indicate either presently ongoing Venusian rifting or activity within the past few tens of millions of years. The rift valleys in the Ganis, Dali and Devana Chasmata have wide rift flank uplifts, and their characteristic topographic features are comparable to the modelled early-stage active rifts undergoing relatively high extension rates of 3−10 cm yr −1 . This suggests that the Venus rifts in these regions are still active or were active very recently. Their morphology also indicates faster extension rates than commonly assumed for Venusian rifting, potentially associated with recent vigorous mantle plume activity.",
-      "keywords": []
+      "keywords": [
+        "Rift",
+        "Lithosphere",
+        "Rift zone",
+        "Crust",
+        "Mantle plume",
+        "Tectonics",
+        "Venus",
+        "Shield volcano"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02047-5",
@@ -58,8 +67,17 @@
         24
       ],
       "link": "https://www.nature.com/articles/s41561-026-02047-5",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Tropical cyclone rain rates are projected to increase under warming, yet many climate models produce weaker rain-rate responses than expected from Clausius–Clapeyron scaling, which predicts that atmospheric moisture-holding capacity increases by approximately 7% per degree of warming. Here we use large-ensemble simulations, satellite observations and reanalysis data to identify what suppresses these rain-rate increases below Clausius–Clapeyron expectations. We show that future increases in tropical cyclone rain rate are constrained by the amplified absolute dryness of the warming atmosphere, quantified by the saturation deficit. Whereas atmospheric moistening elevates column water vapour at near-Clausius–Clapeyron rates and storm intensification further boosts rain rate, these gains are systematically offset by saturation-deficit-driven reductions in precipitation efficiency through enhanced evaporation. The negative relationship between precipitation efficiency and column saturation deficit is corroborated by satellite-based precipitation observations. Although precipitation efficiency correlates positively with storm intensity, attribution analyses reveal that increases in column saturation deficit can dominate intensity effects under warming, leading to net declines in precipitation efficiency and smaller rain rates. Our results highlight increased absolute dryness as the principal thermodynamic limiter of future tropical cyclone rain rate, uncovering a mechanism overlooked by prior projections focused solely on storm intensification and moisture increases. Climate model ensembles suggest tropical cyclones will bring more rain as the world warms, but increases may be smaller than expected. Atmospheric dryness reduces how much rain storms produce, offsetting extra moisture and stronger storms.",
+      "keywords": [
+        "Dryness",
+        "Tropical cyclone",
+        "Precipitation",
+        "Storm",
+        "Moisture",
+        "Cyclone (programming language)",
+        "Tropical cyclone rainfall forecasting",
+        "Saturation (graph theory)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02720-y",
@@ -77,7 +95,13 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02720-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Adaptation (eye)",
+        "Action (physics)",
+        "Tracking (education)",
+        "Track (disk drive)",
+        "Climate change adaptation"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02700-2",
@@ -95,7 +119,17 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02700-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Greenhouse gas",
+        "Climate change",
+        "Transient climate simulation",
+        "Climate model",
+        "Global warming",
+        "Climate sensitivity",
+        "Climate policy",
+        "Lead (geology)",
+        "Offset (computer science)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02708-8",
@@ -113,7 +147,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02708-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Greenhouse gas",
+        "Climate change",
+        "Global temperature",
+        "Global warming",
+        "Global change",
+        "Climate model",
+        "General Circulation Model",
+        "Greenhouse effect"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01899-4",
@@ -131,7 +174,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01899-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Citizen science",
+        "Politics",
+        "Sustainability",
+        "Citizen journalism",
+        "Space (punctuation)",
+        "Work (physics)",
+        "Psychological intervention"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01903-x",
@@ -149,7 +200,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01903-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hygiene",
+        "Product (mathematics)",
+        "Sustainability",
+        "Analytic hierarchy process",
+        "Health care",
+        "Plastic waste"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01889-6",
@@ -185,7 +243,15 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02053-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Convection",
+        "Aerosol",
+        "Deep convection",
+        "Perturbation (astronomy)",
+        "Atmospheric convection",
+        "Thermal",
+        "Atmosphere (unit)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02718-6",
@@ -203,7 +269,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02718-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hotspot (geology)",
+        "Greenhouse gas",
+        "Global warming",
+        "Automatic Identification System",
+        "Hydrology (agriculture)",
+        "Carbon dioxide"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01909-5",
@@ -1691,14 +1764,23 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600179X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Catalysis",
+        "Radical",
+        "Hydrogen peroxide",
+        "Adsorption",
+        "Redox",
+        "Hydroxyl radical",
+        "Zeolite",
+        "Oxygen"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101772",
