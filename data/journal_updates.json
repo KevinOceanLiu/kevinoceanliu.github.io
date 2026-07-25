@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T22:17:25.531624+00:00",
+  "generated_at": "2026-07-25T22:09:12.455168+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115589",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115589",
-      "title": "Substantial improvement of geostationary satellite-derived shortwave radiation product through correcting geolocation displacement",
+      "doi": "10.1016/j.rse.2026.115582",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115582",
+      "title": "cscMTCI: A soil and structure corrected MERIS terrestrial chlorophyll index for improving leaf chlorophyll content estimation",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,59 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003597",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003524",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115571",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115571",
+      "title": "A scattering model-informed deep transfer learning framework for surface soil moisture retrieval",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600341X",
+      "abstract": "",
+      "keywords": [
+        "Water content",
+        "Scattering",
+        "Surface (topology)",
+        "Moisture",
+        "Radiometry"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115589",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115589",
+      "title": "Substantial improvement of geostationary satellite-derived shortwave radiation product through correcting geolocation displacement",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003597",
+      "abstract": "",
+      "keywords": [
+        "Geolocation",
+        "Geostationary orbit",
+        "Irradiance",
+        "Shortwave radiation",
+        "Shortwave",
+        "Downwelling",
+        "Displacement (psychology)",
+        "Geospatial analysis",
+        "Geostationary Operational Environmental Satellite"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115570",
@@ -49,15 +99,24 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003408",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Radiometry",
+        "Precipitation",
+        "Salinity",
+        "Sea surface temperature",
+        "Radiometer",
+        "Radiative transfer",
+        "Atmospheric correction",
+        "Weighting"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115581",
@@ -66,49 +125,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003512",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.013",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.013",
-      "title": "Tracking forest carbon and growth in large-scale passive restoration using multi-temporal airborne lidar",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003606",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.012",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.012",
-      "title": "SARMelt: MGLANet-driven high-resolution surface melt mapping of circum-Antarctic ice shelves from Sentinel-1 imagery during 2015–2023",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600359X",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Saturation (graph theory)",
+        "Satellite",
+        "Chlorophyll",
+        "Chlorophyll a",
+        "Sensitivity (control systems)"
+      ]
     },
     {
       "doi": "10.1016/s0924-2716(26)00365-5",
@@ -117,8 +148,8 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-09-01",
-      "published_date_display": "2026-09",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
       "published_parts": [
         2026,
         9
@@ -149,6 +180,52 @@
         "Thermal infrared",
         "Surface (topology)",
         "Normalized Difference Vegetation Index"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.013",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.013",
+      "title": "Tracking forest carbon and growth in large-scale passive restoration using multi-temporal airborne lidar",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003606",
+      "abstract": "",
+      "keywords": [
+        "Lidar",
+        "Tracking (education)",
+        "Carbon fibers",
+        "Carbon flux",
+        "Tracking system"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.012",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.012",
+      "title": "SARMelt: MGLANet-driven high-resolution surface melt mapping of circum-Antarctic ice shelves from Sentinel-1 imagery during 2015–2023",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-23",
+      "published_date_display": "2026-07-23",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600359X",
+      "abstract": "",
+      "keywords": [
+        "Surface (topology)",
+        "Ice shelf",
+        "Sea ice",
+        "Satellite imagery",
+        "Sea ice thickness"
       ]
     },
     {
@@ -1006,6 +1083,29 @@
       ]
     },
     {
+      "doi": "10.1016/j.isprsjprs.2026.06.030",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.030",
+      "title": "SCOUT-Count: Stylization with covariance-whitening and uncertainty for domain-generalized remote sensing object counting",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-08",
+      "published_date_display": "2026-07-08",
+      "published_parts": [
+        2026,
+        9
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003369",
+      "abstract": "",
+      "keywords": [
+        "Object (grammar)",
+        "Object based",
+        "Object detection",
+        "Remote sensing application",
+        "Earth remote sensing"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.06.037",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.037",
       "title": "PRGD: Proximal Residual-Guided Diffusion with pattern-aware experts for remote sensing image super-resolution",
@@ -1376,29 +1476,6 @@
         "Sensor fusion",
         "Image fusion",
         "Deep learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.030",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.030",
-      "title": "SCOUT-Count: Stylization with covariance-whitening and uncertainty for domain-generalized remote sensing object counting",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003369",
-      "abstract": "",
-      "keywords": [
-        "Object (grammar)",
-        "Object based",
-        "Object detection",
-        "Remote sensing application",
-        "Earth remote sensing"
       ]
     },
     {
@@ -10821,9 +10898,9 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.019",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.019",
-      "title": "Cross-modal distillation for real-time wildfire detection and localization in edge-deployed aerial vehicles",
+      "doi": "10.1016/j.isprsjprs.2026.03.034",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.034",
+      "title": "Leveraging “SWOT and a-priori information (SWAP)” constrained channel parameters for improved historical river discharge estimates from space",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -10833,18 +10910,14 @@
         2026,
         5
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001334",
-      "abstract": "Wildfire detection and localization in aerial imagery is critical for rapid response and damage mitigation. Autonomous aerial vehicles (AAVs) enable large area monitoring but face real-time processing challenges due to limited onboard computational and sensor resources. This work introduces a cross-modal knowledge distillation framework for edge-deployed AAVs. A teacher network trained only on thermal images transfers semantic and spatial representations to an optical image based student network when trained in an offline fashion using thermal and optical image pairs. During deployment, the student uses only optical images, thus reducing reliance on multi-sensor payloads while maintaining high detection accuracy. The student model incorporates dual classification heads: an image-level head for fire-free vs. fire-impacted scenes, and a patch-level head for flame vs. no-flame discrimination. This patch-level strategy provides effective fire localization while avoiding the computational overhead of segmentation, making it practical for resource-constrained deployment. Evaluated on aerial wildfire dataset, the framework achieves 90.97% patch-level accuracy, with false alarm and missed detection rates of 8.82% and 14.78%, respectively. The lightweight student model requires only 2.99 GFLOPS with inference time of 0.004s and generates patch-level probability heatmaps for fire region localization. Unlike conventional unimodal systems, this approach leverages thermal-to-optical knowledge transfer to deliver high accuracy, low latency, and precise localization under edge-computing constraints. The code and dataset will be released at https://github.com/medh132/cmkd .",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001498",
+      "abstract": "",
       "keywords": [
-        "Overhead (engineering)",
-        "Aerial image",
-        "Fire detection",
-        "Inference",
-        "False alarm",
-        "ALARM",
-        "Distillation",
-        "Image (mathematics)",
-        "Object detection"
+        "Channel (broadcasting)",
+        "Space (punctuation)",
+        "Hydrology (agriculture)",
+        "Water discharge",
+        "Key (lock)"
       ]
     },
     {
@@ -11951,32 +12024,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115347",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115347",
-      "title": "A framework for integrating spatiotemporal deep learning methods with landsat for annual land cover and impervious surface mapping",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-05",
-      "published_date_display": "2026-03-05",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001173",
-      "abstract": "Land cover information is essential for understanding Earth’s surface dynamics and how vegetation, water, soil, climate, and terrain interact. The National Land Cover Database (NLCD) has been the authoritative source for consistent U.S. land cover mapping. To extend NLCD’s temporal resolution and reduce production latency, we developed the Land Cover Artificial Mapping System (LCAMS)—a prototype spatiotemporal deep learning framework piloted as the foundation for the new Annual NLCD. LCAMS builds on concepts from legacy NLCD and the U.S. Geological Survey Land Change Monitoring, Assessment, and Projection (LCMAP) initiatives. It employs a loosely coupled two-stage architecture consisting of independent but functionally interdependent spatial and temporal models. Spatial models extract per-year information from Landsat data, while the temporal models refine the spatial outputs to enforce inter-annual consistency—critical for reliable land change monitoring. LCAMS produces annual 30 m resolution land cover and impervious surface outputs, with region-specific fine-tuning to generalize across diverse landscapes and temporal dynamics. Validation was conducted using an independent dataset of 1925 randomly sampled plots from five U.S. Landsat Analysis Ready Data (ARD) tiles spanning 1985-2021, selected for spatial and temporal variability. This dataset was used consistently to evaluate LCAMS, Legacy NLCD, and LCMAP. Using the NLCD legend, LCAMS achieved 72.1 ± 1.60 % overall agreement, compared to 71.1 ± 1.7 % agreement for Legacy NLCD. Using the LCMAP legend, LCAMS achieved 83.4 ± 1.22 % agreement, compared to 84.6 ± 1.11 % agreement for LCMAP. Overall, LCAMS delivers comparable accuracy while offering higher thematic resolution, longer temporal coverage, and automated production of annual 30 m CONUS land cover. • Spatiotemporal deep learning algorithm for annual land cover and impervious surfaces. • Ensemble techniques and regional fine-tuning improved land cover accuracy. • Post-hoc processing led to large gains in the precision of the change class.",
-      "keywords": [
-        "Land cover",
-        "Impervious surface",
-        "Thematic map",
-        "Terrain",
-        "Thematic Mapper",
-        "Temporal resolution",
-        "Deep learning",
-        "Earth observation"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2635481",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2635481",
       "title": "A spatial approach to anomalous barrier detection in transportation networks from movement trajectories",
@@ -12343,29 +12390,6 @@
         "Mode (computer interface)",
         "Population",
         "Deep learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115327",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115327",
-      "title": "Hyperspectral retrieval of phytoplankton absorption and community composition from NASA’s PACE-OCI in estuarine–coastal waters using a hybrid framework combining mixture-of-experts and Variational Autoencoder",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-28",
-      "published_date_display": "2026-02-28",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000970",
-      "abstract": "Retrieving the phytoplankton absorption coefficient ( a phy ; m −1 ), one of the most spectrally rich inherent optical properties, remains challenging in optically complex coastal waters worldwide. Leveraging NASA's new hyperspectral mission, PACE, we introduce Hyper-MoE-VAE, a deep-learning architecture that integrates a Mixture-of-Experts with a Variational Autoencoder to retrieve high-dimensional a phy and subsequent estimation of phytoplankton community composition (PCC) from PACE-OCI hyperspectral remote sensing reflectance ( R rs ). Pre-trained on global hyperspectral bio-optical datasets and fine-tuned using regional field R rs – a phy pairings from inland– estuarine–coastal waters, Hyper-MoE-VAE demonstrated strong transferability and effective adaptation across regions. Validation with in-situ R rs showed accurate a phy retrievals in Lake Erie (NRMSE = 0.12, ε = 17.10), Lake Pontchartrain (NRMSE = 0.11, ε = 37.12), and the Barataria–Terrebonne Estuary (NRMSE = 0.14, ε = 38.89). Using same-day PACE-OCI Level 2 R rs , the model achieved comparable performance in Lake Erie (NRMSE = 0.19, ε = 55.19), Lake Pontchartrain (NRMSE = 0.14, ε = 51.39), and the Barataria–Terrebonne Estuary (NRMSE = 0.17, ε = 47.92). Hyper-MoE-VAE derived PACE-OCI hyperspectral a phy was further decomposed against mass-specific absorption spectra to estimate group-specific contributions to total chlorophyll a . The resulting PCC showed strong agreement with HPLC–CHEMTAX in Lake Erie ( R 2 = 0.692) and Gulf estuarine–coastal systems ( R 2 = 0.732). Monte Carlo noise experiments further revealed group-dependent sensitivities, with diatoms and dinoflagellates showing moderate susceptibility to noise, while cyanobacteria and cryptophytes exhibited narrow uncertainty distributions. These results demonstrate Hyper-MoE-VAE's capability for regional, operational water-quality monitoring with PACE-OCI and its adaptability to current and future hyperspectral missions.",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Autoencoder",
-        "Reflectivity",
-        "Composition (language)",
-        "Phytoplankton"
       ]
     },
     {
