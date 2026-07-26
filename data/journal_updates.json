@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:09:12.455168+00:00",
+  "generated_at": "2026-07-26T22:11:18.723268+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,24 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-25",
+      "published_date_display": "2026-07-25",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003524",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Leaf chlorophyll content (LCC) is an important indicator of photosynthetic capacity. As a classical chlorophyll-sensitive vegetation index, the MERIS Terrestrial Chlorophyll Index (MTCI) at the leaf level (MTCI leaf ) has a strong linear relationship with LCC. However, our theoretical analysis reveals that the canopy-level MTCI (MTCI c ) is clearly influenced by soil and canopy structure, limiting its ability to accurately estimate LCC. To address this limitation, we developed a two-step approach that downscales MTCI c to the leaf level by mitigating the effects of soil and canopy structure. First, direct soil reflection is removed from canopy reflectance to derive the MTCI signal of the ‘pure’ vegetation component (MTCI v ). The MTCI v approximates the MTCI signal derived from the vegetation canopy reflectance over black soil. Still, MTCI v is not directly equivalent to MTCI leaf , and their relationship is strongly modulated by leaf area index (LAI). Second, given that MTCI v and MTCI leaf always maintain a strong linear relationship at any given LAI, we introduce a canopy structure coefficient (CSC) to approximate the MTCI v -MTCI leaf relationship as: MTCI v ≈ CSC × MTCI leaf , where CSC is a canopy structural factor accounting for the slope variation in the MTCI v -MTCI leaf space. Theoretical analysis and PROSAIL simulations demonstrate that the canopy soil-adjusted vegetation index (SAVI c ) serves as a proxy for CSC (i.e., SAVI c ∝ CSC). After correcting for soil and canopy structural effects, cscMTCI is proposed as MTCI v /SAVI c , which serves as an approximation of MTCI leaf . The performance of cscMTCI is evaluated using both PROSAIL simulations and experimental datasets and compared against MTCI c (derived from original canopy reflectance), MTCI v (derived from reflectance of the ‘pure’ vegetation component within the canopy), and MTCI n (i.e., MTCI c /SAVI c , normalized MTCI without soil correction). The experimental datasets include ground-based LCC measurements across seven vegetation types from the National Ecological Observatory Network (NEON), along with corresponding NEON airborne hyperspectral and Sentinel-2 satellite multispectral observations. The PROSAIL simulations indicate that cscMTCI consistently exhibits the strongest correlation with LCC, followed by MTCI n , MTCI v , and MTCI c across both individual leaf angle distribution (LAD) types and non-erectophile LAD combinations. The cscMTCI-LCC relationship remains nearly consistent over a wide range of LAI, soil backgrounds, and solar zenith angles. The observations at the NEON sites confirm the results of PROSAIL simulations. In leave-one-site-out cross-validation across all vegetation types, cscMTCI reduces RMSE by 12.39%, 30.35%, and 30.32% compared to MTCI n , MTCI v , and MTCI c for NEON airborne observations and by 9.44%, 21.03%, and 24.00% for Sentinel-2 satellite observations. For individual vegetation types, cscMTCI markedly outperforms MTCI c in homogeneous croplands, grasslands, and shrublands, with RMSE reductions of 78.52%, 52.76%, and 31.48% for NEON and 39.28%, 24.40%, and 35.12% for Sentinel-2. In more heterogeneous wetlands and forests, performance differences among the four MTCI variants narrow, but cscMTCI generally retains slight superiority. These results demonstrate the practical applicability of cscMTCI across different spatial scales and the potential for large-scale LCC mapping.",
+      "keywords": [
+        "Canopy",
+        "Leaf area index",
+        "Vegetation (pathology)",
+        "Chlorophyll",
+        "Reflectivity",
+        "Range (aeronautics)",
+        "Normalized Difference Vegetation Index",
+        "Chlorophyll a"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115571",
