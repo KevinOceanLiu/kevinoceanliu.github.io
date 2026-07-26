@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T23:42:08.638638+00:00",
+  "generated_at": "2026-07-26T23:40:20.440764+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -223,6 +223,24 @@
       ]
     },
     {
+      "doi": "10.1111/gcb.70982",
+      "doi_url": "https://doi.org/10.1111/gcb.70982",
+      "title": "Diagnosing Linearity Along the Carbon Cascade in Terrestrial Biosphere Models and Observations",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-26",
+      "published_date_display": "2026-07-26",
+      "published_parts": [
+        2026,
+        7,
+        26
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70982",
+      "abstract": "ABSTRACT Elevated carbon dioxide (eCO 2 ) acts as a fertiliser for photosynthesis, driving an increase in gross primary production (GPP). However, it is unclear how effectively increased GPP propagates along the ‘carbon (C) cascade’ to increase net primary production (NPP) and vegetation C stocks ( C veg ) in different plant compartments. Vegetation models were criticised for being overly sensitive to photosynthesis (source‐driven), neglecting sink‐driven processes which may attenuate (or amplify) changes in NPP and vegetation C stocks. Here, we introduce an analytical framework to diagnose linearity ( L ) as ratios of relative changes in linked fluxes and pools. We then apply this framework to 16 models of the TRENDY v11 ensemble and to observation‐based estimates of CO 2 sensitivities. We found widely varying global patterns in L across models. Six models showed a majority of grid cells with larger relative changes in NPP than in GPP ( L NPP:GPP > 1 for > 60% of gridcells), indicating increased vegetation carbon use efficiency under eCO 2 . Only three models had L NPP:GPP < 1 for > 60% of gridcells. Four models showed a majority of gridcells with larger relative changes in estimated steady‐state C veg than in NPP, while five models showed the opposite—in both cases with a large spread of L Cveg*:NPP across grid cells within models. Observations‐based analysis reveals median L Cveg*:NPP < 1 overall but evidence is insufficient for a conclusion. Three models showed a larger relative increase in root C than in C veg , ( L Croot:Cveg > 1) while five models showed the opposite. Most field evidence shows L Croot:Cveg > 1. Widely differing distributions of L among models and links in the C cascade reveal a strong influence of nonlinear behaviour in individual models. However, due to the spread in L , across the whole models ensemble, L deviations from 1 were roughly balanced, leading to an overall linear behaviour of terrestrial C cycle representations in the multi‐model‐mean.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2745.70407",
       "doi_url": "https://doi.org/10.1111/1365-2745.70407",
       "title": "Get out of the starting block quickly—Small initial differences in seed and seedling size affect tree survival and growth over 25 years",
@@ -238,7 +256,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70407",
       "abstract": "Abstract In even‐aged tree stands, asymmetric competition for light usually leads to clear dominance structures. However, it is unclear whether the differences in individual tree size develop gradually or manifest themselves very early on, that is in the year of germination, and whether formerly suppressed trees can rise in rank while dominant trees fall. Using two experimental plots in which European beech ( Fagus sylvatica ) seeds were sown under the canopy of mature Norway spruce ( Picea abies ) trees in 1997, we studied the survival and height development of 2214 numbered seedlings on 324 subplots (0.5 m 2 in size) over a period of more than 25 years. We found that the survival probability of the tallest individuals at their seed site in the year of germination was significantly higher than that of smaller plants. We further found that these early dominance structures became increasingly consolidated over the years, reducing the mortality risk of the dominant trees. In a supplementary seed experiment, we showed that the height growth and biomass production of seedlings achieved in the first vegetation period depended largely on seed mass. Synthesis . Our study illustrates how intense intraspecific competition processes operate at very early developmental stages among even‐aged tree cohorts, following the general pattern of self‐thinning. We showed that the underlying dominance structures develop surprisingly early and that they persist. Our study also clearly indicates that dominance reversal, that is the fall of formerly dominant trees to lower ranks and the rise of formerly suppressed trees to the dominant layer, occurs infrequently, at least in the first 25 years of an even‐aged cohort.",
-      "keywords": []
+      "keywords": [
+        "Beech",
+        "Seedling",
+        "Intraspecific competition",
+        "Fagus sylvatica",
+        "Dominance (genetics)",
+        "Canopy",
+        "Germination",
+        "Interspecific competition",
+        "Competition (biology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70406",
@@ -256,7 +284,15 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70406",
       "abstract": "Abstract In many historically fire‐dependent ecosystems, the abundance of newly emerged seedlings increases after fire. Greater post‐fire seedling recruitment has been widely attributed to environmental conditions that promote seedling emergence (i.e. seeds germinate and exhibit above‐ground growth) and post‐emergence survival. However, fire increases flowering and seed production in many species making it difficult to assess the extent to which post‐fire seedling abundance reflects microsite conditions versus seed availability. Experimental manipulation of seed inputs can elucidate how seed availability versus microsite conditions contribute to post‐fire seedling abundance. We experimentally manipulated years since fire across 36 patches of remnant tallgrass prairie within an agriculturally fragmented 6400 ha landscape in western Minnesota (USA). Over 2 years, we sowed 10,962 Echinacea angustifolia (Asteraceae) seeds across 84 randomly placed transects. We then located and tracked the 974 newly emerged seedlings to evaluate how time since fire influenced seedling emergence and survival after controlling for variation in seed inputs. We also evaluated the association between six environmental covariates and seedling emergence and survival. Fire influenced both seedling emergence and survival between spring emergence and late summer. Seedlings emerged from approximately 1% of all seeds sown prior to experimental burns while seeds sown 1 year after experimental burns emerged at more than 10 times this rate. Emergence rates then declined as years since fire increased. Sowing seeds at high densities reduced rates of seedling emergence but nonetheless increased overall seedling abundance. Increases in litter depth were associated with reduced emergence. Meanwhile, the probability that seedlings survived to late summer was greatest 0 or 1 years after fire. The probability of seedling survival decreased with litter depth and increased with the local density of conspecific seedlings. Synthesis . Our experiment demonstrates that fire enhances seedling recruitment by generating microsite conditions that favour seedling emergence and survival. Nevertheless, seedling abundance also increased with seed inputs, suggesting that both seed availability and microsite conditions influence post‐fire seedling recruitment. Experiments like ours that explicitly discriminate between seed‐ and microsite‐limitation of recruitment are crucial for revealing processes that influence plant demographic responses to fire in many historically fire‐dependent ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Seedling",
+        "Microsite",
+        "Germination",
+        "Sowing",
+        "Abundance (ecology)",
+        "Seedbed",
+        "Plant ecology"
+      ]
     },
     {
       "doi": "10.1111/gcb.71015",
@@ -274,7 +310,14 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71015",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Window (computing)",
+        "Nest (protein structural motif)",
+        "Climate change",
+        "Tropics",
+        "Global change",
+        "Tropical forest"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03152-9",
@@ -20796,33 +20839,6 @@
         "Forest management",
         "Sustainable forest management",
         "Forest restoration"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70797",
-      "doi_url": "https://doi.org/10.1111/gcb.70797",
-      "title": "Transcontinental Divergence in Soil Carbon Stock Response to Decades of Wetland Drainage",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-10",
-      "published_date_display": "2026-03-10",
-      "published_parts": [
-        2026,
-        3,
-        10
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70797",
-      "abstract": "ABSTRACT Drainage threatens the vast soil organic carbon (SOC) reservoirs in wetlands, but uncertainties in SOC responses across different wetlands hinder an accurate estimate of their carbon dynamics and climate mitigation capacity. Here we conducted a transcontinental pairwise survey, including 29 pairs of drained and waterlogged sites across low‐ to high‐latitude wetlands in China and Finland after decades of drainage. A total of 2437 soil samples from 188 profiles were analyzed using a high‐resolution equivalent ash mass method. We showed that drainage reduced SOC stocks by 32% ± 10% in carbon‐rich wetlands due to Sphagnum decay and enhanced decomposition, while the fixed‐depth comparison underestimated the SOC stocks by up to 12 folds. Conversely, SOC stocks increased by 46% ± 27% in carbon‐poor wetlands due to enhanced plant inputs. Upscaling analysis suggests that, over the past century, drainage alone (without post‐drainage disturbances) has led to a 1.80 Gt SOC gain in China, exceeding afforestation‐driven SOC gains in northern China during the past three decades by 7.5 folds. Our findings reveal the divergent transcontinental wetland SOC responses to drainage, highlighting the overlooked climate mitigation potential of carbon‐poor wetlands under global changes.",
-      "keywords": [
-        "Wetland",
-        "Soil carbon",
-        "Waterfowl",
-        "Stock (firearms)",
-        "Carbon stock",
-        "Drainage",
-        "Hydrology (agriculture)",
-        "Climate change"
       ]
     },
     {
