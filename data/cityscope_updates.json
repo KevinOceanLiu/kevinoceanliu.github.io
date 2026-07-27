@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:11:51.144572+00:00",
+  "generated_at": "2026-07-27T23:19:29.912573+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,202 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105758",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105758",
-      "title": "Equity and justice in heat planning across small, midsize, and large cities in the US",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
+      "doi": "10.1016/j.compenvurbsys.2026.102504",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102504",
+      "title": "Identifying micro-scale risk zones for climate-driven emergency medical demand: A spatiotemporal machine learning study in Beijing",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
       "published_date": "2026-12-01",
       "published_date_display": "2026-12",
       "published_parts": [
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001829",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001067",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107411",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107411",
+      "title": "“How far is too far to order?”: Distance threshold effects and food-type heterogeneity in residents' willingness to use online food delivery services",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006438",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107454",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107454",
+      "title": "Urban park use patterns across gender and age in Seoul: Multivariate and long-term time series analysis based on mobile communication data (2017–2024)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006864",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107456",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107456",
+      "title": "Nonlinear environmental effect thresholds of port activity intensity under structural heterogeneity: Evidence from Chinese port cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006888",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107440",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107440",
+      "title": "Navigating stakeholder engagement for inclusive urban planning: Introducing the Generative Method Recommender Model",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006724",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107421",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107421",
+      "title": "A Fuller City: Rekindling the work of Buckminster Fuller in the age of planetary urban crisis",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006530",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261466098",
+      "doi_url": "https://doi.org/10.1177/00420980261466098",
+      "title": "The ABCs of DEI in ACDs: Fostering belonging in arts and cultural districts",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-26",
+      "published_date_display": "2026-07-26",
+      "published_parts": [
+        2026,
+        7,
+        26
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261466098",
+      "abstract": "Arts and cultural districts (ACDs) grew in the United States as an urban economic development strategy in the 1990s and 2000s, but scholars and activists have critiqued their role in gentrification and investigated how they can support diversity, equity, and inclusion (DEI) in arts infrastructure. We draw from an original national survey of ACDs in the United States using regression analysis to explore relationships between organizational qualities, practices, and self-reported DEI outcomes among responding organizations. Do the typical DEI recommendations for non-profit and public sector organizations, such as prioritizing DEI, measuring outcomes, and prioritizing a high degree of participation, actually correlate with better reported DEI outcomes? These insights can provide planners engaged with arts and cultural policy, ACDs, and efforts to integrate the arts into planning practice a better understanding of how to ensure their work contributes toward equity, diversity, inclusion, and belonging rather than gentrification or “dis-belonging”.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261460340",
+      "doi_url": "https://doi.org/10.1177/00420980261460340",
+      "title": "Public transport and the paradox of socioeconomic segregation and diversity",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-26",
+      "published_date_display": "2026-07-26",
+      "published_parts": [
+        2026,
+        7,
+        26
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261460340",
+      "abstract": "Public transport is widely regarded as a means of mitigating the consequences of residential socioeconomic segregation by improving connectivity and creating opportunities for cross-group exposure, yet its dualistic role remains underexplored. Previous studies relying on transit card data capture only origin-destination patterns and overlook the demographic composition of riders along transit corridors. We leverage mobile phone data from 8.3 million users in Beijing, China to reconstruct segment-by-segment travel trajectories and introduce entropy-based metrics measuring neighborhood-based socioeconomic diversity at dual scales: destination-based diversity and in-transit ridership composition. This corridor-level approach captures how ridership composition evolves along each route, revealing variation that aggregate origin-destination analyses obscure. Our analysis reveals two distinct paradoxes. A spatial accessibility–diversity paradox shows that public transport correlates with reduced isolation from wider urban opportunities for peripheral neighborhoods, but moderate accessibility improvements correspond to lower diversity, potentially through preference-based sorting. A temporal peak-hour paradox shows that buses exhibit lower diversity during peak commutes due to homogeneous residential origins, whereas subways consistently show higher diversity across all hours due to hub-based structures and higher capacity. Regression analysis shows urban design characteristics correlate with diversity patterns. These findings offer insights for planning that considers network structure, service timing, and catchment demographics alongside accessibility provision.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261465542",
+      "doi_url": "https://doi.org/10.1177/00420980261465542",
+      "title": "From official blueprint to youth perception: A Q methodology study of the youth-friendly city in Qingdao, China",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-26",
+      "published_date_display": "2026-07-26",
+      "published_parts": [
+        2026,
+        7,
+        26
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261465542",
+      "abstract": "In China’s state-led urbanization, the youth-friendly city has become a governance apparatus for securing human capital amid demographic pressures. Yet this official blueprint often instrumentalizes youth as productive assets, creating a rupture with their lived aspirations. Using Q methodology in Qingdao, this study maps the counter-imaginaries through which young people contest this narrative. We identify three viewpoints that prioritize institutional fairness, everyday affordability and secure opportunities over spectacular spatial production. Their shared rejection of growth- and spectacle-driven urbanism reveals a struggle over urban meaning. We theorize this misalignment as discursive deprivation: a form of spatial injustice in which the state’s definitional monopoly limits youth’s authority to articulate their needs. Genuine youth-friendliness, we argue, requires a shift from symbolic spatial production to inclusive governance and redistributed discursive power.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261465557",
+      "doi_url": "https://doi.org/10.1177/00420980261465557",
+      "title": "Business deficits in minority neighborhoods across the United States",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-26",
+      "published_date_display": "2026-07-26",
+      "published_parts": [
+        2026,
+        7,
+        26
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261465557",
+      "abstract": "Roughly 85% of the business establishments active in the United States in 2020 employed fewer than 20 people. While individually small, they collectively employed more than 30 million people and paid those employees almost $1.4 trillion. The importance of these genuinely small businesses becomes more pronounced when focus shifts to their outsized contributions to local economic vitality, and because their prospects are much better in some neighborhoods (e.g., majority White) than in others (e.g., majority Black or majority Hispanic). In this paper, we document and discuss business deficits in majority Black and majority Hispanic neighborhoods across the United States. These large and persistent deficits, along with evidence of different correlates of small business densities, motivate the need for more research that focuses on the interplay between economics, sociology, and race and ethnicity when it comes to understanding structural inequalities in neighborhood business landscapes.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105758",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105758",
+      "title": "Equity and justice in heat planning across small, midsize, and large cities in the US",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-26",
+      "published_date_display": "2026-07-26",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001829",
+      "abstract": "",
+      "keywords": [
+        "Equity (law)",
+        "Environmental justice",
+        "Indigenous",
+        "Economic Justice",
+        "Politics",
+        "Corporate governance"
+      ]
     },
     {
       "doi": "10.1177/00420980261465538",
@@ -9050,64 +9231,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107157",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107157",
-      "title": "Examining community participation in urban agriculture: Utilizing structural equation modeling to assess the impact of communication media on enhancing livelihoods and sustainability",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003896",
-      "abstract": "",
-      "keywords": [
-        "Livelihood",
-        "Structural equation modeling",
-        "Sustainability",
-        "Agriculture",
-        "Business",
-        "Environmental economics",
-        "Environmental planning",
-        "Natural resource economics",
-        "Economics",
-        "Environmental science",
-        "Geography",
-        "Computer science",
-        "Ecology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107185",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107185",
-      "title": "Back-to-the-city for work and workers? Urban form versus function in New York State, 2010–2020",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004178",
-      "abstract": "",
-      "keywords": [
-        "Urban sprawl",
-        "Warrant",
-        "Compact city",
-        "Variety (cybernetics)",
-        "Function (biology)",
-        "Work (physics)",
-        "Intervention (counseling)",
-        "Consumption (sociology)",
-        "State (computer science)"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261446209",
       "doi_url": "https://doi.org/10.1177/00420980261446209",
       "title": "Fifteen-minute cities for whom? Planning futures of queer liveability",
@@ -9206,51 +9329,6 @@
         "Social relation",
         "Social network (sociolinguistics)",
         "Latent class model"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107184",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107184",
-      "title": "Unveiling the dual impacts of built environments on walking using GPS and machine learning: A case study of older adults in Jeonju, South Korea",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-16",
-      "published_date_display": "2026-05-16",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004166",
-      "abstract": "",
-      "keywords": [
-        "Global Positioning System",
-        "Dual (grammatical number)",
-        "Built environment",
-        "Assisted GPS",
-        "Level design"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107151",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107151",
-      "title": "How is the collaborative process developed at the grassroots? Evidence from a party-led urban regeneration project in China",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-16",
-      "published_date_display": "2026-05-16",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003835",
-      "abstract": "",
-      "keywords": [
-        "China",
-        "Process (computing)",
-        "Urban regeneration",
-        "Regeneration (biology)"
       ]
     },
     {
@@ -9595,29 +9673,6 @@
         "Artificial neural network",
         "Graph",
         "Deep neural networks"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107212",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107212",
-      "title": "Decoding mixed-use development in urban planning regulatory frameworks: A cross-national semantic analysis",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-14",
-      "published_date_display": "2026-05-14",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004440",
-      "abstract": "This study decodes how mixed-use development, one of the most widely accepted yet variably operationalized principles in the pursuit of sustainable cities is framed in urban planning regulatory texts, across twelve cities, six countries and languages. The research brings to light how the notion of mixed-use or functional diversity is articulated, justified, and prioritized in diverse planning cultures. Through natural language processing NLP-based semantic analysis, the study identifies how mixed-use objectives are articulated and prioritized across planning cultures, synthesizing these framings into a structured comparative overview. Each rationale, be it economic, social, environmental, or morphological, is reflected with varying prominence across cases, revealing both convergence and divergence in how mixed-use is positioned within planning regulations of Los Angeles and Chicago (USA), São Paulo and Fortaleza (Brazil), Madrid and Zaragoza (Spain), Paris and Nantes (France), Jeddah and Dammam (Saudi Arabia), Shanghai and Shenzhen (China). Spatial coordination emerges as the shared regulatory core across all cases, while housing, service equity, economic activity, and regulatory flexibility objectives are selectively embedded, varying substantially across planning systems. The study deepens understanding of how mixed-use principles are conceptualized internationally at the level of regulatory language and illustrates the potential of AI to support systematic analysis of urban policy texts.",
-      "keywords": [
-        "Decoding methods",
-        "Urban planning",
-        "Development (topology)",
-        "Semantic analysis (machine learning)",
-        "Semantics (computer science)"
       ]
     },
     {
