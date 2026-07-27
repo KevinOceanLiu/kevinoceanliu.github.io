@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:40:20.440764+00:00",
+  "generated_at": "2026-07-27T23:43:58.097173+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -223,6 +223,69 @@
       ]
     },
     {
+      "doi": "10.1038/s41559-026-03134-x",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03134-x",
+      "title": "Identifying biotic and abiotic roles in marine clade extinction",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
+      "published_parts": [
+        2026,
+        7,
+        27
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03134-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71021",
+      "doi_url": "https://doi.org/10.1111/gcb.71021",
+      "title": "Water Limits Radial Tree Growth More Than Light in an Everwet Subtropical Forest",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
+      "published_parts": [
+        2026,
+        7,
+        27
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71021",
+      "abstract": "ABSTRACT Everwet tropical forests, defined by the absence of a pronounced dry season, are globally significant carbon sinks, covering roughly 80% of Southeast Asian tropical forests, 30% of the Amazon basin, and 10% of the Congo Basin. Yet the climatic drivers of stem radial growth in these ecosystems remain understudied. The prevailing hypothesis is that growth is primarily light‐limited, as persistent cloud cover constrains photosynthesis. Evaluating this assumption is critical as climate projections for the humid tropics point towards rising atmospheric evaporative demand, episodic drought, and reduced cloud cover, conditions whose net effect on woody growth remains unresolved. To address this gap, we deployed automated point dendrometers on 35 trees in an everwet subtropical forest with 3500 mm mean annual precipitation and no pronounced rainfall seasonality, collecting 2 years of hourly radial stem growth data alongside concurrent measurements of soil moisture, vapor pressure deficit (VPD), and light availability. Contrary to the prevailing light‐limitation hypothesis, soil moisture and atmospheric evaporative demand were the primary determinants of both whether and how much growth occurred on any given day, even under these perennially wet conditions. Light availability and photoperiod enhanced growth magnitude when water was not limiting, but their effects were consistently smaller. Droughts occurring during the wetter, high‐growth months had the greatest negative impact on annual stem increment, potentially reducing annual growth to just 20% of current levels. These results challenge long‐standing assumptions of light‐limited stem growth in everwet forests, which is critical for improving model projections of forest responses to climate change. Broader validation across tropical forests, combined with direct physiological measurements of carbon uptake and storage, will be essential to evaluate our working hypothesis that radial growth in these everwet ecosystems is ultimately more constrained by water availability than by carbon supply.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70489",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70489",
+      "title": "Cross‐ecosystem subsidies support growth‐based freshwater eel conservation",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-26",
+      "published_date_display": "2026-07-26",
+      "published_parts": [
+        2026,
+        7,
+        26
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70489",
+      "abstract": "Abstract Despite multiple calls to adopt new food web‐based restoration approaches, habitat enhancement remains the most widely used strategy. Habitat enhancement is premised on the ‘field of dreams’ concept (build it and they will come), assuming that restoring degraded systems by adding or improving habitat will increase the carrying capacity and thus increase target species populations. However, exothermic apex predators are commonly limited by food availability, not solely by access to habitat. Rebuilding structure without increasing food availability is a hidden constraint on restoration success which will be accentuated by higher ambient temperatures with resultant elevated metabolic rates. Here, using a catchment‐scale natural experiment in which prey availability for predators is controlled by stochastic variability in coastal lagoon morphology, we demonstrate that the annual production of a threatened freshwater apex predator, the longfin eel ( Anguilla dieffenbachii ), increases through restoration of small‐bodied diadromous upstream fish migrations. By supplying freshwater systems with trophic subsidies—that is, food—apex predator production increases even within highly modified agricultural river catchments where longfin eels are habitat‐limited. We found that longfin eels in our study system were near carrying capacity and migratory prey fish enhanced growth of longfin eels by ~350%, with no compensatory reduction in biomass observed, as otherwise assumed within a habitat‐constrained population. The trophic subsidy translated into higher eel production. These results demonstrate that a diet‐based conservation approach which enhances cross‐ecosystem food subsidies is a viable approach to top predator conservation. Synthesis and applications . Our study shows that, ‘If you build it, they will come—but only if they can meet their energetic demands’. Given the ubiquity of diadromous fish globally, coupled with the threatened status of many freshwater predators, our findings highlight the significant potential of lowland freshwater ecosystems to support predatory fish conservation through restoring cross‐ecosystem food web connections.",
+      "keywords": [
+        "Predation",
+        "Apex predator",
+        "Habitat",
+        "Trophic cascade",
+        "Fish migration",
+        "Threatened species",
+        "Trophic level",
+        "Biomass (ecology)"
+      ]
+    },
+    {
       "doi": "10.1111/gcb.70982",
       "doi_url": "https://doi.org/10.1111/gcb.70982",
       "title": "Diagnosing Linearity Along the Carbon Cascade in Terrestrial Biosphere Models and Observations",
@@ -238,7 +301,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70982",
       "abstract": "ABSTRACT Elevated carbon dioxide (eCO 2 ) acts as a fertiliser for photosynthesis, driving an increase in gross primary production (GPP). However, it is unclear how effectively increased GPP propagates along the ‘carbon (C) cascade’ to increase net primary production (NPP) and vegetation C stocks ( C veg ) in different plant compartments. Vegetation models were criticised for being overly sensitive to photosynthesis (source‐driven), neglecting sink‐driven processes which may attenuate (or amplify) changes in NPP and vegetation C stocks. Here, we introduce an analytical framework to diagnose linearity ( L ) as ratios of relative changes in linked fluxes and pools. We then apply this framework to 16 models of the TRENDY v11 ensemble and to observation‐based estimates of CO 2 sensitivities. We found widely varying global patterns in L across models. Six models showed a majority of grid cells with larger relative changes in NPP than in GPP ( L NPP:GPP > 1 for > 60% of gridcells), indicating increased vegetation carbon use efficiency under eCO 2 . Only three models had L NPP:GPP < 1 for > 60% of gridcells. Four models showed a majority of gridcells with larger relative changes in estimated steady‐state C veg than in NPP, while five models showed the opposite—in both cases with a large spread of L Cveg*:NPP across grid cells within models. Observations‐based analysis reveals median L Cveg*:NPP < 1 overall but evidence is insufficient for a conclusion. Three models showed a larger relative increase in root C than in C veg , ( L Croot:Cveg > 1) while five models showed the opposite. Most field evidence shows L Croot:Cveg > 1. Widely differing distributions of L among models and links in the C cascade reveal a strong influence of nonlinear behaviour in individual models. However, due to the spread in L , across the whole models ensemble, L deviations from 1 were roughly balanced, leading to an overall linear behaviour of terrestrial C cycle representations in the multi‐model‐mean.",
-      "keywords": []
+      "keywords": [
+        "Primary production",
+        "Biosphere",
+        "Vegetation (pathology)",
+        "Photosynthesis",
+        "Carbon cycle",
+        "Carbon dioxide",
+        "Carbon fibers",
+        "Vegetation types",
+        "Relative species abundance",
+        "Grid"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70407",
@@ -309,7 +383,7 @@
         25
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71015",
-      "abstract": "",
+      "abstract": "The author declares no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analyzed during the current study.",
       "keywords": [
         "Window (computing)",
         "Nest (protein structural motif)",
@@ -13795,7 +13869,7 @@
     {
       "doi": "10.1086/741914",
       "doi_url": "https://doi.org/10.1086/741914",
-      "title": "Alternative reproductive tactic frequencies vary with stream size for an Appalachian salamander",
+      "title": "Alternative Reproductive Tactic Frequencies Vary with Stream Size for an Appalachian Salamander",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -21534,32 +21608,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70774",
-      "doi_url": "https://doi.org/10.1111/gcb.70774",
-      "title": "Freshwater Conservation Priority Areas Are Threatened by Global Mining Activities",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        3,
-        3
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70774",
-      "abstract": "ABSTRACT Mining poses significant and persistent threats to freshwater ecosystems, with impacts often enduring long after operations cease. Growing concerns suggest that the expansion of mining to meet global mineral demands for decarbonization may amplify these cumulative risks to freshwater biodiversity. However, the location and extent of potential conflict hotspots remain poorly understood, hampering our ability to meet international conservation targets. Here, we map areas of potential conflict between freshwater conservation priority areas and global mining activities. Using a spatial modeling approach, we trace potential downstream contamination and quantify the extent of affected river reaches within conservation priority areas. Our analysis reveals that mining may pollute up to 1.8 million km of downstream rivers (5% of the global total), over 18% of which lies within conservation priority areas. Gold mining is associated with the largest extent of potentially contaminated rivers, and its widespread reliance on unregulated small‐scale artisanal practices can lead to disproportionately severe impacts on freshwater biodiversity in affected areas. Furthermore, rivers potentially affected by coal mining far exceed those linked to the share of key energy transition minerals needed for clean energy technologies (cobalt, copper, graphite, lithium, nickel, and rare earth elements). Effectively safeguarding and restoring freshwater ecosystems will require conservation and regulatory frameworks that address downstream mining impacts, especially in the context of future mineral expansion.",
-      "keywords": [
-        "Threatened species",
-        "Context (archaeology)",
-        "Biodiversity",
-        "Downstream (manufacturing)",
-        "Safeguarding",
-        "Freshwater ecosystem",
-        "Ecosystem"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70771",
       "doi_url": "https://doi.org/10.1111/gcb.70771",
       "title": "Forest Degradation and Weather Jointly Affect Early‐Life Development in a Tropical Understory Bird",
@@ -23046,33 +23094,6 @@
         "Species diversity",
         "Biomass (ecology)",
         "Tree canopy"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70309",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70309",
-      "title": "Developing evidence briefs for landscape fire management",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-15",
-      "published_date_display": "2026-02-15",
-      "published_parts": [
-        2026,
-        2,
-        15
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70309",
-      "abstract": "Abstract Consolidating and translating knowledge about complex environmental processes for decision makers and the public is a multifaceted challenge. Landscape fire, for instance, impacts a wide range of ecological and social values, and communication takes place in a crowded and contested information environment. Evidence briefs are a tool for clearly communicating current knowledge and are commonly used in the health sector and public policy. This raises the questions of whether, and how, evidence briefs could support the management of landscape fire and other environmental issues. Drawing on findings from existing interdisciplinary fire research, we develop four principles to support effective use of evidence briefs for landscape fire applications: (1) Actively engage with complexity and uncertainty whilst highlighting areas of agreement, (2) Recognise diverse ways of knowing, (3) Continually refer back to the problem and goal at the centre of the brief and (4) Embed evidence briefs within a larger process of relationship building and decision‐making. Synthesis and applications. For evidence briefs to provide value to the ecological management and natural hazards community and to the broader public, researchers and practitioners need clear guidance on how briefs must be developed to address a broad spectrum of issues. We propose that principles relating to complexity, diverse forms of knowledge, clear objectives and relationship building will support the delivery of effective and timely evidence briefs.",
-      "keywords": [
-        "Process (computing)",
-        "Fire ecology",
-        "Natural (archaeology)",
-        "Public participation",
-        "Land management",
-        "Traditional knowledge",
-        "Fire regime",
-        "Land use"
       ]
     },
     {
@@ -26062,24 +26083,6 @@
         9
       ],
       "link": "https://www.nature.com/articles/s41559-025-02936-9",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1038/s41559-025-02933-y",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02933-y",
-      "title": "Drought hampers human–wildlife coexistence",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        1,
-        9
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02933-y",
       "abstract": "",
       "keywords": []
     },
