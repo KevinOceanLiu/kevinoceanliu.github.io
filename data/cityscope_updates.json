@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:19:29.912573+00:00",
+  "generated_at": "2026-07-28T23:15:30.641034+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,161 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102504",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102504",
-      "title": "Identifying micro-scale risk zones for climate-driven emergency medical demand: A spatiotemporal machine learning study in Beijing",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
+      "doi": "10.1016/j.cities.2026.107443",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107443",
+      "title": "Media framing and political discourse of Barcelona's urban transformations (2016–2024)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
       "published_date": "2026-12-01",
       "published_date_display": "2026-12",
       "published_parts": [
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001067",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600675X",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107453",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107453",
+      "title": "Bridging circularity and inclusion in urban metabolic transitions: Through the lens of waste system evolution in Almere, the Netherlands",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006852",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107464",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107464",
+      "title": "Analysis of green practices priorities in local government units for sustainable development in Palestine: An analytical hierarchical process approach",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006967",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261467177",
+      "doi_url": "https://doi.org/10.1177/00420980261467177",
+      "title": "Negotiating rights in the margins: Urban brokerage, citizenship and the politics of social assistance in Makassar, Indonesia",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-28",
+      "published_date_display": "2026-07-28",
+      "published_parts": [
+        2026,
+        7,
+        28
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261467177",
+      "abstract": "This study explores how everyday brokerage mediates access to social assistance and reshapes citizenship practices among Indonesia’s urban poor. Drawing on a qualitative case study, it identifies three primary mediators: the state apparatus, politicians, and grassroots organizations. These actors operate through a framework of mediated practices conceptualized into three functional categories: navigational modes involving advocacy and representation, relational dynamics driven by familism and clientelism, and extractive behaviors characterized by corruption and rent-seeking. The findings reveal that this everyday brokerage is not merely a stopgap response to the absence of the state but a constitutive mode of urban governance. To capture this dynamic, this study introduces the concept of ambivalent citizenship, wherein mediated practices simultaneously empower and marginalize the urban poor. This article argues that the structure of relationships between mediators and citizens, whether fragmented and plural or singular and exclusive, dictates the capacity of the marginalized to claim their rights. When grassroots organizations are active, citizens leverage navigational modes to negotiate access and hold intermediaries to account. Conversely, when mediation is monopolized by political or familial networks through relational modes, exclusion and dependency deepen further. Furthermore, predatory practices that utilize extractive modes actively erode these formal rights. By unpacking the everyday politics of social assistance distribution, this study enriches the literature on urban governance, welfare politics, and citizenship in the Global South.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107447",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107447",
+      "title": "Why smart mobility alone does not ensure accessibility? Social, spatial, and digital dimensions of mobility as a service in island contexts",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-28",
+      "published_date_display": "2026-07-28",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006797",
+      "abstract": "",
+      "keywords": [
+        "Service (business)",
+        "Key (lock)",
+        "Service provider",
+        "Smart card",
+        "Smart city"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107437",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107437",
+      "title": "Data-driven urban planning: Real population estimation using water consumption records and tourism data",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-28",
+      "published_date_display": "2026-07-28",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006694",
+      "abstract": "",
+      "keywords": [
+        "Estimation",
+        "Tourism",
+        "Consumption (sociology)",
+        "Water consumption"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261466604",
+      "doi_url": "https://doi.org/10.1177/00420980261466604",
+      "title": "Demolishing is not a strategy: Rethinking urban renewal beyond growth in Grenoble, France",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
+      "published_parts": [
+        2026,
+        7,
+        27
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261466604",
+      "abstract": "Demolition has long dominated urban renewal practice, frequently framed as the only solution to housing degradation, but driven by political and economic agendas focused on growth rather than meeting residents’ needs. In France, the national programmes for urban renewal have institutionalised demolition through strong financial incentives, reinforcing neoliberal urban competitiveness and the pursuit of social mix. This paper examines how such logics persist within contemporary renewal programmes and how local actors seek to challenge them. Based on empirical insights from the Villeneuve district in Grenoble, it analyses the tensions between national frameworks promoting demolition and local ambitions to prioritise rehabilitation, ecological responsibility and citizen participation. While political change and mobilisation enabled a partial shift away from demolition, structural dependencies – financial, institutional and ideological – continue to constrain alternatives. This article argues that moving beyond demolition-centred renewal requires a reform of national funding and evaluation frameworks, enabling practices of repair, reuse and democratic co-production. Such an approach would not only mitigate environmental and social costs but also contribute to reframing urban policy within a post-growth paradigm beyond demolition.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102504",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102504",
+      "title": "Identifying micro-scale risk zones for climate-driven emergency medical demand: A spatiotemporal machine learning study in Beijing",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001067",
+      "abstract": "",
+      "keywords": [
+        "Megacity",
+        "Beijing",
+        "Warning system",
+        "Climate change",
+        "Early warning system",
+        "Lag",
+        "Location data"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107411",
@@ -54,32 +194,20 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006438",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107454",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107454",
-      "title": "Urban park use patterns across gender and age in Seoul: Multivariate and long-term time series analysis based on mobile communication data (2017–2024)",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006864",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Food delivery",
+        "Willingness to pay",
+        "Delivery system",
+        "Food policy"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107456",
@@ -88,15 +216,23 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006888",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Port (circuit theory)",
+        "Scale (ratio)",
+        "Gradient boosting",
+        "Environmental pollution",
+        "Nonlinear system",
+        "Typology",
+        "Pollution"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107440",
@@ -105,15 +241,23 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006724",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The integration of a diverse array of stakeholders is essential to ensure sustainable and inclusive development of cities that aligns with community needs while supporting social cohesion and decision-making legitimacy. Although existing literature on urban planning offers valuable insights into the ways of stakeholder engagement, yet a systematic approach to selecting the most suitable method of stakeholder engagement remains absent. This study introduces the Generative Method Recommender Model (GMRM) to satisfy this need. Through a combination of Multi-Criteria Decision-Making and Bayesian Belief Network techniques, GMRM provides a tailored method-selection paradigm that considers contextual specifications for stakeholder engagement. This model transcends traditional boundaries by illuminating the relationships between practical principles of stakeholder engagement and offering conditional recommendations, enabling urban planners and practitioners to make well-informed choices of methods for engagement realization, even in the face of uncertainties. The model's reliability is validated through sensitivity analysis, establishing GMRM as a solution to navigate the intricate landscape of method selection, fostering inclusive urban development and sustainability.",
+      "keywords": [
+        "Stakeholder",
+        "Cohesion (chemistry)",
+        "Stakeholder engagement",
+        "Generative grammar",
+        "Generative model",
+        "Urban planning",
+        "Reliability (semiconductor)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107421",
@@ -122,15 +266,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006530",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Work (physics)",
+        "Planetary boundaries",
+        "Environmental crisis"
+      ]
     },
     {
       "doi": "10.1177/00420980261466098",
@@ -148,7 +296,15 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261466098",
       "abstract": "Arts and cultural districts (ACDs) grew in the United States as an urban economic development strategy in the 1990s and 2000s, but scholars and activists have critiqued their role in gentrification and investigated how they can support diversity, equity, and inclusion (DEI) in arts infrastructure. We draw from an original national survey of ACDs in the United States using regression analysis to explore relationships between organizational qualities, practices, and self-reported DEI outcomes among responding organizations. Do the typical DEI recommendations for non-profit and public sector organizations, such as prioritizing DEI, measuring outcomes, and prioritizing a high degree of participation, actually correlate with better reported DEI outcomes? These insights can provide planners engaged with arts and cultural policy, ACDs, and efforts to integrate the arts into planning practice a better understanding of how to ensure their work contributes toward equity, diversity, inclusion, and belonging rather than gentrification or “dis-belonging”.",
-      "keywords": []
+      "keywords": [
+        "Gentrification",
+        "The arts",
+        "Inclusion (mineral)",
+        "Arts administration",
+        "Work (physics)",
+        "Public sector",
+        "Cultural economics"
+      ]
     },
     {
       "doi": "10.1177/00420980261460340",
@@ -166,7 +322,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261460340",
       "abstract": "Public transport is widely regarded as a means of mitigating the consequences of residential socioeconomic segregation by improving connectivity and creating opportunities for cross-group exposure, yet its dualistic role remains underexplored. Previous studies relying on transit card data capture only origin-destination patterns and overlook the demographic composition of riders along transit corridors. We leverage mobile phone data from 8.3 million users in Beijing, China to reconstruct segment-by-segment travel trajectories and introduce entropy-based metrics measuring neighborhood-based socioeconomic diversity at dual scales: destination-based diversity and in-transit ridership composition. This corridor-level approach captures how ridership composition evolves along each route, revealing variation that aggregate origin-destination analyses obscure. Our analysis reveals two distinct paradoxes. A spatial accessibility–diversity paradox shows that public transport correlates with reduced isolation from wider urban opportunities for peripheral neighborhoods, but moderate accessibility improvements correspond to lower diversity, potentially through preference-based sorting. A temporal peak-hour paradox shows that buses exhibit lower diversity during peak commutes due to homogeneous residential origins, whereas subways consistently show higher diversity across all hours due to hub-based structures and higher capacity. Regression analysis shows urban design characteristics correlate with diversity patterns. These findings offer insights for planning that considers network structure, service timing, and catchment demographics alongside accessibility provision.",
-      "keywords": []
+      "keywords": [
+        "Public transport",
+        "Socioeconomic status",
+        "Diversity (politics)",
+        "Leverage (statistics)",
+        "Demographics",
+        "Journey to work",
+        "Transportation planning",
+        "Travel behavior"
+      ]
     },
     {
       "doi": "10.1177/00420980261465542",
@@ -184,7 +349,18 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261465542",
       "abstract": "In China’s state-led urbanization, the youth-friendly city has become a governance apparatus for securing human capital amid demographic pressures. Yet this official blueprint often instrumentalizes youth as productive assets, creating a rupture with their lived aspirations. Using Q methodology in Qingdao, this study maps the counter-imaginaries through which young people contest this narrative. We identify three viewpoints that prioritize institutional fairness, everyday affordability and secure opportunities over spectacular spatial production. Their shared rejection of growth- and spectacle-driven urbanism reveals a struggle over urban meaning. We theorize this misalignment as discursive deprivation: a form of spatial injustice in which the state’s definitional monopoly limits youth’s authority to articulate their needs. Genuine youth-friendliness, we argue, requires a shift from symbolic spatial production to inclusive governance and redistributed discursive power.",
-      "keywords": []
+      "keywords": [
+        "Blueprint",
+        "CONTEST",
+        "Corporate governance",
+        "Urbanism",
+        "China",
+        "Viewpoints",
+        "Urban planning",
+        "Monopoly",
+        "Injustice",
+        "Governmentality"
+      ]
     },
     {
       "doi": "10.1177/00420980261465557",
@@ -202,7 +378,14 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261465557",
       "abstract": "Roughly 85% of the business establishments active in the United States in 2020 employed fewer than 20 people. While individually small, they collectively employed more than 30 million people and paid those employees almost $1.4 trillion. The importance of these genuinely small businesses becomes more pronounced when focus shifts to their outsized contributions to local economic vitality, and because their prospects are much better in some neighborhoods (e.g., majority White) than in others (e.g., majority Black or majority Hispanic). In this paper, we document and discuss business deficits in majority Black and majority Hispanic neighborhoods across the United States. These large and persistent deficits, along with evidence of different correlates of small business densities, motivate the need for more research that focuses on the interplay between economics, sociology, and race and ethnicity when it comes to understanding structural inequalities in neighborhood business landscapes.",
-      "keywords": []
+      "keywords": [
+        "Race (biology)",
+        "Ethnic group",
+        "Inequality",
+        "Small business",
+        "Focus (optics)",
+        "Economic inequality"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105758",
@@ -519,7 +702,7 @@
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005706",
-      "abstract": "",
+      "abstract": "The 15-minute City concept has recently gained prominence, reigniting the debate on the ideal urban form and the importance of local versus regional accessibility in promoting vibrant cities. Our study contributes to this scholarship by exploring the relationship between these two scales of accessibility and urban vitality. Using Hong Kong as our case study and based on longitudinal restaurant registration records, we investigate how urban vitality, proxied by the number of restaurants, relates to both local accessibility, measured by walking time to the neighborhood center, and regional accessibility, measured by public transit time to an urban border. Our findings offer support for the 15-minute City concept by identifying a positive correlation between local accessibility and urban vitality. Additionally, through a quasi-natural experiment approach enabled by the closure and resumption of cross-boundary borders between Hong Kong and Mainland China, we identify a modest (approximately 2%) positive impact of regional accessibility on vitality. The results also suggest a synergistic effect. Areas that excel in both local and regional accessibility witness an increase in restaurant numbers, while high regional access cannot compensate for poor local access. These findings suggest that local accessibility plays a more significant role than regional accessibility in shaping urban vitality, but enhancements in regional access are still beneficial, as they can drive further economic growth where good local accessibility exists. Our findings underscore the necessity for cities globally, irrespective of their population density or existing transit infrastructures, to implement holistic development strategies that enhance accessibility both locally and regionally.",
       "keywords": [
         "Vitality",
         "Urban planning",
@@ -2085,7 +2268,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005743",
-      "abstract": "",
+      "abstract": "Due to the changing demands of global supply chains, the facilities and related infrastructures that support the movement of goods have shifted away from inner-city locations toward suburban and ex-urban sites with spaces suitable for the construction of large-footprint warehouses and distribution centres. This article explores the relationship between the demands of the global logistics industry and suburban local governments through a case study of a southeastern suburb in British Columbia's Lower Mainland, Canada. It traces municipal efforts to accommodate large-scale industrial users at the rural-suburban fringe. Through a qualitative approach including analysis of city planning documents, newspapers, real estate publications, Census data, and interviews with local planning officials, we analyze how the post-suburban spatial imaginaries of local officials are propelling industrial growth forward, calling into question not only the long-standing emphasis in the literature on residential growth as the driver of expansion of the suburban edge, but also how various types of sprawl may be perceived differently and thus subject to different planning treatments. The article reveals the deep intertwining of these previously rural communities and their economic futures with the global logistics industry and the need to more explicitly consider logistics development in local and regional planning.",
       "keywords": [
         "Urban planning",
         "Humanitarian Logistics",
@@ -4264,7 +4447,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000864",
-      "abstract": "",
+      "abstract": "Travel surveys serve as vital resources for gaining insight into daily mobility patterns. Trip chains are one of the key features in such data sets, as they capture integrated travel patterns, including details of activity participation. Mapping the spatial distribution of intermediate activities, such as stops made during a standard commute, enhances understanding of travel behavior, particularly mode choice dynamics. However, such data are often incomplete or missing, which reduces the depth of the analysis. Addressing this concern, this study presents a Point of Interest (POI)-based time-geography methodology to approximate intermediate stop locations for activities in trip chains in travel surveys, with the potential to considerably improve computational efficiency compared to the traditional time-geographic density estimation (TGDE) technique. We apply the method to travel survey data from Eskilstuna, Sweden, combined with OpenStreetMap network data, achieving promising trip chain reconstruction results. However, although the proposed approach showed great potential, limitations in data availability prevented rigorous validation. Future studies should therefore test it using data with complete trip chains. Nevertheless, this study contributes to addressing the problem of missing data in travel surveys, which is relevant to researchers and policymakers in urban transport.",
       "keywords": [
         "Probabilistic logic",
         "Missing data",
@@ -9210,27 +9393,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107150",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107150",
-      "title": "Unveiling market dynamics: Spatialities, functions and challenges of periodic markets in Morigaon District of Assam, India",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-19",
-      "published_date_display": "2026-05-19",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003823",
-      "abstract": "",
-      "keywords": [
-        "Quasi periodic",
-        "Function (biology)",
-        "Property market"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261446209",
       "doi_url": "https://doi.org/10.1177/00420980261446209",
       "title": "Fifteen-minute cities for whom? Planning futures of queer liveability",
@@ -9505,56 +9667,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107155",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107155",
-      "title": "Transparent circularity in the public sector: Discovering the determinants of circular economy disclosure in Italian local governments",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-15",
-      "published_date_display": "2026-05-15",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003872",
-      "abstract": "",
-      "keywords": [
-        "Circular economy",
-        "Circular migration",
-        "Public disclosure",
-        "Public policy",
-        "Public ownership"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107178",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107178",
-      "title": "Towards a territorialisation of the circular economy: Spatial planning challenges in Rotterdam",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-15",
-      "published_date_display": "2026-05-15",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004105",
-      "abstract": "In response to the environmental challenges of the linear economy, cities increasingly embrace the circular economy (CE) as a sustainable alternative. In the Netherlands, where circularity is a national priority, Rotterdam provides a compelling case to examine how an urban CE transition can take shape. Unlike the extensively studied Amsterdam, Rotterdam offers a contrasting perspective as a city with a growing economy and industrial character. Yet, as Rotterdam advances its CE agenda, spatial and institutional challenges emerge. While CE is promoted as a model for sustainable urban development, its spatial embedding (e.g., how land, infrastructure, and governance support circular processes) remains insufficiently understood. This research investigates how public policies and strategies shape the territorialisation of CE in Rotterdam. Combining policy document analysis, semi-structured interviews with public and private CE actors, and spatial mapping of CE projects, the study reveals that space is gaining strategic importance in CE governance. The analysis identifies a ‘two-wave’ dynamic in Rotterdam’s CE transition. The current first wave emphasises innovation, flexible regulation, hub creation, and collaboration. However, as initiatives mature, their demand for manufacturing sites, logistics, and regional coordination intensifies. For Rotterdam to progress into a second wave, it must strengthen spatial planning, regional governance, and provide physical space for circular industries to scale up. Conceptualising CE territorialisation as a wave process, this study contributes to theories of circular cities, highlighting that CE transitions cannot succeed without integrating spatial and political dimensions.",
-      "keywords": [
-        "Circular economy",
-        "Spatial planning",
-        "Polycentricity",
-        "Corporate governance",
-        "Scale (ratio)",
-        "City region",
-        "Environmental governance",
-        "Urban planning",
-        "Sustainable development"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107179",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107179",
       "title": "Emergent patterns of crime distributions across major U.S. cities",
@@ -9604,28 +9716,6 @@
         "Archaeology",
         "Real estate",
         "Civil engineering"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107136",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107136",
-      "title": "An analysis of morphological pattern variations in street networks within and surrounding slums in São Paulo, Brazil",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-15",
-      "published_date_display": "2026-05-15",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003689",
-      "abstract": "Slums are characterized by precariousness of infrastructure and land tenure security, and their specific morphological patterns must be understood in order to provide better living conditions to their residents. This study focuses on how street patterns change when the surrounding street grid is taken into account. Using complex network theory, we analyze over 1000 slums in São Paulo. We use a multilayer network model to group favelas that present similar street network patterns inside and around them in terms of size, edge density, orientation entropy, and average circuity. Our key findings reveal that orientation entropy reaches a maximum value for most slums regardless of their sizes, and the relationship between edge density and the number of edges undergoes a shift with increasing buffer around slums. Additionally, favelas with similar orientation entropies and average circuities tend to occupy areas with comparable declivities. Our study may provide insights for public policies aiming to provide more desirable mobility flows or urban integration to slum residents.",
-      "keywords": [
-        "Slum",
-        "Urban morphology",
-        "Urban planning",
-        "Land use"
       ]
     },
     {
@@ -10490,27 +10580,6 @@
         "Public housing",
         "Risk perception",
         "Pandemic"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107113",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107113",
-      "title": "Examining state-led gentrification using street view imagery: Evidence from Shanghai, China",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-04-27",
-      "published_date_display": "2026-04-27",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003458",
-      "abstract": "This study introduces a transferable framework for detecting gentrification by leveraging detailed street-view imagery to capture visible changes in the built environment at the street level. The research utilizes deep learning techniques to analyze paired images from Shanghai spanning 2013 to 2022, allowing for the identification of neighborhood-level improvements. These visual findings are then systematically aligned with census data and case studies to strengthen the analysis. The approach proves especially effective within the context of state-orchestrated, property-led redevelopment, which is characterized by densification, public-space enhancement, and functional reconfiguration—hallmarks of entrepreneurial urbanism. The results reveal that such physical and functional upgrades are concentrated in central districts, waterfront corridors, and selected new towns, demonstrating that gentrification in Shanghai has gone beyond the traditional inner city, expanding to amenity-rich, brandable environments. The framework translates landscape transformations into consistent, citywide evidence, complementing conventional demographic and price-based measures. It offers spatiotemporally fine-grained monitoring and holds potential for application in other rapidly changing cities experiencing state-led gentrification.",
-      "keywords": [
-        "Gentrification",
-        "China",
-        "Perspective (graphical)"
       ]
     },
     {
@@ -19486,6 +19555,32 @@
         "Mental health",
         "Systematic review",
         "Data extraction"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107454",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107454",
+      "title": "Urban park use patterns across gender and age in Seoul: Multivariate and long-term time series analysis based on mobile communication data (2017–2024)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2025-01-01",
+      "published_date_display": "2025-01-01",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006864",
+      "abstract": "",
+      "keywords": [
+        "Multivariate statistics",
+        "Intersectionality",
+        "Multivariate analysis",
+        "Psychological resilience",
+        "Diversity (politics)",
+        "Index (typography)",
+        "Race (biology)",
+        "Ethnic group"
       ]
     }
   ]
