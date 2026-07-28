@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:43:58.097173+00:00",
+  "generated_at": "2026-07-28T23:37:54.904446+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -223,6 +223,42 @@
       ]
     },
     {
+      "doi": "10.1111/gcb.71011",
+      "doi_url": "https://doi.org/10.1111/gcb.71011",
+      "title": "Topography Dependence of Terrestrial Litter‐Derived Soil Respiration",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-28",
+      "published_date_display": "2026-07-28",
+      "published_parts": [
+        2026,
+        7,
+        28
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71011",
+      "abstract": "ABSTRACT Carbon (C) released from decomposing plant litter constitutes a major component of soil CO 2 efflux at the land surface, yet its contribution is rarely constrained separately from heterotrophic respiration of stable soil organic matter in global C budgets and Earth system model evaluations. We combined a global dataset with high‐resolution field observations to quantify the contribution of litter‐derived soil respiration ( R s ) using litter‐input and litter‐removal experiments, and to project its current distribution and future dynamics with machine‐learning models. On average, litter‐derived R s accounted for 30.9% of total R s . Higher contributions were estimated for experiments of shorter duration, highlighting the important role of fast‐cycling C alongside soil organic matter turnover. Litter‐derived R s varied substantially among ecosystems (grasslands > croplands > forests > wetlands) but did not differ significantly between tropical and temperate climates. Land surface slope exerted a stronger control than climatic or edaphic factors across both mountain and non‐mountain regions, suggesting a pronounced topographic regulation. High‐frequency field measurements further confirmed this pattern, with litter‐derived R s at mountain ridges being 1.5 times that in valleys. Global projections indicated a higher litter‐derived R s at low latitudes and greater vulnerability in cold climates under SSP 1–2.6 and SSP 5–8.5 scenarios. These findings demonstrate that litter decomposition is a substantial source of soil CO 2 flux that is strongly controlled by terrain. Accounting for this CO 2 pathway improves our understanding of how landscape heterogeneity influences terrestrial C cycle and enhances future predictions of ecosystem responses to climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71026",
+      "doi_url": "https://doi.org/10.1111/gcb.71026",
+      "title": "Microbial Functional Gene Abundance‐Integrated Modeling of Global Methane Sinks in Upland Soils Under Future Climate Change",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-28",
+      "published_date_display": "2026-07-28",
+      "published_parts": [
+        2026,
+        7,
+        28
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71026",
+      "abstract": "ABSTRACT Methanotrophs are key microbial regulators of soil methane (CH 4 ) sinks, but the global impact of their functional gene abundance on CH 4 oxidation remains unquantified. This gap limits the integration of key functional genes abundance parameters (e.g., pmoA ) into soil CH 4 sink model. We integrated meta‐analysis, machine learning, and process‐based modeling to assess the relationship between pmoA gene abundance and soil CH 4 uptake. Our developed Functional Gene Abundance‐Based Methanotrophy Model (FGA‐MeMo) incorporates pmoA as a proxy for CH 4 oxidation capacity, significantly improving model simulations. FGA‐MeMo estimates global upland soil CH 4 uptake at 45.74 ± 0.26 Tg year −1 , which is 56%–58% higher than MeMo model. Under SSP5‐8.5 scenario, this increases to 64.68 ± 0.35 Tg year −1 by 2100, with mid‐ and high‐latitude regions showing enhanced CH 4 oxidation due to greater pmoA abundance. These findings highlight the importance of integrating microbial functional genes into Earth system models for improved CH 4 cycle predictions.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03134-x",
       "doi_url": "https://doi.org/10.1038/s41559-026-03134-x",
       "title": "Identifying biotic and abiotic roles in marine clade extinction",
@@ -238,7 +274,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03134-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Abiotic component",
+        "Extinction (optical mineralogy)",
+        "Clade",
+        "Biotic component",
+        "Extinction event",
+        "Extinction probability"
+      ]
     },
     {
       "doi": "10.1111/gcb.71021",
@@ -256,7 +299,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71021",
       "abstract": "ABSTRACT Everwet tropical forests, defined by the absence of a pronounced dry season, are globally significant carbon sinks, covering roughly 80% of Southeast Asian tropical forests, 30% of the Amazon basin, and 10% of the Congo Basin. Yet the climatic drivers of stem radial growth in these ecosystems remain understudied. The prevailing hypothesis is that growth is primarily light‐limited, as persistent cloud cover constrains photosynthesis. Evaluating this assumption is critical as climate projections for the humid tropics point towards rising atmospheric evaporative demand, episodic drought, and reduced cloud cover, conditions whose net effect on woody growth remains unresolved. To address this gap, we deployed automated point dendrometers on 35 trees in an everwet subtropical forest with 3500 mm mean annual precipitation and no pronounced rainfall seasonality, collecting 2 years of hourly radial stem growth data alongside concurrent measurements of soil moisture, vapor pressure deficit (VPD), and light availability. Contrary to the prevailing light‐limitation hypothesis, soil moisture and atmospheric evaporative demand were the primary determinants of both whether and how much growth occurred on any given day, even under these perennially wet conditions. Light availability and photoperiod enhanced growth magnitude when water was not limiting, but their effects were consistently smaller. Droughts occurring during the wetter, high‐growth months had the greatest negative impact on annual stem increment, potentially reducing annual growth to just 20% of current levels. These results challenge long‐standing assumptions of light‐limited stem growth in everwet forests, which is critical for improving model projections of forest responses to climate change. Broader validation across tropical forests, combined with direct physiological measurements of carbon uptake and storage, will be essential to evaluate our working hypothesis that radial growth in these everwet ecosystems is ultimately more constrained by water availability than by carbon supply.",
-      "keywords": []
+      "keywords": [
+        "Precipitation",
+        "Subtropics",
+        "Tropical and subtropical moist broadleaf forests",
+        "Tropics",
+        "Climate change",
+        "Vapour Pressure Deficit",
+        "Humid subtropical climate",
+        "Ecosystem",
+        "Amazon rainforest"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70489",
@@ -19110,59 +19163,6 @@
         "Fish <Actinopterygii>",
         "Biomass (ecology)",
         "Biomonitoring"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70816",
-      "doi_url": "https://doi.org/10.1111/gcb.70816",
-      "title": "Redox‐Active Organic Matter in a Boreal Peatland Demonstrates Resistance to Global Climate Change",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-24",
-      "published_date_display": "2026-03-24",
-      "published_parts": [
-        2026,
-        3,
-        24
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70816",
-      "abstract": "ABSTRACT Redox‐active organic matter (RAOM) reduction is an important control on carbon cycling in boreal peatlands, suppressing methane production via its energetic favorability. However, the effects of global climate change drivers—notably, warming and elevated atmospheric carbon dioxide (CO 2 )—on the relationship between RAOM and production of greenhouse gases remains unknown, constituting an important knowledge gap. Here, we leveraged an experimental boreal peatland in northern Minnesota (USA) that has been subjected to a gradient of warming (+0 to +9°C) and elevated CO 2 (+500 ppm) for almost 10 years. To understand in situ effects of field treatments on RAOM, we equilibrated a homogenized peat substrate and peat from the bog along the depth profile for 1 month in the field. Elevated CO 2 did not have a significant effect on RAOM reduction ( p > 0.05) in either peat type. Increased experimental temperatures stimulated RAOM reduction in the homogenized peat substrate ( p < 0.05), but there were no effects of warming on RAOM reduction in peat from the bog ( p > 0.05). To better understand indirect effects of the treatments, we also measured the potential for RAOM reduction in peat from each treatment under standardized laboratory conditions. The amount of reduced RAOM was variable at 10–20 cm (~15–70 μmoles e − /g dw peat) and there were no clear patterns of warming or elevated CO 2 effects on RAOM reduction. We compared these findings to measurements conducted in 2016 and found similar microbial processing of the RAOM pool among treatments and a slight decrease in potential RAOM pools over time at three depths (10–20 cm p = 0.60; 75–100 cm and 175–200 cm p < 0.05). Collectively, our findings suggest an unexpected conclusion: peatland RAOM reduction may be resistant to warming and elevated atmospheric CO 2 .",
-      "keywords": [
-        "Peat",
-        "Bog",
-        "Boreal",
-        "Climate change",
-        "Global warming",
-        "Greenhouse gas",
-        "Carbon dioxide"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70818",
-      "doi_url": "https://doi.org/10.1111/gcb.70818",
-      "title": "Persistent Legacy Effects of Marine Heatwaves on Coral Symbioses",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-24",
-      "published_date_display": "2026-03-24",
-      "published_parts": [
-        2026,
-        3,
-        24
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70818",
-      "abstract": "ABSTRACT Obligate endosymbioses between eukaryotes and their single‐celled inhabitants form the basis of many ecosystems, yet little is known about the long‐term impacts of climate change on them. On coral reefs, extensive studies have shown that climate change‐driven heatwaves and other environmental stressors can disrupt the obligate symbiosis between reef‐building corals and Symbiodiniaceae, with consequences for coral fitness and survival. However, despite coral symbioses playing a fundamental role in reef resilience to climate change, whether, and at what rate, they recover following heatwave disruption is largely unknown. We used ITS2 DNA metabarcoding to characterise symbiont assemblages in colonies ( n = 237; 598 samples) of the brain coral Platygyra ryukyuensis over a decade (2014–2023), spanning from before to long after the 2015–2016 El Niño at its epicentre, Kiritimati, in the central equatorial Pacific. Although before the heatwave only P. ryukyuensis colonies exposed to high levels of chronic local disturbance were dominated by stress‐tolerant Durusdinium symbionts, surviving colonies around the atoll transitioned during the heatwave from Cladocopium dominance to Durusdinium dominance. Here, we show that nearly eight years after this transition, these symbiotic partnerships had not recovered, but rather Durusdinium remained entrenched in virtually all (92%) Platygyra colonies. Recovery of symbionts in the genus Cladocopium was severely limited and restricted to taxa distinct from their ‘C3’ and ‘C50a’ pre‐heatwave congenerics. Moreover, in the three immediate post‐heatwave years, many tracked corals, and especially those at low local disturbance, high in‐water visibility sites, hosted transient symbiont assemblages codominated by Durusdinium and the previously rare genus Symbiodinium . Our results demonstrate that heatwave‐driven symbiont transitions can persist for longer than the average heatwave return time, potentially impairing coral resilience to future extreme weather events.",
-      "keywords": [
-        "Obligate",
-        "Coral",
-        "Coral reef",
-        "Climate change",
-        "Symbiosis",
-        "Dominance (genetics)",
-        "Scleractinia",
-        "Reef"
       ]
     },
     {
