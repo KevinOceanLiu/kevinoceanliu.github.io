@@ -1,0 +1,76 @@
+% Compile with pdfLaTeX in Overleaf.
+\documentclass[10.5pt,a4paper]{article}
+
+\usepackage[margin=1.75cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{libertinus}
+\usepackage{microtype}
+\usepackage[colorlinks=true,urlcolor=blue,linkcolor=blue]{hyperref}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlist[itemize]{leftmargin=0pt,label={},itemsep=0.35em,topsep=0pt,parsep=0pt,partopsep=0pt}
+\setlist[enumerate]{leftmargin=1.7em,label=\arabic*.,itemsep=0.35em,topsep=0pt,parsep=0pt,partopsep=0pt}
+
+\newcommand{\cvitem}[2]{#1 #2\par}
+\newcommand{\publication}[2]{\item[#1.] #2}
+\newcommand{\cvsection}[1]{\par\vspace{1.1em}\textbf{#1}\par\vspace{0.45em}}
+
+\begin{document}
+
+{\LARGE\bfseries HAIYANG LIU}\\[0.25em]
+Curriculum Vitae \textbar{} 2026.07\\[0.5em]
+\rule{\textwidth}{0.4pt}\\[0.8em]
+Email: \href{mailto:haiyang.liu.q6@elms.hokudai.ac.jp}{haiyang.liu.q6@elms.hokudai.ac.jp}\\
+Website: \href{https://kevinoceanliu.github.io}{kevinoceanliu.github.io}\\
+Address: Nayoro, Hokkaido, Japan
+
+\cvsection{Personal}
+\cvitem{Citizenship:}{China}
+
+\cvsection{Education}
+\begin{itemize}
+  \item \textit{2025.04--Present} \quad Ph.D. Candidate in Forest Field Science, Graduate School of Environmental Science, Hokkaido University, Sapporo, Japan
+  \item \textit{2020.09--2023.06} \quad M.S. in Biology and Medicine, Chengdu Institute of Biology, University of Chinese Academy of Sciences, Chengdu, China
+  \item \textit{2015.09--2019.06} \quad B.S. in Physical Geography and Resource Environment, School of Environment and Resources, Shanxi University, Taiyuan, China
+  \item Membership \quad \href{https://yongzesong.com/lab.html}{Curtin University Geospatial Intelligence Lab member}
+\end{itemize}
+
+\cvsection{Publications}
+\begin{enumerate}
+  \publication{5}{Liu, H., Song, Y., Zhang, P., Ren, K., \& Wu, Y. (2026). Generalised spatial error for validation. \textit{GIScience \& Remote Sensing}, 63(1). \href{https://doi.org/10.1080/15481603.2026.2690327}{https://doi.org/10.1080/15481603.2026.2690327}}
+  \publication{4}{Liu, H., Song, Y., Zhang, P., \& Yang, N. (2026). Pattern similarity learning for spatially adaptive soil organic carbon mapping. \textit{Journal of Geovisualization and Spatial Analysis}, 10, 37. \href{https://doi.org/10.1007/s41651-026-00279-y}{https://doi.org/10.1007/s41651-026-00279-y}}
+  \publication{3}{Liu, H., Song, Y., Yi, W., \& Zhang, P. (2026). Degree of geocomplexity for diagnosing spatial pattern loss beyond prediction accuracy. \textit{GIScience \& Remote Sensing}, 63(1), 2657087. \href{https://doi.org/10.1080/15481603.2026.2657087}{https://doi.org/10.1080/15481603.2026.2657087}}
+  \publication{2}{Liu, H., Song, Y., \& Yi, W. (2026). Degree of spatial interpretability. \textit{International Journal of Geographical Information Science}, 1--21. \href{https://doi.org/10.1080/13658816.2026.2614335}{https://doi.org/10.1080/13658816.2026.2614335}}
+  \publication{1}{Sun, Y., Wu, G., Song, Y., Liu, H., Wang, L., Zhang, Z., \& Hu, J. (2026). Local effects of pattern interactions in driving urbanization. \textit{International Journal of Applied Earth Observation and Geoinformation}, 146, 105072.}
+\end{enumerate}
+
+\cvsection{Conference Presentation}
+Liu, H. (2025). \textit{Effects of Sasa mass-flowering and dieback on forest tree regeneration: Preliminary results from a seedling survey in the Nakagawa Experimental Forest}. Poster presented at the JaLTER Open Science Meeting 2025, Nakagawa, Hokkaido, Japan, 2025.10.07--2025.10.08.
+
+\cvsection{Fellowships and Awards}
+\begin{itemize}
+  \item \textit{2025--2028} \quad Hokkaido University EXEX Doctoral Fellowship
+  \item \textit{2026} \quad EXEX Doctoral Fellowship Overseas Co-Learning Program Grant, Hokkaido University
+  \item \textit{2025.05--2026.05} \quad JASSO Scholarship for Privately Financed International Students
+  \item \textit{2023} \quad Outstanding Student Award, Chengdu Institute of Biology, Chinese Academy of Sciences
+  \item \textit{2017} \quad Scholarship for the Second Year of Studies, School of Environment and Resources, Shanxi University
+\end{itemize}
+
+\cvsection{Academic Service}
+Peer Reviewer:
+\begin{itemize}
+  \item International Journal of Applied Earth Observation and Geoinformation: 5 reviews
+  \item All Earth: 1 review
+  \item GIScience \& Remote Sensing: 1 review
+\end{itemize}
+
+\end{document}
