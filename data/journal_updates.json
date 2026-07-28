@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:16:51.613976+00:00",
+  "generated_at": "2026-07-28T22:16:26.136944+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115559",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115559",
-      "title": "MUSTI: Multi-scale spatiotemporal tensor imputation for global leaf area index time series reconstruction",
+      "doi": "10.1016/j.rse.2026.115592",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115592",
+      "title": "Rice leaf pathogen infection alters the spectral–biochemical relationships revealed by radiative transfer model inversion",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,31 +38,14 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003299",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003627",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.rse.2026.115580",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115580",
-      "title": "GNSS–T for ecohydrological monitoring of a european beech forest: Assessing different system and band characteristics for resolving temporal VOD dynamics",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003500",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.006",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.006",
-      "title": "Deep learning-based decoupling of hydro-meteorological signals from Cheonji caldera lake water levels for volcanic precursor detection",
+      "doi": "10.1016/j.isprsjprs.2026.07.009",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.009",
+      "title": "ParkingTwin: Training-free streaming 3D reconstruction for parking-lot digital twins",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -72,9 +55,75 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003539",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003564",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.005",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.005",
+      "title": "Graph-Regularized Point-to-Trajectory Association for RS-AIS fusion toward maritime moving-ship identification and spatial refinement",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003527",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115559",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115559",
+      "title": "MUSTI: Multi-scale spatiotemporal tensor imputation for global leaf area index time series reconstruction",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003299",
+      "abstract": "",
+      "keywords": [
+        "Mean squared error",
+        "Spurious relationship",
+        "Principal component analysis",
+        "Leaf area index",
+        "Tensor (intrinsic definition)",
+        "Singular value decomposition",
+        "Normalized Difference Vegetation Index",
+        "Singular spectrum analysis"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115580",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115580",
+      "title": "GNSS–T for ecohydrological monitoring of a european beech forest: Assessing different system and band characteristics for resolving temporal VOD dynamics",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003500",
+      "abstract": "",
+      "keywords": [
+        "Beech",
+        "Visibility",
+        "Temporal resolution",
+        "Dynamics (music)",
+        "Ecohydrology"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2702485",
@@ -91,8 +140,17 @@
         27
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2702485",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Understanding fine-scale demographic compositions, such as sex and age structures, is fundamental to many fields, including public health, urban planning, and marketing. However, most existing fine-scale population products did not have spatial heterogeneities of demographic compositions within administrative units. This study, for the first time, developed a novel approach to estimate complete sex and age structures on 100 × 100 m grid cells, based on multimodal data including census, remote sensing imagery, and geotagged social media data. Key environmental variables derived from remote sensing imagery – such as artificial light intensity and vegetation index – and demographics-related variables extracted from social media texts were integrated using a multi-output random forest model, which, accounting for correlations among multiple demographic attributes, estimated the associations between the aforementioned variables and census-derived demographic compositions, including sex and age structures. The root mean square error (RMSE) of the final product was 6.18 for the sex ratio (the number of males per 100 females), and 1.89%, 3.82%, and 3.40% for the percentages over the total population of age groups 0–14, 15–59, and ≥60 years, respectively. This approach holds potential for detailed demographic modeling, which can be extended to other sociodemographic factors and benefit multiple disciplines.",
+      "keywords": [
+        "Social media",
+        "Population",
+        "Vegetation (pathology)",
+        "Product (mathematics)",
+        "Key (lock)",
+        "Geographic information system",
+        "Index (typography)",
+        "Normalized Difference Vegetation Index"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2688410",
@@ -109,8 +167,40 @@
         27
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2688410",
-      "abstract": "",
-      "keywords": []
+      "abstract": "1. Health and disease are inherently geographic. They emerge, spread, and are experienced through the interactions among individual behaviors, environmental exposures, mobility patterns, and social...",
+      "keywords": [
+        "Health data",
+        "Knowledge transfer",
+        "Public health",
+        "Data collection",
+        "Field (mathematics)",
+        "Population health"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.006",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.006",
+      "title": "Deep learning-based decoupling of hydro-meteorological signals from Cheonji caldera lake water levels for volcanic precursor detection",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-27",
+      "published_date_display": "2026-07-27",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003539",
+      "abstract": "Although lake level fluctuations in caldera lakes serve as critical precursors reflecting the hydro-thermal instability of magma systems, their utility as precise monitoring indicators has been limited because volcanic signals are often masked by meteorological variability, such as precipitation and evaporation. This study proposes a novel deep learning-based framework that integrates long-term Landsat and Sentinel-2 optical satellite imagery (1987–2021) to extract candidate volcanic water-level anomalies by decoupling meteorological factors. The proposed framework consists of three key steps: 1) precise segmentation of water bodies from heterogeneous satellite imagery using a multi-encoder SiU-Net model, followed by DEM-referenced water level retrieval via integration with the Copernicus DEM and independent cross-validation against ICESat-2 ATL13 altimetry; 2) quantitative modeling and decoupling of nonlinear meteorological effects through a five-variable (T, H, PP, DiY, SAT) LSTM-based Multivariate Influence Correction Model (MICM) driven by ERA5-Land reanalysis data; and 3) identification of volcanic activity periods using the finally corrected time-series water-level anomalies. Experimental results demonstrate the robustness of the constructed time series, with SiU-Net achieving a high F1-score of over 0.99 for both Landsat and Sentinel-2 imagery. The ERA5-Land-driven MICM achieved a water-level RMSE of 0.4284 m, and the resulting anomaly distribution (μ = +0.063 m, σ = 0.424 m) yielded a 99% confidence interval of ±1.092 m for outlier detection. Three statistically significant water-level anomalies — at DOY 248 of 2000, DOY 216 of 2006, and DOY 267 of 2010 — temporally aligned with independently documented Mt. Baekdu unrest periods, including the 2002–2005 magma injection episode and its 2006–2010 continued-injection phase. These findings suggest that the proposed satellite-based hydrological monitoring approach using deep learning can serve as a complementary screening tool for volcanic surveillance alongside traditional geophysical observations.",
+      "keywords": [
+        "Caldera",
+        "Volcano",
+        "Decoupling (probability)",
+        "Satellite imagery",
+        "Satellite",
+        "Segmentation",
+        "Anomaly detection"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115582",
@@ -1096,7 +1186,7 @@
         9
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003485",
-      "abstract": "",
+      "abstract": "Global mining operations cause significant vegetation disturbance, yet their cumulative footprint remains poorly quantified. Remote monitoring of these changes over time is needed for environmental accounting and to estimate aggregated impacts across the thousands of mines that underpin global metal supply chains. In this contribution, we integrate vegetation index time series with a domain-adapted breakpoint detection approach, Seasonal Harmonic Anomaly Break Analysis (SHABA), to detect multiple abrupt and subtle vegetation changes associated with mining activities. We demonstrate the potential of this methodology with six geographically distributed mine sites: Cardinal River, Roșia Poieni, Trident, Carajás, Vametco, and Worsley. The resulting breakpoints accurately quantify cumulative changes associated with mine expansion and rehabilitation efforts and indicate where secondary changes in surrounding areas might occur. The mines’ footprint trajectories are varied and complex. In some of the cases illustrated in this study, primary footprints are dominated by stepwise vegetation clearing (2.11–5.77% yr 1), but also show early regrowth (1.58–2.68%yr 1). consistent with natural succession or rehabilitation. Secondary changes outside the direct mine footprint vary widely, but are temporally correlated with mine expansion. Based on these results, we hypothesise that the SHABA workflow could provide a robust approach to automated, global-scale quantification of changes in mine footprint over time and to better dialogue among stakeholders.",
       "keywords": [
         "Series (stratigraphy)",
         "Vegetation (pathology)",
@@ -11043,31 +11133,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.023",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.023",
-      "title": "Suspended sediment decline intensified riverbank erosion and collapse in the Yangtze river mainstream",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-21",
-      "published_date_display": "2026-03-21",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001371",
-      "abstract": "",
-      "keywords": [
-        "Sediment",
-        "Erosion",
-        "Estuary",
-        "Three gorges",
-        "Hydrology (agriculture)",
-        "Yangtze river",
-        "Bank erosion"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.015",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.015",
       "title": "SGCA: A Scribble-Guided Cross-Attention framework for multimodal remote sensing change detection",
@@ -11137,28 +11202,6 @@
         "Aerosol",
         "Joint (building)",
         "Ocean color"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.012",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.012",
-      "title": "DHT-SWNet: Frequency-aware ship and wake detection in multi-source optical remote sensing imagery",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-19",
-      "published_date_display": "2026-03-19",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001267",
-      "abstract": "",
-      "keywords": [
-        "Wake",
-        "Reflectivity",
-        "Earth remote sensing",
-        "Remote sensing application"
       ]
     },
     {
@@ -12025,29 +12068,6 @@
         "Surface (topology)",
         "Microclimate",
         "Climate change"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115341",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115341",
-      "title": "Pulse fragmentation-induced uncertainty in forest LAI mapping using UAV LiDAR",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-05",
-      "published_date_display": "2026-03-05",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001112",
-      "abstract": "Close-range airborne LiDAR captures high-density, high-accuracy point clouds, offering strong potential for spatially explicit Leaf Area Index (LAI) estimation in complex forests. However, key challenges in the modelling process — particularly LiDAR detection rates and accounting for the wood component — remain inadequately explored. Using simulated UAV LiDAR data generated with the Discrete Anisotropic Radiative Transfer (DART) model and realistic forest mock-ups, we evaluate how these factors influence LAI estimates. Simulated point clouds are processed with the open-source ray-tracing tool AMAPVox to assess (1) the bias introduced by incomplete detection and (2) the effectiveness of using a wood mask to exclude woody contributions. Our results show that pulse fragmentation promotes incomplete detection, which biases LAI estimates; the magnitude of this bias depends on the return-weighting strategy. For example, removing returns with small reflectance, which collectively contribute less than 5% of the backscattered energy, results in an overestimation of LAI by 10% to 20%. An alternative very simple and highly scalable weighting strategy consisting of selecting the strongest return per pulse is also explored and is shown to be effective in most cases albeit slightly less accurate. Additionally, segmentation accuracy declines as the proportion of mixed leaf-wood points increases. These findings suggest that small footprint LiDAR systems are better suited for LAI mapping: their smaller footprints reduce beam fragmentation (mitigating echo-weighting uncertainties) and minimize mixed points while improving geolocation accuracy — critical for robust leaf/wood classification. These insights advance best practices for LiDAR-based forest monitoring.",
-      "keywords": [
-        "Lidar",
-        "Pulse (music)",
-        "Satellite",
-        "Aerial survey",
-        "Synthetic aperture radar"
       ]
     },
     {
