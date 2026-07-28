@@ -4837,11 +4837,16 @@ select {
 
 .news-announcement {
     display: flex;
+    flex-direction: column;
     align-items: flex-start;
-    justify-content: flex-start;
+    justify-content: space-between;
+    gap: var(--spacing-lg);
     width: 100%;
     aspect-ratio: 16 / 10;
     padding: 0 clamp(24px, 4vw, 52px);
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-gutter: stable;
     color: var(--text-color);
     font-size: 16px;
     line-height: 1.65;
@@ -4855,6 +4860,14 @@ select {
 
 .news-announcement p {
     margin: 0;
+}
+
+.news-announcement > div + div {
+    padding-top: calc(var(--spacing-lg) + 8px);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='8' viewBox='0 0 16 8'%3E%3Cpath d='M0 4C2 1 6 1 8 4s6 3 8 0' fill='none' stroke='%23d6d6d6' stroke-width='1.2'/%3E%3C/svg%3E");
+    background-repeat: repeat-x;
+    background-position: top left;
+    background-size: 16px 8px;
 }
 
 .news-announcement a {
