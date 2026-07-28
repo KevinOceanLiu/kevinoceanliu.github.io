@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:42:19.425980+00:00",
+  "generated_at": "2026-07-28T22:42:05.589315+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01874-z",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01874-z",
+      "title": "Spiralling frontier threats in Indigenous Amazonia",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-28",
+      "published_date_display": "2026-07-28",
+      "published_parts": [
+        2026,
+        7,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01874-z",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02722-w",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02722-w",
+      "title": "Connected cities build mobility resilience",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-28",
+      "published_date_display": "2026-07-28",
+      "published_parts": [
+        2026,
+        7,
+        28
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02722-w",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01906-8",
       "doi_url": "https://doi.org/10.1038/s41893-026-01906-8",
       "title": "Towards safe and just planetary boundaries for novel entities",
@@ -41,7 +77,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01906-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Planetary boundaries",
+        "Safeguard",
+        "Human health",
+        "Conceptual framework",
+        "Diversity (politics)",
+        "Production (economics)",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01902-y",
@@ -59,7 +103,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01902-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Aquaculture",
+        "Biofilter",
+        "Filter (signal processing)",
+        "Algal bloom",
+        "Pollutant",
+        "Copper"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02698-7",
@@ -77,7 +128,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02698-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Biodiversity",
+        "Photosynthesis",
+        "Ecosystem",
+        "Vegetation (pathology)",
+        "Productivity",
+        "Terrestrial ecosystem",
+        "Carbon cycle"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02692-z",
@@ -95,7 +155,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02692-z",
       "abstract": "Abstract Boreal forests, covering approximately a quarter of the continuous permafrost zone, store relatively modest aboveground carbon, but thermally protect vast soil organic carbon (SOC) pools. Here, using a process-based model to compare seasonal thaw depths under forested and bare-ground scenarios, we quantify distinct canopy thermal insulation capacities of deciduous needleleaf, evergreen needleleaf and deciduous broadleaf canopies on permafrost thermal dynamics. Canopy buffering maintains approximately 59 Pg of carbon in a frozen state, which equals 32% of the total forested permafrost carbon pool and far exceeds boreal biomass stocks (7–19 Pg). Canopy changes could mobilize this frozen SOC through gradual thaw (40 Pg) and rapid thermokarst collapse (19 Pg). While forest loss sacrifices biomass carbon stocks, resulting thaw would expose orders of magnitude more SOC from previously frozen reservoirs, revealing a critical asymmetry. Forest conservation strategies in continuous permafrost zones must account for canopy-mediated thermal protection of frozen SOC, which far exceeds its biomass carbon sequestration capacity.",
-      "keywords": []
+      "keywords": [
+        "Permafrost",
+        "Thermokarst",
+        "Taiga",
+        "Canopy",
+        "Boreal",
+        "Deciduous",
+        "Evergreen",
+        "Biomass (ecology)"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02044-8",
