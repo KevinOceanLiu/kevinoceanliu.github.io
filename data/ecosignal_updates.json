@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T23:37:54.904446+00:00",
+  "generated_at": "2026-07-29T23:40:27.890229+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -223,6 +223,78 @@
       ]
     },
     {
+      "doi": "10.1111/1365-2664.70516",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70516",
+      "title": "Identifying climatic refugia: Wet and complex habitats act as buffer for birds during severe droughts",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
+      "published_parts": [
+        2026,
+        7,
+        29
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70516",
+      "abstract": "Abstract Anthropogenic climate change impacts biodiversity by altering habitats through rising temperatures and changing precipitation patterns, including extreme climatic events, such as droughts and heatwaves. Identifying and conserving climate refugia—stable habitats that buffer species during extreme events by maintaining suitable microclimatic conditions—is crucial as such events become more frequent and intense. Using bird survey data from eight Mediterranean habitats over 7 years (including more than 3 years of drought with less than half the average annual precipitation), we predicted that complex and wetter habitats support higher bird abundance and richness during droughts. To test this, we evaluated the effects of precipitation and temperature from the current and previous year, the climate–vegetation structure interactions and climate–microsite (wet/dry) interactions on birds, aiming to identify key climate refugia. Results showed that wet habitats supported higher bird abundance and richness. However, vegetation complexity alone may not serve as effective refugia. Furthermore, open‐habitat species also shift into structurally suboptimal wet habitats during drought, highlighting complex behavioural responses. A refugia effect was evident during drought years, but immediately after more than 3 years of drought, bird populations declined across almost all habitats, highlighting the limited mid‐term capacity of refugia. Synthesis and applications . Wet habitats and complex vegetation, therefore, are critical for providing stable microsites and water resources, underscoring the need to preserve and enhance the resilience of these habitats to support biodiversity during extreme events. Our study provides valuable insights for conservation strategies that should focus on identifying refugia, enhancing landscape connectivity, and supporting species mobility and adaptation. Targeted landscape management can then use this information to guide efforts to protect ecosystems amid increasing climate variability.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70424",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70424",
+      "title": "Cover Picture and Issue Information",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
+      "published_parts": [
+        2026,
+        7,
+        29
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70424",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.70931",
+      "doi_url": "https://doi.org/10.1111/gcb.70931",
+      "title": "Issue Information",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
+      "published_parts": [
+        2026,
+        7,
+        29
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70931",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71029",
+      "doi_url": "https://doi.org/10.1111/gcb.71029",
+      "title": "Artificial Light at Night Drives Asymmetric Biological Allocation of Soil Carbon and Nitrogen by Fragmenting Micro‐Food Webs",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
+      "published_parts": [
+        2026,
+        7,
+        29
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71029",
+      "abstract": "ABSTRACT Artificial light at night (ALAN) is an increasingly pervasive global change driver, yet its effects on the interconnected biogeochemical cycling of soil carbon (C) and nitrogen (N) remain poorly understood. Here, we conducted an in situ dual‐isotope ( 13 C‐CO 2 pulse labelling and 15 N addition) experiment combined with multitrophic microbial network analysis in a semi‐arid meadow steppe to explore the impact of ALAN on belowground C and N cycling and the underlying mechanisms. We found that ALAN significantly accelerated the turnover of newly fixed plant C, a process primarily fueled by the increased root‐derived C input from ALAN‐stimulated plant biomass (the bottom‐up C‐pump). Concurrently, while this plant‐driven C surplus primarily fueled elevated soil respiration, ALAN substantially enhanced microbial 15 N retention, resulting in a pronounced asymmetric biological allocation of assimilated C and N within the biotic pools. This stoichiometric divergence was underpinned by a physiological shift toward a conservative microbial N retention strategy, whereby soil microorganisms increased N retention efficiency to counterbalance the stoichiometric C surpluses induced by enhanced plant inputs. Crucially, we found that this enhanced biological N retention was predicted not by microbial taxonomic diversity but was closely associated with a directional trend toward reduced micro‐food web structural connectivity. This fragmented network architecture potentially altered top‐down trophic controls, which compounded the plant‐driven stoichiometric imbalance by limiting predator‐mediated N mineralization and thereby promoting relative N retention within the microbial biomass. Our findings highlight light pollution as an underappreciated global change driver that specifically accelerates plant‐mediated bottom‐up C loss while simultaneously promoting microbial N retention via fragmented micro‐food webs in increasingly illuminated ecosystems.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/gcb.71011",
       "doi_url": "https://doi.org/10.1111/gcb.71011",
       "title": "Topography Dependence of Terrestrial Litter‐Derived Soil Respiration",
@@ -238,7 +310,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71011",
       "abstract": "ABSTRACT Carbon (C) released from decomposing plant litter constitutes a major component of soil CO 2 efflux at the land surface, yet its contribution is rarely constrained separately from heterotrophic respiration of stable soil organic matter in global C budgets and Earth system model evaluations. We combined a global dataset with high‐resolution field observations to quantify the contribution of litter‐derived soil respiration ( R s ) using litter‐input and litter‐removal experiments, and to project its current distribution and future dynamics with machine‐learning models. On average, litter‐derived R s accounted for 30.9% of total R s . Higher contributions were estimated for experiments of shorter duration, highlighting the important role of fast‐cycling C alongside soil organic matter turnover. Litter‐derived R s varied substantially among ecosystems (grasslands > croplands > forests > wetlands) but did not differ significantly between tropical and temperate climates. Land surface slope exerted a stronger control than climatic or edaphic factors across both mountain and non‐mountain regions, suggesting a pronounced topographic regulation. High‐frequency field measurements further confirmed this pattern, with litter‐derived R s at mountain ridges being 1.5 times that in valleys. Global projections indicated a higher litter‐derived R s at low latitudes and greater vulnerability in cold climates under SSP 1–2.6 and SSP 5–8.5 scenarios. These findings demonstrate that litter decomposition is a substantial source of soil CO 2 flux that is strongly controlled by terrain. Accounting for this CO 2 pathway improves our understanding of how landscape heterogeneity influences terrestrial C cycle and enhances future predictions of ecosystem responses to climate change.",
-      "keywords": []
+      "keywords": [
+        "Edaphic",
+        "Soil respiration",
+        "Carbon cycle",
+        "Terrestrial ecosystem",
+        "Soil carbon",
+        "Ecosystem",
+        "Biome",
+        "Soil organic matter",
+        "Temperate climate",
+        "Soil water"
+      ]
     },
     {
       "doi": "10.1111/gcb.71026",
@@ -256,7 +339,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71026",
       "abstract": "ABSTRACT Methanotrophs are key microbial regulators of soil methane (CH 4 ) sinks, but the global impact of their functional gene abundance on CH 4 oxidation remains unquantified. This gap limits the integration of key functional genes abundance parameters (e.g., pmoA ) into soil CH 4 sink model. We integrated meta‐analysis, machine learning, and process‐based modeling to assess the relationship between pmoA gene abundance and soil CH 4 uptake. Our developed Functional Gene Abundance‐Based Methanotrophy Model (FGA‐MeMo) incorporates pmoA as a proxy for CH 4 oxidation capacity, significantly improving model simulations. FGA‐MeMo estimates global upland soil CH 4 uptake at 45.74 ± 0.26 Tg year −1 , which is 56%–58% higher than MeMo model. Under SSP5‐8.5 scenario, this increases to 64.68 ± 0.35 Tg year −1 by 2100, with mid‐ and high‐latitude regions showing enhanced CH 4 oxidation due to greater pmoA abundance. These findings highlight the importance of integrating microbial functional genes into Earth system models for improved CH 4 cycle predictions.",
-      "keywords": []
+      "keywords": [
+        "Methane",
+        "Sink (geography)",
+        "Anaerobic oxidation of methane",
+        "Soil water",
+        "Climate change",
+        "Abundance (ecology)",
+        "Microbial population biology",
+        "Atmospheric methane"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03134-x",
@@ -8925,7 +9017,10 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03109-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Human multitasking",
+        "Period (music)"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03105-2",
@@ -8943,7 +9038,11 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03105-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Throat",
+        "Natural (archaeology)",
+        "MEDLINE"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70419",
@@ -14627,7 +14726,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03076-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Stability (learning theory)",
+        "Climate extremes",
+        "Climate change",
+        "Climate system",
+        "Climate science"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03050-0",
@@ -14995,7 +15100,10 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03072-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Range (aeronautics)",
+        "Selection (genetic algorithm)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70321",
@@ -16281,7 +16389,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03058-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Coral reef",
+        "Coral reef protection",
+        "Coral reef organizations",
+        "Environmental issues with coral reefs",
+        "Coral",
+        "Aquaculture of coral"
+      ]
     },
     {
       "doi": "10.1111/gcb.70858",
@@ -18810,33 +18925,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70805",
-      "doi_url": "https://doi.org/10.1111/gcb.70805",
-      "title": "Migrating in a Warming World: A Deep Learning Approach to Predict Pan‐American Seasonal Shifts in the Monarch Butterfly Niche",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-27",
-      "published_date_display": "2026-03-27",
-      "published_parts": [
-        2026,
-        3,
-        27
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70805",
-      "abstract": "ABSTRACT Climate change is driving biodiversity loss, disrupting ecosystem functioning, and altering species distributions. Migratory species, whose range varies across seasons depending on specific climatic conditions, are particularly sensitive to environmental changes and serve as indicators of ecosystem health. However, current species distribution models often fail to capture the temporal dynamics critical for migratory species, limiting their ability to provide accurate future range estimations. In this study, we address this gap by developing a time‐aware deep learning species distribution model for the monarch butterfly ( Danaus plexippus ), an iconic species for biodiversity conservation. Using monarch occurrence records across the Americas gathered from scientific and citizen science sources, we incorporate the effect of monthly climatic variables in a sequential framework. We compare the performance of our concatenated seasonal model to conventional time‐static baselines, showing not only better performance in the present, where the models have been trained and validated, but also in the past. Our findings show that climatic factors such as humidity, temperature, precipitation and cloud coverage strongly influence the ecological niche of the monarch butterfly, with notable seasonal and spatial variability. Applying our model under climate change scenarios, we predict a northwestward shift in the monarch range by the end of the XXI century, with expansion in Canada and significant contraction in California and Mexico, key sites for overwintering that also host resident monarch populations. These changes could severely impact the species' migratory cycle and population stability. Using Shapley values, an explainable AI technique, we identify the decrease in precipitation and an increase in temperature as important environmental drivers responsible for the contraction of overwintering sites. By focusing on a species of high ecological relevance through a time‐aware modeling approach, this work brings novel insights for the conservation of migratory species in the face of the challenges posed by climate change.",
-      "keywords": [
-        "Monarch butterfly",
-        "Environmental niche modelling",
-        "Overwintering",
-        "Climate change",
-        "Range (aeronautics)",
-        "Biodiversity",
-        "Ecosystem",
-        "Danaus"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70817",
       "doi_url": "https://doi.org/10.1111/gcb.70817",
       "title": "Aligning Nitrogen Form With Rice Preference Through Enhanced‐Efficiency Fertilizers Raises Yield and Cuts Emissions",
@@ -19629,7 +19717,7 @@
         18
       ],
       "link": "https://www.nature.com/articles/s41559-026-03046-w",
-      "abstract": "",
+      "abstract": "Publisher Correction to: Nature Ecology & Evolution https://doi.org/10.1038/s41559-026-02981-y , published online 25 February 2026.",
       "keywords": [
         "Territoriality",
         "Coevolution",
@@ -20379,7 +20467,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03024-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Prostate cancer",
+        "Plasticity",
+        "Cancer",
+        "Disease",
+        "MEDLINE",
+        "Prostate disease"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03004-6",
@@ -20421,7 +20516,15 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03012-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Genetic genealogy",
+        "Cancer",
+        "Immunity",
+        "Disease",
+        "MEDLINE",
+        "Genetic data",
+        "Cancer treatment"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03028-y",
@@ -20439,7 +20542,11 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03028-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Focus (optics)",
+        "Biological evolution",
+        "Biomedicine"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-02980-z",
@@ -20484,7 +20591,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03022-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Diversity (politics)",
+        "Norovirus",
+        "Selection (genetic algorithm)",
+        "Biological evolution",
+        "Natural (archaeology)"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02886-2",
@@ -20544,7 +20657,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03016-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Aneuploidy",
+        "Disease",
+        "Polycythemia vera",
+        "Natural selection",
+        "Biological evolution"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70285",
@@ -21608,33 +21727,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70771",
-      "doi_url": "https://doi.org/10.1111/gcb.70771",
-      "title": "Forest Degradation and Weather Jointly Affect Early‐Life Development in a Tropical Understory Bird",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        3,
-        3
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70771",
-      "abstract": "ABSTRACT Tropical forest birds face mounting pressures from habitat loss, degradation, and climate warming, yet their combined effects on early‐life development remain unclear. Using over a decade of morphological and behavioural observations from Kenya's Taita Hills and 4 years of nestling corticosterone measurements across eight forest patches differing in size and degradation, we examined how forest quality and climate shape nestling condition in the understorey insectivore placid greenbul ( Phyllastrephus cabanisi placidus ). Nestlings in smaller or more degraded patches showed lower body condition. Provisioning rates did not vary with forest quality, suggesting that poor condition in degraded habitats may result from lower prey quality rather than reduced parental effort. Unexpectedly, corticosterone levels were higher in larger forest patches, and nestlings with elevated corticosterone also showed more advanced wing development, indicating that corticosterone here may reflect developmental stage (readiness to fledge) rather than condition per se. In addition, nestling condition declined in hot weather. Furthermore, although body extremities were shorter in small or degraded patches at low temperatures, in hot weather nestlings developed extremities similar in length to those in larger, less degraded forest patches, consistent with short‐term thermoregulatory plasticity. By contrast, in high‐canopy areas tarsus growth decreased with increasing temperature, highlighting that multiple developmental mechanisms may operate simultaneously. High canopy cover also buffered body condition under dry weather, whereas nestlings in low‐canopy habitats were particularly vulnerable during drought. Our findings demonstrate how forest degradation and climate interact to shape nestling growth, physiology, and potential thermal plasticity. Maintaining intact forest canopies and large forest patches is thus critical for preserving the microclimatic buffering needed to support offspring development in a warming climate. Because multiple, and sometimes opposing, developmental mechanisms may act simultaneously, integrating morphological, behavioural, and physiological indicators provides a powerful multi‐metric approach to disentangle how habitat and climate jointly shape early‐life development.",
-      "keywords": [
-        "Understory",
-        "Insectivore",
-        "Habitat",
-        "Canopy",
-        "Tropical climate",
-        "Predation",
-        "Tropical and subtropical dry broadleaf forests",
-        "Tree canopy"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-026-03006-4",
       "doi_url": "https://doi.org/10.1038/s41559-026-03006-4",
       "title": "David Alexander Marques (1984–2026)",
@@ -22587,32 +22679,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70314",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70314",
-      "title": "Spatio‐temporal patterns and risk factors of wild boar–pig farm contact across Europe",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-21",
-      "published_date_display": "2026-02-21",
-      "published_parts": [
-        2026,
-        2,
-        21
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70314",
-      "abstract": "Abstract Diseases circulating at the wild–domestic animal interface are increasingly difficult to control due to human encroachment into wildlife habitats. Understanding the factors driving wild animals to visit livestock farms is crucial for reducing the risk of disease outbreaks with severe economic and social consequences. In this study, we quantified the contact rate at the wild boar–domestic pig interface across Europe using a large‐scale dataset of wild boar GPS tracking and domestic pig farm geolocations. We estimated wild boar contact rate with pig farms at hourly and monthly scales and analysed the influence of environmental, wild boar‐ and farm‐related variables. Across 187 tracked wild boars and 457 pig farms, we detected 3322 contact events, with a highly skewed contact distribution: only 5% of wild boars and 1% of farms accounted for 50% of all events. On average, each wild boar had 1.59 contacts per month with a given farm (95% CI: 1.33–1.85) and 2.58 contacts per month when considering all farms located within its monthly home range (95% CI: 1.62–3.53). Seasonal variation differed between sexes, with a bimodal distribution for males with contact rates peaking in March and August–September, and a slight increase in contact rate throughout winter for females. Monthly contact rate increased with forest cover, human footprint, wild boar population density and individual proximity to pig farms. Farms with more built infrastructure faced fewer contacts, and larger farms had higher contact rates. Contacts occurred mostly after sunset and around sunrise. Synthesis and applications . Our results highlight the need to incorporate wild boar spatio‐temporal behaviour and farm context into strategies aimed at reducing contact at the wild–domestic pig interface. While physical barriers and avoiding unintentional feeding remain essential, targeted measures during high‐risk periods, such as night‐time surveillance in summer and autumn, especially around large farms in wooded landscapes or areas with high wild boar density, could help reduce contact occurrence.",
-      "keywords": [
-        "Wild boar",
-        "Wildlife",
-        "Livestock",
-        "Outbreak",
-        "Population",
-        "Range (aeronautics)",
-        "Home range"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-026-03019-z",
       "doi_url": "https://doi.org/10.1038/s41559-026-03019-z",
       "title": "Author Correction: Tree diversity is changing across tropical Andean and Amazonian forests in response to global change",
@@ -23067,33 +23133,6 @@
         "Growing season",
         "Northern Hemisphere",
         "Forest management"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70288",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70288",
-      "title": "Dung beetles do not profit from enhanced spatial heterogeneity in temperate production forests: A forest manipulation experiment",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-15",
-      "published_date_display": "2026-02-15",
-      "published_parts": [
-        2026,
-        2,
-        15
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70288",
-      "abstract": "Abstract Central European forest management strategies promoting structurally homogeneous closed‐canopy forests have led to landscape‐level declines in biodiversity and ecosystem multifunctionality. Conservation‐targeted management programs aim at reintroducing structural heterogeneity into production forests; however, it is not well‐understood if species diversity and ecosystem functions generally profit from management promoting heterogeneity in forest structure. By removing and processing mammalian dung remains, dung beetles play an integral role in ecosystem functions in forests. In one of the largest manipulative forest experiments in Central Europe to date, we analysed the effects of enhanced structural heterogeneity in production forests, climate, and mammalian defecation on dung beetle diversity and dung removal rates at the local and landscape level. We assessed dung beetle assemblages and dung removal rates on 234 study patches (50 × 50 m) in 11 paired forest landscapes across a climatic gradient in Germany. Forest landscapes were managed either to conserve a homogeneous closed canopy or to create a heterogeneous forest structure with forest patches varying in canopy coverage and dead wood availability. We did not find that more heterogeneously managed forests had a higher dung beetle species diversity and dung removal rates. Canopy openings did not increase species turnover but decreased species diversity. Along the climate gradient, dung beetle average biomass and dung removal decreased with increasing temperature. Canopy openings in combination with higher temperatures negatively impacted all abundant dung beetle species, but especially the large species Anoplotrupes stercorosus , comprising >90% of the total dung beetle biomass. Synthesis and applications . Our results suggest that dung beetles do not profit from management increasing the structural heterogeneity of production forests. Future warming and openings in forest structure might have negative effects on dung beetles, and consequently on the ecosystem services they provide in production forests. Forest management should aim at preserving closed‐canopy forest stands, which would buffer temperature extremes and protect temperate dung beetle communities and their ecosystem functions.",
-      "keywords": [
-        "Dung beetle",
-        "Spatial heterogeneity",
-        "Canopy",
-        "Biodiversity",
-        "Ecosystem",
-        "Species diversity",
-        "Biomass (ecology)",
-        "Tree canopy"
       ]
     },
     {
@@ -24740,7 +24779,11 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-02998-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Trap (plumbing)",
+        "Field (mathematics)",
+        "Biological evolution"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-02978-7",
@@ -25295,7 +25338,9 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-02991-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Field (mathematics)"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-02979-6",
@@ -25958,7 +26003,10 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02938-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Natural (archaeology)",
+        "Biological evolution"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02970-7",
@@ -25976,7 +26024,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02970-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Horizon",
+        "Natural (archaeology)",
+        "Presentation (obstetrics)",
+        "Context (archaeology)",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02935-w",
@@ -25994,7 +26048,10 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02935-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Nitrogen",
+        "Nitrogen fixation"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02951-w",
@@ -26012,7 +26069,12 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02951-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Megafauna",
+        "Taxonomy (biology)",
+        "Table (database)",
+        "Subject (documents)"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02942-x",
@@ -26030,7 +26092,9 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02942-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02947-6",
@@ -26048,7 +26112,10 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02947-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Field (mathematics)",
+        "Period (music)"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02934-x",
@@ -26066,7 +26133,11 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02934-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Face (sociological concept)",
+        "Facial recognition system",
+        "Field (mathematics)"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02936-9",
@@ -26084,7 +26155,13 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02936-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Evolvability",
+        "Adaptation (eye)",
+        "Biological evolution",
+        "Selection (genetic algorithm)",
+        "Artificial life"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02949-4",
@@ -26102,7 +26179,9 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02949-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Deforestation (computer science)"
+      ]
     },
     {
       "doi": "10.1038/s41559-025-02948-5",
@@ -26120,7 +26199,9 @@
       ],
       "link": "https://www.nature.com/articles/s41559-025-02948-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Period (music)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70227",
