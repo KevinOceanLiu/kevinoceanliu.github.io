@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:11:33.638025+00:00",
+  "generated_at": "2026-07-30T22:18:06.449762+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -43,9 +43,43 @@
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.07.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.007",
-      "title": "MapGlue: Multimodal remote sensing image matching",
+      "doi": "10.1016/j.rse.2026.115539",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115539",
+      "title": "Deep learning tree and forest biomass from sub-meter resolution optical imagery",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003093",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115600",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115600",
+      "title": "An enhanced GRACE-based index for nationwide flood-prone region monitoring in China from 2003 to 2022",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003706",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.011",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.011",
+      "title": "GeoGS: Geometric Prior-Guided Gaussian Splatting for robust urban reconstruction from sparse views",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,7 +89,7 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003540",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003588",
       "abstract": "",
       "keywords": []
     },
@@ -73,6 +107,40 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003734",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.015",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.015",
+      "title": "Beyond coherence: scale-invariant phase quality estimation via gradient-field modeling",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003680",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.022",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.022",
+      "title": "Advancing hyperspectral nutrient modeling through transfer learning: Insights from foliar N–P–K estimation in cranberries",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003795",
       "abstract": "",
       "keywords": []
     },
@@ -966,7 +1034,7 @@
         15
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2686202",
-      "abstract": "",
+      "abstract": "State power is crucial in biodiversity conservation. It is often necessary for nongovernmental conservation actors to transform local biopolitical prospects of, and relations between, nonhuman and human communities. These actors often enable the catalyzing of control over land for and by the state, as interventions to strengthen conservation, including protected areas and corridors, often strengthen state authority. But states themselves also use conservation to extend and project power, both domestically and outwardly onto the world stage. This article focuses on the underresearched Indian state and how it extends and projects power externally and internally through the framing and governance of biodiversity. The Indian state has over time developed a complex, contradictory, and unique conservation profile that sheds new light on the relations between the state, power, and conservation. The article contributes to an emerging literature on the political ecology of the state by arguing that conservation connectivity, or corridors, are becoming central in this profile, as they connect outward and inward forms of projecting power. On the one hand, building conservation corridors can become an important way to monitor peasant populations, as corridors become state-controlled arteries that intersect with populous rural areas. On the other hand, corridors are particularly important for high-profile charismatic species like the tiger and elephant, which play a crucial role in Indian diplomacy.",
       "keywords": [
         "Political ecology",
         "State (computer science)",
@@ -11457,29 +11525,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.022",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.022",
-      "title": "Angular normalization of solar-induced chlorophyll fluorescence on tree crown scale for red and near-infrared bands based on multi-angle UAV observations",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600136X",
-      "abstract": "",
-      "keywords": [
-        "Normalization (sociology)",
-        "Crown (dentistry)",
-        "Scale (ratio)",
-        "Tree (set theory)",
-        "Chlorophyll fluorescence"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115367",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115367",
       "title": "Predicting surface soil moisture of northern peatlands from hyper- and multispectral satellite data",
@@ -11918,34 +11963,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.006",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.006",
-      "title": "A geographically weighted XGBoost framework for Pixel-Level modeling of vegetation responses using Multi-Source Earth Observation data",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-10",
-      "published_date_display": "2026-03-10",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001176",
-      "abstract": "Climate extremes increasingly shape vegetation dynamics in drylands, yet most modelling frameworks still treat spatial heterogeneity and nonlinear feedbacks separately. Here, we propose Geographically Weighted XGBoost (GW-XGBoost), a hybrid and interpretable framework that injects local coefficients from geographically weighted regression into an Extreme Gradient Boosting ensemble and explains predictions with SHapley Additive exPlanations (SHAP). The model is calibrated for the Middle East using a 30-year Landsat NDVI time series (1995–2024), ERA5-derived temperature and precipitation extreme indices, and topographic predictors. Using four baseline models (OLS, GWR, XGBoost, GW-XGBoost), our hybrid approach consistently delivers the best seasonal performance, with R2 = 0.80–0.85 and RMSE ≤ 0.02, and a mean cross-validated R2 of 0.82 (RMSE = 0.037), improving explained variance by 8–15% over benchmark models. SHAP diagnostics indicate a region-wide ecological transition. Winter and early-spring greenness, formerly constrained by cold extremes and multi-day rainfall, is now increasingly controlled by warm-percentile temperature thresholds. Summer and autumn vegetation have become more dependent on short-lived moisture pulses superimposed on intensifying heat. Spatially, compound-sensitive zones expand markedly in spring and summer, whereas comparatively resilient areas persist mainly along the Persian Gulf margins, the southern Arabian Peninsula and high-altitude belts. Emerging hotspots are identified along the Zagros and Taurus ranges, coastal corridors and hyper-arid interiors where concurrent heat, cold and precipitation anomalies converge. By integrating spatially adaptive regression, nonlinear ensemble learning and explainable AI on multi-source Earth observation data, GW-XGBoost provides high-resolution sensitivity layers that can support drought early-warning, water-resource planning and ecosystem-based adaptation in one of the world’s most climate-vulnerable regions.",
-      "keywords": [
-        "Vegetation (pathology)",
-        "Precipitation",
-        "Peninsula",
-        "Climate change",
-        "Normalized Difference Vegetation Index",
-        "Regression",
-        "Climate model",
-        "Benchmark (surveying)",
-        "Earth observation",
-        "Spatial ecology"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2625410",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2625410",
       "title": "Bringing a “Schooling Course” to the Geographies of Education: A Rhythmanalysis of Residential (Im)Mobility during Children’s Schooling in China",
@@ -12264,31 +12281,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.037",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.037",
-      "title": "SuperSTF: A latent diffusion model for cloud-free spatiotemporal remote sensing image fusion",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600095X",
-      "abstract": "Optical remote sensing images are often degraded by cloud contamination, leading to significant information loss. Moreover, due to the inherent trade-off between temporal and spatial resolutions, it is challenging to acquire images with both high temporal frequency and fine spatial detail. Existing works have achieved strong performance in cloud removal and spatiotemporal fusion (STF) when treating them as separate tasks. However, processing them independently can introduce cumulative errors that degrade the reliability of downstream applications. To address these challenges, we propose SuperSTF, an all-in-one framework that simultaneously reconstructs cloud-free, fine resolution image series over time from coarse resolution inputs and cloud contaminated fine resolution observations. By jointly modeling these tasks, SuperSTF adaptively exploits their intrinsic correlations, thereby enhancing both cloud removal and STF performance. Specifically, we design an efficient latent diffusion model for image generation, where a Swin Transformer-based network serves as the pixel space autoencoder. Cross-attention modules are incorporated into the diffusion network to facilitate multi-source feature fusion. Furthermore, cloud location encoding and acquisition date modulation are integrated into the framework to further improve reconstruction quality. Experiment results demonstrate the superiority of our proposed method in fusing multi-temporal and multi-source data to generate image series with fine details.",
-      "keywords": [
-        "Cloud computing",
-        "Image resolution",
-        "Pixel",
-        "Image fusion",
-        "Reliability (semiconductor)",
-        "Feature (linguistics)",
-        "Encoding (memory)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2624742",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2624742",
       "title": "Disorientation and Asylum-Seeking Youth: Examining the Emotional and Embodied Impacts of the UK Asylum System",
@@ -12487,29 +12479,6 @@
         "Mode (computer interface)",
         "Population",
         "Deep learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115323",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115323",
-      "title": "A framework to detect tillage practices from space: A demonstration in the US Midwest",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-28",
-      "published_date_display": "2026-02-28",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000933",
-      "abstract": "",
-      "keywords": [
-        "Tillage",
-        "Feature (linguistics)",
-        "Conventional tillage",
-        "Categorical variable",
-        "Agriculture"
       ]
     },
     {
@@ -12713,32 +12682,6 @@
         "Interferometric synthetic aperture radar",
         "Water content",
         "Vegetation (pathology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115252",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115252",
-      "title": "A decade of sea ice concentration retrieved from sentinel-1",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-24",
-      "published_date_display": "2026-02-24",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000222",
-      "abstract": "Arctic sea ice is fundamental to the global climate engine, modulating heat exchange between the ocean and the atmosphere and impacting large-scale oceanic and atmospheric movements. While the monitoring of sea ice concentration (SIC) from satellites has long depended on coarse-resolution passive microwave (PMW) sensors, Synthetic Aperture Radar (SAR) missions, such as Copernicus’s Sentinel-1, have emerged as complementary and fine-resolution sources of sea ice information. This study introduces the DMI-ASIP (Danish Meteorological Institute - Automated Sea Ice Products) data record; the first decade-long (2014–2024) and pan-Arctic SIC record derived from Sentinel-1 SAR imagery and provided at a high spatial resolution of 0.5 km. Compared to two well-established PMW-based SIC data records, DMI-ASIP consistently shows higher SIC and sea ice area, particularly in the marginal ice zone and during the melt season. Evaluation against an independent 2020–2022 SIC reference data record derived from optical Landsat-8 imagery indicates strong overall performance for DMI-ASIP, achieving a lower RMSE ( 8.7 % ) compared to the two PMW-based records ( 12.1 % and 13.6 % ). Furthermore, DMI-ASIP exhibits less seasonal variability in its performance than the PMW-based records. While DMI-ASIP is quantitatively closer to the reference data record, the evaluation revealed a consistent tendency for DMI-ASIP to overestimate sea ice concentrations ( + 2.5 % mean bias across the 2020–2022 evaluation period). The decade-long DMI-ASIP data record, extended by a corresponding operational near real-time product, is available through the Copernicus Marine Service. • First decade-long high-resolution Arctic sea ice concentration (SIC) record from SAR. • Higher SIC and sea ice area than PMW records, especially during the melt season. • Lower error (RMSE 8.7%) compared to PMW records (12%) when compared to a SIC reference. • Less seasonal performance variation than PMW records, especially during melt season. • Despite higher accuracy, the SAR-based record shows a positive SIC bias (+2.5%).",
-      "keywords": [
-        "Sea ice",
-        "Sea ice concentration",
-        "Sea ice thickness",
-        "Arctic ice pack",
-        "Synthetic aperture radar",
-        "Arctic",
-        "Cryosphere",
-        "Antarctic sea ice"
       ]
     },
     {
@@ -14194,6 +14137,33 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.007",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.007",
+      "title": "MapGlue: Multimodal remote sensing image matching",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2025-03-20",
+      "published_date_display": "2025-03-20",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003540",
+      "abstract": "",
+      "keywords": [
+        "Scalability",
+        "Robustness (evolution)",
+        "Matching (statistics)",
+        "Limiting",
+        "Deep learning",
+        "Context (archaeology)",
+        "Image matching",
+        "Object detection",
+        "Pattern recognition (psychology)"
       ]
     }
   ]
