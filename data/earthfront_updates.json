@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:39:47.365297+00:00",
+  "generated_at": "2026-07-30T22:46:49.543742+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,60 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41893-026-01908-6",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01908-6",
+      "title": "From corporate net-zero pledges to credible climate action",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
+      "published_parts": [
+        2026,
+        7,
+        30
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01908-6",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02040-y",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02040-y",
+      "title": "Threefold increase in atmospheric–riverine compound heatwaves under climate change",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
+      "published_parts": [
+        2026,
+        7,
+        30
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02040-y",
+      "abstract": "BY Record-breaking heatwaves disrupt global water, energy and food systems, yet the co-occurrence of atmospheric and riverine events remains largely unexplored. Here we analyse 796 river basins in the USA and Central Europe to characterize such co-occurring atmospheric–riverine compound heatwaves. Combining water quality observations with a deep learning model, we find that compound heatwaves have increased by about 0.40 events per decade since the 1980s. This corresponds to a rise from roughly 0.76 events per year in the early period to about three times that frequency today, meaning their occurrence has effectively tripled over the past four decades. This trend coincides with the rapid intensification of riverine heatwaves, which have increased in frequency (114%), duration (148%) and intensity (95%) between 1981–1990 and 2010–2019, far outpacing changes in atmospheric heatwaves. Compound occurrences are primarily controlled by climatic (59.2%), topographic (22.4%) and hydrological (18.3%) factors, with amplified trends in high-elevation (>3,000 m) mountain rivers (+128% per decade). Compared with isolated riverine heatwaves, compound heatwaves drive an additional 16% rise in water temperature and a further 2.9% decline in dissolved oxygen. Under a high-emissions scenario, 98.5% of riverine heatwaves will coincide with atmospheric heatwaves by 2100. These findings highlight the escalating threats of compound heatwaves to freshwater ecosystems and the need to incorporate their dynamics into future water risk assessments.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02694-x",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02694-x",
+      "title": "Local stories in climate change communication",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
+      "published_parts": [
+        2026,
+        7,
+        30
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02694-x",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41893-026-01874-z",
       "doi_url": "https://doi.org/10.1038/s41893-026-01874-z",
@@ -2089,14 +2143,21 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-07-01",
-      "published_date_display": "2026-07",
+      "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001831",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Scope (computer science)",
+        "Supply chain",
+        "Trustworthiness",
+        "Greenhouse gas",
+        "Climate change",
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101774",
