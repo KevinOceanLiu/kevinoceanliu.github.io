@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:40:27.890229+00:00",
+  "generated_at": "2026-07-30T23:40:35.589845+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -223,6 +223,24 @@
       ]
     },
     {
+      "doi": "10.1086/743437",
+      "doi_url": "https://doi.org/10.1086/743437",
+      "title": "Relict Savanna or Degraded Forest? Reinterpreting Open Woodlands in Sierra de Gredos (Central Spain)",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
+      "published_parts": [
+        2026,
+        7,
+        30
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743437",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2664.70516",
       "doi_url": "https://doi.org/10.1111/1365-2664.70516",
       "title": "Identifying climatic refugia: Wet and complex habitats act as buffer for birds during severe droughts",
@@ -238,7 +256,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70516",
       "abstract": "Abstract Anthropogenic climate change impacts biodiversity by altering habitats through rising temperatures and changing precipitation patterns, including extreme climatic events, such as droughts and heatwaves. Identifying and conserving climate refugia—stable habitats that buffer species during extreme events by maintaining suitable microclimatic conditions—is crucial as such events become more frequent and intense. Using bird survey data from eight Mediterranean habitats over 7 years (including more than 3 years of drought with less than half the average annual precipitation), we predicted that complex and wetter habitats support higher bird abundance and richness during droughts. To test this, we evaluated the effects of precipitation and temperature from the current and previous year, the climate–vegetation structure interactions and climate–microsite (wet/dry) interactions on birds, aiming to identify key climate refugia. Results showed that wet habitats supported higher bird abundance and richness. However, vegetation complexity alone may not serve as effective refugia. Furthermore, open‐habitat species also shift into structurally suboptimal wet habitats during drought, highlighting complex behavioural responses. A refugia effect was evident during drought years, but immediately after more than 3 years of drought, bird populations declined across almost all habitats, highlighting the limited mid‐term capacity of refugia. Synthesis and applications . Wet habitats and complex vegetation, therefore, are critical for providing stable microsites and water resources, underscoring the need to preserve and enhance the resilience of these habitats to support biodiversity during extreme events. Our study provides valuable insights for conservation strategies that should focus on identifying refugia, enhancing landscape connectivity, and supporting species mobility and adaptation. Targeted landscape management can then use this information to guide efforts to protect ecosystems amid increasing climate variability.",
-      "keywords": []
+      "keywords": [
+        "Habitat",
+        "Biodiversity",
+        "Climate change",
+        "Species richness",
+        "Abundance (ecology)",
+        "Mediterranean climate",
+        "Vegetation (pathology)",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70424",
@@ -292,7 +319,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71029",
       "abstract": "ABSTRACT Artificial light at night (ALAN) is an increasingly pervasive global change driver, yet its effects on the interconnected biogeochemical cycling of soil carbon (C) and nitrogen (N) remain poorly understood. Here, we conducted an in situ dual‐isotope ( 13 C‐CO 2 pulse labelling and 15 N addition) experiment combined with multitrophic microbial network analysis in a semi‐arid meadow steppe to explore the impact of ALAN on belowground C and N cycling and the underlying mechanisms. We found that ALAN significantly accelerated the turnover of newly fixed plant C, a process primarily fueled by the increased root‐derived C input from ALAN‐stimulated plant biomass (the bottom‐up C‐pump). Concurrently, while this plant‐driven C surplus primarily fueled elevated soil respiration, ALAN substantially enhanced microbial 15 N retention, resulting in a pronounced asymmetric biological allocation of assimilated C and N within the biotic pools. This stoichiometric divergence was underpinned by a physiological shift toward a conservative microbial N retention strategy, whereby soil microorganisms increased N retention efficiency to counterbalance the stoichiometric C surpluses induced by enhanced plant inputs. Crucially, we found that this enhanced biological N retention was predicted not by microbial taxonomic diversity but was closely associated with a directional trend toward reduced micro‐food web structural connectivity. This fragmented network architecture potentially altered top‐down trophic controls, which compounded the plant‐driven stoichiometric imbalance by limiting predator‐mediated N mineralization and thereby promoting relative N retention within the microbial biomass. Our findings highlight light pollution as an underappreciated global change driver that specifically accelerates plant‐mediated bottom‐up C loss while simultaneously promoting microbial N retention via fragmented micro‐food webs in increasingly illuminated ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Biogeochemical cycle",
+        "Trophic level",
+        "Cycling",
+        "Nitrogen cycle",
+        "Mineralization (soil science)",
+        "Soil carbon",
+        "Carbon cycle",
+        "Microbial population biology",
+        "Biomass (ecology)",
+        "Global change"
+      ]
     },
     {
       "doi": "10.1111/gcb.71011",
