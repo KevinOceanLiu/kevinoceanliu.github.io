@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:18:24.189081+00:00",
+  "generated_at": "2026-07-31T23:15:58.119789+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105760",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105760",
-      "title": "The global prevalence of native and non-native plants in urban areas",
+      "doi": "10.1016/j.landurbplan.2026.105757",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105757",
+      "title": "Pollinator habitat enhancement through ornamental plants, floral traits and urban green area features for planning biodiversity-friendly cities",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
@@ -43,9 +43,244 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001842",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001817",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102492",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102492",
+      "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000943",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107436",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107436",
+      "title": "Smarter and healthier cities in the era of AI: A state-of-the-art review",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006682",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107462",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107462",
+      "title": "Perceiving “city of proximity” beyond spatial closeness: Explaining travel and consumption behavior through perceptions and preferences",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006943",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107452",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107452",
+      "title": "Integrating AI into urban vitality promotion: The impact of building morphology on daily consumption quality in Hong Kong",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006840",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107465",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107465",
+      "title": "How can land development intensity and land use benefit be coordinated in high-speed railway station areas? Evidence from 1570 station areas in China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006979",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107430",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107430",
+      "title": "Density-based incentives in private residential projects to promote social integration? Evidence on its difficulties",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006621",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107407",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107407",
+      "title": "City-level green space coverage as protective urban infrastructure for healthy ageing",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006396",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107460",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107460",
+      "title": "A spatiotemporal comparison of urban shrinkage in Chinese and American urban agglomerations: Evidence from nighttime light data (2012−2020)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600692X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00487-z",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00487-z",
+      "title": "Urban infrastructure and fossil fuel industrial legacy drive US data center siting",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00487-z",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00502-3",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00502-3",
+      "title": "Living bioreactive facades for visible carbon reduction in cities",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00502-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00488-y",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00488-y",
+      "title": "Cities, not rural areas, power the digital infrastructure of the USA",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00488-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261464767",
+      "doi_url": "https://doi.org/10.1177/00420980261464767",
+      "title": "Social constructivism in Bus Rapid Transit corridor planning: Social actors and their contestations in reshaping Denver’s East Area",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
+      "published_parts": [
+        2026,
+        7,
+        30
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261464767",
+      "abstract": "What motivates urban transport projects, and what roles do various stakeholders play in their design, visioning, and implementation? This theoretical conceptualization article explores urban transport through a social-constructivist lens. I pair inductive and grounded-theory approaches to engage primary-source, qualitative perspectives from a multi-agency Bus Rapid Transit (BRT) planning process in Denver, Colorado. The research setting is Denver’s concomitant East Area Plan, a corridor set to receive a BRT line, and a recent rezoning. Methods include participant observation at community meetings and civic events; conversations with planners, politicians, and civil servants; and close readings of neighborhood plans and statutory and transportation-planning materials. I code material deductively and inductively to identify thematic findings grounded in scholarly literature and disparate empirical materials. I find that economic-development goals drive project motivations and circumscribe formal participation opportunities. Residents and civic groups have contested those motives through sustained, coordinated alternative visions. A social-constructivist lens on urban-transport projects such as Denver’s East Colfax BRT enables a view of these projects as relational and co-constitutive between transportation planners and members of affected communities. Social constructivism in urban-transport planning reveals the interplay of social actors’ power and interests in shaping project outcomes, with implications for urban-transport projects globally.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105760",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105760",
+      "title": "The global prevalence of native and non-native plants in urban areas",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001842",
+      "abstract": "",
+      "keywords": [
+        "Urbanization",
+        "Biodiversity",
+        "Human settlement",
+        "Native plant",
+        "Urban ecosystem",
+        "Distribution (mathematics)",
+        "Urban ecology",
+        "Population",
+        "Introduced species"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107457",
@@ -54,15 +289,22 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600689X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Social integration",
+        "Social policy",
+        "Economic integration",
+        "Informal sector",
+        "China",
+        "Migrant workers"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107420",
@@ -71,15 +313,25 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006529",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Gentrification",
+        "Amenity",
+        "Visitor pattern",
+        "Tourism",
+        "Proxy (statistics)",
+        "Index (typography)",
+        "Subdivision",
+        "Dimension (graph theory)",
+        "Metropolitan area"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107466",
@@ -88,15 +340,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006980",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Social network analysis",
+        "Global network",
+        "Network analysis"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107402",
@@ -105,15 +361,20 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006347",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Placemaking",
+        "Inclusion (mineral)",
+        "Lived experience",
+        "Inclusion–exclusion principle"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107442",
@@ -122,15 +383,25 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006748",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Accelerating urbanization and growing water demand make cross-scale approaches to sustainable water management imperative across hydrologically connected urban regions. Integrated Water Resources Management (IWRM) has long emphasized coordinated, multi-scale governance linking upstream–downstream allocation, basin-scale management, stakeholder participation, and institutional coordination. Yet translating these principles into spatially explicit, community-supported planning actions remains challenging. Blue–green infrastructure (BGI) can serve as a practical, place-based instrument for this translation, but existing BGI research remains fragmented by scale, limiting coordination between regional strategies and local implementation, especially in rapidly urbanizing and institutionally complex contexts. In response, this study develops a cross-scale collaborative planning approach integrating multi-level mapping and stakeholder engagement for BGI planning. Conducted within the six-year Sino–German Urban–Rural Assembly project (2019–2024), it is applied in the rapidly urbanizing Huangyan–Taizhou Region, China, where inequitable water allocation, pollution, ecosystem degradation, and shifting sociocultural water dynamics pose major challenges. We investigate: (1) How can cross-scale mapping translate regional water concerns into localized BGI actions? (2) What governance mechanisms enable map-based analysis to support coordinated multi-stakeholder planning? (3) How can cross-scale collaborative BGI planning be embedded in top-down local governance while enabling bottom-up participation and cross-departmental coordination? The approach integrates regional visioning through expert workshops, transect-scale co-mapping of agricultural and industrial transition zones, and site-level co-design refined via workshops and interviews. Findings show that cross-scale mapping strengthens regional-to-site linkages, while collaborative planning translates analysis into stakeholder-supported interventions across scales and institutions. The study delivers actionable BGI strategies for Huangyan–Taizhou and a transferable framework for similar regions.",
+      "keywords": [
+        "Corporate governance",
+        "Collaborative governance",
+        "Stakeholder",
+        "Integrated water resources management",
+        "Urbanization",
+        "Water resources",
+        "Urban planning",
+        "Stakeholder engagement",
+        "Plan (archaeology)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107463",
@@ -139,15 +410,20 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006955",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Megacity",
+        "Mega-",
+        "Key (lock)",
+        "Urban infrastructure"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107431",
@@ -156,15 +432,24 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006633",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Objective To investigate whether school neighbourhood built environment (SNBE) profiles are associated with adolescents' active commuting to/from school (ACS) and related outcomes (i.e., basic psychosocial needs, motivation, and barriers). Methods A total of 311 adolescents (14.36 ± 0.63 years; 54.34% girls) self-reported ACS-related outcomes. The SNBE was assessed at both the macro- and micro-scale . Principal component analysis followed by hierarchical clustering was applied to classify schools into different macro-scale and micro-scale profiles. Multilevel linear mixed-effects models and multilevel logistic regression models were conducted to examine the associations between ACS and related outcomes and macro- and micro-scale environment profiles. Results At the macro-scale level, no significant associations were observed between SNBE profiles and ACS-related behavioural or psychosocial outcomes. Similarly, no significant independent associations were observed for micro-scale environments. However, a non-significant tendency towards higher odds of active commuting from school was observed in high-support micro-scale environments (OR = 2.60; p = 0.069). On the other hand, when both environmental scales were considered jointly, adolescents attending schools in green and walkable macro-scale and high-support micro-scale environments reported lower planning/psychosocial barriers (β = −0.50; p = 0.004), as well as higher intrinsic (β = 0.75; p = 0.038) and integrated motivation (β = 1.10; p = 0.002). In addition, these combined environments were associated with greater odds of actively commuting to school (OR = 7.31; p = 0.012), while a non-significant tendency was observed for commuting from school (OR = 4.75; p = 0.098). Conclusion This study suggests that independent associations of macro- and micro-scale school neighbourhood environments with adolescents' ACS and related outcomes were limited. However, the combined presence of favourable macro- and micro-scale environments was associated with lower planning/psychosocial barriers, higher autonomous motivation, and greater odds of ACS.",
+      "keywords": [
+        "Neighbourhood (mathematics)",
+        "Psychosocial",
+        "Multilevel model",
+        "Built environment",
+        "Odds",
+        "Logistic regression",
+        "Social environment",
+        "Odds ratio"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107406",
@@ -173,15 +458,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006384",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Settlement (finance)",
+        "Affordable housing",
+        "Human settlement"
+      ]
     },
     {
       "doi": "10.1177/00420980261466165",
@@ -199,7 +488,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261466165",
       "abstract": "The rise of platform-mediated gig work has contributed to the emergence of novel urbanscapes across the world. Recent scholarship has begun to recognise the decentralised and spatiotemporally fragmented nature of work organisation on digital labour platforms. However, the relationship between gig workers and their workplace, that is, the road itself, remains relatively underexplored. This article examines the dual role of roads within the labour process of food delivery platforms. First, it demonstrates how roads, in tandem with the information and communication technology infrastructure of gig platforms, function as a means of production through which workers deploy their labour to produce delivery service commodities. Second, it argues that roads also constitute a social space shaped by the caste and class hierarchies embedded in local political and social relations. These dual dimensions were uncovered through the author’s participation as a food delivery worker in New Delhi, India, which enabled access to otherwise opaque aspects of the labour process. The analysis also relies on ethnographic accounts of food delivery workers, which illuminate the central role that roads play in the process of value generation and how workers navigate through the endemic hostilities of the roads.",
-      "keywords": []
+      "keywords": [
+        "Scholarship",
+        "Ethnography",
+        "Work (physics)",
+        "Production (economics)",
+        "Function (biology)",
+        "Process (computing)",
+        "Service delivery framework",
+        "Value (mathematics)",
+        "Service (business)"
+      ]
     },
     {
       "doi": "10.1177/00420980261460621",
@@ -217,7 +516,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261460621",
       "abstract": "At a time of widening urban inequalities, intersecting social and environmental crises and the erosion of collective life through the intensifying commodification of urban space, it becomes increasingly urgent to cultivate the relational and imaginative capacities needed to sustain more caring forms of urban living. This article introduces ‘Radical Play’ as a conceptual and methodological framework for prefiguring a city of care – one in which everyday practices of interdependence and collective responsibility are actively rehearsed as foundations for democratic urban life. Radical Play repositions play as a political and situated urban practice. Unlike instrumental uses of play in participatory planning, design or placemaking, it foregrounds play’s subversive and prefigurative capacity for reappropriating the urban as common space. Drawing on play studies, critical urban theory and political philosophy, the article argues that Radical Play mobilises the liminal ‘as if’ condition of play – through its embodied, intersubjective and affective qualities – to suspend normative behaviours and rehearse alternative modes of collective existence. In doing so, it extends prefigurative politics into the everyday, framing relationality and care as practices of collective world making. These ideas are examined through two student-led, community-based interventions in Pamplona, Spain, which reappropriated balconies as relational spaces for cooperation and urban solidarity. Together, these projects trace a shift from play as event to play as infrastructure, revealing both the potential and fragility of Radical Play. Their value lies in their pedagogical force: demonstrating how alternative forms of urban living are learned through situated practice and collective rehearsal, rather than imagined as abstract ideals.",
-      "keywords": []
+      "keywords": [
+        "Situated",
+        "Politics",
+        "Framing (construction)",
+        "Collective action",
+        "Normative",
+        "Commodification",
+        "Social practice",
+        "Everyday life",
+        "Liminality"
+      ]
     },
     {
       "doi": "10.1177/00420980261466399",
@@ -235,7 +544,15 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261466399",
       "abstract": "This article uses the Olympic carceral framework to examine how securitization shaped urban experience in central Paris during the 2024 Games. Based on eight days of focused fieldwork in the 7th arrondissement, combining participant and non-participant observation with brief on-site conversations, and using official documents to establish planned perimeters and operating rules, we trace how public space was reorganized through layered controls. Although venues were urbanized into iconic sites, nearby streets were defined by fences, staffed checkpoints, and time-gated crossings that produced conditional publicness and muted ordinary presence. We show how commercial and legal constraints tied to venue governance, together with risk-led security, enabled the urbanization of the event without yielding the eventalization of the urban. More specifically, the Paris case suggests that carceral Olympism operates through calibrated permeability and graduated thresholds of access, movement, and visibility rather than through closure alone. The result was an archipelago of managed sites rather than a citywide celebration. We conclude with practical implications for host cities: permeability, re-entry, edge participation, and the relaxation of sponsor exclusivity are preconditions for integrating mega-events with everyday urban life.",
-      "keywords": []
+      "keywords": [
+        "Securitization",
+        "Public space",
+        "Participant observation",
+        "Urbanization",
+        "Closure (psychology)",
+        "Doors",
+        "Space (punctuation)"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105759",
@@ -373,7 +690,7 @@
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006906",
-      "abstract": "",
+      "abstract": "Previous research has examined how gender within local governments affects the relationship between municipal services and costs, using role congruence theory as a framework for understanding leadership competence. Drawing on arguments from social self-categorization theory, our study complements previous research by analyzing whether gender balance within these governments affects this relationship. From a binary categorization, considering the potential heterogeneity arising from the mayor's gender and the political ideology, our research analyzes whether greater gender balance within local government improves municipal performance. The results of this study, which were derived from regressions on corrected efficiencies obtained from a data envelopment analysis of 102 large Spanish municipalities with populations exceeding 50,000 inhabitants in the 2022 fiscal year, indicate that greater gender balance within the municipal government team leads to higher performance in service delivery when a female mayor is in office. The services' performance is also improved by the interaction between right-wing female mayors and gender diversity within government.",
       "keywords": [
         "Balance (ability)",
         "Service delivery framework",
@@ -485,7 +802,7 @@
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006591",
-      "abstract": "",
+      "abstract": "Inter-municipal food networks (IFNs) have become an increasingly prominent vehicle for local governments to develop more social and ecologically sustainable urban food strategies. IFNs are highly diverse, operating at different scales and specializing on different practices, from mutual exchange to policy advocacy, thereby offering a wide range of possibilities for local governments to develop transformative capacities. Yet, surprisingly little research has examined the inter-municipal dynamics and impact of IFNs, as most studies remain focused on individual city case studies. This raises questions about how IFNs operate and to what extent they contribute to sustainable transformations within their member cities. This article explores these questions through a systematic review of academic literature on IFNs. It seeks to identify the scale, governance modes, political activities, as well as drivers and barriers to impact of IFNs studied in the literature. Drawing on the multilevel perspective, the article discusses what we know about IFN's potential for food regime transformation, and which questions remain unanswered. While it finds some indications that IFNs can inspire new urban food strategies and respond to diverse political economic contexts, significant knowledge gaps remain concerning their scale, organizational governance, ambitions and impact, which inhibits a comprehensive assessment of their transformative potential.",
       "keywords": [
         "Food systems",
         "Food supply",
@@ -8118,25 +8435,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107242",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107242",
-      "title": "Introduction to ‘sustainable transit-oriented development: New perspectives and advances’",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-30",
-      "published_date_display": "2026-05-30",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004749",
-      "abstract": "",
-      "keywords": [
-        "Key (lock)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107156",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107156",
       "title": "Industrial parks development in Ethiopia: The institutional, spatial and transnational politics of industrial urbanism",
@@ -8155,29 +8453,6 @@
         "Politics",
         "Urbanism",
         "Urban planning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107191",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107191",
-      "title": "Housing sustainability and indoor environmental quality: Policy gaps and maintenance challenges in Irish social housing",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-30",
-      "published_date_display": "2026-05-30",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004233",
-      "abstract": "• Combines MSF and 3P theory to expose housing policy misalignments • Identifies critical policy gaps in Irish social housing IEQ standards • Shows reactive maintenance models fail to resolve systemic IEQ hazards • Advocates collaborative frameworks to balance housing supply and IEQ • Recommends proactive asset management and tenant co-design",
-      "keywords": [
-        "Irish",
-        "Sustainability",
-        "Public housing",
-        "Social sustainability",
-        "Affordable housing"
       ]
     },
     {
@@ -8402,57 +8677,6 @@
         "Urban park",
         "Social activity",
         "Feature (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107262",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107262",
-      "title": "Exploring the role of volunteer service usage in E-government adoption",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-29",
-      "published_date_display": "2026-05-29",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004944",
-      "abstract": "",
-      "keywords": [
-        "Volunteer",
-        "Business",
-        "Government (linguistics)",
-        "Service (business)",
-        "Internet privacy",
-        "Public relations",
-        "Marketing",
-        "Political science",
-        "Computer science",
-        "Linguistics"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107263",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107263",
-      "title": "Examining tourism driven peri-urbanization and its impacts on local livelihood dynamics in the global south: Lessons learnt from Bali, Indonesia",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-29",
-      "published_date_display": "2026-05-29",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004956",
-      "abstract": "",
-      "keywords": [
-        "Livelihood",
-        "Tourism",
-        "Tourist industry",
-        "Dynamics (music)",
-        "Ecotourism"
       ]
     },
     {
@@ -8703,28 +8927,6 @@
         "Geography",
         "Medicine",
         "Engineering"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107252",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107252",
-      "title": "Source/sink-centric mobility cube analytic framework to discover multi-level urban mobility patterns",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-27",
-      "published_date_display": "2026-05-27",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004841",
-      "abstract": "",
-      "keywords": [
-        "Cube (algebra)",
-        "Key (lock)",
-        "Path (computing)",
-        "Mobility model"
       ]
     },
     {
@@ -9379,53 +9581,6 @@
         "Urban density",
         "Land-use planning",
         "Urban climate"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107218",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107218",
-      "title": "Data use in urban walkability promotion: A case study from Tampere",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-22",
-      "published_date_display": "2026-05-22",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004506",
-      "abstract": "• Behavioral data is central for walkability policymaking. • Data primarily used to justify tradeoffs in walkability promotion. • Cross-sectoral collaboration and data merging practices needed.",
-      "keywords": [
-        "Walkability",
-        "Urban design",
-        "Survey data collection"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107161",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107161",
-      "title": "Beyond the pandemic: Spatial inequalities, health vulnerability, and urban resilience in Attica",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-22",
-      "published_date_display": "2026-05-22",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003938",
-      "abstract": "",
-      "keywords": [
-        "Vulnerability (computing)",
-        "Metropolitan area",
-        "Resilience (materials science)",
-        "Spillover effect",
-        "Urban resilience",
-        "Stressor",
-        "Inequality",
-        "Psychological resilience"
       ]
     },
     {
