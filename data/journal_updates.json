@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:18:06.449762+00:00",
+  "generated_at": "2026-07-31T22:15:11.779759+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115594",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115594",
-      "title": "STCAFormer: Spatio-temporal cross attention based transformer for fusion of remote sensing images",
+      "doi": "10.1016/j.rse.2026.115563",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115563",
+      "title": "Enhancements to the USGS Landsat Level 2 surface temperature and emissivity product for Collection 3 reprocessing",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,7 +38,58 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003640",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003330",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115591",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115591",
+      "title": "Beyond RMSE: The GEDI imputed waveform product minimizes artificial homogeneity evident in existing global forest height maps",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003615",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.021",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.021",
+      "title": "DAChanger: A remote sensing change detector inspired by differential amplifier circuit for signal energy Decoupling and geometric consistency",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003783",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.018",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.018",
+      "title": "Aerial–ground LiDAR place recognition with patch-level self-supervised learning and expanded reciprocal re-ranking",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003758",
       "abstract": "",
       "keywords": []
     },
@@ -49,15 +100,25 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003093",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Tree (set theory)",
+        "Biomass (ecology)",
+        "Lidar",
+        "Benchmark (surveying)",
+        "Forest inventory",
+        "Pixel",
+        "Random forest",
+        "Convolutional neural network",
+        "RGB color model"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115600",
@@ -66,49 +127,20 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003706",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.011",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.011",
-      "title": "GeoGS: Geometric Prior-Guided Gaussian Splatting for robust urban reconstruction from sparse views",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003588",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.016",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.016",
-      "title": "Deep unrolling for unified pansharpening with satellite-specific and image-adaptive priors",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003734",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "China",
+        "Index (typography)",
+        "Chine",
+        "Index method"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.015",
@@ -117,15 +149,119 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-30",
+      "published_date_display": "2026-07-30",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003680",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Estimation",
+        "Quality (philosophy)",
+        "Phase (matter)",
+        "Estimation theory",
+        "Data modeling"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115594",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115594",
+      "title": "STCAFormer: Spatio-temporal cross attention based transformer for fusion of remote sensing images",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003640",
+      "abstract": "Spatio-temporal fusion is an important technique used to address the trade-off between temporal and spatial resolution in remote sensing satellite images. However, existing deep learning-based methods often rely on a single fusion approach, which limits their ability to effectively balance the preservation of spatial details in fine images with the integration of temporal information from coarse images. In this paper, we proposed a hybrid model architecture STCAFormer which combines temporal and spatial fusion attention mechanism, leveraging their complementary strengths to maximize the utilization of temporal and spatial information from coarse and fine images. Specifically, we design a dual-input encoder structure that processes two input images simultaneously. Moreover, inspired by the unified workflow of traditional methods that implement spatio-temporal fusion in pixel space, STCAFormer introduces a fusion stage designed for spatio-temporal fusions in feature space, enabling the effective integration of spatial and temporal features from dual-input encoder. Three novel blocks are designed in this research: a swin-temporal fusion block utilizing cross-attention mechanism to capture and fuse temporal variation features, a multi-scale spatial fusion block that integrates weighted summation for temporal variation and fine spatial features at both local and global scales, and a dual-path up-sampling block designed to achieve high-fidelity image restoration. STCAFormer was compared with six different types of spatio-temporal fusion methods on remote sensing image pairs, including Landsat 8/MODIS and Sentinel-2/3 pairs, from various regions. Experimental results demonstrate that STCAFormer performs better than baseline methods when the regions and satellite sensors remain unchanged. The transfer ability of STCAFormer was also proved to be more competitive than baseline methods. The ablation studies show that the proposed blocks are effective for performance improvement of spatio-temporal fusion The proposed STCAFormer demonstrates robust generalization across Landsat 8/MODIS and Sentinel-2/3, as well as across land-cover types represented in the test datasets. The code of the proposed STCAFormer is available at: https://github.com/Neooolee/STCAFormer .",
+      "keywords": [
+        "Fusion",
+        "Image fusion",
+        "Sensor fusion",
+        "Transformer",
+        "Remote sensing application",
+        "Synthetic aperture radar"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.007",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.007",
+      "title": "MapGlue: Multimodal remote sensing image matching",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003540",
+      "abstract": "",
+      "keywords": [
+        "Scalability",
+        "Robustness (evolution)",
+        "Matching (statistics)",
+        "Limiting",
+        "Deep learning",
+        "Context (archaeology)",
+        "Image matching",
+        "Object detection",
+        "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.011",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.011",
+      "title": "GeoGS: Geometric Prior-Guided Gaussian Splatting for robust urban reconstruction from sparse views",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003588",
+      "abstract": "Gaussian Splatting (GS) has emerged as an efficient representation for large-scale urban reality capture, yet reliable reconstruction in complex built environments typically requires dense image collections with high view overlap. Under sparse observations, it often yields geometrically inaccurate and incomplete reconstructions, making external geometric priors essential for robust optimization. Geo-referenced 3D city models provide complete and metrically reliable structural priors but lack fine as-built details, whereas visual foundation models infer dense local geometric cues from images yet remain less reliable in occluded, weakly textured, or sparsely observed regions. We present GeoGS, a geometry-aware GS method that integrates worldwide-available CityGML Level of Detail (LoD) 2 models with pose-conditioned depth cues from visual foundation models for robust urban reconstruction from sparse views with known camera poses. It initializes Gaussians directly from LoD2 surfaces and optimizes them in two stages. In the Anchoring Stage, depth rendered from the 3D city model establishes a metrically consistent building backbone, while a proximity-based geometry protection mechanism prevents structural drift. In the Refinement Stage, dense visual depth is introduced with a lightweight structural anchor and adaptive weighting to recover local geometric details without compromising the established topology. Experiments on the UAV-based TUM2TWIN dataset and the street-level egenioussBench dataset demonstrate consistent improvements over state-of-the-art baselines. On TUM2TWIN, GeoGS improves average PSNR by 1.13 dB in 2D rendering assessment and reduces extracted-mesh M3C2 distance by 14.3% in 3D geometric evaluation, compared with the respective best-performing baselines. These results highlight the effectiveness of integrating structured geospatial priors with data-driven visual cues, advancing sparse-view Gaussian Splatting toward scalable and geometrically reliable urban digital twin generation. The project page is available at https://github.com/zqlin0521/GeoGS .",
+      "keywords": [
+        "Gaussian",
+        "Gaussian process",
+        "Geometric data analysis",
+        "Geometric primitive",
+        "Sparse approximation",
+        "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.016",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.016",
+      "title": "Deep unrolling for unified pansharpening with satellite-specific and image-adaptive priors",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003734",
+      "abstract": "",
+      "keywords": [
+        "Prior probability",
+        "Pattern recognition (psychology)",
+        "Deep learning",
+        "Image (mathematics)",
+        "Image processing"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.022",
@@ -134,15 +270,20 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-29",
+      "published_date_display": "2026-07-29",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003795",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hyperspectral imaging",
+        "Nutrient",
+        "Estimation",
+        "Soil nutrients"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115592",
@@ -11306,28 +11447,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.015",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.015",
-      "title": "SGCA: A Scribble-Guided Cross-Attention framework for multimodal remote sensing change detection",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-21",
-      "published_date_display": "2026-03-21",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001292",
-      "abstract": "",
-      "keywords": [
-        "Change detection",
-        "Remote sensing application",
-        "Earth remote sensing",
-        "Object detection"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115373",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115373",
       "title": "Remote sensing-based estimation of global litterfall dynamics in forest ecosystems and its potential impact on soil respiration",
@@ -11499,29 +11618,6 @@
         "Elevation (ballistics)",
         "Mathematical model",
         "Control theory (sociology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.008",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.008",
-      "title": "Remote sensing image dehazing: A systematic review of progress, challenges, and prospects",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600122X",
-      "abstract": "",
-      "keywords": [
-        "Image (mathematics)",
-        "Remote sensing application",
-        "Image processing",
-        "Image fusion",
-        "Aerial image"
       ]
     },
     {
@@ -12115,29 +12211,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115320",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115320",
-      "title": "Deformation, strains and velocities for the Alpine Himalayan Belt from trans-continental Sentinel-1 InSAR & GNSS",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-05",
-      "published_date_display": "2026-03-05",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000908",
-      "abstract": "Surface velocities and strain rates from satellite geodesy have become essential tools for understanding the distribution of tectonic deformation, faulting and seismic hazard. However, across large regions of distributed continental deformation, such as the Alpine-Himalayan Belt, data are only sparsely available. While previous studies have mainly used spatially sparse GNSS to measure deformation at such large scales, these approaches cannot characterize shorter wavelength features of deformation in many places. We use Sentinel-1 radar images acquired during 2016–2024 to provide trans-national average surface velocities and time series at 1 km spatial resolution stretching a distance of over 11,000 km from south-western Europe to eastern China, covering an area more than 20 million square kilometres. We produce the velocity field by combining data from over 222,000 Sentinel-1 SAR images with a new belt-wide compilation of GNSS velocities, all combined in a consistent Eurasian reference frame. Horizontal strain rates are derived from gradients of the velocity field, yielding near-continuous spatial deformation information over the entirety of the largest deforming region on the planet. The horizontal velocities and strains are dominated by tectonic deformation, which has a bimodal behaviour – focused on major faults but distributed elsewhere. Shorter-wavelength vertical velocities are dominated by non-tectonic processes, in particular the widespread over-exploitation of groundwater. Our new velocity and strain rates are foundational data sets that reveal the details of how the continents deform for the first time at trans-continental scale. • First 3D velocity field of Alpine-Himalayan Belt derived from Sentinel-1 InSAR & GNSS. • Strain localised on major faults with diffuse deformation extensive across continents. • Horizontal motion is dominated by tectonics; vertical from aquifer-driven subsidence.",
-      "keywords": [
-        "Interferometric synthetic aperture radar",
-        "GNSS applications",
-        "Synthetic aperture radar",
-        "GNSS augmentation",
-        "Global Positioning System"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2635481",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2635481",
       "title": "A spatial approach to anomalous barrier detection in transportation networks from movement trajectories",
@@ -12305,33 +12378,6 @@
         "Perspective (graphical)",
         "Politics",
         "Variety (cybernetics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115336",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115336",
-      "title": "Enhancing transferability of foliar trait retrieval models: A comparative analysis of transfer learning strategies and domain shift characterization",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-02",
-      "published_date_display": "2026-03-02",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001069",
-      "abstract": "",
-      "keywords": [
-        "Transfer of learning",
-        "Transferability",
-        "Partial least squares regression",
-        "Trait",
-        "Regression",
-        "Feature (linguistics)",
-        "Principal component analysis",
-        "Pattern recognition (psychology)",
-        "Interpretability"
       ]
     },
     {
@@ -14137,33 +14183,6 @@
         "Geometric data analysis",
         "3d model",
         "Artificial neural network"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.007",
-      "title": "MapGlue: Multimodal remote sensing image matching",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2025-03-20",
-      "published_date_display": "2025-03-20",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003540",
-      "abstract": "",
-      "keywords": [
-        "Scalability",
-        "Robustness (evolution)",
-        "Matching (statistics)",
-        "Limiting",
-        "Deep learning",
-        "Context (archaeology)",
-        "Image matching",
-        "Object detection",
-        "Pattern recognition (psychology)"
       ]
     }
   ]
