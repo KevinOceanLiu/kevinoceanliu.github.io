@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:46:49.543742+00:00",
+  "generated_at": "2026-07-31T22:42:29.146652+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,114 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02049-3",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02049-3",
+      "title": "Wide flanks of rift uplifts on Venus indicate recent rifting activity",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02049-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02036-8",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02036-8",
+      "title": "The dominant role of temperature in seasonal ozone sensitivity changes in China",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02036-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02061-7",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02061-7",
+      "title": "Reply to: Himalaya rivers reflect rainfall patterns, not river piracy",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02061-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02060-8",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02060-8",
+      "title": "Limited remineralization of Arctic permafrost-derived organic carbon in nearshore marine sediments",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02060-8",
+      "abstract": "Abstract Rapid Arctic warming causes thawing and erosion of coastal permafrost, releasing organic carbon into the Arctic Ocean. Although much of this organic carbon is deposited in marine sediments, the extent to which it is remineralized and re-enters the active carbon cycle remains uncertain. Here we examine the fate of permafrost-derived organic carbon in the nearshore sediments of Qikiqtaruk, Canada. Analysis of dual carbon isotopes revealed that nearshore sedimentary organic carbon originated predominantly from eroded ancient permafrost deposits, but the remineralization end-product, dissolved inorganic carbon, diffusing back out of the sediment was younger and predominantly of marine origin. We estimate that <10% of land-derived Pleistocene permafrost organic carbon is respired after redeposition in marine sediments. Our findings indicate that despite substantial Pleistocene permafrost organic carbon accumulation in marine sediments due to permafrost thaw and coastal erosion, much of it remains buried, potentially limiting its immediate contribution to atmospheric carbon. However, given the high reactivity of permafrost organic carbon entering the ocean, a reactive subfraction may remain in the water column or was degraded prior to redeposition in the analysed sediments, highlighting the need for more comprehensive assessments of permafrost organic carbon degradation and its inclusion into Earth system models.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02059-1",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02059-1",
+      "title": "Himalayan rivers reflect rainfall patterns, not river piracy",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02059-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02075-1",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02075-1",
+      "title": "Author Correction: Recent active rifting on Venus revealed by wide rift flank uplifts",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        7,
+        31
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02075-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01908-6",
       "doi_url": "https://doi.org/10.1038/s41893-026-01908-6",
       "title": "From corporate net-zero pledges to credible climate action",
@@ -41,7 +149,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01908-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Credibility",
+        "Foundation (evidence)",
+        "Climate policy",
+        "Perspective (graphical)",
+        "Climate change",
+        "Action (physics)",
+        "Climate justice",
+        "Corporate governance"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02040-y",
@@ -59,7 +176,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02040-y",
       "abstract": "BY Record-breaking heatwaves disrupt global water, energy and food systems, yet the co-occurrence of atmospheric and riverine events remains largely unexplored. Here we analyse 796 river basins in the USA and Central Europe to characterize such co-occurring atmospheric–riverine compound heatwaves. Combining water quality observations with a deep learning model, we find that compound heatwaves have increased by about 0.40 events per decade since the 1980s. This corresponds to a rise from roughly 0.76 events per year in the early period to about three times that frequency today, meaning their occurrence has effectively tripled over the past four decades. This trend coincides with the rapid intensification of riverine heatwaves, which have increased in frequency (114%), duration (148%) and intensity (95%) between 1981–1990 and 2010–2019, far outpacing changes in atmospheric heatwaves. Compound occurrences are primarily controlled by climatic (59.2%), topographic (22.4%) and hydrological (18.3%) factors, with amplified trends in high-elevation (>3,000 m) mountain rivers (+128% per decade). Compared with isolated riverine heatwaves, compound heatwaves drive an additional 16% rise in water temperature and a further 2.9% decline in dissolved oxygen. Under a high-emissions scenario, 98.5% of riverine heatwaves will coincide with atmospheric heatwaves by 2100. These findings highlight the escalating threats of compound heatwaves to freshwater ecosystems and the need to incorporate their dynamics into future water risk assessments.",
-      "keywords": []
+      "keywords": [
+        "Climate extremes",
+        "Climate change",
+        "Period (music)",
+        "Ecosystem",
+        "Water cycle",
+        "Global warming",
+        "Drainage basin",
+        "Water quality",
+        "Climate model"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02694-x",
@@ -77,7 +204,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02694-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Environmental communication",
+        "Political economy of climate change",
+        "Risk communication",
+        "Environmental change",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01874-z",
