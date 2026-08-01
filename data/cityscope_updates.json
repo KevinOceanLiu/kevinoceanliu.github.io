@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:15:58.119789+00:00",
+  "generated_at": "2026-08-01T23:11:06.291753+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,159 +31,6 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105757",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105757",
-      "title": "Pollinator habitat enhancement through ornamental plants, floral traits and urban green area features for planning biodiversity-friendly cities",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001817",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.compenvurbsys.2026.102492",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102492",
-      "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000943",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107436",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107436",
-      "title": "Smarter and healthier cities in the era of AI: A state-of-the-art review",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006682",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107462",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107462",
-      "title": "Perceiving “city of proximity” beyond spatial closeness: Explaining travel and consumption behavior through perceptions and preferences",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006943",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107452",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107452",
-      "title": "Integrating AI into urban vitality promotion: The impact of building morphology on daily consumption quality in Hong Kong",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006840",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107465",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107465",
-      "title": "How can land development intensity and land use benefit be coordinated in high-speed railway station areas? Evidence from 1570 station areas in China",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006979",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107430",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107430",
-      "title": "Density-based incentives in private residential projects to promote social integration? Evidence on its difficulties",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006621",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107407",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107407",
-      "title": "City-level green space coverage as protective urban infrastructure for healthy ageing",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006396",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107460",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107460",
-      "title": "A spatiotemporal comparison of urban shrinkage in Chinese and American urban agglomerations: Evidence from nighttime light data (2012−2020)",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600692X",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1038/s44284-026-00487-z",
       "doi_url": "https://doi.org/10.1038/s44284-026-00487-z",
       "title": "Urban infrastructure and fossil fuel industrial legacy drive US data center siting",
@@ -199,7 +46,16 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00487-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Sustainability",
+        "Brownfield",
+        "Fossil fuel",
+        "Center (category theory)",
+        "Urban sustainability",
+        "Data center",
+        "Distribution (mathematics)",
+        "Urban planning"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00502-3",
@@ -217,7 +73,14 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00502-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carbon fibers",
+        "Reduction (mathematics)",
+        "Carbon sequestration",
+        "Greenhouse gas",
+        "Work (physics)",
+        "Carbon dioxide"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00488-y",
@@ -235,7 +98,241 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00488-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Situated",
+        "Power (physics)",
+        "Critical infrastructure",
+        "Urban infrastructure",
+        "Information infrastructure",
+        "Narrative",
+        "Center (category theory)",
+        "Rural area"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105757",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105757",
+      "title": "Pollinator habitat enhancement through ornamental plants, floral traits and urban green area features for planning biodiversity-friendly cities",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001817",
+      "abstract": "",
+      "keywords": [
+        "Pollinator",
+        "Ornamental plant",
+        "Habitat",
+        "Urban ecology",
+        "Urban area",
+        "Urban planning",
+        "Urban ecosystem",
+        "Wildlife corridor"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102492",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102492",
+      "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000943",
+      "abstract": "City2Graph is an open-source Python library that streamlines workflows for heterogeneous Graph Neural Networks (GNNs) in urban systems. Cities are complex systems of diverse spatial relations long modelled as graphs in network science, and recent advances in GNNs have further enabled the identification of non-linear patterns of urban complexity. Unlike homogeneous graphs with a single node and edge type, heterogeneous graphs with multiple types are receiving growing attention to accommodate richer information in GNNs. However, their diffusion remains constrained by fragmented graph construction processes across different data domains, and by the lack of a unified framework for converting constructed graphs into GNN-ready tensors. City2Graph standardises graph construction across domains of morphology, transportation, mobility, and proximity. The library supports conversions between spatial geometries, network topologies, and tensors for spatial analysis with visualisation, network analysis, and GNN training, respectively. City2Graph also supports metapath construction, capturing higher-order connections across node and edge types (e.g., areas linked via multimodal transit). The library’s efficacy was demonstrated through a case study on clustering urban functions in Liverpool, UK, using Graph Autoencoder models with three relation types: spatial contiguity, walk-based accessibility, and multimodal accessibility between census units. Compared with the homogeneous model, heterogeneous models identified spatially coherent clusters that aligned more closely with defined accessibility patterns. City2Graph enables reproducible workflows for heterogeneous GNNs and model interpretation, fostering comprehensive understanding of urban systems across disciplines. The library is released under the BSD 3-Clause License on GitHub.",
+      "keywords": [
+        "Python (programming language)",
+        "Workflow",
+        "Homogeneous",
+        "Cluster analysis",
+        "Graph",
+        "Spatial network",
+        "Street network",
+        "Heterogeneous network",
+        "Artificial neural network"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107436",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107436",
+      "title": "Smarter and healthier cities in the era of AI: A state-of-the-art review",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006682",
+      "abstract": "The smart city agenda has focused on technological solutions to urban problems. However, rapid social, environmental, and technological change, especially the rise of AI, have revealed significant transformations, highlighting the need for a state-of-the-art academic concept. This study proposes the concept of the Smarter and Healthier city , grounded in a systematic review of smart and healthy city research using the PRISMA protocol. We analyse the literature across three domains (governance, environment, and modelling) with emphasis on AI. In this study, we define smarter and healthier cities as AI-enabled urban systems that integrate advanced digital technologies with human-centred objectives, including environmental sustainability, and inclusive governance. Our review identifies that AI is driving conceptual transformations within the governance domain toward (1) integrative, (2) participatory, and (3) anticipatory governance, and within the environmental domain toward (1) dense IoT and crowdsensing infrastructures, (2) multimodal and transferable learning approaches, and (3) edge intelligence architectures. We further propose principles to address the emerging urban challenges, emphasising (1) ethical safeguards, (2) environmental justice, and (3) trustworthy AI systems. Overall, the smarter and healthier cities framework contributes an integrative perspective that bridges technological innovation, responsible governance, and human well-being in the context of AI-driven urban transformations and challenges.",
+      "keywords": [
+        "Smart city",
+        "Context (archaeology)",
+        "Domain (mathematical analysis)",
+        "Corporate governance",
+        "Conceptual framework",
+        "Perspective (graphical)",
+        "Trustworthiness"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107462",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107462",
+      "title": "Perceiving “city of proximity” beyond spatial closeness: Explaining travel and consumption behavior through perceptions and preferences",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006943",
+      "abstract": "Proximity-based planning has gained traction as a powerful concept for neighborhood planning and design in response to the mobility restrictions imposed by the COVID-19 pandemic—evidenced by the global enthusiasm for the 15-Minute City. However, deterministic strategies and objective measurements of physical proximity have left little room for understanding how people perceive a city of proximity, as well as their desires and needs. The present study seeks to uncover the perceptual dimensions of the concept by examining how these perceptions influence travel and consumption behavior, moving beyond mere consideration of objective proximity. To do so, this research employs structural equation modeling, based on data from an online survey conducted in the Brussels-Capital Region (Belgium), to analyze how public perceptions and individual preferences impact perceived proximity and, subsequently, self-reported travel and consumption behaviors in a complex relationship. The results show that preferences toward urban facilities and mobility are stronger contributors to behaviors than perceptions of facilities and built environments. Another key finding confirms that the perception of proximity is a central mediating factor in understanding what influences behavior. This is especially relevant when objective factors like physical environments and availability of opportunities provide an insufficient explanation. The research also cautions against overemphasizing specific thresholds, soft mobility, and neighborhood self-sufficiency, as this may negatively impact travel behavior and reduce the concept's inclusiveness. These results add to the rapidly expanding field of proximity-based planning by enhancing our understanding of how perceptual determinants are associated with the concept of the city of proximity and behaviors.",
+      "keywords": [
+        "Perception",
+        "Consumption (sociology)",
+        "Enthusiasm",
+        "Structural equation modeling",
+        "Public transport",
+        "Travel behavior",
+        "Field (mathematics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107452",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107452",
+      "title": "Integrating AI into urban vitality promotion: The impact of building morphology on daily consumption quality in Hong Kong",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006840",
+      "abstract": "",
+      "keywords": [
+        "Consumption (sociology)",
+        "Quality (philosophy)",
+        "Metric (unit)",
+        "Urban planning",
+        "Urban density",
+        "Urban design",
+        "Key (lock)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107465",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107465",
+      "title": "How can land development intensity and land use benefit be coordinated in high-speed railway station areas? Evidence from 1570 station areas in China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006979",
+      "abstract": "",
+      "keywords": [
+        "China",
+        "Land use",
+        "Land development",
+        "Intensity (physics)",
+        "land-use change and forestry"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107430",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107430",
+      "title": "Density-based incentives in private residential projects to promote social integration? Evidence on its difficulties",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006621",
+      "abstract": "",
+      "keywords": [
+        "Incentive",
+        "Apartment",
+        "Context (archaeology)",
+        "Space (punctuation)",
+        "Test (biology)",
+        "Social integration",
+        "Measure (data warehouse)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107407",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107407",
+      "title": "City-level green space coverage as protective urban infrastructure for healthy ageing",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006396",
+      "abstract": "",
+      "keywords": [
+        "Greening",
+        "Green infrastructure",
+        "Robustness (evolution)",
+        "Urban green space",
+        "Gee",
+        "Space (punctuation)",
+        "Generalized estimating equation",
+        "Sustainable development",
+        "Structural equation modeling",
+        "Healthy aging"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107460",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107460",
+      "title": "A spatiotemporal comparison of urban shrinkage in Chinese and American urban agglomerations: Evidence from nighttime light data (2012−2020)",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600692X",
+      "abstract": "",
+      "keywords": [
+        "Shrinkage",
+        "Urban heat island",
+        "China"
+      ]
     },
     {
       "doi": "10.1177/00420980261464767",
@@ -253,7 +350,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261464767",
       "abstract": "What motivates urban transport projects, and what roles do various stakeholders play in their design, visioning, and implementation? This theoretical conceptualization article explores urban transport through a social-constructivist lens. I pair inductive and grounded-theory approaches to engage primary-source, qualitative perspectives from a multi-agency Bus Rapid Transit (BRT) planning process in Denver, Colorado. The research setting is Denver’s concomitant East Area Plan, a corridor set to receive a BRT line, and a recent rezoning. Methods include participant observation at community meetings and civic events; conversations with planners, politicians, and civil servants; and close readings of neighborhood plans and statutory and transportation-planning materials. I code material deductively and inductively to identify thematic findings grounded in scholarly literature and disparate empirical materials. I find that economic-development goals drive project motivations and circumscribe formal participation opportunities. Residents and civic groups have contested those motives through sustained, coordinated alternative visions. A social-constructivist lens on urban-transport projects such as Denver’s East Colfax BRT enables a view of these projects as relational and co-constitutive between transportation planners and members of affected communities. Social constructivism in urban-transport planning reveals the interplay of social actors’ power and interests in shaping project outcomes, with implications for urban-transport projects globally.",
-      "keywords": []
+      "keywords": [
+        "Conceptualization",
+        "Civil society",
+        "Grounded theory",
+        "Constructivism (international relations)",
+        "Social constructivism",
+        "Transportation planning",
+        "Qualitative research",
+        "Statutory law",
+        "Thematic analysis"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105760",
@@ -368,7 +475,7 @@
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006347",
-      "abstract": "",
+      "abstract": "This article advances a relational understanding of placemaking, examining how inclusive urban development emerges through the interplay of institutional structures, civic agency, and participatory design. Moving beyond the binary of top-down versus bottom-up planning, the study proposes the Relational Placemaking for Inclusion (RPI) framework, which comprises three interdependent dimensions: temporality, institutional resonance, and design agency. Drawing on three European case studies the article explores how inclusion is enacted, negotiated, and sometimes constrained across diverse urban contexts. The analysis shows that participation alone does not yield inclusive outcomes; rather, inclusion emerges when civic relationships extend beyond project cycles, institutions absorb and legitimate emergent practices, and mediators curate participation in ways that recognize plural knowledge and attend to power. By reframing placemaking as relational infrastructuring, the article advances a socio-technical understanding of how public space is co-produced and how placemaking can provoke institutional and societal transformation. It concludes with propositions for shifting placemaking analysis from events to relationships and from outputs to capabilities, offering guidance for scaling inclusive placemaking in diverse governance settings.",
       "keywords": [
         "Placemaking",
         "Inclusion (mineral)",
