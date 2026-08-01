@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T22:42:29.146652+00:00",
+  "generated_at": "2026-08-01T22:38:59.858910+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02049-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Rift",
+        "Venus",
+        "Tectonics",
+        "Rift zone",
+        "Mantle (geology)",
+        "Mantle plume"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02036-8",
@@ -59,7 +66,15 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02036-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ozone",
+        "Pollution",
+        "Nitrogen oxide",
+        "Seasonality",
+        "Flux (metallurgy)",
+        "NOx",
+        "Reactive nitrogen"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02061-7",
@@ -77,7 +92,12 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02061-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Hydrology (agriculture)",
+        "Digital elevation model",
+        "Hydrological modelling",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02060-8",
@@ -95,7 +115,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02060-8",
       "abstract": "Abstract Rapid Arctic warming causes thawing and erosion of coastal permafrost, releasing organic carbon into the Arctic Ocean. Although much of this organic carbon is deposited in marine sediments, the extent to which it is remineralized and re-enters the active carbon cycle remains uncertain. Here we examine the fate of permafrost-derived organic carbon in the nearshore sediments of Qikiqtaruk, Canada. Analysis of dual carbon isotopes revealed that nearshore sedimentary organic carbon originated predominantly from eroded ancient permafrost deposits, but the remineralization end-product, dissolved inorganic carbon, diffusing back out of the sediment was younger and predominantly of marine origin. We estimate that <10% of land-derived Pleistocene permafrost organic carbon is respired after redeposition in marine sediments. Our findings indicate that despite substantial Pleistocene permafrost organic carbon accumulation in marine sediments due to permafrost thaw and coastal erosion, much of it remains buried, potentially limiting its immediate contribution to atmospheric carbon. However, given the high reactivity of permafrost organic carbon entering the ocean, a reactive subfraction may remain in the water column or was degraded prior to redeposition in the analysed sediments, highlighting the need for more comprehensive assessments of permafrost organic carbon degradation and its inclusion into Earth system models.",
-      "keywords": []
+      "keywords": [
+        "Permafrost",
+        "Total organic carbon",
+        "Arctic",
+        "Carbon fibers",
+        "Carbon cycle",
+        "Sediment",
+        "Remineralisation",
+        "Dissolved organic carbon"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02059-1",
@@ -113,7 +142,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02059-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Shuttle Radar Topography Mission",
+        "Digital elevation model",
+        "Elevation (ballistics)",
+        "Radar",
+        "Drainage basin",
+        "Tropics"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02075-1",
@@ -130,8 +166,14 @@
         31
       ],
       "link": "https://www.nature.com/articles/s41561-026-02075-1",
-      "abstract": "",
-      "keywords": []
+      "abstract": "In the version of this article initially published, in the denominator of the last term in Eq. (10), “γ I ” was missing the subscript “ I ”; in the description following Eqs. (10)–(13), the text “γ I = 1Pa m is the surface tension” now replaces “ f I is damage at the given temperature T ” while the coefficient 3 is now added to the expression “η = 3φ ol φ px .” The changes are made in the HTML and PDF versions of the article.",
+      "keywords": [
+        "Rift",
+        "Venus",
+        "Flank",
+        "Rift zone",
+        "Term (time)"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01908-6",
