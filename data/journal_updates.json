@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T22:15:11.779759+00:00",
+  "generated_at": "2026-08-01T22:10:14.336551+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,15 +32,24 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003330",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The Landsat program provides the longest continuous global record of thermal infrared observations of the Earth's surface, underpinning critical applications in climate monitoring, water resources, ecosystem dynamics, urban heat analysis, and natural hazard assessment. The release of a global inventory of Landsat Collection 2 Level 2 surface temperature products by the U.S. Geological Survey (USGS) marked a major milestone in operational provision of Landsat thermal infrared analysis-ready data. Ongoing validations and community uses of Collection 2 have identified opportunities to further improve accuracy, uncertainty characterization, and emissivity correction across diverse atmospheric and surface conditions. In preparation for the planned Landsat Collection 3 reprocessing of the Landsat data record in the late 2020s, the USGS is implementing a coordinated set of enhancements to the Level 2 surface temperature products. These include revised emissivity estimation that leverages external datasets, improved atmospheric characterization and uncertainty propagation, expanded dynamic range for high temperature targets, consideration of split window atmospheric correction algorithm for Landsat 8 and 9, and decoupling of thermal infrared processing from visible to shortwave infrared constraints to enable surface temperature retrievals under low or no solar illumination conditions. These changes are designed to improve product quality and consistency across the Landsat record. Beyond near-term performance gains, the Collection 3 design establishes a scalable processing architecture to accommodate the expanded spectral and radiometric measurement capabilities of the forthcoming Landsat 10 mission. By preserving continuity across the Landsat 4–9 record while enabling future algorithm evolution, Landsat Collection 3 will provide a foundation for long-term, multi-decadal Earth system thermal infrared observations.",
+      "keywords": [
+        "Emissivity",
+        "Atmospheric correction",
+        "Shortwave",
+        "Data processing",
+        "Hyperspectral imaging",
+        "Earth observation",
+        "Atmospheric temperature",
+        "Radiance"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115591",
@@ -49,15 +58,25 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003615",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The models that produce most existing forest height maps minimize mean individual prediction errors quantified by metrics such as Root Mean Square Error (RMSE). However, when predictor data do not explain all height variability in the training sample, this objective function leads to prediction toward the mean, distorting population-level prediction of height range and variability. Several existing forest height maps have used training data from NASA's Global Ecosystem Dynamics Investigation (GEDI) lidar mission, and while the mission's retrievals are subject to measurement error, we used GEDI to: 1) evaluate population-level errors of three prominent global height maps; and 2) produce new maps designed to better represent the full height distribution. Specifically, we introduce the GEDI L4D Imputed Waveform product, which was created using a nearest neighbor algorithm. This model assigned a high-quality waveform, represented by 11 Relative Height metrics and other measurements, to each 30 m pixel in the tropical and temperate domain. Covariates included synthetic Landsat bands derived from time series fit to all clear imagery. While previous maps systematically homogenized tree heights over large regions, L4D did not, and tests verified that L4D preserved appropriate covariance among GEDI-derived forest vertical structure metrics. Validation shows that L4D top height RMSE values were up to approximately 1.1 m greater than other maps. Applications such as predicting timber yield, modeling species distributions, and simulating fire spread may benefit from more demographically accurate tree height maps. Moving forward, attention to population-level accuracy metrics may increase the practical value of remotely sensed maps.",
+      "keywords": [
+        "Mean squared error",
+        "Range (aeronautics)",
+        "Homogeneity (statistics)",
+        "Ranging",
+        "Lidar",
+        "Covariate",
+        "Forest inventory",
+        "Waveform",
+        "Temperate forest"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.021",
@@ -66,15 +85,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003783",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Robustness (evolution)",
+        "Initialization",
+        "Change detection",
+        "Interference (communication)",
+        "Feature extraction",
+        "Detector",
+        "Feature (linguistics)",
+        "Amplifier",
+        "Edge detection"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.018",
@@ -83,15 +112,25 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-07-31",
+      "published_date_display": "2026-07-31",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003758",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Lidar",
+        "Point cloud",
+        "Feature (linguistics)",
+        "Benchmark (surveying)",
+        "Similarity (geometry)",
+        "Segmentation",
+        "Pattern recognition (psychology)",
+        "Point (geometry)",
+        "Aggregate (composite)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115539",
@@ -696,7 +735,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003606",
-      "abstract": "",
+      "abstract": "Tropical forest restoration is a key natural climate solution, yet monitoring structural and carbon changes at regional scales remains challenging. Multi-temporal Airborne Laser Scanning (ALS) provides a powerful tool to capture these dynamics, though sensor inconsistencies can limit comparability, particularly in regenerating landscapes with subtle structural changes. Here, we present the first large-scale, high-resolution (30 m) assessment of tropical forest height and carbon change in passive restoration areas over six years. We developed a framework to correct inter-survey ALS biases arising from terrain model offsets and pulse density differences. A model calibrated with biome-specific field plots (RSE = 43 ± 11 %) converted ALS height changes into aboveground carbon density. Using lidar-derived growth rates, topography, and soil variables, we projected pasture restoration outcomes over 30 years along a known secondary succession gradient. We found that the lidar-measured net carbon accumulation rate of young forests (2.03 Mg C/ha/yr) was among the highest reported in multi-temporal lidar studies and approximately twice that reported for other temperate and tropical biomes. Restoration activities generated a net carbon gain of 45,000 Mg CO2/yr across 69 km2, equivalent to the annual footprint of 20,000 people. Forests younger than 20 years were projected to accumulate on average 1.61 ± 0.83 Mg C/ha/yr, with peak growth at 19 years (2.01 ± 0.92 Mg C/ha/yr). Simulated carbon uptake rates were below Neotropical and IPCC estimates but 45 % above the regional mean from a global chronosequence-based dataset, highlighting the importance of locally calibrated models for accurate carbon accounting. Restoring legally obligated pastures in the study region could sequester 191 Mg CO2/ha over 30 years, totalling ∼14,700,000 Mg CO2 across 770 km2. This study demonstrates that multi-temporal ALS delivers rapid, large-scale, and reliable data on forest structure change, enabling accurate carbon accounting and restoration forecasts. These outputs are central for compliance with carbon market standards and can directly support the planning, prioritisation, and scaling of tropical forest restoration projects.",
       "keywords": [
         "Lidar",
         "Tracking (education)",
