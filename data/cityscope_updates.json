@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:11:06.291753+00:00",
+  "generated_at": "2026-08-02T23:12:02.654494+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -123,7 +123,7 @@
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001817",
-      "abstract": "",
+      "abstract": "Ornamental plants are chosen for aesthetics or suitability to urban conditions, while their contribution to habitat enhancement is usually not a priority. However, studies have shown that ornamentals could have potential for pollinators. It is a priority to rank ornamental plants, and to understand which floral traits or environmental conditions influence visitation by pollinators, for habitat enhancement and landscape planning. Here, we surveyed ornamental plant–pollinator interactions across seven Italian cities, in May, to quantify relative plant attractiveness in field conditions, elucidate flower trait-pollinator relationships, and assess habitat descriptors or green area type influences. By focusing on plant-pollinator interactions, 43 ornamental plants were ranked for the contribution to both pollinator abundance and species richness, or to specific groups or few insects. Single floral traits positively or negatively associated with specific insect groups: these diverse responses clarify that trait diversity is essential to support heterogeneous urban pollinators. Furthermore, more abundant and species-rich pollinators were found on plants in heterogeneous area conditions, and distinctions emerged across parks, historic villas and botanic gardens. Therefore, apart from intrinsic plant features, the design and management of green areas should focus on adequate ornamental plants with diverse floral traits and in heterogeneous habitat contexts, to develop urban green infrastructures for pollinators. Landscape planning and management of green areas could integrate biodiversity-based strategies with priority ornamental plants for pollinator interactions, or use flower traits when lists are not available, to trigger urban ecosystem functionality and enhance habitat quality.",
       "keywords": [
         "Pollinator",
         "Ornamental plant",
@@ -226,7 +226,7 @@
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006840",
-      "abstract": "",
+      "abstract": "The urban evolution of Hong Kong necessitates innovative approaches to enhance urban development. This study explores the integration of AI into urban planning and design, focusing on improving consumption quality as a key metric of urban vitality. Consumption quality is defined as the quality of the urban consumption environment, measured by user ratings of commercial points of interest, and serves as a key indicator of urban vitality. This study fills a research gap by introducing an AI-driven model that quantitatively links building morphology, particularly building height and age, via consumption quality, with urban vitality, addressing the limitations of previous qualitative or non-predictive approaches in urban design. Employing Generative adversarial networks (GAN), the research establishes correlations between building morphology, building height and age, consumption quality, and urban vitality, utilizing open-source datasets and spatial analysis. The GAN model predicts consumption quality based on urban design alterations, offering feedback for designers. This is a novel methodology that outperforms traditional approaches by enabling spatially explicit, data-driven predictions of consumption quality in response to building morphology changes, offering greater precision and practical utility for urban design. The results reveal that building height and age significantly influence consumption quality, with optimal configurations enhancing urban vibrancy. In addition, design morphologies such as podiums with atrium positively impact consumption quality. The study concludes AI-driven models can provide quantitative insights for urban design, fostering livable urban environments. It underscores the significance of AI in optimizing urban planning processes and advancing data-driven decision-making in high-density urban contexts like Hong Kong.",
       "keywords": [
         "Consumption (sociology)",
         "Quality (philosophy)",
@@ -251,7 +251,7 @@
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006979",
-      "abstract": "",
+      "abstract": "High-speed railway (HSR) station areas commonly face an imbalance of “high-intensity development and low-benefit output” during rapid construction, constraining their high-quality and sustainable development. To examine the coordination between land development inputs and land use outputs, this study investigates 1570 operational HSR station areas in China. Based on multi-source spatial data, a land development intensity–land use benefit (LDI–LUB) evaluation system is constructed, and the entropy-weighted TOPSIS model and coupling coordination degree (CCD) model are applied to measure coordination levels. A multi-scale “network–urban–place–node” indicator system is further developed. By combining XGBoost–SHAP interpretable machine learning with PLS-SEM structural path effect decomposition, this study reveals the multidimensional explanatory characteristics of CCD from predictive and structural association perspectives. The results show that China's HSR station areas are dominated by Low-efficiency development station area (LEDSA), with 970 station areas accounting for 61.8%, while High-efficiency development station area (HEDSA) includes 600 station areas, accounting for 38.2%. Compared with LEDSA, HEDSA shows a higher coupling coordination level, indicating a more stable synergy between land development inputs and land use outputs. XGBoost–SHAP results identify place-dimensional variables as the core predictive factors explaining CCD differences, especially the number of bus stops, road network length, and land use diversity, which show high predictive contributions, nonlinear responses, threshold characteristics, and interaction relationships. PLS-SEM further confirms that place-dimensional variables have stable positive structural associations in both types. Heterogeneity analysis reveals stage-specific associations among urban foundations, network locational conditions, and node attributes.",
       "keywords": [
         "China",
         "Land use",
@@ -9443,7 +9443,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001210",
-      "abstract": "",
+      "abstract": "Should governments intervene more to protect trees on private urban land? If so, how? Despite the many benefits of urban trees for citizens’ well-being, biodiversity and climate change mitigation, maintaining and increasing urban canopy cover on private land can be difficult. Tree protection policies often involve interference with private land rights. The views of impacted private landowners can add valuable information to the current knowledge on improving tree protection policies. This research explores the impacts of one form of tree protection policy on private landowners. I interviewed 19 Australian landowners that had one or more trees on their land protected by a tree registration mechanism, seeking insights into participants’ reported experience of the effects of the tree protection mechanism, and how participants believe this mechanism could be improved. Landowners expressed pride in their trees, and found the tree register to be of benefit in resolving neighbour disputes over the tree. Assistance in the form of reduced local government taxes was a common suggestion from landowners, not only to help with maintenance costs but also to signify recognition of the tree's value to the community. Arborists’ advice was also highly valued by landowners to alleviate concerns about limb drop. Landowners felt that government provision of broad-reaching education about trees would bolster community support for tree protection. Landowners acknowledged a tension between the rights of the individual over private land and the needs of the community.",
       "keywords": [
         "Tree (set theory)",
         "Mechanism (biology)",
