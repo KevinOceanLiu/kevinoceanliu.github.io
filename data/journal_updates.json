@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:10:14.336551+00:00",
+  "generated_at": "2026-08-02T22:09:19.391878+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,40 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115598",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115598",
+      "title": "Mitigating terrain effects of GEDI data on regional accounting of aboveground biomass utilizing slope-adaptive waveform metrics",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003688",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115595",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115595",
+      "title": "Assessing SWOT's capability for surface water extent mapping: An evaluation of Level-2 High-Rate Raster water fraction",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003652",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.rse.2026.115563",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115563",
@@ -12343,32 +12377,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115342",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115342",
-      "title": "Monitoring water level dynamics in neotropical peatlands with earth observation data",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001124",
-      "abstract": "Intact tropical peatlands are globally important carbon stores, yet their hydrology remains poorly understood due to limited accessibility and sparse field measurements. In this study, we evaluate the potential of L-band Synthetic Aperture Radar (SAR) backscatter to monitor above-ground water level variation across diverse lowland peatland ecosystems in Colombia and Peru. Using vegetation structure metrics from GEDI with ancillary remote sensing data, we assess the sensitivity of L-band HH (L-HH) backscatter to water level changes. We observed significant linear correlations between water level and L-HH backscatter in white-sand ecosystems, palm swamp peatlands (open and forested) and seasonally flooded forests. Pole forest peatland water levels showed no correlation with L-HH backscatter. To predict these regressions, we developed ecosystem-specific multiple linear regression models using L-band HV backscatter, NDVI, and GEDI metrics, achieving strong predictive performance (R 2 = 0.8–0.94). We further tested the temporal robustness of these relationships by predicting water levels across different years. Our results demonstrate the potential of combining L-band SAR with vegetation metrics derived from spaceborne data for regional monitoring of peatland hydrology. This provides a methodological pathway for integrating tropical peatland dynamics into carbon cycle models. • L-band SAR HH backscatter correlates with water level in tropical peatland sites. • Vegetation structure controls L-band SAR sensitivity to hydrological changes. • Ecosystems with low vegetation density show strong monitoring potential. • Palm swamps and flooded forests exhibit good monitoring potential with L-band SAR. • Our approach supports the integration of peatland hydrology into carbon cycle models.",
-      "keywords": [
-        "Peat",
-        "Swamp",
-        "Vegetation (pathology)",
-        "Carbon cycle",
-        "Water cycle",
-        "Synthetic aperture radar",
-        "Water level",
-        "Hydrology (agriculture)"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2635476",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2635476",
       "title": "A controlled natural language and interface for formulating geo-analytical questions with Blockly",
@@ -12564,33 +12572,6 @@
         "Mode (computer interface)",
         "Population",
         "Deep learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115335",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115335",
-      "title": "Investigating natural biofilms on floating marine microplastics and the implications for ocean color remote sensing",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-27",
-      "published_date_display": "2026-02-27",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001057",
-      "abstract": "New satellites are needed to quantify the upwards of 170 trillion microplastic particles floating on the ocean surface that concentrate in the convergence zones of the ocean gyres. Past research on cleaned microplastic pieces harvested from the ocean gyres indicates a highly consistent endmember across the spectrum with distinct absorption features at 931, 1215, 1417, 1732 and 2313 nm. Here, surface-floating microplastic pieces with natural biofilm were collected at 21 stations across 4700 km of the North Pacific gyre convergence zone, also referred to as the “Great Pacific Garbage Patch,” to assess the impact of biofilm on spectral properties. Reflectance of damp, biofilmed microplastic pieces were measured in bulk from 350 to 2500 nm shortly after collection with ambient sunlight on the ship deck and the biofilm was separated and stored for DNA sequencing. Biofilm was found on all collected samples and the red algal genus Tsunamia alone accounted for ∼53% of the eukaryotic microbiome of the harvested biofilm. Biofilm absorbed light broadly across blue wavelengths (400–500 nm) and in a narrowband at 674 nm consistent with chlorophyll- a and other photosynthetic pigments in red algae. Hence, biofilm could impact ocean color chlorophyll-a and fluorescence line height retrievals if particle concentrations were high enough. No significant differences were found in band-depths estimated at 1215 and 1732 nm and only minor differences at 931 nm between biofilmed and biofilm-removed samples. This new endmember of damp, biofilmed microplastic most closely resembles the spectral properties of microplastic pieces as they naturally occur in the ocean gyres. New sensors for marine debris detection may consider narrow bands between 670 and 680 nm to discriminate red algal biofilmed microplastic from phytoplankton, in addition to the NIR and SWIR bands characteristic of floating marine microplastics. • We collected fresh floating marine debris in the Great Pacific Garbage Patch. • Biofilm presence was found to modify plastic reflectance properties. • The biofilm microbiome was dominated by red algae and gamma proteobacteria.",
-      "keywords": [
-        "Microplastics",
-        "Ocean gyre",
-        "Biofilm",
-        "Endmember",
-        "Ocean color",
-        "Chlorophyll a",
-        "Seawater",
-        "Biofouling",
-        "Spectral bands"
       ]
     },
     {
