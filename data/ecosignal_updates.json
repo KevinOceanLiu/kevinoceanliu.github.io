@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:40:18.390573+00:00",
+  "generated_at": "2026-08-02T23:40:12.821151+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -223,6 +223,79 @@
       ]
     },
     {
+      "doi": "10.1111/1365-2745.70410",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70410",
+      "title": "Induced resistance of plants reduces their negative soil‐legacy effects on natives but not on naturalized aliens",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08-01",
+      "published_parts": [
+        2026,
+        8,
+        1
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70410",
+      "abstract": "Abstract Plant invasions pose a threat to native biodiversity and are often mediated by below‐ground processes such as plant–soil feedback. Because induced defence responses can alter interactions between plants and soil biota, the strength may depend not only on plant origin but also on whether defence pathways have been activated during soil conditioning. We tested how induced resistance mediated by jasmonic acid and salicylic acid in conditioning‐phase plants influences soil‐legacy effects on five pairs of native and naturalized alien focal plant species. In the conditioning phase, we grew the 10 focal species and 5 additional nonfocal native species. To activate defence pathways that are naturally induced by herbivores and pathogens, we sprayed them with jasmonic acid, salicylic acid or water (control). Thereafter, the five pairs of focal species were planted on the conditioned soils to test soil‐legacy effects. Conditioned soils, particularly conspecific soils, pronouncedly reduced focal plant growth. In the absence of resistance induction in conditioning‐phase plants, native focal plants suffered stronger growth reductions than naturalized aliens. However, resistance induction largely mitigated this disadvantage, reducing differences in performance between native and naturalized alien plants. Synthesis . Our findings indicate that induced resistance can reshape soil legacies that reduce the disadvantage of native plants relative to aliens, revealing an overlooked mechanism through which defence pathways interact with soils to influence plant invasions.",
+      "keywords": [
+        "Jasmonic acid",
+        "Salicylic acid",
+        "Herbivore",
+        "Resistance (ecology)",
+        "Native plant",
+        "Introduced species",
+        "Invasive species",
+        "Biodiversity"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70352",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70352",
+      "title": "Cover Picture and Issue Information",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08-01",
+      "published_parts": [
+        2026,
+        8,
+        1
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70352",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70513",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70513",
+      "title": "Plant species richness is key for restoring grassland butterfly assemblages",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08-01",
+      "published_parts": [
+        2026,
+        8,
+        1
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70513",
+      "abstract": "Abstract Palaearctic grasslands are heavily threatened by land‐use changes that lead to degradation and habitat loss. Thus, successful grassland restoration for vegetation and wildlife is urgently needed. Butterflies, as sensitive indicators, could provide a holistic view of restoration outcomes and landscape effects. We surveyed 121 restored, 33 positive (ancient, species‐rich) and 33 negative (ancient, degraded) reference sites in northern, central, and southern Germany to analyse how recovery of butterflies is affected by site and landscape variables. Restored grasslands cover various restoration methods, that is, seeding of cultivar or regional seed mixtures, transfer of directly harvested seeds from suitable donor sites, or management adaptation without plant species introduction. Landscape effects were analysed at different scales (300, 600, 1200 m). We defined target butterflies as forb‐feeding grassland specialists with low dispersal abilities, supplemented by threatened grass feeders and burnet moths. Total butterfly species richness, total abundance, and target abundance on restored sites were similar to positive, but higher than on negative references. However, target species richness and Hill–Simpson diversity on restored sites did not reach the level of positive references. Of all the restoration methods, sowing of cultivar seed mixtures was least successful and the failure was more pronounced for target species. Re‐establishing the characteristic plant species richness was most important for butterflies, whereas landscape variables played a subordinate role. However, total butterfly abundance was promoted by higher grassland cover within 1200 m, and total Hill–Simpson diversity increased with grassland plant species richness. Target butterfly recovery was lower in older restored grasslands than in younger ones. Synthesis and applications . The results indicate that successful restoration of grassland vegetation and butterflies is strongly linked. To fully restore target butterfly assemblages, future grassland restoration should aim to re‐establish and maintain plant species‐rich habitats by implementing high‐quality restoration methods. Successful grassland restoration promotes butterflies in different landscapes. However, further efforts are needed to restore butterfly assemblages close to the levels of favourable reference sites, for example by increasing the cover of high‐quality grasslands in the surroundings. Although restoration is successful, preservation of species‐rich ancient grasslands should have the highest priority. Read the free Plain Language Summary for this article on the journal's blog .",
+      "keywords": [
+        "Species richness",
+        "Grassland",
+        "Butterfly",
+        "Threatened species",
+        "Vegetation (pathology)",
+        "Abundance (ecology)",
+        "Habitat",
+        "Biological dispersal",
+        "Restoration ecology"
+      ]
+    },
+    {
       "doi": "10.1038/s41559-026-03151-w",
       "doi_url": "https://doi.org/10.1038/s41559-026-03151-w",
       "title": "Widespread carbon accumulation in mature forests remains underestimated by satellite observations",
@@ -238,7 +311,17 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03151-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carbon sink",
+        "Canopy",
+        "Biomass (ecology)",
+        "Carbon cycle",
+        "Ecosystem",
+        "Carbon sequestration",
+        "Forest inventory",
+        "Carbon fibers",
+        "Forest dynamics"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03139-6",
@@ -255,8 +338,18 @@
         31
       ],
       "link": "https://www.nature.com/articles/s41559-026-03139-6",
-      "abstract": "",
-      "keywords": []
+      "abstract": "In response to increasing human pressures on biodiversity, conservation targets have been set to reduce these pressures and halt biodiversity decline. However, consequences of these objectives on common species are rarely studied. We analyse the effect of a range of drivers related to climate, land use and land-use intensity on 265 common bird and 144 common butterfly species from more than 20,000 sites between 2000 and 2021 across 27 European countries. We use land use and land-use intensity scenarios produced previously using the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) Nature Futures Framework and climate change scenarios to project biodiversity drivers in Europe up to 2050. We translate these driver changes into abundance variations for common bird and butterfly species and for multi-species indicators used to monitor common biodiversity status in Europe. The projected trends relatively improve, while still declining for birds, notably farmland species, under the scenarios meeting conservation objectives, with few effects on butterflies. No scenario shows a stop or a reversal in the average decline in abundance of bird and butterfly species. Our results therefore question the common biodiversity future under current conservation policies and highlight the need for other anticipatory frameworks not implicitly based on a growing need for natural resources.",
+      "keywords": [
+        "Butterfly",
+        "Biodiversity",
+        "Abundance (ecology)",
+        "Sustainability",
+        "Climate change",
+        "Bird conservation",
+        "Range (aeronautics)",
+        "Common species",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70519",
@@ -274,7 +367,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70519",
       "abstract": "Abstract Plants provide important resources for bee pollinators, which rely on different floral‐resource types for distinct ecological demands. Fire rapidly alters vegetation composition, impacting resource availability and plant–pollinator dynamics. However, its effects on floral resource diversity (i.e. the composition of floral resource types) have never been assessed in the tropics, hindering our understanding of how diverse plant–bee interaction networks respond to fire‐triggered changes in floral resource supply. We assessed flower production, plant species richness and Shannon diversity, and the Shannon diversity and spatiotemporal β ‐diversity of floral resources, following a well‐documented fire event in the Brazilian Cerrado, to evaluate fire's impact on the floral resource landscape. Additionally, we investigated whether changes in floral landscape affected plant–bee networks by inspecting their structure, robustness to plant loss, interaction β ‐diversity, and spatiotemporal organization of pairwise interactions. At a broader scale, fire neither consistently stimulated flower production nor increased plant species richness or Shannon diversity, including floral resource diversity. However, at both broader and finer scales, fire influenced the spatiotemporal distribution of floral resources, increasing β ‐diversity between the pre‐burned and burned conditions. Plant–bee interactions maintained similar network structure and robustness to plant loss before and after the fire. Nonetheless, increased β ‐diversity in the floral resource landscape promoted by fire increased plant–bee interaction β ‐diversity, leading to more interaction rewiring, turnover and the spatiotemporal reorganization of pairwise interactions. Fire increased the temporal and spatial availability of floral resources by stimulating flowering in new patches and extending blooming periods, without disrupting plant–bee interaction networks. We argue that bees adapt to fine‐scale shifts in floral resource distribution, preserving interaction network robustness in recurrently burned Cerrado ecosystems. Thus, fine‐scale changes in floral resources do not erode plant–bee network structure or stability. However, dissimilarities in floral resource presentation and plant–bee interactions reveal that fire introduces patchy variability in Cerrado ecosystems. Synthesis and applications . Contrary to fire suppression policies that promote ecological homogenization, we suggest that patchy prescribed fires could be used to enhance spatiotemporal diversity in the Cerrado by promoting fine‐scale heterogeneity in floral resources and resource‐mediated plant–bee interactions.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Robustness (evolution)",
+        "Resource (disambiguation)",
+        "Pairwise comparison",
+        "Resource distribution",
+        "Biodiversity",
+        "Disturbance (geology)",
+        "Vegetation (pathology)",
+        "Ecological network"
+      ]
     },
     {
       "doi": "10.1086/743437",
@@ -23494,34 +23597,6 @@
         "Turgor pressure",
         "Drought resistance",
         "Biodiversity"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70308",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70308",
-      "title": "The role of fisheries management in enhancing the resistance of marine ecosystems to biological invasion",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-11",
-      "published_date_display": "2026-02-11",
-      "published_parts": [
-        2026,
-        2,
-        11
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70308",
-      "abstract": "Abstract Biological invasion is one of the major threats to biodiversity, ecosystem health and services worldwide. In marine ecosystems, invasions are difficult to monitor and control, thus management strategies that can enhance biotic resistance are the key to tackling invasion risks. However, the biotic resistance of marine ecosystems is poorly understood with respect to the influencing factors and regulating mechanisms. We used an individual‐based modelling approach to predict the potential risks of a biological invasion event from an ecosystem perspective, and tested how fishing as a driving factor of ecosystem structure can alter biotic resistance. We considered a species of high invasive risk globally, European green crab ( Carcinus maenas ) as an example, and evaluated its invasion risk in a heavily exploited ecosystem Haizhou Bay, China. Further, we illustrated the role of fishery management to improve biotic resistance in order to inform the development of resistance‐enhancing strategies. We found the Haizhou Bay ecosystem would be vulnerable to the invasion of the green crab, while reducing fishing intensity by half could effectively enhance its biotic resistance by decreasing the invasion success rate by up to 52%. Alternatively, the reduced predation pressure experienced by juvenile C. maenas would largely contribute to successful invasions. Fishing activities could regulate the predation pressure by changing predator biomass and trophic links within the ecosystem, and thereby alter the biotic resistance to invasion. We further designed a range of simplified management strategies that controlled the fishing efforts on selected predators and illustrated their effectiveness to enhance biotic resistance. These strategies could mediate the trade‐offs between fisheries production and ecosystem management to a certain degree. Synthesis and applications. We validated the predation‐based hypothesis of biotic resistance in marine ecosystems and illustrated that fishery management can enhance biotic resistance by changing ecosystem structure. Based on this mechanism, fishery management strategies could simultaneously enhance biotic resistance and reduce management conflicts. We proposed an IBM‐based framework as a comprehensive assessment tool that holds significant potential for developing precautionary management strategies.",
-      "keywords": [
-        "Ecosystem",
-        "Resistance (ecology)",
-        "Fishing",
-        "Marine ecosystem",
-        "Trophic cascade",
-        "Trophic level",
-        "Invasive species",
-        "Fisheries management",
-        "Ecosystem management"
       ]
     },
     {
