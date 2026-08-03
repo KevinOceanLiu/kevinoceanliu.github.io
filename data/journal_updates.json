@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:09:19.391878+00:00",
+  "generated_at": "2026-08-03T22:16:18.919527+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115598",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115598",
-      "title": "Mitigating terrain effects of GEDI data on regional accounting of aboveground biomass utilizing slope-adaptive waveform metrics",
+      "doi": "10.1016/j.rse.2026.115593",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115593",
+      "title": "Extending the MAIAC algorithm for hyperspectral atmospheric correction of TROPOMI measurements: A case study over vegetated regions",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,68 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003688",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003639",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2707611",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2707611",
+      "title": "Geographically weighted redundancy analysis",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-08-03",
+      "published_date_display": "2026-08-03",
+      "published_parts": [
+        2026,
+        8,
+        3
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2707611",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2700394",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2700394",
+      "title": "GEEToker: you can boost LLMs’ JavaScript-based geospatial code generation for Google Earth Engine with a model-agnostic tokenizer",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-08-03",
+      "published_date_display": "2026-08-03",
+      "published_parts": [
+        2026,
+        8,
+        3
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2700394",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115598",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115598",
+      "title": "Mitigating terrain effects of GEDI data on regional accounting of aboveground biomass utilizing slope-adaptive waveform metrics",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-02",
+      "published_date_display": "2026-08-02",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003688",
+      "abstract": "",
+      "keywords": [
+        "Terrain",
+        "Waveform",
+        "Biomass (ecology)",
+        "Vegetation (pathology)",
+        "Hydrology (agriculture)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115595",
@@ -49,15 +108,21 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-08-02",
+      "published_date_display": "2026-08-02",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003652",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Raster graphics",
+        "Surface (topology)",
+        "Fraction (chemistry)",
+        "Surface water",
+        "Reflectivity"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115563",
@@ -12206,32 +12271,6 @@
         "Terrain",
         "Feature (linguistics)",
         "China"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115348",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115348",
-      "title": "InceptionFormer: A deep learning framework for UAV LiDAR point cloud completion to improve tree parameters estimation in dense forests",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-07",
-      "published_date_display": "2026-03-07",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001185",
-      "abstract": "",
-      "keywords": [
-        "Point cloud",
-        "Lidar",
-        "Tree (set theory)",
-        "Deep learning",
-        "Laser scanning",
-        "Canopy",
-        "Cloud computing",
-        "Tree structure"
       ]
     },
     {
