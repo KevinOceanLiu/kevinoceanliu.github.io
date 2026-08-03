@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:39:53.681188+00:00",
+  "generated_at": "2026-08-03T22:40:55.787535+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,77 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41893-026-01900-0",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01900-0",
+      "title": "Psychological barriers to improving carbon competence",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-08-03",
+      "published_date_display": "2026-08-03",
+      "published_parts": [
+        2026,
+        8,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01900-0",
+      "abstract": "Abstract To effectively contribute to the mitigation of climate change, individuals require accurate representations of the greenhouse gas emissions related to climate actions across life domains. Although this carbon competence is generally low, the related psychological barriers remain largely unexplored, and few attempts have been made to improve it. Here we investigate how heuristic and motivated reasoning processes relate to mitigation potential estimates and evaluate corrective interventions. Across three preregistered studies ( n total = 2,924) we show that low- to medium-impact actions are more frequently adopted than higher-impact actions, and that knowledge about the differential impact of climate actions is limited. Our data suggest that inaccuracies are driven by individuals consistently relying on the availability heuristic and motivated reasoning to form their judgements. To address this, we identify perceived behavioural costs and social prevalence as reasonable proxies of the actual impact of a broad range of climate actions. Leveraging this insight in two corrective boosting interventions and informing about the most impactful climate actions only partly improved impact estimates, with considerable variations across individuals. Accounting for heterogeneity through tailored interventions appears crucial to overcome pervasive psychological barriers to carbon competence on a large scale.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02054-6",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02054-6",
+      "title": "Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-03",
+      "published_date_display": "2026-08-03",
+      "published_parts": [
+        2026,
+        8,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02054-6",
+      "abstract": "Abstract The McMurdo Dry Valleys contain a mosaic of specialized microbial habitats structured by strong physical and chemical gradients. Blood Falls, located at the terminus of the Taylor Glacier, is a red, iron-rich outflow of deep Antarctic subglacial brine with geochemical and isotopic evidence supporting a potential ancient marine origin. Previous studies suggest the brine formed when seawater inundated the Taylor Valley over warm climatic intervals before becoming isolated beneath the advancing glacier. Here, across 167 aquatic, sediment and aeolian samples from the McMurdo Dry Valleys and marine reference sites, we identified a distinct marine micro-eukaryotic assemblage restricted to red-hued ice, mud and sediment at the Taylor Glacier terminus. Marine indicator species were identified across several phylogenetic groups including diatoms, haptophytes, dinoflagellates and ciliates. Metatranscriptomic profiles revealed transcriptionally active phototrophs with enriched pathways for photosynthesis, osmotic stress responses and cellular repair. Haplotype networks showed lineage-specific divergence between Taylor Glacier terminus and McMurdo Sound diatoms, supporting geographic isolation. These findings indicate that the subglacial brine-fed system at the Taylor Glacier terminus retains marine-derived biological signatures long after physical separation from the ocean, linking contemporary Antarctic microbial assemblages to past climatic transitions.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02055-5",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02055-5",
+      "title": "Disconnection of the late Pliocene Agulhas Leakage from Atlantic Meridional Overturning Circulation",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-03",
+      "published_date_display": "2026-08-03",
+      "published_parts": [
+        2026,
+        8,
+        3
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02055-5",
+      "abstract": "Abstract The strength of the Atlantic Meridional Overturning Circulation (AMOC), in terms of streamfunction, is considered to depend partly on salt supply from the Indian Ocean through Agulhas Leakage (AL). In turn, AL is regulated by the position of the Southern Ocean subtropical front, which creates the pathway of the leaking around the African continent. Here, to evaluate the links between the subtropical front, AL and AMOC, we present latitudinal shifts of the subtropical front, and thereby potential AL changes, using dinoflagellate cysts and biomarkers in sediment cores from the Agulhas Plateau covering the late Pliocene (3,600–2,580 thousand years ago (ka)). We subsequently compare our frontal migration and AL reconstruction with ocean surface and bottom records along the AMOC pathway, and climate model simulations, to evaluate the influence of the AL on the AMOC. We find that the northward migration of the subtropical front gradually reduced the volume and salt supply of AL from 3,600 ka to 3,300 ka, whereas the AMOC intensified. We conclude that the causal link between the AL and AMOC was disconnected during the late Pliocene, challenging the presumed role of the AL in modulating the AMOC.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101781",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101781",
+      "title": "Building an ecosystem services-based framework for agricultural soil health assessment in drylands",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600182X",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41561-026-02049-3",
       "doi_url": "https://doi.org/10.1038/s41561-026-02049-3",
