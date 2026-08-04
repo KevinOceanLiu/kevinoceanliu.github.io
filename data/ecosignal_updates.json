@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T23:46:42.283058+00:00",
+  "generated_at": "2026-08-04T23:41:26.101938+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,114 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/1365-2745.70416",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70416",
+      "title": "Seed defences shift granivore satiation across seed densities",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-04",
+      "published_date_display": "2026-08-04",
+      "published_parts": [
+        2026,
+        8,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70416",
+      "abstract": "Abstract Predator satiation is typically viewed as a function of seed abundance, yet plants also vary widely in seed defences that shape handling costs. Whether such traits modify satiation dynamics remains unclear, despite the role that predator satiation plays in the evolution and ecological consequences of masting. We experimentally manipulated seed density and spatial distribution using two oak species that differ in mechanical defence and tracked removal and post‐dispersal fate by scatterhoarding rodents. We also measured the force required to pierce acorn shells to quantify differences in mechanical resistance between species. In the well‐defended species ( Quercus rubra ), key components of seed fate shifted with increasing density: removal and consumption declined and dispersal distance shortened. In the less defended species ( Quercus robur ), these responses showed little change across densities. These contrasting patterns coincided with a nearly fourfold difference in acorn shell mechanical resistance between species. Synthesis . Our results show that predator satiation is not determined by seed abundance alone: mechanical seed defences can shift the density at which consumers become satiated, shaping density‐dependent seed predation and dispersal. Thus, the effectiveness of masting depends on both seed abundance and seed traits.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70411",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70411",
+      "title": "<i>Pinus armandii</i> ectomycorrhizas mobilize aluminium‐bound phosphorus via carboxylates along a subtropical altitudinal gradient",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-04",
+      "published_date_display": "2026-08-04",
+      "published_parts": [
+        2026,
+        8,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70411",
+      "abstract": "Abstract In the low phosphorus (P) bioavailability, acid‐weathered soils of subtropical southwest China, Pinus armandii employs diverse P‐acquisition strategies (PAS). However, the relative contributions of ectomycorrhizal (ECM) roots versus non‐mycorrhizal roots, and how these strategies shift along altitudinal gradients to mobilize specific cation‐bound P pools, remain poorly understood. We sampled bulk and rhizosheath soil and root tissues of P. armandii across an altitudinal gradient (2000–3000 m above sea level). To identify the soil P pools targeted by different PAS, we integrated measurements of P–Al, P–Fe and P–Ca stoichiometry into the Hedley fractionation. PAS were quantified using aluminon–agarose assays and leaf manganese concentrations ([Mn]) for carboxylates, alongside fluorometric and staining assays for ECM and non‐mycorrhizal root phosphatase activity. Carboxylate exudation was substantially greater from ECM root tips than from non‐mycorrhizal root segments. Sites with higher ECM colonization exhibited stronger gel discoloration and elevated leaf [Mn], indicating that ECM roots were the primary source of carboxylates. Across elevations, NaOH‐extractable inorganic P (NaOH‐Pi) was consistently depleted in rhizosheath soil relative to bulk soil and was associated exclusively with Al rather than Fe or Ca. Furthermore, the slope of NaOH‐Pi versus NaOH‐Al was 36.6% lower in rhizosheath soil than in bulk soil, and rhizosheath NaOH‐Pi declined with increasing leaf [Mn], demonstrating preferential mobilization of Al‐bound inorganic P through ECM‐mediated carboxylate release. In contrast, evidence for acquisition of Al‐bound organic P was restricted to the lowest elevation, where phosphatase activity was greater in ECM roots than in non‐mycorrhizal roots and rhizosheath phosphatase activity exceeded that of bulk soil. Synthesis . Pinus armandii acquires P primarily through ECM‐mediated carboxylate release that mobilizes Al‐bound inorganic P. By integrating P‐cation stoichiometry into Hedley fractionation, our approach links plant P‐acquisition strategies to specific mineral‐associated P pools in natural soils. These findings demonstrate how ECM symbioses construct rhizosheath nutrient niches through mobilization of Al‐bound P, providing new mechanistic insight into plant adaptation to bioavailable P‐poor ecosystems.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70514",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70514",
+      "title": "Sex‐biasing gene drives for island mouse eradications: Modelling dispersal and mating behaviour for improved risk assessment preparedness",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-04",
+      "published_date_display": "2026-08-04",
+      "published_parts": [
+        2026,
+        8,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70514",
+      "abstract": "Abstract Invasive rodents remain a major source of environmental damage worldwide. Sex‐biasing gene drives may provide an alternative to toxicant‐based eradication strategies. Risk assessments for gene drives will rely partially on models, which must account for intraspecific variation in the ecological and life‐history characteristics of target populations. Dispersal patterns and mating system characteristics in particular are expected to impact drive spread and suppression outcomes, though empirical data on natural populations are lacking. We developed a stochastic metapopulation model implemented using numerical simulations that simulates the introduction and spread of male‐biasing X‐Shredder or female‐biasing Y‐Shredder gene drives to suppress an island population of house mice ( Mus musculus ). Our model includes parameters for mating system complexity, sperm competition, dispersal frequency and distance, as well as several features related to release strategy and drive efficiency (shredding efficiency for both drives, homologous site cutting efficiency for Y‐Shredder drives). We found that both drive strategies are capable of complete population eradication within ~15–35 years depending on parameterization. Drive efficiency had the strongest impact on eradication probability and timing across both drive types. Increasing dispersal frequency usually improved the probability of successful eradication and reduced the time required to achieve eradication, though we identified several exceptions to this trend. Polyandrous mating limited the success and speed of X‐Shredder drives, while the effect of polygynous mating varied for Y‐Shredder drives, improving eradication probability across certain parameter combinations at lower dispersal frequencies when cutting efficiency exceeded shredding efficiency and shredding efficiency remained above a minimal threshold. Across parameter space and drive strategies, ‘chasing’ events, in which wildtype individuals repeatedly recolonize eradicated areas, were common and often prevented successful eradication at low dispersal frequency. Dispersal behaviour exhibited a strong influence on the spatial characteristics of recolonization and chasing events. Synthesis and applications . Though drive efficiency was highly influential to model outcomes, such parameters will likely be known prior to any experimental gene drive introductions. We conclude that understanding the ecological and life‐history characteristics specific to target populations will be critical to accurately predict gene drive outcomes and inform risk assessments.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70531",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70531",
+      "title": "Microbial necromass outweighs lignin in contributing to soil recalcitrant carbon accumulation during vegetation restoration in a subtropical karst region",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-04",
+      "published_date_display": "2026-08-04",
+      "published_parts": [
+        2026,
+        8,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70531",
+      "abstract": "Abstract Vegetation restoration is an important global strategy to enhance ecosystem resistance and promote soil organic carbon (SOC) sequestration. However, under this strategy, the mechanism underlying soil recalcitrant organic carbon (ROC) accumulation, particularly the relative contributions of plant‐ versus microbial‐derived carbon, remains insufficiently explored. Using a space‐for‐time substitution approach, we selected three land‐use types (cropland, shrubland and secondary forest) to represent a vegetation restoration chronosequence in karst regions of southwest China. We quantified soil lignin and microbial necromass carbon (MNC) by employing biomarker technologies (lignin phenols and amino sugars) and combined these measurements with ROC to assess relative contributions of plant versus microbial residues to stable SOC accumulation. Across the three land‐use types, ROC accounted for more than 60% of total SOC pool. Vegetation restoration significantly increased soil ROC content by 193%, indicating that this strategy improved SOC stability and benefited long‐term preservation of soil carbon. While both lignin and MNC contents significantly increased during vegetation restoration, MNC was identified as the key predictor of soil ROC accumulation. Soil MNC accumulation in shrublands and secondary forests was strongly associated with increased soil carbon and nitrogen availability and mineral protection (exchangeable calcium+magnesium and free and short‐range ordered iron+aluminium oxides). Concurrently, higher substrate availability and mineral protection also facilitated soil lignin preservation. Importantly, fungal and bacterial necromass contributed almost equally to ROC accumulation. This phenomenon likely stemmed from the improvement in soil pH during vegetation restoration, which alleviated acid stress on bacterial proliferation. Synthesis and applications : Our study expands the traditional lignin‐centric theoretical framework of carbon accumulation and emphasizes that the unique geochemical environment of karst regions facilitates a synchronous accumulation of bacterial and fungal necromass, jointly promoting stable SOC sequestration. We therefore propose that restoration strategies for karst‐degraded ecosystems should focus on fostering active soil microbial communities while introducing plant species that facilitate soil calcium enrichment to enhance microbial carbon sequestration potential and promote the long‐term preservation of SOC.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70530",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70530",
+      "title": "Abrupt changes in grassland productivity induced by shrub encroachment",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-04",
+      "published_date_display": "2026-08-04",
+      "published_parts": [
+        2026,
+        8,
+        4
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70530",
+      "abstract": "Abstract Grasslands are important ecosystems that sustain productive pastoral enterprises and support multiple ecosystem functions. Yet grasslands are threatened by shrub encroachment, the transformation of grass‐dominant states to those dominated by woody plants. The extent to which encroachment initiates abrupt changes in ecosystem functions, and the major drivers of these changes, remain elusive. We quantified five ecosystem functions (i.e. plant productivity, soil stability, soil carbon storage, soil decomposition capacity and soil nutrient cycling), and calculated trade‐offs among them across 102 sites along a gradient in shrub cover. We assessed the response of ecosystem functions to increasing encroachment and explored the relative importance of biotic and abiotic factors on ecosystem functions in encroached grasslands. Plant productivity exhibited a non‐linear, bimodal response to shrub encroachment with two encroachment thresholds. Productivity declined sharply from 0% to 3% shrub cover (grass‐dominant stage), stabilized at 3%–25% cover (grass‐shrub transitional stage) and decreased substantially beyond 25% shrub cover (shrub‐dominant stage). Trade‐offs among productivity and ecological functions were stage dependent, being intense in the grass‐dominant stage but shifting towards synergy in the transitional and shrub‐dominant stages. Intensified encroachment decoupled the effect of above‐ and below‐ground species richness on functions. Productivity was positively related to below‐ground invertebrate richness under grass dominance, but became driven by above‐ground plant richness and soil bulk density in the grass‐shrub transitional stage as encroachment intensified. Synthesis and applications . Our results demonstrate the non‐linear response of productivity to shrub encroachment and highlight the importance of incorporating encroachment thresholds into grassland monitoring and management. Our study shows that trade‐offs among productivity and ecological functions are strongest during the grass‐dominant stage, suggesting that management aimed at maintaining multiple ecosystem functions should be prioritized during the early stages of encroachment. Moreover, intensified encroachment decoupled the effects of above‐ and below‐ground species richness, indicating that maintaining below‐ground species richness is critical in the grass‐dominant stage when shrubs are sparse. The results highlight the importance of initiating brush management interventions at the early stages of encroachment (~3% shrub cover) and provide a scientific basis for guiding the timing and optimization of shrub removal strategies.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71036",
+      "doi_url": "https://doi.org/10.1111/gcb.71036",
+      "title": "Fires Beyond Fire‐Prone Ecosystems: The Erosion of Beech Forest",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-04",
+      "published_date_display": "2026-08-04",
+      "published_parts": [
+        2026,
+        8,
+        4
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71036",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1086/743450",
       "doi_url": "https://doi.org/10.1086/743450",
       "title": "Warming strengthens priority effects driven by an ontogenetic shift from host to predator",
@@ -51,7 +159,40 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/743450",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Predator",
+        "Host (biology)",
+        "Predation",
+        "Ontogeny",
+        "Climate change",
+        "Ectotherm",
+        "Apex predator"
+      ]
+    },
+    {
+      "doi": "10.1086/743448",
+      "doi_url": "https://doi.org/10.1086/743448",
+      "title": "From genes to populations: evolutionary responses to selective fishing vary with genetic architecture",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-03",
+      "published_date_display": "2026-08-03",
+      "published_parts": [
+        2026,
+        8,
+        3
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743448",
+      "abstract": "",
+      "keywords": [
+        "Genetic architecture",
+        "Gene",
+        "Fishing",
+        "Genetic variation",
+        "Genome",
+        "Phylogenetics"
+      ]
     },
     {
       "doi": "10.1086/743447",
@@ -69,7 +210,13 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/743447",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Dynamics (music)",
+        "Control theory (sociology)",
+        "Instability",
+        "Stability (learning theory)",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03142-x",
@@ -87,7 +234,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03142-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Mutation",
+        "Saturated mutagenesis",
+        "Adaptation (eye)",
+        "Mutant",
+        "Gene",
+        "Mutagenesis",
+        "Function (biology)",
+        "Cytosine"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03159-2",
@@ -105,6 +261,27 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03159-2",
       "abstract": "",
+      "keywords": [
+        "Data collection",
+        "General partnership"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70521",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70521",
+      "title": "Targeted fish removals enhance multidimensional native fish diversity within freshwater protected areas",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-03",
+      "published_date_display": "2026-08-03",
+      "published_parts": [
+        2026,
+        8,
+        3
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70521",
+      "abstract": "Abstract Freshwater ecosystems are hotspots of biodiversity and contribute significantly to food security. Yet freshwater habitats throughout the world remain plagued by overfishing, which depletes populations and diminishes provisioning of ecosystem services. There is growing interest in the use of freshwater protected areas (FPAs), which are freshwater ecosystems managed under long‐term fishing bans and conservation‐oriented regulations, to promote ecosystem recovery. Yet empirical evidence on the efficacy of FPAs indicates that ecological recovery can be complicated by non‐native species, which may also benefit from reduced harvest pressure and improved habitat conditions. To evaluate effects of targeted fish removals (TFRs) under fully implemented FPAs, we conducted exhaustive field surveys across five Chinese lakes with and without removal efforts and assessed multiple dimensions of fish assemblage diversity. Results showed multidimensional diversity metrics for native fishes improved significantly in FPAs with TFRs (e.g. non‐native fish removals in invasion hotspots), while these same metrics declined in control lakes. Moreover, TFRs appeared to strengthen top‐down regulation and alleviate eutrophication, as indicated by altered trophic cascade relationships and reduced phytoplankton biomass (PB) in FPAs with TFR. Synthesis and applications. Our results indicate combining FPAs with TFRs is essential to achieve effective biodiversity recovery in these ecosystems. This integrated strategy should be prioritized in invasion‐prone or eutrophic systems, where passive protection alone is unlikely to deliver desired ecological outcomes.",
       "keywords": []
     },
     {
@@ -123,7 +300,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70529",
       "abstract": "Abstract Soil denitrification is strongly linked to soil nitrogen availability and influences nitrate leaching and greenhouse gas emissions. In turn, it can be regulated by ecosystem productivity through plant nitrogen uptake and organic matter inputs. However, the specific effects of tree diversity on soil denitrification and the underlying mechanisms remain poorly understood in forest ecosystems. Here, we investigated the effects of tree species richness (across five levels: 1, 4, 8, 16 and 32 species) and the corresponding functional structure on soil denitrification through a large biodiversity experiment in young subtropical forests (3‐year‐old). Our results revealed a unimodal relationship between tree species richness and denitrification potential, with the peak at four species. The structural equation model indicated that tree species richness was positively associated with the functional dispersion of leaf dry matter content, which in turn increased ground basal area, thereby promoting denitrification potential by enhancing soil water‐filled pore space, elevating the abundance of the nirK gene and reducing the soil C:N ratio. Additionally, the community‐weighted means of root tissue density and specific leaf area positively and negatively influenced soil denitrification potential, respectively. Synthesis and applications . Our results suggest that soil denitrification is more pronounced in young forest communities characterized by high productivity and dominated by resource‐conservative species with high root tissue density and low specific leaf area. We recommend that forest managers prioritize high functional trait diversity rather than tree species richness to maximize niche complementarity in planted forests, an approach that would improve both economic and ecological benefits. These findings provide a foundation grounded in evidence for integrating biodiversity, nutrient cycling and selection principles based on traits into afforestation and stand transformation.",
-      "keywords": []
+      "keywords": [
+        "Species richness",
+        "Denitrification",
+        "Biodiversity",
+        "Ecosystem",
+        "Leaching (pedology)",
+        "Species diversity",
+        "Soil organic matter",
+        "Tropical and subtropical moist broadleaf forests"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70523",
@@ -141,7 +327,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70523",
       "abstract": "Abstract Understanding how demographic rates change during population recovery is critical for evaluating conservation success and determining when populations become self‐sustaining. However, documenting such transitions requires long‐term monitoring across substantial changes in population size— conditions that are rarely met. We leverage a 29‐year capture‐mark‐recapture dataset from the echo parakeet population ( Alexandrinus eques ), a vulnerable endemic parrot of Mauritius island that recovered from fewer than 20 individuals to over 500 during the study period. Using multistate capture‐mark‐recapture models, we analysed encounter histories of 2734 known‐aged wild individuals to estimate age and state‐specific survival probabilities while accounting for temporal variation, transitions between breeding states and controlling for unequal recapture probabilities. Demographic rates changed substantially during population recovery. Recruitment into the breeding population declined across all age classes as the population approached carrying capacity. Survival showed contrasting patterns: juveniles (<2 years old) exhibited a declining temporal trend (from 0.68 in 1994 to 0.57 in 2020), whereas adult survival remained stable across years, with breeding adults showing consistently higher rates (0.96–0.97) than non‐breeding individuals (0.76–0.90). Synthesis and applications . These findings highlight the dynamic nature of demographic processes throughout population recovery and emphasise the value of continued monitoring beyond apparent recovery to detect density‐dependent shifts in demographic rates of wildlife populations.",
-      "keywords": []
+      "keywords": [
+        "Critically endangered",
+        "Population",
+        "Vital rates",
+        "Mark and recapture",
+        "Wildlife",
+        "Endangered species",
+        "Population growth",
+        "Population viability analysis",
+        "Genetic monitoring",
+        "Wildlife management"
+      ]
     },
     {
       "doi": "10.1111/ele.70408",
@@ -177,7 +374,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70444",
       "abstract": "ABSTRACT Agricultural intensification has led to many environmentally degrading practices that can cause insect biodiversity loss and a decline in ecosystem services. Local management practices and more complex landscapes can help mitigate these negative effects. The intermediate landscape complexity hypothesis suggests that local management best supports insect biodiversity in landscapes of intermediate complexity, which contain both agricultural and natural habitats. However, recent studies have also shown higher biodiversity in both simple and complex landscapes. In this review, we investigated whether certain local practices are more effective across a range of landscape complexity. Our results showed that local management or landscape complexity increases insect biodiversity or ecosystem services in about 25% of cases. We found support for the intermediate landscape complexity hypothesis in some scenarios and positive effects of local management in simple and complex landscapes in others. Future studies should more clearly define how they measure landscape complexity, which will help compare results and find patterns. These findings can begin to inform tailored local management and research directions to maximize insect biodiversity and ecosystem services in different landscape contexts.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Ecosystem services",
+        "Ecosystem",
+        "Ecosystem management",
+        "Agriculture",
+        "Range (aeronautics)",
+        "Natural (archaeology)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70522",
@@ -195,7 +400,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70522",
       "abstract": "Abstract The frequency and severity of natural disturbances and forest harvests are changing in many temperate and boreal forests worldwide, at a time when regional surveys suggest deficiencies in tree regeneration. This combination suggests the utility of assessing how regeneration existing prior to disturbance (i.e. advance regeneration) translates to forest recovery following recent disturbances. We used repeated plot measurements from nationwide forest inventory data to link advance seedling regeneration to post‐disturbance seedling abundance and sapling recruitment across forests of the northern USA an average of 14.3 years following natural disturbances and forest harvests. Three metrics were considered: regeneration abundance, species richness and compositional similarity to the pre‐disturbance mature tree layer. Random Forest models were used to predict post‐disturbance regeneration response as a function of advance regeneration, pre‐disturbance stand attributes, disturbance type and severity, terrain and geography. Advance seedling regeneration was moderately correlated with post‐disturbance sapling recruitment and seedling abundance, indicating that challenges in advance regeneration do tend to carry over to challenges in post‐disturbance regeneration. Regeneration challenges following natural disturbance were more acute compared with harvesting. Higher disturbance and harvest severity were associated with more robust post‐disturbance sapling recruitment and, to a lesser extent, seedling abundance. Other influences on post‐disturbance regeneration included climate, geography, loss of particular tree genera (especially Populus ), subsequent harvesting and understory plant cover. Synthesis and applications : Our work establishes that previously observed challenges in advance regeneration contribute to poor recovery following harvests and natural disturbances in northern USA forests. Shifts towards lower severity harvesting in the region may be exacerbating post‐disturbance regeneration challenges, ultimately leading to low tree species richness and novel composition. Our results indicate that recovery from natural disturbance may be improved through judicious post‐disturbance management, including harvesting that focuses on improving regeneration environments while also protecting important post‐disturbance structure, like surviving trees and downed wood.",
-      "keywords": []
+      "keywords": [
+        "Regeneration (biology)",
+        "Disturbance (geology)",
+        "Species richness",
+        "Understory",
+        "Seedling",
+        "Logging",
+        "Temperate rainforest",
+        "Forest restoration",
+        "Natural regeneration",
+        "Temperate forest"
+      ]
     },
     {
       "doi": "10.1111/gcb.71027",
@@ -213,7 +429,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71027",
       "abstract": "ABSTRACT Anthropogenic nitrogen (N) deposition and shifts in plant functional composition can alter grassland biodiversity and ecosystem functioning, yet their interactive effects on multifunctionality across spatial scales remain poorly understood. Using an eight‐year field experiment that combined plant functional group removal with N addition in a subalpine meadow, we tested how N addition and the removal of dominant grasses or subordinate forbs affected biodiversity and multifunctionality from empirical α‐scale plots to derived β‐ and γ‐scale estimates based on four‐plot assemblages. We found that grass removal reduced α‐ and γ‐multifunctionality, whereas forb removal did not affect multifunctionality across scales under both ambient and N addition conditions. The decline in γ‐multifunctionality after grass removal was associated mainly with reduced α‐component multifunctionality. Grass removal increased plant α‐diversity and β‐diversity under ambient conditions, whereas forb removal reduced both α‐ and β‐diversity, especially under N addition. However, neither plant nor soil α‐diversity predicted α‐multifunctionality and changes in plant β‐diversity were not accompanied by comparable changes in β‐multifunctionality, indicating that, within the range of diversity changes observed here, multifunctionality was more strongly tied to grass‐associated functions than to plant diversity. N addition modified plant diversity responses to functional group removal but did not change multifunctionality responses. Our multiscale framework clarifies how dominant functional groups and biodiversity components contribute differently to ecosystem multifunctionality under nutrient enrichment, underscoring the need for integrated conservation approaches that safeguard both dominant and subordinate species.",
-      "keywords": []
+      "keywords": [
+        "Forb",
+        "Biodiversity",
+        "Ecosystem",
+        "Grassland",
+        "Plant community",
+        "Ecosystem services",
+        "Range (aeronautics)",
+        "Functional diversity",
+        "Nutrient",
+        "Functional group"
+      ]
     },
     {
       "doi": "10.1111/gcb.71032",
@@ -22021,34 +22248,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70769",
-      "doi_url": "https://doi.org/10.1111/gcb.70769",
-      "title": "Signals From the Southern Edge: Demographic Effects of Ocean Warming on Two Cold‐Adapted Seabird Species in the Gulf of Maine",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        3,
-        3
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70769",
-      "abstract": "ABSTRACT Rapid warming in the Gulf of Maine (GoM) is contributing to widespread shifts in the abundance, distribution, and quality of marine prey communities. These shifts cascade up the food web and will ultimately affect the fitness and viability of seabirds, the impacts of which are expected to be especially pronounced at the southern edge of their ranges. Using integrated population models, we analyzed 26 years (1998–2023) of demographic data for Atlantic Puffins ( Fratercula arctica ; ATPU) and Razorbills ( Alca torda ; RAZO) nesting at the southern edge of their breeding range in the GoM. Additionally, we examined the environmental and demographic drivers of demographic rates and how these relationships may have changed over time. We found that key demographic rates in both species are linked to warming‐related stressors. In ATPU, adult survival declined with increasing summer length, and productivity was negatively associated with winter sea surface temperature anomalies. RAZO first‐year survival was positively associated with chick wing chord growth, which itself declined over time with a parallel increase in the proportion of lower‐quality prey in the diet. Summer length had a strong negative effect on productivity in this species. Finally, we found no evidence indicating that these climate‐demography relationships were changing over time, suggesting current stationarity in these species' responses to ocean warming. Our findings suggest that specific warming‐related factors, such as summer length and winter sea surface temperature anomalies have negatively impacted ATPU and RAZO demographic rates. Given the apparent stationarity of the identified climate–demography relationships over the study period, these relationships may be expected to persist under continued warming in the GoM. For cold‐adapted species like ATPU and RAZO that are already living close to their thermal limits in the GoM, these insights are especially urgent.",
-      "keywords": [
-        "Seabird",
-        "Predation",
-        "Productivity",
-        "Sea surface temperature",
-        "Population",
-        "Effects of global warming on oceans",
-        "Climate change",
-        "Range (aeronautics)",
-        "Global warming"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70767",
       "doi_url": "https://doi.org/10.1111/gcb.70767",
       "title": "Nitrate Availability Modulates the Temperature Sensitivity of <scp> N <sub>2</sub> O </scp> and <scp> N <sub>2</sub> </scp> Production From Denitrification",
@@ -22431,77 +22630,6 @@
         "Climate change",
         "Aquatic plant",
         "Global change"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70323",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70323",
-      "title": "Detecting disease progression from animal movement using hidden Markov models",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-27",
-      "published_date_display": "2026-02-27",
-      "published_parts": [
-        2026,
-        2,
-        27
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70323",
-      "abstract": "Abstract Detecting infectious disease in wildlife is critical for conservation, management of reintroduction programmes, and to reduce the risk of spillover into livestock and humans. However, collecting diagnostic samples from free‐ranging animals is logistically difficult and costly. Many pathogens alter host behaviour, including reductions in movement, suggesting that animal tracking data could offer a way to infer infection status. We develop a modelling framework that links animal movement to disease processes using hidden Markov models (HMMs). Infection status is treated as a hidden (unobserved) state, while movement patterns, such as step lengths and turning angles, serve as state‐dependent observations. This structure is similar to epidemiological compartmental models (‘Susceptible‐Infected‐Recovered; SIR’), allowing movement data to be formally connected to disease progression. We test multiple model formulations, including (1) constrained state transition probabilities to preclude or include recovery, (2) covariate effects to test whether ecological factors influence infection risk and (3) hierarchically structured HMMs (HHMMs) to distinguish movement responses at short and long temporal scales. We apply this framework to GPS movement data from 84 reintroduced scimitar‐horned oryx ( Oryx dammah ) in Chad. During the study period, 38 individuals were confirmed dead and 6 were sampled for pathogens (e.g. Rift Valley Fever, Peste des Petits Ruminants, Babesiosis). Models that included biologically realistic constraints on transitions among infection states successfully detected disease‐associated reductions in movement and aligned with veterinary necropsy and diagnostic reports. Unconstrained models performed poorly, misclassifying individuals and failing to detect disease progression. Simulation results provided further evidence that constrained HMMs can infer susceptible, infected and recovered states under appropriate model specifications. Synthesis and applications . We demonstrate how (H)HMMs can be tailored to different epidemiological scenarios and provide a template workflow for developing and selecting Hidden Markov models to infer disease status from animal movement data. Identifying infection before mortality occurs offers a valuable early‐warning tool for population managers, reduces reliance on difficult and costly field testing and improves surveillance strategies for vulnerable and reintroduced populations.",
-      "keywords": [
-        "Hidden Markov model",
-        "Movement (music)",
-        "Rift Valley fever",
-        "Covariate",
-        "Disease",
-        "Anticipation (artificial intelligence)",
-        "Markov model",
-        "Disease surveillance"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70324",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70324",
-      "title": "Cover Picture and Issue Information",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-27",
-      "published_date_display": "2026-02-27",
-      "published_parts": [
-        2026,
-        2,
-        27
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70324",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1111/1365-2664.70320",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70320",
-      "title": "Biochar enhances blue carbon stability in seagrass ecosystems",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-27",
-      "published_date_display": "2026-02-27",
-      "published_parts": [
-        2026,
-        2,
-        27
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70320",
-      "abstract": "Abstract Seagrass ecosystems are globally recognized to have significant carbon sequestration functions (‘blue carbon’), with an estimated carbon sequestration rate of 27.4 million tonnes year −1 . Enhancing the stability of carbon storage is an important strategy for increasing carbon sequestration potential, thereby offering a natural solution for climate change mitigation. Biochar is widely used for promoting soil carbon storage stability in terrestrial ecosystems. The potential for similar functions of biochar in seagrass ecosystems is still unexplored. Here, we conducted a 6‐month field experiment to investigate the effects of biochar addition on tropical seagrass sediment ecology and biogeochemistry. We assessed the chemical (δ 13 C and sediment organic carbon [SOC] composition) and biological (extracellular enzyme activity and bacterial and fungal community structure and function) responses of biochar addition to seagrass sediment. We found that the biochar addition elevated the abundance of microbial r ‐strategists (e.g. Magnetospirillum , Azospirillum ) and cellulose‐decomposing Ruminiclostridium . This corresponded to higher dehydrogenase activity and an 8% reduction in labile sediment organic matter (LSOM). The 21% increase in refractory sediment organic matter (RefSOM) under biochar addition treatment was linked to inhibited lignin peroxidase activity, as well as fungal taxa ( unclassified Didymellaceae and Mortierella ). Further, the functional annotation analysis indicated that biochar addition promoted chemoheterotrophy and plant saprotrophy, aligning with the decomposition of LSOM and preservation of RefSOM. Synthesis and applications . Our results provide novel evidence that biochar application can alter the sediment ecology in a way that enhances the stability of the seagrass SOC pools through interactions between microbial extracellular enzymes and sediment chemistry. This highlights biochar's potential to strengthen the ‘blue carbon’ sink capacity in seagrass ecosystems.",
-      "keywords": [
-        "Biochar",
-        "Seagrass",
-        "Carbon sequestration",
-        "Blue carbon",
-        "Ecosystem",
-        "Organic matter",
-        "Sediment"
       ]
     },
     {
@@ -24841,34 +24969,6 @@
         "Biodiversity",
         "Temperate climate",
         "Introduced species"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70295",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70295",
-      "title": "Dual‐scale drivers of soil biodiversity in agroecosystems: Field management outweighs landscape effects, but both matter",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-02-01",
-      "published_date_display": "2026-02-01",
-      "published_parts": [
-        2026,
-        2,
-        1
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70295",
-      "abstract": "Abstract Soil communities in agricultural fields are shaped by both farm management and surrounding landscape structure. However, their relative contribution and potential interactions remain unclear. Understanding these relationships is essential for conserving soil biodiversity, which underpins key ecosystem functions and services. To address this knowledge gap, we conducted a field soil sampling campaign across 87 farms in the Netherlands to assess how field‐scale management and landscape structure in combination determine multiple soil communities, including bacteria, fungi, protists and invertebrates, in agroecosystems. Landscape structure significantly influenced the diversity and composition of soil organisms in addition to the strong influence of field‐scale management. In particular, the compositional landscape heterogeneity played a stronger role than configurational heterogeneity in shaping soil community composition. Importantly, the influence of landscape structure on soil diversity was independent of land use intensity at the field scale, with the exception of soil invertebrates. Synthesis and applications . These findings highlight the need for conservation strategies that integrate both field‐scale and landscape‐scale planning. The promotion of diverse land use types might offer a practical pathway to maximize the effectiveness of soil biodiversity conservation within an intensively managed agricultural matrix.",
-      "keywords": [
-        "Biodiversity",
-        "Soil functions",
-        "Land management",
-        "Land use",
-        "Ecosystem services",
-        "Soil biodiversity",
-        "Ecosystem",
-        "Agriculture",
-        "Sustainable land management"
       ]
     },
     {
