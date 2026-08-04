@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:16:18.919527+00:00",
+  "generated_at": "2026-08-04T22:21:11.934158+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,21 +26,45 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.isprsjprs.2026.07.024",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.024",
+      "title": "A loop-outlier-aware Riemannian pose-graph optimization framework for robust visual localization",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003813",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.rse.2026.115593",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115593",
       "title": "Extending the MAIAC algorithm for hyperspectral atmospheric correction of TROPOMI measurements: A case study over vegetated regions",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-08-03",
+      "published_date_display": "2026-08-03",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003639",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Atmospheric correction",
+        "Hyperspectral imaging",
+        "Atmospheric model",
+        "Error analysis",
+        "Satellite",
+        "Atmospheric optics"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2707611",
@@ -57,8 +81,17 @@
         3
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2707611",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Redundancy Analysis (RDA) is a conventional ordination technique to identify key relationships between multiple response and explanatory variables. It is routinely used both in the physical sciences and the social sciences, but for spatial processes, RDA is often applied without full consideration of spatial effects. Such naive applications can be problematic in terms of the interpretation of the RDA outputs and the understanding of the study process - leading to poor decision making. In this respect, RDA can be used to explore: (i) spatial autocorrelation, (ii) spatial heterogeneity with regard to data relationships, or (iii) both spatial effects (i) and (ii). In this study, the focus is on spatial heterogeneity, where RDA is novelly set within a geographically weighted (GW) framework where localised RDAs can be calibrated at any spatial location to form a GWRDA. This spatial setting of RDA entails non-stationary structures in the multivariate dataset can be identified and investigated across space. The proposed GWRDA algorithm is given with key calibration and diagnostic tools and evaluated both through a simulation experiment and an empirical case study. A route map for future refinements and developments of GWRDA is given.",
+      "keywords": [
+        "Redundancy (engineering)",
+        "Focus (optics)",
+        "Set (abstract data type)",
+        "Spatial analysis",
+        "Key (lock)",
+        "Data set",
+        "Multivariate statistics",
+        "Process (computing)"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2700394",
@@ -75,8 +108,17 @@
         3
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2700394",
-      "abstract": "",
-      "keywords": []
+      "abstract": "As a platform that integrates large-scale remote sensing data with cloud computing capabilities, Google Earth Engine (GEE) has been widely applied to tasks such as land cover monitoring and environmental assessment. However, its code development process requires strong programming skills and geospatial expertise, resulting in a high entry barrier for many users. Although existing large language models (LLMs) demonstrate considerable potential for code generation, their performance in GEE code generation tasks is often constrained by the limitations of general-purpose tokenizers. These tokenizers tend to produce inaccurate semantic segmentation of domain-specific syntax, leading to generation hallucinations during training and inference. To address this issue, this study proposes GEEToker, a model-agnostic and transferable tokenizer construction framework tailored for GEE code generation. The framework achieves structured optimization of GEE code through three core modules – data normalization, seed token mining and vocabulary enhancement training – and introduces several key datasets, including GEE-PT, GEE-SFT, GEEtokenization-Bench and GEE-Bench. Experimental results show that GEEToker reduces token consumption by 46.47%–53.78%, increases token coverage by 2.08%–17.82%, and shortens training and inference time by 4.20%–28.84%. Furthermore, it improves performance in entity extraction, code generation and code completion tasks by 2.02%–20.00%. These results validate the effectiveness of tokenizer optimization in enhancing LLMs’ geospatial code generation capabilities and suggest that, in resource-constrained or time-sensitive environments, prioritizing tokenizer training and replacement represents a highly cost-effective strategy. This work offers a new perspective and valuable insights for advancing LLM applications and tokenization research in vertical domains.",
+      "keywords": [
+        "Geospatial analysis",
+        "Code generation",
+        "Security token",
+        "Code (set theory)",
+        "Cloud computing",
+        "Key (lock)",
+        "Inference",
+        "Source code"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115598",
@@ -12049,34 +12091,6 @@
         "Flow (mathematics)",
         "Feature (linguistics)",
         "Context (archaeology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.014",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.014",
-      "title": "Efficient feature matching for UAV images based on compact GPU data scheduling",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-12",
-      "published_date_display": "2026-03-12",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001280",
-      "abstract": "",
-      "keywords": [
-        "Speedup",
-        "Feature (linguistics)",
-        "Matching (statistics)",
-        "Blossom algorithm",
-        "Feature extraction",
-        "Cascade",
-        "Pattern recognition (psychology)",
-        "Aerial image",
-        "Image registration",
-        "Bundle adjustment"
       ]
     },
     {
