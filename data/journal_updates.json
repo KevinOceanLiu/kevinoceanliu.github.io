@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T22:21:11.934158+00:00",
+  "generated_at": "2026-08-05T22:19:23.620266+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,21 +26,53 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115599",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115599",
+      "title": "Drivers of spectro-temporal variability in multi-spectral soil reflectance measured from space: A continental-scale analysis",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600369X",
+      "abstract": "",
+      "keywords": [
+        "Reflectivity",
+        "Thematic Mapper",
+        "Radiometry",
+        "Soil water",
+        "Vegetation (pathology)"
+      ]
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.07.024",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.024",
       "title": "A loop-outlier-aware Riemannian pose-graph optimization framework for robust visual localization",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-08-04",
+      "published_date_display": "2026-08-04",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003813",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Solver",
+        "Residual",
+        "Graph",
+        "Benchmarking",
+        "Source code",
+        "Consistency (knowledge bases)",
+        "Code (set theory)",
+        "Visualization"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115593",
@@ -56,7 +88,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003639",
-      "abstract": "",
+      "abstract": "Hyperspectral surface reflectance (SR) is a critical input for retrieving atmospheric composition (e.g., aerosols and trace gases) and supports a wide range of land applications. We present a Multi-Angle Implementation of Atmospheric Correction (MAIAC)-based simultaneous retrieval framework for aerosol optical depth (AOD) and hyperspectral SR over land from the TROPOspheric Monitoring Instrument (TROPOMI) aboard Sentinel-5 Precursor. The algorithm extends MAIAC’s fixed-grid, time-series approach to accommodate TROPOMI’s single daily overpass and coarser spatial resolution (∼7 km), producing atmospherically corrected hyperspectral SR at 5-nm resolution within ultraviolet–visible–near infrared (UV–VIS–NIR) atmospheric window regions (340–495 nm and 675–775 nm) together with standard MAIAC aerosol products. AOD retrievals were evaluated over the United States for 30 April 2018–30 April 2019 using AErosol RObotic NETwork (AERONET) Version 3 observations collocated within a 25 km radius and ± 30 min of the satellite overpass. TROPOMI AOD shows good agreement with AERONET at most sites (with correlation coefficients typically exceeding 0.7), with larger discrepancies observed over optically bright and heterogeneous surfaces in the western United States. Hyperspectral SR was further assessed across representative vegetated sites through comparison with climatology-based Lambertian-equivalent reflectivity (LER) and directionally dependent Lambertian-equivalent reflectivity (DLER) products. MAIAC SR exhibits smoother spectral behavior from the blue to the near-infrared and captures expected seasonal dynamics, including green-up, peak growth, and senescence, with pronounced near-infrared variability. Residual features near strong absorption bands (e.g., O₂ A-band and weak water-vapor structures) indicate sensitivity to ancillary water-vapor information, consistent with the absence of a 940 nm channel in TROPOMI. Overall, the proposed framework demonstrates the feasibility of MAIAC-style pixel-level hyperspectral atmospheric correction for TROPOMI and provides a pathway toward temporally consistent SR products supporting atmospheric and land-surface applications.",
       "keywords": [
         "Atmospheric correction",
         "Hyperspectral imaging",
@@ -11624,32 +11656,6 @@
         "Polycarbonate",
         "Reflector (photography)",
         "Interferometry"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115373",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115373",
-      "title": "Remote sensing-based estimation of global litterfall dynamics in forest ecosystems and its potential impact on soil respiration",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-20",
-      "published_date_display": "2026-03-20",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001434",
-      "abstract": "",
-      "keywords": [
-        "Ecosystem",
-        "Plant litter",
-        "Soil respiration",
-        "Forest ecology",
-        "Estimation",
-        "Terrestrial ecosystem",
-        "Hydrology (agriculture)",
-        "Primary production"
       ]
     },
     {
