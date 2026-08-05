@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T22:44:55.304101+00:00",
+  "generated_at": "2026-08-05T22:42:22.175757+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02037-7",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02037-7",
+      "title": "Monitoring Europe’s forests in a changing climate",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        8,
+        5
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02037-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02062-6",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02062-6",
+      "title": "Arctic cloud condensation nuclei enhanced by iodine, sulfur and organic precursors",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        8,
+        5
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02062-6",
+      "abstract": "Abstract New particle formation is an important source of Arctic atmospheric particles and cloud condensation nuclei, yet their precursor sources and molecular-level mechanisms remain poorly understood. Here we report comprehensive ship-based observations from 19 May to 26 June 2022 from southeastern to western Greenland and into the Davis Strait’s marginal ice zone to investigate sources and processes controlling atmospheric particles and cloud condensation nuclei. Our observations provide field evidence of frequent nucleation events driven by the multicomponent iodine oxoacid and sulfuric acid mechanism recently identified in laboratory studies. Newly formed particles grew rapidly beyond 20 nm on 8 out of 13 nucleation days, mainly driven by oxygenated organic molecules from aldehyde and monoterpene oxidation. We also report a previously unobserved class of iodine-containing oxygenated organic molecules that contributed to particle growth and enhanced cloud condensation nuclei formation. We show that marginal sea ice zone produces precursors that drive rapid new particle formation and enhance cloud condensation nuclei concentrations by up to 50-fold. Our findings demonstrate that Arctic iodine, sulfur and organic precursors can enhance cloud condensation nuclei abundance through new particle formation, highlighting a potential but unquantified pathway for influencing cloud cover, radiative balance and the hydrological cycle.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02032-y",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02032-y",
+      "title": "Accelerating biomass loss from forest disturbances across Europe",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        8,
+        5
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02032-y",
+      "abstract": "Abstract Forest disturbances are rising globally due to climate change and land-use pressures, weakening the terrestrial carbon sink. However, declines in aboveground biomass from tree cover loss remain poorly quantified, limiting our understanding of the role of disturbances in global carbon dynamics. Here we present a spatially explicit estimate of aboveground biomass losses from natural disturbances and harvest across Europe’s 216 million hectares of forests, using satellite remote sensing. From 1985 to 2023, gross aboveground biomass losses totalled 6.5 ± 0.8 Pg. Of these, 18% were caused by high-severity natural disturbances, whereas stand-replacing harvests accounted for 82%. From 2018 onward, aboveground biomass losses increased by 46% reaching annual values unprecedented in the preceding four decades. This acceleration coincided with high natural disturbance activity in biomass-rich temperate forests. After 2018, the sensitivity of aboveground biomass loss to disturbance area increased substantially, suggesting that even small increases in natural disturbances can result in large losses. As climate-driven natural disturbances intensify, we thus expect sustained aboveground biomass losses across Europe, despite policies to enhance the forest carbon sink until 2030.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01917-5",
       "doi_url": "https://doi.org/10.1038/s41893-026-01917-5",
       "title": "Subnational mechanisms undermine transnational anti-deforestation policies",
@@ -41,7 +95,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01917-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Deforestation (computer science)",
+        "European union",
+        "Zoning",
+        "Agriculture",
+        "Common Agricultural Policy",
+        "Incentive"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02680-3",
@@ -59,7 +120,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02680-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Social media",
+        "Climate change",
+        "Reflexivity",
+        "Context (archaeology)",
+        "Outreach",
+        "Corporate governance",
+        "Ideology",
+        "Publics"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02711-z",
@@ -77,7 +147,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02711-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Perspective (graphical)",
+        "Action (physics)",
+        "Context (archaeology)",
+        "Relevance (law)",
+        "Social influence",
+        "Climate change",
+        "Social environment"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02729-3",
@@ -95,7 +173,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02729-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Risk communication",
+        "Environmental communication",
+        "Political economy of climate change",
+        "Behaviour change",
+        "Inclusion (mineral)"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02714-w",
@@ -113,7 +198,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02714-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Risk communication",
+        "Climate change",
+        "Disaster mitigation",
+        "Disaster response",
+        "Climate policy",
+        "Disaster planning",
+        "Mental health"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01900-0",
