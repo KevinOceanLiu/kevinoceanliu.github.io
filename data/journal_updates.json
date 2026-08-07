@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:19:23.620266+00:00",
+  "generated_at": "2026-08-07T01:02:06.777100+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,92 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115603",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115603",
+      "title": "Where sky meets sea: Integrated aerosol and ocean color retrieval from PACE SPEXone multi-angle polarimetry",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003731",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115601",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115601",
+      "title": "A scheme to quantify the adjacency effect of shortwave radiation from highly reflective surfaces",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003718",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.030",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.030",
+      "title": "TALineNet: A benchmark and network for temporally-aware continuous line segment detection in event streams",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003874",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.010",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.010",
+      "title": "ADAPT-Tracker: Adaptive dynamic perception and trajectory-consistent network for aerial multi-object tracking",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003576",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2714043",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2714043",
+      "title": "Heterogeneity-aware deep learning for spatiotemporal data: a methodological review",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2714043",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.rse.2026.115599",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115599",
       "title": "Drivers of spectro-temporal variability in multi-spectral soil reflectance measured from space: A continental-scale analysis",
@@ -39,7 +125,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600369X",
-      "abstract": "",
+      "abstract": "In Europe, bare soil is typically exposed only during short time windows and optical sensing by satellite constellations, such as Sentinel-2 and Landsat, therefore commonly relies on aggregates of soil reflectance spectra over extended periods of time. Depending on the length of the time series, substantial spectral variability can be observed in the soil spectra. To select appropriate aggregation strategies, it is critical to understand the mechanisms that drive temporal variability in soil reflectance. In this study, we quantify the variance induced into soil reflectance time series by two properties that modify the spectral response: surface soil moisture and the illumination geometry. We analyze seven-year time series of surface reflectance (Level-2A corrected) satellite imagery of Landsat 8 and Sentinel-2 at 27,819 LUCAS sites distributed across the European continent. The sites are correlated with independent datasets from Copernicus and ECMWF. A rigorous statistical framework is applied to estimate the global sensitivity for both properties, using pooled standardized effect sizes ( β ¯ ∗ ) and its isolated contribution to spectral variance, using pooled partial eta squared ( η ¯ P 2 ) for each spectral band. Furthermore, we explicitly separate illumination effects attributable to atmospheric influences (e.g., haze, dust, light-scattering) from those arising from ground-level surface–light interactions (e.g., shadows cast on rough surfaces at shallow elevation angles). Results show that the dominant driver of temporal variability in measured soil reflectance is the interaction between the rough bare soil surface and changes in solar incidence angle ( η ¯ P 2 ≈ 0.2 ) throughout the entire spectral domain. In contrast, surface soil moisture plays a comparatively minor role at all bands ( η P 2 ¯ ≈ 0.06 ). The large volume of data further enables a stratified analysis by soil texture, revealing that soils with different textural properties respond with varying strength to both drivers. For example, the reflectance of clay-rich soils is influenced more strongly by changes in the illumination geometry. Further, soils with a high content of sand tend to exhibit a weaker response to soil moisture than finer-textured soils with a greater water-holding capacity. The presented variance decomposition enables both, the implementation of targeted corrective measures, such as soil-specific BRDF corrections, and the exploitation of variability patterns caused by different soil aggregates themselves as proxies for soil property modeling.",
       "keywords": [
         "Reflectivity",
         "Thematic Mapper",
@@ -11459,33 +11545,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.020",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.020",
-      "title": "GaussianCraft: Fine-grained 3D Gaussians for efficient large-scene surface reconstruction",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001346",
-      "abstract": "",
-      "keywords": [
-        "Initialization",
-        "Gaussian",
-        "Focus (optics)",
-        "Photogrammetry",
-        "Geometric primitive",
-        "Gaussian surface",
-        "Surface reconstruction",
-        "Surface (topology)",
-        "Point (geometry)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.036",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.036",
       "title": "AGI2P: Benchmarking Aerial–Ground Image-to-Point cloud localization with a large-scale dataset",
@@ -12190,33 +12249,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.02.040",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.02.040",
-      "title": "How does missing-modality affect cross-domain remote sensing image classification: A synergistic inter-modal proxy fine-tuning solution",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-10",
-      "published_date_display": "2026-03-10",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626000997",
-      "abstract": "",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Robustness (evolution)",
-        "Synthetic aperture radar",
-        "Adaptability",
-        "Sensor fusion",
-        "Land cover",
-        "Overfitting",
-        "Image fusion",
-        "Context (archaeology)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2625410",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2625410",
       "title": "Bringing a “Schooling Course” to the Geographies of Education: A Rhythmanalysis of Residential (Im)Mobility during Children’s Schooling in China",
@@ -12267,33 +12299,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115352",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115352",
-      "title": "RURBAN-Map: A knowledge-guided framework for nationwide fine-scale urban-rural land use mapping in China",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-07",
-      "published_date_display": "2026-03-07",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001227",
-      "abstract": "",
-      "keywords": [
-        "Boundary (topology)",
-        "Land cover",
-        "Zoning",
-        "Block (permutation group theory)",
-        "Land use",
-        "Urban agglomeration",
-        "Terrain",
-        "Feature (linguistics)",
-        "China"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115339",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115339",
       "title": "Photosynthesis, heat, and structure: an evident hierarchy of environmental conditions driving wetland carbon assimilation",
@@ -12314,32 +12319,6 @@
         "Hierarchy",
         "Data assimilation",
         "Carbon fibers"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115343",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115343",
-      "title": "Quantifying evapotranspiration and shading cooling of urban vegetation across climates under extreme heat using an integrated SCOPE-SEB model and surface temperature analysis",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-05",
-      "published_date_display": "2026-03-05",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001136",
-      "abstract": "Urban vegetation mitigates heat through evapotranspiration (ET) and shading, and quantitatively characterizing these two pathways is essential for comparable cross-city assessment and for identifying climate-specific limiting factors. However, a standardized and physically based framework to quantify and compare these cooling effects across different cities and climatic contexts is still lacking. Existing metrics, such as evapotranspiration-induced cooling of vegetation (ECoV) and shading-induced cooling of vegetation (SCoV), are typically applied within individual cities. To address this, we developed a transferable framework that integrates a physically based Soil-Canopy-Observation of Photochemistry and Energy (SCOPE) – Surface Energy Balance (SEB) model for evapotranspiration-related cooling with surface temperature analysis for shading-related cooling. Evapotranspiration-related cooling ( ΔT LE ) is quantified through the SCOPE–SEB framework, whereas shading-related cooling ( ΔT Shade ) is independently derived from surface temperature contrasts, enabling consistent cross-city comparison under extreme heat conditions. We evaluated the model at eddy-covariance flux towers in four mid-latitude cities representing hot-desert (Phoenix, Las Vegas) and Mediterranean (Rome, Florence) climates. The model demonstrated strong performance: turbulent heat fluxes (sensible, H, and latent, LE ) were reconstructed with R 2 = 0.56–0.78, while surface temperature ( T s ) was simulated with R 2 = 0.47–0.95. Modeled aerodynamic resistance showed lower agreement with tower-derived estimates and decreased with increasing wind speed. Crucially, the model achieved robust energy balance closure, with residuals of only ∼3–7%. Specifically, we revealed that: (1) The magnitude of daytime ΔT LE was greater in Mediterranean cities (−1.98 °C) than in hot-desert cities (−1.34 °C), whereas daytime ΔT Shade was significantly stronger in Mediterranean cities (−2.60 °C vs. -0.90 °C). Spatially, deserts exhibited extensive daytime warming patches in ΔT Shade and lower heterogeneity in ΔT LE , contrasting with the widespread, strong cooling and higher intra-urban variability of Mediterranean cities. (2) The primary controls were climate-dependent: cooling in water-limited deserts was dominated by soil moisture and leaf water/chlorophyll content, whereas in Mediterranean cities, canopy structure (height, LAI) governed both ΔT LE and ΔT Shade , with meteorology playing a secondary modulating role. This mechanism-explicit, physically consistent framework provides a transformative tool for cross-city comparison of vegetation-based heat mitigation, enhancing our understanding of climate-dependent ecosystem services.",
-      "keywords": [
-        "Evapotranspiration",
-        "Shading",
-        "Vegetation (pathology)",
-        "Urban heat island",
-        "Air temperature",
-        "Surface (topology)",
-        "Microclimate",
-        "Climate change"
       ]
     },
     {
