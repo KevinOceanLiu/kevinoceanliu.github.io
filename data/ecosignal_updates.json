@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:37:15.452887+00:00",
+  "generated_at": "2026-08-07T01:37:43.336924+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1086/742255",
+      "doi_url": "https://doi.org/10.1086/742255",
+      "title": "Sex Allocation in Nonstandard Haplodiploids",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/742255",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03166-3",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03166-3",
+      "title": "Author Correction: Evolutionary history drives organ-specific variability in plant non-structural carbohydrates",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03166-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70517",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70517",
+      "title": "Proxies for success: Targeted hazing reduces wildlife use of runway‐adjacent areas and management effort at an airport",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70517",
+      "abstract": "Abstract Wildlife–aircraft collisions represent a major risk to human safety, wildlife, and aircraft. Active animal hazard management occurs at many airports, but the effectiveness of interventions is rarely analysed. We quantified temporal trends in management effort and effectiveness over 3 years at an airport in Point Cook, Victoria, Australia. For all hazing events (the non‐lethal application of escalating sensory stimuli to displace wildlife from runway‐adjacent critical areas to reduce the likelihood of wildlife–aircraft collisions), we recorded the hazing escalation level applied and wildlife responses to hazing, including non‐responses. We conducted monthly surveys across the airport to quantify numbers, use of critical areas, species richness and diversity. Desirable outcomes were reduced numbers, species richness or diversity, displacement away from areas closest to aircraft, and increased responsiveness of wildlife to hazing, thereby reducing management effort. We used Bayesian mixed‐effects models accounting for seasonal variation and day‐level clustering in event‐level hazing models to examine temporal trends in numbers, effort‐standardised counts, hazing and monthly survey metrics for all species and focal species. Individuals per hazing event, total numbers per monthly survey and diversity remained stable, but hazing events and monthly surveys indicated decreasing use of runway‐adjacent critical areas. The proportions of individuals and hazing events occurring in critical areas decreased, the escalation required to displace wildlife decreased and both pre‐hazing distances and post‐hazing flight distances shortened over time. These changes imply that management displaced wildlife from the critical areas without reducing their overall use of the airport, suggesting local‐scale rather than broad‐scale displacement. Management efficiency also increased, as lower‐intensity hazing was increasingly sufficient to displace wildlife. Synthesis and applications . Most wildlife–aircraft collisions occur near airports during take‐off and landing, so reducing wildlife use of runway‐adjacent critical areas provides a practical proxy for exposure to wildlife–aircraft collisions. Routine indicators from hazard management records—the proportion of individuals in critical areas, hazing escalation level and flight distances—captured temporal change in wildlife use of critical areas and management effort, showing that operational datasets can yield management‐relevant insights. Airports could apply similar indicators to assess whether interventions shift wildlife away from critical areas and prioritise low‐intensity, coexistence‐focused management over broad suppression.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70524",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70524",
+      "title": "Artificial exposure to herbivore‐induced volatile organic compounds reduces herbivory and modulates gene expression in potato plants",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70524",
+      "abstract": "Abstract Climate change accelerates pest development, posing a serious threat to agricultural yields worldwide. While the application of chemical pesticides can control pests, their overuse poses risks to human health and the environment and contributes to the emergence of pesticide‐resistant populations. Within this context, the use of volatile organic compounds (VOCs) emerges as a promising tool for sustainable crop pest management. Informed by and building on prior work identifying key candidate herbivore‐induced volatiles, we investigated whether exposure to artificial VOC blends mimicking those induced by natural herbivore damage enhances potato ( Solanum tuberosum ) resistance to herbivory. Plants were paired in cages and each cage was exposed to either VOC blends similar to those produced by undamaged (control) plants or VOC blends emulating those from plants damaged by Spodoptera exigua (induced). After 3 days of exposure, one plant per cage was removed and leaf tissue collected for gene expression analyses, while the remaining plants were subjected to an herbivory bioassay to assess resistance to S. exigua feeding. After assessing resistance, we again collected leaves for gene expression analyses in induced receivers. Plants exposed to induced VOC blends exhibited a significant reduction in herbivory compared to those exposed to control blends. Molecular analyses indicated that 4CL defensive gene expression increased to a greater extent in response to damage for plants previously exposed to the induced VOCs blend versus those exposed to control VOC blends, consistent with volatile‐mediated priming of induced defences. Synthesis and applications . These findings provide strong mechanistic evidence for VOCs mediating pest resistance and suggest that exposure to herbivore‐induced, plant‐derived VOCs can enhance pest resistance in potato crops. These results might offer novel information for developing ecologically sustainable plant volatile‐based strategies for boosting protection against pests in potato plantations.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03157-4",
       "doi_url": "https://doi.org/10.1038/s41559-026-03157-4",
       "title": "Renewed investment is needed as the New World screwworm returns to the USA",
@@ -51,7 +123,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03157-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Animal health",
+        "Wildlife",
+        "Investment (military)",
+        "Government (linguistics)",
+        "Disease control",
+        "Human health"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03117-y",
@@ -68,8 +147,16 @@
         5
       ],
       "link": "https://www.nature.com/articles/s41559-026-03117-y",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Global changes are leading to widespread species redistribution. Comprehensive assessments of range shift dynamics and their drivers are difficult, partly due to the variation in range shift detection over space and taxa. Here we compile documented range shift records for 1,758 butterfly species from 105 countries and territories, representing ~10% of the known diversity of these insects. Most species (80%) experienced range expansions, and most range shifts (79%) were associated with climate change and extreme weather events. A substantial proportion of species in our dataset contracted their ranges (27%) or shifted along elevational gradients (22%). We report widespread horizontal range expansions and contractions across tropical countries, with less evidence for elevational range shifts. We show that a clearer picture of range shift dynamics emerged only through the combination of different types of data, with expert assessments and non-English studies alleviating potential biases. Our findings of climate-driven range shifts call for concerted efforts to improve inclusive data monitoring and conservation efforts, especially for tropical countries, where human-induced land-use changes exert additional critical pressure. Insects are increasingly pressured by climate change. Here the authors compile global evidence of range shifts in butterflies and call for more co-ordinated efforts in documenting such trends across countries.",
+      "keywords": [
+        "Butterfly",
+        "Range (aeronautics)",
+        "Climate change",
+        "Global change",
+        "Global biodiversity",
+        "Home range",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03156-5",
@@ -90,6 +177,51 @@
       "keywords": []
     },
     {
+      "doi": "10.1111/1365-2745.70408",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70408",
+      "title": "Fine‐root responses to warming and elevated <scp> CO <sub>2</sub> </scp> vary among plant functional types",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        8,
+        5
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70408",
+      "abstract": "Abstract The viability of peatlands as terrestrial carbon sinks is unknown as peatland carbon losses could be offset, or exacerbated, by increased plant growth. The response of fine‐roots to changing conditions in these ecosystems will be critical to understanding plant access to water, acquisition of nutrients, and ecosystem structure and function. We examined the plant functional type‐specific responses of fine‐root production to warming and elevated CO 2 treatments, and to warming treatment‐induced deepening of water‐tables in a forested boreal bog. We hypothesized that shrubs would show the most dynamic responses of fine‐root production. We used minirhizotron cameras to estimate fine‐root production, depth and peak annual standing crop from images of individually tracked roots across 7 years (2015–2021) in the SPRUCE (Spruce and Peatland Responses Under Changing Environments) experiment. Fine‐root production increased with warming for shrubs 10.3, trees 2.2 and herbs 4.6%°C −1 . When water‐tables dropped to their lows of 78 cm deep, shrubs deepened their fine‐root production from 7 to 29 cm deep, and trees from 9 to 17 cm, while herbs produced fine‐roots around 31 cm deep independent of shifts in water‐tables. Fine‐root standing crop increased with warming most strongly for shrubs, even more so under elevated CO 2 . Synthesis. We found that the fine‐roots of shrubs responded the most strongly to warming, elevated CO 2 and lowered water‐tables. The greater responsiveness of shrub fine‐root production may partially explain increasing ‘shrubification’ at this site and in other peatlands with long‐term drainage.",
+      "keywords": [
+        "Peat",
+        "Shrub",
+        "Boreal",
+        "Standing crop",
+        "Ecosystem",
+        "Global warming",
+        "Carbon sink",
+        "Climate change"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2745.70412",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70412",
+      "title": "Direct and indirect effects of elevated <scp> CO <sub>2</sub> </scp> , warming and drought on plant–consumer interactions of <i>Plantago lanceolata</i>",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        8,
+        5
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70412",
+      "abstract": "Abstract Studying how global change factors influence plant‐consumer interactions (i.e. interactions with herbivores and pathogens) enables us to predict the future responses of plant communities to global change. We aimed to determine the direct and indirect effects of global change on plant‐consumer interactions of Plantago lanceolata (ribwort plantain). In experimental grassland plots exposed for 10 years to elevated CO 2 concentrations (+300 ppm), warming (+3°C), drought and their combinations, we measured leaf traits of P. lanceolata , including leaf dry matter content, specific leaf area, carbon‐to‐nitrogen ratio, leaf toughness, phenol concentration and the concentrations of other secondary metabolites. We quantified field consumption damage as the % leaf area affected, distinguishing between types of herbivore and pathogen damage. A laboratory pairwise choice experiment examined the feeding preferences of Locusta migratoria (migratory locust) for leaves sampled from the different global change treatments. Elevated CO 2 , warming and drought affected plant‐consumer interactions of P. lanceolata both directly and indirectly, the latter being mediated by shifts in plant traits. For instance, warming directly favoured powdery mildew infection and sucking damage, and indirectly increased sucking damage by reducing the concentration of a flavonoid glycoside. Plant traits were not influenced by interactions between global change factors, but consumption damage was—warming increased sucking damage under ambient precipitation but not under drought, and elevated CO 2 decreased chewing damage under ambient temperature but not under warming. Synthesis : Warming, elevated CO 2 , drought and their interactions had direct and indirect (plant‐trait‐mediated) effects on field plant consumption and feeding preferences of the locust L. migratoria . The effects, however, largely differed between different consumption types, despite all being studied on the same species in the same system, highlighting the complexity of these interactions. Future studies should thus avoid excessive generalizations and attempt to study a broad range of plant traits and consumers under realistic, multifactorial global change conditions.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2664.70518",
       "doi_url": "https://doi.org/10.1111/1365-2664.70518",
       "title": "Habitat connectivity shapes biodiversity outcomes in Indonesia's community‐managed forests",
@@ -105,6 +237,33 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70518",
       "abstract": "Abstract Social forestry is increasingly promoted as a means to achieve equitable resource governance while contributing to biodiversity conservation. Yet, empirical evidence on how effectively community‐managed forests support biodiversity remains limited, particularly in tropical regions. We assessed mammal communities in two contrasting social forestry contexts in Sumatra, Indonesia: (1) a forest‐dominated landscape where management emphasised forest retention, and (2) an agroforestry‐mosaic characterised by mixed production systems and forest remnants. Using camera‐trap data and hierarchical multi‐species occupancy models, we compared species richness, community occupancy and the occurrence of forest specialists and globally threatened species between social forestry areas and adjacent watershed protection forests. We also assessed the influence of five environmental (structural connectivity, biomass, forest cover and terrain ruggedness) and anthropogenic (quantified using remoteness) factors in shaping species' occurrence patterns across these multiple‐use landscapes. Overall species richness and community occupancy in community‐managed forests were comparable to protection forests in both landscapes. However, community composition diverged depending on the landscape context. In the forest‐dominated landscape, occupancy of forest specialists and threatened taxa was maintained, while generalist species showed higher occupancy in social forestry areas. Conversely, in the agroforestry‐mosaic, forest specialists and threatened taxa had reduced occupancy within social forestry areas, largely driven by lower forest quality and diminished structural connectivity in some areas. Forest structural connectivity emerged as the strongest environmental driver of mammal occurrence. High connectivity buffered biodiversity losses in the forest‐dominated community forests, whereas reduced connectivity in the agroforestry‐mosaic landscape amplified declines among species with greater forest dependencies. Remoteness further influenced occurrence patterns, particularly favouring forest specialists in the forest‐dominated landscape. Synthesis and applications . Our findings suggest that community‐managed forests established within predominantly forested areas can make a meaningful contribution to area‐based conservation, including recognition as Other Effective Area‐based Conservation Measures (OECMs). In community‐managed forests established in more modified production landscapes, targeted restoration and actions that enhance habitat connectivity are likely required to sustain populations of priority species. Ensuring that social forestry policies explicitly incorporate biodiversity incentives and connectivity‐led management can help align community development objectives with global conservation goals. Read the free Plain Language Summary for this article on the journal's blog .",
+      "keywords": [
+        "Threatened species",
+        "Occupancy",
+        "Biodiversity",
+        "Species richness",
+        "Generalist and specialist species",
+        "Habitat",
+        "Forest management",
+        "Resource (disambiguation)"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70515",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70515",
+      "title": "Field‐based evaluation of conservation surrogates at local scales: Moving beyond a single umbrella species on the Tibetan Plateau",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        8,
+        5
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70515",
+      "abstract": "Abstract Prioritising conservation efforts towards single surrogate species (such as umbrella species) to conserve other sympatric species is a common practice, as it offers a pragmatic approach when distribution data are sparse and funding is constrained. However, the effectiveness of a single umbrella species is context‐dependent, and the utility of umbrella species selected for regional conservation purposes must be evaluated with systematic field data to refine choices at local scales and guide adaptive management. We evaluated the effectiveness of snow leopards Panthera uncia , a commonly used umbrella species in Central Asia's mountain ecosystems, in representing co‐occurring species' conservation needs. Using a multi‐site camera trap dataset spanning over 7000 km 2 , we adopted a multi‐species occupancy modelling (MSOM) framework to quantify similarity among species' habitat preferences at fine spatial scales, while accounting for imperfect detection. We categorised the mammalian community into distinct habitat‐based groups and compared snow leopards with other sympatric species as potential umbrella species based on their representativeness of other species' habitat needs and broader biodiversity patterns. Our results indicate that snow leopards effectively serve as an umbrella for mountain‐endemic species but poorly represent the broader mammal community in total species richness and threatened species richness. Cluster analysis of MSOM results revealed three major habitat groups: (1) alpine meadow specialists, (2) generalists and (3) alpine shrub‐meadow/open woodland specialists. Top umbrella candidates predominantly arise from the generalist and alpine shrub‐meadow/open woodland specialist groups, whereas snow leopards ranked highly for endemic species richness within their own alpine meadow specialist group. Synthesis and applications . These findings underscore the scale‐dependent performance of conservation surrogates showing that broad geographical range overlaps (e.g. based on global distribution maps) can diverge from fine‐scale habitat requirements evaluated with field data. This suggests that conservation actions based on a single charismatic species may miss threats and habitat needs at local scales. We advocate identifying multiple umbrella species to better represent the habitat requirements of a broader species assemblage. Given the growing use of camera trap surveys, our framework provides a path from single‐species to community‐level conservation, thereby guiding targeted monitoring where resources are limited.",
       "keywords": []
     },
     {
@@ -123,7 +282,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70526",
       "abstract": "Abstract Mangrove ecosystems are globally recognized for their disproportionate role in carbon sequestration (‘blue carbon’). However, blue carbon stock in West Africa and the regulatory mechanisms controlling its distribution remain largely unexplored. This study provides the first comprehensive national‐scale assessment of mangrove carbon stocks in Ghana, where mangroves cover approximately 72.4 km 2 across four coastal regions. We quantified above‐ground vegetation carbon, below‐ground root carbon and sediment organic carbon (SOC) at eight representative sites across the Volta, Central and Western Regions, and identified the dominant environmental drivers of SOC distribution. Ghana's mangroves store an estimated 1.29 million Mg of organic carbon, with a mean ecosystem carbon density of 118 Mg C ha −1 . SOC constitutes approximately 78% of this stock (mean ~93 Mg C ha −1 ), far outweighing carbon in living biomass. Both species and region significantly affect SOC, with vegetation type explaining a greater proportion of variance than geographic site. Random forest analysis revealed that SOC was primarily influenced by salinity, pH and climate conditions. Above‐ground and root biomass together account for the remaining approximately 22% (total biomass carbon (TBC) approximately 281,000 Mg C; mean ~26 Mg C ha −1 ). Synthesis and applications . Ghana's mangroves store lower carbon per hectare than global mangrove averages, reflecting regional differences in mangrove height, sediment depth and disturbance history. Nevertheless, their national carbon stock is substantial and highly concentrated in soils. These findings provide a field‐based baseline for incorporating mangroves into Ghana's Nationally Determined Contributions under the Paris Agreement, national greenhouse gas inventories, blue carbon accounting and coastal conservation planning.",
-      "keywords": []
+      "keywords": [
+        "Mangrove",
+        "Blue carbon",
+        "Carbon sequestration",
+        "Ecosystem",
+        "Carbon stock",
+        "Hectare",
+        "Biomass (ecology)",
+        "Greenhouse gas",
+        "Stock (firearms)"
+      ]
     },
     {
       "doi": "10.1111/gcb.71022",
@@ -141,7 +310,45 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71022",
       "abstract": "ABSTRACT Climate change is disproportionately warming the Arctic, leading to changes in weather patterns that affect breeding phenology for many Arctic species. Despite extensive research on non‐predatory birds, few studies have examined the impacts of climate change on higher trophic levels, especially those comparing breeding phenology and productivity between migratory and resident species. Our study used long‐term monitoring data from 11 sites monitoring migratory peregrine falcons ( Falco peregrinus ) and 9 sites monitoring resident gyrfalcons ( Falco rusticolus ) across the circumpolar Arctic. We used remotely sensed environmental data to explore how environmental conditions affect breeding phenology and productivity for both species. We analyzed 5546 peregrine and 2241 gyrfalcon hatch records and observed earlier hatch dates at 5 of 9 gyrfalcon sites and 4 of 11 peregrine sites. In the Low Arctic, peregrines advanced hatch dates by 0.41 days/decade and gyrfalcons by 1.62 days/decade, whereas in the Sub Arctic, we observed a trend toward later hatch dates for gyrfalcons. Greater spring temperatures and vegetation greenness consistently resulted in earlier hatch dates for both species. Earlier snowmelt was linked to earlier hatch dates for peregrines and higher productivity for both species. Our data suggest that long‐distance migrating peregrines advance their phenology less than resident gyrfalcons, aligning with other studies showing that long‐distance migrants possess more fixed annual schedules and are less likely to align with variations in spring green‐up compared to residents. Contrary to our hypothesis, greater summer temperatures reduced productivity in both species. Given our findings, we recommend more detailed research on how summer temperatures affect productivity, as nestlings could suffer higher mortality from heat prostration than previously anticipated. Our findings indicate that while climate change affects breeding timing and productivity, the impact varies, suggesting increased weather variability could lead to more unpredictable responses in falcon breeding ecology in the Arctic.",
-      "keywords": []
+      "keywords": [
+        "Phenology",
+        "Productivity",
+        "Climate change",
+        "Snowmelt",
+        "Arctic",
+        "Circumpolar star",
+        "Trophic level",
+        "Global warming",
+        "Vegetation (pathology)"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.70998",
+      "doi_url": "https://doi.org/10.1111/gcb.70998",
+      "title": "Predicting Coral Cover Trends From Local to Broad Spatial Scales",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        8,
+        5
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70998",
+      "abstract": "ABSTRACT Modern biodiversity monitoring programs are designed to provide rapid assessments of trends in the abundance and distribution of keystone taxa and timely scientific insights for decision‐making. An important consideration when delivering this information to stakeholders is the quantification of uncertainty, which determines the robustness of detecting changes across habitats and regions. In coral reef science, sparse and fragmented monitoring datasets hinder assessments of reef habitat changes. We introduce a comprehensive prediction framework for estimating trends in hard coral cover and associated uncertainty at a local scale (5 km 2 predictive cells). The model accounts for spatial and temporal dependencies in coral cover through a latent process formulation, where correlation is structured explicitly in space and time, and includes environmental variables describing exposure to heat stress and tropical cyclones. We use a weighted spatial aggregation approach to predict trends at subregional and regional scales, with subregional and regional extents varying according to geographic context. The same approach is applied to estimate trends at broader spatial scales by combining outputs from multiple models through the ReefCloud platform, ensuring that predictions reflect the spatial distribution of reef‐building corals and that uncertainty is appropriately propagated across spatial scales. The model also quantifies effects of heat stress and tropical cyclones and characterizes their associations with coral cover change across gradients of disturbance intensity. We demonstrate the value of the framework using two use cases: the central Great Barrier Reef in Australia and American Samoa. Together, these applications highlight the potential of our integrated approach as a widely applicable method for predicting coral cover trends at various spatial scales. We also discuss the substantial uncertainty associated with the framework due to the limitations of available datasets and suggest approaches to improve the robustness of trend detection for coral reefs and their attribution to environmental disturbances.",
+      "keywords": [
+        "Coral reef",
+        "Spatial ecology",
+        "Coral",
+        "Robustness (evolution)",
+        "Spatial distribution",
+        "Habitat",
+        "Temporal scales",
+        "Reef",
+        "Scale (ratio)"
+      ]
     },
     {
       "doi": "10.1111/gcb.70962",
@@ -159,7 +366,42 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70962",
       "abstract": "ABSTRACT The recent decline in forest carbon (C) sink across the Nordic countries has been partly attributed to increased water limitations, that is, droughts, on forest productivity. However, empirical evidence for this remains limited. This study combines ERA5‐Land reanalysis datasets with long‐term C and water flux observations from Swedish and Finnish coniferous forest eddy covariance (EC) towers to assess the conditions under which atmospheric (high vapor pressure deficit, VPD) and soil droughts (low soil moisture) have affected forest carbon uptake. Using the reanalysis datasets, we then evaluate whether such conditions have become more common at the studied sites, and across northern Europe in general. EC data suggests that C and water exchange has responded only to extremely low soil moisture, whereas the response to atmospheric droughts has been more gradual and the strongest response occurred during compound droughts. At two sites, isolated drought years led to over 10% reduction in annual gross primary productivity and 20%–40% decline in annual net ecosystem productivity. However, frequent and widespread impacts on annual C fluxes were not observed. The occurrence of atmospheric droughts has increased across northern Europe during the last decade, while soil and compound droughts showed more localized changes. Beyond methodological advances in analyzing drought signals from EC data, our results shed light on how droughts may have influenced ecosystem–atmosphere carbon and water fluxes across northern European forests by integrating site‐level flux responses with reanalysis datasets. The results suggest that increasing VPD may be one underlying factor for the observed decline in forest growth in the Nordic countries, while soil moisture limitations have been likely rarer and more local.",
-      "keywords": []
+      "keywords": [
+        "Eddy covariance",
+        "Carbon sink",
+        "Carbon flux",
+        "Ecosystem",
+        "Carbon cycle",
+        "Sink (geography)",
+        "Forest ecology",
+        "Vapour Pressure Deficit",
+        "Canopy"
+      ]
+    },
+    {
+      "doi": "10.1111/ele.70445",
+      "doi_url": "https://doi.org/10.1111/ele.70445",
+      "title": "<scp>RETRACTION</scp> : Ocean Acidification Disrupts the Innate Ability of Fish to Detect Predator Olfactory Cues",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        8,
+        5
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70445",
+      "abstract": "Retraction: D.L. Dixson , P.L. Munday , G.P. Jones , “,” Ecology Letters 13 no. , ( 2010 ): 68 – 75 , https://doi.org/10.1111/j.1461‐0248.2009.01400.x . The above article, published online on 21 December 2009 in Wiley Online Library ( onlinelibrary.wiley.com ), has been retracted by agreement between the Editor‐in‐Chief, Peter H. Thrall; and John Wiley & Sons Ltd. A third‐party complainant alerted the publisher to their observation of a statistically implausible variance in the data. The authors were contacted regarding the concerns raised. After evaluating the full dataset provided by the authors, an investigation by members of the journal's editorial team determined that the data provided contained substantial errors, including repeated blocks, missing data, and structural errors. The authors acknowledged the inconsistencies with the data and provided an explanation, which included carelessness during manuscript reorganization, and they also asserted that the reported data anomalies did not affect the overall published results. The authors maintain that the errors were not a result of intentional data fabrication, but rather, poor standards of data handling and quality control. However, neither the publisher nor the editor has confidence in the article, primarily because the data provided during the investigation were not consistent with the observation methods described in the article. Therefore, because the journal has no basis on which to affirm confidence in the published results, the article must be retracted. The authors have been informed of the retraction.",
+      "keywords": [
+        "Carelessness",
+        "Fish <Actinopterygii>",
+        "Predator",
+        "Variance (accounting)",
+        "Affect (linguistics)",
+        "Quality (philosophy)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70416",
@@ -11843,24 +12085,6 @@
       ]
     },
     {
-      "doi": "10.1086/742255",
-      "doi_url": "https://doi.org/10.1086/742255",
-      "title": "Sex allocation in nonstandard haplodiploids",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-05-13",
-      "published_date_display": "2026-05-13",
-      "published_parts": [
-        2026,
-        5,
-        13
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/742255",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1086/742256",
       "doi_url": "https://doi.org/10.1086/742256",
       "title": "Herbivory Weakens the Stability of a Floral Polymorphism",
@@ -20517,88 +20741,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70313",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70313",
-      "title": "High habitat‐use plasticity in European bison ( <i>Bison bonasus</i> ) across spatial scales and seasons",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        3,
-        18
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70313",
-      "abstract": "Abstract Research Highlight discussing : Retez, G., Oeser, J., Bluhm, H., Chistopolova, M., Hernandez‐Blanco, J. A., Klich, D., Olech, W., Perzanowski, K., Pkhitikov, A., Kowalczyk, R., Quétier, F., Skorupski, J., Aldea, A., Borowik, T., Catanoiu, S., Grancea, A., Heidelberg, A., Iosif, R., Kamiński, T., … Kuemmerle, T. (2025). Habitat preferences of European bison in contemporary European landscapes. Journal of Applied Ecology , https://doi.org/10.1111/1365‐2664.70233 . Reintroductions of large herbivores are increasingly promoted as nature‐based solutions for biodiversity loss, ecosystem restoration and climate resilience, yet their success depends critically on how animals interact with modern, human‐dominated landscapes. For European bison, a flagship species of megaherbivores restoration in Europe, long‐standing debates over whether the species is best suited to forests or open landscapes have fuelled contrasted management approaches, thereby slowing down conservation planning. Retez et al. (2025) move this discussion beyond by providing the first multi‐population assessment of how European bison use space across spatial scales, seasons and gradients of human influence. Rather than reinforcing a single habitat narrative, their work reframes European bison as a flexible megaherbivore whose habitat use reflects context, resources and human pressure. This perspective has far‐reaching implications: it broadens the range of landscapes considered suitable for bison restoration, highlights the need to anticipate socioecological trade‐offs such as agricultural conflict and positions European bison as a powerful model for understanding how large herbivores can function in Europe's highly modified ecosystems. By shifting the focus from ‘where bison belong’ to ‘how bison adapt’, the study provides a conceptual foundation for designing restoration strategies that are both ecologically effective and socially viable.",
-      "keywords": [
-        "Biodiversity",
-        "Habitat",
-        "Herbivore",
-        "Ecosystem",
-        "Range (aeronautics)",
-        "Temporal scales",
-        "Climate change",
-        "Habitat destruction"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70326",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70326",
-      "title": "Demographic and genetic factors affect the use of translocation for evolutionary rescue: A case study of American chestnut using simulation",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        3,
-        18
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70326",
-      "abstract": "Abstract For many plant species at risk, recovery depends on supplementing populations with adaptive genetic diversity through translocations but specific introduction strategies for maximizing success are rarely evaluated. American chestnut ( Castanea dentata ), a North American tree species whose populations have dramatically declined due to chestnut blight (caused by Cryphonectria parasitica ), depends on evolutionary rescue to reverse its current trajectory. One approach to combating its decline is to supplement populations with more resilient genotypes (hereafter, resistant), derived from isolated individuals in natural populations or selectively bred individuals. To identify the most effective restoration strategies, we evaluated the demographic and genetic conditions supporting population recovery using American chestnut as a case study. We examined two scenarios: natural recovery without translocation and the introduction of blight‐resistant genotypes. Using existing data on chestnut demography and the genetic basis of resistance, we developed an individual‐based simulation to model population dynamics over 500 years. Our simulations indicate that evolutionary rescue is feasible but only under a restrictive set of conditions. Transplants with a high mean frequency of blight‐resistance alleles, especially when spatially clustered, significantly reduced the probability of extinction over a 500‐year period. Achieving extinction probabilities below 10% was achieved through a combination of increased recruitment rates, the number of transplants and resistance, emphasizing the critical interplay between demographic and genetic parameters for recovery. Synthesis and applications . These findings underscore the importance, complexity and flexibility of strategic translocations for ensuring the recovery of plant species limited by adaptive genetic diversity.",
-      "keywords": [
-        "Genetic diversity",
-        "Population",
-        "Extinction (optical mineralogy)",
-        "Flexibility (engineering)",
-        "Chromosomal translocation",
-        "Affect (linguistics)",
-        "Effective population size",
-        "Genetic drift",
-        "Small population size"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70334",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70334",
-      "title": "Mixed grazing maintains the spatial invariability of alpine grassland biomass by fostering a more diversified community structure and spatial heterogeneity",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-17",
-      "published_date_display": "2026-03-17",
-      "published_parts": [
-        2026,
-        3,
-        17
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70334",
-      "abstract": "Abstract Grazing by large herbivores is widely recognized as an important driver of plant diversity, function and community stability (invariability) in grassland ecosystems. However, previous studies have focused primarily on the community temporal invariability of biomass under single herbivore grazing regimes. Since different herbivores have different foraging strategies, we hypothesize that mixed grazing can increase grassland heterogeneity and community spatial invariability of biomass. Using a 3‐year field experiment in an alpine grassland implementing moderate grazing (medium grazing intensity) across various grazing types (including yaks grazing, sheep grazing and mixed grazing), we quantified the impact of different grazing types on the community spatial invariability of biomass and underlying processes including spatial covariation and invariability at the species level. We found that moderate grazing increased the community spatial invariability of biomass by reducing species‐level spatial covariation. Furthermore, single grazing indirectly promoted community spatial invariability of biomass by increasing the spatial invariability of dominant species. Specifically, yaks grazing achieved this by suppressing species spatial covariation and improving species spatial invariability, while sheep grazing contributed primarily by improving species spatial invariability. On the contrary, mixed grazing improved the community spatial invariability of biomass by regulating species‐level spatial covariation and invariability, independent of the influence of the dominant species. These results suggest that mixed grazing may diminish the disproportionate role of dominant species fostering multi‐dominant species coexistence and greater spatial heterogeneity through the diverse behaviours of large herbivores. Synthesis and applications . Our study underscores the critical role of mixed grazing in improving the community spatial invariability of biomass in alpine grasslands. Our research reveals that yaks, sheep and mixed grazing under moderate intensity consistently improve spatial stability by reducing species‐level spatial covariation. These findings highlight that mixed grazing, by integrating a variety of herbivore foraging strategies, not only increases the community spatial invariability of biomass but also promotes a resilient, heterogeneous ecosystem structure. Such integrated management practices can be crucial to maintaining the long‐term functionality and stability of alpine grasslands, providing valuable insights for grassland conservation and sustainable grazing management.",
-      "keywords": [
-        "Grazing",
-        "Grassland",
-        "Herbivore",
-        "Spatial heterogeneity",
-        "Biomass (ecology)",
-        "Spatial ecology",
-        "Spatial variability",
-        "Plant community"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70331",
       "doi_url": "https://doi.org/10.1111/1365-2664.70331",
       "title": "Interactive effects of stand age and seasonal litter and soil nutrient dynamics on rhizosphere microbial C and N use efficiency in <i>Pinus massoniana</i> plantations",
@@ -21767,35 +21909,6 @@
         "Beta diversity",
         "Ecosystem",
         "Forest ecology"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70783",
-      "doi_url": "https://doi.org/10.1111/gcb.70783",
-      "title": "Graminoids Increase Greenhouse Gas Emissions From Thawed Permafrost at the End of the Growing Season",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-09",
-      "published_date_display": "2026-03-09",
-      "published_parts": [
-        2026,
-        3,
-        9
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70783",
-      "abstract": "ABSTRACT Amplified Arctic warming can induce strong ecosystem changes with adverse climate feedbacks through greenhouse gas (GHG) release. Shifting plant species and traits with permafrost thaw may contribute to the permafrost carbon feedback. How vegetation dynamics in thawing permafrost systems affect GHG release and how this varies with season, plant species, and soil conditions is poorly understood. Here, we assessed GHG emissions, redox potentials, and geochemical signatures as well as the carbon input in the form of root exudation along a vegetation density gradient and a permafrost thaw gradient over a growing season in Stordalen mire, Sweden. Ecosystem respiration and CH 4 emissions increased along the thaw gradient from bog to fen, possibly due to high graminoid root carbon release rates into an anoxic soil, fuelling fast organic matter oxidation and lowering redox potentials to enhance methanogenesis. CH 4 emissions increased seven‐fold with increasing graminoid cover compared to non‐vascular plant controls in the thawed soil. Plants may mediate CH 4 transport, which was responsible for 80% of the graminoid‐induced increase in CH 4 emissions in the bog environment. In the fen environment, graminoid root carbon release stimulated CH 4 formation, which dominated by contributing 70% of the graminoid‐induced increase. Overall, photosynthesis‐related CO 2 fixation was substantial in the early and peak growing season, but when expressed as CO 2 equivalents, CH 4 release offset this uptake, resulting in net positive radiative forcings from graminoid‐vegetated thawed soils throughout the growing season. Graminoids increased the net CO 2 ‐equivalent flux up to 8.9‐fold compared to non‐vascular plant locations with the strongest forcing toward late season in graminoid‐vegetated fens. Our study showcases how fine‐scaled, plant‐mediated processes differently contribute to GHG emissions across a thawed bog and fen soil and how the time of growing season can overprint these effects to determine whether the system is a net GHG source or sink.",
-      "keywords": [
-        "Graminoid",
-        "Permafrost",
-        "Growing season",
-        "Ecosystem",
-        "Greenhouse gas",
-        "Ecosystem respiration",
-        "Soil respiration",
-        "Soil carbon",
-        "Peat",
-        "Carbon cycle"
       ]
     },
     {
@@ -26398,30 +26511,6 @@
       "keywords": [
         "Natural (archaeology)",
         "Biological evolution"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02970-7",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02970-7",
-      "title": "Out and about",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        1,
-        9
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02970-7",
-      "abstract": "",
-      "keywords": [
-        "Horizon",
-        "Natural (archaeology)",
-        "Presentation (obstetrics)",
-        "Context (archaeology)",
-        "Work (physics)"
       ]
     },
     {
