@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:17:52.187061+00:00",
+  "generated_at": "2026-08-07T01:34:15.509405+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107422",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107422",
-      "title": "Stories of control: Digitalization narratives in smart city strategy papers of German municipalities",
+      "doi": "10.1016/j.cities.2026.107438",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107438",
+      "title": "What rights and whose rights count? Housing activism in urban redevelopment in Shenzhen",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -43,7 +43,24 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006542",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006700",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107469",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107469",
+      "title": "Nonlinear and spatial spillover effects of manufacturing agglomeration on urban ecological resilience",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007018",
       "abstract": "",
       "keywords": []
     },
@@ -63,7 +80,60 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00492-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Generative grammar",
+        "Novelty",
+        "Context (archaeology)",
+        "Accountability",
+        "Generative model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107412",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107412",
+      "title": "Taking refuge: Prioritising park climate adaptation strategies based on urban design and planning professionals' insights",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600644X",
+      "abstract": "",
+      "keywords": [
+        "Adaptation (eye)",
+        "Urban planning",
+        "Urban design",
+        "Urban park",
+        "Climate change adaptation"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107422",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107422",
+      "title": "Stories of control: Digitalization narratives in smart city strategy papers of German municipalities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-05",
+      "published_date_display": "2026-08-05",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006542",
+      "abstract": "Most definitions of smart cities refer to improving citizens' quality of life through the use of digital technology in urban areas. This article aims to provide a better understanding of the intentions that guide cities with different structural characteristics (city size, centrality, or socioeconomic growth) in the planning and implementation of digitalization measures with regard to the digitalization's impact on quality of life of citizens. Using a mixed-methods approach, digitalization narratives in the smart city strategy documents of 12 German cities are examined using the Narrative Policy Framework (NPF) and the analytical lens of the capability approach. Six distinct digitalization narratives in three public problem areas are identified in the Smart City Strategies, with particular attention being paid to the characterization of citizens and the narrated influence of digitalization on their capabilities. Evaluating the frequency and distribution of narrative-use allows the identification of narrative profiles that are examined for differences and similarities using cluster analysis. To explore the influence of the local context on the composition of narrative profiles and clusters, the relationship with urban structural characteristics is examined, and other potential influences are discussed.",
+      "keywords": [
+        "Narrative",
+        "German",
+        "Smart city",
+        "Context (archaeology)",
+        "Identification (biology)",
+        "Quality (philosophy)"
+      ]
     },
     {
       "doi": "10.1177/00420980261466111",
@@ -109,7 +179,14 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261470557",
       "abstract": "Stigmatised neighbourhoods are commonly associated with social discredit, fear and marginalisation. Yet in recent years, they have increasingly attracted tourists in both the Global South and the Global North. However, few studies have explicitly theorised the relationship between territorial stigma and tourism. This paper addresses this gap through the case study of Scampia, one of the most stigmatised neighbourhoods of Naples – and arguably of Italy – which has recently become the focus of growing tourist interest. Drawing on participant observation, interviews, and interpretative analysis of media and cultural representations, the findings suggest that territorial stigma itself may become a significant driving force of tourism. Moreover, situating the discussion within the debate on coping strategies, the article develops the concept of tourism-led commodification of territorial stigma , showing how local actors may temporarily accept stigma and strategically leverage it as a resource within the tourism industry. The conclusions call for greater attention to the relationship between territorial stigma and tourism in both urban and tourism studies, while also showing how commodification may become a pragmatic way of negotiating stigma.",
-      "keywords": []
+      "keywords": [
+        "Commodification",
+        "Tourism",
+        "Stigma (botany)",
+        "Negotiation",
+        "Framing (construction)",
+        "Gentrification"
+      ]
     },
     {
       "doi": "10.1177/00420980261468565",
@@ -8993,30 +9070,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107249",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107249",
-      "title": "Preferred park features for maximising park visitation, physical activity and social interaction among adults: A conjoint analysis",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-29",
-      "published_date_display": "2026-05-29",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004816",
-      "abstract": "• A sense of safety from strangers was most important for all park use behaviours • Good maintenance was the 2nd most preferred for park visitation and socialising • Walking paths and toilets were 2nd and 3rd most important for physical activity • A peaceful, relaxed setting was the 3rd most important feature for park visitation • Barbecue/picnic areas were 3rd most important for social interaction in parks",
-      "keywords": [
-        "Social relation",
-        "Conjoint analysis",
-        "Physical activity",
-        "Urban park",
-        "Social activity",
-        "Feature (linguistics)"
-      ]
-    },
-    {
       "doi": "10.1016/j.cities.2026.107251",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107251",
       "title": "Borrowed size of Chinese urban system from cyberspace",
@@ -9310,28 +9363,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107202",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107202",
-      "title": "Compact 15-minute cities exhibit lower carbon intensity in urban transport",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-27",
-      "published_date_display": "2026-05-27",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004348",
-      "abstract": "",
-      "keywords": [
-        "Intensity (physics)",
-        "Carbon fibers",
-        "Urban climate",
-        "Compact city"
-      ]
-    },
-    {
       "doi": "10.1038/s44284-026-00447-7",
       "doi_url": "https://doi.org/10.1038/s44284-026-00447-7",
       "title": "Global divergence in urban demographic change and migration patterns",
@@ -9357,30 +9388,6 @@
         "Urbanization",
         "Climate change",
         "Spatial ecology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107245",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107245",
-      "title": "Ensuring fairness in distribution in land readjustment project areas with different development rights: Parcel specific deduction rate principle",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-26",
-      "published_date_display": "2026-05-26",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004774",
-      "abstract": "",
-      "keywords": [
-        "Valuation (finance)",
-        "Distribution (mathematics)",
-        "Land development",
-        "Development (topology)",
-        "Contingent valuation",
-        "Urban planning"
       ]
     },
     {
