@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:37:43.336924+00:00",
+  "generated_at": "2026-08-07T23:16:44.201358+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,29 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1086/742256",
+      "doi_url": "https://doi.org/10.1086/742256",
+      "title": "Herbivory Weakens the Stability of a Floral Polymorphism",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-07",
+      "published_date_display": "2026-08-07",
+      "published_parts": [
+        2026,
+        8,
+        7
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/742256",
+      "abstract": "",
+      "keywords": [
+        "Herbivore",
+        "Polymorphism (computer science)",
+        "Population",
+        "Biological evolution"
+      ]
+    },
     {
       "doi": "10.1086/742255",
       "doi_url": "https://doi.org/10.1086/742255",
@@ -90,6 +113,24 @@
       "keywords": []
     },
     {
+      "doi": "10.1111/1365-2664.70533",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70533",
+      "title": "Evaluating potential restoration strategies for vascular epiphytes with niche‐based community mechanistic models",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70533",
+      "abstract": "Abstract Ecological restoration is a global priority, with intergovernmental commitments such as the Kunming‐Montreal Global Biodiversity Framework and the Bonn Challenge seeking to restore the world's forests and their biodiversity. Central to these aims is the restoration of tropical forests, which harbour over half of all terrestrial species. However, one highly diverse and threatened group yet rarely considered in restoration is vascular holoepiphytes: vascular plants germinating and growing on other plants. Despite making up 9% of vascular plant species globally and in places over a third of species locally, they are often overlooked in restoration, omitting a substantial amount of diversity. We address hypotheses regarding timing, population size and age structure of restored epiphyte populations using mechanistic models simulating virtual epiphyte communities within three‐dimensional virtual forests. In epiphyte communities 19 years after introduction, we demonstrate that more species are retained when introducing (a) adult plants into (b) older forest stands. However, different functional groups benefit from nuanced restoration strategies, with higher proportions of faster growing, light‐when‐mature epiphytes in communities introduced into 5‐ to 10‐year‐old forests and at high initial population sizes of 100 individuals per quarter hectare, while short‐dispersing, slow‐growing, heavy‐when‐mature epiphytes are proportionally more abundant with restoration into 20‐ to 40‐year‐old forests. Synthesis and applications . Generally, delayed restoration of adult‐only epiphyte populations into older restored forests improves conservation outcomes. However, restoration can be optimised, initially introducing large populations of fast‐growing, light‐when‐mature species in younger forests followed by the later introduction of slow‐growing, heavy‐when‐mature species in forests older than 20 years. As epiphytes have a slow recolonisation rate, our results identify optimal strategies for restoring a variety of functional groups of a diverse yet difficult‐to‐reestablish ecological guild into regenerating forests.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2664.70524",
       "doi_url": "https://doi.org/10.1111/1365-2664.70524",
       "title": "Artificial exposure to herbivore‐induced volatile organic compounds reduces herbivory and modulates gene expression in potato plants",
@@ -105,6 +146,42 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70524",
       "abstract": "Abstract Climate change accelerates pest development, posing a serious threat to agricultural yields worldwide. While the application of chemical pesticides can control pests, their overuse poses risks to human health and the environment and contributes to the emergence of pesticide‐resistant populations. Within this context, the use of volatile organic compounds (VOCs) emerges as a promising tool for sustainable crop pest management. Informed by and building on prior work identifying key candidate herbivore‐induced volatiles, we investigated whether exposure to artificial VOC blends mimicking those induced by natural herbivore damage enhances potato ( Solanum tuberosum ) resistance to herbivory. Plants were paired in cages and each cage was exposed to either VOC blends similar to those produced by undamaged (control) plants or VOC blends emulating those from plants damaged by Spodoptera exigua (induced). After 3 days of exposure, one plant per cage was removed and leaf tissue collected for gene expression analyses, while the remaining plants were subjected to an herbivory bioassay to assess resistance to S. exigua feeding. After assessing resistance, we again collected leaves for gene expression analyses in induced receivers. Plants exposed to induced VOC blends exhibited a significant reduction in herbivory compared to those exposed to control blends. Molecular analyses indicated that 4CL defensive gene expression increased to a greater extent in response to damage for plants previously exposed to the induced VOCs blend versus those exposed to control VOC blends, consistent with volatile‐mediated priming of induced defences. Synthesis and applications . These findings provide strong mechanistic evidence for VOCs mediating pest resistance and suggest that exposure to herbivore‐induced, plant‐derived VOCs can enhance pest resistance in potato crops. These results might offer novel information for developing ecologically sustainable plant volatile‐based strategies for boosting protection against pests in potato plantations.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71035",
+      "doi_url": "https://doi.org/10.1111/gcb.71035",
+      "title": "Impact of Climate Change on Cyanobacteria–Cyanophage Interactions and Their Role in Cyanobacterial Blooms in Freshwater Lakes",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71035",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71044",
+      "doi_url": "https://doi.org/10.1111/gcb.71044",
+      "title": "Clockwise or Counterclockwise: Hysteresis in the Response of Ecosystem Respiration to Temperature",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71044",
+      "abstract": "ABSTRACT Ecosystem respiration (ER) often responds asymmetrically to seasonal warming and cooling, producing thermal hysteresis. Yet, its global patterns and drivers remain unknown. Here, we used daily ER data from 324 eddy‐covariance sites worldwide and revealed two contrasting hysteresis patterns in the temperature response of ER: clockwise hysteresis (ER is higher during the warming than cooling season) at 173 sites and counterclockwise hysteresis (ER is higher during the cooling than warming season) at 151 sites. The direction and magnitude of ER hysteresis were largely governed by the seasonal timing mismatch between precipitation and vegetation‐derived substrate availability. Higher substrate availability during the warming season enhanced ER and promoted clockwise hysteresis, whereas moisture limitation suppressed ER during the warming season and caused counterclockwise hysteresis. These findings provide robust evidence that ER is a complex process responding to the availability of carbon substrate and regulated differentially by seasonal temperature and precipitation. Our results highlight that the hysteresis of terrestrial carbon release is a key aspect of the global carbon cycle, with important implications for understanding and projecting land carbon‐climate feedbacks.",
       "keywords": []
     },
     {
@@ -12085,29 +12162,6 @@
       ]
     },
     {
-      "doi": "10.1086/742256",
-      "doi_url": "https://doi.org/10.1086/742256",
-      "title": "Herbivory Weakens the Stability of a Floral Polymorphism",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-05-13",
-      "published_date_display": "2026-05-13",
-      "published_parts": [
-        2026,
-        5,
-        13
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/742256",
-      "abstract": "",
-      "keywords": [
-        "Herbivore",
-        "Polymorphism (computer science)",
-        "Population",
-        "Biological evolution"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70381",
       "doi_url": "https://doi.org/10.1111/1365-2664.70381",
       "title": "Higher and more stable biological control of multiple herbivore species in diversified strip cropping systems",
@@ -15706,7 +15760,7 @@
     {
       "doi": "10.1086/741911",
       "doi_url": "https://doi.org/10.1086/741911",
-      "title": "Janzen–Connell effects and habitat-induced aggregation synergistically promote species coexistence",
+      "title": "Janzen-Connell Effects and Habitat-Induced Aggregation Synergistically Promote Species Coexistence",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -19939,33 +19993,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70807",
-      "doi_url": "https://doi.org/10.1111/gcb.70807",
-      "title": "Transgenerational Heat Exposure Triggers Unexpected Compensatory Sex Ratio Responses in a Temperature‐Sensitive Fish Under Climate Warming",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-27",
-      "published_date_display": "2026-03-27",
-      "published_parts": [
-        2026,
-        3,
-        27
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70807",
-      "abstract": "ABSTRACT Rising global temperatures threaten species with environmental sex determination by skewing population sex ratios. However, predictions of demographic collapse often overlook the potential for multigenerational adaptation mechanisms. Here, we investigated the transgenerational impacts of elevated temperature on sex ratios and reproductive physiology in the European sea bass ( Dicentrarchus labrax ), a modern teleost with a polygenic sex determination system highly sensitive to temperature. Over more than a decade and using > 3000 fish, we reared three successive generations (F0–F2) under control or elevated temperatures. In this study, we report detailed data from ~1500 juveniles of the F2 generation distributed across eight groups with unique thermal histories. Direct developmental exposure consistently induced masculinization, but we uncovered a novel compensatory parental effect. The influence of ancestral thermal exposure did not follow a simple cumulative pattern. Instead, its direction depends on the line's inherent sex tendency. Paternal lines with baseline sex biases produced offspring with a sex ratio skewed in the opposite direction when exposed to elevated temperatures. This significant plasticity suggests a potential adaptive mechanism that may counteract extreme demographic imbalances. Gonad histological analysis further revealed a significant delay in spermatogenesis in heat‐exposed males at one year, whereas female gonadal development and chemical composition were unaffected by temperature. Our findings demonstrate that predicting the impacts of climate change requires a multigenerational perspective. Transgenerational plasticity can generate complex compensatory responses that may enhance demographic resilience, whereas genetic variability among lines can modulate these effects on sex ratios. Whether this phenomenon is unique to sea bass or widespread among other temperature‐sensitive species remains to be determined. By integrating ancestral thermal exposure into eco‐evolutionary models, our results expand the discussion on population responses to global warming, and highlight the need for comparable multigenerational studies across taxa.",
-      "keywords": [
-        "Sex ratio",
-        "Phenotypic plasticity",
-        "Offspring",
-        "Gonad",
-        "Population",
-        "Transgenerational epigenetics",
-        "Sea bass",
-        "Development of the gonads"
-      ]
-    },
-    {
       "doi": "10.1086/741527",
       "doi_url": "https://doi.org/10.1086/741527",
       "title": "Heterogeneous Predation, Community Asynchrony, and Metacommunity Stability in Cyanobacterial Mats",
@@ -21573,33 +21600,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70321",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70321",
-      "title": "Think globally, breed locally: Limited genetic impact of management in solitary bees ( <i>Osmia bicornis</i> and <i>Osmia cornuta</i> )",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-11",
-      "published_date_display": "2026-03-11",
-      "published_parts": [
-        2026,
-        3,
-        11
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70321",
-      "abstract": "Abstract An increasing number of pollinator species are being reared by humans to ensure crop pollination. The release of reared pollinators can lead to genetic admixture with wild conspecifics, potentially disrupting local adaptations. While such admixture has been reported in bumblebees, respective data for solitary bees are lacking. We investigated whether the release of locally reared solitary bees ( Osmia spp.) influences genetic diversity and population structure of wild conspecifics. Osmia bicornis and Osmia cornuta females were sampled from two commercial breeders as well as from high, mid and low Osmia spp. management intensity areas in Switzerland. Museum specimens of O. bicornis sampled from the same areas before commercial rearing were used to control for the effect of management. Genetic diversity, population structure and admixture between managed and wild bee populations were investigated across sampling areas and time periods using mitochondrial and nuclear DNA markers. In the contemporary period, both species showed no differences in genetic diversity and low genetic differentiation between sampling areas and breeder stocks, indicating high gene flow despite Osmia spp. being considered philopatric and relatively short‐distance flyers. Similar levels of gene flow were found in O. bicornis before and after management. Genetic diversity of O. bicornis declined over time, which is probably independent of management. Synthesis and application . The data suggest that the release of locally reared Osmia spp. is unlikely to interfere with the genetic structure of wild conspecifics. This contrasts with bumblebees, where the use of non‐local colonies has led to significant genetic introgression with local conspecific populations. Our results emphasize the importance of using locally reared pollinator populations in order to minimize the risks associated with genetic pollution. Further investigation into the population genetics of pollinators is essential to identify the main drivers of genetic erosion.",
-      "keywords": [
-        "Genetic diversity",
-        "Gene flow",
-        "Breed",
-        "Genetic structure",
-        "Pollinator",
-        "Population",
-        "Effective population size",
-        "mtDNA control region"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70325",
       "doi_url": "https://doi.org/10.1111/1365-2664.70325",
       "title": "Long‐term monitoring reveals how pondscape connectivity shapes the early spread of a biological invasion",
@@ -22463,33 +22463,6 @@
         "Niche",
         "Annual plant",
         "Tussock"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70767",
-      "doi_url": "https://doi.org/10.1111/gcb.70767",
-      "title": "Nitrate Availability Modulates the Temperature Sensitivity of <scp> N <sub>2</sub> O </scp> and <scp> N <sub>2</sub> </scp> Production From Denitrification",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-03",
-      "published_date_display": "2026-03-03",
-      "published_parts": [
-        2026,
-        3,
-        3
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70767",
-      "abstract": "ABSTRACT Nitrous oxide (N 2 O) can be both produced and reduced to dinitrogen (N 2 ) during microbial denitrification, with the balance between these steps controlling the net flux of this potent climate gas. Here, we first used a meta‐analysis of published studies to predict how warming may regulate N 2 O and N 2 production in soils and sediments. However, as most of these former studies used nitrate at far higher than ambient concentrations, the applicability of these predictions to ambient conditions may be limited. In addition, few studies separated denitrification from other microbial pathways contributing to N 2 O and N 2 production. To address these limitations, we used 15 N‐isotope labelling experiments in freshwater sediments to test how temperature sensitivity varies with limited (10 μM) and replete (100 μM) nitrate. Temperature affected N 2 O and N 2 production only when nitrate was replete, where N 2 production increased but net N 2 O production declined with warming, leading to a lower N 2 O:N 2 production ratio at higher temperatures. These results show that substrate availability can outweigh temperature in controlling the balance between N 2 O and N 2 production, indicating that temperature‐based predictions of N 2 O emissions alone may overestimate the effects of climate warming.",
-      "keywords": [
-        "Nitrate",
-        "Nitrous oxide",
-        "Denitrification",
-        "Production (economics)",
-        "Soil water",
-        "Substrate (aquarium)",
-        "Nitrogen",
-        "Nitrogen cycle"
       ]
     },
     {
