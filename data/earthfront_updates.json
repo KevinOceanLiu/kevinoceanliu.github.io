@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:42:22.175757+00:00",
+  "generated_at": "2026-08-07T01:05:02.694267+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,96 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01914-8",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01914-8",
+      "title": "A global atlas of soil microbial genetic resources exposes protection shortfalls",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01914-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02073-3",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02073-3",
+      "title": "Opinions that matter",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02073-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02052-8",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02052-8",
+      "title": "Hydromagnesite on Earth and Mars",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02052-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02715-9",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02715-9",
+      "title": "Persistence of Arctic Ocean acidification under negative emissions",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02715-9",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02726-6",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02726-6",
+      "title": "Hydraulic traits govern opposing range shifts of montane trees under warming",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        8,
+        6
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02726-6",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-02037-7",
       "doi_url": "https://doi.org/10.1038/s41561-026-02037-7",
       "title": "Monitoring Europe’s forests in a changing climate",
@@ -41,7 +131,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02037-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Biomass (ecology)",
+        "Natural (archaeology)",
+        "Global climate",
+        "Global warming",
+        "Carbon cycle",
+        "Carbon stock",
+        "Climate system"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02062-6",
@@ -59,7 +158,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02062-6",
       "abstract": "Abstract New particle formation is an important source of Arctic atmospheric particles and cloud condensation nuclei, yet their precursor sources and molecular-level mechanisms remain poorly understood. Here we report comprehensive ship-based observations from 19 May to 26 June 2022 from southeastern to western Greenland and into the Davis Strait’s marginal ice zone to investigate sources and processes controlling atmospheric particles and cloud condensation nuclei. Our observations provide field evidence of frequent nucleation events driven by the multicomponent iodine oxoacid and sulfuric acid mechanism recently identified in laboratory studies. Newly formed particles grew rapidly beyond 20 nm on 8 out of 13 nucleation days, mainly driven by oxygenated organic molecules from aldehyde and monoterpene oxidation. We also report a previously unobserved class of iodine-containing oxygenated organic molecules that contributed to particle growth and enhanced cloud condensation nuclei formation. We show that marginal sea ice zone produces precursors that drive rapid new particle formation and enhance cloud condensation nuclei concentrations by up to 50-fold. Our findings demonstrate that Arctic iodine, sulfur and organic precursors can enhance cloud condensation nuclei abundance through new particle formation, highlighting a potential but unquantified pathway for influencing cloud cover, radiative balance and the hydrological cycle.",
-      "keywords": []
+      "keywords": [
+        "Cloud condensation nuclei",
+        "Nucleation",
+        "Condensation",
+        "Ice nucleus",
+        "Particle (ecology)",
+        "Arctic",
+        "Sulfur",
+        "Aerosol"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02032-y",
@@ -77,7 +185,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02032-y",
       "abstract": "Abstract Forest disturbances are rising globally due to climate change and land-use pressures, weakening the terrestrial carbon sink. However, declines in aboveground biomass from tree cover loss remain poorly quantified, limiting our understanding of the role of disturbances in global carbon dynamics. Here we present a spatially explicit estimate of aboveground biomass losses from natural disturbances and harvest across Europe’s 216 million hectares of forests, using satellite remote sensing. From 1985 to 2023, gross aboveground biomass losses totalled 6.5 ± 0.8 Pg. Of these, 18% were caused by high-severity natural disturbances, whereas stand-replacing harvests accounted for 82%. From 2018 onward, aboveground biomass losses increased by 46% reaching annual values unprecedented in the preceding four decades. This acceleration coincided with high natural disturbance activity in biomass-rich temperate forests. After 2018, the sensitivity of aboveground biomass loss to disturbance area increased substantially, suggesting that even small increases in natural disturbances can result in large losses. As climate-driven natural disturbances intensify, we thus expect sustained aboveground biomass losses across Europe, despite policies to enhance the forest carbon sink until 2030.",
-      "keywords": []
+      "keywords": [
+        "Biomass (ecology)",
+        "Carbon sink",
+        "Temperate climate",
+        "Disturbance (geology)",
+        "Carbon cycle",
+        "Sink (geography)",
+        "Temperate rainforest",
+        "Carbon sequestration"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01917-5",
