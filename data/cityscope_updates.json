@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:34:15.509405+00:00",
+  "generated_at": "2026-08-07T22:55:50.093427+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -44,6 +44,23 @@
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006700",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107479",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107479",
+      "title": "The invisible hand of God: faith-based organizations and the governance of food poverty in Rome",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007110",
       "abstract": "",
       "keywords": []
     },
@@ -8787,36 +8804,6 @@
         "Perspective (graphical)",
         "Work (physics)",
         "Corporate governance"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107168",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107168",
-      "title": "Strategies and sustainability in motion: An analysis of mobility and climate change policies in Greater London",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004002",
-      "abstract": "This article investigates the interplay between metropolitan mobility and climate change within the context of Greater London, emphasizing the city's challenge of balancing mitigation and adaptation strategies in response to recent and ongoing climate impacts. Drawing on data analysis, a comprehensive literature review, and qualitative interviews, the research examines how climate change disrupts mobility dynamics and critically evaluates the effectiveness of current urban policies, such as the expansion of cycling routes and the implementation of the Ultra Low Emission Zone, as outlined in the 2018 London Environment Strategy. While these measures aim to reduce car-based mobility and promote low-emission transportation, the growing frequency of climate-related challenges, such as flooding and urban overheating, calls for a rethinking of London's approach to achieving co-benefits - simultaneously reducing emissions and enhancing resilience. The findings identify 20 targeted actions reflecting London's adaptive responses to climate change, while also underscoring the critical need for stakeholder integration to address technological, economic, and social disparities. The discussion highlights the importance of fostering greater collaboration between the Greater London Authority (GLA) and local boroughs, ensuring alignment between local initiatives and broader metropolitan planning frameworks. Recommendations focus on embedding adaptation measures into urban mobility strategies, prioritizing waste management, and leveraging climate resilience to advance sustainable urban futures. This study underscores the urgency of adaptive, inclusive policymaking in shaping metropolitan regions as resilient and equitable spaces in the face of climate change.",
-      "keywords": [
-        "Sustainability",
-        "Climate change",
-        "Motion (physics)",
-        "Economic geography",
-        "Natural resource economics",
-        "Geography",
-        "Regional science",
-        "Economics",
-        "Computer science",
-        "Geology",
-        "Oceanography",
-        "Ecology"
       ]
     },
     {
