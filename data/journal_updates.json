@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:02:06.777100+00:00",
+  "generated_at": "2026-08-07T21:54:07.001781+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -43,6 +43,23 @@
       "keywords": []
     },
     {
+      "doi": "10.1016/j.rse.2026.115597",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115597",
+      "title": "Tracking global extreme afternoon photosynthesis depression: Frequency, duration, and drivers from satellite-based hourly GPP products",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003676",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.rse.2026.115601",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115601",
       "title": "A scheme to quantify the adjacency effect of shortwave radiation from highly reflective surfaces",
@@ -77,6 +94,57 @@
       "keywords": []
     },
     {
+      "doi": "10.1016/j.isprsjprs.2026.07.032",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.032",
+      "title": "PVP-adapter: Dual-branch spatial-frequency adaptation for change detection of photovoltaic panels",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003898",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.020",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.020",
+      "title": "HCFNet: Hierarchical and complementary feature embedding for remote sensing change captioning",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003771",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.019",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.019",
+      "title": "Aerial Image Gravity Direction Estimation (AGE): Robust single-image estimation by fusing foundation model features with camera geometry",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600376X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.isprsjprs.2026.07.010",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.010",
       "title": "ADAPT-Tracker: Adaptive dynamic perception and trajectory-consistent network for aerial multi-object tracking",
@@ -90,6 +158,41 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003576",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.031",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.031",
+      "title": "A vertical FVC profile retrieval method (OLV-FVC) based on airborne LiDAR point cloud under the constraint of optical remote sensing for forest plots",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003886",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2704583",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2704583",
+      "title": "Context-Driven Voting in the 2023 Ohio Abortion Rights Ballot Measure: Why Geography Matters",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-08-07",
+      "published_date_display": "2026-08-07",
+      "published_parts": [
+        2026,
+        8,
+        7
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2704583",
       "abstract": "",
       "keywords": []
     },
@@ -2310,7 +2413,7 @@
       "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
-        7
+        10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003473",
       "abstract": "",
@@ -9016,32 +9119,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.024",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.024",
-      "title": "CiviViL: multimodal interpretation of composite urban facility scenes with spatial-semantic-aware bidirectional cross-attention",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-22",
-      "published_date_display": "2026-04-22",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001966",
-      "abstract": "",
-      "keywords": [
-        "Geospatial analysis",
-        "Context (archaeology)",
-        "Component (thermodynamics)",
-        "Domain (mathematical analysis)",
-        "Bridge (graph theory)",
-        "Interpretation (philosophy)",
-        "Construct (python library)",
-        "Field (mathematics)"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.04.028",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.028",
       "title": "Bayesian polarimetric detector for improved forest loss monitoring using dual-polarization Sentinel-1 data",
@@ -10249,54 +10326,6 @@
         "Logging",
         "Forest management",
         "Vegetation (pathology)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.04.001",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.001",
-      "title": "Directional geometric primitive segmentation and topological reconstruction for fine-grained roof structure extraction",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-09",
-      "published_date_display": "2026-04-09",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001735",
-      "abstract": "",
-      "keywords": [
-        "Segmentation",
-        "Extraction (chemistry)",
-        "Geometric primitive",
-        "Topology (electrical circuits)",
-        "Image segmentation",
-        "Scale-space segmentation",
-        "Pattern recognition (psychology)",
-        "Mathematical morphology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.04.014",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.014",
-      "title": "Cross-view localization via redundant sliced observations and a-contrario validation",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-09",
-      "published_date_display": "2026-04-09",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001863",
-      "abstract": "",
-      "keywords": [
-        "Redundancy (engineering)",
-        "Pattern recognition (psychology)",
-        "Computation",
-        "Visualization"
       ]
     },
     {
@@ -11568,33 +11597,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115382",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115382",
-      "title": "Synergistic retrievals of leaf area index and leaf chlorophyll content in deciduous broadleaf forests from Sentinel-2 and Landsat",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-25",
-      "published_date_display": "2026-03-25",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001525",
-      "abstract": "Leaf area index (LAI) and leaf chlorophyll content (LCC) are essential for ecological applications. Physically based algorithms enable the synergistic retrieval of LAI and LCC, but their performance is often limited by simplifications in radiative transfer (RT) models, which can induce mutual error compensation between these two parameters. In this study, we systematically evaluate synergistic LAI and LCC retrievals for deciduous broadleaf forests from Sentinel-2 and Landsat-7/8 data by examining canopy structural representation of RT models (1D PROSAIL model and the geometric-optical RT model 5-Scale), parameterization strategies, and sensor spectral characteristics. PROSAIL is enhanced by incorporating the pure vegetation fraction (FV), canopy non-photosynthetic component fraction (FS), and a prior-knowledge (PK) constraint based on a relationship between LAI and a vegetation index; 5-Scale is enhanced with FS and PK. Our results identify limitations in canopy structural representation as a primary driver of LAI-LCC mutual error compensation. The integrated parameterization (FV + FS + PK for PROSAIL; FS + PK for 5-Scale) enables a more balanced and accurate synergistic retrieval, improving LAI and LCC accuracy by 24.0–46.3% and 12.0–45.4%, respectively, across sites and models, whereas simpler strategies tend to improve one parameter at the expense of the other. Both enhanced models show higher retrieval accuracy for LAI and LCC than the operational SL2P, and relative to SL2P-CCRS, they achieve comparable LAI with more accurate LCC. These parameterizations also reduce discrepancies between Sentinel-2 and Landsat-7/8 retrievals. We further demonstrate that an advanced leaf-spectra parameterization—accounting for all canopy materials rather than green leaves alone—is essential for capturing seasonal LAI dynamics, particularly during autumn senescence. This study underscores the advantage of synergistic retrieval for LAI and LCC and highlights the value of incorporating structural and prior-knowledge enhancements into RT models for developing robust algorithms. • Parameterization strategies enhance LAI/LCC retrieval from both PROSAIL and 5-Scale. • Integrated strategies reduce LAI-LCC error compensation in DBFs. • 5-Scale mitigates LAI and LCC signal saturation issues. • Advanced leaf-spectra modeling helps capture seasonal LAI dynamics. • Parameterization reduce discrepancies between Sentinel-2 and Landsat retrievals.",
-      "keywords": [
-        "Leaf area index",
-        "Canopy",
-        "Deciduous",
-        "Vegetation (pathology)",
-        "Hyperspectral imaging",
-        "Radiative transfer",
-        "Atmospheric radiative transfer codes",
-        "Vegetation Index",
-        "Constraint (computer-aided design)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115385",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115385",
       "title": "Robust hyperspectral reconstruction from satellite and airborne observations via a deep hierarchical fusion network across heterogeneous scenarios",
@@ -12269,32 +12271,6 @@
         "Politics",
         "Perspective (graphical)",
         "Context (archaeology)",
-        "Field (mathematics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.004",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.004",
-      "title": "LiDAR remote sensing meets weak supervision: Concepts, methods, and perspectives",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-09",
-      "published_date_display": "2026-03-09",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001152",
-      "abstract": "",
-      "keywords": [
-        "Lidar",
-        "Scalability",
-        "Leverage (statistics)",
-        "Ranging",
-        "Bridging (networking)",
-        "Consistency (knowledge bases)",
-        "Key (lock)",
         "Field (mathematics)"
       ]
     },
