@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:54:07.001781+00:00",
+  "generated_at": "2026-08-08T21:44:34.822883+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115603",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115603",
-      "title": "Where sky meets sea: Integrated aerosol and ocean color retrieval from PACE SPEXone multi-angle polarimetry",
+      "doi": "10.1016/j.rse.2026.115604",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115604",
+      "title": "A weakly supervised, wetness-based dynamic framework for wetland delineation across globally distributed sites",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,32 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003731",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003743",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.028",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.028",
+      "title": "CoRE-UIR: Prior-guided common and residual experts for efficient all-in-one remote sensing image restoration",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-08",
+      "published_date_display": "2026-08-08",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003850",
+      "abstract": "",
+      "keywords": [
+        "Residual",
+        "Image restoration",
+        "Remote sensing application",
+        "Digital elevation model",
+        "Image processing"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115597",
@@ -49,49 +72,20 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-08-07",
+      "published_date_display": "2026-08-07",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003676",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115601",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115601",
-      "title": "A scheme to quantify the adjacency effect of shortwave radiation from highly reflective surfaces",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
-      "published_parts": [
-        2026,
-        11
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003718",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.030",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.030",
-      "title": "TALineNet: A benchmark and network for temporally-aware continuous line segment detection in event streams",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003874",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Tracking (education)",
+        "Photosynthesis",
+        "Satellite tracking",
+        "Atmosphere (unit)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.032",
@@ -100,15 +94,20 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-08-07",
+      "published_date_display": "2026-08-07",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003898",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Photovoltaic system",
+        "Change detection",
+        "Adaptation (eye)",
+        "Process (computing)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.020",
@@ -117,15 +116,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-08-07",
+      "published_date_display": "2026-08-07",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003771",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Closed captioning",
+        "Feature (linguistics)",
+        "Embedding",
+        "Remote sensing application",
+        "Pattern recognition (psychology)",
+        "Change detection"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.019",
@@ -134,32 +140,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-08-07",
+      "published_date_display": "2026-08-07",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600376X",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.010",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.010",
-      "title": "ADAPT-Tracker: Adaptive dynamic perception and trajectory-consistent network for aerial multi-object tracking",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003576",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Foundation (evidence)",
+        "Aerial image",
+        "Aerial photography",
+        "Aerial survey",
+        "Image (mathematics)",
+        "Estimation"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.031",
@@ -168,15 +164,22 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-08-07",
+      "published_date_display": "2026-08-07",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003886",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Lidar",
+        "Point cloud",
+        "Constraint (computer-aided design)",
+        "Point (geometry)",
+        "Atmospheric correction",
+        "Reflectivity"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2704583",
@@ -193,8 +196,69 @@
         7
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2704583",
+      "abstract": "In November 2023, Ohio voters approved Issue 1, the Right to Make Reproductive Decisions Including Abortion Initiative, which enshrined abortion rights in the Ohio constitution. However, the spatial pattern of votes reveals considerable variation in the support for Issue 1 that needs to be understood. Previous research has typically used nonspatial survey data and global statistical methods to understand abortion-related voting patterns. These approaches, however, do not capture the effects of geographic context (“place”), which can shape voting behavior. Here, we use multiscale geographically weighted regression to identify local variations in the determinants of voting behavior across Ohio and to assess the independent, and previously unquantifiable, impact of place. We locate and provide explanations for areas of intrinsic support for and opposition to the Issue 1 ballot measure that are shaped by local context as much as by demographic influences. We demonstrate, through local statistical modeling, that a geographical perspective is essential to understanding the drivers of ballot measure voting behavior, and indeed most, if not all, human behavior.",
+      "keywords": [
+        "Ballot",
+        "Voting",
+        "Abortion",
+        "Context (archaeology)",
+        "Opposition (politics)",
+        "Disapproval voting",
+        "Straight-ticket voting"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115603",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115603",
+      "title": "Where sky meets sea: Integrated aerosol and ocean color retrieval from PACE SPEXone multi-angle polarimetry",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003731",
+      "abstract": "Global aerosol and ocean color properties are simultaneously retrieved from multi-angle polarimetric measurements acquired by the SPEXone instrument aboard NASA’s PACE mission. These coupled retrievals are enabled by the FastMAPOL algorithm, which combines optimal estimation with deep neural network forward models to achieve efficient and accurate operational processing. Ocean remote-sensing reflectance ( R r s ) is derived through multi-angle atmospheric correction, introducing an explicit angular dimension for characterizing aquatic optical properties. Since early 2024, both Level-2 and Level-3 global products have been generated in near real time and are publicly distributed through the NASA Earthdata archive. Validation against the Aerosol Robotic Network (AERONET) and associated AERONET-Ocean Color (OC) observations demonstrates robust performance for both atmospheric and oceanic retrievals. Retrieved aerosol optical depth (AOD) exhibits overall uncertainties (RMSD) of approximately 0.06, with mean biases smaller than 0.01, while 63% of retrievals satisfy the uncertainty threshold of max ( 0.04 , 10 % ) , across a wide range of aerosol loadings and water conditions. Retrieved R r s exhibits uncertainties of approximately 0.001 – 0.002 sr − 1 and biases on the order of 0.001 sr − 1 across phytoplankton-dominated waters. R r s retrieval uncertainties increase with aerosol loading, whereas AOD retrieval uncertainties increase with water complexities, highlighting the coupled nature of aerosol and ocean color retrievals. Moreover, global gridded analyses reveal realistic spatial patterns of aerosol type, absorption, and ocean color variability. The angular variability of multi-angle R r s is further examined across latitudes and seasons, including a closure assessment based on a self-consistent bidirectional reflectance correction. This study provides a comprehensive validation of the FastMAPOL SPEXone V3 data products and establishes a baseline for the expected improvements in aerosol and R r s retrievals with the upcoming V4 release, which incorporates updated radiometric calibration. PACE multi-angle polarimetry thus establishes a new capability for fully integrated global aerosol and ocean color retrievals, enhancing our ability to characterize aerosol–ocean interactions and advance understanding of the coupled Earth system.",
+      "keywords": [
+        "Aerosol",
+        "Ocean color",
+        "Polarimetry",
+        "Atmospheric correction",
+        "Latitude",
+        "Sky",
+        "Satellite",
+        "Atmospheric optics"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115601",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115601",
+      "title": "A scheme to quantify the adjacency effect of shortwave radiation from highly reflective surfaces",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003718",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Shortwave",
+        "Shortwave radiation",
+        "Radiative transfer",
+        "Adjacency list",
+        "Radiation",
+        "Consistency (knowledge bases)",
+        "Snow",
+        "Longwave",
+        "Cloud cover"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2714043",
@@ -211,8 +275,71 @@
         6
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2714043",
+      "abstract": "Spatiotemporal heterogeneity is an important property of geographic phenomena and a challenge for moving deep learning from generic data fitting toward geographic knowledge-constrained modeling. Although common implementations of convolution, graph propagation, and attention capture spatiotemporal dependencies, their parameter-sharing mechanisms and static inductive biases often assume global stationarity, hindering adaptation when variable distributions and relationships vary across space and time. Existing heterogeneity-aware designs remain fragmented across tasks, data forms, and architectures, lacking a synthesis of explicit heterogeneity modeling mechanisms. This review presents a mechanism-level framework centered on variable and relational heterogeneity. By integrating stratified and local organizational structures, the framework organizes existing methods around three stages: feature representation, model parameterization, and objective optimization. It identifies six core strategies: stratified and local feature representation, stratified and local parameterization, and feature self-supervised and parameter regularization constraints. We delineated the boundary between explicit heterogeneity-aware modeling and generic spatiotemporal context encoding, and analyzed the theoretical basis, mechanisms, applicability, and limitations of each strategy. We further discussed challenges in coupled heterogeneity modeling, spatiotemporal transferability, interpretability, computational complexity, uncertainty quantification, and spatiotemporal foundation models. This review provides a methodological reference for understanding how deep learning models represent, adapt to, and constrain spatiotemporal heterogeneity in GeoAI.",
+      "keywords": [
+        "Feature (linguistics)",
+        "Deep learning",
+        "Context (archaeology)",
+        "Variable (mathematics)",
+        "Regularization (linguistics)",
+        "Feature selection",
+        "Salient",
+        "Feature learning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.030",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.030",
+      "title": "TALineNet: A benchmark and network for temporally-aware continuous line segment detection in event streams",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003874",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Benchmark (surveying)",
+        "Event (particle physics)",
+        "Context (archaeology)",
+        "Line segment",
+        "Pattern recognition (psychology)",
+        "Representation (politics)",
+        "Line (geometry)",
+        "Noise (video)",
+        "Fidelity",
+        "Face (sociological concept)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.010",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.010",
+      "title": "ADAPT-Tracker: Adaptive dynamic perception and trajectory-consistent network for aerial multi-object tracking",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-06",
+      "published_date_display": "2026-08-06",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003576",
+      "abstract": "",
+      "keywords": [
+        "Trajectory",
+        "Robustness (evolution)",
+        "Kinematics",
+        "Jitter",
+        "BitTorrent tracker",
+        "Perception",
+        "Tracking (education)",
+        "Motion (physics)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115599",
@@ -1414,6 +1541,31 @@
       ]
     },
     {
+      "doi": "10.1016/j.isprsjprs.2026.06.041",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.041",
+      "title": "Arctic sea ice motion retrieval via vision foundation model and cross-sensor SAR",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-07-20",
+      "published_date_display": "2026-07-20",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003473",
+      "abstract": "",
+      "keywords": [
+        "Sea ice",
+        "Arctic",
+        "Motion (physics)",
+        "Synthetic aperture radar",
+        "Foundation (evidence)",
+        "The arctic",
+        "Arctic ice pack"
+      ]
+    },
+    {
       "doi": "10.1080/24694452.2026.2692550",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2692550",
       "title": "Negotiating Life in the Shadow of the Dam: Rhythmic Livelihoods in the Agno River Basin, Philippines",
@@ -2400,31 +2552,6 @@
         "Visualization",
         "Field (mathematics)",
         "Digital Earth"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.06.041",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.06.041",
-      "title": "Arctic sea ice motion retrieval via vision foundation model and cross-sensor SAR",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07-01",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003473",
-      "abstract": "",
-      "keywords": [
-        "Sea ice",
-        "Arctic",
-        "Motion (physics)",
-        "Synthetic aperture radar",
-        "Foundation (evidence)",
-        "The arctic",
-        "Arctic ice pack"
       ]
     },
     {
@@ -9988,33 +10115,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.021",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.021",
-      "title": "Benchmarking individual tree segmentation using multispectral airborne laser scanning data: The FGI-EMIT dataset",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-13",
-      "published_date_display": "2026-04-13",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001929",
-      "abstract": "1. Overview This repository contains FGI-EMIT, a multispectral high-density airborne laser scanning benchmark dataset for individual tree segmentation, presented in the paper Benchmarking individual tree segmentation using multispectral airborne laser scanning data: the FGI-EMIT dataset (Ruoppa et al., 2026). FGI-EMIT consists of 19 boreal forest plots spanning a wide range of forest types and also includes built environment, extending its applicability to urban forests. Each tree instance across all plots has been manually annotated in 3D, resulting in a total of 1,561 trees with high-quality instance annotations, with a particular focus on small understory trees that are notoriously challenging to segment. All point clouds in the dataset are multispectral and include reflectance information captured simultaneously at three distinct wavelengths. The multispectral point clouds were originally acquired in the Espoonlahti district of Espoo, Finland (60.1462°N, 24.6587°E) on July 20 and 28, 2023, using the Finnish Geospatial Research Institute’s (FGI’s) in-house developed laser scanning system, HeliALS-TW. The system includes three separate RIEGL LiDAR scanners, VUX-1HA (1,550 nm), miniVUX-1DL (905 nm), and VQ-840-G (532 nm), referred to as scanners 1, 2, and 3, respectively. For a detailed description of the FGI-EMIT dataset, including data acquisition, preprocessing, and an extensive benchmark of popular individual tree segmentation (ITS) methods, covering both conventional unsupervised algorithms and deep learning (DL) approaches, please refer to the associated paper. 2. Data usage FGI-EMIT is a machine learning (ML) and deep learning-ready dataset for benchmarking individual tree segmentation methods. This section provides a brief overview of how the data can be used for benchmarking purposes. To ensure comparability between studies, we encourage adhering to the standardized benchmarking procedure presented in Appendix A.4 of the associated paper when evaluating ITS methods using the FGI-EMIT dataset. 2.1 Data split The 19 plots in the FGI-EMIT dataset have been divided into training and test sets, to be used as follows: Training set: intended for method development. This data can be used, for example, to train ML- and DL-based individual tree segmentation models and/or to optimize hyperparameters of unsupervised segmentation algorithms. Test set: intended only for evaluating the accuracy of individual tree segmentation methods. To prevent data leakage, the test set must not be used at any stage of model training or hyperparameter optimization. 70% of the 19 plots were assigned to the training set, with the remaining 30%, that is, 6 plots, assigned to the test set. Due to substantial variation in plot complexity, the test set was selected using stratified random sampling, in which the plots were divided into three groups based on forest density. In this repository, the FGI-EMIT data are provided pre-divided into training and test directories. The specific data split is also listed in Table 1. While FGI-EMIT does not include a designated validation set, a portion of the training data can be set aside for purposes such as model selection, hyperparameter tuning, and overfitting prevention. The proportion of training data allocated to validation can be determined by the user to suit the particular use case. For consistency, we recommend using the same three-plot validation set as in the benchmark (plots with IDs 1019, 1022, and 1031) in applications where validation is required. Table 1: Training-test split of the FGI-EMIT dataset. Set Plot IDs Number of trees Training 1001, 1003, 1005, 1009, 1010, 1013, 1019, 1020, 1022, 1023, 1024, 1027, 1031 1098 Test 1002, 1004, 1008, 1012, 1018, 1028 463 2.2 Accuracy computation Individual tree segmentation performance on FGI-EMIT should be assessed using common instance segmentation metrics, specifically Recall, Precision, F1-score, Coverage (Cov), and Average Precision (AP). Additionally, if crown category information is available, category-level recall can be computed to assess the effects of relative crown positioning on method accuracy. A Python script for accuracy computation is provided in the accuracy directory of this repository. The script matches predicted instances to ground truth based on intersection over union (IoU) and computes the required metrics, as described in Section 3.4.2 of the associated paper. For consistency, we strongly recommend using the official accuracy computation script when evaluating ITS methods on FGI-EMIT. Detailed documentation on how to configure the script is also provided (DOCS.md). The script supports point clouds in the las, laz and ply file formats. By default, it is configured for the annotation format used in FGI-EMIT, but it can be easily adapted to work with other formats, such as that of the FOR-InstanceV2 dataset. The code is also available in the FGI-EMIT GitHub repository. 3. Data description The FGI-EMIT dataset contains a total of 19 cylindrical forest plots of varying sizes, representing a wide range of boreal forest environments, including coniferous-dominated, deciduous-dominated, and mixed forests, as well as planted trees. In addition, some plots contain man-made structures, such as buildings and vehicles. The multispectral LiDAR point clouds for the 19 plots are provided in the las file format. Each point cloud includes manually generated point-level instance and semantic ground truth annotations, as well as several non-standard attributes. Furthermore, all instances in the dataset have been assigned a crown category that describes their size and position relative to neighboring trees. For a complete description of the dataset, please refer to Section 3 and Appendix A of the associated paper. 3.1 Ground truth labels For each of the 19 plots in the FGI-EMIT dataset, individual trees have been manually annotated at the point level. All sections of the point cloud that could be definitively identified as trees and were at least 3 meters in height have been segmented into individual instances. For partial trees along the plot perimeter, only those for which at least approximately 50% of the tree appeared to lie within the plot boundaries were segmented. Points belonging to the same tree have been assigned a common positive integer ID, while non-tree points are assigned the value 0. The tree instance IDs are stored in the field tree_index and are unique at the plot level. In addition to instance annotations, FGI-EMIT includes rudimentary semantic labels for common categories present in the data. In particular, in addition to trees, man-made objects have each been assigned their own semantic classes. Furthermore, partial trees along plot perimeters that were not given instance labels have been assigned to a separate class. The semantic labels are stored in the classification field of the point clouds. The primary purpose of the semantic annotations is to facilitate the filtering of object categories that could hinder the performance of ITS methods, which is particularly relevant for unsupervised approaches. The definitions of each semantic category are listed in Table 2. In the ITS benchmark presented in the associated paper, points in class 5 were always removed from the data. For unsupervised algorithms, which are not inherently designed to handle data from non-forest environments, points in classes 2–4 were also removed. In contrast, since DL models can learn to classify built environments as background, points in classes 2–4 were remapped to class 0. Table 2: Descriptions of the semantic categories available in the FGI-EMIT dataset. Name ID Description Other 0 Points not belonging to any other category. A majority of points in this class are either ground or understory vegetation. Tree 1 Points that are part of any tree instance. Building 2 Buildings and similar smaller man-made structures, such as sheds. This also includes structures attached to buildings, e.g. fences. Vehicle 3 Motorized vehicles, such as cars, trucks and buses. Pole 4 Vertical pole-like structures, such as lamp-posts, traffic signs and utility poles. Out 5 Points belonging to trees that reside mostly outside the plot boundaries and were therefore not assigned to any tree instance. 3.2 Tree locations, heights, and crown categories An $xy$-location and height were computed for each tree instance based on the point cloud data. The tree location was determined by computing the centroid of a convex hull fitted to the $xy$-plane projection of the crown points. The tree height was then computed as follows: $h_{\\text{tree}}=z_{\\max,\\text{tree}}-\\min\\left\\{z_{\\min,\\text{ground}},z_{\\min,\\text{tree}}\\right\\},$ where $z_{\\max,\\text{tree}}$ is the maximum $z$-coordinate in the tree instance, $z_{\\min,\\text{ground}}$ is the minimum $z$-coordinate of the ground directly below the instance, and $z_{\\min,\\text{tree}}$ is the minimum $z$-coordinate within the instance. To facilitate the analysis of how relative crown positioning affects the accuracy of individual tree segmentation, all tree instances were classified into four distinct crown categories based on height differences and distances relative to neighboring trees. The crown category definitions and corresponding tree counts in the FGI-EMIT dataset are listed in Table 3. The categories were determined using an automatic algorithm based on the tree locations and heights computed from the instance point clouds. Tree locations, heights, and crown categories for each plot, along with plot-level tree counts and densities, are provided in a machine-readable format in the file plot_data.yaml. The information in the file is grouped by plot ID and tree ID. The file format is compatible with the accuracy computation script, enabling crown-category-level recall to be computed. Table 3: Specifications of the four tree crown categories. Two trees we",
-      "keywords": [
-        "Multispectral image",
-        "Lidar",
-        "Tree (set theory)",
-        "Segmentation",
-        "Benchmarking",
-        "Point cloud",
-        "Pattern recognition (psychology)",
-        "Unsupervised learning",
-        "Benchmark (surveying)"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2639714",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2639714",
       "title": "Black History Is a Place: The Promise of Black (Public) Geographies",
@@ -11791,30 +11891,6 @@
         "Water stress",
         "Scaling",
         "Stress (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115374",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115374",
-      "title": "Canopy water content is related to variability in leaf water over time but not across space in an oak savanna ecosystem",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001446",
-      "abstract": "",
-      "keywords": [
-        "Canopy",
-        "Leaf area index",
-        "Tree canopy",
-        "Water content",
-        "Water stress",
-        "Hydrology (agriculture)"
       ]
     },
     {
