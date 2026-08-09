@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:47:27.704476+00:00",
+  "generated_at": "2026-08-09T22:49:54.879085+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -30,23 +30,6 @@
     }
   ],
   "articles": [
-    {
-      "doi": "10.1016/j.cities.2026.107472",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107472",
-      "title": "Process justice in transit-oriented development in Hong Kong: The case of Kai Tak station development",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007043",
-      "abstract": "",
-      "keywords": []
-    },
     {
       "doi": "10.1016/j.cities.2026.107479",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107479",
@@ -20014,6 +19997,37 @@
         "Mental health",
         "Systematic review",
         "Data extraction"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107472",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107472",
+      "title": "Process justice in transit-oriented development in Hong Kong: The case of Kai Tak station development",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2024-01-01",
+      "published_date_display": "2024-01-01",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007043",
+      "abstract": "Original conceived to create equitable and sustainable communities, Transit-oriented Development (TOD) has received increasing scholarly attention on its adverse social equity and justice implications. However, existing research largely focuses on outcomes and less on justice in the planning processes. In this paper, we aim to analyse process justice in the planning of Kai Tak station TOD as a case to gain insights into the planning of TOD in Hong Kong. Guided by an analytical framework we developed for analysing justice in TOD, we examined stakeholders’ interaction and dynamics in its planning process mainly through the lens of Rules-in-Use under the Institution Assessment and Development (IAD) model. Through this, we found four key issues in the planning process of Kai Tak station development: (i) dominance and unilateral nature of government actors, (ii) imbalances between ‘transit’ and ‘housing development’ stakeholders, (iii) different (and often opposing) sets of Rules-in-Use observed by the formal project team and external stakeholders, and (iv) inconsistency and ambiguity in many of the Rules-in-Use. On this basis, we put forth some recommendations with a view to providing policymakers with insights to implement TOD more justly in Hong Kong’s future.",
+      "keywords": [
+        "Process (computing)",
+        "Transit-oriented development",
+        "Transit (satellite)",
+        "Development (topology)",
+        "Economic Justice",
+        "Process management",
+        "Business",
+        "Transport engineering",
+        "Political science",
+        "Engineering",
+        "Computer science",
+        "Public transport",
+        "Law"
       ]
     }
   ]
