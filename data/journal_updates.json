@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:44:34.822883+00:00",
+  "generated_at": "2026-08-09T21:46:21.709642+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115604",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115604",
-      "title": "A weakly supervised, wetness-based dynamic framework for wetland delineation across globally distributed sites",
+      "doi": "10.1016/j.rse.2026.115612",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115612",
+      "title": "A robust method for high-resolution C/S-band SAR image matching via pseudo-modality generation and coupled spectrum-spatial learning",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,32 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003743",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003822",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115604",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115604",
+      "title": "A weakly supervised, wetness-based dynamic framework for wetland delineation across globally distributed sites",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-08",
+      "published_date_display": "2026-08-08",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003743",
+      "abstract": "",
+      "keywords": [
+        "Wetland",
+        "Hydrology (agriculture)",
+        "Remote sensing application",
+        "Thematic Mapper",
+        "Scale (ratio)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.028",
@@ -123,7 +146,7 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003771",
-      "abstract": "",
+      "abstract": "Remote sensing change captioning (RS-CC) aims to describe changes between bi-temporal remote sensing images in natural language. Existing methods commonly encode visual changes into a single fused difference feature, which may limit the utilization of change information with different extents during caption generation. In addition, conventional n -gram-based metrics are insensitive to mismatches in spatial scale and change extent. To address these issues, a Hierarchical and Complementary Feature Embedding Network (HCFNet) is proposed. Specifically, the Change-Cognitive Visual Parser (CCVP) extracts branch-specific change embeddings from the fused difference feature through parallel aggregation with different spatial preferences. Hierarchical Cognition Mining Loss (HCMLoss) utilizes the change intensity derived from the change mask to form the Hierarchical Cognitive Vector (HCoV). The Change-Cognitive Language Decoder (CCLD) further incorporates branch-specific HCoV into different decoding layers through multi-stage feature fusion. In addition, the Change-Sensitive Metric (CSM) complements traditional n -gram-based metrics with a change-scene penalty term, thereby improving sensitivity to spatial-scale and change-extent mismatches. Experiments are conducted on three benchmark datasets, LEVIR-CC, WHU-CDC, and SECOND-CC. The results demonstrate that the proposed HCFNet achieves competitive performance, validating the effectiveness of HCoV in remote sensing change captioning. The implementation code and vocabulary of CSM will be publicly available at https://github.com/Hope21maker/HCFNet .",
       "keywords": [
         "Closed captioning",
         "Feature (linguistics)",
@@ -12259,29 +12282,6 @@
         "Function (biology)",
         "Vegetation classification",
         "Land cover"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115364",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115364",
-      "title": "An explainable correction and fusion framework for global bare-earth DTM generation in mountain areas",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-11",
-      "published_date_display": "2026-03-11",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001343",
-      "abstract": "",
-      "keywords": [
-        "Sensor fusion",
-        "Fusion",
-        "Image fusion",
-        "Digital elevation model",
-        "Remote sensing application"
       ]
     },
     {
