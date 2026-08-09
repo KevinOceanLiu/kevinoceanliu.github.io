@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:03:40.945049+00:00",
+  "generated_at": "2026-08-09T23:03:57.752562+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70409",
       "abstract": "Abstract Forests and mesic savannas can both exist under the same climatic conditions across the tropics and subtropics but differ greatly in ecosystem function. Grass fuels are one key difference: flammable grasses promote fire in savanna but are shade intolerant and thus excluded from forest. While fire suppression via shading is widespread in forests, the extent to which shade results from the traits of individual forest trees versus from a high density of trees remains poorly understood. We examined whether individual or ecosystem‐level traits are responsible for excluding shade‐intolerant grasses (and hence fire) in forest understory in southern Africa using a simple mathematical model linking tree traits to ecosystem function via their impact on shade and grass exclusion. To parameterize the model, we used trait data collected along a Leaf Area Index (LAI) gradient spanning across a forest‐savanna mosaic in Hluhluwe‐iMfolozi Park, South Africa. We contrasted two versions of the model, one based on individual tree functional traits and another that also incorporated tree neighbour density and evaluated which model better predicted measured LAI. We found that forest trees had higher crown fill than savanna trees but nonetheless found that a single forest tree would not produce sufficient shade to exclude grass. However, our model also predicted that a dense collection of savanna trees would not shade enough to exclude grasses. Thus, we conclude that grass (and fire) exclusion from forests at the African forest‐savanna ecotone is a combination of individual and ecosystem‐level function. Synthesis . This work highlights the importance of both individual‐ and community‐level traits when considering savanna and forest biome function, with implications for biome responses to global change. For example, woody encroachment into savannas without colonization by fire‐suppressing trees may not exclude fires, nor would forest degradation without colonization by savanna trees result in forest transition to savanna.",
-      "keywords": []
+      "keywords": [
+        "Ecotone",
+        "Understory",
+        "Mosaic",
+        "Tropics",
+        "Crown (dentistry)",
+        "Trait",
+        "Shading",
+        "Ecosystem",
+        "Fire regime",
+        "Shade tolerance"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70415",
@@ -69,7 +80,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70415",
       "abstract": "Abstract Resilience is crucial to maintaining the structure and functions of forest ecosystems to cope with increasing disturbances, yet its complexity often hinders the development of effective management strategies to confront rapid environmental changes. Specifically, there is limited knowledge about the factors affecting resilience and related processes, such as resistance and recovery, and their synergies or trade‐offs. Using network modularity analysis on data from 316 studies on forests around the world, we built networks to explore how manageable predictors and unmanageable contextual factors influence resistance, recovery and resilience of forest attributes (i.e. system variables). Conservation of biodiversity and implementation of forest management strategies emerged as key drivers associated with increased resistance, recovery and resilience, despite inherent trade‐offs. This pattern was observed across all biomes. However, most predictors were not consistently associated with all resilience components. For example, specific management practices, promoting mature forests and higher functional diversity were associated with greater forest resistance and resilience but showed no consistent association with higher recovery. When disaggregating forest management into specific practices, most management types were predominantly associated with higher resistance, recovery and resilience, although cutting and water supply regulation showed prevalent negative associations with recovery. Environmental factors, such as climate, microhabitat characteristics and disturbance regimes, were found to be crucial in shaping forest responses to disturbance. Specifically, drought and fire interacted to modulate the effect of key predictors. Synthesis . Our findings highlight the need to jointly consider resistance, recovery and resilience when conceptualizing or implementing forest management strategies. Our network approach identifies the bundles of manageable predictors most consistently associated with forest resistance and resilience, providing a basis for developing management strategies, while effective strategies to promote post‐disturbance recovery remain more elusive in the available literature.",
-      "keywords": []
+      "keywords": [
+        "Resilience (materials science)",
+        "Resistance (ecology)",
+        "Disturbance (geology)",
+        "Modularity (biology)",
+        "Forest management",
+        "Psychological resilience",
+        "Ecosystem",
+        "Biodiversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70417",
@@ -87,7 +107,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70417",
       "abstract": "Abstract Plant function relies on coordinated investment between photosynthetic tissues and structural support, yet trait‐based frameworks have largely overlooked the petiole—a key integrative organ mediating leaf mechanics and light positioning. Here, we compiled a global dataset of nine petiole and lamina traits from simple‐leaved plants, encompassing up to ~1000 species across broad geographic and climatic gradients, to test three hypotheses: (1) petiole size reflects optimization for structural demands (‘optimal size’); (2) trait scaling encodes environmental constraints on size (‘allometric allocation’); and (3) lamina–petiole allometric relationships are associated with canopy light absorption (‘scaling‐coordinated light capture’). We found that petiole mass increases towards low latitudes, while mechanical slenderness and relative mass are elevated at higher latitudes—trends jointly driven by temperature and precipitation. Moreover, the strength of allometric scaling between lamina and petiole traits declines with latitude, indicating reduced structural coupling in low‐energy systems. Importantly, the scaling exponent between lamina and petiole explained additional variation in the fraction of absorbed photosynthetically active radiation beyond broad climatic covariates. Synthesis . Our findings reveal that petiole traits play an important role in linking organ‐level allocation strategies with ecosystem‐level function. Integrating both trait coordination and growth scaling into plant functional frameworks is essential for predicting ecological responses under global environmental change.",
-      "keywords": []
+      "keywords": [
+        "Petiole (insect anatomy)",
+        "Allometry",
+        "Photosynthetically active radiation",
+        "Canopy",
+        "Scaling",
+        "Trait",
+        "Absorptance",
+        "Lamina",
+        "Photosynthesis"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70418",
@@ -105,7 +135,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70418",
       "abstract": "Abstract Climate change is altering plant population dynamics by increasing drought frequency and intensity in many regions. The climatic niche (i.e. the range of climatic conditions under which a species persists) offers a powerful framework to link the effects of climate on population performance with species‐specific tolerances. However, how the population's position within its species' climatic niche influences population fitness remains poorly understood. We investigated demographic responses to climatic niche position in two Mediterranean shrubs, Halimium halimifolium and Lavandula stoecha s, following an extreme drought in Doñana National Park (SW Spain). Using individual demographic data from 2019 to 2022, we modelled survival, growth and reproduction as functions of distance to each species' climatic niche centroid and of drought‐induced vegetation die‐off. We then integrated these vital rates into integral projection models (IPMs) to assess population growth. We found that proximity to the niche centroid increased population growth, especially for H. halimifolium . In contrast, L. stoechas exhibited a more complex pattern, with population growth peaking near the niche centroid but remaining high farther away. These patterns were driven mainly by increased recruitment near the niche centroid, together with reduced seedling survival, suggesting demographic compensation. In both species, small shifts in niche position within the observed range led to substantial demographic changes. Importantly, vegetation die‐off further modulated demographic responses to niche position. Population growth in H. halimifolium was highest at moderate die‐off, likely balancing facilitation and competition. In contrast, L. stoechas reached its highest population growth under high die‐off, possibly due to competitive release. Perturbation analysis pointed out that changes in population growth in L. stoechas were driven mainly by the influence of niche position on early life‐stage processes, especially recruitment and seedling survival, whereas in H. halimifolium they were mainly influenced by adult survival and growth responses to niche position. Synthesis. Our results show that population fitness is shaped by climatic niche position, with higher fitness generally closer to their niche centroid. Niche metrics capture species‐specific climatic tolerances and requirements; by incorporating them into demographic models, we can better assess population responses to climatic variability across species and ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Niche",
+        "Population",
+        "Mediterranean climate",
+        "Climate change",
+        "Range (aeronautics)",
+        "Ecological niche",
+        "Population growth",
+        "Vital rates"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70422",
@@ -123,7 +162,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70422",
       "abstract": "Abstract It has been hypothesized that fine‐scale climatic heterogeneity of above‐treeline landscapes may enable alpine plant species to persist in nearby cold microrefugia when climate warms. However, temperature is not the only driver of species distributions in alpine environments. To what extent additional drivers constrain the suitability of potential microrefugia for high‐mountain plant species has not yet been evaluated. We assessed if vascular plant assemblages occur in outposts below their optimal elevation due to specific temperature or substrate conditions. We therefore combined 824 species composition samples distributed across 5 km 2 of above‐treeline terrain with fine‐scale environmental proxies by means of a generalized dissimilarity model (GDM) and used this GDM to predict the potential low‐elevation occurrence of species combinations that are characteristic of higher elevations in the study landscape. To quantify the relative impact of temperature and soil carbon content on the incidence of these low‐elevation vegetation outposts, we subsequently compared these projections to interpolated maps of low‐elevation occurrence of temperature and soil conditions that are characteristic of higher elevations. In the GDM, temperature was the strongest driver of species composition, followed by soil carbon content. The GDMs projected that approximately 33% of the current alpine landscape potentially carry low‐elevation outposts of higher‐elevation vegetation. However, of this large area about 30% was characterized by outposts of low‐soil carbon content, mostly scree and rock faces, 2.9% by a combination of low‐carbon content and cold temperature, and only 0.1% exclusively by outposts of cold temperature. Vice versa, about 2.1% of the landscape exhibited unusually cold temperature, but were not projected to carry low‐elevation outposts of higher‐elevation vegetation. Synthesis . In the current landscape, the potential occurrence of plant assemblages at unusually low elevations is concentrated in areas with particular soil conditions. Sites with unusually cold temperatures for their elevation are much rarer, and a significant share of them has soil properties that many species of the current alpine flora are unlikely to tolerate. Our findings therefore suggest that the rescue effect of cold microrefugia for alpine plants in a warming world will be limited and that edaphic factors deserve more attention alongside temperature when assessing microrefugia suitability.",
-      "keywords": []
+      "keywords": [
+        "Vegetation (pathology)",
+        "Terrain",
+        "Climate change",
+        "Elevation (ballistics)",
+        "Habitat",
+        "Species richness",
+        "Carbon fibers",
+        "Substrate (aquarium)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70512",
@@ -141,7 +189,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70512",
       "abstract": "Abstract Forest harvesting has a major impact on fungal diversity, but the subsequent successional dynamics of soil fungi and their links to organic matter dynamics below‐ground remain uncertain. Release of saprotrophic fungi from ectomycorrhizal fungal competition after clear‐cutting could stimulate decomposition, leading to accelerated loss of organic matter (a Gadgil effect). On the other hand, clear‐cutting could select against ectomycorrhizal fungi with decomposer capacity, hindering mobilization of organic nutrient stocks. If so, tree retention strategies may buffer such effects on fungal communities and organic matter turnover. We evaluated fungal communities in a low‐productive, old‐growth pine forest in northern Sweden that was harvested with different levels of tree retention. Previously, the experiment was investigated 3 years after harvesting. Here, we returned 12 years after harvesting, using long‐read sequencing to assess taxonomic and phylogenetic diversity of fungal communities. We also estimated carbon and nitrogen stocks in the organic soil layer, as well as fungal biomass by PLFA analyses. Community assembly transitioned from largely stochastic processes 3 years post‐harvest toward more deterministic environmental filtering over the following decade, with higher harvesting levels driving increasingly distinct ectomycorrhizal fungal communities. Specifically, certain Cortinarius species were particularly sensitive to tree harvesting, while for example Piloderma cinicola increased in relative abundance at lower retention levels. Carbon and nitrogen stocks in the organic layer declined at higher harvesting levels, consistent with increased organic matter turnover, although we found no evidence for increased biomass of saprotrophic fungi 12 years after harvest. In this nutrient‐limited system, an initial post‐harvest phase with rapid decomposition, consistent with a Gadgil effect, may have led to the loss of organic stocks, with the released nitrogen rapidly taken up by ground vegetation and remaining trees. Tree retention strategies lessened such harvesting impacts on both fungal communities and below‐ground carbon and nutrient dynamics during the first decade after harvest. By maintaining ectomycorrhizal fungal communities, moderate retention levels hindered losses of organic matter stocks and sustained carbon sequestration capacity compared to clear‐cuts. Read the free Plain Language Summary for this article on the journal's blog .",
-      "keywords": []
+      "keywords": [
+        "Decomposer",
+        "Organic matter",
+        "Taiga",
+        "Biomass (ecology)",
+        "Nutrient",
+        "Soil organic matter",
+        "Competition (biology)",
+        "Nutrient cycle",
+        "Ecosystem",
+        "Forest floor"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70535",
@@ -159,7 +218,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70535",
       "abstract": "Abstract Forest disturbances are increasing in many parts of the world. To ensure the continuous provisioning of ecosystem services, a rapid recovery of disturbed sites is frequently an important objective of forest management. However, as management interventions are costly and can have unintended ecological consequences, there is an ongoing debate about whether active post‐disturbance management is necessary to support forest recovery and shape the reorganization of forest ecosystems. Studying forests after the largest disturbance event observed in Central Europe in the past 170 years, caused mainly by drought and subsequent bark beetle outbreaks, we quantified the effect of different post‐disturbance management activities on regeneration outcomes. In 2023, we surveyed 868 plots situated in disturbance hotspot areas across 11 countries to assess the prevalence of different post‐disturbance management activities and evaluate their effects on forest regeneration 3–5 years after disturbance. We found signs of active post‐disturbance management on 93.9% of all surveyed plots. Regeneration cover, sapling density, tree species richness and early‐seral species increased when a combination of management measures—salvage logging followed by tree planting and protection against ungulate browsing—was applied. In contrast, salvage logging alone did not have strong effects on regeneration except shifting species composition towards early‐seral stages. Tree height of post‐disturbance regeneration was not influenced by management. Synthesis and applications . Active management significantly enhanced post‐disturbance tree regeneration in Central European disturbance hotspots. We found that the widespread recuperation of timber value by salvage logging had no detrimental effects on tree regeneration and subsequent stand development. Tree planting and browsing protection reduced the share of Norway spruce—a species increasingly maladapted under climate change—and increased tree species diversity, indicating active climate adaptation in Central European forestry. We conclude that carefully managing the short window of reorganization after disturbance provides high leverage for shaping the future of forests in Central Europe.",
-      "keywords": []
+      "keywords": [
+        "Salvage logging",
+        "Logging",
+        "Regeneration (biology)",
+        "Forest management",
+        "Disturbance (geology)",
+        "Species richness",
+        "Forest ecology",
+        "Forest restoration",
+        "Silviculture",
+        "Forest dynamics"
+      ]
     },
     {
       "doi": "10.1111/gcb.71039",
@@ -177,7 +247,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71039",
       "abstract": "ABSTRACT Pollinators are declining globally due to anthropogenic pressures, such as intensive grazing and nutrient enrichment. Yet, their combined effects on pollinators and plant‐pollinator interactions remain poorly understood, particularly in the Arctic. Here, we experimentally tested how grazing exclusion and nutrient addition shape flower‐visiting insect communities and interaction networks in a high‐productivity montane and a low‐productivity tundra grassland, in northern Fennoscandia. Grazing exclusion emerged as the primary driver across both grasslands, increasing flower‐visitor family richness, diversity, and the number of plant‐pollinator interactions. These effects were especially strong in the tundra grassland, where resource limitation is more pronounced. In contrast, nutrient addition had weaker and more context‐dependent effects, enhancing flower‐visitor richness and the number of interactions mainly in the tundra grassland and particularly when combined with grazing exclusion. At both sites, grazing exclusion and nutrient addition altered community composition, with the strongest shifts occurring under their combined effects. Despite large effects on interaction numbers, network structure responded more subtly. Weighted connectance declined with grazing exclusion, especially in the tundra, indicating that interactions became more concentrated on a subset of plant species where floral resources were abundant. In contrast, network specialization (H 2 ’) and nestedness showed limited responses to experimental treatments, suggesting relatively stable interaction organization. Overall, our results demonstrate that grazing strongly regulates pollinator communities and interaction networks in Arctic grasslands, while nutrient enrichment plays a secondary, context‐dependent role. The pronounced sensitivity of tundra grasslands highlights their vulnerability to environmental change and underscores the importance of managing grazing pressure to sustain pollination processes in Arctic ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Tundra",
+        "Grazing",
+        "Nestedness",
+        "Grazing pressure",
+        "Nutrient",
+        "Pollinator",
+        "Species richness",
+        "Grassland"
+      ]
     },
     {
       "doi": "10.1111/gcb.71037",
@@ -195,7 +274,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71037",
       "abstract": "ABSTRACT Mineral‐associated organic matter (MAOM) in soils constitutes the largest terrestrial carbon pool and the primary reservoir of soil nitrogen. Mineral protection, by encapsulating and binding organic matter to restrict microbial accessibility, is expected to buffer MAOM against decomposition and reduce its sensitivity to global changes. Yet this assumed stability is increasingly questioned by empirical observations. Increasing evidence indicates that MAOM comprises a multi‐pool continuum, with a substantial fraction rapidly cycling and some fraction being sensitive to biotic or abiotic perturbations under global changes. This review synthesizes current knowledge on how global change factors may alter MAOM dynamics, including MAOM formation and destabilization, as well as the implications of altered MAOM dynamics for soil carbon persistence. We highlight future research directions and propose strategies to balance the stabilization of slow‐cycling MAOM and the maintenance of a viable fast‐cycling MAOM pool to support nutrient cycling and plant productivity. Advancing this knowledge requires recognizing MAOM dynamics in soil management and developing mechanistic frameworks that integrate rhizosphere interactions, alongside biological and mineral controls, to better predict MAOM variations under global changes.",
-      "keywords": []
+      "keywords": [
+        "Global change",
+        "Soil carbon",
+        "Carbon cycle",
+        "Rhizosphere",
+        "Soil organic matter",
+        "Cycling",
+        "Abiotic component",
+        "Organic matter"
+      ]
     },
     {
       "doi": "10.1111/gcb.71028",
@@ -213,7 +301,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71028",
       "abstract": "ABSTRACT Increasingly variable and extreme weather can push organisms beyond their physiological thermal or hydric tolerances and limit where they can persist, affecting their geographic distributions and biodiversity patterns. For example, organisms often live near their physiological limits at range edges and may be unable to persist in these regions under variable and extreme conditions. However, it remains unclear how climatic variability and extreme weather define continental‐scale species distributions and biodiversity patterns. Here we link hundreds of millions of citizen science bird observations from 2004 to 2024 to high‐resolution maps of within‐year climatic variability and extreme weather risk, exploring how these factors define both summer and winter distributions and biodiversity patterns for 535 North American species across 2901 individual models. We find that species distribution models accounting for climatic variability or extreme weather risk performed better than others at predicting richness and individual species presences across 220 well‐surveyed sites. Such models predicted narrower geographic distributions than models relying on only climatic means, especially at the range edges, resulting in species' ranges that were truncated on average by 6% in summer and 10% in winter when climatic variability and extreme weather variables were included. These effects were observed in both seasons but were particularly strong in winter, a time with greater short‐term weather variability than summer. Richness estimates were substantially lower when climatic variability or extreme weather were accounted for, especially in the US southwest and central plains (up to 35 fewer species), regions highly prone to extreme heat, cold, and drought. Our results suggest that more mechanistically informed biodiversity predictions that account for climatic variability and extreme weather are critical for reliably predicting distributional and biodiversity patterns.",
-      "keywords": []
+      "keywords": [
+        "Extreme weather",
+        "Biodiversity",
+        "Range (aeronautics)",
+        "Species richness",
+        "Extreme value theory",
+        "Climate change",
+        "Spatial variability",
+        "Hydric soil"
+      ]
     },
     {
       "doi": "10.1111/gcb.71034",
@@ -231,7 +328,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71034",
       "abstract": "ABSTRACT Climate change poses significant threats to biodiversity, altering species survival and interactions within diverse ecological networks. In this systematic review, we synthesized current knowledge on climate change impacts on arboreal mammals and identified gaps, biases, and future opportunities in research. Following PRISMA guidelines, we identified 142 studies spanning 33 countries. We identified significant phylogenetic and geographic gaps in knowledge, revealing that large proportions of taxa remain unstudied or under‐represented. Australia and South America were the most frequently studied countries; however, considering the high diversity of arboreal mammals in these regions, this research focus remains inadequate. The koala and greater glider were major focal animals of climate change studies. The order Diprotodontia was the most studied (46%), followed by Primates (23%). Conversely, studies focusing on the orders Chiroptera , Pilosa , and Microbiotheria , as well as research conducted in Africa and Europe, were noticeably underrepresented. Extreme temperature was found to be the main driver behind many negative impacts on arboreal mammals. Meta‐analysis revealed that several arboreal mammal families are projected to experience significant future range contractions, particularly Pseudocheiridae, Cercopithecidae , and Tarsiidae . Conservation practitioners should target areas that ensure both climatic and ecological suitability for species survival in future climate scenarios, prioritising highly vulnerable species. Current research highlights the critical need for habitat protection, restoration, and management, identification of climate and thermal refugia, and conducting more species‐specific research. Future research should focus on expanding to underrepresented taxa and regions, conducting more longitudinal studies in well‐studied taxa and regions, investigating multiple climate drivers, and considering multiple species where appropriate, to enhance our understanding of climate change impacts on arboreal mammals.",
-      "keywords": []
+      "keywords": [
+        "Arboreal locomotion",
+        "Climate change",
+        "Habitat",
+        "Taxon",
+        "Range (aeronautics)",
+        "Biodiversity",
+        "Mammal"
+      ]
     },
     {
       "doi": "10.1086/742256",
