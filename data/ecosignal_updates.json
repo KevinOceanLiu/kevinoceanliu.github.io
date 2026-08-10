@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:03:57.752562+00:00",
+  "generated_at": "2026-08-10T23:16:50.242148+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,114 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1111/1365-2664.70543",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70543",
+      "title": "Precipitation context reshapes the effects of global change factor number on grassland functioning via plant and nematode diversity",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70543",
+      "abstract": "Abstract The number of co‐occurring global change factors (GCFs) is increasing, yet their combined effects on grassland functioning via plant–soil biotic interactions remain poorly understood, especially under contrasting precipitation contexts. Using a long‐term multifactor experiment in the semi‐arid steppe of Inner Mongolia, we established a gradient in GCF number (0–3) through nitrogen addition, phosphorus addition and soil acidification. By integrating plant diversity with the taxonomic, functional and metabolic dimensions of nematode communities, we evaluated their effects on above‐ground net primary productivity (ANPP) and below‐ground ecosystem multifunctionality (BEMF) and tested whether these relationships were reorganized under contrasting precipitation years. Increasing GCF number consistently reduced plant and nematode diversity, simplified nematode food‐web structure and suppressed nematode metabolic activity. ANPP increased with GCF number only in the wet year, whereas BEMF declined in both years. ANPP was primarily and positively associated with nematode metabolic footprints, whereas BEMF was jointly regulated by plant diversity and nematode metabolic footprints. Importantly, these pathways shifted with precipitation context. In the normal year, plant diversity and nematode metabolic footprints jointly sustained both ANPP and BEMF. In the wet year, a functional divergence emerged: above‐ground processes benefited from nutrient inputs, increasing ANPP, whereas below‐ground processes experienced cumulative stress from multiple GCFs, suppressing nematode metabolic footprints and reducing BEMF. Synthesis and applications . Our findings demonstrate that the number of co‐occurring GCFs is a critical but underappreciated dimension of global change, and its ecological consequences depend strongly on precipitation context. Grassland management should consider cumulative nutrient and acidification pressures, maintain plant diversity and use nematode metabolic footprints as indicators of below‐ground functional change. Incorporating soil faunal functional traits into global change assessment frameworks is therefore essential for understanding and sustaining ecosystem multifunctionality under future environmental change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70532",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70532",
+      "title": "Evaluating integrated pest management effects on seasonal wetland plant communities",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70532",
+      "abstract": "Abstract Introduction of invasive plant species has devastated many ecosystems worldwide and led to biodiversity declines. In seasonal wetlands, invasive plants alter community composition, destabilize hydro‐regimes and prevent native species establishment. While there are currently many management approaches, plant functional groups respond differently to each based on phenology and taxonomy. Research has shown that single approaches will not control multi‐species invasions, which is a common occurrence in Mediterranean seasonal wetlands and grasslands. Integrated pest management (IPM) focuses on sustainable land management practices to limit diverse invasive species using a combination of different approaches. Implementing an IPM approach, this study tested whether combinations of herbicide and mowing, with fall grazing, affected native and invasive plant community composition, cover and richness. We assessed this over 2 years at the Yolo Bypass Wildlife Area, California, USA. We found that treatments with two or more combined IPM approaches decreased invasive plant cover and richness and promoted a native plant dominated community. However, treatment effects for invasive plant richness and cover did not carry over into the second year and invasive plants re‐established. These results suggest that an IPM approach can greatly reduce invasive cover; however, annual management is needed to sustain native communities. Synthesis and applications : Our results show that annual invasive plant management is needed to recover and promote native communities. The timing and seasonality of treatment application is also important in determining management success. While fall grazing is conducted annually, this site greatly benefited from the implementation of IPM in the spring to capture plants at vulnerable phenological stages. Using two additional methods (i.e. herbicide and mowing), multiple functional groups were targeted to prevent secondary invasions. These findings provide insight into how management priorities should shift to focus on the depletion of invasive seed banks and prevent reestablishment in areas with multi‐species invasions to promote native plant establishment.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71030",
+      "doi_url": "https://doi.org/10.1111/gcb.71030",
+      "title": "Oxygen Deprivation Implicated in Rapid Coral Mortality Under Acute Heating Events",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71030",
+      "abstract": "ABSTRACT While coral bleaching is a well‐known consequence of marine heatwaves, rapid coral mortality via tissue disintegration is an understudied threat; one that precludes any chance of recovery. We show that tissue disintegration can occur within hours to days of acute heat stress, marking a critical survival threshold. Micro‐scale oxygen measurements indicate rapid deoxygenation of coral tissue immediately preceding tissue disintegration. We hypothesise that the simultaneous impairment of photosynthetic oxygen supply and increased holobiont oxygen demand overwhelm a coral's ability to maintain basal metabolic functions. Theoretical oxygen flux calculations support this, suggesting that passive diffusion alone is insufficient to meet metabolic demand under these conditions. These findings highlight intrinsic oxygen deprivation as a potential mechanism for rapid coral mortality and suggest a new, more immediate thermal limit for corals, urging further investigation into the thermal conditions and mechanisms that trigger this response.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71045",
+      "doi_url": "https://doi.org/10.1111/gcb.71045",
+      "title": "National Evidence of Depth‐Dependent Stabilization and Controls of Soil Organic Carbon in Dryland Croplands",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71045",
+      "abstract": "ABSTRACT Soil organic carbon (SOC) underpins agricultural sustainability and the terrestrial carbon cycle, yet its vertical distribution and stabilization across soil depth remain poorly constrained at large spatial scales. Here, we present a nationwide, depth‐resolved dataset of SOC and mineral‐associated organic carbon (MAOC)—the more persistent SOC fraction—from 365 dryland cropland sites across China, sampled to 2 m depth. Contrary to the classic model of exponential SOC decline, 46% of profiles exhibited uniform or increasing SOC and MAOC with depth, highlighting a substantial role of subsoil carbon. MAOC accounted for more than half of total SOC in most layers, but its relative contribution declined below 1 m, challenging the assumption that subsoil carbon is inherently more stable. Clay + silt content was the strongest predictor for SOC, MAOC, and MAOC/SOC across depths, while vegetation productivity, a proxy for carbon inputs, was positively associated with all three. The influence of clay + silt on MAOC accumulation weakened with depth, and the positive interaction between vegetation productivity and clay + silt weakened or diminished from surface soils to deeper layers. These patterns indicate a transition from joint regulation by carbon inputs and mineral surfaces in surface soils toward an increasingly input‐limited regime in deeper layers, as inferred from the depth‐dependent changes in the relative importance of vegetation productivity and fine particle content. National mapping estimated ~19.9 Pg SOC stored within the 0–2 m layer in China's dryland croplands, with 75% below 0.3 m and 60% stabilized as MAOC. These results provide a benchmark for depth‐explicit SOC accounting and highlight the importance of aligning carbon inputs with soil mineralogy to enhance whole‐profile carbon stabilization and climate mitigation.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71017",
+      "doi_url": "https://doi.org/10.1111/gcb.71017",
+      "title": "<scp> <i>Aedes albopictus</i> </scp> and Dengue Transmission Risk in France Over the 21st Century",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71017",
+      "abstract": "ABSTRACT Climate change is dramatically affecting species distribution and phenology worldwide. Its impact on arthropod vectors, such as the Aedes albopictus mosquito, has important consequences for biting nuisance and arbovirus transmission risk. Here, we assess the impact of climate change on the presence and abundance of Ae. albopictus , as well as the risk of dengue transmission over France during the 21st century. We use a mechanistic model that we adjusted against records of recent autochthonous cases of dengue in France. We simulate climatic suitability indicators for mosquito establishment, the duration of the epidemic risk and secondary cases of dengue under different climatic and demographic scenarios at different periods up to 2085. Future simulations are based on a high‐pressure scenario (high greenhouse gas emissions, high demographic growth) and a median‐pressure scenario (median greenhouse gas emissions, demographic stagnation). To account for climate model uncertainty, we repeat the simulations for three different regional climate models. By 2085, in the high‐pressure scenario, most of France (89%–96%) will be climatically suitable for the establishment of Ae. albopictus , except for mountain ranges. Similarly, autochthonous transmission of dengue will be theoretically possible in all colonized areas except over northern lowlands (71%–95%). In the median pressure scenario, both climatic suitability for establishment (49%–89%) and autochthonous dengue transmission risk (31%–82%) exhibit large variation. Low population density areas show moderate suitability for vector establishment but exhibit the highest potential for dengue transmission. Overwintering mechanisms, such as egg diapause, indispensable for survival in temperate climates, may not be necessary along the Mediterranean and Basque coasts, allowing activity of the vector all year‐round in the future.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71038",
+      "doi_url": "https://doi.org/10.1111/gcb.71038",
+      "title": "Three Decades of Soil N <sub>2</sub> O Research—Insights and Gaps",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-09",
+      "published_date_display": "2026-08-09",
+      "published_parts": [
+        2026,
+        8,
+        9
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71038",
+      "abstract": "ABSTRACT Nitrous oxide (N 2 O) is a potent greenhouse gas (GHG) whose atmospheric concentration continues to rise, largely driven by nitrogen (N) inputs to agricultural soils. Over the past three decades, research on soil N 2 O emissions has advanced substantially, yet key uncertainties still constrain mitigation efforts. Here, we synthesize developments in measurement techniques, process understanding, microbial ecology, and modelling from the 1990s to the present, and identify critical gaps for future research. Advances in high‐frequency measurements, laser spectroscopy, and isotopic approaches have revealed the importance of temporal “hot moments” and spatial “hotspots,” challenging earlier assumptions based on sparse sampling. Concurrently, molecular and multi‐omic tools have transformed our understanding of the microbial drivers of N 2 O production and consumption, highlighting the role of community composition, truncated pathways, and previously overlooked N 2 O‐producing and reducing organisms. Process‐based models have evolved from research tools into policy‐relevant frameworks underpinning GHG inventories, with emerging integration of data assimilation, ensemble modelling, and artificial intelligence. However, despite these advances, persistent challenges remain in linking scales, reducing uncertainties, and translating mechanistic insights into scalable mitigation strategies. Closing these gaps offers a unique opportunity to translate decades of scientific progress into next‐generation mitigation strategies that align agricultural productivity with climate stabilization goals.",
+      "keywords": []
+    },
     {
       "doi": "10.1111/1365-2745.70409",
       "doi_url": "https://doi.org/10.1111/1365-2745.70409",
@@ -16395,35 +16503,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70866",
-      "doi_url": "https://doi.org/10.1111/gcb.70866",
-      "title": "Adapting Species Risk Assessments to a Changing Climate: The Underestimated Vulnerability of Foundational Trees",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-24",
-      "published_date_display": "2026-04-24",
-      "published_parts": [
-        2026,
-        4,
-        24
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70866",
-      "abstract": "ABSTRACT Climate change is one of the top threats to biodiversity. However, many species risk assessment frameworks, including the globally authoritative International Union for Conservation of Nature Red List, do not consistently and comprehensively incorporate loss of climatically suitable habitat into listing or threat categorization decisions. Using California's foundational, endemic and near‐endemic trees as an exemplary set of high biodiversity and cultural value species ( N = 27), we reviewed and synthesized the literature on species' model‐projected changes in suitable habitat, and on field‐observed spatial and temporal demographic responses to climate change. We demonstrate multiple approaches to using this existing literature to integrate climate threats into species risk assessments, with a focus on the Red List criteria. Over the next century, our focal species are projected to lose between half and three‐quarters of their existing suitable habitat, which would lead to substantial impacts on ecosystem structure and function in forests, woodlands and savannas. Overall, species are more vulnerable than is reflected by their current Red List status. Even under conservative estimates of climate change impacts, two‐thirds of our focal species could now meet the Red List A3 Criterion for Endangered or Critically Endangered status, because of projected loss of climatically suitable habitat (a six‐fold increase). We also found a positive relationship between species' model‐projected risk and observed demographic responses to climate change, indicating that in many cases, projected responses are already evident on the ground. To inform conservation prioritization, we visualized the geographic patterns of species' suitable habitat loss using heatmaps. Our results illustrate the need to revise species risk assessments in light of climate change to better align research and conservation priorities with species' vulnerability. They also highlight the conservation needs of currently widespread but high climate‐risk species, and the regional threats to ecosystem structure and function from foundational species loss.",
-      "keywords": [
-        "Endangered species",
-        "Climate change",
-        "IUCN Red List",
-        "Biodiversity",
-        "Vulnerability (computing)",
-        "Critically endangered",
-        "Habitat",
-        "Habitat destruction",
-        "Woodland",
-        "Threatened species"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2745.70320",
       "doi_url": "https://doi.org/10.1111/1365-2745.70320",
       "title": "Shifts in above‐ and below‐ground trait dissimilarity under competition mediate the future impact of neighbours",
@@ -17332,34 +17411,6 @@
         "Subsistence agriculture",
         "Forest restoration",
         "Land use"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70875",
-      "doi_url": "https://doi.org/10.1111/gcb.70875",
-      "title": "Ecological Divergence Governs Plant Resilience to Compound Salinity–Waterlogging Stress Under Global Change",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-17",
-      "published_date_display": "2026-04-17",
-      "published_parts": [
-        2026,
-        4,
-        17
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70875",
-      "abstract": "ABSTRACT Climate change is intensifying the co‐occurrence of salinity and waterlogging, exposing plants to a compound stress that is difficult to predict from single‐stressor responses. Here, we synthesized evidence from 109 studies encompassing 4597 observations to quantify how plant growth and key physiological modules respond to salinity, waterlogging, and their combination across major ecological groups and crops. Across moderate stress intensities, combined effects were largely consistent with a multiplicative expectation (i.e., the combined effect equals the product of the individual effects), but shifted toward synergistic inhibition once salinity and/or flooding depth exceeded ecological‐group‐specific thresholds. Salinity tolerance was more closely associated with the maintenance of ion homeostasis, whereas waterlogging tolerance was more closely linked to sustaining internal aeration and metabolic function under hypoxia. Ecological strategies diverged sharply: hygrohalophytes maintained 56.5% of control growth under combined stress—significantly outperforming mesophytes (37.4%)—by jointly stabilizing Na + exclusion/K + retention, carbon–energy metabolism, and root aeration. Threshold analyses identified transition points beyond which energy limitation, ionic imbalance, and oxidative damage increasingly reinforced one another, driving a shift toward synergistic inhibition and pronounced performance decline. Because molecular pathways primarily fine‐tune these core physiological modules, our synthesis indicates that near‐term adaptation will depend on actionable management that limits root‐zone salinity and improves aeration/drainage. Integrating evidence from stress‐responsive genes, physiological decision nodes, and field‐relevant interventions, we propose an operational gene–environment–management (G × E × M) framework that couples genetic potential with exposure‐managing agronomy to keep systems below tipping points, thereby securing crop production and preserving biodiversity under accelerating compound climatic extremes.",
-      "keywords": [
-        "Climate change",
-        "Salinity",
-        "Waterlogging (archaeology)",
-        "Psychological resilience",
-        "Adaptability",
-        "Global warming",
-        "Adaptation (eye)",
-        "Global change",
-        "Biodiversity"
       ]
     },
     {
@@ -19594,33 +19645,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70831",
-      "doi_url": "https://doi.org/10.1111/gcb.70831",
-      "title": "Respiration‐Induced Weakening of Land Sink Contributed to the Largest <scp> CO <sub>2</sub> </scp> Increase in 2024",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        4,
-        1
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70831",
-      "abstract": "ABSTRACT In 2024, the global annual growth rate of atmospheric CO 2 (CGR) surged to a record of 3.73 ppm year −1 —the highest since 1959—exceeding the 1.5°C climate threshold for the first time. However, the drivers behind this unprecedented rise remain poorly understood. Here, we employed a machine‐learning approach integrating satellite‐derived gross primary productivity (GPP) and climatic data to estimate the 2024 land sink (S LAND ) at approximately 2.21 ± 0.25 GtC year −1 , which had a striking decline of 1.01 GtC year −1 compared to the 2014–2023 average. The reduction in S LAND , most pronounced in tropical regions, contributed ~50% to the 2024 CGR increase—a larger impact than that of fossil fuel emissions or ocean sinks. Moreover, using partial least squares structural equation modelling, we further explained the underlying mechanism for the reduction of the S LAND in 2024, which was caused by hotter and drier conditions leading to a larger increase in respiration than photosynthesis. Our findings underscore the urgent need to investigate the mechanisms behind the declining carbon sink amid persistent global greening. These results challenge previous assumptions about the long‐term stability of the terrestrial carbon sink and highlight society's growing dependence on adaptive strategies to mitigate climate warming.",
-      "keywords": [
-        "Carbon sink",
-        "Sink (geography)",
-        "Climate change",
-        "Carbon cycle",
-        "Greenhouse gas",
-        "Fossil fuel",
-        "Primary production",
-        "Global warming"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70825",
       "doi_url": "https://doi.org/10.1111/gcb.70825",
       "title": "Global Potential and Trade‐Offs of Conservation Tillage for Crop Productivity and Ecosystem Services",
@@ -19833,34 +19857,6 @@
         "Biodiversity hotspot",
         "Hotspot (geology)",
         "Phylogenetic tree"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70832",
-      "doi_url": "https://doi.org/10.1111/gcb.70832",
-      "title": "Global Warming Amplifies Nitrogen Over Phosphorus Limitation in Aquatic Ecosystems: A Multi‐Trophic Meta‐Analysis",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-03-31",
-      "published_date_display": "2026-03-31",
-      "published_parts": [
-        2026,
-        3,
-        31
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70832",
-      "abstract": "ABSTRACT Nitrogen (N) and phosphorus (P) availability fundamentally regulate the structure and function of aquatic ecosystems. While global‐scale patterns of relative nutrient limitation have been increasingly documented, their responses to climate warming remain poorly quantified. To address this, we integrated a global meta‐analysis of nutrient enrichment experiments (spanning 510 sites and multiple trophic levels) with large‐scale datasets of water chemistry from 3403 lakes and 13,032 marine sites. Meta‐analysis showed that primary producers have the strongest responses to nutrient enrichment, especially NP co‐addition, with effects attenuating at higher trophic levels. Increasing temperature amplifies the response of primary producers to nutrient enrichment, but not for consumers, indicating that warming disrupts energy flow to higher trophic levels. Furthermore, relative N limitation of primary producers intensifies with increasing temperature and decreasing latitude in both freshwater and marine ecosystems. Global field observation of water chemistry supports such a pattern as water N:P mass ratios decrease with increasing temperature across lake and marine ecosystems. Our findings provide robust empirical evidence that the relative nutrient limitation of primary producers exhibits a strong latitudinal gradient and climate warming could fundamentally enhance nitrogen over phosphorus limitation in aquatic ecosystems, which have critical implications for ecosystem functioning and management in a warmer world.",
-      "keywords": [
-        "Trophic level",
-        "Nutrient",
-        "Primary producers",
-        "Global warming",
-        "Ecosystem",
-        "Phosphorus",
-        "Aquatic ecosystem",
-        "Climate change",
-        "Effects of global warming on oceans"
       ]
     },
     {
@@ -20987,62 +20983,6 @@
         "Species richness",
         "Species diversity",
         "Relative species abundance"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70341",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70341",
-      "title": "The global impact of land reclamation on arbuscular mycorrhizal fungi depends on climate, vegetation type and agricultural management practices",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        3,
-        18
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70341",
-      "abstract": "Abstract Growing populations and food demand have driven cropland expansion, but this has resulted in a decline in soil quality and posed major threats to global biodiversity. Arbuscular mycorrhizal (AM) fungi form symbiotic associations with most terrestrial plants, enhancing the adaptive capacity of these plants in adverse environments and playing a crucial role in maintaining soil health. However, the global impact of land reclamation on AM fungi and its driving factors remains unclear, creating a critical knowledge gap for sustainable land use. Based on 501 paired observations from 94 publications, we conducted a global meta‐analysis to explore the impacts of land reclamation on AM fungi and the roles of climate, vegetation types and agricultural management practices in this process. Land reclamation significantly reduced the AM fungal spore density (−50.98%), richness (−23.86%) and diversity (−8.41%). Compared with forest reclamation, grassland reclamation has a greater negative impact on AM fungi. Forest reclamation has a greater negative impact on AM fungi in areas with a mean annual precipitation of 1000–1500 mm and a mean annual temperature (MAT) >20°C. Grassland reclamation has a greater negative impact on AM fungi in areas with MAT <8°C. In addition, we found that in reclaimed cropland, crop rotation, no tillage and organic fertilizer application effectively alleviated the negative impact of land reclamation on AM fungi spore density and species richness. Although the increase of soil available phosphorus induced by land reclamation reduces AM fungal spore density and richness, climate factors have a higher explanatory power for AM fungal variation. Synthesis and applications . The present results suggest that sustainable land management strategies should consider the effect of local climate and vegetation types on AM fungi to support the development of local land use related policies. In addition, the use of beneficial management practices is crucial for protecting underground biodiversity and maintaining soil health. These findings highlight the influence of global land use changes on underground microbial function and diversity and provide valuable insights for sustainable land management practices for biodiversity conservation and ecosystem health maintenance.",
-      "keywords": [
-        "Land reclamation",
-        "Vegetation (pathology)",
-        "Tillage",
-        "Grassland",
-        "Agriculture",
-        "Soil quality",
-        "Land use",
-        "Species richness",
-        "Agricultural land"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70331",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70331",
-      "title": "Interactive effects of stand age and seasonal litter and soil nutrient dynamics on rhizosphere microbial C and N use efficiency in <i>Pinus massoniana</i> plantations",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-17",
-      "published_date_display": "2026-03-17",
-      "published_parts": [
-        2026,
-        3,
-        17
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70331",
-      "abstract": "Abstract Soil microorganisms are central to soil nutrient cycle by mediating organic matter decomposition and nutrient transformation. However, how changes in their physical and chemical environment across developmental stages of forest plantations accompanied by influence of the metabolic activity and nutrient use efficiency of rhizosphere microbes, and consequently, soil nutrient dynamics, remains poorly understood. We investigated rhizosphere soil microbial carbon and nitrogen use efficiencies (CUE and NUE) in subtropical Pinus massoniana plantations across 5, 9, 19, 29 and 35 years, for both growing and non‐growing seasons. Soil microbial CUE and NUE were consistently higher in the non‐growing season than in the growing season, likely due to higher nitrogen and lower carbon (C) content in litter and total potassium (K) concentration, which altered microbial substrate availability. Across stand development, CUE and NUE followed a pattern of initial increase, subsequent decline and later recovery. During the growing season, changes in CUE were mainly positively influenced by litter N content, whereas in the non‐growing season, CUE was positively associated with rhizosphere soil total K concentration. These shifts in soil CUE and NUE across stand development stages were further linked to changes in enzyme activities, with β‐glucosidase and peroxidase negatively associated with CUE and leucine aminopeptidase positively associated with NUE. Across stand ages, both CUE and NUE followed a non‐linear trajectory, suggesting complex interactions between litter inputs and rhizosphere available nutrient over time. Synthesis and applications . Microbial nutrient processing is strongly shaped by seasonal stoichiometric conditions and enzyme‐mediated substrate decomposition. This highlights the importance of considering seasonal and developmental stage‐specific management to optimize microbial function for improved forest productivity and carbon storage.",
-      "keywords": [
-        "Rhizosphere",
-        "Nutrient",
-        "Litter",
-        "Plant litter",
-        "Soil organic matter",
-        "Growing season",
-        "Nutrient cycle",
-        "Soil fertility",
-        "Nitrogen cycle"
       ]
     },
     {
