@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:46:21.709642+00:00",
+  "generated_at": "2026-08-10T21:56:42.971749+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115612",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115612",
-      "title": "A robust method for high-resolution C/S-band SAR image matching via pseudo-modality generation and coupled spectrum-spatial learning",
+      "doi": "10.1016/j.rse.2026.115608",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115608",
+      "title": "Maximizing the potential of Sentinel-2 satellite observations in mapping Sargassum seaweed in the Wider Caribbean Region",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,106 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003822",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003780",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115602",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115602",
+      "title": "LAPAC: A self-adaptive atmospheric correction method for fine-resolution satellite imagery using pseudo-invariant features from Landsat archive",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600372X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2696352",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2696352",
+      "title": "Spatial CoT: a spatial concept transformation guided LLM reasoning framework for complex geospatial question answering",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2696352",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2714042",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2714042",
+      "title": "Similarity-weighted and geographically weighted regression using a dual-branch neural network architecture",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2714042",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2697984",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2697984",
+      "title": "Informalities in the Global North: A Social and Cultural Reframing of Urban Transport in Newcastle upon Tyne",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2697984",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115612",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115612",
+      "title": "A robust method for high-resolution C/S-band SAR image matching via pseudo-modality generation and coupled spectrum-spatial learning",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-09",
+      "published_date_display": "2026-08-09",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003822",
+      "abstract": "",
+      "keywords": [
+        "Synthetic aperture radar",
+        "Bottleneck",
+        "Speckle pattern",
+        "Speckle noise",
+        "Scattering",
+        "Pattern recognition (psychology)",
+        "Matching (statistics)",
+        "Nonlinear system"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115604",
@@ -11720,30 +11817,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115385",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115385",
-      "title": "Robust hyperspectral reconstruction from satellite and airborne observations via a deep hierarchical fusion network across heterogeneous scenarios",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-25",
-      "published_date_display": "2026-03-25",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001550",
-      "abstract": "",
-      "keywords": [
-        "Hyperspectral imaging",
-        "Satellite",
-        "Fusion",
-        "Sensor fusion",
-        "Satellite imagery",
-        "Artificial neural network"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2645831",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2645831",
       "title": "<i>UniTopRank</i> : a scalable and language-independent method for toponym resolution",
@@ -12348,29 +12421,6 @@
         "Perspective (graphical)",
         "Context (archaeology)",
         "Field (mathematics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115339",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115339",
-      "title": "Photosynthesis, heat, and structure: an evident hierarchy of environmental conditions driving wetland carbon assimilation",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-06",
-      "published_date_display": "2026-03-06",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001094",
-      "abstract": "Wetland ecosystems, crucial for carbon sequestration and coastal hazard mitigation, have experienced tremendous losses in land surface area over the last century, primarily due to land reclamation. This has led to increased rates of land subsidence in regions with high levels of reclamation, causing heightened vulnerability in these areas under anticipated scenarios of climate induced sea-level rise. This study integrates multi-sensor satellite remote sensing (optical, thermal, and active microwave) with spatially explicit eddy covariance flux measurements to model gross primary productivity (GPP) in restored wetlands of California's Sacramento-San Joaquin Delta. GPP is a crucial process in this context, as it impacts the potential for wetlands to act as land carbon sinks and has been shown to reverse land subsidence in restored wetlands of previously reclaimed areas. Still, there remain gaps in understanding how vegetation vigor, wetland composition and structure, and environmental conditions individually and interactively impact carbon assimilation in these ecosystems. This research aims to understand how complementary remotely sensed signals from multiple satellite platforms across the electromagnetic spectrum combine to improve classical, optically based GPP models, while determining the relative importance of certain biotic and abiotic environmental conditions that regulate GPP. Using a Bayesian generalized additive modeling framework, we evaluated how vegetation vigor (NDVI), canopy structure and biomass density (microwave backscatter), and land surface temperature affect wetland GPP at 10-m spatial resolution over a five-year period. Our results reveal a strong hierarchical and complementary influence of these variables, with the highest GPP occurring in warm, well-watered, and densely vegetated conditions. The model explained on average 66% of GPP variability and provides a scalable, open-access framework for assessing carbon fluxes in wetland landscapes. These findings offer valuable insight into planning restoration, monitoring restoration outcomes, carbon accounting, and identifying coastal adaptation strategies for valuable blue carbon ecosystems. • We develop a wetland GPP model using eddy covariance and remote sensing data fusion. • Hierarchy of wetland GPP drivers revealed through remotely sensed observations. • Wetland GPP shows greatest sensitivity to interaction of drivers. • Hierarchical model enables informed upscaling of wetland GPP to landscape level.",
-      "keywords": [
-        "Wetland",
-        "Assimilation (phonology)",
-        "Hierarchy",
-        "Data assimilation",
-        "Carbon fibers"
       ]
     },
     {
