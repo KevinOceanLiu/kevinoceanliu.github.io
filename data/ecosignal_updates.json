@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:16:50.242148+00:00",
+  "generated_at": "2026-08-11T23:22:41.239804+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1086/743557",
+      "doi_url": "https://doi.org/10.1086/743557",
+      "title": "Lingering physiological effects of a high fat diet and infectious disease in mothers have transgenerational implications",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743557",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1086/743559",
+      "doi_url": "https://doi.org/10.1086/743559",
+      "title": "Encounter concentration: Parasite deposition and resource depletion by a competitor increase environmental transmission to a less competent host",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743559",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70421",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70421",
+      "title": "Snow depth shifts greenhouse gas balance during freeze–thaw periods in grasslands",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70421",
+      "abstract": "Abstract Freeze–thaw periods represent transient yet climatically significant episodes of greenhouse gas (GHG) exchange in seasonally frozen ecosystems. Projected changes in winter snowfall are expected to alter the balance among carbon dioxide (CO 2 ), nitrous oxide (N 2 O) and methane (CH 4 ) fluxes, yet these short‐lived non‐growing season pulses remain poorly constrained because winter GHG measurements are technically and logistically challenging, hindering accurate assessment of their aggregate impact on ecosystem climate forcing across environmental gradients. We combined a 1500‐km transect spanning arid to meadow grasslands with a controlled snow manipulation incubation experiment using intact soil cores to disentangle snow depth effects on freeze–thaw‐induced GHG balance and assess their consequences for ecosystem global warming potential (GWP) across ecoregions. Deepened snow increased freeze–thaw GWP primarily through increases in water‐filled pore space (WFPS), which strongly stimulated N 2 O emissions (980%–1589%) while exerting weaker and site‐dependent effects on CO 2 (32%–54%) and CH 4 (25%–100%). As WFPS increased, the relative contribution of N 2 O to total GWP surged from 1.4% to 82.8%, while that of CO 2 decreased from 98.3% to 17.1%. Meanwhile, CH 4 shifted from a weak sink (−0.6%) to a net source (1.7%). This pattern reflected a moisture‐driven trade‐off between CO 2 and N 2 O‐derived contributions to freeze–thaw GWP. Crucially, plant species richness exerted dual control over GHG emissions: it promoted CO 2 emissions through fungal‐mediated increases in enzyme activity, particularly associated with Basidiomycota, while mitigating N 2 O emissions by reducing nitrate (NO 3 − ‐N) availability and arbuscular mycorrhizal fungi‐associated suppression of denitrification. Synthesis : Our findings reveal that snow‐driven changes in soil moisture reactivated a cross‐seasonal plant–fungal legacy that shaped microbial GHG dynamics. Thus, integrating vegetation–microbe linkages alongside winter climate processes is critical to improving the prediction of non‐growing season carbon–nitrogen feedback under climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70419",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70419",
+      "title": "Interannual rainfall variability promotes species coexistence primarily through relative nonlinearity in interaction strength",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70419",
+      "abstract": "Abstract Combating the effects of global change and biodiversity loss requires a deeper understanding of species coexistence across variable environments. Little is known, however, about how drivers of coexistence respond to environmental change. Using a greenhouse competition experiment, we examine how interannual rainfall variation influences competitive dynamics in an old‐field annual plant community in southern China. We parameterize a competition model for eight species to assess coexistence outcomes under constant and variable rainfall conditions, partitioning variation‐independent and variation‐dependent mechanisms of coexistence. We show that species are more likely to coexist under variable rainfall conditions. Of the coexistence mechanisms examined, relative nonlinearity of the interaction strength most strongly promotes coexistence, followed by a lesser positive contribution from relative nonlinearity of the vital rates, while the interaction effect between these nonlinearities tends to destabilize coexistence. Synthesis . Our study provides novel evidence that rainfall variability promotes pairwise species coexistence in a multispecies plant community, driven primarily by the relative nonlinearity in interaction strength. These findings highlight the necessity of incorporating environmental variability into coexistence studies to better predict and manage biodiversity in a changing world.",
+      "keywords": []
+    },
+    {
       "doi": "10.1111/1365-2664.70543",
       "doi_url": "https://doi.org/10.1111/1365-2664.70543",
       "title": "Precipitation context reshapes the effects of global change factor number on grassland functioning via plant and nematode diversity",
@@ -51,6 +123,33 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70543",
       "abstract": "Abstract The number of co‐occurring global change factors (GCFs) is increasing, yet their combined effects on grassland functioning via plant–soil biotic interactions remain poorly understood, especially under contrasting precipitation contexts. Using a long‐term multifactor experiment in the semi‐arid steppe of Inner Mongolia, we established a gradient in GCF number (0–3) through nitrogen addition, phosphorus addition and soil acidification. By integrating plant diversity with the taxonomic, functional and metabolic dimensions of nematode communities, we evaluated their effects on above‐ground net primary productivity (ANPP) and below‐ground ecosystem multifunctionality (BEMF) and tested whether these relationships were reorganized under contrasting precipitation years. Increasing GCF number consistently reduced plant and nematode diversity, simplified nematode food‐web structure and suppressed nematode metabolic activity. ANPP increased with GCF number only in the wet year, whereas BEMF declined in both years. ANPP was primarily and positively associated with nematode metabolic footprints, whereas BEMF was jointly regulated by plant diversity and nematode metabolic footprints. Importantly, these pathways shifted with precipitation context. In the normal year, plant diversity and nematode metabolic footprints jointly sustained both ANPP and BEMF. In the wet year, a functional divergence emerged: above‐ground processes benefited from nutrient inputs, increasing ANPP, whereas below‐ground processes experienced cumulative stress from multiple GCFs, suppressing nematode metabolic footprints and reducing BEMF. Synthesis and applications . Our findings demonstrate that the number of co‐occurring GCFs is a critical but underappreciated dimension of global change, and its ecological consequences depend strongly on precipitation context. Grassland management should consider cumulative nutrient and acidification pressures, maintain plant diversity and use nematode metabolic footprints as indicators of below‐ground functional change. Incorporating soil faunal functional traits into global change assessment frameworks is therefore essential for understanding and sustaining ecosystem multifunctionality under future environmental change.",
+      "keywords": [
+        "Grassland",
+        "Nematode",
+        "Ecosystem",
+        "Context (archaeology)",
+        "Herbivore",
+        "Precipitation",
+        "Primary production",
+        "Steppe"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70538",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70538",
+      "title": "Inter‐row flowering strips enhance pest suppression and improve tree physiological performance in pine nurseries",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70538",
+      "abstract": "Abstract Commercial tree nurseries face intense economic pressure to produce high‐quality, marketable planting stock with minimal pest damage. Because dense monocultures of young saplings are highly susceptible to pest outbreaks, this sector has traditionally relied on synthetic pesticides. Although flowering strips are widely recognised for strengthening conservation biological control in annual cropping systems, their capacity to support sustainable pest regulation and improve crop physiological performance in perennial woody nurseries remains untested. We investigated whether flowering strips enhance biocontrol in a commercial ornamental pine nursery by comparing plots with inter‐row flowering strips to control plots with regularly mown grass. Arthropods were sampled from inter‐rows and pine canopies to assess community‐level patterns consistent with their spillover. Tree vitality was evaluated using complementary indicators of physiological performance and pest impact, including relative chlorophyll content, chlorophyll fluorescence parameters (linear electron flow and non‐photochemical quenching), needle biomass, and herbivore damage. Flowering strips increased natural enemy abundance, particularly spiders, in inter‐rows and canopies. Beta‐diversity revealed stronger habitat separation for herbivores than predators, consistent with selective spillover: predator communities overlapped, whereas herbivores remained distinct, probably reflecting host specificity. Strips were dominated by herb‐layer feeders, likely alternative prey, while canopies hosted pine‐associated sap‐sucking pests. In parallel, adjacent trees showed reduced herbivore damage, greater needle biomass, higher chlorophyll content, enhanced linear electron flow, and lower non‐photochemical quenching. Our study provides evidence that habitat diversification in nurseries can strengthen conservation biological control and contribute to agronomically valuable improvements in crop physiological performance. Synthesis and applications . To reduce reliance on synthetic pesticides and improve planting‐stock quality, nursery managers may consider integrating perennial flowering strips into inter‐rows, particularly under comparable pine nursery conditions. This nature‐based intervention was associated with reduced sap‐sucking pest pressure, probably mediated by increased natural enemy abundance and community patterns consistent with predator spillover. To realise these benefits and avoid strips acting as ecological traps, practitioners should adopt tailored maintenance regimes: retain uncut refugia during mowing and prevent chemical drift into strips if canopy‐targeted pesticides are needed. More broadly, this strategy supports resilient forestry production and aligns nursery operations with growing policy pressure for biodiversity‐friendly practices.",
       "keywords": []
     },
     {
@@ -69,7 +168,18 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70532",
       "abstract": "Abstract Introduction of invasive plant species has devastated many ecosystems worldwide and led to biodiversity declines. In seasonal wetlands, invasive plants alter community composition, destabilize hydro‐regimes and prevent native species establishment. While there are currently many management approaches, plant functional groups respond differently to each based on phenology and taxonomy. Research has shown that single approaches will not control multi‐species invasions, which is a common occurrence in Mediterranean seasonal wetlands and grasslands. Integrated pest management (IPM) focuses on sustainable land management practices to limit diverse invasive species using a combination of different approaches. Implementing an IPM approach, this study tested whether combinations of herbicide and mowing, with fall grazing, affected native and invasive plant community composition, cover and richness. We assessed this over 2 years at the Yolo Bypass Wildlife Area, California, USA. We found that treatments with two or more combined IPM approaches decreased invasive plant cover and richness and promoted a native plant dominated community. However, treatment effects for invasive plant richness and cover did not carry over into the second year and invasive plants re‐established. These results suggest that an IPM approach can greatly reduce invasive cover; however, annual management is needed to sustain native communities. Synthesis and applications : Our results show that annual invasive plant management is needed to recover and promote native communities. The timing and seasonality of treatment application is also important in determining management success. While fall grazing is conducted annually, this site greatly benefited from the implementation of IPM in the spring to capture plants at vulnerable phenological stages. Using two additional methods (i.e. herbicide and mowing), multiple functional groups were targeted to prevent secondary invasions. These findings provide insight into how management priorities should shift to focus on the depletion of invasive seed banks and prevent reestablishment in areas with multi‐species invasions to promote native plant establishment.",
-      "keywords": []
+      "keywords": [
+        "Invasive species",
+        "Species richness",
+        "Native plant",
+        "Plant community",
+        "Integrated pest management",
+        "Wetland",
+        "Introduced species",
+        "Phenology",
+        "Biodiversity",
+        "Grazing"
+      ]
     },
     {
       "doi": "10.1111/gcb.71030",
@@ -87,7 +197,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71030",
       "abstract": "ABSTRACT While coral bleaching is a well‐known consequence of marine heatwaves, rapid coral mortality via tissue disintegration is an understudied threat; one that precludes any chance of recovery. We show that tissue disintegration can occur within hours to days of acute heat stress, marking a critical survival threshold. Micro‐scale oxygen measurements indicate rapid deoxygenation of coral tissue immediately preceding tissue disintegration. We hypothesise that the simultaneous impairment of photosynthetic oxygen supply and increased holobiont oxygen demand overwhelm a coral's ability to maintain basal metabolic functions. Theoretical oxygen flux calculations support this, suggesting that passive diffusion alone is insufficient to meet metabolic demand under these conditions. These findings highlight intrinsic oxygen deprivation as a potential mechanism for rapid coral mortality and suggest a new, more immediate thermal limit for corals, urging further investigation into the thermal conditions and mechanisms that trigger this response.",
-      "keywords": []
+      "keywords": [
+        "Coral",
+        "Oxygen",
+        "Deoxygenation",
+        "Photosynthesis",
+        "Coral bleaching",
+        "Oxygen transport",
+        "Hypoxia (environmental)",
+        "Basal metabolic rate"
+      ]
     },
     {
       "doi": "10.1111/gcb.71045",
@@ -105,6 +224,52 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71045",
       "abstract": "ABSTRACT Soil organic carbon (SOC) underpins agricultural sustainability and the terrestrial carbon cycle, yet its vertical distribution and stabilization across soil depth remain poorly constrained at large spatial scales. Here, we present a nationwide, depth‐resolved dataset of SOC and mineral‐associated organic carbon (MAOC)—the more persistent SOC fraction—from 365 dryland cropland sites across China, sampled to 2 m depth. Contrary to the classic model of exponential SOC decline, 46% of profiles exhibited uniform or increasing SOC and MAOC with depth, highlighting a substantial role of subsoil carbon. MAOC accounted for more than half of total SOC in most layers, but its relative contribution declined below 1 m, challenging the assumption that subsoil carbon is inherently more stable. Clay + silt content was the strongest predictor for SOC, MAOC, and MAOC/SOC across depths, while vegetation productivity, a proxy for carbon inputs, was positively associated with all three. The influence of clay + silt on MAOC accumulation weakened with depth, and the positive interaction between vegetation productivity and clay + silt weakened or diminished from surface soils to deeper layers. These patterns indicate a transition from joint regulation by carbon inputs and mineral surfaces in surface soils toward an increasingly input‐limited regime in deeper layers, as inferred from the depth‐dependent changes in the relative importance of vegetation productivity and fine particle content. National mapping estimated ~19.9 Pg SOC stored within the 0–2 m layer in China's dryland croplands, with 75% below 0.3 m and 60% stabilized as MAOC. These results provide a benchmark for depth‐explicit SOC accounting and highlight the importance of aligning carbon inputs with soil mineralogy to enhance whole‐profile carbon stabilization and climate mitigation.",
+      "keywords": [
+        "Subsoil",
+        "Soil carbon",
+        "Silt",
+        "Soil water",
+        "Vegetation (pathology)",
+        "Total organic carbon",
+        "Topsoil",
+        "Soil organic matter",
+        "Carbon fibers"
+      ]
+    },
+    {
+      "doi": "10.1111/gcb.71042",
+      "doi_url": "https://doi.org/10.1111/gcb.71042",
+      "title": "Denning Phenology Mediates Sea‐Ice Loss Impacts on Early Reproductive Success in Polar Bears",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71042",
+      "abstract": "ABSTRACT Climate change is disrupting myriad biological processes, including the ability of species to synchronize life‐history events with optimal environmental conditions, with potential fitness impacts. Changes in migratory and breeding phenology and their consequences on fitness have been well studied in birds and some mammals. By contrast, changes in the phenology of overwinter sheltering and their influence on fitness have rarely been investigated. Pregnant female polar bears ( Ursus maritimus ) spend the winter fasting in a maternity den where they give birth and nurse their cubs until emergence in early spring. To sustain their fast, females rely on energy stores built primarily through consumption of ice‐associated seals. Here, we assess the impact of sea‐ice loss driven by climate change on early reproductive success acting through disrupted denning phenology and other unspecified factors. To do so, we develop a Bayesian hierarchical model combining capture–recapture and path modeling. We apply it to 38 years of capture–recapture data along with biologging data on denning status and phenology, while accounting for imperfect detection and uncertainty in individual denning schedules. We found that low sea‐ice availability led to earlier den emergence, which in turn reduced early litter survival and possibly litter size. By contrast, there was little evidence that sea‐ice availability affected early reproductive success through pathways independent of denning phenology (e.g., litter mass). Considering both direct and indirect effects, low sea‐ice availability reduced early litter survival but not the size of surviving litters. Given the strong link between sea‐ice conditions and body condition in female polar bears, we conclude that sea‐ice loss exerts an energetic constraint on denning females, forcing them to depart from dens early, which jeopardizes their cubs, ultimately reducing maternal fitness. Similar impacts of climate change may occur in other species where phenology is determined by body condition.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71049",
+      "doi_url": "https://doi.org/10.1111/gcb.71049",
+      "title": "Assessing Global Conservation Status of Bryophytes",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71049",
+      "abstract": "",
       "keywords": []
     },
     {
@@ -123,7 +288,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71017",
       "abstract": "ABSTRACT Climate change is dramatically affecting species distribution and phenology worldwide. Its impact on arthropod vectors, such as the Aedes albopictus mosquito, has important consequences for biting nuisance and arbovirus transmission risk. Here, we assess the impact of climate change on the presence and abundance of Ae. albopictus , as well as the risk of dengue transmission over France during the 21st century. We use a mechanistic model that we adjusted against records of recent autochthonous cases of dengue in France. We simulate climatic suitability indicators for mosquito establishment, the duration of the epidemic risk and secondary cases of dengue under different climatic and demographic scenarios at different periods up to 2085. Future simulations are based on a high‐pressure scenario (high greenhouse gas emissions, high demographic growth) and a median‐pressure scenario (median greenhouse gas emissions, demographic stagnation). To account for climate model uncertainty, we repeat the simulations for three different regional climate models. By 2085, in the high‐pressure scenario, most of France (89%–96%) will be climatically suitable for the establishment of Ae. albopictus , except for mountain ranges. Similarly, autochthonous transmission of dengue will be theoretically possible in all colonized areas except over northern lowlands (71%–95%). In the median pressure scenario, both climatic suitability for establishment (49%–89%) and autochthonous dengue transmission risk (31%–82%) exhibit large variation. Low population density areas show moderate suitability for vector establishment but exhibit the highest potential for dengue transmission. Overwintering mechanisms, such as egg diapause, indispensable for survival in temperate climates, may not be necessary along the Mediterranean and Basque coasts, allowing activity of the vector all year‐round in the future.",
-      "keywords": []
+      "keywords": [
+        "Dengue fever",
+        "Climate change",
+        "Population",
+        "Overwintering",
+        "Greenhouse gas",
+        "Transmission (telecommunications)",
+        "Temperate climate",
+        "Mediterranean climate"
+      ]
     },
     {
       "doi": "10.1111/gcb.71038",
@@ -141,7 +315,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71038",
       "abstract": "ABSTRACT Nitrous oxide (N 2 O) is a potent greenhouse gas (GHG) whose atmospheric concentration continues to rise, largely driven by nitrogen (N) inputs to agricultural soils. Over the past three decades, research on soil N 2 O emissions has advanced substantially, yet key uncertainties still constrain mitigation efforts. Here, we synthesize developments in measurement techniques, process understanding, microbial ecology, and modelling from the 1990s to the present, and identify critical gaps for future research. Advances in high‐frequency measurements, laser spectroscopy, and isotopic approaches have revealed the importance of temporal “hot moments” and spatial “hotspots,” challenging earlier assumptions based on sparse sampling. Concurrently, molecular and multi‐omic tools have transformed our understanding of the microbial drivers of N 2 O production and consumption, highlighting the role of community composition, truncated pathways, and previously overlooked N 2 O‐producing and reducing organisms. Process‐based models have evolved from research tools into policy‐relevant frameworks underpinning GHG inventories, with emerging integration of data assimilation, ensemble modelling, and artificial intelligence. However, despite these advances, persistent challenges remain in linking scales, reducing uncertainties, and translating mechanistic insights into scalable mitigation strategies. Closing these gaps offers a unique opportunity to translate decades of scientific progress into next‐generation mitigation strategies that align agricultural productivity with climate stabilization goals.",
-      "keywords": []
+      "keywords": [
+        "Greenhouse gas",
+        "Underpinning",
+        "Agriculture",
+        "Climate change",
+        "Temporal scales",
+        "Process (computing)",
+        "Agricultural productivity",
+        "Earth system science",
+        "Productivity"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70409",
@@ -17414,34 +17598,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70877",
-      "doi_url": "https://doi.org/10.1111/gcb.70877",
-      "title": "Decoupled Climatic Drivers of Tree and Ground‐Layer Carbon Uptake in Mountain Ecosystems Around the World",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-17",
-      "published_date_display": "2026-04-17",
-      "published_parts": [
-        2026,
-        4,
-        17
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70877",
-      "abstract": "ABSTRACT One of the key ecological processes affected by climate change is plant carbon uptake. However, there is substantial uncertainty about how plant carbon uptake will respond to warming in mountain ecosystems, which are known for sharp temperature gradients and abrupt shifts in vegetation structure. Specifically, we lack an understanding of whether these response trajectories over time will be linear or non‐linear, and how they might vary among mountain ecosystems globally. Here, we measured ecosystem Gross Primary Productivity (GPP) along forest‐tundra elevational gradients in the mountain regions of five countries (Argentina, Australia, France, Sweden, USA) to infer future trajectories of carbon uptake, and whether any non‐linear changes might occur. We also examined the role of microclimate in driving GPP responses. We found that whole‐ecosystem GPP increased with increasing macroclimatic temperature (decreasing elevation), but this response was dominated by a sharp non‐linear increase at the transition from tundra to forest (i.e., the treeline). In contrast, ground‐layer GPP was largely independent of macroclimate, but often responded strongly, and linearly, to microclimate (growing degree days > 5°C, mean growing season temperature). This pattern reflected a frequent decoupling of microclimate from the expected temperature‐elevation relationship, likely driven by such processes as cold‐air drainage, limited near‐surface air mixing, and shading by trees. The contrasting responses of GPP among global temperature gradients indicates strong context dependence at both local and continental scales, although in a few cases, biomass and leaf nitrogen were important moderators. These findings suggest that future shifts in carbon uptake in mountains will be mainly controlled by tree range expansion. Our results highlight the need to consider species responses on different spatial scales, and to increase representation of undersampled regions to capture the full breadth of ecological responses to climate change.",
-      "keywords": [
-        "Microclimate",
-        "Tundra",
-        "Ecosystem",
-        "Climate change",
-        "Primary production",
-        "Global change",
-        "Growing season",
-        "Biomass (ecology)",
-        "Vegetation (pathology)"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70879",
       "doi_url": "https://doi.org/10.1111/gcb.70879",
       "title": "Climate as the Main Driver of Large‐Scale Genetic Patterns and Connectivity in the Expanding Golden Jackal",
@@ -18849,34 +19005,6 @@
         "Prioritization",
         "Conservation biology",
         "Spatial planning"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70839",
-      "doi_url": "https://doi.org/10.1111/gcb.70839",
-      "title": "Protist‐Bacteria Trophic Interactions Contribute to Higher Community Stability in Subsoils Than Topsoils",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-06",
-      "published_date_display": "2026-04-06",
-      "published_parts": [
-        2026,
-        4,
-        6
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70839",
-      "abstract": "ABSTRACT Climate change is reshaping ecosystem components and functions across soil profiles. In this study, we examined the effects of altered precipitation and nighttime warming on soil microbial communities in both topsoils (0–20 cm in depth) and subsoils (20–50 cm in depth) in a long‐term field experiment in Inner Mongolia, China. Unexpectedly, moisture, belowground net primary production, and NO 3 − content in subsoils were all affected more by climate changes than topsoils. Moreover, using multiple resistance metrics, including α‐diversity, β‐diversity, microbial network complexity, and network robustness, we found that both bacterial and protistan communities in subsoils exhibited greater resistance to climate change than those in topsoils, while fungal communities showed no consistent pattern. Enhanced bacterial resistance in subsoils was associated with lower 16S rRNA gene operon ( rrn ) copy number, reduced GC content, lower genome and cell size, and other oligotrophic traits, collectively supporting adaptation to nutrient‐poor and stressful environments. Protistan resistance in subsoils tracked bacterial resistance and was reinforced by stronger trophic interactions and functional traits such as protective shells, greater motility, and reduced cell size, reflecting a bottom‐up control, as soil protists are primarily phagotrophs shaped by bacterial prey supply. Abundant bacteria enhanced resistance through oligotrophic adaptations and positive intra‐community interactions, while abundant protists reduced resistance, potentially due to the dominance of negative intra‐community interactions. Partial least squares analyses revealed that microbial community resistance modulated soil heterotrophic respiration (R h ), connecting community resistance to carbon cycling. Together, these findings demonstrate that the often‐overlooked resistance of subsoil microbiomes could buffer ecosystem functions under future climate conditions, suggesting that traits (e.g., rrn copy number) and trophic interactions can outweigh diversity for community stability.",
-      "keywords": [
-        "Trophic level",
-        "Ecosystem",
-        "Resistance (ecology)",
-        "Dominance (genetics)",
-        "Soil ecology",
-        "Microbial population biology",
-        "Soil carbon",
-        "Soil biology",
-        "Topsoil"
       ]
     },
     {
@@ -22648,33 +22776,6 @@
         "Genetic algorithm",
         "Genomics",
         "Sequence (biology)"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70322",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70322",
-      "title": "High temperatures and poor habitat reduce nestling condition and survival in a tropical songbird",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-02",
-      "published_date_display": "2026-03-02",
-      "published_parts": [
-        2026,
-        3,
-        2
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70322",
-      "abstract": "Abstract Climate change and habitat degradation are major threats to wildlife worldwide. Although developing animals are particularly sensitive to their impacts, with fitness consequences for individuals that cascade to population persistence, their combined effect and potential interaction are rarely considered. Here, we address this in an indicator species for a biodiverse riparian ecosystem in Australia's tropical savanna, an understudied region threatened by habitat loss and climate change. We investigate the effect of habitat, temperature and rainfall on nestling condition and subsequent survival in an individually marked population of the Endangered purple‐crowned fairy‐wren ( Malurus coronatus coronatus ). Leveraging a high‐quality 10‐year dataset of nestling measurements, we control for pertinent factors influencing growth (e.g. food provisioned) and quantify short‐ and long‐term survival with high accuracy. Higher ambient temperatures in the week after hatching reduced nestling body condition (mass relative to body size). Poor, degraded habitat (lower density of mid‐storey vegetation) decreased nestling body condition, regardless of temperature or rainfall. Lower body condition as a nestling did not affect survival to nutritional independence (12 weeks) but decreased survival from independence to adulthood (2 years). Poor habitat also directly decreased survival to adulthood, compounding this effect. Taken together, our results show that climate warming and habitat degradation are additive threats to nestling purple‐crowned fairy‐wrens that reduce survival to adulthood. Future research should address the mechanisms underlying the protective effect of high‐quality habitat and explore how exposure to these threats during development affects fitness in other species. Policy implications . Our study shows that improving habitat quality is critical for riparian wildlife as the climate warms and that supporting long‐term studies is important for detecting cryptic effects of anthropogenic threats. The Australian monsoonal savanna is projected to warm by 3.5°C by 2090, and our models predict an associated average of 2.2% decrease in purple‐crowned fairy‐wren survival. This could be offset by a 7% increase in average habitat quality, underscoring the importance of high‐density riparian habitat as a climate refuge. Conservation strategies for climate warming should protect high‐quality habitat and improve low‐quality patches, for example, through effective fire management and reduction of high‐intensity grazing.",
-      "keywords": [
-        "Habitat",
-        "Threatened species",
-        "Endangered species",
-        "Habitat destruction",
-        "Population",
-        "Riparian zone",
-        "Biodiversity",
-        "Wildlife"
       ]
     },
     {
