@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:20:22.151767+00:00",
+  "generated_at": "2026-08-11T22:24:15.778386+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02039-5",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02039-5",
+      "title": "Impacts of power plant emissions on air quality amplified by renewable energy droughts",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02039-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01912-w",
       "doi_url": "https://doi.org/10.1038/s41893-026-01912-w",
       "title": "Sulfur-mediated electrochemical copper recovery from wastewater with net electricity generation",
@@ -41,7 +59,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01912-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Wastewater",
+        "Copper",
+        "Life-cycle assessment",
+        "Resource recovery",
+        "Sewage treatment",
+        "Industrial wastewater treatment",
+        "Electricity generation"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01913-9",
@@ -59,7 +85,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01913-9",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Copper",
+        "Effluent",
+        "Wastewater",
+        "Sulfur",
+        "Sewage treatment",
+        "Energy source",
+        "Industrial wastewater treatment"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02070-6",
@@ -77,7 +111,18 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02070-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "North Atlantic Deep Water",
+        "Glacial period",
+        "Ocean heat content",
+        "Climate state",
+        "Thermohaline circulation",
+        "Shutdown of thermohaline circulation",
+        "Climate model",
+        "Climate change",
+        "Ocean current",
+        "Radiative cooling"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02056-4",
@@ -95,7 +140,17 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02056-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Snow",
+        "Snowpack",
+        "Moss",
+        "Soil respiration",
+        "Ecosystem",
+        "Snow cover",
+        "Soil water",
+        "Soil carbon",
+        "Carbon cycle"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02724-8",
@@ -113,7 +168,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02724-8",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Global warming",
+        "Heat wave",
+        "Climate change",
+        "Climate extremes",
+        "Population",
+        "Preparedness",
+        "Extreme heat"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02735-5",
@@ -130,8 +193,14 @@
         10
       ],
       "link": "https://www.nature.com/articles/s41558-026-02735-5",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Following publication of this article, an additional sentence has been added to the start of the third paragraph of the introduction and to the first paragraph of the Methods “Econometric model” subsection. These additions clarify the attribution and methodological context of the study with respect to previously published work. The analyses, figures, results and conclusions of the article remain unchanged. The changes are made in the HTML and PDF versions of the article.",
+      "keywords": [
+        "Paragraph",
+        "Life expectancy",
+        "Attribution",
+        "Context (archaeology)",
+        "Sentence"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01914-8",
@@ -2900,7 +2969,7 @@
         7
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001752",
-      "abstract": "",
+      "abstract": "Sustainable procurement is a critical leverage point for reducing the climate and biodiversity impacts of bio-based supply chains. Yet companies often lack rapid, batch-level data linking biomass origin and quality to environmental footprints and costs. Near-infrared spectroscopy (NIRS) with chemometrics is a rapid, non-destructive method commonly used to assess bio-based product quality and geographical origin. Here, we show how NIRS-based origin identification can be combined with spatially explicit life-cycle assessment to derive environmental footprints of bio-based supply chains. Using a Dutch feed production case study, we integrate the derived environmental footprints with quality measurements and ingredient-specific cost estimates to optimize across these indicators. We show that a balance can be struck where feed quality can be maintained with a minimal increase in costs (0.1%–1.0%) and a substantial reduction in climate (4.2%–9.5%) and land-based biodiversity (44.2%–50.3%) footprints. Together, these results show that routinely collected spectral data can support more actionable environmental footprinting in biomass procurement while explicitly balancing product quality, cost, climate impacts, and biodiversity impacts.",
       "keywords": [
         "Supply chain",
         "Procurement",
