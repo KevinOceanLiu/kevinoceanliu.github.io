@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:56:26.760423+00:00",
+  "generated_at": "2026-08-11T23:03:32.103301+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,26 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107478",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107478",
-      "title": "Between city and countryside: The (un)sustainable development of peri-urban areas (PUA) of large cities in Poland – The case of Warsaw",
+      "doi": "10.1016/j.compenvurbsys.2026.102505",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102505",
+      "title": "FloodLang and FloodLoc-Four: A bilingual dataset and fine-grained multilevel framework for flood-related geospatial information understanding",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001079",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107474",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107474",
+      "title": "Inequality in bridging the digital divide among older adults across 115 Chinese cities during the public health emergencies",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -43,9 +60,56 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007109",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007067",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105756",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105756",
+      "title": "Walkability vs. Walking: Testing the role of proximity in urban environments",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2027,
+        1
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001805",
+      "abstract": "",
+      "keywords": [
+        "Walkability",
+        "Urban environment",
+        "Urban planning",
+        "Urban landscape"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105762",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105762",
+      "title": "Drivers of public and administrative perceptions on the transition toward biodiversity-friendly and sustainable urban green space management",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2027,
+        1
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001866",
+      "abstract": "",
+      "keywords": [
+        "Perception",
+        "Space (punctuation)",
+        "Urban green space",
+        "Transition (genetics)",
+        "Sustainable development",
+        "Public space",
+        "Urban planning"
+      ]
     },
     {
       "doi": "10.1177/00420980261472298",
@@ -63,6 +127,33 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261472298",
       "abstract": "Using financial disclosure reports of U.S. senators and representatives, we examine whether politicians’ municipal bond purchases anticipate subsequent fiscal support and how targeted counties evolve afterward. We find that counties whose municipal bonds are purchased by politicians subsequently receive higher federal funding, consistent with politicians investing in jurisdictions that later benefit from intergovernmental transfers. Secondary-market yields on these bonds decline roughly 4 months after purchase, suggesting that elected officials tend to buy when yields are elevated and benefit from subsequent price adjustments. However, we do not observe corresponding improvements in local real activity: new residential construction and housing prices remain flat, while 90-day mortgage delinquencies and unemployment rise in the post-purchase period. Using an Average Treatment Effect on the Treated/Rubin causal framework, event-time analyses, and placebo and robustness checks, we show that these patterns are not driven by differential pre-trends. Overall, politician bond purchases align with predictable changes in fiscal flows and bond pricing but are not followed by positive local economic spillovers, with implications for urban fiscal governance and the political economy of intergovernmental transfers.",
+      "keywords": [
+        "Bond",
+        "Municipal bond",
+        "Local government",
+        "Corporate governance",
+        "Unemployment",
+        "Politics",
+        "Bond valuation",
+        "Differential (mechanical device)"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261457713",
+      "doi_url": "https://doi.org/10.1177/00420980261457713",
+      "title": "Corrigendum To: Off-Grid Electricity Imaginaries: Tracing Urban Citizenship In Cape Town’s Informal Settlements (Doi: Https://Doi.Org/10.1177/00420980251368672)",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        8,
+        10
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261457713",
+      "abstract": "",
       "keywords": []
     },
     {
@@ -81,7 +172,16 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00493-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Resilience (materials science)",
+        "Psychological resilience",
+        "Psychological intervention",
+        "Transition (genetics)",
+        "Sustainability",
+        "System dynamics",
+        "Sustainable development",
+        "Planetary boundaries"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00506-z",
@@ -99,7 +199,12 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00506-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Inclusion (mineral)",
+        "Boundary (topology)",
+        "Feature (linguistics)",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107477",
@@ -121,6 +226,32 @@
         "Self-disclosure",
         "Qualitative research",
         "Work (physics)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107478",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107478",
+      "title": "Between city and countryside: The (un)sustainable development of peri-urban areas (PUA) of large cities in Poland – The case of Warsaw",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007109",
+      "abstract": "The paper investigates the dynamics of spatial development in the peri-urban area of Warsaw, Poland. It focuses on the processes of suburbanization and urban sprawl occurring within the city's administrative boundaries and its neighbouring rural municipalities. Drawing on spatial data from 2014 to 2024, the study identifies the most intensive zones of border residential development and analyzes the morphological characteristics of emerging housing patterns. The research reveals a fragmented and functionally monotonous urban fabric, heavily reliant on individual transportation and lacking in public infrastructure and services. These patterns contradict the principles of sustainable urban planning. Adopting the concept of the “urban fringe zone” from the existing literature, the study examines this transitional space where urban and rural features intersect and proposes a typology of development forms based on density, continuity, diversity, and multifunctionality. The findings underscore the need for integrated spatial planning across administrative boundaries and advocate for the formal recognition of peri-urban zones as distinct planning entities to better manage urban expansion and mitigate its negative environmental and social impacts.",
+      "keywords": [
+        "Suburbanization",
+        "Urban sprawl",
+        "Typology",
+        "Urban planning",
+        "Sustainable development",
+        "Spatial planning",
+        "Urban density",
+        "City region"
       ]
     },
     {
@@ -8927,32 +9058,6 @@
         "Perspective (graphical)",
         "Work (physics)",
         "Corporate governance"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107205",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107205",
-      "title": "Unseen citizens: Preschoolers' perspectives on the city and their power to imagine, represent, and design urban environments",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-31",
-      "published_date_display": "2026-05-31",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004373",
-      "abstract": "",
-      "keywords": [
-        "Vision",
-        "Urban design",
-        "Power (physics)",
-        "Ethnic group",
-        "Spatial design",
-        "Urban planning",
-        "Urban studies",
-        "Tile"
       ]
     },
     {
@@ -17790,34 +17895,6 @@
         "Surface runoff",
         "Climate change",
         "Evapotranspiration"
-      ]
-    },
-    {
-      "doi": "10.1177/00420980251396546",
-      "doi_url": "https://doi.org/10.1177/00420980251396546",
-      "title": "Sense of belonging and attachment in urban green spaces: A qualitative study of older adults in Isfahan, Iran",
-      "journal_id": "urban-studies",
-      "journal_name": "Urban Studies",
-      "journal_short_name": "Urban Studies",
-      "published_date": "2026-01-12",
-      "published_date_display": "2026-01-12",
-      "published_parts": [
-        2026,
-        1,
-        12
-      ],
-      "link": "https://journals.sagepub.com/doi/10.1177/00420980251396546",
-      "abstract": "This study evaluates the place attachments of older adults in Hasht Behesht Park, Isfahan, using a qualitative approach and Braun and Clarke’s thematic analysis. Data were collected through semi-structured interviews with 19 participants aged 65–93. The research reveals that place attachment is a multifaceted phenomenon encompassing place identity, place dependence, nature bonding, and social bonding. Findings show that attachment is shaped not simply by duration of residence or physical access but also by embodied routines, sensory familiarity, and intergenerational memory embedded in the park’s evolving landscape. Ancient trees and heritage elements emerge as emotional and cultural anchors, fostering a sense of belonging, sustaining intergenerational memory, and enabling social connection—including with “familiar strangers.” Notably, social bonding and the need for solitude coexist, particularly within gendered and culturally specific dynamics. The interplay between natural and social bonds is especially significant in shaping place attachment, as older adults tend to form stronger attachments to places that better meet their diverse needs. Challenges such as restricted access, poor maintenance, noise, and overcrowding can disrupt these attachments. This article contributes by revealing how gendered solitude, intergenerational memory, and emotional infrastructures—such as ancient trees, heritage elements, and interactions with “familiar strangers”—serve as affective anchors that shape place attachment among older adults. It reframes urban green spaces as emotionally and socially embedded infrastructures, shaped by vernacular ethics of care and culturally specific dynamics, thereby challenging functionalist, Global North-centric models of age-friendly urban design.",
-      "keywords": [
-        "Place attachment",
-        "Overcrowding",
-        "Qualitative research",
-        "Residence",
-        "Embodied cognition",
-        "Solitude",
-        "Thematic analysis",
-        "Sense of place",
-        "Phenomenon"
       ]
     },
     {
