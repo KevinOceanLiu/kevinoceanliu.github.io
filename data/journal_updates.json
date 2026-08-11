@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:56:42.971749+00:00",
+  "generated_at": "2026-08-11T22:03:09.972343+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115608",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115608",
-      "title": "Maximizing the potential of Sentinel-2 satellite observations in mapping Sargassum seaweed in the Wider Caribbean Region",
+      "doi": "10.1016/j.rse.2026.115607",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115607",
+      "title": "A revised physically-based shadow kernel for improved hotspot simulation in urban thermal anisotropy models",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,9 +38,103 @@
         2026,
         11
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003780",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003779",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.002",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.002",
+      "title": "GF7S: A large-scale GaoFen-7 stereo dataset and self-supervised adaptation of FoundationStereo for high-resolution DSM generation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003916",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.023",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.023",
+      "title": "FICA: Fine-Grained Invariant Causal Adaptation for few-shot remote sensing scene classification",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003801",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2707171",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2707171",
+      "title": "Surviving the Buffalo Blizzard: Online Interactions, Mutual Assistance, and the Power of Weak Ties",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2707171",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/24694452.2026.2704585",
+      "doi_url": "https://doi.org/10.1080/24694452.2026.2704585",
+      "title": "Satellite Censorship and the Geographies of (Un)Seeing: Crisis, Power, and Withheld Imagery",
+      "journal_id": "annals-aag",
+      "journal_name": "Annals of the American Association of Geographers",
+      "journal_short_name": "Annals AAG",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2704585",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115608",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115608",
+      "title": "Maximizing the potential of Sentinel-2 satellite observations in mapping Sargassum seaweed in the Wider Caribbean Region",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003780",
+      "abstract": "",
+      "keywords": [
+        "Satellite",
+        "Sargassum",
+        "Satellite imagery",
+        "Caribbean region",
+        "Caribbean island",
+        "Algae"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115602",
@@ -49,15 +143,22 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-08-10",
+      "published_date_display": "2026-08-10",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S003442572600372X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Atmospheric correction",
+        "Satellite imagery",
+        "Satellite",
+        "Thematic Mapper",
+        "Reflectivity",
+        "Error analysis"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2696352",
@@ -75,7 +176,15 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2696352",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Geospatial analysis",
+        "Spatial intelligence",
+        "Transformation (genetics)",
+        "Component (thermodynamics)",
+        "Spatial analysis",
+        "Question answering",
+        "Geographic information system"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2714042",
@@ -92,8 +201,18 @@
         10
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2714042",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Similarity and geographically weighted regression (SGWR), proposed by Lessani and Li, innovatively combines attribute similarity with geographical proximity. However, SGWR employs a simple kernel function to map attribute weights and uses a globally consistent fusion parameter to combine them, rendering it incapable of adapting to local variations in dominant factors. Furthermore, SGWR employs an equal-weight summation method to compute attribute distances, thereby disregarding variations in the importance of individual attributes. This study introduces a similarity-weighted and geographically weighted regression using neural networks (SGNNWR) to address these issues. It offers two key advantages. First, SGNNWR employs a dual-branch neural network architecture to construct kernel functions, thereby precisely adapting to the nonlinear distance-decay processes in both the geospatial and attribute spaces. Second, it introduces a dual-attention mechanism to improve interpretability and adaptability. Channel attention identifies dominant attributes and calculates attribute distances. Branch attention adjusts local fusion parameters between geographic and attribute branches. Evaluations across three empirical datasets demonstrate that SGNNWR outperforms baseline models in both goodness-of-fit and prediction accuracy. Ablation experiments further validate the effectiveness of the attention mechanisms.",
+      "keywords": [
+        "Interpretability",
+        "Artificial neural network",
+        "Geospatial analysis",
+        "Kernel (algebra)",
+        "Similarity (geometry)",
+        "Regression",
+        "Kernel density estimation",
+        "Pattern recognition (psychology)",
+        "Convolutional neural network"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2697984",
@@ -111,7 +230,15 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2697984",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Cognitive reframing",
+        "Newcastle upon tyne",
+        "Global South",
+        "Globalization",
+        "Context (archaeology)",
+        "Cultural issues",
+        "Politics"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115612",
@@ -10062,34 +10189,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.04.019",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.019",
-      "title": "GateMamba: Feature gated mixer in state space model for point cloud 3D object detection",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-14",
-      "published_date_display": "2026-04-14",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001917",
-      "abstract": "While recent 3D object detection methods have achieved impressive overall performance, they generally struggle to maintain high precision for small and distant targets. On the one hand, existing 3D backbones often lack sufficient multi-scale and channel-wise discrimination, causing rich features of large proximal objects to overwhelm the faint signals of small distant targets during downsampling. On the other hand, although current Mamba-based architectures achieve high performance with linear computational complexity, their reliance on unidirectional scanning ignores bidirectional spatial relationships, leading to geometric distortion and the neglect of critical features for rare voxels. To address these issues, drawing inspiration from the mechanism of Gated Attention for adaptive feature modulation, we propose GateMamba, a novel 3D backbone composed of stacked GateMamba blocks equipped with diverse feature gated mixers. To mitigate the loss of fine-grained spatial details during hierarchical downsampling, we design the GateMamba block, which incorporates a dense feature pyramid structure composed of several nested GateMamba layers and a scale feature gated mixer to adaptively weight and aggregate multi-scale features. To address the spatial distortion caused by the unidirectional scanning of standard state space models, we introduce a spatial-channel feature gated mixer within the GateMamba layer to bidirectionally aggregate spatial contexts and recalibrate channel responses. To prevent the feature vanishing of sparse instances during strided downsampling operations, we proposed the dilation voxel generation strategy, which proactively synthesizes features for foreground placeholders aligned with the sampling stride. Extensive experiments on the KITTI, Waymo, ONCE and NuScenes datasets demonstrate that GateMamba outperforms current state-of-the-art methods, such as achieving 73.8% and 67.5% mAP on the KITTI and ONCE datasets, respectively. More importantly, GateMamba specifically improves the detection precision of small and distant objects, such as outperforming the baseline by 2.5% and 2.4% in Level 1 and Level 2 mAP for the cyclist category on the Waymo validation dataset. Ablation studies further validate the contributions of diverse feature gated mixers in enhancing feature discriminabilities.",
-      "keywords": [
-        "Feature (linguistics)",
-        "Pyramid (geometry)",
-        "Pattern recognition (psychology)",
-        "Distortion (music)",
-        "Upsampling",
-        "Point cloud",
-        "Feature extraction",
-        "Feature vector",
-        "Aggregate (composite)",
-        "Channel (broadcasting)"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115426",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115426",
       "title": "An improved temperature and emissivity separation algorithm for vegetated surfaces with constrained emissivity spectral contrast",
@@ -11136,29 +11235,6 @@
         "Urbanization",
         "Field (mathematics)",
         "Cinder"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.045",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.045",
-      "title": "Improving ocean color algorithms for Chlorophyll-a retrieval with Machine learning and ensemble modeling in optically complex coastal waters",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-02",
-      "published_date_display": "2026-04-02",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001590",
-      "abstract": "",
-      "keywords": [
-        "Ensemble learning",
-        "Ensemble forecasting",
-        "Ocean color",
-        "Pattern recognition (psychology)",
-        "Statistical classification"
       ]
     },
     {
@@ -12235,29 +12311,6 @@
         "Government (linguistics)",
         "Democracy",
         "Representation (politics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115363",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115363",
-      "title": "Urban PolSAR decomposition: Challenges and new directions for emerging SAR technologies",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-12",
-      "published_date_display": "2026-03-12",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001331",
-      "abstract": "",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Remote sensing application",
-        "Radar imaging",
-        "Space-based radar",
-        "Radar"
       ]
     },
     {
