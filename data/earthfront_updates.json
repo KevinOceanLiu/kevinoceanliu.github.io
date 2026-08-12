@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:24:15.778386+00:00",
+  "generated_at": "2026-08-12T22:24:11.620027+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01926-4",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01926-4",
+      "title": "Author Correction: Biodiversity recovery is slow following clear-cut harvest of boreal forests",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
+      "published_parts": [
+        2026,
+        8,
+        12
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01926-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41561-026-02039-5",
       "doi_url": "https://doi.org/10.1038/s41561-026-02039-5",
       "title": "Impacts of power plant emissions on air quality amplified by renewable energy droughts",
@@ -41,7 +59,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02039-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Renewable energy",
+        "Fossil fuel",
+        "Energy development",
+        "Air quality index",
+        "Renewable fuels",
+        "Electricity generation",
+        "Environmental impact of the energy industry",
+        "Air pollution"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01912-w",
@@ -616,6 +643,23 @@
         "Indian ocean",
         "Zonal and meridional"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101780",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101780",
+      "title": "Toward actionable planetary boundary intelligence",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001818",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101781",
@@ -3176,7 +3220,7 @@
         29
       ],
       "link": "https://www.nature.com/articles/s41893-026-01868-x",
-      "abstract": "Boreal forests are important reservoirs of biodiversity, carbon and timber stocks. However, timber harvest can alter biodiversity in these forests without clear evidence on the duration needed for biotic groups to recover. Resilience of boreal forest biodiversity to clear-cut harvest was examined with a meta-analysis of 190 datasets from boreal and hemi-boreal forests of Europe/Russia and North America for arthropods, birds, small mammals, lichens, bryophytes and vascular plants. We modelled similarity of community composition between harvested and unharvested stands versus years post harvest. In approximately half of cases, predicted times for recovery to pre-harvest composition were ≤30 years. In other cases, recovery took much longer or had not occurred within the timeframe of our data; for example, in conifer forest: >100 years (bryophytes), >55 years (small mammals), ~95 years (lichens) and ~85 years (vascular plants). Saproxylic beetles showed no resilience within the 16 (conifer forest) or 29 (mixed forest) years post harvest for which we had data. Recovery generally took longer in conifer and mixed than in broadleaf forests, which always showed either resistance (bryophytes, vascular plants) or resilience with recovery within 12–25 years. Conserving biodiversity in boreal forests will require extended rotations, management for ‘old forest’ structural elements and areas protected from harvesting. Clear-cut timber harvest in boreal forests impacts local biodiversity; however, it is still unclear how quickly biotic groups rebound from such disturbances. This meta-analysis determines the resilience of biotic groups to clear-cut harvest across boreal forests of Europe/Russia and North America.",
+      "abstract": "Abstract Boreal forests are important reservoirs of biodiversity, carbon and timber stocks. However, timber harvest can alter biodiversity in these forests without clear evidence on the duration needed for biotic groups to recover. Resilience of boreal forest biodiversity to clear-cut harvest was examined with a meta-analysis of 190 datasets from boreal and hemi-boreal forests of Europe/Russia and North America for arthropods, birds, small mammals, lichens, bryophytes and vascular plants. We modelled similarity of community composition between harvested and unharvested stands versus years post harvest. In approximately half of cases, predicted times for recovery to pre-harvest composition were ≤30 years. In other cases, recovery took much longer or had not occurred within the timeframe of our data; for example, in conifer forest: >100 years (bryophytes), >55 years (small mammals), ~95 years (lichens) and ~85 years (vascular plants). Saproxylic beetles showed no resilience within the 16 (conifer forest) or 29 (mixed forest) years post harvest for which we had data. Recovery generally took longer in conifer and mixed than in broadleaf forests, which always showed either resistance (bryophytes, vascular plants) or resilience with recovery within 12–25 years. Conserving biodiversity in boreal forests will require extended rotations, management for ‘old forest’ structural elements and areas protected from harvesting.",
       "keywords": [
         "Taiga",
         "Boreal",
