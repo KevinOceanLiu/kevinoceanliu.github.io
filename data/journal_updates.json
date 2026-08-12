@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:03:09.972343+00:00",
+  "generated_at": "2026-08-12T22:02:12.582426+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,21 +26,45 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115613",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115613",
+      "title": "The BioThermal variables derived from Landsat surface temperature data for biodiversity applications",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003834",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.rse.2026.115607",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115607",
       "title": "A revised physically-based shadow kernel for improved hotspot simulation in urban thermal anisotropy models",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
       "published_parts": [
         2026,
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003779",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Zenith",
+        "Hotspot (geology)",
+        "Thermal",
+        "Shadow (psychology)",
+        "Solar zenith angle",
+        "Kernel (algebra)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.08.002",
@@ -49,15 +73,24 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003916",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Accurate inversion of high-resolution digital surface models (DSMs) is crucial for urban science and environmental monitoring. Fully supervised deep learning has been widely adopted for DSM generation from stereo satellite imagery, but its dependence on costly ground-truth labels limits scalability in label-scarce regions. Here, we introduce GF7S, a large-scale unlabeled GaoFen-7 stereo dataset comprising 121 K stereo pairs from 150 scenes at sub-0.8 m resolution, and evaluate a self-supervised adaptation of a large-scale foundation model, FoundationStereo (FS), for 1-m DSM generation. The adaptation uses established self-supervised stereo constraints, including spectral reconstruction consistency, left–right disparity consistency, and edge-aware disparity smoothness. Without using ground-truth disparity labels, self-supervised FSLarge (the large variant of FS, ∼357 M parameters with only ∼ 37 M trainable), achieves performance close to its fully supervised counterpart, and incurs modest increases in end-point error (EPE) from 1.215 to 1.502 pixels on WHU-Stereo (+0.287) and from 0.653 to 0.933 pixels on US3D (+0.280). Comparisons with existing methods further show that FSLarge provides the best self-supervised accuracy across the evaluated datasets. The 1-m DSMs demonstrate promising results in building-scale height estimation with an RMSE of 5.51 m evaluated using ICESat-2-derived heights and in tree canopy height mapping, showing good agreement (Pearson’s R of 0.45 and RMSE of 5.89 m) with a leading global canopy height dataset. This work presents a self-supervised adaptation of foundation model, FoundationStereo, for high-resolution satellite stereo matching, using established stereo constraints to guide training on the proposed GF7S dataset. Data and code will be available at https://github.com/lauraset/Self-Supervised-Satellite-Stereo-Matching-Model .",
+      "keywords": [
+        "Pixel",
+        "Mean squared error",
+        "Satellite",
+        "Adaptation (eye)",
+        "Scalability",
+        "Deep learning",
+        "Digital surface",
+        "Pattern recognition (psychology)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.023",
@@ -66,15 +99,24 @@
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
       "published_parts": [
         2026,
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003801",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Discriminative model",
+        "Invariant (physics)",
+        "Subspace topology",
+        "Semantic mapping",
+        "Pattern recognition (psychology)",
+        "Class (philosophy)",
+        "Feature (linguistics)",
+        "Source code"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2707171",
@@ -91,8 +133,17 @@
         11
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2707171",
-      "abstract": "",
-      "keywords": []
+      "abstract": "In December 2022, Buffalo, New York, experienced a once-in-a-generation blizzard. The four-day lake-effect snow accompanied by storm-force winds knocked down power lines, halted emergency services in several towns and resulted in forty-seven fatalities of residents who lost heat and power or were trapped in the snow. In response to the storm, Buffalonians demonstrated strong solidarity through quickly self-organized Facebook groups to exchange resources and coordinate mutual aid. Our study examines the emergence of grassroots mutual assistance through online–offline interactions and its impact on resilience in the physical world. We manually collected blizzard-related conversations, used machine learning to identify mutual-aid messages, and applied social network analysis to examine users’ interactions. Our findings reveal that Facebook users delivered life-saving assistance through online conversations involving requesting and offering practical, informational, and emotional support. The Facebook blizzard communities developed networks of weak ties that expanded access to vital resources and facilitated the flow of information and materials among disconnected residents. This research highlights virtual spaces as digital urban commons where strangers can benefit from emerging social capital during crises. It also offers insights for emergency management agencies seeking collaborations with grassroots online communities to develop formal–informal mutual aid strategies for future crises.",
+      "keywords": [
+        "Grassroots",
+        "Mutual aid",
+        "Solidarity",
+        "Social capital",
+        "Power (physics)",
+        "Commons",
+        "Interpersonal ties",
+        "Psychological resilience"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2704585",
@@ -110,7 +161,14 @@
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2704585",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Censorship",
+        "Satellite",
+        "Satellite imagery",
+        "Satellite broadcasting",
+        "Perspective (graphical)",
+        "Space (punctuation)"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115608",
@@ -229,7 +287,7 @@
         10
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2697984",
-      "abstract": "",
+      "abstract": "This article critically reframes concepts of informality in urban transport by shifting the focus from the traditional divisions between the formal and informal sectors to the social and cultural dynamics that shape mobility practices. Through a study of Newcastle upon Tyne, UK—a city often overlooked in mainstream urban scholarship—the article challenges the misconception that informality is confined to the Global South by highlighting how informalized transport operates within the Global North as well. The article contributes to the broader discourse on informality in urban studies by offering three key insights: First, it provides a historical perspective on informality by tracing the fluid arrangements within transport and beyond; second, it examines the governance and management of Newcastle’s urban transport system to expose the entanglements between formal and informal systems; and third, it broadens the conceptualization of informality by critiquing the dominant focus on economic drivers and instead highlights the social, cultural, and noncapitalist factors that shape informal transport networks. This social and cultural reframing of urban transport advances debates in urban geography by demon.strating the adaptable and context-dependent nature of informality and advocating instead for a more critically informed and socially minded approach to mobility.",
       "keywords": [
         "Cognitive reframing",
         "Newcastle upon tyne",
@@ -12409,23 +12467,6 @@
         "Vegetation classification",
         "Land cover"
       ]
-    },
-    {
-      "doi": "10.1016/s0034-4257(26)00127-6",
-      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00127-6",
-      "title": "Editorial Board",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-10",
-      "published_date_display": "2026-03-10",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001276",
-      "abstract": "",
-      "keywords": []
     },
     {
       "doi": "10.1080/13658816.2026.2639623",
