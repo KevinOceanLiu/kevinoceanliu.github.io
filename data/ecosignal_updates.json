@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:22:41.239804+00:00",
+  "generated_at": "2026-08-12T23:22:10.445352+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,24 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41559-026-03161-8",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03161-8",
+      "title": "Assessing a reverse approach to protecting traded species",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
+      "published_parts": [
+        2026,
+        8,
+        12
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03161-8",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1086/743557",
       "doi_url": "https://doi.org/10.1086/743557",
       "title": "Lingering physiological effects of a high fat diet and infectious disease in mothers have transgenerational implications",
@@ -51,7 +69,12 @@
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/743557",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Transgenerational epigenetics",
+        "Infectious disease (medical specialty)",
+        "Disease",
+        "Population"
+      ]
     },
     {
       "doi": "10.1086/743559",
@@ -68,6 +91,94 @@
         11
       ],
       "link": "https://www.journals.uchicago.edu/doi/10.1086/743559",
+      "abstract": "",
+      "keywords": [
+        "Host (biology)",
+        "Parasite hosting",
+        "Deposition (geology)",
+        "Transmission (telecommunications)",
+        "Resource (disambiguation)"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70498",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70498",
+      "title": "Testing a site‐prioritisation framework to maximise survival of seeded corals",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70498",
+      "abstract": "Abstract As climate change threatens reef‐building coral populations worldwide, there is an increasing interest in restoration to assist the recovery of coral populations. Yet these efforts are limited in scale and therefore, to maximise restoration success, it is crucial to prioritise areas where outplanted corals are most likely to survive and grow. Here, we tested and refined a framework to select sites for coral restoration using survival data of sexually produced corals (spat) from 10 species deployed across diverse habitats in the Great Barrier Reef, Australia. For each deployment site, we extracted data on abiotic and biotic factors, then scored and combined them to compute a single score for each site. We refined the relative weighting of the factors to maximise the variance in spat survival explained by the site scores. We investigated the relationship between spat survival and each of these environmental factors, as well as the combined site score. Finally, we used simulations to quantify the increase in mean spat survival expected if selecting sites based on site scores. Our results show that spat survival generally decreased with increasing cover of benthic organisms, highlighting the important role of competition during early life stages. In contrast, the relationship between spat survival and abiotic factors was species‐specific. Spat survival was positively related to site score in all except one of the species. However, site score predicted only a small fraction of the variance in survival, indicating a spatial mismatch between the broad scales (>100 s m) at which corals must be seeded to support recovery, and the fine scales at which spat survival is affected (<1 m). In our simulations, using site scores improved mean survival in 11 out of 12 species‐by‐reef combinations, although some of the gains were modest. Synthesis and applications . The framework tested can improve the efficiency of seeded‐coral deployments by increasing average survival through site selection for most taxa, thereby reducing the number of deployed spat needed to achieve a target outcome. Species‐specific weighting of factors was unnecessary for many Acropora species, but may be important for other taxa.",
+      "keywords": [
+        "Coral",
+        "Abiotic component",
+        "Benthic zone",
+        "Habitat",
+        "Biotic component",
+        "Seeding",
+        "Competition (biology)",
+        "Propagule pressure",
+        "Restoration ecology"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70539",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70539",
+      "title": "Acorn caching hotspots of the Eurasian jay in pine plantations: Ecological basis for understorey management to assist oak regeneration",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70539",
+      "abstract": "Abstract Monospecific pine plantations are highly vulnerable to disturbance. Promoting oak regeneration through assisted restoration by effective acorn dispersers, such as the Eurasian jay ( Garrulus glandarius L.), could significantly enhance their ecological resilience. However, our ability to design targeted management interventions that harness jay‐assisted oak regeneration is constrained by limited knowledge of how this corvid selects understorey microsites for caching acorns in these plantations. To inform jay‐assisted oak regeneration in pine plantations, we examined how understorey structure influences jay acorn caching behaviour in two ecologically contrasting oaks, Quercus ilex L. and Quercus faginea Lam. We selected three sites within a 55‐year‐old monospecific Pinus pinaster Lam. plantation that differed in density due to thinning. For two consecutive dispersal seasons, we quantified dispersal distances and the microsite caching preferences of jays using acorn radio‐tracking. Jays cached all acorns within the pine plantation and avoided wide natural or artificial gaps. Proportion of cached acorns was similar for both oaks, with no significant differences in dispersal distance kernels. Jays strongly selected large shrubs, mainly Cistus spp., with a tendency to select shrub‐abundant patches and cache acorns closer to pine trunks than expected by chance; these patterns were unrelated to oak species. Jays did not use coarse wood for caching, and caches were no less frequent in furrows or mounds from site preparation to establish the plantation than in undisturbed ground. Between 1.2% and 10.7% of cached acorns produced seedlings that survived their first summer. Synthesis and applications . Our findings show that Eurasian jay dispersal activity depends on specific understorey structures when selecting caching microsites—particularly shrub cover and standing pines. These features could be directly shaped by management to promote assisted natural oak regeneration. By fostering structurally diverse understories, managers can enhance seed dispersal services and accelerate the transition of vulnerable pine monocultures towards more resilient mixed forests.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71051",
+      "doi_url": "https://doi.org/10.1111/gcb.71051",
+      "title": "Escalating Fire‐Driven Forest Loss in Protected Tropical Forests",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71051",
+      "abstract": "ABSTRACT Wildfires are driving substantial losses of tropical forest, with climate change expected to increase fire‐driven losses throughout the century. Whether Protected Areas (PAs)—and the vital habitat they protect—are buffered from fire is a key question. Here we combine PA and stand‐replacing fire data to estimate that > 4 million hectares (Mha) of protected tropical forest have been lost to stand‐replacing fire since 2001, with one‐third of losses (1.35 Mha) occurring in 2024 alone. The vast majority of losses (89%) were concentrated in the tropical Americas (3.6 Mha), most of which occurred in Brazil (2.7 Mha), followed by Asia‐Pacific (0.31 Mha) and Africa (0.14 Mha). Increasing trends in annual losses were observed across the Americas and Africa, occurring in 30 countries across the tropics. Counterfactual analysis suggests that despite considerable heterogeneity PAs most often reduce the probability of stand‐replacing fires relative to non‐PAs across the tropics. In the Americas, protection reduced stand‐replacing fires in 48% of protected plots, rising to 71% and 55% in Africa and Asia‐Pacific, respectively. However, temporal burn trends remained tightly coupled inside and outside of PAs, suggesting PAs are equally exposed to increasing global trends in fire activity. Ensuring existing PAs are protected from anthropogenic ignition sources is a priority, but subsequent PA planning must consider future fire risk to ensure they remain an effective conservation tool in a changing climate.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71046",
+      "doi_url": "https://doi.org/10.1111/gcb.71046",
+      "title": "A Trait‐Based Approach to Studying Animal Movement Responses to Extreme Events",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        8,
+        11
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71046",
       "abstract": "",
       "keywords": []
     },
@@ -87,7 +198,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70421",
       "abstract": "Abstract Freeze–thaw periods represent transient yet climatically significant episodes of greenhouse gas (GHG) exchange in seasonally frozen ecosystems. Projected changes in winter snowfall are expected to alter the balance among carbon dioxide (CO 2 ), nitrous oxide (N 2 O) and methane (CH 4 ) fluxes, yet these short‐lived non‐growing season pulses remain poorly constrained because winter GHG measurements are technically and logistically challenging, hindering accurate assessment of their aggregate impact on ecosystem climate forcing across environmental gradients. We combined a 1500‐km transect spanning arid to meadow grasslands with a controlled snow manipulation incubation experiment using intact soil cores to disentangle snow depth effects on freeze–thaw‐induced GHG balance and assess their consequences for ecosystem global warming potential (GWP) across ecoregions. Deepened snow increased freeze–thaw GWP primarily through increases in water‐filled pore space (WFPS), which strongly stimulated N 2 O emissions (980%–1589%) while exerting weaker and site‐dependent effects on CO 2 (32%–54%) and CH 4 (25%–100%). As WFPS increased, the relative contribution of N 2 O to total GWP surged from 1.4% to 82.8%, while that of CO 2 decreased from 98.3% to 17.1%. Meanwhile, CH 4 shifted from a weak sink (−0.6%) to a net source (1.7%). This pattern reflected a moisture‐driven trade‐off between CO 2 and N 2 O‐derived contributions to freeze–thaw GWP. Crucially, plant species richness exerted dual control over GHG emissions: it promoted CO 2 emissions through fungal‐mediated increases in enzyme activity, particularly associated with Basidiomycota, while mitigating N 2 O emissions by reducing nitrate (NO 3 − ‐N) availability and arbuscular mycorrhizal fungi‐associated suppression of denitrification. Synthesis : Our findings reveal that snow‐driven changes in soil moisture reactivated a cross‐seasonal plant–fungal legacy that shaped microbial GHG dynamics. Thus, integrating vegetation–microbe linkages alongside winter climate processes is critical to improving the prediction of non‐growing season carbon–nitrogen feedback under climate change.",
-      "keywords": []
+      "keywords": [
+        "Greenhouse gas",
+        "Snow",
+        "Ecosystem",
+        "Carbon dioxide",
+        "Sink (geography)",
+        "Nitrous oxide",
+        "Climate change",
+        "Global warming",
+        "Methane"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70419",
@@ -105,7 +226,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70419",
       "abstract": "Abstract Combating the effects of global change and biodiversity loss requires a deeper understanding of species coexistence across variable environments. Little is known, however, about how drivers of coexistence respond to environmental change. Using a greenhouse competition experiment, we examine how interannual rainfall variation influences competitive dynamics in an old‐field annual plant community in southern China. We parameterize a competition model for eight species to assess coexistence outcomes under constant and variable rainfall conditions, partitioning variation‐independent and variation‐dependent mechanisms of coexistence. We show that species are more likely to coexist under variable rainfall conditions. Of the coexistence mechanisms examined, relative nonlinearity of the interaction strength most strongly promotes coexistence, followed by a lesser positive contribution from relative nonlinearity of the vital rates, while the interaction effect between these nonlinearities tends to destabilize coexistence. Synthesis . Our study provides novel evidence that rainfall variability promotes pairwise species coexistence in a multispecies plant community, driven primarily by the relative nonlinearity in interaction strength. These findings highlight the necessity of incorporating environmental variability into coexistence studies to better predict and manage biodiversity in a changing world.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Competition (biology)",
+        "Variable (mathematics)",
+        "Pairwise comparison",
+        "Nonlinear system",
+        "Climate change",
+        "Ecosystem",
+        "Indirect effect"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70543",
@@ -150,7 +280,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70538",
       "abstract": "Abstract Commercial tree nurseries face intense economic pressure to produce high‐quality, marketable planting stock with minimal pest damage. Because dense monocultures of young saplings are highly susceptible to pest outbreaks, this sector has traditionally relied on synthetic pesticides. Although flowering strips are widely recognised for strengthening conservation biological control in annual cropping systems, their capacity to support sustainable pest regulation and improve crop physiological performance in perennial woody nurseries remains untested. We investigated whether flowering strips enhance biocontrol in a commercial ornamental pine nursery by comparing plots with inter‐row flowering strips to control plots with regularly mown grass. Arthropods were sampled from inter‐rows and pine canopies to assess community‐level patterns consistent with their spillover. Tree vitality was evaluated using complementary indicators of physiological performance and pest impact, including relative chlorophyll content, chlorophyll fluorescence parameters (linear electron flow and non‐photochemical quenching), needle biomass, and herbivore damage. Flowering strips increased natural enemy abundance, particularly spiders, in inter‐rows and canopies. Beta‐diversity revealed stronger habitat separation for herbivores than predators, consistent with selective spillover: predator communities overlapped, whereas herbivores remained distinct, probably reflecting host specificity. Strips were dominated by herb‐layer feeders, likely alternative prey, while canopies hosted pine‐associated sap‐sucking pests. In parallel, adjacent trees showed reduced herbivore damage, greater needle biomass, higher chlorophyll content, enhanced linear electron flow, and lower non‐photochemical quenching. Our study provides evidence that habitat diversification in nurseries can strengthen conservation biological control and contribute to agronomically valuable improvements in crop physiological performance. Synthesis and applications . To reduce reliance on synthetic pesticides and improve planting‐stock quality, nursery managers may consider integrating perennial flowering strips into inter‐rows, particularly under comparable pine nursery conditions. This nature‐based intervention was associated with reduced sap‐sucking pest pressure, probably mediated by increased natural enemy abundance and community patterns consistent with predator spillover. To realise these benefits and avoid strips acting as ecological traps, practitioners should adopt tailored maintenance regimes: retain uncut refugia during mowing and prevent chemical drift into strips if canopy‐targeted pesticides are needed. More broadly, this strategy supports resilient forestry production and aligns nursery operations with growing policy pressure for biodiversity‐friendly practices.",
-      "keywords": []
+      "keywords": [
+        "Herbivore",
+        "PEST analysis",
+        "Perennial plant",
+        "Integrated pest management",
+        "Pest control",
+        "Woody plant",
+        "Monoculture",
+        "Habitat",
+        "Biological pest control"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70532",
@@ -252,7 +392,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71042",
       "abstract": "ABSTRACT Climate change is disrupting myriad biological processes, including the ability of species to synchronize life‐history events with optimal environmental conditions, with potential fitness impacts. Changes in migratory and breeding phenology and their consequences on fitness have been well studied in birds and some mammals. By contrast, changes in the phenology of overwinter sheltering and their influence on fitness have rarely been investigated. Pregnant female polar bears ( Ursus maritimus ) spend the winter fasting in a maternity den where they give birth and nurse their cubs until emergence in early spring. To sustain their fast, females rely on energy stores built primarily through consumption of ice‐associated seals. Here, we assess the impact of sea‐ice loss driven by climate change on early reproductive success acting through disrupted denning phenology and other unspecified factors. To do so, we develop a Bayesian hierarchical model combining capture–recapture and path modeling. We apply it to 38 years of capture–recapture data along with biologging data on denning status and phenology, while accounting for imperfect detection and uncertainty in individual denning schedules. We found that low sea‐ice availability led to earlier den emergence, which in turn reduced early litter survival and possibly litter size. By contrast, there was little evidence that sea‐ice availability affected early reproductive success through pathways independent of denning phenology (e.g., litter mass). Considering both direct and indirect effects, low sea‐ice availability reduced early litter survival but not the size of surviving litters. Given the strong link between sea‐ice conditions and body condition in female polar bears, we conclude that sea‐ice loss exerts an energetic constraint on denning females, forcing them to depart from dens early, which jeopardizes their cubs, ultimately reducing maternal fitness. Similar impacts of climate change may occur in other species where phenology is determined by body condition.",
-      "keywords": []
+      "keywords": [
+        "Phenology",
+        "Reproductive success",
+        "Litter",
+        "Climate change",
+        "Foraging",
+        "Generalist and specialist species",
+        "Reproduction"
+      ]
     },
     {
       "doi": "10.1111/gcb.71049",
@@ -18630,34 +18778,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70842",
-      "doi_url": "https://doi.org/10.1111/gcb.70842",
-      "title": "Keeping Pace With Intensifying Agricultural Field Inundation Events: A Framework for Testing the Mitigative Capacity of Current Best Management Practices",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-09",
-      "published_date_display": "2026-04-09",
-      "published_parts": [
-        2026,
-        4,
-        9
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70842",
-      "abstract": "ABSTRACT According to data from the USDA's Risk Management Agency, crop insurance indemnities related to precipitation, hurricanes, excess moisture, and field inundation have totaled approximately $3.65 billion across Illinois, Indiana, and Iowa over the past decade. Of this amount, an estimated $924 million (25.31%) was attributed to losses that occurred in the spring months. Cover crops and conservation tillage have been recommended as best management practices to mitigate financial impacts by reducing nutrient losses from erosion, runoff, and greenhouse gas (GHG) emissions, preventing disease and physical plant damage, and enhancing field access through improved landscape drainage. However, further intensification of field inundation events is projected in these three states as we approach the midcentury, which may lessen the mitigative capacity of these practices. Few studies have tested the resilience of these land management practices to intensifying field inundation. We propose a framework that integrates guiding research questions and field experiments to determine whether the mitigative capacity of cover crops and conservation tillage keeps pace with intensifying field inundation events. We also explore agricultural biologicals, precision agriculture, the introduction of perennial crops, and drainage management as measures to address inefficiencies associated with the mitigative capacity of cover crops and conservation tillage that may be identified during experimentation. This effort expands recommended best management practices and provides stakeholders with more options in an uncertain future due to climate change.",
-      "keywords": [
-        "Best practice",
-        "Tillage",
-        "Agriculture",
-        "Pace",
-        "Cover crop",
-        "Land management",
-        "Resilience (materials science)",
-        "Conservation agriculture",
-        "Climate change"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70855",
       "doi_url": "https://doi.org/10.1111/gcb.70855",
       "title": "Effects of Deforestation and Fragmentation on Tree Beta Diversity and Endemism Across Landscapes in the Atlantic Forest Biodiversity Hotspot",
@@ -18839,34 +18959,6 @@
         "Sink (geography)",
         "Global change",
         "Atmospheric carbon cycle"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70843",
-      "doi_url": "https://doi.org/10.1111/gcb.70843",
-      "title": "Sodicity Thresholds Alter Biodiversity–Multifunctionality Relationships Through Fungal Dominance and Microbial Trait‐Based Strategies",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-07",
-      "published_date_display": "2026-04-07",
-      "published_parts": [
-        2026,
-        4,
-        7
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70843",
-      "abstract": "ABSTRACT Increasing soil sodicity represents a critical threat to global agroecosystem health, but how exchangeable sodium percentage (ESP) modulates relationships between biodiversity and ecosystem multifunctionality (BEF) is unresolved. We surveyed 378 soil samples from 189 paired saline–sodic lands and adjacent farmlands across four major saline–sodic regions of China spanning ~2000 km. Random forest models demonstrated that ESP emerged as the primary abiotic predictor of soil multifunctionality, defining sharp thresholds ~13% for cropped systems and ~44% for natural saline–sodic habitats beyond which BEF relationships undergo fundamental reorganization. These breaks coincide with significant shifts toward fungal dominance within microbial communities. Notably, under hyper‐sodic conditions, fungal diversity emerges as essential for sustaining ecosystem functions. Metagenomic and trait‐based analyses further characterized three functional dimensions of microbial trait‐based strategies—environmental responsiveness, metabolic capacity, and nutrient recycling. We then mechanistically linked microbial life‐history strategies to soil multifunctionality. Our results showed that in farmland soils, nutrient recycling was positively associated with multifunctionality, whereas metabolic capacity was negatively correlated with multifunctionality, and in saline–sodic soils metabolic capacity exhibited a positive association with multifunctionality. Collectively, this study establishes ESP as a key regulator of BEF relationships and microbial eco‐evolutionary adaptations, providing mechanistic insights for managing saline–sodic soils under escalating climate change.",
-      "keywords": [
-        "Agroecosystem",
-        "Ecosystem",
-        "Dominance (genetics)",
-        "Nutrient",
-        "Abiotic component",
-        "Biodiversity",
-        "Soil water",
-        "Habitat",
-        "Terrestrial ecosystem"
       ]
     },
     {
@@ -20854,32 +20946,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70339",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70339",
-      "title": "Using the marine flyways concept to accelerate ocean conservation",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-20",
-      "published_date_display": "2026-03-20",
-      "published_parts": [
-        2026,
-        3,
-        20
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70339",
-      "abstract": "Abstract The conservation of migratory species needs coordinated actions across their range. Global flyways are the broad routes migratory species travel between their breeding and non‐breeding ranges. For migratory land and waterbirds, the flyways concept has improved conservation outcomes by providing an effective framework that brings together relevant stakeholders, identifies research and conservation priorities, mobilises finances and coordinates interventions over the long term. The recent identification of marine flyways presents an opportunity to translate the flyways concept to the marine environment to further the conservation of seabirds, one of the most threatened groups of birds. We summarise available data for marine flyways, including national responsibilities, focal species, important site networks and major pressures, for example to support the Resolution on Seabirds and Marine Flyways that is expected to be adopted at the Fifteenth Conference of the Parties (COP15) to the Convention on the Conservation of Migratory Species and Wild Animals (CMS) in March 2026. The Resolution aims to provide formal recognition of marine flyways and their contribution to strengthening international cooperation for the conservation of seabirds. We demonstrate the strong overlap of marine flyways with the national waters of countries that are Party to CMS, highlighting the unique opportunity for implementation via this policy mechanism. We identify 151 migratory and pelagic seabird species that use all or part of the marine flyways, of which almost half are globally threatened. We summarise the existing site network identified for the focal species, alongside their major threats, providing a framework for prioritising conservation actions and identifying knowledge gaps to guide implementation. Policy implications . Implementing the marine flyways framework can secure ecological connectivity across the marine environment, including in synergistic implementation of existing regional policy instruments and multiple multilateral environmental agreements, including CMS, the Kunming‐Montreal Global Biodiversity Framework (KMGBF) and the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement), accelerating ocean conservation and delivering tangible benefits for migratory species. Read the free Plain Language Summary for this article on the journal’s blog .",
-      "keywords": [
-        "Seabird",
-        "Threatened species",
-        "Identification (biology)",
-        "Bird conservation",
-        "Marine conservation",
-        "Pelagic zone",
-        "Marine protected area"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70361",
       "doi_url": "https://doi.org/10.1111/ele.70361",
       "title": "Three Decades of Butterfly–Plant Interaction Turnover Explained by Climate and Species Loss",
@@ -21968,33 +22034,6 @@
         "Introduced species",
         "Pest control",
         "Transmission (telecommunications)"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70316",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70316",
-      "title": "Density dependence modulates climate change impacts on eastern Bering Sea snow crab",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-11",
-      "published_date_display": "2026-03-11",
-      "published_parts": [
-        2026,
-        3,
-        11
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70316",
-      "abstract": "Abstract Populations change as a result of many interacting processes, each of which may be moderated by density dependence and/or climate. Models and projections of population dynamics support conservation and economic planning, but the extent to which the influence of climate or density is incorporated varies. We develop a population dynamics model for eastern Bering Sea snow crab ( Chionoecetes opilio ) that fits to data collected from 1982 to 2023 to estimate variability in recruitment and mortality. We then use generalized additive models (GAMs) to explain the variability in recruitment, mortality and maturity using environmental covariates and density. Finally, we project the population forward under various assumptions about climate and density dependence on recruitment, mortality and maturity. Feedbacks among population processes result in different short‐ and long‐term population trajectories. For example, including density dependence in mortality projections allows for a stronger rebound in the population in the short term, but the harmful effects of warming outweigh the protective effect of lower density in the long term. Projected long‐term crab abundances were much lower than historically observed under receding ice cover in the Bering Sea regardless of the combination of processes driven by density and climate. Synthesis and applications . Our results underscore the need for management capable of addressing the impacts of both density and climate effects on multiple processes in harvested populations. Non‐stationarity in drivers of population dynamics (e.g. climate change) will further affect the ability of management to achieve sustainable yields. Current frameworks built around equilibrium‐based maximum sustainable yield are not well‐suited to address either of these issues.",
-      "keywords": [
-        "Density dependence",
-        "Climate change",
-        "Population density",
-        "Population",
-        "Snow",
-        "Global warming",
-        "Climate model",
-        "Effects of global warming"
       ]
     },
     {
@@ -26748,29 +26787,6 @@
       "keywords": [
         "Natural (archaeology)",
         "Biological evolution"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02951-w",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02951-w",
-      "title": "Mapping where marine megafauna move",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        1,
-        9
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02951-w",
-      "abstract": "",
-      "keywords": [
-        "Megafauna",
-        "Taxonomy (biology)",
-        "Table (database)",
-        "Subject (documents)"
       ]
     },
     {
