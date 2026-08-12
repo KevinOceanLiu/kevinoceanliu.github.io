@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:03:32.103301+00:00",
+  "generated_at": "2026-08-12T23:01:33.950066+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,26 +31,43 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.compenvurbsys.2026.102505",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102505",
-      "title": "FloodLang and FloodLoc-Four: A bilingual dataset and fine-grained multilevel framework for flood-related geospatial information understanding",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
+      "doi": "10.1016/j.landurbplan.2026.105764",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105764",
+      "title": "JustGreen: Health impact assessment of urban vegetation across the 200 most populated US cities",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2027-01-01",
+      "published_date_display": "2027-01",
+      "published_parts": [
+        2027,
+        1
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600188X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0169-2046(26)00192-1",
+      "doi_url": "https://doi.org/10.1016/s0169-2046(26)00192-1",
+      "title": "Editorial Board",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
       "published_date": "2026-12-01",
       "published_date_display": "2026-12",
       "published_parts": [
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001079",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001921",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107474",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107474",
-      "title": "Inequality in bridging the digital divide among older adults across 115 Chinese cities during the public health emergencies",
+      "doi": "10.1016/j.cities.2026.107446",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107446",
+      "title": "The role of living labs for cities sustainable transition: evidence from the Turin living lab",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -60,7 +77,24 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007067",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006785",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107448",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107448",
+      "title": "Is the accessible truly walkable? Does proximity to services translate into walking?",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006803",
       "abstract": "",
       "keywords": []
     },
@@ -112,6 +146,52 @@
       ]
     },
     {
+      "doi": "10.1016/j.compenvurbsys.2026.102505",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102505",
+      "title": "FloodLang and FloodLoc-Four: A bilingual dataset and fine-grained multilevel framework for flood-related geospatial information understanding",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001079",
+      "abstract": "",
+      "keywords": [
+        "Geospatial analysis",
+        "Information system",
+        "Topic model",
+        "Geographic information system"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107474",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107474",
+      "title": "Inequality in bridging the digital divide among older adults across 115 Chinese cities during the public health emergencies",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-11",
+      "published_date_display": "2026-08-11",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007067",
+      "abstract": "",
+      "keywords": [
+        "Bridging (networking)",
+        "Digital divide",
+        "Inequality",
+        "Public health",
+        "Health equity",
+        "Social inequality"
+      ]
+    },
+    {
       "doi": "10.1177/00420980261472298",
       "doi_url": "https://doi.org/10.1177/00420980261472298",
       "title": "Politicians’ municipal bond purchases and local government misallocation: Implications for urban fiscal governance",
@@ -154,7 +234,14 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261457713",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Informal settlements",
+        "Cape",
+        "Citizenship",
+        "Human settlement",
+        "Electricity",
+        "Tracing"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00493-1",
@@ -6649,7 +6736,7 @@
       "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
-        7
+        12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001775",
       "abstract": "",
@@ -9512,28 +9599,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107260",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107260",
-      "title": "Greening-related governance actions enhance vegetation greenness in urbanizing regions: Evidence from Chinese cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-27",
-      "published_date_display": "2026-05-27",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004920",
-      "abstract": "",
-      "keywords": [
-        "Corporate governance",
-        "Vegetation (pathology)",
-        "Urban planning",
-        "Urbanization"
-      ]
-    },
-    {
       "doi": "10.1038/s44284-026-00447-7",
       "doi_url": "https://doi.org/10.1038/s44284-026-00447-7",
       "title": "Global divergence in urban demographic change and migration patterns",
@@ -9559,29 +9624,6 @@
         "Urbanization",
         "Climate change",
         "Spatial ecology"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107152",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107152",
-      "title": "Assessing resilience of urban bike-sharing systems: Weather and land-use influences on demand dynamics",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-26",
-      "published_date_display": "2026-05-26",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003847",
-      "abstract": "• Demand resilience of urban bike-sharing stations varies by land-use factors. • XGBoost-SHAP predicts demand and quantifies land-use impacts under extreme weather. • Higher street density and downtown proximity enhance demand stability. • Recreational and commercial POIs significantly affect demand resilience in Summer. • Connectivity to public transit significantly stabilizes demand in winter weather.",
-      "keywords": [
-        "Resilience (materials science)",
-        "Psychological resilience",
-        "Dynamics (music)",
-        "Urban resilience",
-        "System dynamics"
       ]
     },
     {
