@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:24:11.620027+00:00",
+  "generated_at": "2026-08-13T22:24:36.137272+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,42 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41893-026-01916-6",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01916-6",
+      "title": "Scalable ambient fabrication of single-junction and perovskite–silicon tandem solar cells",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
+      "published_parts": [
+        2026,
+        8,
+        13
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01916-6",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02730-w",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02730-w",
+      "title": "Failure to track a stable AMOC state under rapid climate change",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
+      "published_parts": [
+        2026,
+        8,
+        13
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02730-w",
+      "abstract": "Abstract The Atlantic Meridional Overturning Circulation (AMOC), a tipping element of the climate system, currently has an estimated global warming threshold for collapse of +4.0 °C (uncertainty range 1.4–8 °C). However, such a threshold may not be meaningful because AMOC stability depends on the rate of radiative forcing change, not a set temperature. Here we identify an AMOC stabilizing mechanism that operates on timescales slower than present-day warming rates. Slow forcing permits coherent adjustment of surface and interior ocean properties, supported by enhanced evaporation and reduced sea-ice extent, counteracting destabilizing feedbacks. Using a slow CO 2 ramp (+0.5 ppm yr −1 ) climate model simulation, we explicitly demonstrate the AMOC remains stable up to +5.5 °C of global warming. By contrast, under faster CO 2 ramps, the AMOC collapses at substantially lower warming levels (+2 °C). Our findings demonstrate rate-induced AMOC tipping and imply that limiting the rate of emissions is critical for reducing the risk of an AMOC collapse.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01926-4",
       "doi_url": "https://doi.org/10.1038/s41893-026-01926-4",
       "title": "Author Correction: Biodiversity recovery is slow following clear-cut harvest of boreal forests",
@@ -40,8 +76,14 @@
         12
       ],
       "link": "https://www.nature.com/articles/s41893-026-01926-4",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Following publication of this article, the copyright has been amended from “© The Author(s)” to “© Government of Canada and the Author(s)” in the HTML and PDF versions of the article.",
+      "keywords": [
+        "Biodiversity",
+        "Taiga",
+        "Government (linguistics)",
+        "Boreal",
+        "Ecosystem"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02039-5",
@@ -652,14 +694,21 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001818",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Planetary boundaries",
+        "Geospatial analysis",
+        "Boundary (topology)",
+        "Earth observation",
+        "Earth system science",
+        "Planetary exploration"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101781",
