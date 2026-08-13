@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:01:33.950066+00:00",
+  "generated_at": "2026-08-13T23:02:50.252842+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,9 +31,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105764",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105764",
-      "title": "JustGreen: Health impact assessment of urban vegetation across the 200 most populated US cities",
+      "doi": "10.1016/j.landurbplan.2026.105761",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105761",
+      "title": "Quantifying heat exposure risk in 15-minute cities: a coupled analysis integrating dynamic shading effects and human mobility patterns",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
@@ -43,9 +43,102 @@
         2027,
         1
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600188X",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001854",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105763",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105763",
+      "title": "Biodiversity of domestic gardens: Design, management, and perception in a case study in Salzburg, Austria",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2027-01-01",
+      "published_date_display": "2027-01",
+      "published_parts": [
+        2027,
+        1
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001878",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107476",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107476",
+      "title": "Spatial exclusion on public land: Fragmented governance and Vancouver's golf courses",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007080",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107439",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107439",
+      "title": "Geographies in flux - how time and location influence shrinking medium-sized cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006712",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/s0264-2751(26)00717-1",
+      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00717-1",
+      "title": "Editorial Board",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007171",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105764",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105764",
+      "title": "JustGreen: Health impact assessment of urban vegetation across the 200 most populated US cities",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
+      "published_parts": [
+        2027,
+        1
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S016920462600188X",
+      "abstract": "",
+      "keywords": [
+        "Vegetation (pathology)",
+        "Health impact assessment",
+        "Health assessment",
+        "Impact assessment",
+        "Environmental impact assessment",
+        "Human health",
+        "Risk assessment"
+      ]
     },
     {
       "doi": "10.1016/s0169-2046(26)00192-1",
@@ -54,8 +147,8 @@
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
       "published_parts": [
         2026,
         12
@@ -71,15 +164,26 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006785",
-      "abstract": "",
-      "keywords": []
+      "abstract": "The transition to sustainability has become imperative in mitigating the ecological impact of human activities. Living labs, as experimental environments within cities, offer a dynamic platform for testing and refining sustainable solutions. Local governments are increasingly turning to Living Labs as a means to confront sustainability issues. The study aims to comprehend how cities can promote sustainability. Accordingly, we analyzed the case study of the Turin City Lab. This research shows the importance of Living Labs in fostering interactions among stakeholders, accelerating innovation, and facilitating sustainable transition. The direct approach facilitated by Living Labs emerges as a powerful tool, capable of refining innovative ideas and meeting citizens' needs, acting as a catalyst, and laying the foundation for the transformation of cities into vibrant innovation hubs.",
+      "keywords": [
+        "Sustainable living",
+        "Transition (genetics)",
+        "Living lab",
+        "Business",
+        "Sustainability",
+        "Ecology",
+        "Computer science",
+        "World Wide Web",
+        "Chemistry",
+        "Biology"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107448",
@@ -88,15 +192,17 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006803",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Key (lock)"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105756",
@@ -2988,6 +3094,27 @@
         "Hydrology (agriculture)",
         "Water use",
         "Water quality"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105753",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105753",
+      "title": "Corrigendum to “Risk assessment in the Pyrocene – Rapid changes in models and predictions complicate US policies to prioritize forest and fuel management” [Landsc. Urban Plan. 274 (2026) 105695]",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-07-22",
+      "published_date_display": "2026-07-22",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001775",
+      "abstract": "",
+      "keywords": [
+        "Current (fluid)",
+        "Model validation",
+        "Risk assessment"
       ]
     },
     {
@@ -6726,27 +6853,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.landurbplan.2026.105753",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105753",
-      "title": "Corrigendum to “Risk assessment in the Pyrocene – Rapid changes in models and predictions complicate US policies to prioritize forest and fuel management” [Landsc. Urban Plan. 274 (2026) 105695]",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07-01",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001775",
-      "abstract": "",
-      "keywords": [
-        "Current (fluid)",
-        "Model validation",
-        "Risk assessment"
-      ]
-    },
-    {
       "doi": "10.1016/j.compenvurbsys.2026.102488",
       "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102488",
       "title": "Spotting rat-runs: A network-based method for identifying potential cut-through routes in Bogotá, Colombia",
@@ -9083,28 +9189,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107141",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107141",
-      "title": "Regional resilience and governance modes: Two great transformations of Dongguan in China's post-1978 reform era",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-06-02",
-      "published_date_display": "2026-06-02",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003732",
-      "abstract": "",
-      "keywords": [
-        "Resilience (materials science)",
-        "Corporate governance",
-        "Psychological resilience",
-        "Perspective (graphical)"
-      ]
-    },
-    {
       "doi": "10.1038/s44284-026-00456-6",
       "doi_url": "https://doi.org/10.1038/s44284-026-00456-6",
       "title": "From slaughterhouse to cultural engine",
@@ -9979,52 +10063,6 @@
         "Complex network",
         "Network analysis",
         "Loose coupling"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107160",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107160",
-      "title": "In(equity) in accessibility to low-wage jobs by public transit in the fifteen largest cities in the United States",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-22",
-      "published_date_display": "2026-05-22",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126003926",
-      "abstract": "",
-      "keywords": [
-        "Public transport",
-        "Transit (satellite)",
-        "Transit system",
-        "Urban transit"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107189",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107189",
-      "title": "Exploring trends in bioeconomy and urban agriculture for cities – A meta-review for identifying major tasks for urban planning",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-22",
-      "published_date_display": "2026-05-22",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600421X",
-      "abstract": "",
-      "keywords": [
-        "Urban agriculture",
-        "Urban planning",
-        "Agriculture",
-        "Urban density",
-        "Land-use planning",
-        "Urban climate"
       ]
     },
     {
