@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:22:10.445352+00:00",
+  "generated_at": "2026-08-13T23:23:35.758829+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,135 @@
   ],
   "articles": [
     {
+      "doi": "10.1086/743609",
+      "doi_url": "https://doi.org/10.1086/743609",
+      "title": "Social structure and social stability predict learning, scrounging, and feeding rate in foraging flocks of wild songbirds",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
+      "published_parts": [
+        2026,
+        8,
+        13
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743609",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03153-8",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03153-8",
+      "title": "Animal degradation of microbial storage polyhydroxyalkanoates",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
+      "published_parts": [
+        2026,
+        8,
+        13
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03153-8",
+      "abstract": "Abstract A wide range of microorganisms produce storage biopolymer polyhydroxyalkanoates (sPHAs) as carbon and energy reserves. However, only bacteria and fungi are known to degrade microbial sPHAs, using enzymes called polyhydroxyalkanoate depolymerases (PHADs). Here we show that some animals also have PHADs that can degrade sPHAs. We discovered a PHAD in the gutless oligochaete Olavius algarvensis , a marine worm that gains nutrition by digesting bacterial symbionts, including a dominant symbiont in which sPHAs account for up to 42% of cellular carbon stores. Enzyme assays, combined with mass spectrometry, confirmed that heterologously expressed O. algarvensis PHAD degraded sPHAs into hydroxyalkanoate monomers that can enter conserved metabolic pathways. Imaging of mRNA showed that PHAD was expressed in the oligochaete epidermis, the site of symbiont digestion. We further identified PHADs in more than 66 gut-bearing animal species from nine phyla and 19 protist species from three major supergroups, suggesting that the last common ancestor of metazoans possessed PHADs. Functional assays confirmed that PHADs from phylogenetically distant animal lineages spanning aquatic and terrestrial environments degrade sPHAs. These findings reveal a previously unrecognized pathway by which protists and animals can access microbial carbon reserves, with broad relevance given the widespread occurrence of sPHAs across ecosystems.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71048",
+      "doi_url": "https://doi.org/10.1111/gcb.71048",
+      "title": "Closing Knowledge Gaps on Global Budget of Nitrogen Oxides ( <scp> NO <sub>x</sub> </scp> ) by Quantifying Indirect Emissions From Anthropogenic Nitrogen",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
+      "published_parts": [
+        2026,
+        8,
+        13
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71048",
+      "abstract": "ABSTRACT Human activities emit nitrogen oxides (NO x ≡ NO + NO 2 ; with source emissions approximated as nitric oxide (NO)), potent air pollutants and short‐lived climate forcers, through direct and indirect pathways. Unlike direct releases, however, indirect NO x emissions remain poorly understood and inadequately quantified. Here, by synthesizing available observations across global terrestrial ecosystems, we show that soil moisture and pH strongly affect the ratio of annual background NO to nitrous oxide (N 2 O) emissions (), with a critical threshold at 46% water‐filled soil pore space. Combining soil moisture‐stratified modeled by machine learning with known indirect N 2 O emission factors, global indirect NO x emission factors () are derived, yielding an aggregated median of 1.59% (95% confidence interval (CI): 0.45%–2.41%) and significantly higher ( p < 0.01) disaggregated values of 1.77% (95% CI: 1.49%–2.61%) for wet climates () than those of 0.89% (95% CI: 0.45%–1.28%) for dry climates (). We further estimate that the global indirect NO x emissions resulting from atmospheric deposition of nitrogen released by all anthropogenic sources amounted to approximately 886 (95% CI: 314–1639) Gg N year −1 (1 Gg = 10 9 g) in 2015, with fertilization, animal husbandry, and other human activities contributing about 25%, 26%, and 49%, respectively. Crucially, without soil moisture stratification, the global indirect NO x emissions would be underestimated by approximately 16% ( p < 0.001), while the associated uncertainty would be about 1.5 times as large. Our novel ‐based framework provides a robust approach for quantifying indirect NO x emissions in regional, national and global inventories, thereby supporting targeted strategies to mitigate air pollution and climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1086/743599",
+      "doi_url": "https://doi.org/10.1086/743599",
+      "title": "What fraction of the genomic basis of local adaptation are we missing?",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
+      "published_parts": [
+        2026,
+        8,
+        12
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743599",
+      "abstract": "How will species adapt to changing environments? To what extent does adaptation to previous conditions maintain the variation needed to adapt to future conditions? To answer these kinds of questions, we need to identify locally adaptive alleles and quantify their effects. Theory shows that the architecture of adaptation can depend upon the nature of mutation and on how ecology shapes the processes of migration and selection. Depending on this interplay, adaptation can be driven by few alleles of large effect or many alleles of small effect, but little is known about the relative prevalence of such architectures in nature. Unfortunately, our statistical methods are also biased: it is much easier to identify loci of large effect that contribute repeatedly across populations or species, while alleles of small effect are all but invisible to genomic analysis. There is, therefore, a gap between the total amount of locally adaptive variation and that which is explained by genomic studies. To quantify this missing local adaptation, future studies require a deep integration of genomic and phenotypic analyses.",
+      "keywords": [
+        "Adaptation (eye)",
+        "Local adaptation",
+        "Allele",
+        "Genetic architecture",
+        "Variation (astronomy)",
+        "Genomics",
+        "Genetic variation"
+      ]
+    },
+    {
+      "doi": "10.1086/743598",
+      "doi_url": "https://doi.org/10.1086/743598",
+      "title": "Foraging decisions generate the network structure of plant–pollinator individual interactions",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
+      "published_parts": [
+        2026,
+        8,
+        12
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743598",
+      "abstract": "",
+      "keywords": [
+        "Foraging",
+        "Network structure",
+        "Nestedness",
+        "Population structure",
+        "Ecological network"
+      ]
+    },
+    {
+      "doi": "10.1086/743597",
+      "doi_url": "https://doi.org/10.1086/743597",
+      "title": "Coexistence of sexual and asexual reproduction in facultatively parthenogenetic populations under sexual conflict: an agent-based simulation",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
+      "published_parts": [
+        2026,
+        8,
+        12
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743597",
+      "abstract": "",
+      "keywords": [
+        "Parthenogenesis",
+        "Asexual reproduction",
+        "Sexual reproduction",
+        "Reproduction",
+        "Asexuality",
+        "Population"
+      ]
+    },
+    {
       "doi": "10.1038/s41559-026-03161-8",
       "doi_url": "https://doi.org/10.1038/s41559-026-03161-8",
       "title": "Assessing a reverse approach to protecting traded species",
@@ -51,7 +180,61 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03161-8",
       "abstract": "",
+      "keywords": [
+        "Listing (finance)",
+        "Wildlife trade",
+        "Sustainability",
+        "Risk assessment",
+        "Payment",
+        "Sustainable development",
+        "Wildlife"
+      ]
+    },
+    {
+      "doi": "10.1111/1365-2664.70540",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70540",
+      "title": "Evaluating the effectiveness of lasers in deterring birds based on global systematic evidence",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
+      "published_parts": [
+        2026,
+        8,
+        12
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70540",
+      "abstract": "Abstract Evidence‐based interventions to reduce wildlife‐caused property losses are essential for achieving sustainable coexistence between humans and wildlife. Since the 1970s, lasers have been used to safeguard various properties, including aircraft, agricultural fields and energy infrastructure. However, their effectiveness has not been quantitatively evaluated using systematic evidence across different scenarios, which limits their broader application. Here, we compiled data from 159 experiments conducted worldwide and used meta‐analytic approaches to evaluate the overall effectiveness of lasers in reducing bird occupancy. To facilitate management‐relevant interpretation, we further assessed its scalability for subgroups of bird taxa, laser characteristics and environmental conditions based on the amount of evidence and statistical support. Our findings revealed the following: (i) although the primary objective of laser deterrents is to prevent property damage, the majority of experiments (96%) quantified effectiveness indirectly based on bird behaviour rather than direct property‐related outcomes; (ii) empirical evidence predominantly originated from wetlands, while data from airports were particularly scarce; (iii) laser operations reduced bird occupancy by 59%, though this deterrent effect gradually diminished after the cessation of laser use, resulting in a statistically non‐significant persistence effect; (iv) Class 3B, green lasers, whether applied manually or automatically, were supported by considerable to moderate evidence for deterring waterfowls and songbirds, especially under low light conditions in natural field settings; and (v) existing evidence does not show clear habituation. Synthesis and applications . Our results indicate that laser deterrents represent a promising non‐lethal intervention for mitigating human–bird conflicts across multiple scenarios. Future research may need to prioritize the development of automated laser applications, incorporate direct measurements of property‐related outcomes and expand experimental evaluations to include underrepresented taxa and high‐impact scenarios. This would strengthen the evidence base for conservation and management applications.",
       "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71019",
+      "doi_url": "https://doi.org/10.1111/gcb.71019",
+      "title": "Soil Microbiome Predator Diversity Outperforms Nitrogen Addition in Boosting Plant Biomass via Bacterial Community Shifts",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-12",
+      "published_date_display": "2026-08-12",
+      "published_parts": [
+        2026,
+        8,
+        12
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71019",
+      "abstract": "ABSTRACT Nitrogen (N) is crucial for plant growth, but its overuse harms biodiversity. Increasing soil biodiversity might provide the means to reduce N inputs, but experimental evidence for this paradigm shift is limited. Using microbiome predators (protists and nematodes) that shape microbiome composition and participate in N cycling, we examined how interactions between their diversity and N addition affect Cannabis sativa growth. The addition of microbiome predators increased plant biomass by up to 53%, irrespective of diversity level, with effects reaching up to 60% under higher microbiome predator diversity. This biomass increase was primarily associated with changes in bacterial community composition and enriching functions related to carbon and N cycling. In contrast, N input played a greater role in determining plant and soil nutrient content. These findings suggest that microbiome predators determine plant biomass in a diversity and N‐specific manner, showing the pivotal role of soil biodiversity in enhancing plant performance and serving as promising tools to mitigate N inputs.",
+      "keywords": [
+        "Microbiome",
+        "Biodiversity",
+        "Biomass (ecology)",
+        "Predator",
+        "Plant community",
+        "Ecosystem",
+        "Boosting (machine learning)",
+        "Plant diversity",
+        "Nutrient"
+      ]
     },
     {
       "doi": "10.1086/743557",
@@ -144,7 +327,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70539",
       "abstract": "Abstract Monospecific pine plantations are highly vulnerable to disturbance. Promoting oak regeneration through assisted restoration by effective acorn dispersers, such as the Eurasian jay ( Garrulus glandarius L.), could significantly enhance their ecological resilience. However, our ability to design targeted management interventions that harness jay‐assisted oak regeneration is constrained by limited knowledge of how this corvid selects understorey microsites for caching acorns in these plantations. To inform jay‐assisted oak regeneration in pine plantations, we examined how understorey structure influences jay acorn caching behaviour in two ecologically contrasting oaks, Quercus ilex L. and Quercus faginea Lam. We selected three sites within a 55‐year‐old monospecific Pinus pinaster Lam. plantation that differed in density due to thinning. For two consecutive dispersal seasons, we quantified dispersal distances and the microsite caching preferences of jays using acorn radio‐tracking. Jays cached all acorns within the pine plantation and avoided wide natural or artificial gaps. Proportion of cached acorns was similar for both oaks, with no significant differences in dispersal distance kernels. Jays strongly selected large shrubs, mainly Cistus spp., with a tendency to select shrub‐abundant patches and cache acorns closer to pine trunks than expected by chance; these patterns were unrelated to oak species. Jays did not use coarse wood for caching, and caches were no less frequent in furrows or mounds from site preparation to establish the plantation than in undisturbed ground. Between 1.2% and 10.7% of cached acorns produced seedlings that survived their first summer. Synthesis and applications . Our findings show that Eurasian jay dispersal activity depends on specific understorey structures when selecting caching microsites—particularly shrub cover and standing pines. These features could be directly shaped by management to promote assisted natural oak regeneration. By fostering structurally diverse understories, managers can enhance seed dispersal services and accelerate the transition of vulnerable pine monocultures towards more resilient mixed forests.",
-      "keywords": []
+      "keywords": [
+        "Acorn",
+        "Understory",
+        "Seed dispersal",
+        "Biological dispersal",
+        "Microsite",
+        "Fagaceae",
+        "Frugivore",
+        "Pinus pinaster"
+      ]
     },
     {
       "doi": "10.1111/gcb.71051",
@@ -162,7 +354,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71051",
       "abstract": "ABSTRACT Wildfires are driving substantial losses of tropical forest, with climate change expected to increase fire‐driven losses throughout the century. Whether Protected Areas (PAs)—and the vital habitat they protect—are buffered from fire is a key question. Here we combine PA and stand‐replacing fire data to estimate that > 4 million hectares (Mha) of protected tropical forest have been lost to stand‐replacing fire since 2001, with one‐third of losses (1.35 Mha) occurring in 2024 alone. The vast majority of losses (89%) were concentrated in the tropical Americas (3.6 Mha), most of which occurred in Brazil (2.7 Mha), followed by Asia‐Pacific (0.31 Mha) and Africa (0.14 Mha). Increasing trends in annual losses were observed across the Americas and Africa, occurring in 30 countries across the tropics. Counterfactual analysis suggests that despite considerable heterogeneity PAs most often reduce the probability of stand‐replacing fires relative to non‐PAs across the tropics. In the Americas, protection reduced stand‐replacing fires in 48% of protected plots, rising to 71% and 55% in Africa and Asia‐Pacific, respectively. However, temporal burn trends remained tightly coupled inside and outside of PAs, suggesting PAs are equally exposed to increasing global trends in fire activity. Ensuring existing PAs are protected from anthropogenic ignition sources is a priority, but subsequent PA planning must consider future fire risk to ensure they remain an effective conservation tool in a changing climate.",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Tropics",
+        "Counterfactual thinking",
+        "Deforestation (computer science)",
+        "Habitat",
+        "Fire regime",
+        "Tropical forest",
+        "Tropical climate"
+      ]
     },
     {
       "doi": "10.1111/gcb.71046",
@@ -179,8 +380,17 @@
         11
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71046",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Extreme weather and climate events are threatening wildlife across the globe and animal movement is a primary mechanism that allows individuals to respond appropriately. Why, when, where, and how animals move when faced with extreme events will determine how extreme events transform ecological processes-from individual fitness and population viability to species persistence and range shift dynamics. Here, we propose a framework in which to consider how traits of both extreme events and animals mediate movement responses during extreme events. Temporal and spatial traits of an extreme event underpin the environmental change that occurs on the landscape. Both species- and individual-level traits influence the impact those environmental changes have on an animal. The environmental impact of the extreme event will, in turn, influence an animal's movement response, which ultimately determines their fitness outcome. By integrating the drivers and consequences of animal movement through a trait-based lens, we can accelerate the study, understanding, and conservation of wildlife mobility in an increasingly extreme world.",
+      "keywords": [
+        "Extreme weather",
+        "Wildlife",
+        "Climate change",
+        "Population",
+        "Movement (music)",
+        "Extreme Cold",
+        "Environmental change",
+        "Event (particle physics)"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70421",
@@ -14372,7 +14582,7 @@
     {
       "doi": "10.1086/742104",
       "doi_url": "https://doi.org/10.1086/742104",
-      "title": "Transgenerational and intergenerational maternal age effects exhibit genotype-specific, complex patterns of inheritance",
+      "title": "Transgenerational and Intergenerational Maternal Age Effects Exhibit Complex, Genotype-Specific Patterns of Inheritance",
       "journal_id": "american-naturalist",
       "journal_name": "The American Naturalist",
       "journal_short_name": "The American Naturalist",
@@ -17906,36 +18116,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70859",
-      "doi_url": "https://doi.org/10.1111/gcb.70859",
-      "title": "Hyperdominant Trees Reveal Savanna Vulnerability Under Climate Change",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-16",
-      "published_date_display": "2026-04-16",
-      "published_parts": [
-        2026,
-        4,
-        16
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70859",
-      "abstract": "ABSTRACT The Cerrado biome, spanning ~2 million km 2 , is one of the most extensive and biodiverse tropical savannas, yet it is paradoxically dominated by only 30 hyperdominant tree species (~2% of all species, > 50% of all stems). However, their vulnerability to climate change and the effectiveness of current conservation efforts remain uncertain. By combining (i) species distribution models calibrated with edaphic‐climatic predictors and occurrence data for hyperdominant Cerrado trees with (ii) functional‐trait analyses related to ecological strategies (leaf economics, bark investment, ecophysiology, drought tolerance, regeneration, and dispersal), we identified the biomass production and reproductive traits that best predict species persistence under high‐emission scenarios (RCP8.5). Currently, only 427,980 km 2 (~17.4%) of the modeled potential environmental suitability falls within protected areas; under future climate scenarios, this protected suitable area is projected to decline by ~45.9% to 231,377 km 2 (~18.1%). This loss, resulting from land conversion with the expansion of agricultural frontiers and fire events, highlights a mismatch in current regional conservation priorities, overlooking the needs of the Cerrado and its associated biodiversity. Given ongoing land‐use change and that 58% of remaining native vegetation occurs on private lands, this mismatch highlights the urgent need to align conservation and agricultural policy. Functional trait analyses revealed a clear gradient from acquisitive “fast” to conservative “slow” strategies, reflecting trade‐offs in water‐use efficiency and biomass allocation, with leaf structural and reproductive traits best predicting species resilience to climate change. Our results indicate that a small subset of hyperdominant species not only forms current community structure but also signals the biome's resilience/vulnerability to climate change. Conservation planning should prioritize identified climate refuges and be based on functional traits to buffer the loss of functional and structural integrity in one of the world's richest and most threatened savanna ecosystems.",
-      "keywords": [
-        "Climate change",
-        "Biodiversity",
-        "Vulnerability (computing)",
-        "Psychological resilience",
-        "Biomass (ecology)",
-        "Vegetation (pathology)",
-        "Species distribution",
-        "Global change",
-        "Effects of global warming",
-        "Land use",
-        "land-use change and forestry"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70845",
       "doi_url": "https://doi.org/10.1111/gcb.70845",
       "title": "Fish and Zooplankton Co‐Responses to Environmental Gradients Under Different Climate Change Scenarios",
@@ -18932,33 +19112,6 @@
         "Decomposition",
         "Trajectory",
         "Abundance (ecology)"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70840",
-      "doi_url": "https://doi.org/10.1111/gcb.70840",
-      "title": "Towards Right Answer for the Right Reasons in Global Land Carbon Sink Estimates",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-07",
-      "published_date_display": "2026-04-07",
-      "published_parts": [
-        2026,
-        4,
-        7
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70840",
-      "abstract": "ABSTRACT Quantifying the global land carbon sink is essential for understanding carbon‐climate feedbacks and developing effective mitigation strategies. Despite decades of research using eddy covariance, remote sensing, and atmospheric observations, carbon sink estimates remain highly uncertain across different approaches. The key challenge is to obtain the right global land carbon sink estimates for the right reasons. In this review, we first provide an overview of current methodologies for estimating terrestrial carbon sinks, including FLUXNET observations, top‐down atmospheric inversions, and bottom‐up approaches. We then leverage insights learned from FLUXNET to evaluate the observed range of annual net ecosystem exchange (NEE), gross primary production (GPP)–ecosystem respiration (R eco ), and GPP–evapotranspiration (ET) relationships, and assess whether current models capture these observational constraints. Because FLUXNET is widely used as a benchmark for evaluation and as training data for model calibration, we also identify opportunities to strengthen the utility of FLUXNET for global land carbon sink inference.",
-      "keywords": [
-        "FluxNet",
-        "Carbon sink",
-        "Carbon cycle",
-        "Primary production",
-        "Eddy covariance",
-        "Sink (geography)",
-        "Global change",
-        "Atmospheric carbon cycle"
       ]
     },
     {
@@ -21073,34 +21226,6 @@
         "Extinction (optical mineralogy)",
         "Series (stratigraphy)",
         "Population cycle"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70340",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70340",
-      "title": "Parallel responses of gross nitrogen mineralization rate and related functional gene abundance along subalpine secondary succession",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-19",
-      "published_date_display": "2026-03-19",
-      "published_parts": [
-        2026,
-        3,
-        19
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70340",
-      "abstract": "Abstract Understanding the soil nitrogen (N) cycling during vegetation succession is critical for effective ecosystem restoration and management. However, a comprehensive view of the dynamics of both the entire N‐cycling functional microbial community and gross N mineralization/nitrification rates during secondary succession remains a key knowledge gap, limiting the optimization of restoration strategies. We investigated N‐cycling functional gene profiles using metagenomics and gross N mineralization/nitrification rates by 15 N pool dilution techniques, along a complete secondary succession chronosequence (grassland‐shrubland‐secondary forest‐primary forest). The abundance of functional genes involved in N fixation, organic N synthesis, mineralization, nitrification, dissimilatory/assimilatory nitrate reduction to nitrite and denitrification increased by 27%–98% from grassland to shrubland, then declined by 13%–80% towards primary forest. The N‐cycling microbial community composition shifted significantly along the secondary succession. Functional genes were mainly distributed in Pseudomonadota , Acidobacteriota and Verrucomicrobiota phyla. The abundance of dominant phyla and the complexity of the functional gene co‐occurrence network were highest in the shrubland stage. The trend of the soil gross N mineralization rate was parallel to that of the mineralization functional gene abundance. Soil total carbon (C)/N pools exhibited greater effects on the N‐cycling microbial community and gross N mineralization rate than labile C/N fractions. Specifically, total C/N pools altered the gross N mineralization rate by changing the abundance of key mineralization genes, that is ure A / B / C and glsA . Synthesis and applications . These findings establish a microbial mediation framework for ecosystem recovery and suggest shrubland acts as a biogeochemical catalyst accelerating N cycling. By linking soil C/N pools to microbial N‐cycling potential and key N transformation rates, we provide a mechanistic basis for optimizing ecosystem restoration strategies.",
-      "keywords": [
-        "Mineralization (soil science)",
-        "Chronosequence",
-        "Ecological succession",
-        "Primary succession",
-        "Ecosystem",
-        "Secondary succession",
-        "Nitrogen cycle",
-        "Microbial population biology",
-        "Abundance (ecology)"
       ]
     },
     {
@@ -26766,27 +26891,6 @@
         "Stability (learning theory)",
         "Variation (astronomy)",
         "Climate change"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02938-7",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02938-7",
-      "title": "Synergistic evolution to trick a bird",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-09",
-      "published_date_display": "2026-01-09",
-      "published_parts": [
-        2026,
-        1,
-        9
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02938-7",
-      "abstract": "",
-      "keywords": [
-        "Natural (archaeology)",
-        "Biological evolution"
       ]
     },
     {
