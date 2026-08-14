@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:01:52.265507+00:00",
+  "generated_at": "2026-08-14T21:38:52.912546+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,9 +26,9 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115606",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115606",
-      "title": "Structure-resistant chlorophyll index: A novel indicator for leaf chlorophyll content monitoring",
+      "doi": "10.1016/j.rse.2026.115610",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115610",
+      "title": "Calibrated spatial uncertainty for Earth observation foundation models via Matérn-motivated latent stochastic regularization",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
@@ -38,14 +38,14 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003767",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003809",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.07.017",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.017",
-      "title": "RDA-DETR: Rotation-aware decoupled oriented object detection in aerial images with agent query",
+      "doi": "10.1016/j.isprsjprs.2026.07.026",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.026",
+      "title": "Making Transformer interpretable by design: A self-representation architecture for multi-scenario fine-grained land cover mapping",
       "journal_id": "isprs-jprs",
       "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
       "journal_short_name": "ISPRS JPRS",
@@ -55,9 +55,73 @@
         2026,
         10
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003746",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003837",
       "abstract": "",
       "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.014",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.014",
+      "title": "CMCL-PR: Cross-modal camera-to-LiDAR place recognition with cross-attention contrastive learning",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003618",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.029",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.029",
+      "title": "Toeplitz-structured deep unfolding network for TomoSAR 3-D reconstruction",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003862",
+      "abstract": "",
+      "keywords": [
+        "Iterative reconstruction",
+        "Image processing",
+        "Visualization"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115606",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115606",
+      "title": "Structure-resistant chlorophyll index: A novel indicator for leaf chlorophyll content monitoring",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003767",
+      "abstract": "",
+      "keywords": [
+        "Leaf area index",
+        "Canopy",
+        "Red edge",
+        "Chlorophyll",
+        "Vegetation (pathology)",
+        "Chlorophyll a",
+        "Atmospheric radiative transfer codes",
+        "Photosynthesis"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2716284",
@@ -74,8 +138,43 @@
         13
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2716284",
+      "abstract": "The geographical detector (GD) is a widely applied method that uses the q-statistic to assess the explanatory power of variables and identify their interactions. However, GD relies on deterministic spatial stratification, which ignores the fine-grained variation within strata and the gradual transitions between strata, resulting in information loss. While some enhanced methods have incorporated fuzzy spatial stratification, they still assume that each spatial unit belongs to a single stratum, limiting their ability to capture multiple memberships and potentially biasing the detection results. Therefore, we propose a fuzzy geographical detector (FGD) to improve spatial attribution and interaction analysis. For spatial attribution, FGD evaluates the explanatory power using the coefficient of determination, with the within-stratum sum of squares used in GD replaced by the sum of squared errors from a membership-weighted reconstruction, thereby capturing both within-stratum variation and gradual transitions between strata. For interaction analysis, FGD replaces spatial overlays with fuzzy intersections to detect fuzzy interactions among explanatory variables while retaining the interaction criteria of GD. Simulation experiments showed that FGD produced more accurate and stable attribution results than the comparison methods, while the empirical case study illustrated its ability to represent within-stratum variation and fuzzy boundaries.",
+      "keywords": [
+        "Fuzzy logic",
+        "Fuzzy set",
+        "Explanatory power",
+        "Variable (mathematics)",
+        "Spatial variability",
+        "Variation (astronomy)",
+        "Attribution",
+        "Spatial analysis"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.017",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.017",
+      "title": "RDA-DETR: Rotation-aware decoupled oriented object detection in aerial images with agent query",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003746",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Object detection",
+        "Redundancy (engineering)",
+        "Salient",
+        "Detector",
+        "Transformer",
+        "Object (grammar)",
+        "Feature (linguistics)",
+        "Precision and recall"
+      ]
     },
     {
       "doi": "10.1016/j.rse.2026.115613",
@@ -11072,30 +11171,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.042",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.042",
-      "title": "High-quality cloud-free optical image generation using multi-temporal SAR and contaminated optical data",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-06",
-      "published_date_display": "2026-04-06",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001565",
-      "abstract": "This paper addresses the challenge of missing optical image generation, i.e., generating unavailable optical images, for instance, due to cloud cover. We propose CRGenNet, an image generation network that incorporates innovative modules, for instance the DownUp Block and Fusion Attention to enhance accuracy. Furthermore, we constructed the TCSEN12 dataset, which includes multi-temporal SAR and optical observations in a flood-affected region, offering a benchmark for evaluating image generation methods under challenging conditions, characterized by cloud-contaminated auxiliary imagery and substantial temporal change. Experimental results validate the effectiveness, achieving superior visual effects and quantitative evaluation results that exceed those produced by comparison methods. On the TCSEN12 dataset, it achieved a Peak Signal-to-Noise Ratio (PSNR) of 26.978 and Structural Similarity Index Measure (SSIM) of 0.648, as compared to 26.225 and 0.622, using MTS2ONet, while on the public DTSEN1-2 dataset, it achieved a PSNR of 88.9263 and SSIM of 0.9999, as compared to 36.0435 PSNR and 0.9896 SSIM, respectively, for MTS2ONet. The study concludes that CRGenNet provides a robust method for integrating multi-modal data with complex temporal dynamics, while TCSEN12 establishes a more realistic benchmark by focusing on future-scene prediction under challenging cloud and post-disaster conditions.",
-      "keywords": [
-        "Synthetic aperture radar",
-        "Optical image",
-        "3D optical data storage",
-        "Image (mathematics)",
-        "Optical imaging",
-        "Contamination"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.04.010",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.010",
       "title": "Gaussian entropy fields: Driving adaptive sparsity in 3D Gaussian optimization",
@@ -11480,30 +11555,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.025",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.025",
-      "title": "RepVIS-GAN: A reparameterized GAN-based network for visible image retrieval from geostationary satellite infrared observations",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001395",
-      "abstract": "",
-      "keywords": [
-        "Geostationary orbit",
-        "Satellite",
-        "Infrared",
-        "Satellite imagery",
-        "Image retrieval",
-        "Data retrieval"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2644383",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2644383",
       "title": "Skills Shortage in the Offshore Wind Energy Industry? Geographical Industrialization, Working-Class Organization, and the Development of Skilled Labor-Power",
@@ -11648,31 +11699,6 @@
         "Remote sensing application",
         "Earth remote sensing",
         "Reflectivity"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.03.047",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.047",
-      "title": "Spatial–spectral feature guidance network for fine-grained object detection and recognition on complex-valued SAR images",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-31",
-      "published_date_display": "2026-03-31",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600167X",
-      "abstract": "",
-      "keywords": [
-        "Object detection",
-        "Feature (linguistics)",
-        "Pattern recognition (psychology)",
-        "Object (grammar)",
-        "Feature extraction",
-        "Automatic target recognition",
-        "Synthetic aperture radar"
       ]
     },
     {
@@ -12919,29 +12945,6 @@
         "Field (mathematics)",
         "Precipitation",
         "Hazard analysis"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115328",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115328",
-      "title": "Robust reconstruction of seamless daily VIIRS nighttime light imagery with cloud mask refinement and multi-strategy spatiotemporal gap-filling",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-25",
-      "published_date_display": "2026-02-25",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000982",
-      "abstract": "The full potential of daily VIIRS nighttime light (NTL) data in characterizing human activity changes has been largely constrained due to pervasive data gaps induced by cloud contamination and poor-quality observations. While several gap-filling methods are available, their effectiveness and applicability remain limited by under-detected cloud contamination and in challenging data gap conditions. In this study, we proposed a novel spatiotemporal gap-filling framework to generate seamless daily VNP46 VIIRS NTL data. First, we refined the original VNP46 cloud mask to mitigate under-detected cloud coverage in the NTL data for subsequent gap-filling. Second, we identified pixels sharing spatiotemporal similarity to each target data gap pixel via a set of stringent search criteria. Third, based on similar pixel search outcomes, we developed a multi-strategy gap-filling approach leveraging spatiotemporal information from not only valid observations but also pixels that were data gaps at the target date. Evaluated with daily NTL images from 30 global cities, our results revealed a 39% cloud under-detection rate among pixels labelled as valid observations in the VNP46 product. Our proposed gap-filling method demonstrated an effective and robust performance in reconstructing the NTL intensity across various simulated data gap conditions, including abrupt NTL changes, cloud underdetection, and dense spatiotemporal data gap coverage (R 2 = 0.80–0.85, RMSE = 2.13–10.84 nW/cm 2 /sr). We also found that our stringent similar pixel search criteria and multi-strategy gap-filling approach can better secure the quality of similar pixels, method applicability, and gap-filling accuracy compared to existing methods, particularly in challenging conditions. Furthermore, our method successfully reconstructed NTL images with dense data gaps during Hurricane Maria and provided seamless and consistent insights into the spatial heterogeneity of post-hurricane recovery. Our proposed gap-filling method and the resulting seamless daily NTL data will help to maximize its untapped potential by enhancing our understanding of the inherent characteristics of daily NTL data and unlocking new NTL-based applications.",
-      "keywords": [
-        "Cloud computing",
-        "Reflectivity",
-        "Satellite imagery",
-        "Satellite",
-        "Radiometry"
       ]
     },
     {
