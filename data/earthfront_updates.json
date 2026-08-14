@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:24:36.137272+00:00",
+  "generated_at": "2026-08-14T21:59:30.649555+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,78 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41561-026-02080-4",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02080-4",
+      "title": "Reply to: Antarctic greening is constrained by biology and requires field validation",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02080-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02072-4",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02072-4",
+      "title": "Changes in the tropical rainfall seasonal cycle dominated by mesoscale convective systems",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02072-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02076-0",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02076-0",
+      "title": "Antarctic greening is constrained by biology and requires field validation",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02076-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02691-0",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02691-0",
+      "title": "Empirical insights into residual emissions in urban net-zero targets",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02691-0",
+      "abstract": "Abstract Cities increasingly pledge net-zero emissions targets, but the robustness of their residual emissions strategies remains uncertain. We examine the approaches of 103 European cities aiming at net zero by 2030. Total residual emissions are 61.4 MtCO 2 e originating mostly from buildings and transport, with the median at 0.8 tCO 2 e per capita, indicating a rapid decarbonization process. All municipal strategies rely on temporary, land-based CO 2 removal, then carbon credits (40%) and permanent CO 2 removal (32%). We develop the residual emissions strategy robustness index to assess the robustness of compensation strategies, indicating that the current maturity is medium-low with notable geographical disparities. Although cities invest in options mapping and governance, little attention is paid to land availability, the potential of the urban fabric to become a distributed carbon sink, provisions against carbon reversals, monitoring, timing and quantification (estimates cover only 18% of total residual emissions). We also distil recommendations and best practices to address residual emissions.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01916-6",
       "doi_url": "https://doi.org/10.1038/s41893-026-01916-6",
       "title": "Scalable ambient fabrication of single-junction and perovskite–silicon tandem solar cells",
@@ -41,7 +113,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01916-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Tandem",
+        "Fabrication",
+        "Perovskite (structure)",
+        "Scalability",
+        "Energy conversion efficiency",
+        "Photovoltaic system",
+        "Energy transformation",
+        "Graphene"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02730-w",
@@ -59,7 +140,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02730-w",
       "abstract": "Abstract The Atlantic Meridional Overturning Circulation (AMOC), a tipping element of the climate system, currently has an estimated global warming threshold for collapse of +4.0 °C (uncertainty range 1.4–8 °C). However, such a threshold may not be meaningful because AMOC stability depends on the rate of radiative forcing change, not a set temperature. Here we identify an AMOC stabilizing mechanism that operates on timescales slower than present-day warming rates. Slow forcing permits coherent adjustment of surface and interior ocean properties, supported by enhanced evaporation and reduced sea-ice extent, counteracting destabilizing feedbacks. Using a slow CO 2 ramp (+0.5 ppm yr −1 ) climate model simulation, we explicitly demonstrate the AMOC remains stable up to +5.5 °C of global warming. By contrast, under faster CO 2 ramps, the AMOC collapses at substantially lower warming levels (+2 °C). Our findings demonstrate rate-induced AMOC tipping and imply that limiting the rate of emissions is critical for reducing the risk of an AMOC collapse.",
-      "keywords": []
+      "keywords": [
+        "Radiative forcing",
+        "Forcing (mathematics)",
+        "Climate model",
+        "Climate change",
+        "Global warming",
+        "Radiative transfer",
+        "Limiting"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01926-4",
