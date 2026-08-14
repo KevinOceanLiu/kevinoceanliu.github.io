@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:02:50.252842+00:00",
+  "generated_at": "2026-08-14T22:40:55.238717+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,21 +31,168 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.cities.2026.107449",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107449",
+      "title": "Toward precision urban resilience: Integrating multimodal large language models with spatial analytics for fire risk governance",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006815",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107480",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107480",
+      "title": "Decomposition of anthropogenic and climate forces of carbon sequestration in the urban agglomeration",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007122",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261464908",
+      "doi_url": "https://doi.org/10.1177/00420980261464908",
+      "title": "State entrepreneurialism under economic transition: Bounded rationality in China’s high-speed rail new town governance",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261464908",
+      "abstract": "Drawing on 16 high-speed rail (HSR) new towns along the Beijing–Shanghai corridor, this paper develops a middle-range explanation of how state entrepreneurialism is practiced and differentiated under conditions of economic transition in China. While the notion of state entrepreneurialism has been widely used to interpret postreform urban development, its application to HSR new town governance often under specifies how cognitive limits, uneven information and institutional heterogeneity shape local political choices. The empirical analysis suggests that, in these cases, local authorities operated under pronounced cognitive and informational constraints, and that bounded rationality shaped entrepreneurial practices through policy imitation, satisficing judgments and path-dependent commitments across cities at different positions in the urban hierarchy. Along the corridor, spatial heterogeneity is evident both in bargaining capacity and in developmental strategies: metropolitan governments were better able to push for institutional innovations despite high coordination costs; medium-sized cities tended to follow metropolitan templates while retaining some room for strategic adjustment; and smaller cities were more disadvantaged in central-local negotiations and more exposed to the risks of speculative development. By bringing bounded rationality and political choice into the analysis of HSR new town governance, the article shows how local entrepreneurial behaviour is shaped by limited cognitive capacity, uneven access to information and specific institutional settings. In doing so, it qualifies the state entrepreneurialism perspective by specifying scope conditions within the context of Chinese HSR new town development, rather than offering a general reconstruction of state entrepreneurialism across contexts.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1177/00420980261466405",
+      "doi_url": "https://doi.org/10.1177/00420980261466405",
+      "title": "Does urban agriculture make us healthier and happier? Examining self-reported wellbeing outcomes of home gardening in India",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261466405",
+      "abstract": "Urban life is often characterised by multiple challenges that citizens face from increasing exposure to air and water pollution, stress, unsustainable lifestyles and high inequalities. Urban agriculture (UA), which includes urban farming and gardening for productive and aesthetic uses, is often highlighted as helpful to foster healthier, more sustainable urban lifestyles. We examine self-reported individual- and community-level wellbeing outcomes of urban agriculture in India, drawing on a household survey ( n = 361), key informant interviews ( n = 50) and in-depth interviews ( n = 7) of home gardeners. The novel dataset captures UA practices and outcomes in formal and informal settlements, going beyond current data in India. We operationalise the wellbeing outcomes of UA through outcomes for physical and mental health, impacts on intra-family, community and beyond-human connectedness and contribution to pro-environmental values. We find that UA has significant perceived benefits at individual, household and community levels and allows citizens to participate in, innovate through and collectivise around UA in deeply meaningful ways. These findings emphasise the need to recognise and mainstream UA in ongoing urban sustainability and climate change initiatives.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00495-z",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00495-z",
+      "title": "Urban expansion and the collapse of tropical stream ecosystems",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00495-z",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00508-x",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00508-x",
+      "title": "Urban access and inclusion",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00508-x",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00491-3",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00491-3",
+      "title": "Skin memory",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00491-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00503-2",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00503-2",
+      "title": "Overlooked upwind greening for urban cooling",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        8,
+        14
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00503-2",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.landurbplan.2026.105761",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105761",
       "title": "Quantifying heat exposure risk in 15-minute cities: a coupled analysis integrating dynamic shading effects and human mobility patterns",
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2027-01-01",
-      "published_date_display": "2027-01",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
       "published_parts": [
         2027,
         1
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001854",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Shading",
+        "Urban heat island",
+        "Multiple exposure",
+        "Heat stress"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105763",
@@ -54,15 +201,20 @@
       "journal_id": "landscape-urban-planning",
       "journal_name": "Landscape and Urban Planning",
       "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2027-01-01",
-      "published_date_display": "2027-01",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
       "published_parts": [
         2027,
         1
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001878",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Perception",
+        "Biodiversity conservation",
+        "Agricultural biodiversity"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107476",
@@ -71,15 +223,26 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007080",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Cities face growing pressure to justify how scarce urban land is allocated and whose needs it serves. This article analyzes spatial exclusion in Vancouver, British Columbia, a Canadian city under housing and land-use pressure. The analysis centers on municipal golf courses as an understudied site of urban governance: they occupy extensive public land while limiting everyday use through pricing, design, and activity-specific requirements. I use a mixed-methods design that combines distributional spatial analysis of golf courses across Vancouver, including inequality metrics and tract-level models, with qualitative analysis of governance processes. The spatial component examines the concentration and socio-demographic patterning of proximity to golf-course land. I examine Langara Golf Course as a focal, revelatory governance case through which actors contest yet ultimately stabilize these broader land-allocation patterns. The qualitative analysis draws on interviews with former mayors, councillors, and Park Board commissioners, alongside planning documents and deliberations. The analysis identifies three governance pathways associated with the persistence of access-limiting public land use: fragmented authority across governing bodies; legacy zoning and long-term recreational designations that constrain reconsideration; and arm's-length administrative arrangements that diffuse accountability while preserving exclusive uses of public land. The article closes by advancing three policy takeaways to enhance spatial inclusion: the need to clarify authority and accountability across overlapping municipal institutions; the importance of revisiting legacy zoning and long-term recreational designations on public land; and the value of redesigning participatory processes to ensure redistributive and access-oriented claims are incorporated into land-use decision-making. • Vancouver golf courses occupy vast public land while restricting everyday access. • Golf courses are ~1% of park sites but ~13–19% of total park area in Vancouver today. • Mixed-methods design links spatial exclusion patterns to urban governance structure. • Exclusion persists via fragmented authority and legacy land-use designations rules. • Policy reforms clarify authority and redesign participation toward access outcomes.",
+      "keywords": [
+        "Zoning",
+        "Accountability",
+        "Corporate governance",
+        "Recreation",
+        "Citizen journalism",
+        "Public land",
+        "CONTEST",
+        "Public participation",
+        "Best practice",
+        "Local government"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107439",
@@ -88,15 +251,19 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006712",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Urban shrinkage has emerged as a significant challenge across Europe, particularly for medium-sized cities (MSCs) with populations between 20,000 and 100,000. While previous research has largely focused on demographic decline in large cities, the spatial and institutional dynamics of shrinkage in MSCs remain underexplored. This study offers a comparative, longitudinal analysis of MSCs in Germany and Poland, two countries with different urban systems and planning traditions. Drawing on a harmonised shrinkage score composed of six demographic and socioeconomic indicators, the paper investigates spatial patterns over 15 years (2003–2018 for Germany; 2006–2021 for Poland). Spatial tools, including Moran's I, k-means clustering, and multivariate regression, are used to explore how proximity to large and metropolitan cities, as well as regional context, influences city trajectories. Results show that in Poland, shrinkage has intensified over time, particularly in the southern and eastern regions, while growth is concentrated around a few large urban centres. In Germany, spatial patterns are more stable: growth is concentrated in the southwest and around metropolitan areas, while shrinkage remains moderate but geographically selective. Multivariate models reveal that proximity to large cities (in Poland) and metropolitan centres (in Germany) negatively correlates with shrinkage scores, but regional structures and governance contexts explain more variation. The study identifies six MSC typologies and highlights the need for spatially and institutionally differentiated planning approaches. By integrating spatial and statistical methods across national contexts, this paper contributes to a more nuanced understanding of urban shrinkage as a territorially embedded and governance-dependent process.",
+      "keywords": [
+        "Flux (metallurgy)",
+        "Field (mathematics)",
+        "Work (physics)"
+      ]
     },
     {
       "doi": "10.1016/s0264-2751(26)00717-1",
@@ -105,8 +272,8 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-08-13",
+      "published_date_display": "2026-08-13",
       "published_parts": [
         2026,
         11
@@ -9232,30 +9399,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107257",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107257",
-      "title": "Making climate adaptation policy effective: Perspectives of citizens and experts on climate justice and health capacity",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-30",
-      "published_date_display": "2026-05-30",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004890",
-      "abstract": "",
-      "keywords": [
-        "Climate justice",
-        "Adaptation (eye)",
-        "Climate change",
-        "Climate policy",
-        "Economic Justice",
-        "Environmental justice"
-      ]
-    },
-    {
       "doi": "10.1177/00420980261444296",
       "doi_url": "https://doi.org/10.1177/00420980261444296",
       "title": "Turning a corner: Real-time experiences of informal control in public places",
@@ -9453,28 +9596,6 @@
         "Exploratory research",
         "Sense of place",
         "Place making"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107251",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107251",
-      "title": "Borrowed size of Chinese urban system from cyberspace",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-29",
-      "published_date_display": "2026-05-29",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600483X",
-      "abstract": "",
-      "keywords": [
-        "Cyberspace",
-        "China",
-        "Chinese city",
-        "The Internet"
       ]
     },
     {
@@ -17975,58 +18096,6 @@
         "Surface runoff",
         "Climate change",
         "Evapotranspiration"
-      ]
-    },
-    {
-      "doi": "10.1177/00420980251393777",
-      "doi_url": "https://doi.org/10.1177/00420980251393777",
-      "title": "Realms of possibility: The ongoing Nakba and speculative futures",
-      "journal_id": "urban-studies",
-      "journal_name": "Urban Studies",
-      "journal_short_name": "Urban Studies",
-      "published_date": "2026-01-12",
-      "published_date_display": "2026-01-12",
-      "published_parts": [
-        2026,
-        1,
-        12
-      ],
-      "link": "https://journals.sagepub.com/doi/10.1177/00420980251393777",
-      "abstract": "As we continue to witness the unabating death and destruction of Palestinian lives and spaces, it would be easy to succumb to the bounds of expectations set by the dystopian world around us; however, Palestinians already offer us ways out of and through these unfolding dystopian realities. This article turns to these pathways presented and alluded to in the Palestinian speculative futures of Lyd and Palestine +100 , a science fiction documentary and an anthology of speculative fiction short stories, respectively. This article argues that the ways in which these speculative imaginaries engage with the context and enduring impacts of settler colonialism offer guiding principles for building desired urban futures. The enduring nature of settler colonialism in Palestine is often understood as the ongoing Nakba; Palestinian dispossession and displacement that was part of constructing the Israeli state in 1948 continues today through legal, infrastructural, and political maneuvers. Focusing on how the producers and authors of Lyd and Palestine+100 grapple with the fragmentation and erasure of the ongoing Nakba, what emerges is how these speculative futures are intimately tied to the present, not only through the dystopian elements but more significantly in the enactments of better worlds. In its eliminatory mission, a central component of settler colonialism is to destroy the capacity to imagine an Indigenous future; however, these speculative imaginaries echo the details of desired futures already being enacted in the present.",
-      "keywords": [
-        "Dystopia",
-        "Futures contract",
-        "Colonialism",
-        "Witness",
-        "Indigenous",
-        "Politics",
-        "Context (archaeology)",
-        "State (computer science)"
-      ]
-    },
-    {
-      "doi": "10.1177/00420980251396008",
-      "doi_url": "https://doi.org/10.1177/00420980251396008",
-      "title": "Analyzing teen drivers’ exposure to crash risk: An activity space-based approach",
-      "journal_id": "urban-studies",
-      "journal_name": "Urban Studies",
-      "journal_short_name": "Urban Studies",
-      "published_date": "2026-01-12",
-      "published_date_display": "2026-01-12",
-      "published_parts": [
-        2026,
-        1,
-        12
-      ],
-      "link": "https://journals.sagepub.com/doi/10.1177/00420980251396008",
-      "abstract": "Teen drivers’ exposure to crash risk depends on where and how much they drive. Of the few published studies examining driving patterns and crash exposure, none focused on teen drivers, the highest crash risk group of all ages. This study used activity space measures to analyze everyday driving activities, resultant crash exposure, and associated factors for teen drivers aged 16–17. Using driving-related GPS-trajectory data collected from 76 teens for one month, we used a network-based activity space measure to categorize teens into three groups. We estimated each teen’s crash exposure by analyzing their travel frequency on specific roads and crash density on those roads for the broader young population. Lastly, we applied a cumulative link mixed model to assess the influence of demographic, road, and urban-social environmental characteristics on crash exposure and their variations across three driving activity-based teen groups. Our findings revealed that the geographic extent of teens’ everyday driving, measured through their activity space, varied extensively, resulting in varying crash exposure levels among them. The results suggested that teens’ exposure to crashes was associated with both the extent of their driving activity space and the road and urban environments in which they drive. Teens, who mostly drove within smaller geographic spaces experienced greater crash exposure while driving on primary roads and in poor neighborhoods compared to those driving extensively but mostly on highways. These findings have implications for urban planning and policymaking, identifying urban environments, particularly those crash-prone for teen drivers, and informing strategies to mitigate crash risks.",
-      "keywords": [
-        "Crash",
-        "Poison control",
-        "Human factors and ergonomics",
-        "Injury prevention",
-        "Categorization",
-        "Occupational safety and health"
       ]
     },
     {
