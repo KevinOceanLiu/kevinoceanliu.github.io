@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:59:30.649555+00:00",
+  "generated_at": "2026-08-15T21:57:08.826129+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02080-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Greening",
+        "Peninsula",
+        "Vegetation (pathology)",
+        "Climate change",
+        "Moss",
+        "Global warming"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02072-4",
@@ -58,8 +65,18 @@
         14
       ],
       "link": "https://www.nature.com/articles/s41561-026-02072-4",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Global warming is reorganizing atmospheric circulation and hydroclimate, and tropical rainfall is a key manifestation of this response. Yet how these large-scale changes are translated into the tropical rainfall seasonal cycle remains uncertain because organized convection, which produces a large fraction of tropical rainfall and often occurs in mesoscale convective systems, is poorly represented in conventional climate models. Here we use decade-long global simulations with a high-resolution Earth system model coupled to a multiscale modelling framework that explicitly represents deep convection to quantify the role of mesoscale convective systems in future rainfall seasonality. We find that mesoscale convective systems would dominate the future changes in both the amplitude and phase of tropical precipitation seasonal cycle. Under a high-emission scenario, the seasonal cycle of precipitation from mesoscale convective systems is amplified by 38–45% and delayed by 10–15 days, exceeding the corresponding changes in mean tropical precipitation. The delay arises from fewer early season mesoscale convective systems associated with slower seasonal migration of the Hadley cell, whereas amplification is driven mainly by increased rainfall intensity within these systems. These results indicate that organized convection is a major pathway through which warming reshapes tropical rainfall seasonality, affecting the timing and intensity of hydroclimate risks. High-resolution simulations project that the seasonal cycle of precipitation from mesoscale convective systems will intensify by 38–45% and be delayed by 10–15 days under high emissions, driving future changes in tropical rainfall seasonality.",
+      "keywords": [
+        "Mesoscale meteorology",
+        "Precipitation",
+        "Convection",
+        "Mesoscale convective system",
+        "Water cycle",
+        "Hadley cell",
+        "Climate model",
+        "Coupled model intercomparison project",
+        "Tropics"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02076-0",
@@ -77,7 +94,14 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02076-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Shetland",
+        "Vegetation (pathology)",
+        "Peninsula",
+        "Vascular plant",
+        "Climate change",
+        "Population"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02691-0",
@@ -95,7 +119,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02691-0",
       "abstract": "Abstract Cities increasingly pledge net-zero emissions targets, but the robustness of their residual emissions strategies remains uncertain. We examine the approaches of 103 European cities aiming at net zero by 2030. Total residual emissions are 61.4 MtCO 2 e originating mostly from buildings and transport, with the median at 0.8 tCO 2 e per capita, indicating a rapid decarbonization process. All municipal strategies rely on temporary, land-based CO 2 removal, then carbon credits (40%) and permanent CO 2 removal (32%). We develop the residual emissions strategy robustness index to assess the robustness of compensation strategies, indicating that the current maturity is medium-low with notable geographical disparities. Although cities invest in options mapping and governance, little attention is paid to land availability, the potential of the urban fabric to become a distributed carbon sink, provisions against carbon reversals, monitoring, timing and quantification (estimates cover only 18% of total residual emissions). We also distil recommendations and best practices to address residual emissions.",
-      "keywords": []
+      "keywords": [
+        "Residual",
+        "Robustness (evolution)",
+        "Greenhouse gas",
+        "Pledge",
+        "Land cover",
+        "Carbon offset",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01916-6",
