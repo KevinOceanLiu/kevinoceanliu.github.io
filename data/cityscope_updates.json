@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:40:55.238717+00:00",
+  "generated_at": "2026-08-15T22:37:24.677835+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,36 +31,19 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107449",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107449",
-      "title": "Toward precision urban resilience: Integrating multimodal large language models with spatial analytics for fire risk governance",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
+      "doi": "10.1016/j.compenvurbsys.2026.102506",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102506",
+      "title": "Function over morphology: Understanding street environment and pedestrian flow in urban villages through UAV-based tracking",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
       "published_date": "2026-12-01",
       "published_date_display": "2026-12",
       "published_parts": [
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006815",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107480",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107480",
-      "title": "Decomposition of anthropogenic and climate forces of carbon sequestration in the urban agglomeration",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007122",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001080",
       "abstract": "",
       "keywords": []
     },
@@ -80,7 +63,16 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261464908",
       "abstract": "Drawing on 16 high-speed rail (HSR) new towns along the Beijing–Shanghai corridor, this paper develops a middle-range explanation of how state entrepreneurialism is practiced and differentiated under conditions of economic transition in China. While the notion of state entrepreneurialism has been widely used to interpret postreform urban development, its application to HSR new town governance often under specifies how cognitive limits, uneven information and institutional heterogeneity shape local political choices. The empirical analysis suggests that, in these cases, local authorities operated under pronounced cognitive and informational constraints, and that bounded rationality shaped entrepreneurial practices through policy imitation, satisficing judgments and path-dependent commitments across cities at different positions in the urban hierarchy. Along the corridor, spatial heterogeneity is evident both in bargaining capacity and in developmental strategies: metropolitan governments were better able to push for institutional innovations despite high coordination costs; medium-sized cities tended to follow metropolitan templates while retaining some room for strategic adjustment; and smaller cities were more disadvantaged in central-local negotiations and more exposed to the risks of speculative development. By bringing bounded rationality and political choice into the analysis of HSR new town governance, the article shows how local entrepreneurial behaviour is shaped by limited cognitive capacity, uneven access to information and specific institutional settings. In doing so, it qualifies the state entrepreneurialism perspective by specifying scope conditions within the context of Chinese HSR new town development, rather than offering a general reconstruction of state entrepreneurialism across contexts.",
-      "keywords": []
+      "keywords": [
+        "Bounded rationality",
+        "Metropolitan area",
+        "Corporate governance",
+        "Context (archaeology)",
+        "Rationality",
+        "State (computer science)",
+        "Politics",
+        "Satisficing"
+      ]
     },
     {
       "doi": "10.1177/00420980261466405",
@@ -98,7 +90,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261466405",
       "abstract": "Urban life is often characterised by multiple challenges that citizens face from increasing exposure to air and water pollution, stress, unsustainable lifestyles and high inequalities. Urban agriculture (UA), which includes urban farming and gardening for productive and aesthetic uses, is often highlighted as helpful to foster healthier, more sustainable urban lifestyles. We examine self-reported individual- and community-level wellbeing outcomes of urban agriculture in India, drawing on a household survey ( n = 361), key informant interviews ( n = 50) and in-depth interviews ( n = 7) of home gardeners. The novel dataset captures UA practices and outcomes in formal and informal settlements, going beyond current data in India. We operationalise the wellbeing outcomes of UA through outcomes for physical and mental health, impacts on intra-family, community and beyond-human connectedness and contribution to pro-environmental values. We find that UA has significant perceived benefits at individual, household and community levels and allows citizens to participate in, innovate through and collectivise around UA in deeply meaningful ways. These findings emphasise the need to recognise and mainstream UA in ongoing urban sustainability and climate change initiatives.",
-      "keywords": []
+      "keywords": [
+        "Urban agriculture",
+        "Sustainability",
+        "Mainstream",
+        "Agriculture",
+        "Urbanization",
+        "Social connectedness",
+        "Urban planning",
+        "Urban sustainability",
+        "Mental health"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00495-z",
@@ -116,7 +118,17 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00495-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ecosystem",
+        "Urbanization",
+        "Ecosystem services",
+        "Food web",
+        "Trophic level",
+        "Biodiversity",
+        "Megacity",
+        "Metropolitan area",
+        "Urban ecology"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00508-x",
@@ -134,7 +146,14 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00508-x",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Inclusion (mineral)",
+        "Urban planning",
+        "Sustainable development",
+        "Universal design",
+        "Digital inclusion",
+        "Financial inclusion"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00491-3",
@@ -152,7 +171,11 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00491-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Girl",
+        "Skin color",
+        "Encoding (memory)"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00503-2",
@@ -170,7 +193,67 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00503-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Urban heat island",
+        "Greening",
+        "Selection (genetic algorithm)",
+        "Urban greening",
+        "Urban climate",
+        "Energy (signal processing)",
+        "Urban area"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107449",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107449",
+      "title": "Toward precision urban resilience: Integrating multimodal large language models with spatial analytics for fire risk governance",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006815",
+      "abstract": "",
+      "keywords": [
+        "Bridge (graph theory)",
+        "Hazard",
+        "Corporate governance",
+        "Risk management",
+        "Risk assessment",
+        "Land use",
+        "Analytics",
+        "Psychological intervention",
+        "Spatial planning"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107480",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107480",
+      "title": "Decomposition of anthropogenic and climate forces of carbon sequestration in the urban agglomeration",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007122",
+      "abstract": "",
+      "keywords": [
+        "Carbon sequestration",
+        "Economies of agglomeration",
+        "Decomposition",
+        "Carbon fibers",
+        "Urban agglomeration",
+        "Global warming",
+        "Climate change"
+      ]
     },
     {
       "doi": "10.1016/j.landurbplan.2026.105761",
