@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:38:52.912546+00:00",
+  "generated_at": "2026-08-15T21:33:54.282102+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,55 +26,47 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/s0034-4257(26)00389-5",
+      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00389-5",
+      "title": "Editorial Board",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-11-01",
+      "published_date_display": "2026-11",
+      "published_parts": [
+        2026,
+        11
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003895",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.rse.2026.115610",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115610",
       "title": "Calibrated spatial uncertainty for Earth observation foundation models via Matérn-motivated latent stochastic regularization",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003809",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.026",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.026",
-      "title": "Making Transformer interpretable by design: A self-representation architecture for multi-scenario fine-grained land cover mapping",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003837",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.07.014",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.014",
-      "title": "CMCL-PR: Cross-modal camera-to-LiDAR place recognition with cross-attention contrastive learning",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003618",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Regularization (linguistics)",
+        "Calibration",
+        "Uncertainty quantification",
+        "Spatial variability",
+        "Probability distribution",
+        "Stochastic modelling",
+        "Spatial analysis",
+        "Point (geometry)"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.07.029",
@@ -90,11 +82,65 @@
         10
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003862",
-      "abstract": "",
+      "abstract": "Urban area 3-D imaging is a key application of synthetic aperture radar (SAR). Classical compressive sensing-based tomographic SAR methods rely on iterative optimization, which is computationally expensive and sensitive to hyperparameter tuning, limiting its scalability for large scenes. Deep unfolding networks offer a promising alternative but still suffer from inaccurate estimation of target elevations and amplitudes. Therefore, this paper proposes the Toeplitz-structured learned iterative shrinkage–thresholding algorithm with an adaptive elevation target determination module (Toe-LISTA-Ada) for efficient and accurate TomoSAR 3-D reconstruction. First, complex-valued operators are employed to directly process SAR measurements, ensuring the preservation of phase information. Then, by exploiting the Toeplitz structure of the Gram matrix of the TomoSAR observation model, Toe-LISTA-Ada replaces explicit matrix multiplication with a convolutional operation, significantly reducing the number of trainable parameters while retaining physical consistency, thereby accelerating convergence and improving reconstruction accuracy. Finally, an adaptive elevation target determination module is incorporated to account for the limited number of dominant scatterers along the elevation direction in urban scenes, enhancing target separability and elevation estimation performance under severe layover and noise conditions. The proposed network is trained on simulated data that are consistent with real imaging parameters and evaluated on measured datasets. Experimental results demonstrate that Toe-LISTA-Ada achieves improved accuracy in both elevation target localization and amplitude estimation, while exhibiting a capability for 3-D point cloud denoising. The source code is publicly available at: https://github.com/ormosia6/TomoSAR-Toe-LISTA .",
       "keywords": [
         "Iterative reconstruction",
         "Image processing",
         "Visualization"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.026",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.026",
+      "title": "Making Transformer interpretable by design: A self-representation architecture for multi-scenario fine-grained land cover mapping",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003837",
+      "abstract": "",
+      "keywords": [
+        "Interpretability",
+        "Discriminative model",
+        "Subspace topology",
+        "Transformer",
+        "Land cover",
+        "Fidelity",
+        "Feature learning",
+        "Curse of dimensionality",
+        "Pattern recognition (psychology)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.014",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.014",
+      "title": "CMCL-PR: Cross-modal camera-to-LiDAR place recognition with cross-attention contrastive learning",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-14",
+      "published_date_display": "2026-08-14",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003618",
+      "abstract": "",
+      "keywords": [
+        "Discriminative model",
+        "Point cloud",
+        "Encoder",
+        "Transformer",
+        "Matching (statistics)",
+        "Feature extraction",
+        "Component (thermodynamics)",
+        "Semantic mapping",
+        "Software deployment"
       ]
     },
     {
@@ -12158,30 +12204,6 @@
         "Cover (algebra)",
         "Digital elevation model",
         "Pixel"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115370",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115370",
-      "title": "Proximal sensing of drought stress with sun-induced chlorophyll fluorescence: A tale of scaling up and down",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001409",
-      "abstract": "Sun-induced chlorophyll fluorescence (SIF) is used to infer canopy photosynthesis, yet its ability to isolate physiological from canopy structural signals remains uncertain. We aimed at testing whether SIF can disentangle the onset and progression of physiological drought stress amidst concurrent canopy biochemical/physical changes, and to evaluate links between leaf- and canopy-scale fluorescence. To this end, a mesocosm experiment manipulating water availability (control vs. drought) in two herbaceous canopies with contrasting leaf angle distributions (planophile vs. erectophile) was conducted. We monitored environmental conditions, chlorophyll fluorescence at leaf- and canopy-scale using an active and passive approach, canopy biochemical/physical properties, and used the SCOPE model to upscale from leaf- to canopy-scale and analyse drivers. Drought progressively reduced soil water content, depressed stomatal conductance, and upregulated non-photochemical quenching, yielding lower fluorescence yields at leaf and canopy scales. TOC SIF showed a significant response to drought; however, neither TOC SIF nor down-scaled SIF detected stress earlier than NIRv. Modelling and observations indicated strong non-physiological influences on TOC SIF, especially as drought altered biochemical/physical canopy attributes. Leaf-scale TOC fluorescence yields were higher and poorly correlated with canopy-scale yields, whereas SCOPE-based upscaling improved agreement. We conclude that SIF robustly captures drought onset, but offers limited early-detection advantage over greenness indices when concurrent canopy structural/biochemical changes are substantial.",
-      "keywords": [
-        "Drought stress",
-        "Chlorophyll",
-        "Chlorophyll a",
-        "Water stress",
-        "Scaling",
-        "Stress (linguistics)"
       ]
     },
     {
