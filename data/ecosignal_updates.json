@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:58:48.595592+00:00",
+  "generated_at": "2026-08-15T22:57:13.828218+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -51,7 +51,16 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03150-x",
       "abstract": "Abstract Recent changes in alpine vegetation are often attributed to climate warming, particularly community composition shifts towards more warmth-associated species, or thermophilization. Here we assess the link between thermophilization and warming across 53 European mountain summits. We combine long-term macroclimatic and microclimatic temperature time series with vegetation surveys in 724 permanent plots, monitored over 21 years, to evaluate a possible thermophilization signal and relate it to rates of change in 10 temperature metrics. We find evidence of both thermophilization of alpine plant communities and an increase in temperatures. However, although these two trends are related when averaged across mountain regions, their relationship is weak at the individual plot scale, especially when considering microclimatic temperature metrics. Instead, substrate conditions and particularly the availability of thermophilic colonizers in the surrounding vegetation have a major influence on plot-level thermophilization rates. We conclude that the response of plant communities to climate change strongly depends on the abiotic and biotic context, and intensified monitoring efforts are needed to reduce the resulting uncertainties.",
-      "keywords": []
+      "keywords": [
+        "Climate change",
+        "Abiotic component",
+        "Vegetation (pathology)",
+        "Plant community",
+        "Summit",
+        "Microclimate",
+        "Global warming",
+        "Alpine plant"
+      ]
     },
     {
       "doi": "10.1038/s41559-026-03143-w",
@@ -69,7 +78,15 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03143-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Centromere",
+        "Population",
+        "Genome",
+        "Haplotype",
+        "Chromosome",
+        "Pepper",
+        "Genetic diversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70420",
@@ -87,7 +104,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70420",
       "abstract": "Abstract Boreal forests are integral for the maintenance of multiple ecosystem services to humanity, yet climate change, wildfire regimes and land‐use intensification are rapidly driving these conifer‐dominated systems towards a boreal‐temperate ecotone, characterized by a mixture of conifers and broadleaves, with uncertain implications for sustaining multiple ecosystem functions (i.e. multifunctionality). Here, we conducted a standardized 34‐year field manipulative experiment in a boreal‐temperate ecotone region of Northeast Asia, including four monocultures (conifers and broadleaves) and four two‐species mixed forests (each combining coexisting broadleaf and conifer trees). We aimed to assess the ecological impacts of these forest transitions in the boreal‐temperate ecotone. Our results showed that ecosystem multifunctionality depended strongly on tree species composition. Crucially, specific compositions generated distinct functional trade‐offs rather than uniform changes in ecosystem multifunctionality. For example, transitioning to incompatible mixed‐species stands maintained provisioning functions like wood production but resulted in significant reductions in critical regulating services, such as soil carbon sequestration, nutrient cycling and water regulation. We further provide evidence that these functional declines were mechanistically driven by selection effects that superseded niche complementarity. Specific tree compositions imposed constraints on soil resources and microbial properties, strongly influencing ecosystem services in the boreal‐temperate ecotone. Synthesis : This research provides new insights into identifying species compositions that enhance ecosystem services in the boreal‐temperate ecotone, thereby guiding climate change mitigation and forest management efforts in these sensitive regions.",
-      "keywords": []
+      "keywords": [
+        "Ecotone",
+        "Ecosystem services",
+        "Ecosystem",
+        "Forest ecology",
+        "Climate change",
+        "Ecosystem ecology",
+        "Taiga",
+        "Monoculture"
+      ]
     },
     {
       "doi": "10.1111/gcb.71040",
@@ -105,7 +131,15 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71040",
       "abstract": "ABSTRACT Glacier retreat is transforming high‐mountain and polar landscapes, replacing ice with vast, newly exposed terrains where soil development and ecological succession start. Although ecosystems developing in deglaciated terrains are often viewed as starting from scratch, glaciers host diverse communities whose links with emerging soils remain unquantified. Using environmental DNA metabarcoding, we provide the first multi‐taxa assessment of biodiversity transitions across the supraglacial–proglacial interface across five glacier systems in Svalbard, the Alps and Patagonia. We analysed 212 samples from the surfaces of retreating glaciers and their forelands, spanning a chronosequence from 1 to 483 years since deglaciation. Recently deglaciated soils (≤ 10 years since glacier retreat) showed taxonomic and functional similarity to supraglacial communities. This ecological continuity was highly taxon‐specific, being pronounced for communities of microorganisms (Bacteria, Fungi, Protista) but weak for animals (e.g., Collembola, Insecta). For microbes, similarity diminished rapidly over succession as community turnover increased, and functional composition shifted from phototrophic and saprotrophic dominance toward heterotrophic and symbiotic assemblages. Shared microbial taxa and functions indicate a transient glacial influence during early soil succession. Our results suggest that early soil communities are not assembled independently of glacier ecosystems, but are initially linked to them through diverse ecological pathways that diminish over time. The observed glacier–proglacial connectivity challenges the view of succession on deglaciated terrains as beginning on lifeless substrates and instead points to a glacial legacy in emerging soils. As glaciers rapidly disappear under climate change, the unique biodiversity they host is also being lost, underscoring the urgent need to study supraglacial and proglacial systems together. Such integration is essential to understand ecological succession in proglacial ecosystems, which are expected to play an increasingly important role in this century.",
-      "keywords": []
+      "keywords": [
+        "Chronosequence",
+        "Glacier",
+        "Primary succession",
+        "Biodiversity",
+        "Ecosystem",
+        "Glacial period",
+        "Ecological succession"
+      ]
     },
     {
       "doi": "10.1111/gcb.70987",
@@ -123,7 +157,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70987",
       "abstract": "ABSTRACT Ecosystem models are increasingly central to the decision‐making for environmental policy, conservation planning, and climate‐related investments. Yet, the growing reliance on Multi‐Model Ensembles (MMEs) of ecosystem models by practitioners and policymakers, sometimes under tight timelines and imperfect information, has frequently outpaced the scientific rigor required to ensure ensemble reliability. Here, MMEs refer to approaches that combine targeted predictions from multiple models with the expectation of improving robustness and quantifying predictive uncertainty. Poorly designed MMEs may create a false sense of confidence and lead to suboptimal policy and market decisions. This perspective argues that robust decision‐making‐relevant MMEs must be grounded on two pillars: (1) rigorous Model Intercomparison Projects (MIPs), which identify inter‐model agreement and disagreement, characterize model uncertainties, and evaluate robustness with observationally based benchmarks—MIPs' diagnostic evaluation is so critical that it must be needed to drive MME's decision in model selection and weighting, especially when only a limited number of models available; and (2) co‐design by both stakeholders and scientists to ensure that scenarios, metrics and uncertainty requirements provide decision‐relevant information. Building upon the past success and lessons from the existing MIPs‐MMEs efforts (e.g., climate/Earth system/crop), we derived the theoretical basis for MMEs, addressed their specific challenges in ecosystem modeling, and highlighted proper consideration of model numbers and diversity, risk of model inter‐dependence, effective calibration of model parameters, possible overdue of some ecosystem model development, critical roles of open benchmark data across a wide range of conditions, and suggested use of Artificial Intelligence to support MIPs‐MMEs. We highlighted the under‐recognized opportunity for MIPs and MMEs to drive scientific progress and innovation through identifying better performing models, systematic benchmarking, feedback loops, and targeted model improvement. By following actionable best practice guidelines, MMEs can evolve from ad hoc aggregation of models into a trusted backbone of environmental policy and decision‐making.",
-      "keywords": []
+      "keywords": [
+        "Robustness (evolution)",
+        "Ecosystem services",
+        "Timeline",
+        "Benchmark (surveying)",
+        "Best practice",
+        "Ecosystem",
+        "Baseline (sea)",
+        "Multiple Models"
+      ]
     },
     {
       "doi": "10.1086/743609",
@@ -192,7 +235,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71052",
       "abstract": "ABSTRACT Marine heatwaves (MHWs) are driving mass mortalities of coastal foundation species globally, threatening their persistence and the ecosystems they support. However, long‐term demographic evidence of these impacts at regional scales is scarce. Accordingly, whether ongoing conservation actions, mainly marine protected areas (MPAs), mitigate the impact of MHWs is still an open question. Here, we address these gaps by analysing over two decades of demographic monitoring data from 49 shallow (< 40 m depth) populations of the foundation gorgonian Paramuricea clavata paired with in situ temperature records across the north‐western Mediterranean (38°–43° N, 0°–8° E). Using hierarchical Bayesian models, we estimated regional‐scale trends and assessed the combined influence of MHW exposure and protection status. We found that increasingly frequent extreme thermal events have caused widespread mass mortality, resulting in a 45% median decline in biomass at the regional scale over the past two decades. Within this context of extensive decline, protection temporarily buffered MHW impacts by sustaining higher overall biomass, despite protected populations experiencing greater absolute losses. Taken together, these findings indicate that local protection alone cannot offset climate‐driven mortality and underscore the urgent need to integrate conservation measures with global climate action to preserve shallow marine ecosystems.",
-      "keywords": []
+      "keywords": [
+        "Marine protected area",
+        "Gorgonian",
+        "Mediterranean climate",
+        "Context (archaeology)",
+        "Climate change",
+        "Marine ecosystem",
+        "Ecosystem",
+        "Biodiversity"
+      ]
     },
     {
       "doi": "10.1111/gcb.71057",
@@ -210,7 +262,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71057",
       "abstract": "ABSTRACT The recovery of vegetation following fire is increasingly shaped by concurrent climate‐driven hydrological extremes, such as drought and extreme precipitation. Under these multi‐disturbance scenarios vegetation communities are likely to show different recovery thresholds and trajectories of change, but this is yet to be fully understood or quantified. We used the Greater Blue Mountains World Heritage Area in south‐eastern Australia as a model system to assess how sustained moisture surplus or deficit could differentially influence the recovery of forest, heath and wetland vegetation from low‐extreme severity fire. From 2015 to 2024, this region experienced severe drought, extensive bushfires (the ‘Black Summer’ bushfires) and extreme rainfall events. By using a new remote‐sensing index (the Post‐fire Stability Index) that measures the rate of change in a disturbed system, we found that most vegetation communities could recover following low‐severity fire even in the case of poor soil moisture conditions, but moisture became increasingly limiting as burn severity increased. Certain communities, such as wet sclerophyll forests and freshwater wetlands, experienced disproportionate declines (up to times greater than other communities) as burn severity and drought intensified. These communities are likely at greatest risk as climate drying escalates. We stress that future recovery from fire in temperate communities will be governed not only by the characteristics of the fire itself and those of the affected vegetation community, but also by the extent to which these characteristics interact with prevailing hydro‐climatic conditions.",
-      "keywords": []
+      "keywords": [
+        "Sclerophyll",
+        "Vegetation (pathology)",
+        "Temperate climate",
+        "Wetland",
+        "Climate change",
+        "Limiting",
+        "Precipitation",
+        "Temperate rainforest",
+        "Plant community"
+      ]
     },
     {
       "doi": "10.1111/gcb.71048",
