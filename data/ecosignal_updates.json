@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:57:13.828218+00:00",
+  "generated_at": "2026-08-16T22:56:41.200036+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,78 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1111/ele.70446",
+      "doi_url": "https://doi.org/10.1111/ele.70446",
+      "title": "The Usefulness of Evenness",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-08-16",
+      "published_date_display": "2026-08-16",
+      "published_parts": [
+        2026,
+        8,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70446",
+      "abstract": "ABSTRACT Evenness measures similarity in abundance across species. The term ‘evenness’ was introduced to ecology in 1964, but debate persists about precisely how to measure it and its usefulness as a concept. Here I provide a perspective on both matters. For how to choose evenness metrics, I echo previous calls for the application of the Lorenz‐consistency axioms. These axioms are largely non‐controversial but have often been neglected, leading to some ongoing use of evenness indices with unintuitive properties. Two widely used evenness metrics, Hill evenness and mean pairwise similarity, satisfy the axioms and are recommended. To assess the usefulness of evenness in ecological research, I focus on two case studies. The first explores how evenness can drive community biomass. The second explores how evenness can indicate the strength of immigration into an ecological community. I conclude that, with appropriately chosen metrics, the concept of evenness can facilitate productive research programmes. Therefore, despite some recently raised objections to it, evenness is a useful concept in ecology.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70440",
+      "doi_url": "https://doi.org/10.1111/ele.70440",
+      "title": "Semi‐Natural Habitats Buffer the Effects of Crop Diversification on Arthropod Pest Control Services in Agricultural Landscapes",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-08-16",
+      "published_date_display": "2026-08-16",
+      "published_parts": [
+        2026,
+        8,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70440",
+      "abstract": "ABSTRACT Crop diversification is a promising strategy to strengthen pest control services in agricultural landscapes. Diversifying crops may limit pests through host crop dilution or by enhancing top‐down control by their enemies. However, crop diversification may also benefit generalist pests through higher resource continuity. Using a large‐scale dataset encompassing 742 landscapes across 13 countries, we assessed the impact of landscape‐scale crop diversity on the abundance of natural enemies, the potential for biological control, and insect pest abundance. Crop diversification did not increase the overall abundance of natural enemies or the potential for biological pest control. Instead, crop diversity primarily favoured the abundance of specialist natural enemies and pests in highly simplified landscapes, an effect that was reduced in landscapes with high proportions of semi‐natural habitats. Lastly, low proportions of host crops in the landscape were associated with higher abundances of natural enemies. Taken together, our results indicate that crop diversification is not a ‘one size fits all’ strategy to control agricultural pests, and that other landscape characteristics, such as high amounts of semi‐natural habitats, must be considered to enhance biological pest control services.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70419",
+      "doi_url": "https://doi.org/10.1111/ele.70419",
+      "title": "Phenotypic Flexibility in the City: A Meta‐Analysis on Variation",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-08-16",
+      "published_date_display": "2026-08-16",
+      "published_parts": [
+        2026,
+        8,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70419",
+      "abstract": "ABSTRACT Among global changes, urbanisation entangles a variety of human‐induced rapid environmental changes, such as habitat fragmentation, temperature change, introduction of human food sources and pollution. Urban environments in contrast to non‐urban ones are often assumed to be more heterogeneous and variable in space and time. A key feature of animals coping with high environmental variability ought to be phenotypic flexibility, that is, the capacity of individuals to express reversible variation in labile traits. However, this ‘phenotypic flexibility hypothesis’ has not been tested rigorously. We compiled available raw data and used a meta‐analysis to estimate overall differences in among‐ and within‐individual variation between urban and non‐urban population pairs of wild animals. We considered within‐individual variation as a proxy of phenotypic flexibility. Across all taxa, among‐individual variation did not differ between urban and non‐urban populations. Within‐individual variation was marginally lower in urban populations compared to non‐urban ones. The potential decrease of phenotypic flexibility in urban individuals could result from the multidimensionality and complexity of urban environmental conditions. Overall, the effects of urbanisation on phenotypic variation are not generalisable and depend on the taxa, species, and traits. Future studies should increase efforts to directly link temporal and spatial environmental variability with phenotypic individual variation.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70442",
+      "doi_url": "https://doi.org/10.1111/ele.70442",
+      "title": "Eco‐Evolutionary Dynamics of Pathogen Epidemic Timing in a Seasonal Environment",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-08-16",
+      "published_date_display": "2026-08-16",
+      "published_parts": [
+        2026,
+        8,
+        16
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70442",
+      "abstract": "ABSTRACT Seasonality structures the dynamics of infectious diseases, yet how pathogens evolve their seasonal timing remains unclear. Here, we develop an evolutionary epidemiology model to examine how pathogens adapt to seasonally varying environments, assuming that each strain favours a specific season for transmission. Analytical and numerical results reveal two contrasting regimes: phenological drift, where the preferred season continually advances through priority effects, and stable seasonal adaptation, where evolution converges to a fixed season. Under strong transmissibility, multiple seasonal morphs can coexist, forming polymorphic communities of epidemic timing. These outcomes result from the balance between a seasonal priority effect, rewarding early occupation of the niche and a seasonal stabilising effect, adjusting traits to the external optimum. Our findings show that epidemic seasonality itself can evolve as a life‐history trait, providing a conceptual bridge between pathogen dynamics and the broader evolution of phenology in periodic environments.",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41559-026-03150-x",
       "doi_url": "https://doi.org/10.1038/s41559-026-03150-x",
