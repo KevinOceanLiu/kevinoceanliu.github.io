@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:33:54.282102+00:00",
+  "generated_at": "2026-08-16T21:33:00.714589+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -32,8 +32,8 @@
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-11-01",
-      "published_date_display": "2026-11",
+      "published_date": "2026-08-15",
+      "published_date_display": "2026-08-15",
       "published_parts": [
         2026,
         11
@@ -545,7 +545,7 @@
         11
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003743",
-      "abstract": "",
+      "abstract": "Many wetland datasets and monitoring approaches emphasize persistent inundation, while intermittent inundation and waterlogged states, especially under vegetation, remain underrepresented or mapped less accurately. This can bias greenhouse-gas estimates from carbon-rich systems (e.g., peatlands). Meanwhile, the predominance of annual mapping can limit the characterization of intra-annual variability and may obscure human-induced sub-seasonal disturbances (e.g., shifts in rice-cropping intensity). This study presents a weakly supervised, wetness-driven framework using earth observation data streams to improve wetland monitoring across regions represented by the reference datasets. The OPtical TRApezoid Model was applied to Harmonized Landsat–Sentinel imagery to retrieve surface wetness, followed by delineation using scene-adaptive grid-based thresholding. This framework was applied to 824 0.1° grid cells in regions represented by the reference datasets and evaluated for spatial delineation, thematic, and temporal accuracy using 9781 land-cover-labeled sites and 134 daily wet–dry-labeled sites across 28 Ramsar wetlands. Comparative analysis employed Dynamic World, the first global 30 m wetland map with a fine classification system (GWL_FCS30), the Global Flood Monitoring dataset (GFM), and the modified Dynamic Surface Water Extent algorithm (DSWE). The framework achieved moderate spatial delineation accuracy (F1 0.65, recall 0.75, precision 0.58), comparable in F1 to Dynamic World and with higher recall than GWL_FCS30, DSWE, and GFM. It delivered the highest temporal accuracy (F1 0.72; precision 0.81; recall 0.64) and improved thematic accuracy for vegetated wetlands, reducing omission at a modest commission cost. However, limited validation data constrain uncertainty quantification in densely vegetated regions and persistently cloudy areas where observations may be dry-season-biased.",
       "keywords": [
         "Wetland",
         "Hydrology (agriculture)",
