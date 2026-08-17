@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:56:41.200036+00:00",
+  "generated_at": "2026-08-17T22:59:17.073914+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,222 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41559-026-03158-3",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03158-3",
+      "title": "Trophic hotspots as a perspective for understanding and managing ecosystem function",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03158-3",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03144-9",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03144-9",
+      "title": "Mycorrhizal strategy of non-native plants varies with biome and disturbance",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03144-9",
+      "abstract": "Abstract Predicting which non-native plant species will become established and where is critical for conserving and managing biodiversity. Theory suggests that the mycorrhizal strategy of non-native plants may predict their establishment success. Here we combine a global dataset of 440,788 vegetation plots with data on plant native status and mycorrhizal type to assess mycorrhizal strategy of non-native plants. The mycorrhizal strategy of non-native plants varies strongly across biomes. Across grassland and desert biomes, non-native species are more frequently non-mycorrhizal than native species, whereas in other biomes non-native species are more likely to be mycorrhizal, most commonly arbuscular-mycorrhizal. Disturbance type and intensity are key predictors of mycorrhizal strategy of non-native species, as mycorrhizal species are favoured by landscape modification and non-mycorrhizal species by natural and human-caused disturbance events. Facultatively mycorrhizal species are consistently under-represented among non-native plants compared with natives, suggesting that symbiotic flexibility does not confer an advantage for non-natives as previously expected. Our study shows that non-native mycorrhizal strategy varies across biogeographical contexts and disturbance, highlighting the need for region-specific prevention and management approaches to plant species introductions.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70413",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70413",
+      "title": "Elevation as a key driver of half‐millennium disturbance history in Central European mountain natural forests",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70413",
+      "abstract": "Abstract Despite significant stochasticity, the occurrence of disturbance events is co‐determined by general ecological rules, such as temperature gradient with increasing altitude or stronger wind loads on slopes. A detailed understanding of past disturbance dynamics and their driving forces forms a crucial foundation for ensuring the sustainability of forest ecosystems. This is particularly important in the context of shifting disturbance regimes under accelerating climate change. The exceptionally well‐preserved Bohemian Forest Ecosystem, the largest contiguous forested area in Central Europe, provides a unique archive for studying past disturbance dynamics. Here, our objective is to clarify the ecological nature of disturbance phenomena to improve our understanding of forest ecosystem development. Using an extensive dendrochronological dataset of more than 7600 tree‐ring series distributed across diverse ecological gradients, we developed a unique transboundary disturbance chronology extending back to the early 17th century. Generalized linear mixed‐effects models were applied to assess relationships between environmental factors and disturbance regimes. Our results provide evidence of a slow but persistent acceleration of disturbance processes over the past 400 years. Elevation emerged as the strongest predictor of disturbance frequency. The likelihood of forest stand disturbance generally rises as altitude decreases, reflecting interspecific differences in morphological traits and elevation‐dependent tree‐growth potential. Forest type and aspect further modulated this effect, emphasizing the influence of local topography on the susceptibility to disturbances. Natural disturbance dynamics vary across the forest types rather than occurring in synchrony, thus promoting high disturbance complexity and forest landscape heterogeneity, particularly in primary forests. Synthesis . Under climate change and the underlying shift in the tree species composition, a higher probability of disturbances can be anticipated in mixed forests at lower elevations. However, our findings highlight the importance of maintaining the diversity of natural processes in supporting the resilience of forest communities to extreme and unpredictable disturbance events, thereby contributing to climate change mitigation.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70414",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70414",
+      "title": "Assessing pattern‐process expectations for the krummholz island treeline form: Seedling survival and tree stature across a boreal alpine treeline",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70414",
+      "abstract": "Abstract Alpine treeline ecotones, where forests transition to alpine ecosystems, display a variety of spatial patterns. These patterns, or treeline forms, are considered indicators of the processes that control treeline dynamics and may provide insight into future abundance, distribution and stature of tree species in montane ecosystems. However, consistent links between treeline forms and proposed variation in the relative strength of controlling processes are not well established. We examined whether the processes expected for krummholz island treelines (one specific treeline form) under the treeline pattern‐process framework operate at a treeline in Newfoundland, Canada. For this form, the framework hypothesis states that recruitment is limited, with changes in tree cover dependent on facilitation by established trees or krummholz. Additionally, it is hypothesized that growth and dieback limit adult tree statures, thereby causing established trees to form krummholz. To assess the effects of established individuals on recruitment, we transplanted black spruce ( Picea mariana ) and tamarack ( Larix laricina ) seedlings along transects leading from established krummholz islands (presumed facilitators) into alpine heath (presumably lacking facilitation) and monitored their survival. To explore biomass maintenance limitations among established, adult individuals, we quantified the presence and distribution of emergent stems extending above the krummholz mat. Seedling survival was high and despite changes in microsite conditions with distance from established individuals, we found no trends in survival. Assuming recruitment at other life stages is not limiting, tree cover may increase not only through the expansion of krummholz islands but also through the infilling of open vegetation patches. We observed that stems within krummholz islands were similar in height regardless of their position within the island, suggesting that their ability to maintain biomass is more likely driven by climatic conditions than sheltering from neighbouring individuals. This could indicate that this treeline may be undergoing krummholz release, a shift from stunted towards upright forms. Synthesis : Our study highlights a potential limitation of the treeline pattern‐process framework: spatial patterns represent snapshots of dynamic systems. Monitoring treeline populations will advance understanding of how treeline form develops and changes in response to climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70537",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70537",
+      "title": "Small size species patch enhances short‐term resistance to weed invasion in artificial grasslands",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70537",
+      "abstract": "Abstract Preventing weed invasion in artificial grasslands is essential for maintaining ecosystem function and sustainable management. Previous studies have shown that species patch size controls inter‐ and intraspecific interactions, leading to the hypothesis that it can influence weed invasion. However, there is no consensus on its actual role in regulating this process. We manipulated four native‐species patch sizes (0.0625, 0.25, 1.0 m 2 and mixed) to create a gradient of inter‐ and intraspecific interactions and tested their effect on resistance to two introduced weeds (annual Consolida ajacis and perennial Paspalum distichum ). Resistance was quantified by measuring native versus invasive biomass in the artificial grasslands in two consecutive years, and key soil nutrient parameters were assessed to explore the underlying mechanisms, including soil organic carbon, ammonium (NH 4 + ), nitrate (NO 3 − ) and available phosphorus. Community biotic resistance was patch‐size dependent: the smallest patches exhibited the highest resistance to invasion. Invasive biomass was negatively related to native biomass across invaded plots, indicating greater biotic resistance in more productive communities. The relationship between native productivity and biotic resistance depended on invader identity, being strong for the annual invader C. ajacis but weak for the perennial invader P. distichum . Smaller patches were associated with higher native productivity, greater invasion resistance and altered soil nutrient dynamics, patterns that are consistent with stronger interspecific interactions, niche complementarity and more efficient resource use for invaders. The contrasting responses of the annual and perennial weeds suggest that spatial structure interacts with invader life‐history traits, with annual invaders appearing more sensitive to fine‐scale competition than perennial invaders, which might be able to tolerate or exploit spatial heterogeneity at least in the short term. Synthesis and applications . This study demonstrates that spatial arrangement of native species is a key driver of invasion resistance through its effects on plant interactions and soil processes. By showing how smaller patches enhance native productivity, increase resistance to invasion and influence soil nutrient dynamics, we identify spatial biodiversity design as a practical, nature‐based solution for maintaining soil health, productivity and short‐term resilience in artificial grasslands. These findings advance ecological understanding by linking spatial community structure with above–below‐ground feedbacks that govern ecosystem stability.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70548",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70548",
+      "title": "More than just a margin: Local and landscape‐scale factors regulating the effects of riparian forest buffers on stream‐riparian ecosystems in urban and agricultural landscapes",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70548",
+      "abstract": "Abstract Riparian forest buffers are a potentially potent nature‐based solution for mitigating environmental degradation and improving biodiversity and ecosystem functioning in stream‐riparian networks. However, uncertainties about how buffer size, spatial configuration and land‐use intensity shape outcomes and trade‐offs hinder management applications. We conducted coordinated field surveys and modelling across four European countries to evaluate how riparian forest properties influence stream‐riparian environments, biodiversity, ecosystem processes and macroinvertebrate functional traits along agricultural and urban land‐use gradients. Riparian forest buffers had strong effects on habitats, increasing shading and coarse woody debris. Sediment deposition was halved in buffered stream reaches, and longer buffers lowered thermal maxima in stream and riparian habitats by 13%–17%. Buffers further reduced effects of increasing agricultural land use on soluble reactive phosphate concentrations, although this response was highly variable. These environmental changes were associated with multiple effects on biodiversity and ecosystem function. Buffer presence and/or increasing length were associated with 30%–167% increases in microbial detritus decomposition, a 44% increase in riparian ground beetle diversity, and 18%–77% increases in stream macroinvertebrate diversity and the EPT biotic index, and macroinvertebrate leaf shredding and algal grazing traits. In contrast, algal biomass accrual and web‐building spider diversity declined by 33% and 36%, respectively, in buffered reaches. As land‐use intensified, riparian forest buffers helped maintain macroinvertebrate functional diversity and shredding, predation, and filtration traits, and saturated fatty acid content in terrestrial predators. In contrast, macroinvertebrate particle‐gathering traits declined. The spatial configuration of riparian forest influenced stream ecosystems at local scales: dissolved phosphorus and diatom species richness declined as spatial proximity among upstream riparian forest blocks decreased, while a diatom‐based biomonitoring index increased. Synthesis and applications . Riparian forest buffers support biodiversity, ecosystem functioning and food webs in human‐modified landscapes, and dampen land‐use and climate stressors (sediments, nutrients, thermal maxima), motivating their wider use in management. These outcomes were regulated by the presence or size of mostly small, mature buffers and sometimes by proximity among riparian forest blocks upstream, indicating that even modest investments in expanding existing buffer networks are likely to deliver cumulative ecological benefits.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70546",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70546",
+      "title": "Global change pressures reduce reproductive performance and increase conservation reliance in a declining steppe raptor",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70546",
+      "abstract": "Abstract Impacts attributed to global change, such as weather anomalies, land‐use changes and anthropogenic disturbances, often provoke demographic catastrophes mediated by the deterioration of reproductive output, especially in slow‐paced animals, that is top predators, often used as biological indicators of ecosystem networks. In our study, we aimed to disentangle the bioclimatic variables affecting the breeding performance of a declining ground‐nesting raptor in southern Spain, the Montagu's harrier ( Circus pygargus ), a steppe‐specialist species highly affected by climate change and agricultural intensification. We also investigated how conservation measures implemented at nest scale modulated breeding outputs along with environmental variables. Furthermore, we assessed the long‐term viability of the population under different climatic and conservation scenarios. Our analyses suggested that the breeding performance of the population is positively influenced by spring and autumn precipitation, habitat heterogeneity and some conservation measures; on the other hand, it is negatively influenced by human disturbance. Our population viability analysis suggested that nest‐focused conservation measures—for example fences, unharvested buffers—may partially buffer the detrimental effects of weather anomalies. However, local conservation actions may not completely offset population decline in the long term. Policy implications . Our analyses suggest that the species will remain dependent on intensive, multi‐scale conservation actions in the long term, a pattern likely shared by many pseudo‐steppe and farmland birds affected by global change. Beyond nest‐focused conservation actions, integrative broad‐scale policies aiming to mitigate climate change, habitat homogenization and intensification of agronomic systems are essential to ensure the self‐sustainability of the population. In this sense, reforming the Common Agricultural Policy is essential to integrate the conservation of steppe birds into agricultural planning.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71062",
+      "doi_url": "https://doi.org/10.1111/gcb.71062",
+      "title": "Terrestrial Arthropod Responses to Arctic Cryosphere Degradation",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71062",
+      "abstract": "ABSTRACT The Arctic cryosphere is undergoing dramatic changes, including declines in sea ice extent and thickness, ice sheets and glaciers, snow cover and duration and permafrost depth. These changes are having alarming direct and indirect consequences for terrestrial species, habitats and ecosystems. Such impacts are well documented and discussed for plants, birds and mammals, and we are beginning to understand the extent of links between cryospheric changes and terrestrial systems generally. However, terrestrial arthropods are rarely included in studies and reviews on this topic despite their taxonomic diversity and importance to ecosystem functions. In this mini‐review, we aim to redress this imbalance and raise awareness of the impact of ice and snow decline on terrestrial arthropods and the ecological functions they perform. In addition, we highlight the recent methodological advances for arthropod monitoring and discuss their use in addressing gaps in our understanding of responses to multiple stressors.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71066",
+      "doi_url": "https://doi.org/10.1111/gcb.71066",
+      "title": "Soil Moisture Thresholds for the Temperature Sensitivity of Ecosystem Respiration",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71066",
+      "abstract": "ABSTRACT Ecosystem respiration (ER) is the largest source of biogenic CO 2 to the atmosphere, and its temperature sensitivity (Q 10 ) before reaching maximum values is crucial for understanding land–climate feedback. However, despite decades of studies showing that Q 10 varies considerably across space, time, and biomes, the mechanisms underlying this variability remain unresolved. Here we demonstrate that global variation in Q 10 can be reconciled within a unified hydrothermal framework. Using data from 142 eddy covariance sites around the world, we show that Q 10 exhibits unimodal responses to soil moisture. At each site, Q 10 first increases with soil moisture, peaks at a threshold (SM th ), and then declines. This SM th is ecosystem‐specific, which consistent with mechanisms involving plant–soil–microbial interactions, shaped by long‐term hydroclimatic regimes and soil physical constraints. Global mapping of SM th shows that about 25% of the planet's vegetated land currently operates above SM th , including many carbon‐rich peatlands and tropical forests, where moderate drying may amplify temperature sensitivity and accelerate carbon loss. By identifying soil moisture thresholds as a first‐order control on Q 10 , our study provides a unifying mechanism that links hydrological state to the thermal sensitivity of carbon fluxes. This framework offers a predictive basis for anticipating respiration responses to climate change by explicitly resolving whether shifts in soil moisture move ecosystems toward or away from these critical thresholds.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71060",
+      "doi_url": "https://doi.org/10.1111/gcb.71060",
+      "title": "Sea‐Level Rise Constrains the Carbon Permanence of Global Mangrove Restoration",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71060",
+      "abstract": "ABSTRACT Mangroves are characterized by high carbon sequestration rates, and future changes in mangrove biomass will be impacted by factors such as climate change, sea level rise, and management strategies. Here, we produce a map of present‐day global mangrove aboveground biomass (AGB) based on extensive field observations and satellite data, giving a global mangrove AGB of 1.76 Pg dry matter (DM). After accounting for potential growth to maturity, future changes in climatic and hydrological conditions, possible restoration strategies, and sea‐level rise, the global total mangrove AGB is projected to increase by 16.7% under the low‐warming scenario (Shared Socioeconomic Pathway 1 and Representative Concentration Pathway 2.6, SSP126) and decrease by 19.3% under the high‐warming scenario (SSP585) by 2100. Sea‐level rise encroaching upon the growth space of mangroves will cause a biomass loss of 41.6% in the high‐warming scenario, whereas restoration strategies would only increase AGB by 2.0%. Our study shows that sea‐level rise limits the potential of mangrove restoration to maintain carbon stocks, and regions less constrained by sea‐level rise offer greater potential for the long‐term permanence.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71059",
+      "doi_url": "https://doi.org/10.1111/gcb.71059",
+      "title": "Microbial Decomposition of Lignin to Methane Reduces Net Blue Carbon Benefit Across China's Saltmarshes",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71059",
+      "abstract": "ABSTRACT CH 4 emissions from mangrove, saltmarsh, and seagrass ecosystems partially offset carbon sequestration, potentially diminishing the climate mitigation capacity of these blue carbon habitats. However, a mechanistic understanding of the processes governing CH 4 production potential across large spatial scales remains limited. By integrating incubation‐based measurements from 116 sites, we reveal significant ecosystem‐specific differences in CH 4 production potential, with saltmarshes emerging as CH 4 production hotspot relative to mangroves and seagrass meadows. Using an integrated analytical approach encompassing more than 30 environmental, biogeochemical, and microbial parameters, we demonstrate that CH 4 production potential converges on sediment organic carbon availability, particularly plant‐derived carbon, as a key regulatory axis. Additionally, metagenome‐assembled genomes (MAGs) recovered from saltmarshes show a functional bias toward lignin degradation, thereby fueling downstream CH 4 production via methylotrophic pathways. Lignin‐addition and stable carbon isotope experiments further provide supportive evidence that lignin decomposition enhances Chinese saltmarsh CH 4 production potential, revealing a pathway that may reduce net blue carbon benefit. Together, these findings underscore that saltmarsh plant‐derived lignin is less stable than conventionally assumed, as microbial processing redirects stored carbon toward CH 4 production, challenging current blue carbon accounting frameworks at a continental scale within China.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71054",
+      "doi_url": "https://doi.org/10.1111/gcb.71054",
+      "title": "Aboveground Biomass Accumulation Over Two Decades Across a Gradient of Tropical Forest Restoration Interventions",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        8,
+        17
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71054",
+      "abstract": "ABSTRACT Tropical forest restoration is an important nature‐based solution that can sequester carbon as a means to mitigate climate change. Restoration approaches range from natural regeneration to intensive tree planting, but few studies have compared aboveground biomass (AGB) stocks over decadal time scales across multiple restoration treatments implemented at the same sites. Here we leverage data from a two‐decade restoration experiment in southern Costa Rica; in 2004–2006, we established restoration plots representing a gradient of intervention intensity: natural regeneration (no planting), applied nucleation (planting tree clusters), and plantation (full planting). We compare 18–20 years of AGB across treatments of the four planted tree species and naturally recruited trees. We also examine the relationships between AGB pools and structural metrics derived from UAV‐borne LiDAR data collected after 16–18 years. Because most AGB was in planted trees, AGB was about 6.5 times greater in plantations compared to natural regeneration, and double in plantations compared to applied nucleation after two decades, despite substantial mortality of planted trees. However, the plantation treatment suppressed naturally recruited AGB and accumulated only half the amount of the natural regeneration treatment. Natural recruits comprised four times the proportion of AGB in applied nucleation compared to plantation. LiDAR‐quantified LAI was more tightly correlated with total AGB in natural regeneration plots, whereas canopy height was more strongly correlated with planted biomass in plantation and applied nucleation. Our results highlight that tree planting accelerates AGB accumulation at degraded sites and illustrate that practitioners should select species with complementary life history strategies that enable carbon to be sequestered beyond the first decade. Given the tradeoff between planted tree biomass and naturally recruited biomass, spatially patterned methods that plant fewer trees may better balance restoration goals beyond carbon accumulation, leading to more structurally and biologically diverse reforested systems.",
+      "keywords": []
+    },
     {
       "doi": "10.1111/ele.70446",
       "doi_url": "https://doi.org/10.1111/ele.70446",
@@ -18139,35 +18355,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70860",
-      "doi_url": "https://doi.org/10.1111/gcb.70860",
-      "title": "Seasonal Flooding Disrupts Expected Depth‐Dependent Patterns of Mineral Associated Carbon, Nitrogen, and Phosphorus Across Land Uses",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-17",
-      "published_date_display": "2026-04-17",
-      "published_parts": [
-        2026,
-        4,
-        17
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70860",
-      "abstract": "ABSTRACT Approximately 25%–70% of soil organic matter (OM) is stored below 30 cm, rendering subsoil OM cycling an important control on OM persistence. With climate change, soils are experiencing new pedoclimatic disturbances like seasonal flooding that can destabilize mineral associated organic matter (MAOM) and undermine carbon (C), nitrogen (N), and phosphorus (P) persistence. Our current understanding of how OM cycles down the soil profile is largely based on well‐drained soils. Thus, it remains uncertain if expected depth‐dependent trends and subsoil OM persistence differ in soils subjected to seasonal flooding across land uses. We collected 1‐m‐deep soil cores within a seasonal floodplain, representing a land‐use gradient: forest, pasture, and cropland. We compared MAOM concentrations (C, N, and P), stoichiometry, isotopic, and molecular chemical composition, in combination with microbial biomass and carbon use efficiency at four soil depths to understand the transformation and persistence of OM with depth. We found that the composition of OM by depth in our soils diverges from common trends in well‐drained soils. For example, in well‐drained soils, we expect a decrease in mineral associated C:N, and an increase in polar compounds with depth, as these compounds are thought to be more persistent. Instead, we found an increase in MAOM C:N in the forest and cropland, and an increase in non‐polar C rich compounds in all land uses with depth. The pasture varied from the forest and cropland, with OM composition largely unchanged with depth. Our results suggest that the extensive root system in the pasture causes desorption of older compounds resulting in younger, plant derived compounds at all depths. We propose that the controls on persistence differ in a seasonal floodplain, where MAOM persistence is shaped more by compound resistance to hydrological stress than by formation pathways.",
-      "keywords": [
-        "Subsoil",
-        "Soil water",
-        "Soil carbon",
-        "Organic matter",
-        "Soil organic matter",
-        "Pasture",
-        "Cycling",
-        "Flooding (psychology)",
-        "Phosphorus",
-        "Topsoil"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70874",
       "doi_url": "https://doi.org/10.1111/gcb.70874",
       "title": "Multidimensional Recovery of Young Secondary Forests in Human‐Modified Tropical Landscapes",
@@ -18353,33 +18540,6 @@
         "Soil contamination",
         "Soil classification",
         "Soil test"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70845",
-      "doi_url": "https://doi.org/10.1111/gcb.70845",
-      "title": "Fish and Zooplankton Co‐Responses to Environmental Gradients Under Different Climate Change Scenarios",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-16",
-      "published_date_display": "2026-04-16",
-      "published_parts": [
-        2026,
-        4,
-        16
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70845",
-      "abstract": "ABSTRACT Climate change is reshaping freshwater ecosystems worldwide, yet the extent to which its effects differ across trophic levels remains poorly understood. Despite growing evidence of community restructuring, few studies have jointly examined how multiple trophic levels respond to climate forcing within a functional and network‐based framework. Herein, we assessed how fish and zooplankton communities respond to contemporary and projected end‐of‐century climate conditions using different shared socioeconomic pathways (SSP1‐2.6, SSP3‐7.0, and SSP5‐8.5). By means of joint species distribution models and ecological network analyses, we examined fish–zooplankton co‐responses to environmental gradients, quantified trait–environment relationships, and evaluated potential species interactions. We found that fish and zooplankton displayed distinct community and functional responses to current and projected climate gradients. Although both trophic levels were primarily influenced by climatic variables, fish exhibited stronger trait–climate relationships, including declining body size and increasing thermal tolerance with warming. Through ecological network analyses, we then demonstrated that freshwater communities tended to become more homogenized by 2100 under future climate change. Together, these results suggest contrasting climate sensitivities across trophic levels, potentially leading to trophic decoupling and functional reorganization of freshwater food webs at the regional scale. Our study highlights the value of combining trait‐based and network approaches to better anticipate community‐level responses to climate change.",
-      "keywords": [
-        "Trophic level",
-        "Climate change",
-        "Trophic cascade",
-        "Zooplankton",
-        "Ecosystem",
-        "Freshwater ecosystem",
-        "Effects of global warming",
-        "Freshwater fish"
       ]
     },
     {
@@ -19329,35 +19489,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70841",
-      "doi_url": "https://doi.org/10.1111/gcb.70841",
-      "title": "Atmospheric Boundary Layer Control on Forest Thermal Properties",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-07",
-      "published_date_display": "2026-04-07",
-      "published_parts": [
-        2026,
-        4,
-        7
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70841",
-      "abstract": "ABSTRACT Forest canopy, air temperatures and air humidity (, , and ) play a central rol in regulating energy and gas exchange between vegetation and the atmosphere. Although often treated as independent drivers of canopy processes, and are dynamically coupled to via surface energy fluxes and atmospheric boundary layer (ABL) development. We investigated how plant physiology mediates this coupling. Using data from a tropical ecosystem, we studied a process‐based forest model dynamically coupled with an ABL growth model to simulate diurnal interactions between the canopy and the atmosphere. We systematically varied plant traits related to water use and thermal regulation to assess their effects on coupling and feedback. We focused on three metrics: the slope of the relationship, the peak of reached during the day and the lag between the maximum and , indicating hysteresis. Conservative water use, by reducing transpiration, leads to greater canopy warming, which intensifies sensible heat flux and accelerates ABL growth. This, in turn, raises near‐surface air temperature and vapor pressure deficit (VPD), amplifying thermal and water stress. In contrast, greater water use enhances evaporative cooling and slows ABL development, thereby moderating these feedback. Surprisingly, the slope of the relationship is quite insensitive to plant water‐use syndromes. This insight extends beyond modeling. Empirical studies often treat and VPD as independent drivers of transpiration, photosynthesis, or stomatal conductance. Our results challenge this assumption, showing that these variables are influenced by plant function itself. is not a passive outcome but an active mediator of energy, water, and carbon exchange, regulated by a feedback loop involving leaf physiology and atmospheric dynamics. Studies using or the relationship—whether from remote sensing or field data—as a proxy for forest stress or function, must account for this coupling.",
-      "keywords": [
-        "Planetary boundary layer",
-        "Canopy",
-        "Humidity",
-        "Vegetation (pathology)",
-        "Relative humidity",
-        "Thermal",
-        "Air temperature",
-        "Boundary layer",
-        "Tree canopy",
-        "Atmosphere (unit)"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70380",
       "doi_url": "https://doi.org/10.1111/ele.70380",
       "title": "Multiple Community Properties Drive Ecosystem Resistance and Resilience to Extreme Climate Events Across Mesic Grasslands",
@@ -19765,30 +19896,6 @@
         "Habitat destruction",
         "Occupancy",
         "Range (aeronautics)"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70848",
-      "doi_url": "https://doi.org/10.1111/gcb.70848",
-      "title": "Sunflower Sea Stars Can Counteract Warming‐Driven Increases in Sea Urchin Populations",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-02",
-      "published_date_display": "2026-04-02",
-      "published_parts": [
-        2026,
-        4,
-        2
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70848",
-      "abstract": "The authors declare no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analysed during the current study.",
-      "keywords": [
-        "Sea urchin",
-        "Sunflower",
-        "Stars",
-        "Current (fluid)",
-        "Helianthus annuus"
       ]
     },
     {
@@ -20202,33 +20309,6 @@
       "keywords": [
         "George (robot)",
         "Preference"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70824",
-      "doi_url": "https://doi.org/10.1111/gcb.70824",
-      "title": "Why Biodiversity Loss Matters More in a Stressful World",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        4,
-        1
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70824",
-      "abstract": "Conservation biology rests on a strong foundational principle of ecology, that there is generally a positive relationship between biodiversity and ecosystem function. In short, diverse systems do more essential “stuff”, for example carbon sequestration, nutrient cycling, and biomass production, than depauperate systems do. A rich literature supports this principle and describes the ubiquity and strength of biodiversity-ecosystem function relationships (BEFs) across varied ecosystems, geographic regions, scales, and categories of functions (Cardinale et al. 2012). Biodiversity-function relationships are fundamental properties of ecological systems and understanding them helps us operationalize some of the ways that biodiversity matters and name some of the things that it does. Ecologists often wonder if we have many, or even any, generalizable laws, but we are at least confident that the natural world does many wonderful things, and it does them better when there are more different kinds of organisms working together. But natural systems experience stressors, like heat, drought, and pollution. In a world in which stress is becoming more frequent and extreme and causes biodiversity loss (Côté et al. 2016; Díaz et al. 2019), knowledge of BEFs helps us predict that biodiversity loss leads to declines in ecosystem function. Unfortunately, this knowledge is not enough. It is not enough because most, if not all, ecosystems will experience multiple stressors simultaneously, a combination of two or more “pushes” against the status quo. We should therefore expect multiple stressors to be the norm rather than an exception. Understanding the effects of multiple stressors on ecosystem function is more nuanced than one might initially assume, however. It makes sense that the addition of multiple stressors would cause additional species loss and therefore push ecosystems farther toward lower biodiversity and concomitantly reduced function, such as less carbon fixed and less biomass produced (Hooper et al. 2012). But a critical question is whether multiple stressors also change the shape of the BEF relationship. In other words, even when stressors do not cause biodiversity loss, does the presence of multiple stressors make ecological communities less efficient and less able to do the work of performing those things we call ecosystem functions? Answering this question is the focus and key innovation of Schäfer et al. (2025). In their meta-analysis of freshwater experiments, Schäfer et al. compiled experimental studies of aquatic ecosystem function conducted under different stressors, and that included measurements of taxonomic richness. A key challenge in these studies is that stressor intensity and the number of stressors may each be confounded with biodiversity: more stressors and greater stressor intensity lead to more biodiversity loss, which itself leads to greater loss of function. By including both richness loss and the number of stressors in their analyses, however, the authors were able to hold richness constant across changes in the number of stressors, allowing them to isolate the effect of the number of stressors on ecosystem function. This approach to disentangling the number of stressors and stressor intensity is important and novel. Further, because of the positive nature of the biodiversity-function relationship, we often assume that loss of function is caused by loss of biodiversity. But Schäfer et al.'s approach opens the door to gathering empirical evidence for the insight that adding stressors changes the very nature of the BEF relationship itself, leading to a loss of functional efficiency, even in high-diversity systems (Rillig et al. 2023). Changes in the shape of the biodiversity-function relationship are precisely what Schäfer et al. document. Across the studies in their analysis, biodiversity loss (measured as richness loss) led to declines in ecosystem function, as would be predicted from positive BEF relationships. The BEF relationships, however, were different in systems experiencing multiple stressors: they were more strongly positive. This critical observation has two important implications. First, at any given level of richness loss, systems experiencing, say, three distinct stressors will experience greater relative reductions in ecosystem function than a system experiencing a single stressor and the same level of richness loss. Second, for systems experiencing multiple stressors, any additional loss in biodiversity will cause a more dramatic reduction in function than would be seen in a single-stressor system. In short, because the presence of multiple stressors changes the shape of the BEF, tilting it more steeply, ecosystem function is far more sensitive to changes in biodiversity when multiple stressors are present. In a world in which stressors are more common, ecosystems and the services they provide are even more sensitive to biodiversity loss. Schäfer et al.'s results are narrow in some senses. Their study focuses strictly on experimental freshwater studies with many of the restrictions typical of rigorous meta-analyses, which require apples-to-apples comparisons. But the results also offer a rare amount of generality. Importantly, neither stressor identity, nor high-level taxonomic identity (e.g., “algae” or “zooplankton”), contributed importantly to the primary result of a steepening of the biodiversity-function relationship as the number of stressors increased. This means that the negative effects on BEF of adding more stressors were not because it became more likely that particularly “bad” stressors were now included, nor that some organismal groups were obviously more sensitive to stressors than others. Based on these results, when more stressors accumulate in an ecosystem, we should expect an increasingly negative effect on ecosystem function, regardless of which stressors are added. The relatively small range (one, two, or three) of stressors and coarse categorization of stressors and organisms in Schäfer et al. (2025) each leave room for future exploration. Further, biodiversity-ecosystem function relationships should be expected to vary in shape for other reasons, for example across ecosystems (freshwater vs. marine vs. terrestrial) and thus may respond differently to the number of stressors. But the lack of obvious contingency in a famously contingent field is encouraging and makes Schäfer et al.'s findings unusually impactful. Schäfer et al.'s recent work adds clarity to the ecological literature, which is replete with examples of the biodiversity-ecosystem function relationship (Tilman et al. 2014). This body of work has been critical in compiling a comprehensive empirical case that biodiversity matters to the existence and functioning of ecosystems and the services they provide. Schäfer et al.'s results advance this line of inquiry by helping us see how BEF research matters to what matters: understanding how the natural world works, what that means for how ecosystems and their functions are changing, and how these new details align, or not, with modern conservation goals and values. Yes, biodiversity matters, but by showing that the biodiversity-function relationship changes depending on the number of stressors, Schafer et al. also show how strongly it matters in different contexts. This key result also represents an important new focus for BEF research: identifying and understanding where, when, and why biodiversity-function relationships become steeper, and therefore more sensitive to biodiversity loss. Perhaps most critically, the “bigness” of Schäfer et al.'s results may help us cut through some of the necessary abstraction inherent to BEF and modern ecological research. In the plainest terms possible: For a long time we have known that biodiversity loss was bad for nature and for the services that nature provides (Daily 1997). We now know that the loss of function caused by biodiversity loss is even greater when ecosystems experience multiple forms of ecological stress. And because multiple forms of stress are a reality of the modern ecological world, we can now see more clearly that biodiversity loss has been degrading ecosystem function even faster than we may have previously predicted. Kevin G. Smith: conceptualization, writing – review and editing. The author declares no conflicts of interest. Data sharing not applicable to this article as no datasets were generated or analysed during the current study.",
-      "keywords": [
-        "Biodiversity",
-        "Operationalization",
-        "Ecosystem",
-        "Natural (archaeology)",
-        "Stressor",
-        "Ecosystem services",
-        "Function (biology)",
-        "Climate change"
       ]
     },
     {
@@ -21042,34 +21122,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70342",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70342",
-      "title": "Estimating spatially varying occupancy trends for multi‐scale conservation: An amphibian case study in the midwestern United States",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-24",
-      "published_date_display": "2026-03-24",
-      "published_parts": [
-        2026,
-        3,
-        24
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70342",
-      "abstract": "Abstract Species population and distribution trends are essential inputs in the development of conservation plans. While trend estimates at broad spatial scales provide fundamental information, such estimates may mask spatial heterogeneity occurring at local levels. Local variations in occupancy trends can be particularly meaningful for taxonomic groups such as amphibians that are experiencing precipitous large‐scale declines as a result of localized and variable patterns of habitat loss/degradation, climate change and disease. Here we develop a spatial occupancy model that provides nuanced inferences on multi‐scale occupancy trends. Using volunteer‐collected, participatory science data, we apply our framework to estimate multi‐scale trends for 11 anuran species across Minnesota, USA from 1996 to 2015. We found substantial fine‐scale spatial variation in occupancy trends across all 11 species, suggesting localized drivers of anuran occupancy dynamics across the state. Spatial variation in trends was highly species‐specific, with some species having positive trends that varied in magnitude across the state (e.g. boreal chorus frog [ Pseudacris maculata ]), and others that showed both positive and negative trends across the state (e.g. northern leopard frog [ Lithobates pipiens ]). Statewide projections of occupancy trends provided fine‐scale insights on anuran distribution changes that were not possible when fitting simpler models. Our Bayesian approach allows trends to be summarized across areal units (e.g. ecological strata, management units) that are directly relevant for management and conservation planning. For example, the statewide trend for American toad ( Anaxyrus americanus ) was effectively zero, but finer scale analyses across ecological strata (used for statewide wildlife conservation planning) revealed multiple areas of both localized increases and declines. Synthesis and applications . Our spatial modelling approach allows practitioners to estimate trends across multiple spatial scales to inform local and regional management priorities, particularly when summarizing trends within key areal units used for conservation planning. Our framework can be used to identify hotspots of decline across multiple sympatric species for targeted monitoring or management actions. Further, estimation of spatially varying trends provides an improved ability to assess effects of protected areas or management actions, inform spatial prioritization and hypothesize drivers of occupancy trends.",
-      "keywords": [
-        "Occupancy",
-        "Habitat",
-        "Spatial ecology",
-        "Spatial variability",
-        "Spatial distribution",
-        "Distribution (mathematics)",
-        "Boreal",
-        "Species distribution",
-        "Spatial analysis"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70328",
       "doi_url": "https://doi.org/10.1111/1365-2664.70328",
       "title": "Environmental <scp>DNA</scp> metabarcoding reflects rank‐based abundance of fish",
@@ -21490,32 +21542,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70336",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70336",
-      "title": "Interactive drivers of root decomposition in restored and natural mangroves",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-17",
-      "published_date_display": "2026-03-17",
-      "published_parts": [
-        2026,
-        3,
-        17
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70336",
-      "abstract": "Abstract The allocation of blue carbon credits needs to constrain the contribution of autochthonous and allochthonous carbon. In mangroves, live roots turnover to form dead roots, which decompose into autochthonous carbon stored in sediments. However, limited data on root decomposition are available for mangroves, which hinders a comprehensive understanding of carbon dynamics in these ecosystems. This study used 210 litter bags to examine the variation in root decomposition for restored and natural mangroves while considering local environmental factors. This is among the first studies to examine interactive biotic–abiotic drivers of root decomposition in restored mangroves. Data were also combined with published studies on root decomposition to explore global patterns and identify potential drivers of decomposition rate constants. The final remaining root mass was significantly less in restored mangroves due to higher root decomposition rate constants (2.5 × 10 −3 ± 2.2 × 10 −4 day −1 , n = 18) than those in natural mangroves (2.2 × 10 −3 ± 3.8 × 10 −4 day −1 , η 2 = 4 × 10 −2 , 95% CI: [0, 1], n = 24). Fine roots decompose slower (1.7 × 10–3 ± 1.3 × 10–4 day‐1, n = 21) than coarse roots (2.9 × 10 −3 ± 4.2 × 10 −4 day‐1, η 2 = 1.1 × 10 −1 , 95% CI: [0, 1], n = 21). Fine root decomposition rate constants were also controlled by other local factors, including species, litter C/N, porewater salinity and sediment nutrients. However, no clear pattern was observed for root decomposition rate constants along latitudes and longitudes, suggesting that local factors dominate over global trends. Stable carbon isotopes of roots showed site‐ and morphology‐dependent variation, suggesting distinct decomposition pathways. Synthesis and applications : Root decomposition in mangroves is controlled by interactive local factors rather than global factors, highlighting the need for site‐specific management strategies. Our results underscore the importance of making site‐specific decisions to harness the autochthonous carbon related to mangrove roots effectively. Furthermore, uncertainties in stable carbon isotopes of roots and litter should be carefully considered to better constrain autochthonous carbon. Methodologies for blue carbon credits can be improved by incorporating stable carbon isotopes of roots into isotope mixing models, which can better constrain the contribution of autochthonous carbon.",
-      "keywords": [
-        "Mangrove",
-        "Decomposition",
-        "Litter",
-        "Salinity",
-        "Plant litter",
-        "Carbon fibers",
-        "Carbon cycle"
-      ]
-    },
-    {
       "doi": "10.1111/1365-2664.70337",
       "doi_url": "https://doi.org/10.1111/1365-2664.70337",
       "title": "Conservation evidence is biased but can support decision‐making for prevalent and severe threats in tetrapods",
@@ -21653,33 +21679,6 @@
         "Biomass (ecology)",
         "Ecosystem",
         "Primary production",
-        "Plant community"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70327",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70327",
-      "title": "Biological soil crusts enhance the role of soil seed banks in semi‐arid ecosystems",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-16",
-      "published_date_display": "2026-03-16",
-      "published_parts": [
-        2026,
-        3,
-        16
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70327",
-      "abstract": "Abstract Soil seed banks provide materials for plant distribution, dynamics and ecosystem evolution. In semi‐arid sandy regions, biological soil crusts (BSCs) exist widely and play a significant role in the early stages of the life history of vascular plants. Seed banks are regulated by the interactions between BSCs and vascular plants and are also affected by the spatial distribution of BSCs. While many studies have focused on how BSCs influence seed germination and seedling survival, their impact on soil seed banks has been less explored, even though seed banks are crucial for plant community assembly and ecological resilience in the semiarid regions. We collected soil samples of the patches of bare sand, physical, algal and moss crust at the typical distribution site of BSC in the Mu Us Sandy Land, northern China, over two periods. Germination experiments were conducted to analyse the composition and distribution of transient and persistent seed banks, respectively. We also investigated the BSC patches and plant communities to assess the similarity between seed banks and above‐ground vegetations. In the transient seed bank, the seed density increased 289%, 422% and 1032% in the physical, algal and moss crust, respectively, compared to bare sand. The persistent seed bank showed no significant differences among different patches. The moss crust improved significantly on the transient seed bank by collecting many annual herb seeds. The algal crust significantly increased the proportion of perennial herbs and xerophytes in the persistent seed bank, although there were no significant differences in diversity among different patches. Synthesis and applications . BSCs exert a storage effect (particularly the moss crust) and a filtering effect (particularly the algal crust), enhancing the role of both transient and persistent seed banks in semi‐arid lands. The patchy mosaic distribution pattern triggered ‘seed islands’ within communities, which harbour high seed densities by the storage effect or preserve rare species by the filtering effect. These seed islands improve ecosystem regeneration and resilience and maintain heterogeneity in plant communities, highlighting the importance of BSCs in combating desertification and maintaining biodiversity and ecosystem function in semi‐arid regions.",
-      "keywords": [
-        "Soil seed bank",
-        "Germination",
-        "Moss",
-        "Seedling",
-        "Ecosystem",
-        "Microsite",
-        "Perennial plant",
         "Plant community"
       ]
     },
@@ -26784,32 +26783,6 @@
       ]
     },
     {
-      "doi": "10.1038/s41559-026-02975-w",
-      "doi_url": "https://doi.org/10.1038/s41559-026-02975-w",
-      "title": "Related microorganisms occupy similar ecological communities",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-16",
-      "published_date_display": "2026-01-16",
-      "published_parts": [
-        2026,
-        1,
-        16
-      ],
-      "link": "https://www.nature.com/articles/s41559-026-02975-w",
-      "abstract": "",
-      "keywords": [
-        "Niche",
-        "Community",
-        "Phylogenetic tree",
-        "Microorganism",
-        "Ecological niche",
-        "Parallels",
-        "Niche construction"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-025-02957-4",
       "doi_url": "https://doi.org/10.1038/s41559-025-02957-4",
       "title": "Community conservatism is widespread across microbial phyla and environments",
@@ -26944,31 +26917,6 @@
         "Variance (accounting)",
         "Evolutionary dynamics",
         "Distribution (mathematics)"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02940-z",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02940-z",
-      "title": "Drivers of same-sex sexual behaviour",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-12",
-      "published_date_display": "2026-01-12",
-      "published_parts": [
-        2026,
-        1,
-        12
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02940-z",
-      "abstract": "",
-      "keywords": [
-        "Scarcity",
-        "Sexual behavior",
-        "Resource (disambiguation)",
-        "Sexual dimorphism",
-        "Sexual selection",
-        "Social relation"
       ]
     },
     {
