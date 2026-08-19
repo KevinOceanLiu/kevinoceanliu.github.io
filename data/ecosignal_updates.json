@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:59:22.265582+00:00",
+  "generated_at": "2026-08-19T22:59:14.880482+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -36,6 +36,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1111/gcb.71056",
+      "doi_url": "https://doi.org/10.1111/gcb.71056",
+      "title": "The Effects of Ocean Warming and Acidification on Fatty Acid Contents of Marine Organisms: A Global Meta‐Analysis",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71056",
+      "abstract": "ABSTRACT Ocean warming and acidification pose significant threats to marine biodiversity and human nutrition by fundamentally altering the biochemical composition of marine organisms. A primary concern is the potential decline in omega‐3 fatty acids (FAs) that are essential to human health and primarily obtained through seafood consumption. The influence of these climate stressors on FA content across marine food webs remains poorly understood. To address this critical knowledge gap, we conducted a global meta‐analysis of 489 experiments across 143 publications and 132 marine species, quantifying the effects of warming and acidification on nutritionally important FAs in marine primary producers, invertebrates and fishes. Under warmer conditions, we detected reductions of up to 34% and 50% in omega‐3 FA proportions and concentrations, respectively, and up to 53% in omega‐3: omega‐6 ratios, together with increases of up to 22% and 17% in saturated FA proportions and concentrations, respectively across taxa groups. Critically, these effects were intensified as warming increased. The most severe reductions in omega‐3 FAs were observed in primary producers, suggesting that climate‐driven changes at the base of the food web could impair trophic transfer of these micronutrients, limiting nutrient availability for higher trophic levels and ultimately humans. Ocean acidification, conversely, demonstrated a minor overall effect on FA levels, although this result was based on substantially fewer studies. Furthermore, we identified species from environments with broader temperature ranges, diatoms, herbivorous invertebrates and low‐resilience fish to display larger reductions in omega‐3 FA proportions under warming. Our meta‐analysis further highlighted the need for long‐term studies under ecologically realistic conditions to improve predictions of nutritional responses to climate change. These findings are essential for understanding how the nutritional value of species change under climate change, and can inform fisheries management, aquaculture and public health policy aimed at securing the future availability of these vital micronutrients.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71025",
+      "doi_url": "https://doi.org/10.1111/gcb.71025",
+      "title": "The Effects of Microplastics and Additives on Ecosystem Function, Structure, and Signaling",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71025",
+      "abstract": "ABSTRACT Microplastics (MPs) and their associated chemical additives are pervasive contaminants whose ecological impacts extend beyond organismal toxicity to fundamentally alter ecosystem processes. We synthesize current understanding of how MPs affect three interconnected dimensions of ecosystem integrity: ecosystem structure, ecosystem function, and ecosystem signaling. Across terrestrial, freshwater, and marine ecosystems, MPs alter biodiversity, community composition, trophic interactions, and habitat complexity, driving cascading changes in food‐web architecture. They also impair key ecosystem functions, including primary production, decomposition, nutrient and carbon cycling, bioturbation, filtration, and energy transfer, with consequences for ecosystem productivity and resilience. We further identify ecosystem signaling as an emerging but underappreciated dimension of plastic pollution. MPs and their additives disrupt chemical, microbial, and sensory communication by altering semiochemicals, pheromones, quorum sensing, predator–prey recognition, host–microbiome interactions, and plant–soil feedbacks, thereby modifying behaviors and ecological processes that regulate ecosystem dynamics. Climate change further amplifies these effects through warming, altered hydrology, hypoxia, ocean acidification, ultraviolet radiation, and extreme weather events, which increase plastic fragmentation, additive release, bioavailability, and organismal susceptibility. We propose an integrated conceptual framework linking structural, functional, and signaling pathways to explain how MPs reshape ecosystem resilience under global change. Recognizing ecosystem signaling alongside ecosystem structure and function provides a more comprehensive framework for predicting ecosystem responses and identifying priorities for future research, conservation, and environmental management.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71072",
+      "doi_url": "https://doi.org/10.1111/gcb.71072",
+      "title": "Synergistic Interactions Between Warming and Elevated Atmospheric <scp> CO <sub>2</sub> </scp> Increase Soil Organic Carbon Sequestration",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71072",
+      "abstract": "ABSTRACT Warming and elevated CO 2 (eCO 2 ) are two potentially opposing climate‐carbon (C) feedback mechanisms that modulate the magnitude of the land C sink, with warming decreasing and eCO 2 increasing C sequestration. However, their net effect on soil organic C (SOC)—the largest terrestrial C stock—remains uncertain. Here, we quantify how warming, eCO 2 , and their interactions influence SOC by using 5558 paired observations from 1392 global studies across ecosystem types. Our study shows that warming reduces SOC by 8.0%, primarily by suppressing aboveground C inputs (−1.0%) and decreasing microbial C use efficiency (−9.9%). Concurrent warming and eCO 2 increase SOC by 7.6%—a synergistic effect larger than eCO 2 alone (+4.8%), primarily contributed by croplands. This outcome may result from increases in plant C inputs and soil nitrogen availability under eCO 2 , which facilitate microbial C assimilation and necromass formation (+3.9%). These processes promote the accumulation of mineral‐associated C (+9.9%) and offset the negative effects of warming. The combined effect of warming and eCO 2 is projected to increase SOC by 27.4 Pg C by 2100. Our findings highlight that synergistic interaction between warming and eCO 2 increases SOC sequestration and enhances SOC stability under future climate change.",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41559-026-03167-2",
       "doi_url": "https://doi.org/10.1038/s41559-026-03167-2",
       "title": "High-integrity biodiversity credits through recognition of culturally salient species",
@@ -51,7 +105,14 @@
       ],
       "link": "https://www.nature.com/articles/s41559-026-03167-2",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Indigenous",
+        "Salient",
+        "Biodiversity",
+        "Traditional knowledge",
+        "Cultural diversity",
+        "Metric (unit)"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70549",
@@ -69,7 +130,16 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70549",
       "abstract": "Abstract Seawall construction to protect coastlines from the impacts of climate change has resulted in the loss of marine biodiversity and ecosystem services globally. These negative impacts have been associated with reductions in habitat complexity, both topographic and biogenic. In response, habitat rehabilitation through eco‐engineering has been promoted as a means to restore complexity and counteract ecosystem loss in urban seascapes. However, greater understanding of community establishment on eco‐engineered structures hinges on a stronger form‐independent concept of complexity‐biodiversity relationships, linking reproducible complexity metrics to multiple biodiversity responses, and thus advancing the generalisability and applicability of ecological findings beyond design‐specific contexts. Here, we show that qualitative and quantitative facets of complexity drive patterns of ecological succession on a large‐scale, intertidal eco‐engineering installation across 2 years. At three habitat scales, complexity facilitated increased alpha and gamma diversity, enhanced habitat‐forming seaweed and grazer abundance, and supported spatial niche partitioning. Multiple quantitative metrics of topographic (e.g. rugosity across scales of 10–100 mm), spatial (e.g. number of neighbouring panels) and biogenic complexity (canopy cover) emerged as significant drivers of key biodiversity metrics. Synthesis and applications . Our findings demonstrate that restoring coastal habitat complexity can substantially improve ecosystem diversity and functioning, offering a scalable marine conservation approach within increasingly engineered seascapes. We highlight the need for multi‐metric, multi‐scale assessments of spatio‐temporal community formation on eco‐engineered infrastructure and show that both topographic and biogenic complexity support biodiversity gains, driven by biomimetic surface structures and seaweed‐based facilitation cascades, respectively. Topography‐based effects on intertidal foundation species (e.g. seaweeds) deserve particular focus for the long‐term environmental management of coastal habitats, due to the capacity of these species to provide ecosystem services and mitigate climate change impacts. Thus, while we recommend that measurements of habitat complexity should progress towards quantitative, generalisable metrics, practical efforts to restore biodiversity through eco‐engineering should be tailored to key habitat‐forming species of the local environment.",
-      "keywords": []
+      "keywords": [
+        "Biodiversity",
+        "Foundation species",
+        "Ecosystem",
+        "Habitat",
+        "Ecosystem services",
+        "Ecological succession",
+        "Intertidal zone",
+        "Structural complexity"
+      ]
     },
     {
       "doi": "10.1111/gcb.71033",
@@ -87,7 +157,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71033",
       "abstract": "ABSTRACT The forest floor (FF) plays a key role in carbon, nutrient, and water cycling. It is the biologically most active compartment of forest soils, highly responsive to environmental conditions. Yet, its response to current changes in environmental conditions and forest management is understudied. Temperate forests are among the best studied ecosystems globally, providing the necessary ecological and biogeochemical background information to assess FF changes. Here, we focus on identifying existing knowledge and gaps in our understanding of the functioning of the FF. Interactions between FF biota and abiotic FF components show multifactorial dependencies with environmental conditions and drive FF turnover. Vice versa, the turnover of FF regulates carbon, nutrient, and water cycling. With slow litter decomposition and limited bioturbation, organic matter accumulates, nutrients cycle tightly within the FF, and water passes through this layer partly along preferential pathways. With rapid litter decomposition and intense bioturbation, FF accumulation is little, the mineral soil is the main nexus for plant nutrient uptake and organic matter transformation, and water infiltrates the mineral soil more homogeneously. The interconnectedness with the adjacent ecosystem compartments is a crucial feature of the FF, feeding back to its functioning and making it a central hub of forest processes. The FF morphology reflects these processes and therefore has untapped potential as an indicator of soil and ecosystem health. Under forest change, the FF might lose its functionality, with negative impacts on nutrient provision, water storage, and carbon sequestration. Consequences for forest growth could be strong and even detrimental. Hence, improved knowledge of FF characteristics and their linkages to mineral soils and aboveground ecosystem compartments is crucial for assessing forest resilience to progressing environmental changes.",
-      "keywords": []
+      "keywords": [
+        "Ecosystem",
+        "Forest floor",
+        "Forest ecology",
+        "Abiotic component",
+        "Biogeochemical cycle",
+        "Temperate rainforest",
+        "Temperate forest",
+        "Nutrient",
+        "Biota",
+        "Nutrient cycle"
+      ]
     },
     {
       "doi": "10.1111/gcb.71041",
@@ -105,7 +186,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71041",
       "abstract": "ABSTRACT Climate‐driven alterations in sea‐ice dynamics and shifting fishing activity are reshaping ecosystems across the Arctic and Antarctic, yet conservation‐relevant information for chondrichthyans (sharks, rays, and chimaeras) remains limited. We present the first assessment of Important Shark and Ray Areas (ISRAs) across Polar Waters, integrating species distributions, extinction risk, critical habitat evidence, spatial protection coverage, apparent fishing effort (2013–2018 vs. 2019–2024), and sea‐ice concentration trends. Of 86 chondrichthyan species reported from Polar Waters, only 15 (17.4%) had sufficient evidence to meet the ISRA Criteria, and 28 (32.6%) are threatened with extinction. We identified 35 ISRAs (27 Arctic; 8 Antarctic) covering 0.75% of the Polar Waters region. ISRAs were delineated predominantly based on data from scientific fishing surveys and harvest fisheries. Most Antarctic ISRAs were delineated under Criterion B—Range Restricted, reflecting endemism and scarce life‐history evidence. Major knowledge gaps persist, particularly for highly adapted Polar Species (10 species) and deepwater taxa (72.1% of regional chondrichthyan fauna). Between 2013 and 2024, the spatial footprint of fishing expanded in both poles for trawlers and longliners, despite stable or declining fishing hours in some fleets. Concurrent areas of increasing fishing effort and decreasing sea‐ice concentration remained minimal. However, apparent fishing effort overlapped with most ISRAs, indicating ongoing fishing pressure in critical habitats. Marine Protected Area (MPA) coverage remains uneven: 8.2% of Arctic ISRA spatial extent overlaps MPAs (0.8% no‐take), compared with 43.8% in the Antarctic (14.8% no‐take), with insufficient effective coverage in areas beyond national jurisdiction. These results reveal substantial mismatches between chondrichthyan critical habitats, fishing exposure, and existing protection measures. Integrating ISRAs into existing management frameworks, such as Target 3 of the Global Biodiversity Framework, High Seas Treaty mechanisms, and fisheries governance bodies, will be essential to safeguard vulnerable polar chondrichthyans as sea‐ice concentration declines and exposure risk increases.",
-      "keywords": []
+      "keywords": [
+        "Fishing",
+        "Threatened species",
+        "Marine protected area",
+        "Ursus maritimus",
+        "Arctic",
+        "Biodiversity",
+        "Habitat",
+        "Critical habitat",
+        "Commercial fishing"
+      ]
     },
     {
       "doi": "10.1111/gcb.71007",
@@ -123,7 +214,16 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71007",
       "abstract": "ABSTRACT Brooding organisms can modify the chemical environment experienced by developing offspring, potentially altering their exposure to climate change. In marine systems, however, the carbonate chemistry of brood chambers, and the mechanisms governing it, remain poorly resolved. Here, we combine high‐resolution pH and CO 2 measurements of the empty brood chamber (i.e., mantle cavity above gills) in the European flat oyster ( Ostrea edulis ) while also tracking valve gape to quantify how warming, ocean acidification, and ventilation interact to shape the internal environment experienced by larvae during incubation. Brood chamber pH was consistently lower than that of the surrounding seawater and responded to external conditions in a state‐dependent manner governed by ventilation and respiration. When oysters were actively ventilating, brood chamber chemistry tracked ambient seawater with a persistent offset, whereas valve closure led to rapid CO 2 accumulation and pronounced declines in pH. These dynamics generated highly variable and behaviorally mediated exposure regimes, in which metabolic processes distorted ambient chemical signals over short timescales. Paired pH and CO 2 measurements provided preliminary constraints on aragonite saturation state (Ωar), revealing that brood chambers can remain undersaturated (Ωar < 1) for prolonged periods even in ventilating oysters and while overlying seawater remains favorable. Together, these results demonstrate that brood chambers function as dynamic microenvironments in which larval exposure to ocean acidification is governed not only by external conditions, but also by behavior. Because warming enhances metabolic CO 2 production and intensifies acidification within the chamber, future climate change is likely to amplify both the magnitude and variability of larval exposure. These findings help explain the apparent resilience of brooding species to ocean acidification, while also highlighting potential limits as environmental conditions move beyond historical bounds.",
-      "keywords": []
+      "keywords": [
+        "Oyster",
+        "Brood",
+        "Seawater",
+        "Ocean acidification",
+        "Carbonate",
+        "Carbon dioxide",
+        "Hypoxia (environmental)",
+        "Effects of global warming on oceans"
+      ]
     },
     {
       "doi": "10.1111/ele.70443",
@@ -141,7 +241,18 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70443",
       "abstract": "ABSTRACT Understanding the mechanisms underlying the temporal stability of ecological systems remains a challenge. Although temporal stability in populations is posited to emerge from the interplay between intrinsic and extrinsic factors, the nature of these interactions remains poorly understood. Here, we analysed abundance time‐series for 7912 populations from 287 fish species across 1557 streams spanning multiple biogeographic realms. We evaluated how species traits interact with environmental and biotic contexts to shape temporal stability. Populations were most stable among equilibrium‐strategist species, at higher trophic positions and with lower dispersal abilities. Temporal stability was also greatest near species' thermal and flow niche centers and in less speciose communities, with life‐history traits modulating these effects. Notably, the effects of environmental variability were less pronounced and contingent on species traits. Our findings provide empirical evidence that interspecific trait differences are key determinants of temporal stability, highlighting the value of trait‐based approaches for generalizing biodiversity dynamics.",
-      "keywords": []
+      "keywords": [
+        "Interspecific competition",
+        "Biological dispersal",
+        "Trait",
+        "Trophic level",
+        "Context (archaeology)",
+        "Nestedness",
+        "Biodiversity",
+        "Temporal scales",
+        "Niche",
+        "Ecological stability"
+      ]
     },
     {
       "doi": "10.1086/743655",
@@ -238,7 +349,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70423",
       "abstract": "Abstract Plants with large geographic distributions experience varying biotic and abiotic conditions across their range that can influence plant defence traits among populations. Whether populations inhabiting warmer, wetter, and more productive regions face greater pressure and results in higher investment in defence compared with populations from cooler, drier, and less productive regions remains uncertain. Here, we quantified defence traits and herbivory on Solanum carolinense L . across a large climate and productivity gradient. We sampled populations spanning the entire north–south range (29–44° N) of S. carolinense (33 populations; ~15 plants per population) and employed a common garden experiment (15 populations; ~5 plants per population). We examined whether climate predicts (1) plant defence traits (specific leaf area, trichome density and glycoalkaloid concentration), (2) herbivore damage, and (3) the correlation of traits and herbivore damage in field and common garden plants. Trichome density and herbivore damage were higher for S. carolinense at the centre of its range, while glycoalkaloid concentrations were negatively associated with warmer, wetter climates both in the field and in the common garden. In the field, plants with higher glycoalkaloid production experienced reduced herbivory, while in the common garden plants with greater SLA received more damage. Synthesis. Overall, these findings suggest that different types of defensive traits within a single species may follow different ecological and evolutionary trends and highlight the need for trait‐specific considerations when applying plant defence hypotheses at the intraspecific level.",
-      "keywords": []
+      "keywords": [
+        "Herbivore",
+        "Intraspecific competition",
+        "Abiotic component",
+        "Productivity",
+        "Range (aeronautics)",
+        "Trichome",
+        "Adaptation (eye)",
+        "Plant tolerance to herbivory",
+        "Local adaptation"
+      ]
     },
     {
       "doi": "10.1111/1365-2745.70413",
@@ -365,7 +486,14 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70545",
       "abstract": "Abstract Seagrass meadows have supported human societies for millennia, offering a tapestry of social‐ecological values that include food, medicine, raw materials, cultural and spiritual meaning. Fourteen seagrass species have been reported from 41 African countries, but their extent is largely unknown, and it is likely that many meadows on the continent experience declines. Seagrass restoration is well established globally, providing mechanisms to secure seagrass meadows and their associated benefits to biodiversity and humanity, but restoration science remains globally uneven. We review the state of knowledge of actively restoring seagrass meadows in Africa, including target species, restoration approaches, monitoring times, and restoration outcomes. The first African seagrass restoration trials were documented in 2007, but restoration approaches and outcomes have only been formally reported since 2020. Only six countries have documented some form of restoration trials (Mozambique, Kenya, South Africa, Tanzania, The Gambia, Tunisia) that incorporate nine species ( Cymodocea nodosa , Halodule wrightii , Halodule uninervis , Oceana serrulata , Posidonia oceanica , Thalassodendron ciliatum , Thalassia hemprichii , Syringodium isoetifolium , Zostera capensis ). Restoration has primarily used cores as donor material, with seed‐based (including anchoring with Hessian sacks) or nursery‐propagation methods not well explored. Trials have been at small scales (generally <300 m 2 ) and monitoring activities lasted for <18 months. There was no consistent approach to carrying out trials, or monitoring restoration outcomes between studies. Synthesis and application : Seagrass restoration science in Africa is highly regionalised and fragmented and approaches inconsistent, highlighting the need for more unified and standardised approaches to restoration trials. However, current gaps in knowledge provide exciting opportunities, that when addressed will strengthen seagrass restoration science and capacity. These include building on technological advances in remote sensing and artificial intelligence to measure extent and dynamics of meadows, identifying and limiting drivers of seagrass loss and exploring opportunities for large‐scale restoration. Remaining meadows require immediate protection and regional climate change scenarios need to be considered in restoration planning, with targeted, long‐term investment and collaboration and stronger policies on ecological restoration essential. Building science–citizen partnerships, strengthening seagrass custodianship and investigating the value and perceptions of seagrass to society are all crucial aspects of ‘societies for seagrass’ and securing African seagrass meadows into the future.",
-      "keywords": []
+      "keywords": [
+        "Seagrass",
+        "Posidonia oceanica",
+        "Restoration ecology",
+        "Zostera",
+        "Zostera marina",
+        "Biodiversity"
+      ]
     },
     {
       "doi": "10.1111/1365-2664.70546",
@@ -411,7 +539,17 @@
       ],
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70542",
       "abstract": "Abstract Accelerating urbanization expands urban wastelands, which are increasingly recognized as conservation priorities for sustaining herbaceous plant diversity in cities. Despite the common coexistence of native and alien species in these habitats, it remains unclear how urbanization gradients mediate their functional differences and niche dynamics—a knowledge gap essential to fill for effective urban biodiversity management and alien species mitigation. We quantified functional trait variation in alien and native herbaceous plants along a gradient of urbanization quantified as degree of impervious surface (500 m × 500 m) within Guiyang's wastelands, measuring functional differences and niche overlap between species groups and identifying their drivers. Alien plant mean height increased with greater levels of impervious surfaces, while leaf length decreased in both alien and native species. Higher levels of impervious surfaces drove stronger habitat filtering rather than niche differentiation, increasing niche overlap between alien and native plants. Elevated soil carbon was associated with higher specific leaf area in both groups and reduced leaf dry matter content in alien species, yet it resulted in decreased alien‐native niche overlap. In contrast, increased soil nitrogen levels correlated with greater leaf thickness in both alien and native plants. Synthesis and applications . This study demonstrates that urbanization intensifies functional niche overlap between alien and native plant species in wastelands, thereby promoting biotic homogenization. Alien plants exhibit greater phenotypic plasticity in response to environmental changes, enabling them to take advantage of urban conditions. To steer plant communities towards the resilience‐oriented goal of functional differentiation while mitigating the competitive advantage of alien plants, habitat management practices such as enhancing soil carbon (e.g. applying organic amendments or retaining plant litter) are recommended for wastelands with high imperviousness.",
-      "keywords": []
+      "keywords": [
+        "Niche",
+        "Alien",
+        "Herbaceous plant",
+        "Niche differentiation",
+        "Introduced species",
+        "Habitat",
+        "Biodiversity",
+        "Ecological niche",
+        "Plant ecology"
+      ]
     },
     {
       "doi": "10.1111/gcb.71062",
@@ -509,7 +647,14 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71053",
       "abstract": "ABSTRACT Primary production underpins much of ecosystem functioning and is often limited by nutrient and water availability. Ongoing global increases in nutrient inputs and interannual precipitation variability are thus likely to impact primary production, with unclear consequences for interannual variability in plant biomass. We used data from 35 grasslands in the Nutrient Network coordinated fertilization experiment to test if nutrient addition alters the response of plant biomass to year‐to‐year variation in growing season precipitation, and whether the effects of nutrient addition vary with factors such as site aridity or plant community composition. Nutrient addition increased biomass (by an average of 46% across sites), rain‐use efficiency (by 48%), and the sensitivity of biomass to interannual variation in precipitation (i.e., larger increase in biomass in wet years; by 13%), but did not change the strength of the interannual precipitation‐biomass correlation. Both sensitivity and correlation strength were higher in more arid sites, regardless of nutrient addition. These results suggest that grassland ecosystem functioning may become more variable from year to year as nutrient enrichment increases biomass sensitivity to precipitation and precipitation becomes more variable.",
-      "keywords": []
+      "keywords": [
+        "Biomass (ecology)",
+        "Nutrient",
+        "Grassland",
+        "Precipitation",
+        "Ecosystem",
+        "Primary production"
+      ]
     },
     {
       "doi": "10.1111/gcb.71059",
@@ -17792,60 +17937,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70846",
-      "doi_url": "https://doi.org/10.1111/gcb.70846",
-      "title": "Predators Can Reverse the Effects of Warming on a Marine Ecosystem Engineer",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-24",
-      "published_date_display": "2026-04-24",
-      "published_parts": [
-        2026,
-        4,
-        24
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70846",
-      "abstract": "ABSTRACT Although there is abundant evidence of climate change impacts on distributions, population growth, and the phenology of individual species, our understanding of how climate change alters species interactions is more limited. Interactions between ectothermic predators and prey are likely to be especially sensitive to temperature due to these organisms' temperature‐dependent metabolism, performance, and behavior. We used three decades of data from kelp forests in California to examine the effect of temperature on interactions between the predatory sunflower star, Pycnopodia helianthoides , and one of its prey species, the purple sea urchin, Strongylocentrotus purpuratus , an ecosystem engineer. In the absence of sunflower stars, higher temperatures increased sea urchin population growth rates. However, the negative effects of sunflower stars on sea urchin population growth rates strengthened with higher temperatures. When sunflower stars were above a threshold density, their negative effect on sea urchins at warmer temperatures outweighed the direct positive effect of temperature, leading to decreasing urchin population growth rates with increasing temperature. These results suggest that recovery of sunflower stars, which were extirpated across much of the west coast of North America between 2013 and 2014, could reduce urchin populations and contribute to the resilience of kelp forests to increasing temperatures. More broadly, these results highlight how species interactions can mediate the direct effects of warming on populations.",
-      "keywords": [
-        "Kelp forest",
-        "Predation",
-        "Population",
-        "Kelp",
-        "Ecosystem",
-        "Sea urchin",
-        "Climate change",
-        "Phenology",
-        "Effects of global warming on oceans"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70891",
-      "doi_url": "https://doi.org/10.1111/gcb.70891",
-      "title": "Persistent 2023–2025 Wildfire Extremes in Canada Produced Unprecedented Emissions and Air‐Quality Impacts",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-24",
-      "published_date_display": "2026-04-24",
-      "published_parts": [
-        2026,
-        4,
-        24
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70891",
-      "abstract": "Wildfires play a central role in the Earth's carbon cycle and are a major driver of regional air quality. As the climate warms, regional megafire complexes are becoming increasingly common. Canada has recently emerged as a focal region of this shift. In 2023, record-breaking fires in Canada burned an estimated 12.7–18.6 million hectares (Mha; Pelletier et al. 2024; Canadian Forest Service 2026), releasing substantial amounts of carbon into the atmosphere (Byrne et al. 2024) and causing widespread impacts on air quality (Field et al. 2025; Zhang et al. 2025) and vegetation loss (MacCarthy et al. 2024). Initially regarded as an anomalous year, the 2023 fire season was followed by two additional years of extreme activity, forming an unprecedented three-year period of elevated fire activity from 2023 to 2025 (Tymstra and Flannigan 2025). Satellite observations indicate that annual active fire counts during this period (1.71, 0.70, 0.90 million in 2023–2025, respectively) consistently exceeded the 2002–2022 mean (0.23 Mha yr.−1) by approximately six standard deviations, averaging 1.10 million detections per year (Figure 1a). The Canadian National Fire Database (CNFDB) and Global Fire Emissions Database version 5 (GFED5) (van der Werf et al. 2025; Chen et al. 2026) report mean non-crop burned areas of 10.6 and 12.5 Mha yr.−1 in Canada during 2023–2025, respectively—more than seven standard deviations above the 21st century mean (2.4 ± 1.2 Mha yr.−1) and 5 standard deviations above the longer historical baseline (2.1 ± 1.7 Mha yr.−1 for 1959–2022; Figure 1b). Beyond the extent of burned area, this three-year fire anomaly was characterized by exceptionally high gaseous and particulate emissions. Using VIIRS active fire detections, we extended the GFED5 emissions record through recent years (Chen et al. 2026). Total carbon emissions in Canada during 2023–2025 were 574, 243, and 308 Tg C yr.−1, respectively, marking the highest values in the past two decades. Together, these three years constitute consecutive extremes (Figure 1c), and account for about 10% of global fire emissions. These values correspond to Z-scores of ~5–15 relative to the historical mean (67 ± 33 Tg C yr.−1), placing them far outside the range of expected variability. These sustained emissions led to widespread degradation of air quality across Canada (Figure 1d). Summer mean aerosol optical depth (AOD) was strongly influenced by wildfire activity during this period. The frequency of smoke–haze reports at weather stations declined steadily between 1970 and 2000, reflecting improvements in air quality following regulatory measures such as the US Clean Air Act and comparable environmental legislation in Canada. However, this trend has reversed over the past 15 years due to escalating wildfire-driven smoke (Field et al. 2025). During 2023–2025, smoke–haze frequency in Canada exceeded 3% (corresponding to ~109 smoke-hours per year), compared with an average of 0.3% (~10 smoke-hours per year) during the 2000s, when Canadian air quality was at its best. As noted by Tymstra and Flannigan (2025), wildfires in North America have entered uncharted territory. Here we show that the 2023–2025 period represents not only the most extreme multi-year fire episode in Canada this century, but also the most severe since records began in the late 1950s. Past clusters of high-fire years, including 1979–1981, 1994–1995, and 2013–2015 (Amiro et al. 2001; Hanes et al. 2025), were significant but fall well short of the recent period in terms of burned area, carbon emissions, and smoke frequency. The persistence of these extreme fire years has also generated escalating public health and economic impacts. Fires spreading into the populated areas forced tens of thousands of Canadians to evacuate, with disproportionate impacts on First Nations communities. Multiple interacting factors influence extreme wildfire activity in Canada, including climate variability, ecosystem conditions, and human influences (Jain et al. 2024). The sequence of extreme fire years from 2023 to 2025 therefore raises an important question: whether this period represents a rare natural anomaly or the emergence of a new baseline under ongoing human-caused climate change (Curasi et al. 2024). If consecutive extreme fire seasons become more common, pollutant emissions and carbon losses from Canada's forests and other ecosystems could rival or exceed those from human activities, potentially undermining air-quality gains and climate-mitigation progress achieved through reductions in transportation, energy, and industrial emissions. Y.C., R.D.F., R.C.S., and J.T.R. conceived of the analysis and methodology. Y.C. and R.D.F. conducted the data curation, formal analysis and wrote the original draft. Y.C. conducted visualization. All authors contributed to reviewing and editing the manuscript. This work was supported by the NASA Earth Information System—Fire project (Grant No. 80NSSC20K0590), the NASA FireSense Technology Program (Grant No. 80NSSC24K1823), and the NASA FireSense Implementation Program (Grant No. 80NSSC24K1317). Additional support was provided by the U.S. National Science Foundation through the Collaborations in Artificial Intelligence and Geosciences (CAIG) program (Grant No. RISE-2425932) and by the Dutch Research Council (NWO) through a Rubicon Grant (Grant No. 019.241EN.018). This work was supported by the NASA (Grants 80NSSC20K0590, 80NSSC24K1823, 80NSSC24K1317), NSF (Grant RISE-2425932) and the Dutch Research Council (NWO) (Grant 019.241EN.018). The authors declare no conflicts of interest. All datasets used in this study are publicly available from the repositories and sources listed below. MODIS (MCD14ML, Collection 6.1, https://doi.org/10.5067/FIRMS/MODIS/MCD14DL.NRT.0061) and VIIRS (VNP14IMGML, Collection 2, https://doi.org/10.5067/VIIRS/VNP14.002) active fire location data were obtained from the University of Maryland FTP server (fuoco.geog.umd.edu). For MCD14ML, only detections from the Terra satellite were used to calculate active fire counts, and the resulting counts were scaled to match the VIIRS data during the overlap period (2013–2022). The Global Fire Emissions Database version 5 (GFED5, https://doi.org/10.5281/zenodo.16794692) and its near-real-time extension (GFED5NRT, https://doi.org/10.5281/zenodo.18702700) were obtained from https://globalfiredata.org. GFED5 standard data were used for the period 2002–2022, and GFED5NRT data were used for 2023–2025 for burned-area and fire-emissions analyzes. Burned-area data from the Canadian National Fire Database (CNFDB, https://doi.org/10.18739/A24F1MM0S) were accessed through the Canadian Wildland Fire Information System (CWFIS) portal (https://cwfis.cfs.nrcan.gc.ca/ha/nfdb). Burned-area estimates for 2025 rely on provisional provincial agency reports and near-real-time polygon data and may be subject to retrospective adjustments. CNFDB emissions estimates are described in Amiro et al. (2001). CNFDB burned-area and emissions data were scaled to match GFED5 over their respective overlap periods (2002–2022 for burned area and 1997–1999 for emissions). Top-down inversion estimates for 2023 emissions were derived from Byrne et al. (2024) (https://doi.org/10.48577/jpl.V5GR9F). Aerosol optical depth (AOD) data were obtained from the MODIS/Terra Aerosol Cloud Water Vapor Ozone Daily L3 Global 1° CMG product (MOD08_D3, https://doi.org/10.5067/MODIS/MOD08_D3.061) and the VIIRS/SNPP Deep Blue Level-3 daily aerosol product on a 1° × 1° grid (AERDB_D3_VIIRS_SNPP, https://doi.org/10.5067/VIIRS/AERDB_D3_VIIRS_SNPP.002), both accessed through NASA's Level-1 and Atmosphere Archive & Distribution System Distributed Active Archive Center (LAADS DAAC; https://ladsweb.modaps.eosdis.nasa.gov/). Observational smoke and haze frequency records from weather stations were derived from historical climate observations provided by Environment and Climate Change Canada (ECCC) (https://dd.weather.gc.ca).",
-      "keywords": [
-        "Climate change",
-        "Vegetation (pathology)",
-        "Greenhouse gas",
-        "Atmosphere (unit)",
-        "Air quality index",
-        "Fire regime",
-        "Anomaly (physics)"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70857",
       "doi_url": "https://doi.org/10.1111/gcb.70857",
       "title": "Imbalance Trajectories of <scp>GPP</scp> – <scp>TER</scp> Coupling Under Global Warming",
@@ -19179,34 +19270,6 @@
         "Nitrogen",
         "Substrate (aquarium)",
         "Soil respiration"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70862",
-      "doi_url": "https://doi.org/10.1111/gcb.70862",
-      "title": "Trait‐Dependent Time Lags Amid Global Change in Marine Observed and Dark Diversity on the Dogger Bank (North Sea)",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-12",
-      "published_date_display": "2026-04-12",
-      "published_parts": [
-        2026,
-        4,
-        12
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70862",
-      "abstract": "ABSTRACT Understanding delayed biodiversity responses to global changes is crucial for anticipating future ecosystem dynamics and informing conservation. Here, we analysed a 32‐year time series of benthic megafauna from the North Sea (Dogger Bank) to assess extinction debt and immigration credit using a probabilistic species pool framework. Within this framework, we generated suitability estimates for both observed diversity (i.e., species locally present) and dark diversity—set of suitable but locally absent species. We defined extinction debt as species persisting locally under declining suitability and immigration credit as suitable species remaining in dark diversity over time. We evaluated these dynamics across 101 epibenthic species (from demersal fishes to macroinvertebrates) and tested their association with sea warming and species traits such as body size and motility. Despite no net change in species number, the suitability of observed diversity decreased over time, indicating extinction debt. At the species level, 72% of species exhibited time‐lagged responses, with large‐bodied and motile species being more often in extinction debt, whereas smaller and less motile species more often in immigration credit. Consequently, in relation to temperature change, the North Sea's species pool is slowly shifting toward smaller‐bodied and less motile taxa, with several cold‐adapted and commercially important species in extinction debt. These delayed responses and potential compositional shifts may weaken trophic interactions and affect ecosystem resilience. As marine systems experience increased warming, integrating trait‐based approaches and time‐lag responses within the species pool framework can offer early warnings of biodiversity reorganization and therefore windows of opportunity for conservation.",
-      "keywords": [
-        "Biodiversity",
-        "Megafauna",
-        "Extinction (optical mineralogy)",
-        "Extinction debt",
-        "Trophic level",
-        "Ecosystem",
-        "Species diversity",
-        "Demersal fish",
-        "Global biodiversity"
       ]
     },
     {
