@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:39:01.369099+00:00",
+  "generated_at": "2026-08-19T21:38:49.091779+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,55 +26,127 @@
   ],
   "articles": [
     {
+      "doi": "10.1016/j.rse.2026.115614",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115614",
+      "title": "The cmSCOPE-D model: A transmission-dynamics-enabled SCOPE adaptation to characterize vertically stratified heterogeneity of maize disease stress",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003846",
+      "abstract": "",
+      "keywords": [
+        "Scope (computer science)",
+        "Adaptation (eye)",
+        "Stress (linguistics)",
+        "Scale (ratio)",
+        "Drought stress",
+        "Local adaptation"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115615",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115615",
+      "title": "A novel method for generating optimal DTM in tropical peatlands using GEDI and ICESat-2 observations",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003858",
+      "abstract": "",
+      "keywords": [
+        "Lidar",
+        "Peat",
+        "Digital elevation model",
+        "Elevation (ballistics)",
+        "Terrain",
+        "Land cover",
+        "Interpolation (computer graphics)",
+        "Footprint"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.07.025",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.07.025",
+      "title": "Real-time deformation monitoring of long-span bridges by coupling computer vision with inertial measurement",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003825",
+      "abstract": "",
+      "keywords": [
+        "Deformation (meteorology)",
+        "Coupling (piping)",
+        "Inertial frame of reference",
+        "Deformation monitoring",
+        "Inertial measurement unit",
+        "Structural health monitoring"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.001",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.001",
+      "title": "Measuring the spatial explicitness of GeoAI and geospatial foundation models: A systematic review and future roadmap",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003904",
+      "abstract": "",
+      "keywords": [
+        "Geospatial analysis",
+        "Foundation (evidence)",
+        "Geomatics",
+        "Geographic information system",
+        "Spatial analysis"
+      ]
+    },
+    {
       "doi": "10.1016/j.rse.2026.115605",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115605",
       "title": "Orbital imaging spectroscopy of Earth’s mineral surface: Results and stability from EMIT’s first two years",
       "journal_id": "rse",
       "journal_name": "Remote Sensing of Environment",
       "journal_short_name": "RSE",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003755",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.08.003",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.003",
-      "title": "SSVM: Streaming state vision model for challenging remote sensing object detection",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003928",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.08.004",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.004",
-      "title": "Estimation of hourly All-Weather land surface temperature in an area with frequent clouds based on satellite passive microwave remote sensing and data assimilation",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600393X",
-      "abstract": "",
-      "keywords": []
+      "abstract": "NASA’s Earth Surface Mineral Dust Source Investigation (EMIT) imaging spectrometer, operating on the International Space Station, has produced the first hectare-scale mineral maps of Earth’s arid regions. This study assesses the temporal consistency of these maps and tests for changes in surface mineralogy over the first two years of data collection. We fit a discrete-state Hidden Markov Model (HMM) to time series data from 39 globally distributed study sites to quantify measurement noise and distinguish sensor artifacts from real mineralogical changes. Our findings indicate that mineral classifications are highly repeatable, showing 80%–98% consistency depending on the specific mineral. We then use the HMM framework to test for transitions in surface mineralogy. This research provides a principled statistical basis for interpreting EMIT mineral products and combining noisy remote time series observations into unified mineral maps.",
+      "keywords": [
+        "Mineral",
+        "Imaging spectroscopy",
+        "Consistency (knowledge bases)",
+        "Stability (learning theory)",
+        "Series (stratigraphy)",
+        "Noise (video)",
+        "Hidden Markov model",
+        "Time series"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2716279",
@@ -91,8 +163,18 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2716279",
-      "abstract": "",
-      "keywords": []
+      "abstract": "National mapping agencies (NMAs) produce topographic databases (TDBs), which provide structured, country-wide spatial datasets used in, for example, maps, spatial planning, and decision-making. Traditionally, TDB features have been manually digitised from remote sensing data, but recent advancements in artificial intelligence (AI), particularly deep learning, have shown potential for increasing automation in spatial data production. However, AI adoption raises concerns about trust among TDB users. Distrust could have adverse impacts on data acceptance, the reputation of NMAs, and the credibility of AI systems. We conducted a questionnaire for public-sector TDB users in Finland to investigate their concerns about, and trust in, utilising AI for TDB data production. The results suggest that maintaining a human component in AI-based workflows is critical for user trust. The data users expressed various concerns about AI, extending beyond data quality. The results highlight the importance of transparency and explainability of AI systems, the reputation of the data producer, and clear documentation of quality metrics to accompany the data. Future studies should expand to include respondents from the private sector and a diverse set of countries, as well as investigate new solutions for explaining AI models’ decision-making for non-experts.",
+      "keywords": [
+        "Geospatial analysis",
+        "Workflow",
+        "Reputation",
+        "Distrust",
+        "Transparency (behavior)",
+        "Credibility",
+        "Crowdsourcing",
+        "Documentation",
+        "Data quality"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2715051",
@@ -109,8 +191,70 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2715051",
+      "abstract": "The vision of intelligent GIServices (Geographic Information Services) is to automatically discover, compose and execute distributed GIServices to address global challenges. Recent studies show that LLM (large language model)-based agents can autonomously use external services, with interoperability enabled by LLM capability server standards led by the Model Context Protocol (MCP). Achieving intelligent GIServices through LLM-based agents faces three issues: unified representation of geospatial capabilities, interoperability between geospatial and AI domains, and automatic coordination of heterogeneous GIServices. To address these issues, we propose OGSAgent, an MCP-based multi-agent collaboration framework for intelligent GIServices. First, it includes a GeoMCP server, which is a profile of the MCP server for the unified representation of geospatial capabilities. A common mapping method from the GIServices to the GeoMCP server is introduced and applied to OGC API-based GIServices. A multi-agent system is designed to automatically orchestrate geospatial capabilities, with agent roles and interactions following the ‘publish–find–bind’ GIService pattern and a purpose-based GIService taxonomy. Four use cases are demonstrated, including meteorological analysis, spatial analysis, remote sensing analysis and city digital twins. Ablation and comparative evaluations on a carefully designed multi-level benchmark dataset validate the effectiveness of OGSAgent for intelligent GIServices.",
+      "keywords": [
+        "Interoperability",
+        "Geospatial analysis",
+        "Collaborative software",
+        "Component (thermodynamics)",
+        "Key (lock)",
+        "Intelligent decision support system"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.003",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.003",
+      "title": "SSVM: Streaming state vision model for challenging remote sensing object detection",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003928",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Object detection",
+        "Event (particle physics)",
+        "Pipeline (software)",
+        "Frame (networking)",
+        "Detector",
+        "Sensor fusion",
+        "Change detection",
+        "Object (grammar)",
+        "Data stream mining",
+        "Feature extraction"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.004",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.004",
+      "title": "Estimation of hourly All-Weather land surface temperature in an area with frequent clouds based on satellite passive microwave remote sensing and data assimilation",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-17",
+      "published_date_display": "2026-08-17",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S092427162600393X",
+      "abstract": "",
+      "keywords": [
+        "Data assimilation",
+        "Satellite",
+        "Mean squared error",
+        "Terrain",
+        "Weather Research and Forecasting Model",
+        "Thermal infrared",
+        "Sampling (signal processing)",
+        "Root mean square",
+        "Earth observation"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2708905",
@@ -127,8 +271,17 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2708905",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Geographers are increasingly recognizing Indigenous data sovereignty (IDSov) as a pivotal framework to address issues surrounding geographic data and mapping technologies. There remains a notable absence, however, of a comprehensive engagement that critically frames IDSov within the context of geography. This absence raises concerns about the potential perpetuation of extractive practices and an oversimplification and standardization of IDSov. A cookie-cutter approach is inappropriate because it blurs the nuances and specificity of individual communities’ IDSov. Rather than approaching IDSov as a set of principles applied at the end of the research life cycle, we conceptualize IDSov as a relational paradigm that informs all stages of geographic research, from agenda setting to data governance and knowledge dissemination. The article examines how an IDSov paradigm reshapes not only data governance but also the ontological and epistemological foundations through which geographic knowledge is produced and represented. In this article, we argue that geography as a discipline is well-positioned to advance conceptualizations and practices of IDSov. We draw from research and work in Indigenous geographies that engage with Indigenous communities. We emphasize the incorporation of Indigenous ontologies, epistemologies, praxis, methodologies, axiology, and pedagogies. By situating IDSov within this comprehensive Indigenous research paradigm, we aim to pave the way for meaningful engagements with IDSov as a critical project within the field of geography. Our objective is to contribute to the emergence of reparative research projects that acknowledge and respect the sovereignty of Indigenous communities and their geospatial data.",
+      "keywords": [
+        "Indigenous",
+        "Cognitive reframing",
+        "Sovereignty",
+        "Geospatial analysis",
+        "Context (archaeology)",
+        "Traditional knowledge",
+        "Corporate governance",
+        "Scholarship"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2696836",
@@ -145,8 +298,18 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2696836",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Although memorial toponyms are often examined as semiotic texts through which authorities construct national identity, this article extends this scholarship by examining how such toponyms acquire affective force within atmospheric formations. Employing the concept of affective atmospheres, this article argues that the narrated past of memorial toponyms is not only “read” but also embodied and multisensory, producing the affective and political intensities of nationalism. Using the case of Yanqiao Road in China, named after two revolutionary martyrs, we show how a politically dormant toponym unexpectedly became a powerful site of national identification during the Party centenary, with consequences that exceeded official intentions. We make two arguments. First, commemorative toponyms activate national feeling through atmospheric formations in which toponyms, bodies, narratives, built environments, and sensory experiences reverberate; national feeling thus shifts among different tonalities and intensities across time, and official narratives remain only partially effective. Second, the article shows that place-name struggles extend beyond (re)naming: Publics mobilize “atmospheric misfits” to demand infrastructural change, whereas authorities extend naming power into place making to stabilize and intensify preferred national atmospheres around toponyms. This article not only contributes to the scholarship on toponymic commemoration but also enriches our understanding of the experience of national identity in contemporary urban China.",
+      "keywords": [
+        "Toponymy",
+        "Politics",
+        "Scholarship",
+        "Narrative",
+        "Embodied cognition",
+        "Feeling",
+        "Placemaking",
+        "Semiotics",
+        "Identity (music)"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2708864",
@@ -163,8 +326,18 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2708864",
-      "abstract": "",
-      "keywords": []
+      "abstract": "This article advances a relational feminist approach to better understand the roles that migrant domestic workers play in their everyday handling of household waste in Singapore. Despite emerging scholarly emphasis on the feminization of waste work in circular transitions, the outsourcing of pro-environmental circular R-behaviors—which are usually integrated into the management of household waste—to live-in foreign domestic workers has been largely neglected so far. R-behaviors refer to routinized practices of, for example, reducing, reusing and recycling household waste to transform it into a resource. Rather than consider R-behaviors performed by migrant domestic workers as a manifestation of individual action, we foreground these R-behaviors as emergent, negotiated practices inflected through the unequal relationships between domestic workers and their employers. Drawing on in-depth interviews with migrant domestic workers and their female employers, we explore two key themes. First, we attend to the tensions that surface between the employer–worker dyad when there are conflicting obligations or divergent modes of handling household waste. Second, we underscore how migrant domestic workers are uniquely positioned within transnational circuits of reuse and value-recovery from household items that might be unwanted by their employers. Overall, our study contributes to the existing scholarship by reinserting migrant women’s labor and their subjectivities into circular household transitions. It also points to how just circular transitions must take into account not only the gendered but also transnational dimensions of pro-environmental domestic labor.",
+      "keywords": [
+        "Scholarship",
+        "Domestic work",
+        "Work (physics)",
+        "Outsourcing",
+        "Reuse",
+        "Feminization (sociology)",
+        "Migrant workers",
+        "Informal sector",
+        "Slum"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2691208",
@@ -181,7 +354,7 @@
         17
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2691208",
-      "abstract": "In recent decades, the United States has experienced substantial changes in population size, composition, and distribution. As growth has slowed, population loss has taken on increased salience, presenting an emerging social, economic, and political challenge and highlighting a need for measures that capture the reality of disparate local population change trajectories. In this paper, we use sequencing and clustering algorithms, paired with contemporary and historical U.S. county-level population data (1950–2020), to show the value of incorporating spatial and temporal context in measures of population change, develop a typology of change trajectories, and evaluate observed pathways of loss and growth. Our analysis identifies 8 distinctive pathways of population change, ranging from emerging localized loss to constant growth. Most pathways are associated with particular geographies (e.g., “persistent loss” counties dominate the landscape of the Great Plains region), illustrating the spatial polarization of the U.S. demographic experience. A comparison of population composition and components of change further reveals notable differences in demographic characteristics across different types of loss and growth counties.",
+      "abstract": "In recent decades, the United States has experienced substantial changes in population size, composition, and distribution. As growth has slowed, population loss has taken on increased salience, presenting an emerging social, economic, and political challenge and highlighting a need for measures that capture the reality of disparate local population change trajectories. In this article, we use sequencing and clustering algorithms, paired with contemporary and historical U.S. county-level population data (1950–2020), to show the value of incorporating spatial and temporal context in measures of population change, develop a typology of change trajectories, and evaluate observed pathways of loss and growth. Our analysis identifies eight distinctive pathways of population change, ranging from emerging localized loss to constant growth. Most pathways are associated with particular geographies (e.g., “persistent loss” counties dominate the landscape of the Great Plains region), illustrating the spatial polarization of the U.S. demographic experience. A comparison of population composition and components of change further reveals notable differences in demographic characteristics across different types of loss and growth counties.",
       "keywords": [
         "Population",
         "Typology",
@@ -11622,29 +11795,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.044",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.044",
-      "title": "IMEA-Net: An edge-sensitive network for cropland change detection in high-resolution remote sensing images",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-02",
-      "published_date_display": "2026-04-02",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001589",
-      "abstract": "",
-      "keywords": [
-        "Change detection",
-        "Remote sensing application",
-        "Earth remote sensing",
-        "Satellite imagery",
-        "Data processing"
-      ]
-    },
-    {
       "doi": "10.1080/24694452.2026.2642219",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2642219",
       "title": "Rethinking Internationalism from the Margins: African Americans at the League of Nations",
@@ -11937,23 +12087,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0034-4257(26)00165-3",
-      "doi_url": "https://doi.org/10.1016/s0034-4257(26)00165-3",
-      "title": "Editorial Board",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-30",
-      "published_date_display": "2026-03-30",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001653",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1080/13658816.2026.2650365",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2650365",
       "title": "An entropogram-based Random Field model for categorical geospatial data prediction",
@@ -12129,33 +12262,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.035",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.035",
-      "title": "Mask-CDKD: A source-free and label-free cross-domain knowledge distillation framework from SAM for satellite onboard VHR land-cover mapping",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001486",
-      "abstract": "",
-      "keywords": [
-        "Segmentation",
-        "Prior probability",
-        "Distillation",
-        "Exploit",
-        "Satellite",
-        "Image segmentation",
-        "Residual",
-        "Pixel",
-        "Land cover"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.03.036",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.036",
       "title": "AGI2P: Benchmarking Aerial–Ground Image-to-Point cloud localization with a large-scale dataset",
@@ -12299,32 +12405,6 @@
         "Aerosol",
         "Joint (building)",
         "Ocean color"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115371",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115371",
-      "title": "RASSFM 2.0: An enhanced M2Msharpening model for PlanetScope–Sentinel-2 image fusion across broad landscapes with improved land cover classification",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-18",
-      "published_date_display": "2026-03-18",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001410",
-      "abstract": "",
-      "keywords": [
-        "Land cover",
-        "Image fusion",
-        "Sensor fusion",
-        "Fusion",
-        "Synthetic aperture radar",
-        "Cover (algebra)",
-        "Digital elevation model",
-        "Pixel"
       ]
     },
     {
