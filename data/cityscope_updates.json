@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:41:22.858191+00:00",
+  "generated_at": "2026-08-19T22:42:43.155440+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,60 +31,60 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.cities.2026.107491",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107491",
-      "title": "Public value mapping in the smart city: Assessing emerging urban technologies",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "doi": "10.1016/j.landurbplan.2026.105775",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105775",
+      "title": "Landscape heterogeneity unequally promotes bird diversity under urbanization",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2027-01-01",
+      "published_date_display": "2027-01",
       "published_parts": [
-        2026,
-        12
+        2027,
+        1
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007237",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001994",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107504",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107504",
-      "title": "Ideal migrants in an ideal city: Discursive constructions of talent in Hong Kong's relocation branding campaign",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "doi": "10.1016/j.landurbplan.2026.105771",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105771",
+      "title": "Economic benefits of urban heat mitigation by allotment gardens: the reduced cooling demand approach",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2027-01-01",
+      "published_date_display": "2027-01",
       "published_parts": [
-        2026,
-        12
+        2027,
+        1
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007365",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001957",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107455",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107455",
-      "title": "Geographies and changes in homeownership in the United States, 1970–2020",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
+      "doi": "10.1016/j.compenvurbsys.2026.102507",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102507",
+      "title": "Evaluating the digital divide in public transport services: A natural language processing analysis of user experiences in Birmingham",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
       "published_date": "2026-12-01",
       "published_date_display": "2026-12",
       "published_parts": [
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006876",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001092",
       "abstract": "",
       "keywords": []
     },
     {
-      "doi": "10.1016/j.cities.2026.107492",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107492",
-      "title": "Does urbanization formalize the economy? The role of local governance in Vietnam",
+      "doi": "10.1016/j.cities.2026.107500",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107500",
+      "title": "Spatial governance under polycrisis: Reconfiguring agglomeration policy",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
@@ -94,7 +94,42 @@
         2026,
         12
       ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007249",
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007328",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107516",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107516",
+      "title": "Revisiting the 15-min city through accessibility assessment: A critical systematic review of FMC-based studies",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007481",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00501-4",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00501-4",
+      "title": "Wildlife disease occurrence increases with changes to urban density, habitat connectivity and climate",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00501-4",
       "abstract": "",
       "keywords": []
     },
@@ -114,7 +149,17 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261470590",
       "abstract": "This article examines how health inequities in Film Nagar Basti, Hyderabad, are produced through the uneven governance of water, sanitation and environmental infrastructure. This study draws on six months of ethnographic fieldwork, 50 semi-structured interviews and participatory infrastructure mapping. The article argues that water insecurity operates as a mode of governance through which health risks are unevenly distributed. Contaminated water supply, monsoon overflow and dependence on private water providers expose residents to illness while shifting the burden of coping onto households, particularly women. Although NGOs and health camps provide temporary relief, these interventions remain fragmented and cannot substitute for structural accountability. By linking water insecurity to the production of health inequity, the article contributes to debates on urban infrastructure, informality and health governance in cities of the Global South.",
-      "keywords": []
+      "keywords": [
+        "Sanitation",
+        "Corporate governance",
+        "Informal settlements",
+        "Psychological intervention",
+        "Citizen journalism",
+        "Human settlement",
+        "Public health",
+        "Informal sector",
+        "Water infrastructure"
+      ]
     },
     {
       "doi": "10.1177/00420980261469441",
@@ -132,7 +177,14 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261469441",
       "abstract": "Transport planning and policymaking have been criticized for positivism and instrumentalism that ignore many social and political aspects of transport systems. Andrew Feenberg’s critical theory of technology argues that the way technologies are understood has a profound influence on how they are managed in society. Abstracting technological principles from the social contexts of the use of technologies has enabled major technological developments. On the other hand, such an approach risks ignoring many effects of technical systems. This appears to capture well the phenomena diagnosed by critical transport scholarship. While Feenberg’s critical theory of technology addresses the issue in general terms, this article investigates whether the theory could bring new insights for both transport planning and policymaking. Firstly, the article identifies the basis of technical expertise in transport planning as lying in a narrow understanding of technology described by Feenberg. This explains the appeal and persistence of the positivist and instrumentalist approach in transport planning. Secondly, the characterization of technical expertise drawing from Feenberg could be used to complement transport policy studies to understand why certain issues remain unaddressed. Finally, broader concepts of technology, proposed by Feenberg, that include context and values could support a richer understanding of transport in the context of planning and better inclusion of social and environmental concerns in the context of transport policymaking.",
-      "keywords": []
+      "keywords": [
+        "Instrumentalism",
+        "Context (archaeology)",
+        "Positivism",
+        "Transportation planning",
+        "Appeal",
+        "Politics"
+      ]
     },
     {
       "doi": "10.1177/00420980261472748",
@@ -150,7 +202,72 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261472748",
       "abstract": "Research on shrinking cities has shown how long-term population and associated economic decline reshape urban governance and constrain fiscal capacity. Yet the budgetary practices through which shrinkage is governed remain relatively underexamined. This paper addresses this gap through a case study of Buffalo, New York, tracing fiscal governance across two major crises: the Global Financial Crisis and the COVID-19 pandemic. Drawing on a mixed-method research design, we examine how budgetary decisions were produced through interactions among state oversight, local political leadership, inherited fiscal commitments, and crisis-driven interventions. We show that fiscal governance in Buffalo does not follow directly from fiscal conditions such as shrinkage or fiscal stress. Instead, it emerges through the interaction of institutional arrangements, political agency, and long-term liabilities, particularly other post-employment benefits. While the Great Recession was mediated through technocratic state oversight and austerity, pandemic-era federal relief temporarily reconfigured the city’s fiscal position without resolving underlying constraints. These findings challenge deterministic accounts of shrinkage and recast fiscal governance as a dynamic, context-specific process, offering a framework for comparative analysis across diverse urban contexts.",
-      "keywords": []
+      "keywords": [
+        "Corporate governance",
+        "Fiscal union",
+        "Shrinkage",
+        "Technocracy",
+        "Position (finance)",
+        "Politics",
+        "Great recession",
+        "Fiscal policy"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261474814",
+      "doi_url": "https://doi.org/10.1177/00420980261474814",
+      "title": "Residents Welfare Associations and the economic territorialization of recyclables collection markets in the Delhi metropolitan area",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        8,
+        18
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261474814",
+      "abstract": "Resident Welfare Associations (RWAs) in urban India act like states, exercising their sovereign power over the territories they control. While a rich literature has provided a deep understanding of the social regulation of neighborhood spaces by RWAs, their role in the economic regulation of informal labor remains underexplored, even though neighborhoods are vibrant sites of a range of informal economic activities that residents depend upon. Drawing on interviews with 33 kabariwalas (informal workers who buy recyclables from households) and 17 dealers (to whom kabariwalas sell those recyclables), and an analysis of balance sheets of 16 RWAs in the Delhi metropolitan area, this article shows how territorial control over neighborhood space allows RWAs to expand and exercise their state-like powers. By virtue of having monopoly rights over the neighborhood space, RWAs regulate: (a) the labor of kabariwalas by requiring permits; (b) the flows of the commodity (recyclable materials) by only allowing permitted kabariwalas to enter the neighborhood; and (c) the firms (dealers) whom some RWAs contract to provide collection services. Increasing competition in this sector because of macroeconomic shifts makes permits and contracts desirable for kabariwalas and dealers, and also allows some RWAs to capture monopoly rents. In making these contributions, this article not only adds to our knowledge about a hitherto underexamined sector of the informal economy of waste in urban India, but it also provides insight into the processes of economic territorialization of neighborhoods as a crucial part of the process of neighborhood state formation.",
+      "keywords": [
+        "Metropolitan area",
+        "Monopoly",
+        "Commodity",
+        "Welfare",
+        "Competition (biology)",
+        "Informal sector",
+        "State (computer science)",
+        "Welfare state",
+        "Social Welfare"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261475108",
+      "doi_url": "https://doi.org/10.1177/00420980261475108",
+      "title": "Reconstruction as enclosure: The making of a propertied place in post-conflict Diyarbakır",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        8,
+        18
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261475108",
+      "abstract": "Despite the technical and humanitarian rhetoric surrounding post-conflict reconstruction, such processes frequently produce more commodified, securitized, and fragmented urban formations, generating novel configurations of power. Recent scholarship on post-conflict cities has increasingly emphasized transformations in everyday practices and lived experience in order to understand these dynamics. This article engages these debates through the case of Diyarbakır, the principal urban center of Turkey’s Kurdish-populated southeast, focusing on the reconstruction of its historic core, Suriçi, following the urban clashes of 2015–2016. While existing scholarship has primarily examined how the Turkish state deployed coercion to demobilize Kurdish contentious politics, less attention has been paid to how reconstruction generated new sociabilities through more diffuse spatial practices and imaginaries. Addressing this gap, I conceptualize Suriçi’s reconstruction as a process of enclosure that operated not only through authoritarian imposition from above but also through the quieter neutralization of collective praxis from within. Based on fieldwork conducted between December 2022 and February 2025, the article examines how reconstruction instituted a novel regime that transformed Suriçi into a propertied place while dismantling the infrastructures of commoning and the contingent forms of place-making through which Kurdish urban poor had sustained social and political capacities. In doing so, the article argues that reconstruction extended violence beyond destruction and displacement by reorganizing the material, social, and affective conditions of urban life. Conceptualizing reconstruction as enclosure thus offers a framework for analyzing the everyday modalities of power shaping post-conflict urbanities.",
+      "keywords": [
+        "Scholarship",
+        "Praxis",
+        "Everyday life",
+        "Authoritarianism",
+        "Making-of",
+        "Politics",
+        "Rhetoric",
+        "Ontological security",
+        "Power (physics)"
+      ]
     },
     {
       "doi": "10.1177/00420980261468191",
@@ -168,7 +285,41 @@
       ],
       "link": "https://journals.sagepub.com/doi/10.1177/00420980261468191",
       "abstract": "Urban households in China have accumulated substantial housing wealth over recent decades, driven by rapid growth in homeownership rates and housing values. However, the ways in which housing wealth has evolved under changing market conditions remain insufficiently understood. There is also limited research on how housing price appreciation is distributed across households and how it contributes to disparities in wealth accumulation. This study addresses this gap using data from the China Household Finance Survey. Employing a GSEM, we examine households with varied socioeconomic characteristics – including hukou status, education, occupation and income – entering the housing market at different times and via divergent channels, to identify the factors influencing housing appreciation rates. The findings reveal considerable variation among social groups and across city tiers, highlighting the significance of timing and geographical disparities. The results suggest that the dynamics of housing as an investment asset are reinforcing existing inequalities, underscoring the need for policies that promote access while addressing wealth inequality and market distortions.",
-      "keywords": []
+      "keywords": [
+        "China",
+        "Investment (military)",
+        "Inequality",
+        "Asset (computer security)",
+        "Socioeconomic status",
+        "Consumption (sociology)",
+        "National wealth"
+      ]
+    },
+    {
+      "doi": "10.1177/00420980261472274",
+      "doi_url": "https://doi.org/10.1177/00420980261472274",
+      "title": "Echoes of growth: Demographic decoupling and path-dependent legacies in urban expansion across Europe",
+      "journal_id": "urban-studies",
+      "journal_name": "Urban Studies",
+      "journal_short_name": "Urban Studies",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        8,
+        18
+      ],
+      "link": "https://journals.sagepub.com/doi/10.1177/00420980261472274",
+      "abstract": "Urban expansion across Europe increasingly unfolds under heterogeneous demographic conditions. While population change has long structured interpretations of urban growth, recent evidence suggests urban expansion no longer adjusts to contemporary demographic dynamics as it once did. This article examines urban expansion across 181 European Functional Urban Areas between 2000 and 2025, with particular attention to changes after 2015. Using stacked regression models, it identifies an acceleration in urban expansion after 2015 alongside evidence of demographic decoupling. A complementary cross-sectional analysis conditions post-2015 urban expansion on earlier development trajectories, allowing deviations from historically expected patterns to be identified. The article refers to this pattern as echo urbanisation, a benchmark-relative diagnostic that captures urban expansion exceeding what prior development paths and demographic change would predict. The results show that echo urbanisation cuts across population growth and decline and is not confined to post-socialist Europe, pointing to a broader European regime of demographically decoupled urban expansion, within which echo-driven expansion is widespread. It complements existing expansion indicators by flagging cities accelerating beyond expected paths that conventional density, sprawl or demographic-mismatch measures may miss.",
+      "keywords": [
+        "Urbanization",
+        "Urban expansion",
+        "Population",
+        "Urban hierarchy",
+        "Population growth",
+        "Urban planning",
+        "Net migration rate"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00486-0",
@@ -186,7 +337,106 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00486-0",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Disadvantaged",
+        "Nudge theory",
+        "Psychological intervention",
+        "School choice",
+        "Intervention (counseling)",
+        "Preference",
+        "Ranking (information retrieval)",
+        "Matching (statistics)",
+        "Disadvantage"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107491",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107491",
+      "title": "Public value mapping in the smart city: Assessing emerging urban technologies",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007237",
+      "abstract": "",
+      "keywords": [
+        "Value (mathematics)",
+        "Emerging technologies",
+        "Smart city",
+        "Public value",
+        "Key (lock)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107504",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107504",
+      "title": "Ideal migrants in an ideal city: Discursive constructions of talent in Hong Kong's relocation branding campaign",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007365",
+      "abstract": "",
+      "keywords": [
+        "Ideal (ethics)",
+        "Relocation"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107455",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107455",
+      "title": "Geographies and changes in homeownership in the United States, 1970–2020",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126006876",
+      "abstract": "",
+      "keywords": [
+        "Pace",
+        "Stock (firearms)",
+        "Population",
+        "Housing tenure",
+        "Population growth",
+        "Affordable housing"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107492",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107492",
+      "title": "Does urbanization formalize the economy? The role of local governance in Vietnam",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-18",
+      "published_date_display": "2026-08-18",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007249",
+      "abstract": "",
+      "keywords": [
+        "Urbanization",
+        "Corporate governance",
+        "Local governance",
+        "Local government"
+      ]
     },
     {
       "doi": "10.1177/00420980261467159",
@@ -9264,23 +9514,6 @@
       ]
     },
     {
-      "doi": "10.1016/s0264-2751(26)00512-3",
-      "doi_url": "https://doi.org/10.1016/s0264-2751(26)00512-3",
-      "title": "Editorial Board",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-06-11",
-      "published_date_display": "2026-06-11",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126005123",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.cities.2026.107203",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107203",
       "title": "Capturing urban activities and environment across time scales: Object detection and time-series analysis of 6.8 million images in Accra, Ghana",
@@ -9929,28 +10162,6 @@
         "Urban planning",
         "Environmental policy",
         "Work (physics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107193",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107193",
-      "title": "Pride in place in culture-led regeneration: An exploratory case study of Limoges, France",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-29",
-      "published_date_display": "2026-05-29",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004257",
-      "abstract": "• We examine pride in place as a distinct, measurable emotion in a culture-led regeneration context. • We test how residents’ place image relates to both pride in place and tourism endorsement. • Resident pride amplifies how place image drives tourism endorsement, particularly in urban vs. rural settings. • The porcelain heritage image component behaves differently: it affects tourism endorsement without eliciting pride. • Findings challenge assumptions that institutionally promoted heritage automatically fosters pride.",
-      "keywords": [
-        "Pride",
-        "Exploratory research",
-        "Sense of place",
-        "Place making"
       ]
     },
     {
@@ -17481,31 +17692,6 @@
       ]
     },
     {
-      "doi": "10.1177/00420980251409936",
-      "doi_url": "https://doi.org/10.1177/00420980251409936",
-      "title": "Building resilient communities: COVID-19 lessons from a resurgent farmers’ market",
-      "journal_id": "urban-studies",
-      "journal_name": "Urban Studies",
-      "journal_short_name": "Urban Studies",
-      "published_date": "2026-01-28",
-      "published_date_display": "2026-01-28",
-      "published_parts": [
-        2026,
-        1,
-        28
-      ],
-      "link": "https://journals.sagepub.com/doi/10.1177/00420980251409936",
-      "abstract": "This article examines the role of public spaces like farmers’ markets in sustaining urban communities during the first two years of the COVID-19 pandemic. Drawing on research completed with the St John’s Farmers’ Market in Newfoundland, Canada, between 2020 and 2022, it demonstrates how a slow-growth economic model and cooperative governance structures effectively prepared the organization for the economic and social shocks of the pandemic. Through successive lockdowns and tightening of public health measures, the market used a range of techniques to provide a space for socially distant interactions, which included physical dividers and new modes of selling products alongside a restructuring of the organization’s operations. Into the later phases of the pandemic the St John’s Farmers’ Market was consistently identified as a place of community and belonging by research participants, which reflected the continuing importance of venues like farmers’ markets to the social life of cities. The article concludes by drawing lessons from this experience, with emphasis on the role of community-led development and the importance of community-owned assets in building urban resilience. In an instance where most public space literature captures the dimming of public space usage at the onset of COVID-19, this article demonstrates how such sites were re-imagined and ultimately re-opened, adding valuable perspectives on the rebuilding of urban public space in mid-sized cities.",
-      "keywords": [
-        "Restructuring",
-        "Public space",
-        "Space (punctuation)",
-        "Corporate governance",
-        "Social space",
-        "Urban planning"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105596",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105596",
       "title": "Urban river bathing in selected European cities: evolution, typology, management issues, and sustainability challenges",
@@ -17528,61 +17714,6 @@
         "Grassroots",
         "Water quality",
         "European union"
-      ]
-    },
-    {
-      "doi": "10.1177/00420980251409128",
-      "doi_url": "https://doi.org/10.1177/00420980251409128",
-      "title": "Imagining urban futures: Participatory scenario planning London’s mobility to 2050",
-      "journal_id": "urban-studies",
-      "journal_name": "Urban Studies",
-      "journal_short_name": "Urban Studies",
-      "published_date": "2026-01-27",
-      "published_date_display": "2026-01-27",
-      "published_parts": [
-        2026,
-        1,
-        27
-      ],
-      "link": "https://journals.sagepub.com/doi/10.1177/00420980251409128",
-      "abstract": "Urban planning faces increasing uncertainty as cities grapple with climate change, technological disruption, and widening social inequalities. While futures and foresight methods are widely used in strategic planning, their integration into urban studies remains limited. This paper examines how participatory foresight can enrich urban studies by integrating collective imagination into scenario planning. Using London’s mobility futures to 2050 as a case, it explores how structured foresight methods, including trend scanning, weak signal analysis, and participatory workshops, can generate scenarios that move beyond technocratic projections to embed governance, equity, and lived experience. Four scenarios, namely Symbiotic Progress, Innovation in Devastation, Regeneration Stagnation , and Business-as-Usual , demonstrate how collective imagination reshapes foresight outputs, challenging assumptions and highlighting tensions in London’s transport futures. The findings contribute empirically by showing how diverse publics alter scenario content, and conceptually by positioning participatory foresight as a framework for interrogating power and imaginaries in urban planning. The paper argues for embedding participatory foresight more systematically into urban scholarship and practice to navigate uncertainty and advance equitable, sustainable mobility futures.",
-      "keywords": [
-        "Futures studies",
-        "Scenario planning",
-        "Futures contract",
-        "Technocracy",
-        "Citizen journalism",
-        "Scholarship",
-        "Participatory planning",
-        "Scenario analysis"
-      ]
-    },
-    {
-      "doi": "10.1177/00420980251407960",
-      "doi_url": "https://doi.org/10.1177/00420980251407960",
-      "title": "Image, screen, projection: Conceptualising the urban (imaginary) in digital visual culture",
-      "journal_id": "urban-studies",
-      "journal_name": "Urban Studies",
-      "journal_short_name": "Urban Studies",
-      "published_date": "2026-01-27",
-      "published_date_display": "2026-01-27",
-      "published_parts": [
-        2026,
-        1,
-        27
-      ],
-      "link": "https://journals.sagepub.com/doi/10.1177/00420980251407960",
-      "abstract": "This article examines the implications for theorising the concept of the ‘urban imaginary’ in the context of digital visual culture. In digital visual culture, the vast majority of images are designed, circulated and displayed using software, data networks and screens of various kinds. The literature on urban imaginaries has long acknowledged that cities are mediated by images as much as by various kinds of other media, and significant attention has been given to specific visual media including films, documentary photography and maps. This remains the case when visual culture is digital. However, digital images have a particular techno-cultural materiality which also has implications for their co-constitution of the urban. In digital visual culture, visual imagery is dominated by animations, shaped in part by the affordances of computer graphics software. These images require screens and data networks to become visible, which also mediate the infrastructure of cities both materially and imaginatively. Moreover, onscreen digital visual content materialises as an ambient atmosphere projected across and between screens and gazes (human and not). This networked, screenic projection is now sufficiently pervasive to constitute a significant form of urban spatiality. Hence the paper proposes that in digital visual culture, visual urban imaginaries can no longer be theorised only as representations of an urban reality. Instead, onscreen images must be theorised as enacting a form of the urban itself, in three ways: in their visual content, in the material emplacement of their networked screens, and in their projection into and as urban space.",
-      "keywords": [
-        "Affordance",
-        "Visual culture",
-        "Materiality (auditing)",
-        "Context (archaeology)",
-        "Digital media",
-        "Photography",
-        "Urban studies",
-        "Visualization",
-        "Projection (relational algebra)"
       ]
     },
     {
