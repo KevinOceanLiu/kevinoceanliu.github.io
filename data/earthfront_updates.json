@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:58:15.277915+00:00",
+  "generated_at": "2026-08-19T22:00:46.370840+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,6 +26,60 @@
   ],
   "articles": [
     {
+      "doi": "10.1038/s41558-026-02727-5",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02727-5",
+      "title": "Thermal justice in urban climate change adaptation",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02727-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02728-4",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02728-4",
+      "title": "Bringing justice to informal adaptation to heat stress",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02728-4",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02717-7",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02717-7",
+      "title": "A climate impact taxonomy operationalizing IPCC physical driver and risk concepts",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02717-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1038/s41893-026-01878-9",
       "doi_url": "https://doi.org/10.1038/s41893-026-01878-9",
       "title": "Phased fuel transitions for decarbonizing the Asia–Europe Green Shipping Corridor",
@@ -40,8 +94,13 @@
         18
       ],
       "link": "https://www.nature.com/articles/s41893-026-01878-9",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Shipping remains almost entirely reliant on fossil fuels, and identifying viable fuel transition pathways under evolving regulations is a key challenge. A study now evaluates 13 alternative marine fuels for the Asia–Europe corridor, revealing phased transitions shaped by policy design and timing.",
+      "keywords": [
+        "Fossil fuel",
+        "Key (lock)",
+        "Climate change",
+        "Renewable energy"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01907-7",
@@ -58,8 +117,15 @@
         18
       ],
       "link": "https://www.nature.com/articles/s41893-026-01907-7",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Along the Asia–Europe shipping corridor, biofuels offer the strongest near-term option, potentially cutting greenhouse gas emissions by 31–47%, while electrofuels become more competitive after 2040 under the International Maritime Organization Net-Zero Framework. Policymakers could therefore adopt a phased strategy that prioritizes biofuels now and prepares infrastructure for electrofuels after 2040, to avoid locking shipping into transitional fossil fuels.",
+      "keywords": [
+        "Greenhouse gas",
+        "Fossil fuel",
+        "Biofuel",
+        "Renewable energy",
+        "Gas turbines",
+        "Aviation biofuel"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01924-6",
@@ -77,7 +143,17 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01924-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Pantropical",
+        "Bushmeat",
+        "Amazon rainforest",
+        "Wildlife",
+        "Tropics",
+        "Footprint",
+        "Limiting",
+        "Climate change",
+        "Spatial ecology"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01891-y",
@@ -95,7 +171,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01891-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Ballast",
+        "Invasive species",
+        "Ecosystem",
+        "Marine ecosystem",
+        "Ecosystem services",
+        "Risk management",
+        "Pace",
+        "Water transport"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01877-w",
@@ -113,7 +198,15 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01877-w",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Arctic",
+        "Transit (satellite)",
+        "Climate change",
+        "The arctic",
+        "Snow",
+        "Carbon black",
+        "Economic impact analysis"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01919-3",
@@ -131,7 +224,14 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01919-3",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Key (lock)",
+        "Corporate governance",
+        "Engine room",
+        "Sustainability",
+        "Technological change",
+        "Sustainable development"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02676-z",
@@ -149,7 +249,16 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02676-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Carbon neutrality",
+        "Climate policy",
+        "Carbon dioxide",
+        "Greenhouse gas",
+        "Carbon fibers",
+        "Climate change",
+        "Carbon dioxide removal",
+        "Climate change mitigation"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02074-2",
@@ -16271,84 +16380,6 @@
         "Climate model",
         "Global warming",
         "Greenhouse gas"
-      ]
-    },
-    {
-      "doi": "10.1038/s41558-025-02546-0",
-      "doi_url": "https://doi.org/10.1038/s41558-025-02546-0",
-      "title": "Successes in climate action",
-      "journal_id": "nature-climate-change",
-      "journal_name": "Nature Climate Change",
-      "journal_short_name": "Nature Climate Change",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        1,
-        8
-      ],
-      "link": "https://www.nature.com/articles/s41558-025-02546-0",
-      "abstract": "",
-      "keywords": [
-        "Action (physics)",
-        "Climate change",
-        "Face (sociological concept)",
-        "Climate justice",
-        "Climate policy",
-        "Political economy of climate change"
-      ]
-    },
-    {
-      "doi": "10.1038/s41558-025-02526-4",
-      "doi_url": "https://doi.org/10.1038/s41558-025-02526-4",
-      "title": "Irreversibility in climate action",
-      "journal_id": "nature-climate-change",
-      "journal_name": "Nature Climate Change",
-      "journal_short_name": "Nature Climate Change",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        1,
-        8
-      ],
-      "link": "https://www.nature.com/articles/s41558-025-02526-4",
-      "abstract": "",
-      "keywords": [
-        "Action (physics)",
-        "Climate change",
-        "Politics",
-        "Key (lock)",
-        "Climate policy",
-        "Political economy of climate change",
-        "Climate Finance"
-      ]
-    },
-    {
-      "doi": "10.1038/s41558-025-02521-9",
-      "doi_url": "https://doi.org/10.1038/s41558-025-02521-9",
-      "title": "AI-driven weather forecasts for climate adaptation in India",
-      "journal_id": "nature-climate-change",
-      "journal_name": "Nature Climate Change",
-      "journal_short_name": "Nature Climate Change",
-      "published_date": "2026-01-08",
-      "published_date_display": "2026-01-08",
-      "published_parts": [
-        2026,
-        1,
-        8
-      ],
-      "link": "https://www.nature.com/articles/s41558-025-02521-9",
-      "abstract": "",
-      "keywords": [
-        "Adaptation (eye)",
-        "Climate change",
-        "Monsoon",
-        "Extreme weather",
-        "Weather forecasting",
-        "Climate model",
-        "Climate change adaptation",
-        "Precipitation"
       ]
     },
     {
