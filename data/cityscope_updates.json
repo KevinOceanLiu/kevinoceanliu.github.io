@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:42:43.155440+00:00",
+  "generated_at": "2026-08-20T22:45:30.723359+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -82,6 +82,40 @@
       "keywords": []
     },
     {
+      "doi": "10.1016/j.cities.2026.107505",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107505",
+      "title": "Uncovering hidden inequities in access to urban public spaces: A multimodal and configurational accessibility in island cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007377",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107525",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107525",
+      "title": "The gender dimension of homeownership: Evidence from China",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007572",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.cities.2026.107500",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107500",
       "title": "Spatial governance under polycrisis: Reconfiguring agglomeration policy",
@@ -113,6 +147,111 @@
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007481",
       "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107536",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107536",
+      "title": "Motorcycle safety outcomes on light-segregated corridors: An observational assessment of São Paulo's Blue Lane",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007687",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107527",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107527",
+      "title": "Materialism and subjective well-being among rural migrant women in China: The mediating role of residential conditions",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007596",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107499",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107499",
+      "title": "Marrakech at the intersection: Hybrid identity and the politics of urban inclusion",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007316",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00504-1",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00504-1",
+      "title": "Underestimated methane emissions from natural gas consumption in the Yangtze River Delta cities of China",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00504-1",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00500-5",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00500-5",
+      "title": "Information scattering during acute urban stressors",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00500-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s44284-026-00498-w",
+      "doi_url": "https://doi.org/10.1038/s44284-026-00498-w",
+      "title": "Hidden living-condition deficits in small and medium-sized cities",
+      "journal_id": "nature-cities",
+      "journal_name": "Nature Cities",
+      "journal_short_name": "Nature Cities",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s44284-026-00498-w",
+      "abstract": "Abstract Living-condition deficits remain widespread in rapidly growing cities, yet their spatial distribution is poorly measured beyond metropolitan areas, limiting progress toward Sustainable Development Goal (SDG) 11.1 on adequate, safe and affordable housing. Here we conceptualize morphological deprivation as an area-based form of disadvantage reflected in built form, residential density, road connectivity and infrastructure conditions, and generate globally comparable, neighborhood-scale estimates across 5,132 cities in Africa, Asia, and Latin America and the Caribbean. Using harmonized geospatial datasets and supervised learning trained on eight benchmark cities, we estimate that 395 million people (20.2% of the covered urban population) live in morphologically deprived neighborhoods. While relative prevalence is highest in Africa (43.6%), substantial populations are affected across all regions. Notably, over one-third (136 million) reside in small and medium-sized cities, revealing a large but underrecognized burden and underscoring the need to prioritize these cities in data, finance and policy efforts to achieve SDG 11.1.",
       "keywords": []
     },
     {
@@ -9197,31 +9336,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107246",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107246",
-      "title": "The long-run evolution of city size distribution in China: A distribution dynamics approach",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-06-15",
-      "published_date_display": "2026-06-15",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004786",
-      "abstract": "",
-      "keywords": [
-        "Population size",
-        "Distribution (mathematics)",
-        "Census",
-        "Population",
-        "Polarization (electrochemistry)",
-        "Population growth",
-        "Chinese city"
-      ]
-    },
-    {
       "doi": "10.1016/j.landurbplan.2026.105725",
       "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105725",
       "title": "Unveiling urban heat exposure risk networks: a network analysis approach for mitigating thermal discomfort",
@@ -9514,30 +9628,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107203",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107203",
-      "title": "Capturing urban activities and environment across time scales: Object detection and time-series analysis of 6.8 million images in Accra, Ghana",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-06-11",
-      "published_date_display": "2026-06-11",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600435X",
-      "abstract": "Cities have complex dynamics on timescales from hourly and daily changes to monthly shifts and annual trends. We used time-lapsed street-view imagery (SVI) to capture and analyse temporal trends of urban environmental features in Accra, Ghana. We collected a novel dataset of 6.8 million street-view images (SVI) at five-minute intervals over five years at ten representative locations in Accra, Ghana. We used a fine-tuned YOLOv7 object detection model to detect and obtain counts of people, large vehicles, small vehicles, two-wheelers, market-related objects, refuse and animals in all images. We used a mixed-effects zero-inflated negative binomial model with indicators for hour of day, day of week, week of year, and year to consistently and coherently identify temporal patterns of object counts across time scales and sites. People and small vehicles were most prevalent in mid-morning and early evening, and market-related objects peaked in early afternoon. The number of people, vehicles and market-related objects declined on weekends at most sites, although two residential sites showed an inverse trend, peaking in all three categories on weekends. Long-term trends over the years indicate a rise in people at high-density residential sites. Over the same period, market-related objects, two-wheelers and small vehicles declined at several locations with different land-use characteristics, suggesting broad shifts in transport and commercial activity. These results demonstrate the potential of SVI and computer vision for urban monitoring to support strategies for improving mobility, traffic congestion, pollution, access to goods and services, and waste management.",
-      "keywords": [
-        "Change detection",
-        "Negative binomial distribution",
-        "Object (grammar)",
-        "Object detection",
-        "Object based",
-        "Time of day"
-      ]
-    },
-    {
       "doi": "10.1038/s44284-026-00457-5",
       "doi_url": "https://doi.org/10.1038/s44284-026-00457-5",
       "title": "Roads less traveled converge at Bloomberg CityLab 2026",
@@ -9602,25 +9692,6 @@
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526000736",
       "abstract": "",
       "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107267",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107267",
-      "title": "Kashgar's revitalization: From ancient Silk Road crossroads to modern Belt and Road hub",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-06-09",
-      "published_date_display": "2026-06-09",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004993",
-      "abstract": "",
-      "keywords": [
-        "SILK"
-      ]
     },
     {
       "doi": "10.1038/s44284-026-00458-4",
@@ -10320,34 +10391,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.cities.2026.107254",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107254",
-      "title": "The impact of public lighting quality on residents' safety perceptions in Brazilian cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-27",
-      "published_date_display": "2026-05-27",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126004865",
-      "abstract": "• Poor lighting reduces residents' perceived safety in Brazilian cities. • Gender plays a stronger role than ethnicity in safety perception gaps. • Adequate lighting mitigates but does not erase gender-based disparities. • Lighting emerges as a cost-effective urban safety intervention in the Global South.",
-      "keywords": [
-        "Quality (philosophy)",
-        "Perception",
-        "Business",
-        "Environmental health",
-        "Environmental planning",
-        "Architectural engineering",
-        "Psychology",
-        "Geography",
-        "Medicine",
-        "Engineering"
-      ]
-    },
-    {
       "doi": "10.1038/s44284-026-00447-7",
       "doi_url": "https://doi.org/10.1038/s44284-026-00447-7",
       "title": "Global divergence in urban demographic change and migration patterns",
@@ -10582,29 +10625,6 @@
         "Health care",
         "Resource (disambiguation)",
         "Healthcare policy"
-      ]
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107234",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107234",
-      "title": "Reproducing place attachment through people-centered heritage practices: Relationship making in Uchiko Town, Japan",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-05-23",
-      "published_date_display": "2026-05-23",
-      "published_parts": [
-        2026,
-        9
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S026427512600466X",
-      "abstract": "In the context of population ageing and depopulation, historic small towns increasingly adopt heritage-led regeneration strategies. The People-Centred Approach (PCA) has become a key discourse in contemporary heritage governance, yet empirical evidence on how PCA becomes affectively embedded in everyday life and how it reshapes place attachment over time remains limited. This study examines Uchiko Town, Japan, a historic small town with more than four decades of community-based heritage practices, by combining archival questionnaire materials from 2000, 2009, and 2019, a town-wide survey conducted in 2024, and in-depth interviews. The analysis explores the relationships between PCA practices, relationship making, and place attachment. The findings reveal a long-term transformation in the structure of place attachment: residents' attachment has gradually shifted from functional dependence and symbolic heritage recognition toward orientations grounded in everyday social relations and lived experiences. While PCA practices have become institutionally embedded through expanded participation mechanisms, their direct effects on place attachment remain limited. Instead, social relationships and shared meanings function as the primary mediating pathways, whereas improvements in the material and spatial environment show relatively weak emotional effects once relational factors are considered. These results reveal a structural paradox in people-centred heritage governance: enhanced participation alone does not guarantee stronger place attachment. Rather, attachment is reproduced through the relational processes and shared meanings generated in everyday heritage practice, suggesting that the long-term effectiveness of PCA depends not only on participatory programmes themselves but also on the governance capacity to sustain inclusive relational infrastructures.",
-      "keywords": [
-        "Place attachment",
-        "Place making",
-        "World heritage",
-        "Place identity",
-        "Cultural heritage"
       ]
     },
     {
