@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:38:49.091779+00:00",
+  "generated_at": "2026-08-20T21:41:55.317423+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,143 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115611",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115611",
+      "title": "Integrating Landsat-based irrigation mapping and actual evapotranspiration estimates with hydrological modelling to assess regional irrigation dynamics in a large basin experiencing extreme climate variability: Towards a national operational irrigation water accounting system",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003810",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115596",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115596",
+      "title": "Beyond L-band: 0.4-2 GHz wideband radiometry for observing surface salinity in cold seawater",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003664",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115626",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115626",
+      "title": "A synergistic thermal framework for monitoring, quantifying, and classifying volcanic activity from space",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-12-01",
+      "published_date_display": "2026-12",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003962",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.008",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.008",
+      "title": "Wind and white: the dual controls of cold waves on surface urban heat islands in China",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003977",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.005",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.005",
+      "title": "RIPC: A novel FFT-Based multimodal image matching framework with radiometric, scale and rotation invariance",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003941",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.006",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.006",
+      "title": "HLS-GPT: A generative pretrained transformer (GPT) for continental-scale NASA harmonized Landsat and Sentinel-2 (HLS) reflectance reconstruction across all bands on arbitrary dates",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003953",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.007",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.007",
+      "title": "Guided diffusion-based image editing for landslide image synthesis in remote sensing change detection",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-10-01",
+      "published_date_display": "2026-10",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003965",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1080/13658816.2026.2717629",
+      "doi_url": "https://doi.org/10.1080/13658816.2026.2717629",
+      "title": "New pathways for UN SDGs spatialization: GeoSDG toolkit empowering the sustainable future under a spatial context",
+      "journal_id": "ijgis",
+      "journal_name": "International Journal of Geographical Information Science",
+      "journal_short_name": "IJGIS",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2717629",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1016/j.rse.2026.115614",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115614",
@@ -11083,31 +11220,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.027",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.027",
-      "title": "Stereo 3D tracker: a novel framework for real-time 3D point tracking in fisheye stereo photogrammetry",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-10",
-      "published_date_display": "2026-04-10",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001413",
-      "abstract": "",
-      "keywords": [
-        "Photogrammetry",
-        "Point (geometry)",
-        "Tracking (education)",
-        "Point cloud",
-        "Stereopsis",
-        "Stereo cameras",
-        "3D reconstruction"
-      ]
-    },
-    {
       "doi": "10.1016/j.isprsjprs.2026.04.018",
       "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.018",
       "title": "SA-GS: Season-aware affine 3D Gaussian Splatting for satellite image rendering",
@@ -11201,54 +11313,6 @@
         "Pixel",
         "Satellite",
         "Earth observation"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.04.008",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.008",
-      "title": "The moon’s many faces: A single unified transformer for multimodal lunar reconstruction",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-09",
-      "published_date_display": "2026-04-09",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001802",
-      "abstract": "Multimodal learning is an emerging research topic across multiple disciplines but has rarely been applied to planetary science. In this contribution, we propose a single, unified transformer architecture trained to learn shared representations between multiple sources like grayscale images, Digital Elevation Models (DEMs), surface normals, and albedo maps. The architecture supports flexible translation from any input modality to any target modality. Our results demonstrate that our foundation model learns physically plausible relations across these four modalities. We further identify that image-based 3D reconstruction and albedo estimation (Shape and Albedo from Shading) of lunar images can be formulated as a multimodal learning problem. Our results demonstrate the potential of multimodal learning to solve Shape and Albedo from Shading and provide a new approach for large-scale planetary 3D reconstruction. Adding more input modalities in the future will further improve the results and enable tasks such as photometric normalization and co-registration.",
-      "keywords": [
-        "Normalization (sociology)",
-        "Modalities",
-        "Architecture",
-        "Transformer",
-        "Deep learning",
-        "Rendering (computer graphics)",
-        "Multimodal learning"
-      ]
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.04.006",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.04.006",
-      "title": "GEOIMIA: A new automated forest thinning framework for selective harvesting at the individual tree level in mixed-species forests",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-04-09",
-      "published_date_display": "2026-04-09",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001784",
-      "abstract": "",
-      "keywords": [
-        "Thinning",
-        "Tree (set theory)",
-        "Logging",
-        "Forest management",
-        "Vegetation (pathology)"
       ]
     },
     {
@@ -12262,29 +12326,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.isprsjprs.2026.03.036",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.03.036",
-      "title": "AGI2P: Benchmarking Aerial–Ground Image-to-Point cloud localization with a large-scale dataset",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        6
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626001504",
-      "abstract": "",
-      "keywords": [
-        "Benchmarking",
-        "Cloud computing",
-        "Key (lock)",
-        "Field (mathematics)",
-        "Data collection"
-      ]
-    },
-    {
       "doi": "10.1080/13658816.2026.2645831",
       "doi_url": "https://doi.org/10.1080/13658816.2026.2645831",
       "title": "<i>UniTopRank</i> : a scalable and language-independent method for toponym resolution",
@@ -12355,32 +12396,6 @@
         "White (mutation)",
         "Erosion",
         "Geologic map"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115372",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115372",
-      "title": "A low-cost passive corner reflector design for SAR and InSAR applications",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-03-21",
-      "published_date_display": "2026-03-21",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001422",
-      "abstract": "Passive corner reflectors, made typically of metal plates, are widely used as point targets in synthetic aperture radar (SAR) and SAR interferometry (InSAR) applications. Drawbacks of such corner reflectors include: (i) high cost, especially when many reflectors are required for monitoring purposes; (ii) creation of localised ground motion in soft or unstable soils; and (iii) attractiveness for thieves. We tested several lower-cost and lighter weight materials for making corner reflectors. A cubic trihedral corner reflector, made of 2 mm thick aluminium plates, served as a standard. It was compared to corner reflectors built from 10 mm thick multiwall polycarbonate sheets covered with: (a) nothing; (b) c. 0.1 mm thick aluminium tape; or (c) aluminium-bearing metallic paint. In Sentinel-1 SAR backscatter imagery, the corner reflectors made of aluminium and polycarbonate sheets covered with aluminium tape (PC-AT) were equally visible. In contrast, the plain polycarbonate sheet and the polycarbonate sheet with aluminium paint were invisible. Scanning electron microscope (SEM) analysis of tape microstructure showed a well-distributed and dense layer of aluminium particles, which provides good dielectric response and high visibility in SAR imagery. Furthermore, a PC-AT corner reflector installed on an active landslide site yielded not only highly coherent pixels, but also displacement time series that were closely correlated with temporal variations of in-situ ground properties, such as soil moisture and matric suction. In terms of material cost and weight, the PC-AT corner reflector is approximately 94% cheaper and 71% lighter than the aluminium corner reflector, based on current market prices in Ireland. These low-cost, light-weight PC-AT corner reflectors are thus suitable for operational use in SAR- and InSAR-based monitoring.",
-      "keywords": [
-        "Corner reflector",
-        "Aluminium",
-        "Ground-penetrating radar",
-        "Radar",
-        "Synthetic aperture radar",
-        "Polycarbonate",
-        "Reflector (photography)",
-        "Interferometry"
       ]
     },
     {
@@ -13044,30 +13059,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.rse.2026.115344",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115344",
-      "title": "Iceberg detection from global open ocean sentinel-1 wave mode SAR data with YOLO deep learning",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-28",
-      "published_date_display": "2026-02-28",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001148",
-      "abstract": "",
-      "keywords": [
-        "Iceberg",
-        "Synthetic aperture radar",
-        "Backscatter (email)",
-        "Mode (computer interface)",
-        "Population",
-        "Deep learning"
-      ]
-    },
-    {
       "doi": "10.1016/j.rse.2026.115325",
       "doi_url": "https://doi.org/10.1016/j.rse.2026.115325",
       "title": "European forest disturbance alerting using Sentinel-1",
@@ -13117,32 +13108,6 @@
         "Radar imaging",
         "Interferometric synthetic aperture radar",
         "Scale (ratio)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115313",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115313",
-      "title": "Compositing high-resolution SDGSAT-1 nighttime light data by ranking of structural image features",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-26",
-      "published_date_display": "2026-02-26",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726000830",
-      "abstract": "To unlock the potential of high-resolution nighttime light (NTL) data, robust compositing methods are required. We present an automatic and scalable method for high-resolution NTL data compositing, demonstrated using SDGSAT-1 data. It operates at the pixel level by ranking structural image features across a temporal stack and selecting the observation acquired under the most favourable conditions. Unlike workflows that rely on external cloud masks and physical atmospheric correction models, it uses only internal image characteristics and stationarity metrics to mitigate contamination from clouds, haze, moonlight reflection, and sensor artefacts. The resulting composites show strong agreement with established, annual VIIRS products used as independent external benchmarks (correlation up to 0.95, R 2 consistently >0.80), while retaining a spatially crisper signal than VIIRS at a common aggregated scale (e.g. 800 m). The method also improves SDGSAT-1 usability by suppressing acquisition-dependent artefacts, including scene anomalies and inter-band RGB misregistration, and by improving spatial alignment: mean positional error is reduced from >340 m in the input data to 19.2 m in the composite. Internal geometric consistency improves markedly, with mean inter-band RGB misregistration decreasing from 47.6 m to 3.6 m. The workflow also introduces a taxonomy combining NTL brightness, temporal stationarity, and built-up area presence. For the Po Plain (Italy), the stationary NTL domain covers ∼10% of the area yet contains ∼60% of total light emissions; within it, 73.6% originate from built-up areas and 26.4% from non-built-up infrastructure (e.g. lit roads). Overall, the method supports integration of SDGSAT-1 data into global monitoring frameworks.",
-      "keywords": [
-        "Compositing",
-        "RGB color model",
-        "Workflow",
-        "Scalability",
-        "Pixel",
-        "Ranking (information retrieval)",
-        "Image resolution",
-        "Usability"
       ]
     },
     {
