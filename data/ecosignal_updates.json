@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:59:14.880482+00:00",
+  "generated_at": "2026-08-20T23:01:17.777963+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -35,6 +35,447 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1086/741601",
+      "doi_url": "https://doi.org/10.1086/741601",
+      "title": "When Correcting for Regression to the Mean Is Worse Than No Correction at All",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741601",
+      "abstract": "",
+      "keywords": [
+        "Regression",
+        "Regression analysis",
+        "Linear regression",
+        "Regression dilution",
+        "Cross-sectional regression"
+      ]
+    },
+    {
+      "doi": "10.1086/741683",
+      "doi_url": "https://doi.org/10.1086/741683",
+      "title": "Spark, Scaffold, Substrate: The Multiple Hidden Roles of Natural History in Ecology and Evolutionary Biology",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741683",
+      "abstract": "Over the last 30 years, as ecology and evolutionary biology (EEB) has become more theoretical, experimental, and data driven, there has been a growing worry that the space for natural history (i.e., the direct observation of organisms in their environments) has shrunk. The jury is still out on whether such a worry is well founded. On the one hand, quantitative evidence for natural history’s decline is equivocal, and numerous journals continue to publish natural history. On the other hand, the recent introduction of separate sections for natural history by many prominent EEB journals does suggest an ongoing separation between natural history and mainstream EEB. This debate, however, has so far focused mainly on the fate of natural history in the foreground, that is, intentionally and systematically collected natural history information that is made visible in scientific articles. In this article, we draw attention to hidden natural history in EEB research, that is, that which works in the background and remains hidden from view because it is written out of scientific articles. Here, by leveraging a collection of backstory oral history interviews anchored around famous scientific articles in EEB, we make visible and describe three roles for background natural history in EEB: (1) as spark (motivating research questions and hypothesis), (2) as scaffold (supporting the conduct of studies), and (3) as substrate (serving as raw material for new research). We examine how accounting for hidden natural history shifts the conversation around natural history’s decline and explore the potential epistemic implications that arise from such natural history being hidden.",
+      "keywords": [
+        "Evolutionary ecology",
+        "Evolutionary physiology",
+        "Ecology and Evolutionary Biology",
+        "Comparative biology",
+        "Natural history",
+        "Life history",
+        "Evolutionary neuroscience",
+        "Biological evolution"
+      ]
+    },
+    {
+      "doi": "10.1086/741600",
+      "doi_url": "https://doi.org/10.1086/741600",
+      "title": "Impacts of Harvest Removal on Mesocarnivore Territorial Dynamics Captured by Mechanistic Home Range Analysis",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741600",
+      "abstract": "Territorial behavior plays a key role in shaping the emergent population dynamics and spatial distribution of animal species, yet given its complexity, our understanding of the mechanisms driving territorial formation remains limited. This study used an integrated step selection analysis and a complete territorial location dataset to parameterize a mechanistic home range analysis (MHRA) model, allowing an examination of territorial dynamics in Canada lynx (Lynx canadensis) at a population peak. MHRA models were parameterized using data from two study sites, allowing an analysis of territorial formation and movement under contrasting harvest regimes. In an unharvested region, the model successfully predicted the behavior of a nonterritorial individual that used a mix of territorial space and poor-quality (unoccupied) habitat. In the high-harvest region, the model correctly predicted neighboring lynx response to an observed territorial shift following the harvest of a territorial lynx. This predictive accuracy suggests that territorial behaviors in this cyclically fluctuating species are driven by the interplay among territorial saturation, prey availability, and human exploitation. This approach provides a framework for understanding territorial processes grounded in individual movement patterns while offering insights relevant to population ecology and wildlife management across territorial species.",
+      "keywords": [
+        "Range (aeronautics)",
+        "Dynamics (music)",
+        "System dynamics",
+        "Home range"
+      ]
+    },
+    {
+      "doi": "10.1086/741527",
+      "doi_url": "https://doi.org/10.1086/741527",
+      "title": "Heterogeneous Predation, Community Asynchrony, and Metacommunity Stability in Cyanobacterial Mats",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741527",
+      "abstract": "",
+      "keywords": [
+        "Metacommunity",
+        "Cyanobacteria",
+        "Stability (learning theory)",
+        "Epilimnion",
+        "Microbial mat",
+        "Nestedness"
+      ]
+    },
+    {
+      "doi": "10.1086/743605",
+      "doi_url": "https://doi.org/10.1086/743605",
+      "title": "Front and Back Matter",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/743605",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1086/741447",
+      "doi_url": "https://doi.org/10.1086/741447",
+      "title": "Emergent Periodical Cicada Nymphs Use Skototaxis to Navigate to Trees",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741447",
+      "abstract": "After 13 or 17 years underground, periodical cicada nymphs come aboveground to molt into adulthood. Observers have long noted the strikingly directional orientation of nymphs toward trees on which they molt and have speculated on possible mechanisms to account for these movements. Through a combination of observational, experimental, and modeling studies, we demonstrate that cicada nymphs use skototaxis, or movement toward darkness, to reach their targets. Emergent nymphs walked directly toward isolated trees, regardless of initial compass direction or time of day, traveling only 15% farther than the minimum distance necessary. Nymphs whose vision had been temporarily obscured wandered randomly and rarely reached the trees. Indoor trials confirmed that cicada nymphs preferentially orient toward dark objects. This study adds to a growing list of organisms, including tropical plant seedlings, that move or grow toward darkness.",
+      "keywords": [
+        "Nymph",
+        "Crypsis",
+        "Predation",
+        "Taxonomy (biology)",
+        "Insect"
+      ]
+    },
+    {
+      "doi": "10.1086/741682",
+      "doi_url": "https://doi.org/10.1086/741682",
+      "title": "Eco-Evolutionary Dynamics of Infection and Immunity in Experimentally Founded Lake Populations of Threespine Stickleback",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741682",
+      "abstract": "Host-parasite interactions are likely to involve eco-evolutionary feedbacks. Parasites can impose strong selection on host immune traits. Evolution of these traits can suppress parasite abundance, which alters the strength of selection. Such eco-evo feedbacks can be hard to document in natural settings, where long-term interactions may have converged on relatively stable equilibria. However, when a species disperses into an unoccupied habitat, it can experience altered parasite abundance (e.g., enemy release) or encounter new parasite genotypes. These perturbations may be followed by observable eco-evolutionary dynamics as the newly assembled host-parasite communities interact and evolve. To test this hypothesis, we experimentally founded nine whole-lake populations of threespine stickleback and tracked changes in the prevalence of a parasite (Schistocephalus solidus) and a heritable host immune trait (fibrosis) for 7 years. In native source lakes, among-population differences in tapeworm prevalence and fibrosis were relatively stable across years, suggesting there are alternative eco-evolutionary equilibria. In contrast, the experimentally founded populations initially exhibited enemy release, followed by strong year-to-year fluctuations in infection and fibrosis. In lakes with high initial infection rates, fibrosis subsequently increased in severity, suppressing infections. Conversely, low fibrosis was followed by increased parasite prevalence. This temporal autocorrelation between parasite prevalence and immune traits weakened over time. These results are consistent with the existence of transient eco-evolutionary dynamics between host and parasite in newly founded populations.",
+      "keywords": [
+        "Stickleback",
+        "Predation",
+        "Immunity",
+        "Population",
+        "Biological evolution"
+      ]
+    },
+    {
+      "doi": "10.1086/741536",
+      "doi_url": "https://doi.org/10.1086/741536",
+      "title": "Cooperation Maximizes Biodiversity",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741536",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1086/741526",
+      "doi_url": "https://doi.org/10.1086/741526",
+      "title": "Abundance and Functional Roles, Not Richness, Govern Wood-Fall Degenerative Ecosystem Function in the Deep Sea",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741526",
+      "abstract": "Biological diversity is widely recognized as a key driver of ecosystem function, yet the mechanisms underlying biodiversity-ecosystem function (BEF) relationships in natural systems, particularly for regenerative processes, remain poorly understood. We examined the BEF relationship in deep-sea xylophagous bivalve communities using 63 experimental wood falls deployed ∼2,000 m deep in the Gulf of Mexico. This system allowed us to combine natural community assembly with controlled wood-fall deployments to examine how trophic partitioning, species dominance, and community-level properties influence total wood consumption, our metric of ecosystem function. We identified 26,324 individuals from 12 xylophagous bivalve species, which occupied complementary trophic niches, although their contributions to wood consumption varied substantially. Wood consumption increased with total abundance and, to a lesser extent, species richness, but richness effects largely reflected underlying variation in abundance. Analyses using the Price equation and species randomization approaches revealed that ecosystem function was primarily driven by a core group of abundant species, with occasional nonrandom contributions from rare species. These results indicate that in naturally assembled deep-sea communities, total abundance and key species’ functional capacity outweigh species richness or phylogenetic diversity as predictors of ecosystem function, emphasizing the importance of individual species roles in shaping BEF relationships.",
+      "keywords": [
+        "Abundance (ecology)",
+        "Deep sea",
+        "Ecosystem",
+        "Function (biology)",
+        "Functional ecology"
+      ]
+    },
+    {
+      "doi": "10.1086/741798",
+      "doi_url": "https://doi.org/10.1086/741798",
+      "title": "2026 American Society of Naturalists Awards",
+      "journal_id": "american-naturalist",
+      "journal_name": "The American Naturalist",
+      "journal_short_name": "The American Naturalist",
+      "published_date": "2026-09-01",
+      "published_date_display": "2026-09-01",
+      "published_parts": [
+        2026,
+        9,
+        1
+      ],
+      "link": "https://www.journals.uchicago.edu/doi/10.1086/741798",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03154-7",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03154-7",
+      "title": "Variation in the costs and ecological benefits of tropical natural forest regeneration",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03154-7",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41559-026-03169-0",
+      "doi_url": "https://doi.org/10.1038/s41559-026-03169-0",
+      "title": "Insufficient tree acclimation",
+      "journal_id": "nature-ecology-evolution",
+      "journal_name": "Nature Ecology & Evolution",
+      "journal_short_name": "Nature Ecology & Evolution",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41559-026-03169-0",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70552",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70552",
+      "title": "Impacts of clearcut accumulation on boreal forest bird communities: Defining a safe operating space at the landscape level",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70552",
+      "abstract": "Abstract Intensive management based on clearcut harvesting is a major threat to forest biodiversity globally. However, it remains unclear how the long‐term accumulation of clearcuts at the landscape level affects biodiversity and what the maximum level of clearcutting that forest species can tolerate is, that is the safe operating space. We aim to evaluate the impact of the accumulation of clearcutting areas over time on bird communities in the intensively used forest landscapes of southern Finland and to define an ecological boundary for forest species in this region. Based on the Finnish bird monitoring line transects (2006–2020), we related species richness and the abundance of the overall community and of species groups based on habitat affinity and Red List status with the accumulated area and mean size of clearcuts in the 5 and 20 years prior to bird observations. A trend analysis was conducted on a subset of transects with sufficient data to define a threshold of clearcut accumulation below which the abundance of forest species does not decline. Clearcuts benefited open‐habitat species, including common farmland and mire threatened species. However, the 20‐year accumulation of clearcuts had negative impacts on common forest species and old‐growth forest specialists. The analyses of temporal trends showed that a maximum of 9.6% of the landscape should be clearcut in 10 years to maintain or allow the recovery of old‐growth forest specialists. Such a safe threshold corresponds to a rotation time of 91 years and indicates that at least 20% of forest areas should not be used in clearcutting management. Synthesis and applications. Although clearcuts can benefit open‐habitat species, they should be limited to avoid declines in mature‐ and old‐forest species. By defining a safe limit in clearcut areas, we provide a readable target for ecologically sustainable forest use and a methodology that translates to other regions globally. However, such thresholds should be applied critically, as they are potentially context‐dependent and would require validation with multi‐taxa analyses.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70536",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70536",
+      "title": "How much is too much? Simulated population responses of a South African dwarf succulent to wild harvesting under climate change",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70536",
+      "abstract": "Abstract Natural populations often face multiple threats that jeopardise their viability, yet most population forecasts consider only single threats, such as shifts in precipitation or temperature. To better understand ecological and conservation challenges, incorporating multiple threats is essential. South African endemic dwarf succulents, for example, are under dual threats from climate change and wild harvesting for the ornamental plant trade. We developed a stochastic Integral Projection Model (IPM) using demographic data from 1999 to 2003, for 4776 individuals of the dwarf succulent, Argyroderma pearsonii , to evaluate the impacts of climate change and harvesting on its short‐term (<40 years) extinction risk and long‐term viability. We built simulations to explore 270 scenarios combining climate conditions (historical, mild climate change [SSP126], and moderate climate change [SSP245]), harvesting methods (fruit harvesting, non‐selective plant harvesting, or size‐selective plant harvesting), harvesting intensities (20%, 50%, or 90% of mature individuals/fruits) and harvest frequencies (annual to once every decade). We supplemented our approach with perturbation analyses to identify critical demographic components influencing population persistence. We show that historically A. pearsonii populations have been stable or growing. Without harvesting, populations are projected to remain viable under SSP126, but SSP245 results in long‐term declines for approximately 50% of simulated populations. Moderate intensities and frequencies of plant harvesting, especially of adults, significantly increased extinction risk by disrupting demographic components critical to population growth. In contrast, the most severe fruit harvesting scenarios had relatively minor impacts on population viability. In general, the effects of harvesting became more severe with increasing severity of climatic changes. Synthesis and applications . Wild harvesting poses an important threat to the persistence of South African dwarf succulent populations. Here, we identify sustainable harvesting thresholds for dwarf succulents and suggest that plant harvesting may be unsustainable under moderate to severe harvesting pressure, particularly with projected climatic pressures. Our study highlights the importance of incorporating multiple threats into population forecasts, providing valuable tools for ecologists and conservation managers.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71064",
+      "doi_url": "https://doi.org/10.1111/gcb.71064",
+      "title": "Soil Biodiversity Supports Agroecosystem Services Under Multiple Global Change Factors",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71064",
+      "abstract": "ABSTRACT Cereals are the key staple foods supporting a growing population under global change. Soil biodiversity sustains ecosystem multifunctionality (EMF) that underpins food production and soil agroecosystem services. Yet, the capacity of soil biodiversity to support EMF in cereal fields under multiple global change factors (GCFs) remains virtually unknown. Here, we conducted a field mesocosm experiment involving wheat, four levels of soil biodiversity, and up to eight distinct GCFs (warming, drought, salinity, heavy metals, nitrogen addition, microplastics, pesticides, and alkalinization) to investigate the contributions of soil biodiversity in supporting EMF (e.g., crop productivity, nutrient cycling, plant symbionts, plant health and organic matter decomposition) under multiple GCFs. Our results reveal that soil biodiversity maintains positive effects on EMF under increasing levels of GCFs. Intermediate levels of multiple GCFs stimulated vegetative wheat biomass, likely due to compensatory responses, but often at the expense of other soil ecosystem functions such as organic matter decomposition or the prevalence of plant symbionts, highlighting the inherent trade‐offs under global change. These findings demonstrate that preserving soil biodiversity is essential to maintain agroecosystem functioning under multiple global change factors.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71075",
+      "doi_url": "https://doi.org/10.1111/gcb.71075",
+      "title": "Litter Mixing Effects Modulate <scp>UV</scp> ‐Induced Photodegradation Across Grasslands",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71075",
+      "abstract": "ABSTRACT UV radiation can strongly affect litter decomposition across broad climatic gradients, but the magnitude of its contribution differs among ecosystems. Current understanding of this process remains largely based on single‐species litter experiments, which overlook the compositional complexity of natural litter inputs and the potential role of litter mixing in modulating UV‐driven photodegradation. To address this gap, we conducted a mixed‐litter decomposition experiment within a UV‐manipulation network across a 25° latitudinal gradient spanning four grassland types in China. Using biomass‐weighted mixtures of locally dominant species to represent natural litter inputs at each experimental site, we examined how variations in litter diversity and trait dispersion shaped the regional pattern of UV effects on mixed‐litter decomposition. After four‐year field decomposition, UV attenuation prolonged litter mean residence time by 3%–35% across sites. Litter mixtures with higher taxonomic and phylogenetic diversity showed faster early‐stage mass loss, a pattern explained by greater availability of dissolved organic carbon for microbial decomposition. In contrast, greater dispersion in species‐level C/N ratios within the litter mixtures imposed increasingly stronger stoichiometric constraint on biotic degradation as decomposition progressed. The magnitude of UV‐induced photodegradation increased with UV intensity. However, faster decomposition in phylogenetically diverse mixtures shortened the duration of radiation exposure, thereby constraining the strength of UV‐induced litter photodegradation. This mixing‐effect‐mediated constraint presented a stronger influence than UV exposure intensity on explaining regional variation in UV effects on litter decomposition. Overall, these findings underscore a previously underappreciated role of local litter mixture complexity in modulating the spatial pattern of UV‐induced photodegradation across grassland ecosystems. By linking litter mixing effects with UV‐driven decomposition, this study extends photodegradation research beyond the common focus on single‐species litter and highlights the importance of community‐level litter complexity for predicting grassland carbon turnover concurrent with climate change and biodiversity loss.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71043",
+      "doi_url": "https://doi.org/10.1111/gcb.71043",
+      "title": "Future Projections of Burned Area in Europe Highlight the Importance of Human Action",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71043",
+      "abstract": "ABSTRACT Wildfires are often a natural part of many European ecosystems, but human activities through land use, other socio‐economic factors and climate change have significantly changed how fires behave. Anthropogenic climate change is already intensifying fire‐prone weather and increasing wildfire risk across Europe with risk expected to grow sharply in coming decades. Past experience suggests that human action, such as fuel management and improved fire suppression capacity, can reduce wildfire spread and intensity. However, whether current or future efforts can counter rising risks under continued climate change remains uncertain. In this study, we assess the role of socio‐economic factors and biophysical factors in shaping future fire regimes across Europe. Using two fire models (SPITFIRE and BASE) coupled with the fire‐enabled Dynamic Global Vegetation Model LPJmL, we simulate future burned area under two socio‐economic and greenhouse gas concentration pathways (SSP1‐2.6 and SSP3‐7.0). We also run experiments where socio‐economic factors are held constant to isolate their influence. Our findings show that both biophysical and socio‐economic factors strongly affect future wildfire activity. Fire weather and fire management capacity are important drivers, while population density, vegetation shifts and land use matter more at regional scales. By the end of the century, intensified fire weather alone could increase annual burned area by approximately +39% under a low emission scenario (SSP1‐2.6) and by nearly +192% under a high emission scenario (SSP3‐7.0). Continued improvements in fire management capacity could substantially moderate these increases, reducing burned area by 72%–92% compared to scenarios without these improvements. However, under strong climate change, fire activity still rises in about 55% of Europe's fire prone regions, even if investments in fire management capacity continue at current levels. Overall, improved wildfire management capacity has the potential to greatly limit impacts of worsening fire weather, but may not fully offset strong climate change impacts.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71047",
+      "doi_url": "https://doi.org/10.1111/gcb.71047",
+      "title": "Flux Science Without Borders: Strengthening Ecosystem Flux Capacity in Latin America",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71047",
+      "abstract": "ABSTRACT The future of how we understand and manage ecosystems largely depends on direct and continuous observations that connect local territories to planetary processes. Latin America (LATAM: Mexico, Central and South America, and the Caribbean) hosts ecosystems critical for regulating global carbon, water, and energy cycles. However, persistent underinvestment in science and technology hampers the long‐term monitoring capacity needed to advance regional priorities. Addressing the climate crisis requires investing in local researchers, technicians, and students, providing Earth System Science training that integrates biophysical and sociocultural knowledge. Although English is the lingua franca of science, training in native languages accelerates technical capacity, strengthens regional collaboration, and grounds solutions in local experience. Here, we present TAFE ( Taller de Aprendizaje de Flujos Ecosistémicos ) as an example of how regionally grounded, native‐languages training can strengthen ecosystem flux science in LATAM and beyond. Such initiatives help decentralize knowledge, reduce the underrepresentation of Global South ecosystems in flux databases, and empower the next generation to lead research for both regional and global benefit.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70426",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70426",
+      "title": "Thresholds of facilitation and competition—Climate modulates the growth–density relationship in <i>Quercus robur</i>",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70426",
+      "abstract": "Abstract Tree density can have both positive (facilitation) and negative (competition) impacts on tree growth. Evidence indicates that non‐linear growth–density patterns often better capture the complexity of these interactions than linear forms. How such patterns vary along density and climatic conditions, including drought, remains unclear. In this study we used a unique and long‐term density manipulation experimental network to assess the impact of site climatic conditions and temporal climatic variability on the tree growth–density relationship. For two decades we monitored growth of pedunculate oak ( Quercus robur L.) trees planted with systematic spacing (Nelder design) along a climatic gradient in Europe. We quantified relative growth (normalized to solitary trees) and absolute growth responses to density across age classes. We further disentangled the impact of site aridity and drought periods on growth. Our results revealed that trees growing within intraspecific neighbourhoods can facilitate each other's above‐ground biomass growth, achieving a maximum relative growth increase of 30% compared with solitary trees. This unimodal optimum relationship was most pronounced during early developmental stages (ages 5–10), with its effect diminishing as trees matured. The observed shift of interaction, from facilitation to competition, could be attributed to increased canopy cover in a trees' neighbourhood. We identified aridity‐specific density thresholds (3000–4000 N ha −1 ), beyond which growth declines sharply during water‐limited periods. At dry sites, growth was highly responsive to drought, while the density threshold was relatively consistent across climatic conditions. On mesic to humid sites, drought and density were more tightly coupled, with density effects amplified beyond the initial low‐density optimum. Synthesis. We found that density‐dependent growth follows a unimodal, non‐linear pattern, with optimal density thresholds narrowing under increasing site aridity, stand age and climatic variability. These findings enhance our understanding of how climate and tree development jointly shape growth responses to density. They highlight the need for adaptive density management strategies that account for shifting facilitation–competition dynamics under climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2745.70425",
+      "doi_url": "https://doi.org/10.1111/1365-2745.70425",
+      "title": "Can we trust vegetation resurveys?",
+      "journal_id": "journal-of-ecology",
+      "journal_name": "Journal of Ecology",
+      "journal_short_name": "Journal of Ecology",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70425",
+      "abstract": "Abstract Revisiting and resurveying historical vegetation plots has become a central tool for documenting changes in plant communities. However, theoretical studies suggest that reliable detection of long‐term trends from a single resurvey is nearly impossible for species with high stochastic population fluctuations, though it may be relatively informative in more stable plant communities dominated by perennial species. To empirically test how well data from a single resurvey align with estimated long‐term trends in species richness and community turnover in European grasslands, we compiled permanent‐plot time series from dry to wet grasslands that were sampled multiple times (most often annually) during the monitoring period. We then extracted pairs of surveys (baseline survey and one resurvey) from the individual time series and compared changes inferred from these pairs with trends inferred from the full time series using Bayesian multilevel regressions. We found that in studied grasslands, data from a single resurvey can reliably reflect long‐term trends in community turnover but deliver less reliable inferences of trends in species richness. Synthesis . Despite limitations, single resurveys remain a useful tool for describing and understanding changes in plant diversity, at least in perennial grasslands. However, they should be used cautiously, especially regarding changes in species richness. In general, trend inference becomes more accurate as the number of resurveys increases and the monitoring period lengthens. Unfortunately, such long‐term, multiple‐resurvey schemes still remain scarce.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/1365-2664.70544",
+      "doi_url": "https://doi.org/10.1111/1365-2664.70544",
+      "title": "Movement decisions by black‐tailed godwit families with chicks in an intensively managed dairy farming landscape",
+      "journal_id": "journal-of-applied-ecology",
+      "journal_name": "Journal of Applied Ecology",
+      "journal_short_name": "Journal of Applied Ecology",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70544",
+      "abstract": "Abstract Over recent decades, agricultural landscapes around the world have become increasingly industrialised, leading to significant species and habitat losses. This also holds for grassland ecosystems in Western Europe, currently dominated by intensively managed dairy farming that disrupts the reproductive cycle of migratory meadow birds, such as the declining black‐tailed godwit Limosa limosa limosa . The chick‐rearing phase, a critical part of their breeding cycle, is particularly affected. Godwit families (parents and their brood) make active movement decisions that likely reflect how they perceive and respond to their environment. In an intensively managed Dutch dairy farming landscape, we followed 54 godwit families with GPS tracking throughout the 25‐day chick‐rearing period. We examined their daily home ranges, moment of leaving the natal area and habitat selection in relation to a satellite derived measure of grassland production intensity (GPI) and to agri‐environmental schemes (AES) representing different land management strategies. We also compared these movement decisions between families that successfully fledged chicks and those that did not. Families that successfully fledged chicks stayed in the vicinity of their nest longer with smaller daily home ranges than unsuccessful families of the same age. Moreover, families used larger areas when the average GPI within those areas was higher. When leaving their natal area, families consistently avoided fields with higher GPI and selected grasslands with long‐term habitat improvement measures such as protected areas, herb‐rich vegetation, delayed mowing and partial flooding while avoiding arable fields and conventionally managed grasslands. Synthesis and applications . These findings show that godwit family movements reflect active responses to habitat characteristics at and around their natal site. Our study emphasises the importance of implementing habitat‐improving measures and protecting not only sites within high‐density nesting areas but also the surrounding landscape. Moreover, our results confirm that intensive agricultural management reduces the capacity of landscapes to support successful chick‐rearing. Consequently, conservation strategies should prioritise landscape‐scale management approaches that expand and connect low‐intensity, nature‐inclusive farming practices to provide sufficient functional habitat throughout the chick‐rearing period.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71063",
+      "doi_url": "https://doi.org/10.1111/gcb.71063",
+      "title": "Thermophilization: Concepts, Methods, and Implications of Changes in Community Composition due to Global Warming",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71063",
+      "abstract": "ABSTRACT With global warming, many species will shift their geographic ranges coldward (i.e., towards higher latitudes and elevations) to remain within suitable thermal conditions. At the community level, these range shifts result in “thermophilization”—the increasing relative abundance of warm‐adapted (“thermophilic”) species and the concomitant decrease of cold‐adapted species over time. Quantifying rates of thermophilization provides a powerful approach to assessing responses to rising temperatures at the community level, particularly in high‐diversity systems where the detailed spatial data needed to calculate species‐level responses to warming for thousands of individual species are often unavailable. This review synthesizes our current understanding of thermophilization across terrestrial, marine, and aquatic systems. We detail the most common methods used to quantify thermophilization, primarily through the calculation of the Community Temperature Index (CTI, °C), which aggregates species' thermal affiliations into a single community‐level metric that can then be tracked through time to calculate an annualized thermophilization rate (TR, °C year −1 ). We evaluate the advantages of this approach, such as its ability to partition the contributions of underlying demographic processes (i.e., recruitment vs. growth vs. mortality, or colonization vs. extinction) and/or individual species and species groups, its flexibility in using diverse data sources like herbarium records and citizen science, and its ability to test relationships between TR and site‐specific conditions such as elevation, landcover, and anthropogenic disturbances. We also discuss some of the standing challenges and limitations of the thermophilization approach, including a lack of standardization that hinders large‐scale synthetic analyses, the challenge of propagating estimation errors from the species‐ to community‐level, and difficulties in interpreting and communicating results. We then discuss the implications of thermophilization for ecosystem stability and function, including the potential for biodiversity losses and altered ecosystem services. Finally, we highlight several important and exciting avenues for future research on climate‐driven shifts in community composition.",
+      "keywords": []
+    },
     {
       "doi": "10.1111/gcb.71056",
       "doi_url": "https://doi.org/10.1111/gcb.71056",
@@ -87,6 +528,42 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71072",
       "abstract": "ABSTRACT Warming and elevated CO 2 (eCO 2 ) are two potentially opposing climate‐carbon (C) feedback mechanisms that modulate the magnitude of the land C sink, with warming decreasing and eCO 2 increasing C sequestration. However, their net effect on soil organic C (SOC)—the largest terrestrial C stock—remains uncertain. Here, we quantify how warming, eCO 2 , and their interactions influence SOC by using 5558 paired observations from 1392 global studies across ecosystem types. Our study shows that warming reduces SOC by 8.0%, primarily by suppressing aboveground C inputs (−1.0%) and decreasing microbial C use efficiency (−9.9%). Concurrent warming and eCO 2 increase SOC by 7.6%—a synergistic effect larger than eCO 2 alone (+4.8%), primarily contributed by croplands. This outcome may result from increases in plant C inputs and soil nitrogen availability under eCO 2 , which facilitate microbial C assimilation and necromass formation (+3.9%). These processes promote the accumulation of mineral‐associated C (+9.9%) and offset the negative effects of warming. The combined effect of warming and eCO 2 is projected to increase SOC by 27.4 Pg C by 2100. Our findings highlight that synergistic interaction between warming and eCO 2 increases SOC sequestration and enhances SOC stability under future climate change.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/gcb.71055",
+      "doi_url": "https://doi.org/10.1111/gcb.71055",
+      "title": "Soil Warming Shifts Seasonal and Soil Depth‐Related Root Growth Dynamics in Subarctic Grasslands",
+      "journal_id": "global-change-biology",
+      "journal_name": "Global Change Biology",
+      "journal_short_name": "Global Change Biology",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71055",
+      "abstract": "ABSTRACT Climate warming in northern ecosystems is accelerating, yet the responses of belowground growth dynamics under warming remain poorly understood. We assessed how soil warming affects seasonal root growth dynamics in subarctic grasslands, aiming to predict belowground responses under future climate scenarios. We investigated root growth across soil depths and seasons in geothermally warmed subarctic grasslands, comparing two warming durations: medium‐term (MTW; 11–14 years) and long‐term (LTW; > 60 years) and three warming magnitudes (ambient: +0°C, < +2°C, and > +2°C). Root length and projection area were quantified from minirhizotron images using the automated segmentation model RS_SAG. The automated segmentation model trained and used in this study performed robustly, with accuracy comparable to manual labels. Warming duration and magnitude effects on root length and projection area were season‐ and soil‐depth‐dependent. Root growth responses were more pronounced under LTW than MTW, particularly in the subsoil under warming > +2°C. Significant differences from ambient conditions occurred during summer, where root length and projection area were larger than in ambient conditions. Warming shifted root growth phenology by accelerating peak‐season growth and intensifying winter decline. Enhanced subsoil root growth was related to a higher topsoil rhizome biomass, which likely provided additional energy to support deeper root growth and a higher abundance of Kobresia myosuroides —a deep‐rooted rhizomatous sedge species with extensive belowground biomass. Higher subsoil root length and projection area under LTW indicate a shift towards deeper rooting, potentially associated with changes in species composition or nutrient availability. Enhanced root growth, proliferation, temporal shifts and seasonal amplitude may increase litter inputs, influencing microbial activity and organic matter dynamics in subsoils. These deep‐root responses may partially offset warming‐induced organic matter decomposition but could also affect the stability of soil carbon pool, emphasising the role of deep‐soil roots in carbon cycling in subarctic soils.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1111/ele.70448",
+      "doi_url": "https://doi.org/10.1111/ele.70448",
+      "title": "New Species Discoveries Refine Global Biodiversity Patterns",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        8,
+        19
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70448",
+      "abstract": "ABSTRACT Global biodiversity patterns underpin ecological theory and conservation planning, yet the extent to which these inferences are shaped by the ongoing accumulation of taxonomic knowledge remains poorly understood. Here we quantified how terrestrial vertebrate discoveries from 1920 to 2020 reshaped estimated global diversity patterns and their inferred environmental drivers. Estimated diversity patterns remained largely stable for birds, whereas reptiles and amphibians showed notable reconfiguration, with 20.3% and 31.7% of their diversity centers (top 5% of total range‐weighted rarity) shifting to new regions, including Australia and Southeast Asia. These shifts were accompanied by changes in inferred environmental drivers, with the apparent influence of temperature declining and precipitation gaining importance for ectothermic groups. Our findings suggest that estimated global diversity patterns and driver relationships for less well‐known taxa may be less reliable than often assumed. Continued field exploration and taxonomic work are therefore essential to close critical biodiversity knowledge gaps.",
       "keywords": []
     },
     {
@@ -17089,60 +17566,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70880",
-      "doi_url": "https://doi.org/10.1111/gcb.70880",
-      "title": "Projected Methane Emissions From a Boreal Thermokarst Bog Are Sensitive to Carbon Substrate Availability, Distribution, and Transport Pathway Dominance",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-28",
-      "published_date_display": "2026-04-28",
-      "published_parts": [
-        2026,
-        4,
-        28
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70880",
-      "abstract": "ABSTRACT Methane is a potent greenhouse gas, which traps significantly more heat than carbon dioxide over short timescales, but remains underrepresented in models used for projecting future climate scenarios, particularly in permafrost landscapes. Understanding methane dynamics in northern wetlands is critical for improving projections of high‐latitude carbon feedbacks to the global climate system. To address this, we integrated ecological processes driving methane production, oxidation, and transport pathways into the DVM‐DOS‐TEM terrestrial biosphere model. Using long‐term site observations from a thermokarst bog in boreal Alaska, we calibrated and benchmarked the model against observations of methane and carbon dioxide fluxes, carbon and nitrogen stocks, and soil temperature and moisture. Parameter sensitivity analyses identified opposing correlations for methanogenesis and heterotrophic respiration, revealing a dependence on carbon availability. We also found sensitivity to the distribution of carbon relative to the water table position. Investigation of the dominance of different methane transport pathways demonstrated the need for observations of methane flux partitioning, and the utility in comparing simulated to observed seasonality. The cumulative methane efflux projected to the year 2100 had a range of 211–3470 g C m −2 between low and high warming scenarios. Methane emissions dominated by diffusion showed the greatest variability across projections. Increased soil temperature and carbon availability from permafrost thaw resulted in increasing methane emissions between 2030 and 2060. But methane emission was then limited by a deepening of the water table. Nevertheless, we estimated a positive radiative forcing (i.e., warming) from these mid‐century methane emissions that persisted until 2100. An ebullition‐dominant parameterization led to lower variability but a net negative radiative forcing (i.e., cooling) on average. Our study highlights the importance of representing methane emission pathways and the uncertainty associated with partitioning them on predicting the carbon budget and radiative forcing of wetland ecosystems in high latitudes.",
-      "keywords": [
-        "Permafrost",
-        "Thermokarst",
-        "Radiative forcing",
-        "Methane",
-        "Peat",
-        "Greenhouse gas",
-        "Bog",
-        "Carbon fibers",
-        "Wetland",
-        "Dominance (genetics)"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70854",
-      "doi_url": "https://doi.org/10.1111/gcb.70854",
-      "title": "A Modern Ghost Story: Increased Selective Mortality of Salmon Under Climate Extremes",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-28",
-      "published_date_display": "2026-04-28",
-      "published_parts": [
-        2026,
-        4,
-        28
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70854",
-      "abstract": "ABSTRACT Hydroclimate volatility poses a growing threat to species' persistence, particularly when combined with widespread habitat loss and other stressors. Although the negative impacts of drought on aquatic species are well documented, wet conditions are generally assumed to enhance recruitment of migratory species during freshwater life stages. Life‐history theory predicts that species with multiple migratory strategies should be more resilient to climate extremes by spreading risk across time and space. Testing these assumptions requires tracking both survivors and ‘ghosts’ across life stages and broad spatial scales. For many Pacific salmonids, a substantial fraction of the population disperses downstream soon after emergence (‘early migrants’), rearing in downstream habitats before entering the ocean. The extent to which hydroclimatic conditions influence selection against this phenotype and its lifetime success is poorly understood. To address this data gap, we tracked nine cohorts of Chinook salmon ( Oncorhynchus tshawytscha ) at sequential points through their life cycle, using otolith and eye lens isotopes to identify habitats and conditions associated with the highest losses of early migrants. Comparisons of juvenile ( n = 2197) and adult ( n = 3937) samples revealed large spatiotemporal variation in the strength of selective mortality. Early migrants became progressively rarer at each consecutive sampling point, including among adult returns, indicating carryover effects from freshwater into the ocean. At the southern edge of the species range—where water scarcity is an intensifying issue—we had predicted positive relationships between river flow, growth and survival. Instead, trends were consistently quadratic, suggesting that both drought and extreme high flows can reduce rearing opportunities and cohort strength. Ultimately, all phenotypes contributed to reproduction in all years, underscoring the importance of maintaining diverse life history portfolios and implementing climate‐ready restoration strategies that provide refugia and growth opportunities across the full spectrum of flow conditions.",
-      "keywords": [
-        "Habitat",
-        "Juvenile",
-        "Population",
-        "Climate change",
-        "Otolith",
-        "Chinook wind"
-      ]
-    },
-    {
       "doi": "10.1086/741914",
       "doi_url": "https://doi.org/10.1086/741914",
       "title": "Alternative Reproductive Tactic Frequencies Vary with Stream Size for an Appalachian Salamander",
@@ -18071,34 +18494,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70869",
-      "doi_url": "https://doi.org/10.1111/gcb.70869",
-      "title": "Advancing Earth System Science With the <scp>NASA</scp> Plankton, Aerosol, Cloud, Ocean Ecosystem ( <scp>PACE</scp> ) Satellite Mission",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-22",
-      "published_date_display": "2026-04-22",
-      "published_parts": [
-        2026,
-        4,
-        22
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70869",
-      "abstract": "ABSTRACT Earth observation satellites transform our understanding of Earth's biological, atmospheric, and surface systems. The Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) mission, launched in 2024, represents NASA's latest investment in multidisciplinary Earth system science, building upon multi‐decadal heritage while introducing revolutionary capabilities. Since launch, PACE has extended and improved upon NASA's 30+ years of global satellite observations of our living ocean, atmosphere, and land, and initiated an advanced set of climate‐ and applications‐relevant data records. Mission goals include extending and improving upon systematic ocean color, aerosol, cloud, and terrestrial data records for Earth system studies, and addressing emerging science questions related to socioeconomic applications. PACE helps assess ocean health by determining the distribution of aquatic phytoplankton. In doing so, it is the first mission to provide daily, global measurements that will enable prediction of the “boom‐bust” cycle of fisheries, the appearance of harmful algae, and other factors that affect commercial and recreational industries. PACE also observes clouds and tiny airborne particles known as aerosols that influence air quality and absorb and reflect sunlight, thus warming and cooling the atmosphere. Many stakeholders rely on these key data to forecast weather, visibility, and air quality. Also, PACE provides novel and near‐daily views of land surfaces, collectively extending heritage vegetation time series while introducing novel terrestrial measurements previously only achievable at local scales. PACE ultimately provides observations that benefit Earth system research and society as a whole in ways that other current satellites cannot. As it passes its two‐year anniversary, the mission exemplifies how combining hyperspectral radiometry with multi‐angle polarimetry enables transformative Earth system science, addressing critical uncertainties while establishing new paradigms for integrated observations of our changing planet. This review examines how PACE fills critical gaps across aquatic, terrestrial, and atmospheric science disciplines.",
-      "keywords": [
-        "Pace",
-        "Earth system science",
-        "Earth observation",
-        "Satellite",
-        "Ocean observations",
-        "Vegetation (pathology)",
-        "Global change",
-        "Water cycle",
-        "Biosphere"
-      ]
-    },
-    {
       "doi": "10.1038/s41559-026-03072-8",
       "doi_url": "https://doi.org/10.1038/s41559-026-03072-8",
       "title": "Fast range shifts",
@@ -18764,61 +19159,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70870",
-      "doi_url": "https://doi.org/10.1111/gcb.70870",
-      "title": "Slower Soil Nitrogen Transformations Under Longer‐Term Warming and the Consequences for Plant Growth",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-17",
-      "published_date_display": "2026-04-17",
-      "published_parts": [
-        2026,
-        4,
-        17
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70870",
-      "abstract": "ABSTRACT Climate warming is expected to stimulate soil nitrogen (N) transformations, thereby increasing the supply of available N to support plant growth and carbon (C) assimilation. However, it remains uncertain whether this stimulatory effect on soil N transformations can persist over time to sustain plant growth and N uptake. This study combines a global meta‐analysis with a local warming experiment with 7 years to shed light on how soil N transformations respond to long‐term warming and the underlying mechanisms, and how these transformations affect plant growth. We found that longer‐term warming (≥ 6 years) did not stimulate gross soil N transformation rates, with gross nitrification and NO 3 − immobilization rates being significantly inhibited. These responses of gross N mineralization and nitrification rates were primarily explained by biotic rather than abiotic factors. Altered substrate supply through N mineralization and nitrification influenced the responses of NH 4 + and NO 3 − immobilizations. Interestingly, despite the slower rate of soil N transformations, plant growth and N uptake (mainly NH 4 + uptake) increased under warming, as the inhibition of NH 4 + consumption by nitrifiers left more NH 4 + for plants. The findings break the traditional views that warming has a positive effect on soil N cycling and thus contribute to plant N uptake and growth. The slower soil N transformations under longer‐term warming and the changes in plant N uptake preference imply a coordination between soil and plant N cycling. Land management practices and C–N cycling simulations should incorporate this soil–plant N coordination and the slower soil N transformations under longer‐term warming.",
-      "keywords": [
-        "Nitrification",
-        "Mineralization (soil science)",
-        "Cycling",
-        "Nitrogen cycle",
-        "Abiotic component",
-        "Soil carbon",
-        "Global warming",
-        "Nitrogen"
-      ]
-    },
-    {
-      "doi": "10.1111/gcb.70874",
-      "doi_url": "https://doi.org/10.1111/gcb.70874",
-      "title": "Multidimensional Recovery of Young Secondary Forests in Human‐Modified Tropical Landscapes",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-17",
-      "published_date_display": "2026-04-17",
-      "published_parts": [
-        2026,
-        4,
-        17
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70874",
-      "abstract": "ABSTRACT Secondary succession is a widespread phenomenon in the Anthropocene due to global land‐use and climate change. Our ability to predict successional trajectories remains limited due to key knowledge gaps related to early secondary succession and how successional trajectories vary across socio‐ecological systems and multiple forest attributes. Therefore, we analyzed the first 5 years of secondary forest succession across six tropical landscapes (i.e., socio‐ecological systems) in three countries (Australia, Ghana, and Mexico) that differ in land‐use intensity and two main forest types (dry and wet). We established 122 permanent plots in recently abandoned agricultural fields, monitored them annually for up to 5 years, and quantified 12 forest attributes related to structure, diversity, functional composition, and biotic interactions. We found that a large variation in successional trajectories was explained by the six landscapes (average r 2 across 12 attributes is 54%; range: 18%–78%), indicating that succession is the result of a socio‐ecological system. An additional 39% of the variation (range: 19%–70%) was explained by plots occuring within landscapes, which reflects variation in landscape context and local land use intensity. Countries had a stronger impact on succession than forest type, indicating that the social component is more important early in succession, whereas the ecological component may become more important later in succession. Countries with lower land use intensity (e.g., subsistence agriculture, shorter duration of use, no mechanization) showed a higher start and speed of succession, as vegetation legacies can kickstart succession. Forest attributes followed distinct successional trajectories: forest structure and diversity increased over time, reflecting a deterministic component of succession, whereas functional composition and biotic interactions varied more with forest type, reflecting environmental filtering. These findings highlight the importance of integrating early succession, socio‐ecological systems, and multiple dimensions of forest recovery to better understand and predict forest succession in human‐modified tropical landscapes.",
-      "keywords": [
-        "Ecological succession",
-        "Secondary succession",
-        "Secondary forest",
-        "Context (archaeology)",
-        "Vegetation (pathology)",
-        "Climate change",
-        "Subsistence agriculture",
-        "Forest restoration",
-        "Land use"
-      ]
-    },
-    {
       "doi": "10.1111/gcb.70879",
       "doi_url": "https://doi.org/10.1111/gcb.70879",
       "title": "Climate as the Main Driver of Large‐Scale Genetic Patterns and Connectivity in the Expanding Golden Jackal",
@@ -19299,57 +19639,6 @@
         "Predictive modelling",
         "Biomass partitioning",
         "Population model"
-      ]
-    },
-    {
-      "doi": "10.1086/741683",
-      "doi_url": "https://doi.org/10.1086/741683",
-      "title": "Spark, Scaffold, Substrate: The Multiple Hidden Roles of Natural History in Ecology and Evolutionary Biology",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-04-10",
-      "published_date_display": "2026-04-10",
-      "published_parts": [
-        2026,
-        4,
-        10
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/741683",
-      "abstract": "Over the last 30 years, as ecology and evolutionary biology (EEB) has become more theoretical, experimental, and data driven, there has been a growing worry that the space for natural history (i.e., the direct observation of organisms in their environments) has shrunk. The jury is still out on whether such a worry is well founded. On the one hand, quantitative evidence for natural history’s decline is equivocal, and numerous journals continue to publish natural history. On the other hand, the recent introduction of separate sections for natural history by many prominent EEB journals does suggest an ongoing separation between natural history and mainstream EEB. This debate, however, has so far focused mainly on the fate of natural history in the foreground, that is, intentionally and systematically collected natural history information that is made visible in scientific articles. In this article, we draw attention to hidden natural history in EEB research, that is, that which works in the background and remains hidden from view because it is written out of scientific articles. Here, by leveraging a collection of backstory oral history interviews anchored around famous scientific articles in EEB, we make visible and describe three roles for background natural history in EEB: (1) as spark (motivating research questions and hypothesis), (2) as scaffold (supporting the conduct of studies), and (3) as substrate (serving as raw material for new research). We examine how accounting for hidden natural history shifts the conversation around natural history’s decline and explore the potential epistemic implications that arise from such natural history being hidden.",
-      "keywords": [
-        "Evolutionary ecology",
-        "Evolutionary physiology",
-        "Ecology and Evolutionary Biology",
-        "Comparative biology",
-        "Natural history",
-        "Life history",
-        "Evolutionary neuroscience",
-        "Biological evolution"
-      ]
-    },
-    {
-      "doi": "10.1086/741682",
-      "doi_url": "https://doi.org/10.1086/741682",
-      "title": "Eco-Evolutionary Dynamics of Infection and Immunity in Experimentally Founded Lake Populations of Threespine Stickleback",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-04-10",
-      "published_date_display": "2026-04-10",
-      "published_parts": [
-        2026,
-        4,
-        10
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/741682",
-      "abstract": "Host-parasite interactions are likely to involve eco-evolutionary feedbacks. Parasites can impose strong selection on host immune traits. Evolution of these traits can suppress parasite abundance, which alters the strength of selection. Such eco-evo feedbacks can be hard to document in natural settings, where long-term interactions may have converged on relatively stable equilibria. However, when a species disperses into an unoccupied habitat, it can experience altered parasite abundance (e.g., enemy release) or encounter new parasite genotypes. These perturbations may be followed by observable eco-evolutionary dynamics as the newly assembled host-parasite communities interact and evolve. To test this hypothesis, we experimentally founded nine whole-lake populations of threespine stickleback and tracked changes in the prevalence of a parasite (Schistocephalus solidus) and a heritable host immune trait (fibrosis) for 7 years. In native source lakes, among-population differences in tapeworm prevalence and fibrosis were relatively stable across years, suggesting there are alternative eco-evolutionary equilibria. In contrast, the experimentally founded populations initially exhibited enemy release, followed by strong year-to-year fluctuations in infection and fibrosis. In lakes with high initial infection rates, fibrosis subsequently increased in severity, suppressing infections. Conversely, low fibrosis was followed by increased parasite prevalence. This temporal autocorrelation between parasite prevalence and immune traits weakened over time. These results are consistent with the existence of transient eco-evolutionary dynamics between host and parasite in newly founded populations.",
-      "keywords": [
-        "Stickleback",
-        "Predation",
-        "Immunity",
-        "Population",
-        "Biological evolution"
       ]
     },
     {
@@ -20109,35 +20398,6 @@
       ]
     },
     {
-      "doi": "10.1111/gcb.70834",
-      "doi_url": "https://doi.org/10.1111/gcb.70834",
-      "title": "The Separate Roles of Vascular Plants and <i>Sphagnum</i> Mosses in Regulating the Net <scp> CO <sub>2</sub> </scp> Exchange in a Boreal Peatland During Key Phenological Phases",
-      "journal_id": "global-change-biology",
-      "journal_name": "Global Change Biology",
-      "journal_short_name": "Global Change Biology",
-      "published_date": "2026-04-03",
-      "published_date_display": "2026-04-03",
-      "published_parts": [
-        2026,
-        4,
-        3
-      ],
-      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70834",
-      "abstract": "ABSTRACT Boreal peatlands provide an important carbon store, which is highly susceptible to future changes in the global climate. Predictions of climate feedbacks on the peatland carbon balance require an in‐depth understanding of how vegetation dynamics and environmental conditions jointly govern the production and decomposition of organic matter. However, detailed knowledge on the separate roles of plant functional groups (PFGs) in regulating peatland production and respiration fluxes in response to various abiotic factors at sub‐seasonal scales is currently lacking. In this study, we used high‐temporal resolution CO 2 flux data from an automated chamber system established across experimental vegetation removal plots to separate the production and respiration fluxes of vascular plants and Sphagnum mosses over three growing seasons (2021–2023) in a boreal peatland. We found that gross primary production (GPP) of Sphagnum mosses exceeded that of vascular plants during green‐up (average ratio: 1.18) and senescence (1.11), whereas vascular plants were the main contributor during the peak season (0.88). Vascular plants dominated autotrophic respiration (RA; 78%–93%) in all phenophases and contributed 38%–40% to growing season ecosystem respiration. For both PFGs, plant phenology was the primary driver for variations in GPP during green‐up, whereas photosynthetic photon flux density was most important in regulating GPP during the peak season and senescence. Vascular plants reached greater maximum GPP throughout all phenophases, whereas Sphagnum mosses had a higher initial light use efficiency during green‐up and senescence. Moss RA exhibited greater daytime temperature sensitivity than vascular plants during the peak season and senescence, but not during nighttime. These findings highlight that climate change effects on vegetation phenology and composition may strongly alter the peatland carbon cycle. Thus, understanding the separate roles of vascular plants and Sphagnum mosses in regulating production and respiration fluxes in different environmental conditions is crucial to improve predictions of northern peatland carbon cycle‐climate feedbacks.",
-      "keywords": [
-        "Sphagnum",
-        "Growing season",
-        "Primary production",
-        "Peat",
-        "Vascular plant",
-        "Boreal",
-        "Ecosystem",
-        "Plant functional type",
-        "Moss",
-        "Vegetation (pathology)"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70376",
       "doi_url": "https://doi.org/10.1111/ele.70376",
       "title": "Unravelling Marine Benthic Functioning Shifts Under Ocean Acidification",
@@ -20217,30 +20477,6 @@
         "Habitat destruction",
         "Occupancy",
         "Range (aeronautics)"
-      ]
-    },
-    {
-      "doi": "10.1086/741601",
-      "doi_url": "https://doi.org/10.1086/741601",
-      "title": "When Correcting for Regression to the Mean Is Worse Than No Correction at All",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        4,
-        1
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/741601",
-      "abstract": "",
-      "keywords": [
-        "Regression",
-        "Regression analysis",
-        "Linear regression",
-        "Regression dilution",
-        "Cross-sectional regression"
       ]
     },
     {
@@ -20362,29 +20598,6 @@
         "Evolutionary ecology",
         "Biogeography",
         "Predation"
-      ]
-    },
-    {
-      "doi": "10.1086/741600",
-      "doi_url": "https://doi.org/10.1086/741600",
-      "title": "Impacts of Harvest Removal on Mesocarnivore Territorial Dynamics Captured by Mechanistic Home Range Analysis",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-04-01",
-      "published_date_display": "2026-04-01",
-      "published_parts": [
-        2026,
-        4,
-        1
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/741600",
-      "abstract": "Territorial behavior plays a key role in shaping the emergent population dynamics and spatial distribution of animal species, yet given its complexity, our understanding of the mechanisms driving territorial formation remains limited. This study used an integrated step selection analysis and a complete territorial location dataset to parameterize a mechanistic home range analysis (MHRA) model, allowing an examination of territorial dynamics in Canada lynx (Lynx canadensis) at a population peak. MHRA models were parameterized using data from two study sites, allowing an analysis of territorial formation and movement under contrasting harvest regimes. In an unharvested region, the model successfully predicted the behavior of a nonterritorial individual that used a mix of territorial space and poor-quality (unoccupied) habitat. In the high-harvest region, the model correctly predicted neighboring lynx response to an observed territorial shift following the harvest of a territorial lynx. This predictive accuracy suggests that territorial behaviors in this cyclically fluctuating species are driven by the interplay among territorial saturation, prey availability, and human exploitation. This approach provides a framework for understanding territorial processes grounded in individual movement patterns while offering insights relevant to population ecology and wildlife management across territorial species.",
-      "keywords": [
-        "Range (aeronautics)",
-        "Dynamics (music)",
-        "System dynamics",
-        "Home range"
       ]
     },
     {
@@ -21198,73 +21411,6 @@
       ]
     },
     {
-      "doi": "10.1086/741527",
-      "doi_url": "https://doi.org/10.1086/741527",
-      "title": "Heterogeneous Predation, Community Asynchrony, and Metacommunity Stability in Cyanobacterial Mats",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        3,
-        26
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/741527",
-      "abstract": "",
-      "keywords": [
-        "Metacommunity",
-        "Cyanobacteria",
-        "Stability (learning theory)",
-        "Epilimnion",
-        "Microbial mat",
-        "Nestedness"
-      ]
-    },
-    {
-      "doi": "10.1086/741536",
-      "doi_url": "https://doi.org/10.1086/741536",
-      "title": "Cooperation Maximizes Biodiversity",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        3,
-        26
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/741536",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1086/741526",
-      "doi_url": "https://doi.org/10.1086/741526",
-      "title": "Abundance and Functional Roles, Not Richness, Govern Wood-Fall Degenerative Ecosystem Function in the Deep Sea",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-03-26",
-      "published_date_display": "2026-03-26",
-      "published_parts": [
-        2026,
-        3,
-        26
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/741526",
-      "abstract": "Biological diversity is widely recognized as a key driver of ecosystem function, yet the mechanisms underlying biodiversity-ecosystem function (BEF) relationships in natural systems, particularly for regenerative processes, remain poorly understood. We examined the BEF relationship in deep-sea xylophagous bivalve communities using 63 experimental wood falls deployed ∼2,000 m deep in the Gulf of Mexico. This system allowed us to combine natural community assembly with controlled wood-fall deployments to examine how trophic partitioning, species dominance, and community-level properties influence total wood consumption, our metric of ecosystem function. We identified 26,324 individuals from 12 xylophagous bivalve species, which occupied complementary trophic niches, although their contributions to wood consumption varied substantially. Wood consumption increased with total abundance and, to a lesser extent, species richness, but richness effects largely reflected underlying variation in abundance. Analyses using the Price equation and species randomization approaches revealed that ecosystem function was primarily driven by a core group of abundant species, with occasional nonrandom contributions from rare species. These results indicate that in naturally assembled deep-sea communities, total abundance and key species’ functional capacity outweigh species richness or phylogenetic diversity as predictors of ecosystem function, emphasizing the importance of individual species roles in shaping BEF relationships.",
-      "keywords": [
-        "Abundance (ecology)",
-        "Deep sea",
-        "Ecosystem",
-        "Function (biology)",
-        "Functional ecology"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70371",
       "doi_url": "https://doi.org/10.1111/ele.70371",
       "title": "Issue Information",
@@ -21445,35 +21591,6 @@
       ]
     },
     {
-      "doi": "10.1111/1365-2664.70335",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70335",
-      "title": "Identifying predictors of tropical cyclone impacts on coastal agriculture to assess coastal wetland buffering signals",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-23",
-      "published_date_display": "2026-03-23",
-      "published_parts": [
-        2026,
-        3,
-        23
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70335",
-      "abstract": "Abstract Coastal wetlands provide multiple ecosystem services to coastal communities, including climate regulation, flood mitigation and erosion control. With climate change predicted to increase the frequency of extreme weather events, the value of mangroves and tidal marshes for reducing cyclone impacts is expected to grow. Though several studies have suggested that coastal wetlands reduce agricultural losses, this buffering effect is yet to be quantified. This research novelly evaluates coastal wetland buffering signals within a cyclone‐affected landscape. We assessed predictors of tropical cyclone impacts on agriculture to test the importance of coastal wetlands for mitigating storm damages. We used Random Forest models to analyse climatic, topographic and edaphic variables influencing crop cover (NDVI) and surface water presence (NDWI) in agricultural fields of the Whitsunday Coast before and after Tropical Cyclone Debbie, a Category 4 cyclone that made landfall in March 2017. Our analysis showed that croplands within 1 km of mangroves and tidal marshes experienced lower surface water presence and reduced crop cover declines compared with more distant areas. Surface water presence was strongly linked to crop cover loss, indicating complex interactions between wetland proximity, flooding and vegetation response. This study provides evidence for a potential buffering effect of wetlands that is spatially limited to within ~1 km of wetland areas, highlighting the indirect value of coastal wetlands to agricultural leaseholders in the Great Barrier Reef catchments and beyond. Our spatially explicit approach, based on freely available satellite data and machine learning models, demonstrates how remote sensing can reveal potential buffering signals of wetlands to inform identification of priority sites for wetland restoration and a preference for wetland restoration in land‐use planning for other cyclone‐prone regions. Synthesis and applications . Our findings provide novel evidence that wetlands can buffer storm impacts on agriculture, though only over short spatial ranges. The study highlights the importance of conserving and restoring coastal wetlands near croplands to enhance climate resilience. The approach can be applied in other regions where field monitoring is limited, offering a scalable tool to inform restoration planning, land‐use decisions and nature‐based strategies for managing extreme weather impacts. Read the free Plain Language Summary for this article on the Journal blog .",
-      "keywords": [
-        "Wetland",
-        "Marsh",
-        "Tropical cyclone",
-        "Storm",
-        "Hydrology (agriculture)",
-        "Climate change",
-        "Mangrove",
-        "Coastal flood",
-        "Flooding (psychology)",
-        "Ecosystem services"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70366",
       "doi_url": "https://doi.org/10.1111/ele.70366",
       "title": "Integrating Lab‐ and Field‐Based Approaches to Decipher Individuals' Response to Anthropogenic Change",
@@ -21524,30 +21641,6 @@
         "Interspecific competition",
         "Biogeography",
         "Plant community"
-      ]
-    },
-    {
-      "doi": "10.1086/741447",
-      "doi_url": "https://doi.org/10.1086/741447",
-      "title": "Emergent Periodical Cicada Nymphs Use Skototaxis to Navigate to Trees",
-      "journal_id": "american-naturalist",
-      "journal_name": "The American Naturalist",
-      "journal_short_name": "The American Naturalist",
-      "published_date": "2026-03-20",
-      "published_date_display": "2026-03-20",
-      "published_parts": [
-        2026,
-        3,
-        20
-      ],
-      "link": "https://www.journals.uchicago.edu/doi/10.1086/741447",
-      "abstract": "After 13 or 17 years underground, periodical cicada nymphs come aboveground to molt into adulthood. Observers have long noted the strikingly directional orientation of nymphs toward trees on which they molt and have speculated on possible mechanisms to account for these movements. Through a combination of observational, experimental, and modeling studies, we demonstrate that cicada nymphs use skototaxis, or movement toward darkness, to reach their targets. Emergent nymphs walked directly toward isolated trees, regardless of initial compass direction or time of day, traveling only 15% farther than the minimum distance necessary. Nymphs whose vision had been temporarily obscured wandered randomly and rarely reached the trees. Indoor trials confirmed that cicada nymphs preferentially orient toward dark objects. This study adds to a growing list of organisms, including tropical plant seedlings, that move or grow toward darkness.",
-      "keywords": [
-        "Nymph",
-        "Crypsis",
-        "Predation",
-        "Taxonomy (biology)",
-        "Insect"
       ]
     },
     {
@@ -21864,33 +21957,6 @@
         "Soil nutrients",
         "Temperate rainforest",
         "Mycorrhiza"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70299",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70299",
-      "title": "Restoration affects the temporal stability of biodiversity and productivity in degraded grasslands",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-16",
-      "published_date_display": "2026-03-16",
-      "published_parts": [
-        2026,
-        3,
-        16
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70299",
-      "abstract": "Abstract Various restoration measures have been implemented to restore degraded grasslands, demonstrating generally positive effects on plant productivity. Temporal stability is essential for adequate delivery and maintenance of ecosystem services; yet, how it changes with restoration of ecosystem structure and function and the underlying mechanisms remain insufficiently studied. We conducted a meta‐analysis of 331 multi‐year comparisons across 22 degraded grassland sites in China to assess the impacts of nine restoration measures on plant above‐ground net primary productivity (ANPP), species richness and their temporal stabilities. The restoration measures included fertilization alone, enclosure, reseeding, ploughing, irrigation and their combinations with fertilization. Ecological restoration generally enhanced the ANPP of degraded grasslands in China but had little impact on the temporal stability and species richness. Stability responses varied depending on restoration measures and grassland type, where they were reduced by fertilization, ploughing and their combination, increased by irrigation and its combination with fertilization and remained unaffected by enclosure and reseeding. The stability of meadow steppe was more sensitive to ecological restoration than other grassland types. Furthermore, fertilization showed a less negative effect on community stability in severely degraded grasslands, whereas long‐term enclosure enhanced community stability of degraded grassland with higher precipitation amounts. Changes in species dominance (either in biomass or abundance) and the stability of dominant species (with relative biomass or abundance >10% of the community) determined grassland community stability under restoration. Synthesis and applications . Our findings demonstrate that fertilization destabilizes plant productivity in degraded grassland, whereas long‐term enclosure enhances community stability. The response of community stability to restoration is primarily driven by plant dominance and dominant species stability. Furthermore, restoration effects on community stability are mediated by environmental conditions, grassland type, degradation severity and restoration duration, which deserve more attention in restoration management.",
-      "keywords": [
-        "Grassland",
-        "Species richness",
-        "Restoration ecology",
-        "Steppe",
-        "Biomass (ecology)",
-        "Ecosystem",
-        "Primary production",
-        "Plant community"
       ]
     },
     {
@@ -22501,33 +22567,6 @@
         "Bryophyte",
         "Spatial heterogeneity",
         "Gamma diversity"
-      ]
-    },
-    {
-      "doi": "10.1111/1365-2664.70325",
-      "doi_url": "https://doi.org/10.1111/1365-2664.70325",
-      "title": "Long‐term monitoring reveals how pondscape connectivity shapes the early spread of a biological invasion",
-      "journal_id": "journal-of-applied-ecology",
-      "journal_name": "Journal of Applied Ecology",
-      "journal_short_name": "Journal of Applied Ecology",
-      "published_date": "2026-03-11",
-      "published_date_display": "2026-03-11",
-      "published_parts": [
-        2026,
-        3,
-        11
-      ],
-      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70325",
-      "abstract": "Abstract Biological invasions drive biodiversity loss and ecosystem degradation, highlighting the need to better understand the mechanisms underlying their spread. This is particularly relevant during early invasion stages, when populations transition from local establishments to regional advancing fronts. Although interactions among local demographic processes and landscape‐scale dispersal have been repeatedly proposed as key drivers of invasion expansion, integrated empirical evidence remains scarce. We analysed the early invasion dynamics of the American bullfrog ( Aquarana catesbeiana ), a globally invasive aquatic anuran, across a pondscape in the Pampas grasslands of Uruguay. Using an 11‐year monitoring programme (2012–2022), which captured the onset and early expansion of the invasion, we assessed how landscape connectivity, source population abundance and environmental variables influenced the initial spatial expansion of the invasion process using the graph theory approach. The number of invaded ponds increased at an annual rate of 7.7% over the study period. A binomial model of invasion probability showed that connectivity to previously invaded ponds interacted with bullfrog abundance to determine invasion probability. Ponds connected to invaded sites with intermediate bullfrog abundances exhibited the highest invasion likelihood, with colonization odds more than twice those associated with connections to low‐abundance sites, whereas connections to high‐abundance sites had more moderate effects. These results indicate that intermediate‐abundance populations maximize invasion spread by generating higher propagule pressure, whereas high‐abundance populations may experience density‐dependent constraints that limit dispersal and recruitment. Synthesis and applications . Our results show that invasion risk emerges from the interaction between landscape connectivity and local population demography. For invasive species with complex life cycles—particularly those exhibiting cannibalistic behaviour—management actions should prioritize populations with intermediate abundances that act as key sources of spread, rather than focusing exclusively on high‐density populations. Integrating population‐level processes with spatial connectivity offers a broadly applicable framework for identifying priority sites, optimizing resource allocation and improving the effectiveness of invasive species management across pond networks and other spatially structured landscapes.",
-      "keywords": [
-        "Biological dispersal",
-        "Bullfrog",
-        "Propagule pressure",
-        "Invasive species",
-        "Metapopulation",
-        "Introduced species",
-        "Biodiversity",
-        "Ecosystem"
       ]
     },
     {
@@ -26644,29 +26683,6 @@
       ]
     },
     {
-      "doi": "10.1038/s41559-026-02979-6",
-      "doi_url": "https://doi.org/10.1038/s41559-026-02979-6",
-      "title": "Angola’s northern escarpment forest is disappearing before our eyes",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-23",
-      "published_date_display": "2026-01-23",
-      "published_parts": [
-        2026,
-        1,
-        23
-      ],
-      "link": "https://www.nature.com/articles/s41559-026-02979-6",
-      "abstract": "",
-      "keywords": [
-        "Escarpment",
-        "Vegetation (pathology)",
-        "Period (music)",
-        "Terrain"
-      ]
-    },
-    {
       "doi": "10.1111/ele.70265",
       "doi_url": "https://doi.org/10.1111/ele.70265",
       "title": "Waterfowl Move Less in Heterogeneous and Human‐Populated Landscapes, With Implications for Spread of Avian Influenza Viruses",
@@ -26825,34 +26841,6 @@
         "Species richness",
         "Proxy (statistics)",
         "Adaptation (eye)"
-      ]
-    },
-    {
-      "doi": "10.1038/s41559-025-02964-5",
-      "doi_url": "https://doi.org/10.1038/s41559-025-02964-5",
-      "title": "Global evidence that plant diversity suppresses pests and promotes plant performance and crop production",
-      "journal_id": "nature-ecology-evolution",
-      "journal_name": "Nature Ecology & Evolution",
-      "journal_short_name": "Nature Ecology & Evolution",
-      "published_date": "2026-01-20",
-      "published_date_display": "2026-01-20",
-      "published_parts": [
-        2026,
-        1,
-        20
-      ],
-      "link": "https://www.nature.com/articles/s41559-025-02964-5",
-      "abstract": "",
-      "keywords": [
-        "Intercropping",
-        "Crop diversity",
-        "Productivity",
-        "Diversification (marketing strategy)",
-        "Crop",
-        "Agricultural diversification",
-        "Agriculture",
-        "Plant diversity",
-        "Agricultural biodiversity"
       ]
     },
     {
