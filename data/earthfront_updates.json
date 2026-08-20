@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:00:46.370840+00:00",
+  "generated_at": "2026-08-20T22:01:55.391164+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,42 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41893-026-01901-z",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01901-z",
+      "title": "Diversity of circular economies from Global South evidence",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01901-z",
+      "abstract": "Abstract The circular economy (CE) is widely viewed as a key global lever for sustainable resource use. However, CE conceptualizations have focused mostly on high resource use in the Global North, largely neglecting the drivers, solutions and enablers of circularity in the socio-economic contexts of the Global South. Here, based on a systematic review of 183 peer-reviewed articles, we assess how CE manifests in the Global South. We find circular solutions to be considerably more bottom-up, centring around community-level and often informal practices rather than the top-down, policy and industrially driven activities that dominate the Global North-informed CE literature. CE motivations similarly differ, being primarily rooted in socio-economic needs and cultural practices rather than environmental concerns. Finally, CE enablers are often based on socially and technically adaptive approaches rather than technological innovation. These differences reveal that inclusive circular pathways for sustainable development depend strongly on context, suggesting the need for more flexible and empirically grounded CE concepts.",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41558-026-02725-7",
+      "doi_url": "https://doi.org/10.1038/s41558-026-02725-7",
+      "title": "Developing double materiality for climate-related financial policy",
+      "journal_id": "nature-climate-change",
+      "journal_name": "Nature Climate Change",
+      "journal_short_name": "Nature Climate Change",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        8,
+        20
+      ],
+      "link": "https://www.nature.com/articles/s41558-026-02725-7",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41558-026-02727-5",
       "doi_url": "https://doi.org/10.1038/s41558-026-02727-5",
@@ -17110,33 +17146,6 @@
         "Natural (archaeology)",
         "Climate change",
         "Current (fluid)"
-      ]
-    },
-    {
-      "doi": "10.1038/s41558-025-02527-3",
-      "doi_url": "https://doi.org/10.1038/s41558-025-02527-3",
-      "title": "Building material stock drives embodied carbon emissions and risks future climate goals in China",
-      "journal_id": "nature-climate-change",
-      "journal_name": "Nature Climate Change",
-      "journal_short_name": "Nature Climate Change",
-      "published_date": "2026-01-02",
-      "published_date_display": "2026-01-02",
-      "published_parts": [
-        2026,
-        1,
-        2
-      ],
-      "link": "https://www.nature.com/articles/s41558-025-02527-3",
-      "abstract": "",
-      "keywords": [
-        "Urbanization",
-        "Stock (firearms)",
-        "China",
-        "Climate change",
-        "Per capita",
-        "Carbon stock",
-        "Global warming",
-        "Urban planning"
       ]
     },
     {
