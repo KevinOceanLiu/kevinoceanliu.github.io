@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:01:55.391164+00:00",
+  "generated_at": "2026-08-21T21:59:47.317974+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,78 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1038/s41893-026-01925-5",
+      "doi_url": "https://doi.org/10.1038/s41893-026-01925-5",
+      "title": "Contributions of traffic to daily PM2.5 exposure and links to cancer mortality",
+      "journal_id": "nature-sustainability",
+      "journal_name": "Nature Sustainability",
+      "journal_short_name": "Nature Sustainability",
+      "published_date": "2026-08-21",
+      "published_date_display": "2026-08-21",
+      "published_parts": [
+        2026,
+        8,
+        21
+      ],
+      "link": "https://www.nature.com/articles/s41893-026-01925-5",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02078-y",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02078-y",
+      "title": "Uncertain internal variability in Arctic warming",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-21",
+      "published_date_display": "2026-08-21",
+      "published_parts": [
+        2026,
+        8,
+        21
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02078-y",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02077-z",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02077-z",
+      "title": "Reply to: Uncertain internal variability in Arctic warming",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-21",
+      "published_date_display": "2026-08-21",
+      "published_parts": [
+        2026,
+        8,
+        21
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02077-z",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1038/s41561-026-02038-6",
+      "doi_url": "https://doi.org/10.1038/s41561-026-02038-6",
+      "title": "Renewable energy droughts amplify the risk of extreme air pollution in China",
+      "journal_id": "nature-geoscience",
+      "journal_name": "Nature Geoscience",
+      "journal_short_name": "Nature Geoscience",
+      "published_date": "2026-08-21",
+      "published_date_display": "2026-08-21",
+      "published_parts": [
+        2026,
+        8,
+        21
+      ],
+      "link": "https://www.nature.com/articles/s41561-026-02038-6",
+      "abstract": "",
+      "keywords": []
+    },
     {
       "doi": "10.1038/s41893-026-01901-z",
       "doi_url": "https://doi.org/10.1038/s41893-026-01901-z",
@@ -1159,6 +1231,57 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101803",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101803",
+      "title": "Who pays for food? Rethinking agri-food system externalities and power after EAT-Lancet 2.0",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002046",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101809",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101809",
+      "title": "What will it take? Voices on just and feasible food systems",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002101",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101810",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101810",
+      "title": "Under pressure",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002113",
+      "abstract": "",
+      "keywords": []
+    },
+    {
       "doi": "10.1016/j.oneear.2026.101780",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101780",
       "title": "Toward actionable planetary boundary intelligence",
@@ -1181,6 +1304,91 @@
         "Earth system science",
         "Planetary exploration"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101802",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101802",
+      "title": "Re-balancing power and profit: Fiscal measures for healthier and sustainable food systems",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002034",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101744",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101744",
+      "title": "Power plants: Engineering biomass crops as oil factories",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001454",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101784",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101784",
+      "title": "How hard are hard-to-abate sectors? Rethinking industrial decarbonization pathways",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001855",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101805",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101805",
+      "title": "Global mercury flows unveil how intersectoral transfers shape emission dynamics and drive re-emissions",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600206X",
+      "abstract": "",
+      "keywords": []
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101807",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101807",
+      "title": "Future-Proof Plating",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002083",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1016/j.oneear.2026.101781",
@@ -1209,6 +1417,23 @@
         "Agricultural soil science",
         "Soil quality"
       ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101806",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101806",
+      "title": "A gender-just food systems transition",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-08-01",
+      "published_date_display": "2026-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002071",
+      "abstract": "",
+      "keywords": []
     },
     {
       "doi": "10.1038/s41561-026-02049-3",
@@ -1588,11 +1813,12 @@
         "Permafrost",
         "Thermokarst",
         "Taiga",
-        "Canopy",
         "Boreal",
+        "Canopy",
         "Deciduous",
         "Evergreen",
-        "Biomass (ecology)"
+        "Biomass (ecology)",
+        "Hydrology (agriculture)"
       ]
     },
     {
@@ -3337,7 +3563,7 @@
       "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
-        7
+        8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600179X",
       "abstract": "",
@@ -3387,7 +3613,7 @@
       "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
-        7
+        8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001533",
       "abstract": "The rise of marine heat waves threatens coral reefs, potentially outpacing adaptation. Managing reef seascapes to support thermal evolution is well recognized, but specific actions and site prioritizations are only emerging. We present an operational framework that leverages heat-wave exposure and larval dispersal patterns to create reef functional units with distinct roles and management needs. Using the Great Barrier Reef, we explore the emergent management portfolio and find complementary regional priorities: protection and outplanting for assisted evolution are prioritized in southern reefs, while northern reefs serve as valuable heat-tolerant sources. Strategic, evolution-informed management is critical for reef survival as climate pressures intensify.",
@@ -3484,7 +3710,7 @@
       "published_date_display": "2026-07-01",
       "published_parts": [
         2026,
-        7
+        8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001740",
       "abstract": "",
@@ -6333,7 +6559,7 @@
       "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
-        6
+        8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001156",
       "abstract": "",
@@ -6384,7 +6610,7 @@
       "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
-        6
+        8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001417",
       "abstract": "Land management plays a critical role in climate mitigation and local water security. Reforestation, as a key land management strategy, is widely implemented to sequester carbon, and it also alters local water availability through biophysical effects. However, how the same reforestation activity affects water availability under different climate states remains unclear, a gap critical for adaptive land management and water policy. Here, we show that the hydrological consequences of reforestation depend on the background climate state. Using Earth system model simulations, we find that under a low-warming scenario, reforestation causes an insignificant increase in global mean water availability but increases spatial inequality (stronger wetting over wet regions). In contrast, under a high-warming scenario, reforestation reduces global water availability while weakening spatial inequality (drying over wet regions). A moisture budget analysis attributes these differences to circulation responses in wet regions. Our findings reveal that climate context shapes reforestation outcomes, providing practical insights for policymakers designing climate-adaptive land management strategies.",
@@ -6533,7 +6759,7 @@
       "published_date_display": "2026-06-01",
       "published_parts": [
         2026,
-        6
+        8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001491",
       "abstract": "Ensuring food security under climate change is a critical challenge for humanity. Edge effects likely play an important role in determining farm yields, as agricultural edges differ in their microenvironmental conditions and ecological processes compared with field interiors. However, the magnitude and spatial variation of such effects remain poorly understood. Here, we used the normalized difference vegetation index (NDVI) as a proxy for crop yield to estimate edge effects for two major US crops, corn and soybeans. We found that crop yields were higher near field edges in the humid eastern US and lower in the drier western US, a pattern likely driven by precipitation and surrounding land cover, especially forests. A counterfactual simulation showed that optimized edge configurations could generate annual gains of nearly 900 million USD for corn and 500 million USD for soybeans, highlighting strategic field-boundary management as an underutilized lever for enhancing yields and economic returns.",
