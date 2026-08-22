@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:41:50.773468+00:00",
+  "generated_at": "2026-08-22T22:38:01.207632+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -31,89 +31,31 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.landurbplan.2026.105775",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105775",
-      "title": "Landscape heterogeneity unequally promotes bird diversity under urbanization",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2027-01-01",
-      "published_date_display": "2027-01",
-      "published_parts": [
-        2027,
-        1
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001994",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.landurbplan.2026.105771",
-      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105771",
-      "title": "Economic benefits of urban heat mitigation by allotment gardens: the reduced cooling demand approach",
-      "journal_id": "landscape-urban-planning",
-      "journal_name": "Landscape and Urban Planning",
-      "journal_short_name": "Landscape and Urban Planning",
-      "published_date": "2027-01-01",
-      "published_date_display": "2027-01",
-      "published_parts": [
-        2027,
-        1
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001957",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.compenvurbsys.2026.102507",
-      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102507",
-      "title": "Evaluating the digital divide in public transport services: A natural language processing analysis of user experiences in Birmingham",
-      "journal_id": "computers-environment-urban-systems",
-      "journal_name": "Computers, Environment and Urban Systems",
-      "journal_short_name": "Computers, Environment and Urban Systems",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001092",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107505",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107505",
-      "title": "Uncovering hidden inequities in access to urban public spaces: A multimodal and configurational accessibility in island cities",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007377",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1016/j.cities.2026.107512",
       "doi_url": "https://doi.org/10.1016/j.cities.2026.107512",
       "title": "State entrepreneurialism and the growth-equity trade-off: Dipiao and public rental housing in Chongqing, China",
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-21",
+      "published_date_display": "2026-08-21",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007444",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Equity (law)",
+        "Debt",
+        "Corporate governance",
+        "China",
+        "Revenue",
+        "Redistribution (election)",
+        "Renting",
+        "Affordable housing",
+        "Public service"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107496",
@@ -122,32 +64,24 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-21",
+      "published_date_display": "2026-08-21",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007286",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107516",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107516",
-      "title": "Revisiting the 15-min city through accessibility assessment: A critical systematic review of FMC-based studies",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007481",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Optimism",
+        "Construal level theory",
+        "Mediation",
+        "Perspective (graphical)",
+        "Ideal (ethics)",
+        "Intervention (counseling)",
+        "Physical activity",
+        "Face (sociological concept)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107524",
@@ -156,66 +90,24 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-21",
+      "published_date_display": "2026-08-21",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007560",
       "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107536",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107536",
-      "title": "Motorcycle safety outcomes on light-segregated corridors: An observational assessment of São Paulo's Blue Lane",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007687",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107527",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107527",
-      "title": "Materialism and subjective well-being among rural migrant women in China: The mediating role of residential conditions",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007596",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.cities.2026.107499",
-      "doi_url": "https://doi.org/10.1016/j.cities.2026.107499",
-      "title": "Marrakech at the intersection: Hybrid identity and the politics of urban inclusion",
-      "journal_id": "cities",
-      "journal_name": "Cities",
-      "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007316",
-      "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Gentrification",
+        "Inclusion (mineral)",
+        "Amenity",
+        "Urban planning",
+        "Benchmark (surveying)",
+        "Regeneration (biology)",
+        "Transit-oriented development",
+        "Urban regeneration"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107473",
@@ -224,15 +116,24 @@
       "journal_id": "cities",
       "journal_name": "Cities",
       "journal_short_name": "Cities",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
+      "published_date": "2026-08-21",
+      "published_date_display": "2026-08-21",
       "published_parts": [
         2026,
         12
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007055",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Resilience (materials science)",
+        "Psychological resilience",
+        "Investment (military)",
+        "Sample (material)",
+        "Structural equation modeling",
+        "Social capital",
+        "Capital (architecture)",
+        "Public housing"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00504-1",
@@ -250,7 +151,17 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00504-1",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Methane",
+        "Natural gas",
+        "Methane emissions",
+        "Greenhouse gas",
+        "Metropolitan area",
+        "China",
+        "Air quality index",
+        "Delta",
+        "Atmospheric methane"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00500-5",
@@ -268,7 +179,13 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00500-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Stressor",
+        "Dispersion (optics)",
+        "Information system",
+        "Scattering",
+        "Population"
+      ]
     },
     {
       "doi": "10.1038/s44284-026-00498-w",
@@ -286,7 +203,42 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00498-w",
       "abstract": "Abstract Living-condition deficits remain widespread in rapidly growing cities, yet their spatial distribution is poorly measured beyond metropolitan areas, limiting progress toward Sustainable Development Goal (SDG) 11.1 on adequate, safe and affordable housing. Here we conceptualize morphological deprivation as an area-based form of disadvantage reflected in built form, residential density, road connectivity and infrastructure conditions, and generate globally comparable, neighborhood-scale estimates across 5,132 cities in Africa, Asia, and Latin America and the Caribbean. Using harmonized geospatial datasets and supervised learning trained on eight benchmark cities, we estimate that 395 million people (20.2% of the covered urban population) live in morphologically deprived neighborhoods. While relative prevalence is highest in Africa (43.6%), substantial populations are affected across all regions. Notably, over one-third (136 million) reside in small and medium-sized cities, revealing a large but underrecognized burden and underscoring the need to prioritize these cities in data, finance and policy efforts to achieve SDG 11.1.",
-      "keywords": []
+      "keywords": [
+        "Metropolitan area",
+        "Geospatial analysis",
+        "Latin Americans",
+        "Limiting",
+        "Disadvantage",
+        "Benchmark (surveying)",
+        "Urban planning",
+        "Small area estimation"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107505",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107505",
+      "title": "Uncovering hidden inequities in access to urban public spaces: A multimodal and configurational accessibility in island cities",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007377",
+      "abstract": "Ensuring spatial equity and equitable access to public spaces remains a critical challenge in contemporary urban planning, particularly in geographically constrained island cities. This study develops an integrated analytical framework to assess multimodal accessibility and spatial equity in urban public squares by combining configurational accessibility, derived from space syntax analysis, with operational accessibility, evaluated through multimodal isochrone mapping and public transport accessibility. Focusing on three representative Sardinian cities, the research examines how urban spatial configuration and transport infrastructure jointly influence accessibility across walking, cycling, and wheelchair modes, with particular attention to people with reduced mobility (PRM). Space syntax is first employed to identify spatially integrated public squares, which subsequently serve as the basis for multimodal accessibility assessment. By integrating these complementary analyses within a sequential analytical workflow, the framework enables accessibility to be interpreted from both structural and functional perspectives, providing a more comprehensive evaluation of accessibility conditions in urban public spaces. The findings demonstrate that spatial centrality alone does not guarantee inclusive accessibility, as highly integrated locations may still present substantial barriers for wheelchair users owing to infrastructural limitations. By focusing on urban public squares—an important yet comparatively understudied category of public space—the study demonstrates how the complementary interpretation of urban morphology and multimodal accessibility can reveal spatial inequalities that remain overlooked when either approach is applied independently. These findings provide evidence-based insights for promoting more inclusive planning strategies and improving accessibility to public spaces in island and regional urban contexts.",
+      "keywords": [
+        "Space syntax",
+        "Public space",
+        "Equity (law)",
+        "Public transport",
+        "Centrality",
+        "Multimodality",
+        "Urban design",
+        "Space (punctuation)"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107525",
@@ -312,6 +264,77 @@
       ]
     },
     {
+      "doi": "10.1016/j.cities.2026.107536",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107536",
+      "title": "Motorcycle safety outcomes on light-segregated corridors: An observational assessment of São Paulo's Blue Lane",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007687",
+      "abstract": "Light-segregated motorcycle facilities are expanding in motorcycle-intensive cities, yet their safety effects remain uncertain when corridors are selected because of prior traffic volume and conflict. This study evaluates São Paulo's Blue Lane using a balanced monthly panel of 12,820 normalized named-road identifiers from January 2019 to October 2025, totaling 1,051,240 road-months and 37 treated identifiers. The analysis prioritizes within-treated-road estimates with small-cluster corrections and complements them with citywide two-way fixed-effects benchmarks, event-time and pseudo‑lead diagnostics, Callaway–Sant'Anna and Sun–Abraham estimators, count models, sensitivity analyses, and a System Dynamics model. Within treated roads, the CR2 estimate was imprecise (β = 0.595; SE = 0.494; 95% CI = −0.450 to 1.640; p = 0.246), with an 80% minimum detectable effect of 1.384 motorcycles per road-month, approximately 33% of the treated-road pre-treatment mean; CR3 inference was similarly inconclusive (p = 0.265). Although the citywide TWFE estimate was positive (β = 0.902; p = 0.008), a three-month pseudo‑lead reproduced nearly the entire association (β = 0.889; p = 0.002), a twelve-month pseudo-treatment was also positive (β = 0.513; p = 0.003), and pre-treatment trends were nonparallel (p < 0.001). Heterogeneity-robust estimates were inconclusive, while severity results were specification-sensitive and underpowered. The System Dynamics model shows that lower crash risk per unit of exposure could coexist with unchanged or higher aggregate crashes if motorcycle exposure increased, but it does not establish that this occurred. Overall, the evidence does not identify a post-implementation change attributable to the Blue Lane or demonstrate reduced motorcycle crash outcomes.",
+      "keywords": [
+        "Crash",
+        "Observational study",
+        "Rollover (web design)",
+        "Traffic volume",
+        "Poison control",
+        "Estimation",
+        "Occupational safety and health",
+        "Injury prevention",
+        "Vehicle miles of travel"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107527",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107527",
+      "title": "Materialism and subjective well-being among rural migrant women in China: The mediating role of residential conditions",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007596",
+      "abstract": "",
+      "keywords": [
+        "Materialism",
+        "Rural area",
+        "Socioeconomic status",
+        "Multilevel model"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107499",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107499",
+      "title": "Marrakech at the intersection: Hybrid identity and the politics of urban inclusion",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007316",
+      "abstract": "",
+      "keywords": [
+        "Politics",
+        "Inclusion (mineral)",
+        "Identity (music)",
+        "Identity politics"
+      ]
+    },
+    {
       "doi": "10.1038/s44284-026-00501-4",
       "doi_url": "https://doi.org/10.1038/s44284-026-00501-4",
       "title": "Wildlife disease occurrence increases with changes to urban density, habitat connectivity and climate",
@@ -327,7 +350,87 @@
       ],
       "link": "https://www.nature.com/articles/s44284-026-00501-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Wildlife",
+        "Mange",
+        "Habitat",
+        "Wildlife disease",
+        "Population",
+        "Urbanization",
+        "Wildlife management",
+        "Disease"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105775",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105775",
+      "title": "Landscape heterogeneity unequally promotes bird diversity under urbanization",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2027,
+        1
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001994",
+      "abstract": "",
+      "keywords": [
+        "Urbanization",
+        "Biodiversity",
+        "Species richness",
+        "Habitat",
+        "Threatened species",
+        "Habitat destruction",
+        "Habitat fragmentation",
+        "Spatial heterogeneity",
+        "Ecosystem services"
+      ]
+    },
+    {
+      "doi": "10.1016/j.landurbplan.2026.105771",
+      "doi_url": "https://doi.org/10.1016/j.landurbplan.2026.105771",
+      "title": "Economic benefits of urban heat mitigation by allotment gardens: the reduced cooling demand approach",
+      "journal_id": "landscape-urban-planning",
+      "journal_name": "Landscape and Urban Planning",
+      "journal_short_name": "Landscape and Urban Planning",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2027,
+        1
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0169204626001957",
+      "abstract": "",
+      "keywords": [
+        "Allotment",
+        "Urban heat island",
+        "Economic impact analysis"
+      ]
+    },
+    {
+      "doi": "10.1016/j.compenvurbsys.2026.102507",
+      "doi_url": "https://doi.org/10.1016/j.compenvurbsys.2026.102507",
+      "title": "Evaluating the digital divide in public transport services: A natural language processing analysis of user experiences in Birmingham",
+      "journal_id": "computers-environment-urban-systems",
+      "journal_name": "Computers, Environment and Urban Systems",
+      "journal_short_name": "Computers, Environment and Urban Systems",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0198971526001092",
+      "abstract": "Digitalisation has transformed public transport services worldwide, yet disparities in access, skills, and outcomes continue to reinforce a digital divide in how citizens engage with these services. While previous studies have examined the digital divide in internet use and smart technologies, few have explored how these inequalities manifest in everyday interactions with digital public transport platforms, extending to citizen participation in government-provided digital services. To this end, we investigated user experiences of public transport applications in Birmingham, whose digital inclusion is disproportionate to its status as a major urban and economic hub in the UK, by analysing 4275 user reviews on public transport services collected from the Apple App Store and Google Play Store between 2016 and 2025. Using a mixed natural language processing (NLP) approach combining topic modelling and sentiment analysis, we identified key themes and emotional tones in user feedback. Results revealed three dominant topics: App Performance, Usability, and Service Satisfaction, each conceptually aligned with the access, ability, and motivation dimensions of the digital divide theory. Sentiment analysis showed generally negative evaluations, particularly around technical access barriers and satisfaction issues. By integrating user-generated data with digital divide theory, these results provide novel empirical evidence of how inequalities in digital engagement persist within digital twin planning and smart city transport systems and highlight the importance of inclusive digital design for equitable and sustainable mobility access.",
+      "keywords": [
+        "Digital divide",
+        "Public transport",
+        "Language barrier",
+        "Natural language",
+        "Public access"
+      ]
     },
     {
       "doi": "10.1016/j.cities.2026.107500",
@@ -353,6 +456,32 @@
         "Population",
         "Regional policy",
         "Decentralization"
+      ]
+    },
+    {
+      "doi": "10.1016/j.cities.2026.107516",
+      "doi_url": "https://doi.org/10.1016/j.cities.2026.107516",
+      "title": "Revisiting the 15-min city through accessibility assessment: A critical systematic review of FMC-based studies",
+      "journal_id": "cities",
+      "journal_name": "Cities",
+      "journal_short_name": "Cities",
+      "published_date": "2026-08-19",
+      "published_date_display": "2026-08-19",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0264275126007481",
+      "abstract": "Proximity-centered planning has recently attracted increasing attention. The 15-min city (FMC) and related X-minute frameworks are promoted as strategies for advancing sustainable and equitable urban development. However, limited attention has been paid to how major critiques of the FMC are reflected in empirical studies that apply the framework to accessibility assessment. Rather than evaluating accessibility outcomes, this review examines how accessibility is operationalized and assessed in FMC-based research. To address this gap, this study conducts a systematic and critical review of 149 publications and develops a structured analytical framework across five domains: operationalization and methodological design, social equity and inclusion, implementation and feasibility, governance and participation, and service quality and scale. By organizing the literature around key challenges, the review identifies persistent blind spots in FMC-based accessibility research. The findings indicate that most studies rely on a 15-min threshold, employ quantitative methods, and prioritize residential and leisure amenities, while employment and education remain underexamined. Accessibility is predominantly measured through potential and objective approaches, with limited attention to realized and subjective dimensions. Socio-demographic diversity, multimodal transport integration, stakeholder participation, and service quality are also insufficiently addressed. These findings demonstrate that current applications capture only part of the multidimensional nature of accessibility embedded in the FMC framework. By assessing how recurring critiques are reflected in accessibility assessment practices, this review provides insights for developing more inclusive and context-sensitive accessibility frameworks. Future research should prioritize context-sensitive thresholds, adaptable service classifications, multimodal integration, and participatory approaches to strengthen FMC-based accessibility assessments across diverse contexts.",
+      "keywords": [
+        "Operationalization",
+        "Scope (computer science)",
+        "Corporate governance",
+        "Equity (law)",
+        "Stakeholder",
+        "Quality (philosophy)",
+        "Citizen journalism",
+        "Systematic review"
       ]
     },
     {
