@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:36:52.433763+00:00",
+  "generated_at": "2026-08-22T21:34:11.164432+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -26,108 +26,6 @@
   ],
   "articles": [
     {
-      "doi": "10.1016/j.rse.2026.115611",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115611",
-      "title": "Integrating Landsat-based irrigation mapping and actual evapotranspiration estimates with hydrological modelling to assess regional irrigation dynamics in a large basin experiencing extreme climate variability: Towards a national operational irrigation water accounting system",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003810",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115596",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115596",
-      "title": "Beyond L-band: 0.4-2 GHz wideband radiometry for observing surface salinity in cold seawater",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003664",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115626",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115626",
-      "title": "A synergistic thermal framework for monitoring, quantifying, and classifying volcanic activity from space",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-12-01",
-      "published_date_display": "2026-12",
-      "published_parts": [
-        2026,
-        12
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003962",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.08.008",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.008",
-      "title": "Wind and white: the dual controls of cold waves on surface urban heat islands in China",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003977",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.08.005",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.005",
-      "title": "RIPC: A novel FFT-Based multimodal image matching framework with radiometric, scale and rotation invariance",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003941",
-      "abstract": "",
-      "keywords": []
-    },
-    {
-      "doi": "10.1016/j.isprsjprs.2026.08.007",
-      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.007",
-      "title": "Guided diffusion-based image editing for landslide image synthesis in remote sensing change detection",
-      "journal_id": "isprs-jprs",
-      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
-      "journal_short_name": "ISPRS JPRS",
-      "published_date": "2026-10-01",
-      "published_date_display": "2026-10",
-      "published_parts": [
-        2026,
-        10
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003965",
-      "abstract": "",
-      "keywords": []
-    },
-    {
       "doi": "10.1080/24694452.2026.2708873",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2708873",
       "title": "Widening Gender Gaps in Daily Mobility? A Causal Analysis of Pandemic Impacts and Sociospatial Heterogeneity",
@@ -142,8 +40,18 @@
         21
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2708873",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Existing research has established that public health crises disproportionately affect women’s mobility, but less attention has been paid to how these gender gaps evolve dynamically over time and are shaped by sociospatial contexts. This study examines the changing nature of gendered mobility disparities through an analysis of high-resolution longitudinal mobility data from Shenzhen, China, captured over a five-month period spanning the precrisis, restriction, recovery, and stabilization phases of the first wave of COVID-19. Applying a difference-in-difference-in-differences (DDD) framework, the study evaluates causal effects across three distinct policy periods: strict restrictions, recovery, and the new normal. The results reveal a narrowing gender gap in daily mobility during the strict restriction phase, followed by a significant widening during subsequent phases relative to precrisis baselines. These effects were strongly moderated by social and built environment factors, demonstrating clear sociospatial heterogeneity. The findings highlight the role of multimodal public transport accessibility, mixed-use environments, and compact urban structure in shaping gendered mobility responses. This study underscores the importance of embedding gender-sensitive approaches into urban planning to build more equitable and resilient cities in the face of future crises.",
+      "keywords": [
+        "Pandemic",
+        "Public policy",
+        "Public transport",
+        "Public health",
+        "Affect (linguistics)",
+        "Face (sociological concept)",
+        "Mobilities",
+        "Causal model",
+        "Politics"
+      ]
     },
     {
       "doi": "10.1080/24694452.2026.2704575",
@@ -160,8 +68,92 @@
         21
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/24694452.2026.2704575",
+      "abstract": "Human–environment interactions, a classic topic in geography, suggest that individuals and their environments might shape each other. Yet the specific mechanisms underlying these interactions regarding human personality traits have not been explored. This study examines the associations between human Big Five personality traits and built environment characteristics derived from street view imagery across four cities in Texas, United States, providing a descriptive foundation for understanding these complex human–environment dynamics. By integrating fine-resolution self-reported personality assessments with computer vision analysis of urban environments, we identified significant spatial clustering of personality traits at the ZIP code level. Our regression analyses reveal that built environment features and socioeconomic characteristics explain substantial variance in personality distributions, with Openness showing the strongest model fit (R2 = 0.47), followed by Agreeableness, Conscientiousness, Extraversion, and Neuroticism. Grouped built environment categories, socioeconomic factors, and demographic composition showed trait-specific patterns of association. These findings illustrate how personality traits could be associated with physical spaces at a smaller geographic scale than previously examined. Our results provide empirical evidence for understanding the link between psychological characteristics and environmental features, which can potentially enrich geography studies from a human-centered perspective.",
+      "keywords": [
+        "Big Five personality traits",
+        "Personality",
+        "Openness to experience",
+        "Built environment",
+        "Socioeconomic status",
+        "Big Five personality traits and culture",
+        "Agreeableness",
+        "Scale (ratio)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115611",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115611",
+      "title": "Integrating Landsat-based irrigation mapping and actual evapotranspiration estimates with hydrological modelling to assess regional irrigation dynamics in a large basin experiencing extreme climate variability: Towards a national operational irrigation water accounting system",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003810",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Evapotranspiration",
+        "Irrigation",
+        "Structural basin",
+        "Hydrology (agriculture)",
+        "Irrigation statistics",
+        "Climate change",
+        "Irrigation management",
+        "Hydrological modelling"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115596",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115596",
+      "title": "Beyond L-band: 0.4-2 GHz wideband radiometry for observing surface salinity in cold seawater",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003664",
+      "abstract": "",
+      "keywords": [
+        "Radiometry",
+        "Radiometer",
+        "Radiometric dating",
+        "SSS*",
+        "Wideband",
+        "Permafrost"
+      ]
+    },
+    {
+      "doi": "10.1016/j.rse.2026.115626",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115626",
+      "title": "A synergistic thermal framework for monitoring, quantifying, and classifying volcanic activity from space",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003962",
+      "abstract": "Satellite-based monitoring of volcanic thermal activity commonly relies on Mid-InfraRed Volcanic Radiative Power (VRP MIR ), sensitive to high-temperature (≳600 K) surfaces, or on Thermal InfraRed Volcanic Radiative Power (VRP TIR ), which captures lower-temperature (≲600 K), spatially diffuse emissions. Because these approaches sample different portions of the volcanic thermal spectrum, each alone provides an incomplete view of volcanic heat release. We present a unified thermal framework that integrates these parameters with two new complementary metrics, namely the Total Volcanic Radiative Power (VRP Tot ), derived from combined MIR and TIR signals, and the VRP Ratio (VRP MIR / VRP TIR ), a dimensionless proxy for effective temperature, capturing thermal structure independently of the feature's size. Synthetic modelling and satellite observations show that this integrated approach enables discrimination between different types of volcanic activity and suggest that existing MIR-only inventories underestimate total heat release by factors of 2–20, implying substantial upward revisions to global volcanic heat budgets. Application of the framework at Sabancaya volcano reveals precursory evidence months before the November 2016 eruption that is invisible in single-band observations. We envisage that this simple, transferable methodology will enable a revision of global volcanic thermal budgets and will provide enhanced capability for volcano monitoring and detection of thermal precursors.",
+      "keywords": [
+        "Volcano",
+        "Thermal",
+        "Radiative transfer",
+        "Thermal infrared",
+        "Satellite",
+        "Volcanic ash",
+        "Lava"
+      ]
     },
     {
       "doi": "10.1080/13658816.2026.2717629",
@@ -178,8 +170,94 @@
         20
       ],
       "link": "https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2717629",
+      "abstract": "The United Nations’ Sustainable Development Goals (SDGs) provide a universal framework for addressing global resource and environmental challenges. However, most existing assessments rely on historical statistical data at coarse scales, often overlooking the explicit spatial dimension and the dynamic interactions between land-use change and infrastructure expansion. To address this, we developed GeoSDG, an integrated modeling toolkit that couples cellular automata (CA) models of land-use and infrastructure change with a spatial SDG assessment framework. Unlike traditional static approaches, GeoSDG captures the co-evolution of land use and urban infrastructure, achieving satisfactory simulation performance (Figure of Merit: 0.128 for land use, 0.263 for infrastructure). By evaluating 27 indicators across ten land-related SDGs, the framework is broadly consistent with established UN SDG assessment principles. Applying GeoSDG to the Yangtze River Delta from 2020 to 2050 under multiple Shared Socioeconomic Pathways (SSPs), our results reveal substantial spatial heterogeneity and identify approximately 10% of the land area as high-priority zones for targeted intervention. These findings highlight rapidly growing urban areas and provide pathway-specific policy recommendations to support progress towards the 2030 and 2050 sustainability targets.",
+      "keywords": [
+        "Sustainability",
+        "Sustainable development",
+        "Context (archaeology)",
+        "Land use",
+        "Resource (disambiguation)",
+        "Dimension (graph theory)",
+        "Urban planning",
+        "Spatial contextual awareness"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.008",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.008",
+      "title": "Wind and white: the dual controls of cold waves on surface urban heat islands in China",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003977",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Urban heat island",
+        "Daytime",
+        "Albedo (alchemy)",
+        "Snow",
+        "Precipitation",
+        "Heat wave",
+        "Subtropics",
+        "Global wind patterns"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.005",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.005",
+      "title": "RIPC: A novel FFT-Based multimodal image matching framework with radiometric, scale and rotation invariance",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003941",
+      "abstract": "",
+      "keywords": [
+        "Phase congruency",
+        "Rotation (mathematics)",
+        "Autocorrelation",
+        "Phase correlation",
+        "Invariant (physics)",
+        "Matching (statistics)",
+        "Transformation (genetics)",
+        "Image registration",
+        "Pattern recognition (psychology)",
+        "Image matching"
+      ]
+    },
+    {
+      "doi": "10.1016/j.isprsjprs.2026.08.007",
+      "doi_url": "https://doi.org/10.1016/j.isprsjprs.2026.08.007",
+      "title": "Guided diffusion-based image editing for landslide image synthesis in remote sensing change detection",
+      "journal_id": "isprs-jprs",
+      "journal_name": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "journal_short_name": "ISPRS JPRS",
+      "published_date": "2026-08-20",
+      "published_date_display": "2026-08-20",
+      "published_parts": [
+        2026,
+        10
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0924271626003965",
+      "abstract": "Landslide change detection (CD) based on supervised learning plays an important role in natural disaster monitoring and post-disaster assessment. However, its performance is often limited by the scarcity of high-quality landslide change datasets. Even within existing datasets, many image regions contain no landslide changes and thus provide limited supervision for learning landslide change patterns. Furthermore, existing models are often difficult to apply directly to new landslide scenarios, where labeled samples are usually insufficient for effective model training. To address these issues, this paper proposes a task-oriented guided landslide synthesis framework for landslide CD, which converts non-landslide samples into positive landslide-change samples via image editing, thereby alleviating the shortage of positive samples for supervised CD training. Specifically, we introduce a diffusion-based Guided Landslide Generator (GLG) that integrates landslide-specific textual prompts and spatio-temporal metadata to guide landslide appearance generation, moving beyond conventional generic prompt-guided synthesis. In addition, DEM-informed masks are employed in the editing process to constrain the spatial geometry of the generated landslides and improve terrain consistency. Experiments on the large-scale GVLM dataset demonstrate that the proposed method generates diverse and realistic landslide appearances and improves CD performance across multiple networks, with a maximum IoU gain of 2.08 percentage points over the baseline without synthetic data. On the newly constructed HHDL dataset, the synthesized data also improve few-shot CD accuracy, with a maximum IoU gain of 3.63 percentage points over the corresponding baseline, validating the effectiveness of the proposed method. The related code and dataset will be available at https://github.com/yixin28/HHDL-Dataset .",
+      "keywords": [
+        "Change detection",
+        "Landslide",
+        "Image (mathematics)",
+        "Image synthesis",
+        "Image processing"
+      ]
     },
     {
       "doi": "10.1016/j.isprsjprs.2026.08.006",
