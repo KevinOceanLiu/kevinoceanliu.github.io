@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:59:47.317974+00:00",
+  "generated_at": "2026-08-22T21:58:11.460756+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -41,7 +41,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01925-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Cancer",
+        "Confidence interval",
+        "Socioeconomic status",
+        "Public health",
+        "Mortality rate",
+        "Brain cancer",
+        "Air pollution",
+        "Epidemiology"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02078-y",
@@ -59,7 +68,16 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02078-y",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Arctic",
+        "The arctic",
+        "Sea ice",
+        "Global warming",
+        "Arctic ice pack",
+        "Arctic sea ice decline",
+        "Sea surface temperature",
+        "Cryosphere"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02077-z",
@@ -77,7 +95,15 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02077-z",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Arctic",
+        "Global warming",
+        "The arctic",
+        "Earth system science",
+        "Climate model",
+        "Climate change",
+        "Global climate"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02038-6",
@@ -95,7 +121,15 @@
       ],
       "link": "https://www.nature.com/articles/s41561-026-02038-6",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Renewable energy",
+        "China",
+        "Air pollution",
+        "Electricity generation",
+        "Pollution",
+        "Electricity",
+        "Energy development"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01901-z",
@@ -113,7 +147,16 @@
       ],
       "link": "https://www.nature.com/articles/s41893-026-01901-z",
       "abstract": "Abstract The circular economy (CE) is widely viewed as a key global lever for sustainable resource use. However, CE conceptualizations have focused mostly on high resource use in the Global North, largely neglecting the drivers, solutions and enablers of circularity in the socio-economic contexts of the Global South. Here, based on a systematic review of 183 peer-reviewed articles, we assess how CE manifests in the Global South. We find circular solutions to be considerably more bottom-up, centring around community-level and often informal practices rather than the top-down, policy and industrially driven activities that dominate the Global North-informed CE literature. CE motivations similarly differ, being primarily rooted in socio-economic needs and cultural practices rather than environmental concerns. Finally, CE enablers are often based on socially and technically adaptive approaches rather than technological innovation. These differences reveal that inclusive circular pathways for sustainable development depend strongly on context, suggesting the need for more flexible and empirically grounded CE concepts.",
-      "keywords": []
+      "keywords": [
+        "Circular economy",
+        "Diversity (politics)",
+        "Global South",
+        "Resource (disambiguation)",
+        "Sustainability",
+        "Sustainable development",
+        "Planetary boundaries",
+        "Resource efficiency"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02725-7",
@@ -131,7 +174,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02725-7",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Materiality (auditing)",
+        "CLARITY",
+        "Financial policy",
+        "Financial instrument",
+        "Climate policy",
+        "Financial services",
+        "Public policy"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02727-5",
@@ -149,7 +200,15 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02727-5",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Adaptation (eye)",
+        "Climate justice",
+        "Climate change",
+        "Climate change adaptation",
+        "Function (biology)",
+        "Economic Justice",
+        "Environmental justice"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02728-4",
@@ -167,7 +226,14 @@
       ],
       "link": "https://www.nature.com/articles/s41558-026-02728-4",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Adaptation (eye)",
+        "Economic Justice",
+        "Climate change adaptation",
+        "Climate justice",
+        "Heat stress",
+        "Informal sector"
+      ]
     },
     {
       "doi": "10.1038/s41558-026-02717-7",
@@ -184,8 +250,16 @@
         19
       ],
       "link": "https://www.nature.com/articles/s41558-026-02717-7",
-      "abstract": "",
-      "keywords": []
+      "abstract": "Strengthening the connection between physical climate science and adaptation communities is essential for producing actionable, integrated risk information. Here we present a climate impact taxonomy linking 35 climatic impact-drivers to 8 representative key risks, with metadata on climate impact characteristics, relevant subsystems and adaptation–mitigation linkages. This prototype taxonomy enables researchers, practitioners and policymakers to develop adaptation strategies and direct support towards the most urgent, evidence-based priorities across IPCC-aligned dimensions. Adaptation to climate risks requires integrating knowledge across IPCC working groups. This study presents a climate impact taxonomy that connects climatic impact-drivers from Working Group I to representative key risks from Working Group II and provides more direct guidance for risk assessment and adaptation strategies.",
+      "keywords": [
+        "Operationalization",
+        "Taxonomy (biology)",
+        "Adaptation (eye)",
+        "Climate change",
+        "Metadata",
+        "Climate science",
+        "Climate change adaptation"
+      ]
     },
     {
       "doi": "10.1038/s41893-026-01878-9",
@@ -1238,14 +1312,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002046",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Power (physics)",
+        "Externality",
+        "Government (linguistics)",
+        "Production (economics)",
+        "Action (physics)"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101809",
@@ -1255,14 +1335,22 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002101",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Food systems",
+        "Government (linguistics)",
+        "Sustainability",
+        "Food security",
+        "Action (physics)",
+        "Food policy",
+        "Public policy"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101810",
@@ -1272,14 +1360,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002113",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Commission",
+        "Work (physics)",
+        "Power (physics)",
+        "Inequality",
+        "Economic Justice"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101780",
@@ -1313,14 +1407,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002034",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Power (physics)",
+        "Food supply",
+        "Sustainability",
+        "Food systems",
+        "Food security"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101744",
@@ -1330,14 +1430,20 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001454",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Biomass (ecology)",
+        "Power (physics)",
+        "Production (economics)",
+        "Renewable energy",
+        "Diesel fuel"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101784",
@@ -1347,14 +1453,19 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001855",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Industrial Revolution",
+        "Joule (programming language)",
+        "Key (lock)",
+        "Industrial production"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101805",
@@ -1364,14 +1475,19 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600206X",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Mercury (programming language)",
+        "Dynamics (music)",
+        "System dynamics",
+        "Field (mathematics)"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101807",
@@ -1381,14 +1497,21 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002083",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Context (archaeology)",
+        "Foregrounding",
+        "Work (physics)",
+        "Plating (geology)",
+        "Greenhouse gas",
+        "Food systems"
+      ]
     },
     {
       "doi": "10.1016/j.oneear.2026.101781",
@@ -1426,14 +1549,21 @@
       "journal_name": "One Earth",
       "journal_short_name": "One Earth",
       "published_date": "2026-08-01",
-      "published_date_display": "2026-08",
+      "published_date_display": "2026-08-01",
       "published_parts": [
         2026,
         8
       ],
       "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226002071",
       "abstract": "",
-      "keywords": []
+      "keywords": [
+        "Transition (genetics)",
+        "Food systems",
+        "Production (economics)",
+        "Inequality",
+        "Food supply",
+        "Food processing"
+      ]
     },
     {
       "doi": "10.1038/s41561-026-02049-3",
@@ -1819,6 +1949,32 @@
         "Evergreen",
         "Biomass (ecology)",
         "Hydrology (agriculture)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101778",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101778",
+      "title": "Nanoconfined single-atom catalysis enables long-lived hydroxyl radicals for low-cost, versatile on-site water purification",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-24",
+      "published_date_display": "2026-07-24",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600179X",
+      "abstract": "",
+      "keywords": [
+        "Catalysis",
+        "Radical",
+        "Hydrogen peroxide",
+        "Adsorption",
+        "Redox",
+        "Hydroxyl radical",
+        "Zeolite",
+        "Oxygen"
       ]
     },
     {
@@ -2539,6 +2695,29 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101773",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101773",
+      "title": "E-fuels can cut battery material demand by up to 9-fold but create new dilemmas for UK net-zero transport",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-16",
+      "published_date_display": "2026-07-16",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001740",
+      "abstract": "",
+      "keywords": [
+        "Battery (electricity)",
+        "Work (physics)",
+        "Production (economics)",
+        "Supply and demand",
+        "Flexibility (engineering)"
+      ]
+    },
+    {
       "doi": "10.1038/s41893-026-01850-7",
       "doi_url": "https://doi.org/10.1038/s41893-026-01850-7",
       "title": "Evidence and limits of restitution",
@@ -3032,6 +3211,32 @@
         "Total organic carbon",
         "Limiting oxygen concentration",
         "Hydrology (agriculture)"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101752",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101752",
+      "title": "Leveraging thermal regimes and connectivity networks to promote evolutionary adaptation across coral reef seascapes",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-07-09",
+      "published_date_display": "2026-07-09",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001533",
+      "abstract": "The rise of marine heat waves threatens coral reefs, potentially outpacing adaptation. Managing reef seascapes to support thermal evolution is well recognized, but specific actions and site prioritizations are only emerging. We present an operational framework that leverages heat-wave exposure and larval dispersal patterns to create reef functional units with distinct roles and management needs. Using the Great Barrier Reef, we explore the emergent management portfolio and find complementary regional priorities: protection and outplanting for assisted evolution are prioritized in southern reefs, while northern reefs serve as valuable heat-tolerant sources. Strategic, evolution-informed management is critical for reef survival as climate pressures intensify.",
+      "keywords": [
+        "Coral reef",
+        "Biological dispersal",
+        "Reef",
+        "Great barrier reef",
+        "Adaptation (eye)",
+        "Climate change",
+        "Coral reef protection",
+        "Coral bleaching"
       ]
     },
     {
@@ -3553,32 +3758,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.oneear.2026.101778",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101778",
-      "title": "Nanoconfined single-atom catalysis enables long-lived hydroxyl radicals for low-cost, versatile on-site water purification",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S259033222600179X",
-      "abstract": "",
-      "keywords": [
-        "Catalysis",
-        "Radical",
-        "Hydrogen peroxide",
-        "Adsorption",
-        "Redox",
-        "Hydroxyl radical",
-        "Zeolite",
-        "Oxygen"
-      ]
-    },
-    {
       "doi": "10.1016/j.oneear.2026.101772",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101772",
       "title": "Microbial foods as scalable platforms toward a circular protein economy for sustainable nutrition",
@@ -3600,32 +3779,6 @@
         "Food supply",
         "Food systems",
         "Food industry"
-      ]
-    },
-    {
-      "doi": "10.1016/j.oneear.2026.101752",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101752",
-      "title": "Leveraging thermal regimes and connectivity networks to promote evolutionary adaptation across coral reef seascapes",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001533",
-      "abstract": "The rise of marine heat waves threatens coral reefs, potentially outpacing adaptation. Managing reef seascapes to support thermal evolution is well recognized, but specific actions and site prioritizations are only emerging. We present an operational framework that leverages heat-wave exposure and larval dispersal patterns to create reef functional units with distinct roles and management needs. Using the Great Barrier Reef, we explore the emergent management portfolio and find complementary regional priorities: protection and outplanting for assisted evolution are prioritized in southern reefs, while northern reefs serve as valuable heat-tolerant sources. Strategic, evolution-informed management is critical for reef survival as climate pressures intensify.",
-      "keywords": [
-        "Coral reef",
-        "Biological dispersal",
-        "Reef",
-        "Great barrier reef",
-        "Adaptation (eye)",
-        "Climate change",
-        "Coral reef protection",
-        "Coral bleaching"
       ]
     },
     {
@@ -3697,29 +3850,6 @@
         "Biodiversity conservation",
         "Work (physics)",
         "Government (linguistics)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.oneear.2026.101773",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101773",
-      "title": "E-fuels can cut battery material demand by up to 9-fold but create new dilemmas for UK net-zero transport",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-07-01",
-      "published_date_display": "2026-07-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001740",
-      "abstract": "",
-      "keywords": [
-        "Battery (electricity)",
-        "Work (physics)",
-        "Production (economics)",
-        "Supply and demand",
-        "Flexibility (engineering)"
       ]
     },
     {
@@ -4056,6 +4186,29 @@
         "Total organic carbon",
         "Arctic",
         "Particulates"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101748",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101748",
+      "title": "Field edges enhance crop yields in wet regions but suppress yields in dry regions across the United States",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-26",
+      "published_date_display": "2026-06-26",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001491",
+      "abstract": "Ensuring food security under climate change is a critical challenge for humanity. Edge effects likely play an important role in determining farm yields, as agricultural edges differ in their microenvironmental conditions and ecological processes compared with field interiors. However, the magnitude and spatial variation of such effects remain poorly understood. Here, we used the normalized difference vegetation index (NDVI) as a proxy for crop yield to estimate edge effects for two major US crops, corn and soybeans. We found that crop yields were higher near field edges in the humid eastern US and lower in the drier western US, a pattern likely driven by precipitation and surrounding land cover, especially forests. A counterfactual simulation showed that optimized edge configurations could generate annual gains of nearly 900 million USD for corn and 500 million USD for soybeans, highlighting strategic field-boundary management as an underutilized lever for enhancing yields and economic returns.",
+      "keywords": [
+        "Crop",
+        "Field (mathematics)",
+        "Crop yield",
+        "Yield (engineering)",
+        "Field experiment"
       ]
     },
     {
@@ -5348,6 +5501,32 @@
       ]
     },
     {
+      "doi": "10.1016/j.oneear.2026.101740",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101740",
+      "title": "Reforestation increases water inequality under low warming but reduces water availability under high warming",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-15",
+      "published_date_display": "2026-06-15",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001417",
+      "abstract": "Land management plays a critical role in climate mitigation and local water security. Reforestation, as a key land management strategy, is widely implemented to sequester carbon, and it also alters local water availability through biophysical effects. However, how the same reforestation activity affects water availability under different climate states remains unclear, a gap critical for adaptive land management and water policy. Here, we show that the hydrological consequences of reforestation depend on the background climate state. Using Earth system model simulations, we find that under a low-warming scenario, reforestation causes an insignificant increase in global mean water availability but increases spatial inequality (stronger wetting over wet regions). In contrast, under a high-warming scenario, reforestation reduces global water availability while weakening spatial inequality (drying over wet regions). A moisture budget analysis attributes these differences to circulation responses in wet regions. Our findings reveal that climate context shapes reforestation outcomes, providing practical insights for policymakers designing climate-adaptive land management strategies.",
+      "keywords": [
+        "Reforestation",
+        "Context (archaeology)",
+        "Global warming",
+        "Climate change",
+        "Afforestation",
+        "Land use",
+        "Hydrology (agriculture)",
+        "Water use"
+      ]
+    },
+    {
       "doi": "10.1038/s41893-026-01854-3",
       "doi_url": "https://doi.org/10.1038/s41893-026-01854-3",
       "title": "Rooftop photovoltaic-powered electric vehicle charging for accelerated decarbonization",
@@ -5855,6 +6034,31 @@
         "Climate change",
         "Politics",
         "Political economy of climate change"
+      ]
+    },
+    {
+      "doi": "10.1016/j.oneear.2026.101714",
+      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101714",
+      "title": "Unlocking microbial potential to advance nutritious and sustainable food systems",
+      "journal_id": "one-earth",
+      "journal_name": "One Earth",
+      "journal_short_name": "One Earth",
+      "published_date": "2026-06-08",
+      "published_date_display": "2026-06-08",
+      "published_parts": [
+        2026,
+        8
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001156",
+      "abstract": "",
+      "keywords": [
+        "Food systems",
+        "Sustainable agriculture",
+        "Food processing",
+        "Food security",
+        "Microbiome",
+        "Sustainability",
+        "Production (economics)"
       ]
     },
     {
@@ -6549,31 +6753,6 @@
       ]
     },
     {
-      "doi": "10.1016/j.oneear.2026.101714",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101714",
-      "title": "Unlocking microbial potential to advance nutritious and sustainable food systems",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001156",
-      "abstract": "",
-      "keywords": [
-        "Food systems",
-        "Sustainable agriculture",
-        "Food processing",
-        "Food security",
-        "Microbiome",
-        "Sustainability",
-        "Production (economics)"
-      ]
-    },
-    {
       "doi": "10.1016/j.oneear.2026.101738",
       "doi_url": "https://doi.org/10.1016/j.oneear.2026.101738",
       "title": "Smart Wetlands",
@@ -6597,32 +6776,6 @@
         "Ecosystem",
         "Climate change",
         "New england"
-      ]
-    },
-    {
-      "doi": "10.1016/j.oneear.2026.101740",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101740",
-      "title": "Reforestation increases water inequality under low warming but reduces water availability under high warming",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001417",
-      "abstract": "Land management plays a critical role in climate mitigation and local water security. Reforestation, as a key land management strategy, is widely implemented to sequester carbon, and it also alters local water availability through biophysical effects. However, how the same reforestation activity affects water availability under different climate states remains unclear, a gap critical for adaptive land management and water policy. Here, we show that the hydrological consequences of reforestation depend on the background climate state. Using Earth system model simulations, we find that under a low-warming scenario, reforestation causes an insignificant increase in global mean water availability but increases spatial inequality (stronger wetting over wet regions). In contrast, under a high-warming scenario, reforestation reduces global water availability while weakening spatial inequality (drying over wet regions). A moisture budget analysis attributes these differences to circulation responses in wet regions. Our findings reveal that climate context shapes reforestation outcomes, providing practical insights for policymakers designing climate-adaptive land management strategies.",
-      "keywords": [
-        "Reforestation",
-        "Context (archaeology)",
-        "Global warming",
-        "Climate change",
-        "Afforestation",
-        "Land use",
-        "Hydrology (agriculture)",
-        "Water use"
       ]
     },
     {
@@ -6746,29 +6899,6 @@
         "Methane emissions",
         "Carbon flux",
         "Global warming"
-      ]
-    },
-    {
-      "doi": "10.1016/j.oneear.2026.101748",
-      "doi_url": "https://doi.org/10.1016/j.oneear.2026.101748",
-      "title": "Field edges enhance crop yields in wet regions but suppress yields in dry regions across the United States",
-      "journal_id": "one-earth",
-      "journal_name": "One Earth",
-      "journal_short_name": "One Earth",
-      "published_date": "2026-06-01",
-      "published_date_display": "2026-06-01",
-      "published_parts": [
-        2026,
-        8
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S2590332226001491",
-      "abstract": "Ensuring food security under climate change is a critical challenge for humanity. Edge effects likely play an important role in determining farm yields, as agricultural edges differ in their microenvironmental conditions and ecological processes compared with field interiors. However, the magnitude and spatial variation of such effects remain poorly understood. Here, we used the normalized difference vegetation index (NDVI) as a proxy for crop yield to estimate edge effects for two major US crops, corn and soybeans. We found that crop yields were higher near field edges in the humid eastern US and lower in the drier western US, a pattern likely driven by precipitation and surrounding land cover, especially forests. A counterfactual simulation showed that optimized edge configurations could generate annual gains of nearly 900 million USD for corn and 500 million USD for soybeans, highlighting strategic field-boundary management as an underutilized lever for enhancing yields and economic returns.",
-      "keywords": [
-        "Crop",
-        "Field (mathematics)",
-        "Crop yield",
-        "Yield (engineering)",
-        "Field experiment"
       ]
     },
     {
