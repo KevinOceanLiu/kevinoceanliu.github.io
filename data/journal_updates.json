@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:34:11.164432+00:00",
+  "generated_at": "2026-08-23T21:34:47.500426+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -25,6 +25,31 @@
     }
   ],
   "articles": [
+    {
+      "doi": "10.1016/j.rse.2026.115623",
+      "doi_url": "https://doi.org/10.1016/j.rse.2026.115623",
+      "title": "Version 2 of hourly aerosol optical centroid height (AOCH) data product from EPIC/DSCOVR in deep space",
+      "journal_id": "rse",
+      "journal_name": "Remote Sensing of Environment",
+      "journal_short_name": "RSE",
+      "published_date": "2026-08-22",
+      "published_date_display": "2026-08-22",
+      "published_parts": [
+        2026,
+        12
+      ],
+      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726003937",
+      "abstract": "",
+      "keywords": [
+        "Aerosol",
+        "Centroid",
+        "NASA Deep Space Network",
+        "Product (mathematics)",
+        "Atmospheric optics",
+        "Radiometry",
+        "Deep blue"
+      ]
+    },
     {
       "doi": "10.1080/24694452.2026.2708873",
       "doi_url": "https://doi.org/10.1080/24694452.2026.2708873",
@@ -13229,31 +13254,6 @@
         "Radar imaging",
         "Interferometric synthetic aperture radar",
         "Scale (ratio)"
-      ]
-    },
-    {
-      "doi": "10.1016/j.rse.2026.115338",
-      "doi_url": "https://doi.org/10.1016/j.rse.2026.115338",
-      "title": "A method for better mapping of susceptibility to thaw hazards in data-scarce cold regions",
-      "journal_id": "rse",
-      "journal_name": "Remote Sensing of Environment",
-      "journal_short_name": "RSE",
-      "published_date": "2026-02-26",
-      "published_date_display": "2026-02-26",
-      "published_parts": [
-        2026,
-        5
-      ],
-      "link": "https://linkinghub.elsevier.com/retrieve/pii/S0034425726001082",
-      "abstract": "",
-      "keywords": [
-        "Permafrost",
-        "Vegetation (pathology)",
-        "Hazard",
-        "Plateau (mathematics)",
-        "Field (mathematics)",
-        "Precipitation",
-        "Hazard analysis"
       ]
     },
     {
