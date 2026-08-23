@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:57:08.431182+00:00",
+  "generated_at": "2026-08-23T22:57:24.261740+00:00",
   "range_start": "2026-01-01",
   "source": "Crossref and publisher landing pages",
   "journals": [
@@ -269,6 +269,24 @@
       "keywords": []
     },
     {
+      "doi": "10.1111/ele.70449",
+      "doi_url": "https://doi.org/10.1111/ele.70449",
+      "title": "Animal Social Network Structures Across the Fast‐Slow Continuum",
+      "journal_id": "ecology-letters",
+      "journal_name": "Ecology Letters",
+      "journal_short_name": "Ecology Letters",
+      "published_date": "2026-08-23",
+      "published_date_display": "2026-08-23",
+      "published_parts": [
+        2026,
+        8,
+        23
+      ],
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/ele.70449",
+      "abstract": "ABSTRACT The fast‐slow continuum is a key axis of variation in life history strategies capturing the evolutionary trade‐off between allocation in lifespan versus reproduction. It has been suggested that social behaviour, and therefore network structure, may vary across this continuum, but formal theory remains scarce. We develop a mathematical model to examine how the rate of demographic replacement may influence emergent social network structures under a range of social preferences and modes of social inheritance. Our key finding is that rapid demographic replacement can constrain emergent social network structure. We predict that generation time determines the drivers of variation in network structures; for longer generation times, emergent network properties are primarily influenced by social preferences, whereas for shorter generation times it is social inheritance. Variation in generation time alone can lead to substantial shifts in network properties; therefore, diversity in life history strategies can help explain diversity in social network structures.",
+      "keywords": []
+    },
+    {
       "doi": "10.1086/743772",
       "doi_url": "https://doi.org/10.1086/743772",
       "title": "Comparisons of reproductive skew need to use probabilities and not B and M-index scores",
@@ -355,7 +373,17 @@
       ],
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71071",
       "abstract": "ABSTRACT Soil carbon sequestration (SC seq ) is fundamental to global climate mitigation initiatives; however, growing evidence indicates an expanding disparity between carbon (C) accumulation and its long‐term persistence. This article aims to integrate recent advances in microbial ecology, mineral biogeochemistry, and nutrient stoichiometry to examine why increases in soil C (SC) stocks do not necessarily translate into long‐term persistence. The article introduces the fragile sink framework, wherein sink durability reflects the balance between internal C throughput and the strength of stabilizing barriers. Global change drivers, including warming, elevated CO 2 (eCO 2 ), nutrient enrichment, and anthropogenic disturbance, can accelerate internal C turnover, resulting in soils that are structurally younger, more reactive, and increasingly vulnerable to rapid C loss despite stable or rising stocks. The article shows that destabilization begins at predictable vulnerability frontiers where stoichiometric gating and mineral protection are overridden, while recovery is constrained by kinetic and architectural hysteresis. Thus, it recommends a shift away from stock‐ and input‐centric C farming toward process‐centric C defense, emphasizing the protection of slow‐cycling, kinetically protected pools under increasing turnover.",
-      "keywords": []
+      "keywords": [
+        "Sink (geography)",
+        "Global change",
+        "Vulnerability (computing)",
+        "Climate change",
+        "Carbon sink",
+        "Soil carbon",
+        "Carbon sequestration",
+        "Carbon cycle",
+        "Nutrient"
+      ]
     },
     {
       "doi": "10.1086/743731",
@@ -7863,20 +7891,14 @@
       "abstract": "Abstract Although habitat heterogeneity is known to enhance local species diversity, the effects of management‐driven structural heterogeneity on understorey plant communities across spatial scales remain poorly understood, despite their crucial role for forest biodiversity and ecosystem functioning. To analyse how forest understorey plant communities respond to an enhancement of structural heterogeneity in managed forests, we established 11 experimental sites consisting of two paired forest landscapes, an untreated homogenous control and a treatment district (ESBC, Enhancement of Structural Beta‐Complexity). In treatment districts, structural heterogeneity was enhanced through different combinations of local patch‐scale manipulations of light and deadwood features, leading to greater between‐patch heterogeneity at the landscape scale. We performed a meta‐analysis across these 11 sites using a Hill‐Chao number and sample coverage standardisation framework. Gamma diversity increased across taxonomic, functional and phylogenetic facets in structurally heterogeneous forests (ESBC districts) via higher alpha diversity. This effect was positively associated with heterogeneity in light availability between forest patches, but not with their mean light availability. In contrast, we found no evidence supporting that species turnover among patches (i.e. beta diversity) significantly contributes on average to the observed increase in gamma diversity. However, both the direction and magnitude of beta diversity responses varied substantially among study sites. On average, structurally heterogeneous forests supported higher species richness for both open and closed forest habitat species. Synthesis and applications . Our findings highlight the benefits of enhancing structural heterogeneity for understorey plant diversity in managed forest landscapes. Specifically, management strategies that create a spatial mosaic of interventions, such as combining single‐tree removal with gap felling, can increase the variety of light niches among forest patches, thereby supporting the conservation of a wide range of understorey plant species, including forest specialists.",
       "keywords": [
         "Understory",
-        "Beta diversity",
+        "Spatial heterogeneity",
         "Gamma diversity",
-        "BETA (programming language)",
-        "Diversity (politics)",
-        "Plant community",
-        "Geography",
-        "Forestry",
-        "Ecology",
+        "Beta diversity",
         "Biodiversity",
-        "Biology",
-        "Political science",
-        "Ecological succession",
-        "Canopy",
-        "Computer science"
+        "Species richness",
+        "Habitat",
+        "Alpha diversity",
+        "Plant community"
       ]
     },
     {
