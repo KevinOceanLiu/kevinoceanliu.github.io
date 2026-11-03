@@ -4666,7 +4666,8 @@ select {
 }
 
 /* Keep home section titles below the navigation as the content scrolls. */
-.home-page .cv-line-section > h2 {
+.home-page .cv-line-section > h2,
+.home-page .publication-text-section > h2 {
     position: sticky;
     top: 65px;
     z-index: 1;
@@ -4676,6 +4677,26 @@ select {
     padding-left: 28px;
     padding-right: 28px;
     background: var(--page-background);
+}
+
+/* Publication headings follow the full-width content edge. */
+.home-page .publication-text-section > h2 {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Bridge the title margin and the spacing before the next publication group. */
+.home-page .publication-text-section:has(+ .publication-text-section) {
+    margin-bottom: -64px;
+}
+
+.home-page .publication-text-section:has(+ .publication-text-section)::after {
+    content: "";
+    display: block;
+    height: 64px;
+    pointer-events: none;
 }
 
 /* Bridge the 26px section padding, 18px title margin and 22px next-section padding. */
@@ -4894,7 +4915,7 @@ select {
 .news-announcement {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: stretch;
     justify-content: space-between;
     gap: var(--spacing-lg);
     width: 100%;
