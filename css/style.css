@@ -4646,7 +4646,11 @@ select {
     top: 65px;
     z-index: 1;
     display: flex;
-    background: transparent;
+    margin-left: -28px;
+    margin-right: -28px;
+    padding-left: 28px;
+    padding-right: 28px;
+    background: var(--page-background);
 }
 
 /* Bridge the 26px section padding, 18px title margin and 22px next-section padding. */
