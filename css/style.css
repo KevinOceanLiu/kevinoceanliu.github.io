@@ -274,6 +274,7 @@ body {
 }
 
 .profile-avatar-frame {
+    position: relative;
     width: 112px;
     height: 112px;
     border-radius: 50%;
@@ -4069,13 +4070,12 @@ a.link-arrow:hover,
     box-shadow: 0 1px 2px rgba(31, 35, 40, 0.08);
 }
 
-.profile-collaboration-ribbon {
-    display: block;
-    width: 156px;
-    height: 52px;
-    flex-shrink: 0;
-    margin-top: -20px;
-    margin-bottom: -10px;
+.profile-collaboration-ring {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
 }
 
 .home-intro {
@@ -4727,7 +4727,7 @@ select {
     align-self: start;
     transform: translate3d(0, 0, 0);
     backface-visibility: hidden;
-    contain: layout;
+    contain: layout paint;
 }
 
 .home-page .home-sidebar {
@@ -4864,11 +4864,6 @@ select {
     .home-page .profile-avatar-frame {
         align-self: flex-start;
         margin: 0 0 4px -16px;
-    }
-
-    .home-page .profile-collaboration-ribbon {
-        align-self: flex-start;
-        margin-left: -38px;
     }
 
     .home-page .home-intro {
