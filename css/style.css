@@ -4593,6 +4593,12 @@ select {
     box-shadow: none;
 }
 
+/* Feather only the outer edge of the portrait into the page background. */
+.home-page .profile-avatar-frame {
+    -webkit-mask-image: radial-gradient(circle closest-side, #000 84%, transparent 100%);
+    mask-image: radial-gradient(circle closest-side, #000 84%, transparent 100%);
+}
+
 .home-page .home-sidebar {
     border-radius: 0;
 }
@@ -4646,9 +4652,7 @@ select {
     top: 65px;
     z-index: 1;
     display: flex;
-    background: rgba(255, 255, 255, 0.02);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
+    background: transparent;
 }
 
 /* Bridge the 26px section padding, 18px title margin and 22px next-section padding. */
