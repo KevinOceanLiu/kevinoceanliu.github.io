@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 112 112">
   <defs>
     <linearGradient id="collaboration-gradient" x1="0" y1="56" x2="112" y2="112" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fff2a3"/>
-      <stop offset="0.45" stop-color="#f5d544"/>
-      <stop offset="1" stop-color="#d9ae20"/>
+      <stop offset="0" stop-color="#c9edff"/>
+      <stop offset="0.45" stop-color="#86c5ed"/>
+      <stop offset="1" stop-color="#65a9da"/>
     </linearGradient>
     <linearGradient id="collaboration-end-fade" x1="0" y1="56" x2="0" y2="80" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
@@ -19,7 +19,7 @@
   <g transform="rotate(60 56 56)">
     <g mask="url(#collaboration-fade)">
       <path d="M 0,56 A 56,56 0 0 0 112,56 L 94,56 A 38,38 0 0 1 18,56 Z" fill="url(#collaboration-gradient)"/>
-      <path d="M 18.5,56 A 37.5,37.5 0 0 0 93.5,56" fill="none" stroke="#fff9d0" stroke-opacity="0.3" stroke-width="0.8"/>
+      <path d="M 18.5,56 A 37.5,37.5 0 0 0 93.5,56" fill="none" stroke="#e5f6ff" stroke-opacity="0.3" stroke-width="0.8"/>
     </g>
     <text fill="#ffffff" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle" textLength="118" lengthAdjust="spacingAndGlyphs">
       <textPath href="#collaboration-text" startOffset="50%">Open to Collaboration</textPath>

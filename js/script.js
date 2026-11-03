@@ -65,16 +65,6 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Ensure email button always triggers the mail client explicitly
-const emailLink = document.querySelector('.hero-link-email');
-
-if (emailLink) {
-    emailLink.addEventListener('click', (e) => {
-        e.preventDefault();
-        window.location.href = 'mailto:haiyang.liu.q6@elms.hokudai.ac.jp';
-    });
-}
-
 // ====================
 // Home Page Language Switcher
 // ====================
