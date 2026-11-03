@@ -4646,7 +4646,9 @@ select {
     top: 65px;
     z-index: 1;
     display: flex;
-    background: var(--page-background);
+    background: rgba(255, 255, 255, 0.02);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
 }
 
 /* Bridge the 26px section padding, 18px title margin and 22px next-section padding. */
