@@ -4593,12 +4593,6 @@ select {
     box-shadow: none;
 }
 
-/* Feather only the outer edge of the portrait into the page background. */
-.home-page .profile-avatar-frame {
-    -webkit-mask-image: radial-gradient(circle closest-side, #000 84%, transparent 100%);
-    mask-image: radial-gradient(circle closest-side, #000 84%, transparent 100%);
-}
-
 .home-page .home-sidebar {
     border-radius: 0;
 }
