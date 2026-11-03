@@ -4640,6 +4640,27 @@ select {
     border-top: 1px solid var(--border-color);
 }
 
+/* Keep home section titles below the navigation as the content scrolls. */
+.home-page .cv-line-section > h2 {
+    position: sticky;
+    top: 65px;
+    z-index: 1;
+    display: flex;
+    background: var(--page-background);
+}
+
+/* Bridge the 26px section padding, 18px title margin and 22px next-section padding. */
+.home-page .cv-line-section:not(:last-child) {
+    margin-bottom: -66px;
+}
+
+.home-page .cv-line-section:not(:last-child)::after {
+    content: "";
+    display: block;
+    height: 66px;
+    pointer-events: none;
+}
+
 /* Keep the home identity panel stable during scroll. */
 .home-page > .home-layout > .home-sidebar-shell {
     position: sticky;
