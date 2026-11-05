@@ -4684,12 +4684,30 @@ select {
     background: linear-gradient(to right, var(--border-color) 0%, #ffffff 100%);
 }
 
+/* Keep the left half straight, then ease into a flowing ribbon. */
+.others-page .others-section-header {
+    position: relative;
+    isolation: isolate;
+    background: transparent;
+}
+
+.others-page .others-section-header::before {
+    content: "";
+    position: absolute;
+    inset: -8px 0;
+    z-index: -1;
+    pointer-events: none;
+    background: linear-gradient(to right, var(--ribbon-color, var(--border-color)) 0%, #ffffff 100%);
+    -webkit-mask: url("../images/heading-ribbon-mask.svg") center / 100% 100% no-repeat;
+    mask: url("../images/heading-ribbon-mask.svg") center / 100% 100% no-repeat;
+}
+
 .others-page .others-section-reading > .others-section-header {
-    background: linear-gradient(to right, #f1dedd 0%, #ffffff 100%);
+    --ribbon-color: #f1dedd;
 }
 
 .others-page .others-section-games > .others-section-header {
-    background: linear-gradient(to right, #f5edcc 0%, #ffffff 100%);
+    --ribbon-color: #f5edcc;
 }
 
 /* Place title backgrounds at the former divider with the shared 18px content gap. */
