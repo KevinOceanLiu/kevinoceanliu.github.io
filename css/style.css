@@ -4090,6 +4090,15 @@ a.link-arrow:hover,
     font-size: 14px;
 }
 
+.home-page .hero-name-line {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.home-page .hero-name-cjk,
+.home-page .hero-name-katakana {
+    font-family: FangSong, STFangsong, "仿宋", "Songti SC", "Yu Mincho", serif;
+}
+
 .hero-links {
     display: grid;
     grid-template-columns: repeat(2, 42px);
