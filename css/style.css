@@ -4703,12 +4703,12 @@ select {
 .others-page .others-section-header::before {
     content: "";
     position: absolute;
-    inset: -8px 0;
+    inset: -4px 0;
     z-index: -1;
     pointer-events: none;
     background: linear-gradient(to right, var(--ribbon-color, var(--border-color)) 0%, #ffffff 100%);
-    -webkit-mask: url("../images/heading-ribbon-mask.svg") center / 100% 100% no-repeat;
-    mask: url("../images/heading-ribbon-mask.svg") center / 100% 100% no-repeat;
+    -webkit-mask: url("../images/heading-ribbon-mask.svg?v=20261105-gentle-waves") center / 100% 100% no-repeat;
+    mask: url("../images/heading-ribbon-mask.svg?v=20261105-gentle-waves") center / 100% 100% no-repeat;
 }
 
 .others-page .others-section-reading > .others-section-header {

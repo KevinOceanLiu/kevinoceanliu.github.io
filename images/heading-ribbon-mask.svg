@@ -1,3 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 50" preserveAspectRatio="none">
-    <path d="M0 8 H480 C600 8 600 0 720 0 S880 16 1000 8 L1000 42 C880 50 840 34 720 34 S600 42 480 42 H0 Z" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 42" preserveAspectRatio="none">
+    <path d="M0 4 H480 C520 4 520 0 560 0 S600 8 640 8 S680 0 720 0 S760 8 800 8 S840 0 880 0 S920 8 960 8 C980 8 990 6 1000 4 L1000 38 C990 40 980 42 960 42 C920 42 920 34 880 34 C840 34 840 42 800 42 C760 42 760 34 720 34 C680 34 680 42 640 42 C600 42 600 34 560 34 C520 34 520 38 480 38 H0 Z" fill="white"/>
 </svg>
