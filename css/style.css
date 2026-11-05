@@ -4685,7 +4685,7 @@ select {
     margin-right: -28px;
     padding-left: 28px;
     padding-right: 28px;
-    background: var(--page-background);
+    background: linear-gradient(to right, #bfbfbf 0%, #ffffff 100%);
 }
 
 /* Publication headings follow the full-width content edge. */
