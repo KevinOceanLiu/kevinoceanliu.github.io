@@ -88,7 +88,7 @@ body {
     position: sticky;
     top: 0;
     z-index: 1000;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
 }
 
 .nav-container {
@@ -394,7 +394,7 @@ body {
 .others-section-header {
     padding-bottom: 12px;
     margin-bottom: 20px;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
 }
 
 .others-section-header h1 {
@@ -413,7 +413,7 @@ body {
 
 .others-intro,
 .journal-hero {
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
     padding-bottom: 24px;
 }
 
@@ -753,15 +753,15 @@ body {
 }
 
 .journal-entry:first-child {
-    border-top: 1px solid #d9d9d9;
+    border-top: 1px solid transparent;
 }
 
 .journal-entry:last-child {
-    border-bottom: 1px solid #d9d9d9;
+    border-bottom: 1px solid transparent;
 }
 
 .journal-entry + .journal-entry {
-    border-top: 1px solid #d9d9d9;
+    border-top: 1px solid transparent;
 }
 
 .journal-entry p {
@@ -923,7 +923,7 @@ body {
 
 .page-closing {
     width: 100%;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
     padding: 12px 12px 12px;
 }
 
@@ -993,7 +993,7 @@ body {
     margin-top: 0;
     margin-bottom: 16px;
     padding-bottom: 10px;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
 }
 
 .publication-heading {
@@ -1440,7 +1440,7 @@ body {
 .footer {
     background-color: #f5f5f7;
     padding: var(--spacing-xl) var(--spacing-md);
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
 }
 
 .footer-content {
@@ -1520,7 +1520,7 @@ body {
     text-align: center;
     color: var(--text-light);
     font-size: 14px;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
     padding-top: var(--spacing-md);
     max-width: 1200px;
     margin-left: auto;
@@ -1749,7 +1749,7 @@ a.link-arrow:hover {
 .page-header {
     padding: var(--spacing-xl) var(--spacing-md);
     background: linear-gradient(135deg, #ffffff 0%, #f5f5f7 100%);
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
 }
 
 .page-header .container {
@@ -1774,7 +1774,7 @@ a.link-arrow:hover {
 .filter-section {
     padding: var(--spacing-lg) var(--spacing-md);
     background-color: #fff;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
 }
 
 .filter-tags {
@@ -1893,7 +1893,7 @@ a.link-arrow:hover {
 
 .blog-post {
     padding: var(--spacing-xl) 0;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
     transition: all 0.3s ease;
 }
 
@@ -2311,7 +2311,7 @@ a.link-arrow:hover {
 
 .navbar {
     background-color: rgba(255, 255, 255, 0.02);
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
 }
 
 .nav-container {
@@ -2447,7 +2447,7 @@ a.link-arrow:hover {
 
 .cv-line-section + .cv-line-section {
     margin-top: 0;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
 }
 
 .cv-container-lines .cv-line-section:first-child {
@@ -2608,11 +2608,11 @@ a:focus-visible {
 .publication-text-section + .publication-text-section {
     margin-top: 28px;
     padding-top: 24px;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
 }
 
 .publication-text-section h2 {
-    margin-bottom: 12px;
+    margin-bottom: 18px;
 }
 
 .publication-text-list {
@@ -2664,7 +2664,7 @@ a:focus-visible {
 }
 
 .page-closing {
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
     background: var(--page-background);
     padding: 22px 12px 26px;
 }
@@ -3046,7 +3046,7 @@ a.link-arrow:hover,
     flex: none;
     height: 156px;
     background: #fff;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid transparent;
 }
 
 .others-card-image {
@@ -3188,7 +3188,7 @@ a.link-arrow:hover,
     grid-template-columns: 154px minmax(0, 1fr);
     min-height: 128px;
     border: 0;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
     border-radius: 0;
     background: transparent;
 }
@@ -3197,7 +3197,7 @@ a.link-arrow:hover,
     height: auto;
     min-height: 128px;
     border: 0;
-    border-right: 1px solid var(--border-color);
+    border-right: 1px solid transparent;
     background: #fff;
 }
 
@@ -3585,7 +3585,7 @@ a.link-arrow:hover,
     display: grid;
     grid-template-columns: repeat(2, minmax(120px, 1fr));
     width: 100%;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
     color: var(--text-color);
     font-family: var(--font-family);
     font-size: 16px;
@@ -3610,7 +3610,7 @@ a.link-arrow:hover,
 
 .game-history {
     width: 100%;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
     color: var(--text-color);
     font-family: var(--font-family);
     font-size: 16px;
@@ -3763,7 +3763,7 @@ a.link-arrow:hover,
     justify-content: space-between;
     gap: 18px;
     min-height: 32px;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
     color: #000;
 }
 
@@ -4003,7 +4003,7 @@ a.link-arrow:hover,
 }
 
 .journal-entry + .journal-entry {
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
 }
 
 @media (max-width: 768px) {
@@ -4025,7 +4025,7 @@ a.link-arrow:hover,
         height: 132px;
         min-height: 0;
         border-right: 0;
-        border-bottom: 1px solid var(--border-color);
+        border-bottom: 1px solid transparent;
     }
 
     .others-card-copy {
@@ -4217,7 +4217,7 @@ a.link-arrow:hover,
     align-items: center;
     column-gap: 18px;
     row-gap: 8px;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
     background: transparent;
     font-family: var(--font-family);
 }
@@ -4631,7 +4631,7 @@ select {
 
 .others-page .others-card + .others-card,
 .others-page .others-card-compact + .others-card-compact {
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
 }
 
 .journal-page .journal-simple-header,
@@ -4647,7 +4647,7 @@ select {
 }
 
 .journal-page .journal-entry + .journal-entry {
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid transparent;
 }
 
 /* Let conference text set the row height while the poster preview fades out. */
@@ -4689,33 +4689,42 @@ select {
     background: linear-gradient(to right, var(--border-color) 0%, #ffffff 100%);
 }
 
-/* Inset publication content while keeping dividers and title backgrounds full width. */
+/* Place title backgrounds at the former divider with the shared 18px content gap. */
+.home-page .cv-line-section + .cv-line-section > h2 {
+    margin-top: -23px;
+}
+
+.home-page .publication-text-section + .publication-text-section > h2 {
+    margin-top: -25px;
+}
+
+/* Inset publication content while keeping title backgrounds full width. */
 .home-page .publication-text-section {
     padding-left: 28px;
     padding-right: 28px;
 }
 
-/* Bridge the title margin and the spacing before the next publication group. */
+/* Bridge the 18px title margin and 28px spacing before the next publication group. */
 .home-page .publication-text-section:has(+ .publication-text-section) {
-    margin-bottom: -64px;
+    margin-bottom: -46px;
 }
 
 .home-page .publication-text-section:has(+ .publication-text-section)::after {
     content: "";
     display: block;
-    height: 64px;
+    height: 46px;
     pointer-events: none;
 }
 
-/* Bridge the 26px section padding, 18px title margin and 22px next-section padding. */
+/* Bridge the 26px section padding and 18px title margin. */
 .home-page .cv-line-section:not(:last-child) {
-    margin-bottom: -66px;
+    margin-bottom: -44px;
 }
 
 .home-page .cv-line-section:not(:last-child)::after {
     content: "";
     display: block;
-    height: 66px;
+    height: 44px;
     pointer-events: none;
 }
 
@@ -4949,10 +4958,7 @@ select {
 
 .news-announcement > div + div {
     padding-top: calc(var(--spacing-lg) + 8px);
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='8' viewBox='0 0 16 8'%3E%3Cpath d='M0 4C2 1 6 1 8 4s6 3 8 0' fill='none' stroke='%23d6d6d6' stroke-width='1.2'/%3E%3C/svg%3E");
-    background-repeat: repeat-x;
-    background-position: top left;
-    background-size: 16px 8px;
+    background-image: none;
 }
 
 .news-announcement a {
