@@ -4684,6 +4684,14 @@ select {
     background: linear-gradient(to right, var(--border-color) 0%, #ffffff 100%);
 }
 
+.others-page .others-section-reading > .others-section-header {
+    background: linear-gradient(to right, #f1dedd 0%, #ffffff 100%);
+}
+
+.others-page .others-section-games > .others-section-header {
+    background: linear-gradient(to right, #f5edcc 0%, #ffffff 100%);
+}
+
 /* Place title backgrounds at the former divider with the shared 18px content gap. */
 .home-page .cv-line-section + .cv-line-section > h2 {
     margin-top: -23px;
