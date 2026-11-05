@@ -4692,6 +4692,12 @@ select {
 .home-page .publication-text-section > h2,
 .news-announcement time,
 .others-page .others-section-header {
+    display: flex;
+    align-items: center;
+    height: 34px;
+    min-height: 34px;
+    padding-top: 4px;
+    padding-bottom: 4px;
     background: linear-gradient(to right, var(--border-color) 0%, #ffffff 100%);
 }
 
