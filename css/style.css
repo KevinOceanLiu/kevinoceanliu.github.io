@@ -3315,7 +3315,7 @@ a.link-arrow:hover,
     display: flex;
     align-items: center;
     gap: 24px;
-    padding-left: 42px;
+    padding-left: 28px;
 }
 
 .game-icon-link {
@@ -3989,6 +3989,10 @@ a.link-arrow:hover,
     .others-page,
     .journal-page {
         max-width: none;
+    }
+
+    .game-icons-grid {
+        padding-left: 18px;
     }
 
     .others-section-header {
@@ -4947,6 +4951,7 @@ select {
 
 .news-announcement p {
     margin: 0;
+    padding: 0 28px;
 }
 
 .news-announcement > div + div {
