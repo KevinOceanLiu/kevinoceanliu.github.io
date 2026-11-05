@@ -4686,6 +4686,12 @@ select {
     margin-right: -28px;
     padding-left: 28px;
     padding-right: 28px;
+}
+
+.home-page .cv-line-section > h2,
+.home-page .publication-text-section > h2,
+.news-announcement time,
+.others-page .others-section-header {
     background: linear-gradient(to right, var(--border-color) 0%, #ffffff 100%);
 }
 
