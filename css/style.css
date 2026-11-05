@@ -4685,15 +4685,13 @@ select {
     margin-right: -28px;
     padding-left: 28px;
     padding-right: 28px;
-    background: linear-gradient(to right, #bfbfbf 0%, #ffffff 100%);
+    background: linear-gradient(to right, #cccccc 0%, #ffffff 100%);
 }
 
-/* Publication headings follow the full-width content edge. */
-.home-page .publication-text-section > h2 {
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 0;
-    padding-right: 0;
+/* Inset publication content while keeping dividers and title backgrounds full width. */
+.home-page .publication-text-section {
+    padding-left: 28px;
+    padding-right: 28px;
 }
 
 /* Bridge the title margin and the spacing before the next publication group. */
