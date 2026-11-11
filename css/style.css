@@ -4812,7 +4812,7 @@ select {
     align-self: start;
     transform: translate3d(0, 0, 0);
     backface-visibility: hidden;
-    contain: layout paint;
+    contain: layout;
 }
 
 .home-page .home-sidebar {
@@ -5065,5 +5065,50 @@ select {
     .page-with-closing > .standalone-page-layout {
         padding-left: 20px;
         padding-right: 20px;
+    }
+}
+
+/* Keep the sunflower halo outside the portrait and animate only on hover. */
+.home-page .profile-avatar-frame {
+    overflow: visible;
+    isolation: isolate;
+}
+
+.home-page .profile-avatar {
+    border-radius: inherit;
+}
+
+.home-page .profile-avatar-frame::before {
+    content: "";
+    position: absolute;
+    inset: -56px;
+    z-index: -1;
+    pointer-events: none;
+    background: url("../images/avatar-halo.svg") center / contain no-repeat;
+    opacity: 0;
+    transform-origin: center;
+    transition: opacity 280ms ease;
+    transition-duration: 280ms !important;
+    animation: avatar-halo-orbit 40s linear infinite;
+    animation-duration: 40s !important;
+    animation-play-state: paused;
+}
+
+.home-page .profile-avatar-frame:hover::before {
+    opacity: 1;
+    animation-play-state: running;
+}
+
+@keyframes avatar-halo-orbit {
+    0% { transform: rotate(0deg) scale(1); }
+    50% { transform: rotate(180deg) scale(1.035); }
+    100% { transform: rotate(360deg) scale(1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .home-page .profile-avatar-frame::before {
+        animation: none;
+        transition: none;
+        transition-duration: 0s !important;
     }
 }
