@@ -2326,7 +2326,7 @@ a.link-arrow:hover {
 }
 
 .nav-menu {
-    gap: 2rem;
+    gap: 8px;
 }
 
 .nav-menu a {
@@ -2353,7 +2353,7 @@ a.link-arrow:hover {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 112px;
+    width: 96px;
     height: 40px;
     isolation: isolate;
 }
@@ -2374,7 +2374,7 @@ a.link-arrow:hover {
 
 .navbar .nav-menu a[href$="index.html"]::before {
     background: #f1dedd;
-    border-radius: 56px 56px 6px 6px / 36px 36px 6px 6px;
+    border-radius: 48px 48px 6px 6px / 36px 36px 6px 6px;
 }
 
 .navbar .nav-menu a[href$="publications.html"]::before {
@@ -2389,8 +2389,8 @@ a.link-arrow:hover {
 
 .navbar .nav-menu a[href$="about.html"]::before {
     background: #e1ebdf;
-    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 112 40'%3E%3Cpath d='M6 5 C23 5 28 0 44 0 C65 0 78 8 106 5 Q112 4 110 10 C108 14 106 17 106 20 C106 23 108 26 110 30 Q112 36 106 35 C89 35 84 40 68 40 C47 40 34 32 6 35 Q0 36 2 30 C4 26 6 23 6 20 C6 17 4 14 2 10 Q0 4 6 5Z'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
-    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 112 40'%3E%3Cpath d='M6 5 C23 5 28 0 44 0 C65 0 78 8 106 5 Q112 4 110 10 C108 14 106 17 106 20 C106 23 108 26 110 30 Q112 36 106 35 C89 35 84 40 68 40 C47 40 34 32 6 35 Q0 36 2 30 C4 26 6 23 6 20 C6 17 4 14 2 10 Q0 4 6 5Z'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 112 40'%3E%3Cpath d='M4 4 C22 -1 38 -1 56 4 C74 9 90 9 108 4 Q112 3 112 7 V35 Q112 39 108 36 C90 41 74 41 56 36 C38 31 22 31 4 36 Q0 37 0 33 V5 Q0 1 4 4Z'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 112 40'%3E%3Cpath d='M4 4 C22 -1 38 -1 56 4 C74 9 90 9 108 4 Q112 3 112 7 V35 Q112 39 108 36 C90 41 74 41 56 36 C38 31 22 31 4 36 Q0 37 0 33 V5 Q0 1 4 4Z'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
 }
 
 .hamburger span {
