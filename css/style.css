@@ -2348,6 +2348,51 @@ a.link-arrow:hover {
     display: none;
 }
 
+/* Soft, equally sized hover shapes for the four navigation links. */
+.navbar .nav-menu a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 112px;
+    height: 40px;
+    isolation: isolate;
+}
+
+.navbar .nav-menu a::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    opacity: 0;
+}
+
+.navbar .nav-menu a:hover::before,
+.navbar .nav-menu a:focus-visible::before {
+    opacity: 1;
+}
+
+.navbar .nav-menu a[href$="index.html"]::before {
+    background: #f1dedd;
+    border-radius: 56px 56px 6px 6px / 36px 36px 6px 6px;
+}
+
+.navbar .nav-menu a[href$="publications.html"]::before {
+    background: #f5edcc;
+    border-radius: 999px;
+}
+
+.navbar .nav-menu a[href$="my-news.html"]::before {
+    background: #dfe8f1;
+    border-radius: 10px;
+}
+
+.navbar .nav-menu a[href$="about.html"]::before {
+    background: #e1ebdf;
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 112 40'%3E%3Cpath d='M6 5 C23 5 28 0 44 0 C65 0 78 8 106 5 Q112 4 110 10 C108 14 106 17 106 20 C106 23 108 26 110 30 Q112 36 106 35 C89 35 84 40 68 40 C47 40 34 32 6 35 Q0 36 2 30 C4 26 6 23 6 20 C6 17 4 14 2 10 Q0 4 6 5Z'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 112 40'%3E%3Cpath d='M6 5 C23 5 28 0 44 0 C65 0 78 8 106 5 Q112 4 110 10 C108 14 106 17 106 20 C106 23 108 26 110 30 Q112 36 106 35 C89 35 84 40 68 40 C47 40 34 32 6 35 Q0 36 2 30 C4 26 6 23 6 20 C6 17 4 14 2 10 Q0 4 6 5Z'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
+}
+
 .hamburger span {
     background-color: var(--text-color);
 }
